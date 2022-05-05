@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\08_vendrienswell\0805_bs_companion_battlesounds</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ouço a canção da batalha. Devemos nos juntar a ele de uma vez!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Você ouviu isso? A batalha já começou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Uma batalha se desenrola sem nós? Em diante!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Nó do banco5</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

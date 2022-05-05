@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\03_burninglibrary\03_qst_language_of_the_ancients</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Idioma do Anciões</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Encontre e registre sigilos localizados no Twin Rivers Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Regresso a Acália.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Fale com Jerônimo perto da Brecha na [url=glossary:blade grave]Sepultura de Lâminas[/url] Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Regresso a Acália.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Acalia vem estudando a pesquisa de Hieronymus, um companheiro [url=glossary:sage]Sábio[/url], na esperança de entender mais sobre a magia do Oldwalls. Ela precisa que você recupere informações do Oldwalls para continuar sua pesquisa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Acalia pediu para você registrar escritos específicos encontrados em Twin Rivers Oldwalls perto de [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Ela precisa de cópias de sigilos que podem ser encontrados decorando "altars" espalhados por todo o interior para avançar em sua pesquisa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Você recuperou uma quantidade suficiente da escrita encontrada no Oldwalls. Acalia está esperando para pesquisar essas novas descobertas - retorne a ela em Efígie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Acália precisa de informações que apenas Hieronymus saberia. Ele foi visto pela última vez em Oldwalls na região [url=glossary:blade grave]Sepultura de Lâminas[/url]. Depois de recuperar as informações de Hieronymus, retorne-as para Acália.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Você recuperou as pedras para Hieronymus e obteve uma cópia de suas notas para Acália. Volte para Effigy no [url=glossary:burning library]Biblioteca em chamas[/url] e dê a ela os dados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Agora que você está dentro do Oldwalls, encontre os sigilos Acália enviados para você encontrar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Hieronymus ainda não terminou sua pesquisa e pediu sua ajuda para encontrar o Pedras de Elucidação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Acalia recebeu os dados Hieronymus' e agora pode completar sua pesquisa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Acalia morreu, então sua pesquisa ficará inacabada para sempre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Você deu a Acalia todas as informações que ela precisava para continuar sua pesquisa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Acalia e o Sábios fugiram após a destruição do [url=glossary:burning library]Biblioteca em chamas[/url], tornando impossível ajudá-la com sua pesquisa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>A oportunidade de resolver esta tarefa passou.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

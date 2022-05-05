@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\03_burninglibrary\03_cv_int01_numbly_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Numbly sorri quando você se aproxima, seu grande corpo salpicado de sangue. "Sua ardil funcionou! Isso é um grupo a menos para lidar."
+
+Ele cruza os braços sobre o peito. "Agora... sobre você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Sério? Depois de tudo isso? Você realmente quer seguir esse caminho?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Já que você me ajudou, eu vou te ajudar."
+
+"Você tem duas opções - você pode sair da biblioteca agora ou você pode morrer. Porque você não vai dar mais um passo enquanto eu ainda viver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Ataque] "O que pena que é hora de morrer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Nó de script 51</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

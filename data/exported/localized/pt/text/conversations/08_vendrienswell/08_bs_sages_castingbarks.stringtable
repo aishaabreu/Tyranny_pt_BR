@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\08_vendrienswell\08_bs_sages_castingbarks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"[url=glossary:vendrien guard]Guarda Vendrien[/url], preparem-se! Devemos manter o Vinculador do Destino de volta!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Devemos manter a barreira levantada! Os sacudidores de terra irá romper se não o fizermos! "</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

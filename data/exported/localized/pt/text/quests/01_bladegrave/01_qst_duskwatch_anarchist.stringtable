@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\01_bladegrave\01_qst_duskwatch_anarchist</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Destemido</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Reúna-se com Agathon em Duskwatch</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Fortifique o Crepúsculo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Defenda o forte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Mate todos os [url=glossary:unbroken]ininterrupto[/url] em Crepúsculo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Fale com a Callias.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Mate Osmios e o [url=glossary:disfavored]Desfavorecido[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Fale com o Capitão Agathon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Fale com Callias.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Investigar o Posto de Sentinela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Fale com o [url=glossary:unbroken]ininterrupto[/url] batedor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Viajar para o Crepúsculo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>O antigo reino de Robusto está repleto de inúmeras armas arruinadas espalhadas por suas planícies devastadas. Em algum lugar no lixo enferrujado do [url=glossary:blade grave]Sepultura de Lâminas[/url] está o Destemido, um [url=glossary:unbroken]ininterrupto[/url] lâmina de lenda. [url=glossary:bleden mark]Marca de mistura[/url] disse que, se você adquiri-lo, causará medo no coração de todos que o enfrentarem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>O [url=glossary:unbroken]ininterrupto[/url] quer defender seu forte, e o [url=glossary:disfavored]Desfavorecido[/url] o quer como seu. Fale com o Capitão Agathon do [url=glossary:unbroken]ininterrupto[/url] para ajudar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Os [url=glossary:unbroken]ininterrupto[/url] precisam de ajuda para reforçar os segmentos danificados das paredes do forte. Ajude-os a restaurá-lo em ordem de combate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Os [url=glossary:disfavored]Desfavorecido[/url] começaram seu ataque a Crepúsculo. Defenda o forte de todos os atacantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Você atacou o forte em Crepúsculo. Elimine todos os [url=glossary:unbroken]ininterrupto[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Callias, um prisioneiro em Crepúsculo, pode ter as informações que você procura sobre as operações [url=glossary:unbroken]ininterrupto[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Osmios e vários soldados [url=glossary:disfavored]Desfavorecido[/url] voltaram para reivindicar Callias. Você não deve permitir que isso aconteça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10021</ID>
+      <DefaultText>Você repeliu com sucesso o ataque [url=glossary:disfavored]Desfavorecido[/url]. Encontre o Capitão Agathon no curral dos prisioneiros.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10024</ID>
+      <DefaultText>Agora que o [url=glossary:disfavored]Desfavorecido[/url] foi resolvido, é seguro falar com Callias.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10026</ID>
+      <DefaultText>Dauntless foi visto pela última vez na fortaleza de Posto de Sentinela. Viaje até lá e veja se consegue encontrar algum vestígio do artefato.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10027</ID>
+      <DefaultText>Um olheiro [url=glossary:unbroken]ininterrupto[/url] observou sua luta com o Bane no Posto de Sentinela. Fale com ele e veja se ele pode te ajudar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10028</ID>
+      <DefaultText>Janos acredita que o líder [url=glossary:unbroken]ininterrupto[/url], Mattias, pode ter procurado o Destemido recentemente. Viaje para o forte [url=glossary:unbroken]ininterrupto[/url] de Crepúsculo e fale com seu comandante interino, Agatão, para saber mais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Você decidiu não cooperar com Agatão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Você decidiu não cooperar com Osmios.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você ajudou o [url=glossary:unbroken]ininterrupto[/url] a defender sua base em Crepúsculo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Com a sua ajuda, os [url=glossary:disfavored]Desfavorecido[/url] assumiram o Crepúsculo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Embora você tenha matado todos os [url=glossary:unbroken]ininterrupto[/url] e [url=glossary:disfavored]Desfavorecido[/url] soldados em Crepúsculo. Você não encontrou o Destemido, mas descobriu que Mattias enviou [url=glossary:unbroken]ininterrupto[/url] soldados para Desfiladeiros de Ferrugem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Você matou todas as forças [url=glossary:unbroken]ininterrupto[/url] e [url=glossary:disfavored]Desfavorecido[/url] em Crepúsculo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Você decidiu tomar o forte Crepúsculo por suas próprias razões. Elimine aqueles em seu caminho e decida o que fazer a seguir em sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

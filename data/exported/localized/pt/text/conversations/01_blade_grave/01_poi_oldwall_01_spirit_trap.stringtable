@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\01_poi_oldwall_01_spirit_trap</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Sem dúvida, este é um espécime particularmente feroz... por que mais alguém se esforçaria para prendê-lo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Aquela Velha Muralha besta parece presa... pelo menos por enquanto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Que espécime geralmente grande. Está estranhamente parado - vamos torcer para que esteja preso, não apenas adormecido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Mulher Fera gostaria de lutar com um Maldito tão grande. Parece difícil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"O que em nome de [url=glossary:kyros]Kyros[/url] é isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Vamos apenas torcer para que o que estiver nessa armadilha não encontre uma saída enquanto estivermos aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Nó do banco8</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

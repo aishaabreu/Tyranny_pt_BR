@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\06_endgame\06_qst_trailofblood</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Rastro de Sangue</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Viaje para a área Rio Matani.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Mate o Juramento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Retorno à Cacofonia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Localize os Juramento que têm como alvo as Fúrias Escarlates na região [url=glossary:vendrien's well]Poço de Vendrien[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>O Juramento Vinculado foram vistos pela última vez perto de Rio Matani, não muito longe de Travessia de ecochamada. Viaje até lá e explore a área em busca de ameaças.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Limpe a unidade Juramento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Sanguinari vai querer saber que os Juramento foram mortos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você vingou o Fúria Escarlate matando todos os Juramento responsáveis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>A oportunidade de resolver esta tarefa passou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Você traiu seus aliados e não pode mais completar esta tarefa.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

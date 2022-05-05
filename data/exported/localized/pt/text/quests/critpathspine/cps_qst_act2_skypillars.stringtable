@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\critpathspine\cps_qst_act2_skypillars</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>34</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Assentos do Poder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Encontre um caminho para o Pináculo do Pôr do Sol em [url=glossary:lethian's crossing]A travessia de Lethian[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Encontre um caminho para o Aurora Spire no [url=glossary:stone sea]Mar de Pedra[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Encontre um caminho para o Ocean Spire no [url=glossary:blade grave]Sepultura de Lâminas[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Encontre um caminho para o topo do Pináculo do Oceano.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Encontre um caminho para o topo do Pináculo do Pôr do Sol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Encontre um caminho para o topo do Pináculo da Aurora.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Encontre um caminho para o topo do Pináculo do Amanhecer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Reivindique as torres restantes no Camadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Encontre um caminho para Dawning Spire no [url=glossary:stone sea]Mar de Pedra[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Você foi testemunha de sua própria habilidade única de ascender aos topos de Pináculos. Essas estruturas monolíticas servem como excelentes bases de operação. Para reforçar os esforços de guerra no Camadas, você deve procurar mais Pináculos. Talvez ao fazer isso você possa descobrir mais do mistério por trás do poder deles e por que você tem tanta afinidade com eles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>O Pináculo que reside perto do assentamento [url=glossary:lethian's crossing]A travessia de Lethian[/url] é amplamente conhecido. No entanto, as especificidades de navegar para ele não são. Talvez haja alguém lá que saiba.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Um dos Pináculos localizado no [url=glossary:stone sea]Mar de Pedra[/url] é conhecido como Pináculo da Aurora. No entanto, a região está repleta de Homens-fera, e o [url=glossary:edict]Edital[/url] de Pedra desmorona todos os caminhos conhecidos para ele. Você precisará conhecer outra rota.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Existe um Pináculo localizado na região [url=glossary:blade grave]Sepultura de Lâminas[/url], isso é muito conhecido. No entanto, devido a [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url], navegar pode ser quase impossível sem saber o caminho. Você deve viajar para o [url=glossary:blade grave]Sepultura de Lâminas[/url] e determinar um caminho seguro para o Pináculo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Você atingiu a base deste Pináculo. Mas não será tarefa fácil descobrir exatamente como ativar o teletransporte para o topo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Você atingiu a base deste Pináculo. Mas não será tarefa fácil descobrir exatamente como ativar o teletransporte para o topo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Você atingiu a base deste Pináculo. Mas não será tarefa fácil descobrir exatamente como ativar o teletransporte para o topo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>Você atingiu a base deste Pináculo. Mas não será tarefa fácil descobrir exatamente como ativar o teletransporte para o topo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10029</ID>
+      <DefaultText>Através dos níveis há um número de Pináculos que pontilham o horizonte. Os dois que você reivindicou provaram ser um recurso valioso para o esforço de guerra no Camadas, alegando que o resto deve ajudá-lo a ampliar sua conquista.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10031</ID>
+      <DefaultText>Existe um Pináculo localizado no [url=glossary:stone sea]Mar de Pedra[/url]. No entanto, devido ao [url=glossary:edict]Edital[/url] de Pedra, navegar pelos abismos da região pode ser difícil para determinar sua localização.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Você aprendeu que o Spire no [url=glossary:blade grave]Sepultura de Lâminas[/url] está localizado perto de uma Brecha no Oldwalls. Agora é apenas uma questão de como navegar pela tempestade para chegar lá.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Você aprendeu que um dos Pináculos está localizado em Gulfglow. Pergunte ao redor por pistas de como chegar lá.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Você aprendeu que um dos Pináculos está localizado em Rocha Uivante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Você foi informado de que esses estranhos glifos e símbolos no chão em [url=glossary:ascension hall]Salão da Ascensão[/url] podem estar relacionados a como ascender ao topo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Você foi informado de que esses estranhos glifos e símbolos no chão em [url=glossary:ascension hall]Salão da Ascensão[/url] podem estar relacionados a como ascender ao topo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Arason em [Plainsgate] se ofereceu para me mostrar o caminho para Apedrejar, que me levará a Rocha Uivante. Mas só se eu aceitar encontrar um tesouro para ele lá.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>A passagem que leva ao Pináculo do Pôr do Sol foi temporariamente selada devido aos recentes avistamentos do Maldito no Oldwalls. Você não pode alcançar o Pináculo neste momento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Você aprendeu que um dos Pináculos está localizado em Rocha Uivante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Você aprendeu que Centenas-Blood conhece um caminho para o Pináculo do Amanhecer, mas você deve primeiro ganhar o respeito dela para que lhe mostre o caminho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Você aprendeu o caminho para o Pináculo do Amanhecer com o Centenas-Blood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>Eldian reabriu a passagem que leva ao Torre do Sol, que pode ser acessada digitando o Oldwalls em [url=glossary:lethian's crossing]A travessia de Lethian[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você reivindicou cada Spire no Camadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>O dispositivo no topo do [url=glossary:vendrien's well]Poço de Vendrien[/url] Spire está ativo agora. No entanto, parece não responder mais a você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Depois de explorar o poder do seu segundo Pináculo, você notou um raio de energia mágica que cruza o céu, chegando ao [url=glossary:vendrien's well]Poço de Vendrien[/url] Pináculo. Lá você notou que a máquina começou a despertar. Esses Pináculos não apenas oferecem uma base de operações, mas podem servir para liberar todo o potencial do dispositivo em [url=glossary:vendrien's well]Poço de Vendrien[/url] Pináculo.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

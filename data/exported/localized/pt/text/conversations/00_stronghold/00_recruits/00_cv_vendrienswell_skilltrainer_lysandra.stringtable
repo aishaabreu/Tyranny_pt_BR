@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\00_recruits\00_cv_vendrienswell_skilltrainer_lysandra</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Sempre uma honra vê-lo, Vinculador do Destino. Interessado em uma lição?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Vinculador do Destino." Ela faz uma reverência dura. "Tenho você vem para uma aula?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Vou ouvir o que você tem para ensinar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Deixar] "Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Considere-me à sua disposição, Vinculador do Destino. O que você precisa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Vinculador do Destino, pegue!" A [url=glossary:sage]Sábio[/url] pronuncia uma sílaba baixinho, e uma bola de luz roxa dispara de suas mãos estendidas em sua direção.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Tente pegá-lo.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Não tente pegá-lo.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>A magia do [url=glossary:sage]Sábio[/url] parece uma bola de gelo, seu frio subindo em seus braços e se dispersando em seus ombros. Desagradável, se não for prejudicial. 
+
+Ela assente. "Corajoso, mas tolo. Isso pode ter cortado seu tecido tão rápido que seu esqueleto ficaria lá por dez segundos antes de você perceber que estava morto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Ela oferece um aceno agradável. "Lysandra, ao seu dispor. Eu treinei como [url=glossary:sage]Sábio[/url] no [url=glossary:vellum citadel]Cidadela de Velino[/url], mas esses dias ficaram para trás por razões óbvias."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Como você chegou até aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"O que você quer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Você evita a bola de energia arcana, que perde sua força e se dissipa. O [url=glossary:sage]Sábio[/url] parece desanimado. "Isso foi inofensivo, mas suponho que você esteja melhor. Pelo menos mostra alguma autopreservação de sua parte, então temos que trabalhar com isso." Ela assente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Ela simplesmente estala os dedos e inclina a cabeça com um sorriso conhecedor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Eu quero ser um escriba novamente, ou um professor - e você me parece eminentemente aberto à instrução. Então o que você diz? Cuidado para ouvir uma lição misteriosa? Minha cabeça está zumbindo com o conhecimento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Estou pronto para uma palestra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Deixar] "Agora não. Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Não, realmente. Como."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Ela dá de ombros e faz um som evasivo antes de expandir suas bochechas e soltar o ar em um estalo rápido.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

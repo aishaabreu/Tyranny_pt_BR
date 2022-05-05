@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\0219_cv_zotica</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>jovem sorri, seus olhos se arregalando com inocência. "Bem-vindo à Senhora de Lethian, Vinculador do Destino," ela diz, corando levemente. "Meu nome é Zotica." Ela ri. "Você está aqui para me ensinar os caminhos do mundo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Fale-me sobre você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"O que você pode oferecer que os outros não podem?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Deixar] "Vou voltar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>O rosto de Zotica fica vermelho brilhante e ela vira a cabeça, cobrindo a boca com a mão. "Eu?" Ela pergunta baixinho, sua voz tímida. "Por que você quer saber sobre mim? Eu sou uma garota simples. Eu não sei nada deste mundo ou meu lugar nele." Ela olha em seus olhos. "Você está aqui para me ensinar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Se você passar um tempo comigo, eu vou jogar 'Novato [url=glossary:sage]Sábio[/url] no [url=glossary:burning library]Biblioteca em chamas[/url].'" Ela se aproxima, seus seios roçando levemente contra você. "Estou perdido aqui, Vinculador do Destino. Se eu não me comportar, serei punido." Ela exala levemente e olha ao redor. "Eu precisa ser punido?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Você voltou." Zotica cora levemente enquanto fala. "Pensei que talvez tivesse te desagradado e é por isso que você foi embora."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\worldevents\vx1_wme_travelingmaster</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>47</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Um homem caminha pela estrada à sua frente, seguindo-a na direção oposta. Ele se aproxima abertamente, mãos ao lado do corpo e livre de armas, um manto balançando no ritmo de seu passo leve. No entanto, você pode dizer por sua postura cautelosa que ele não é estranho à violência.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Um homem esguio está sentado em um tronco perto da estrada, tentando obter sombra de uma saliência de pedra pingando com trepadeiras desidratadas. Embora seu traje de pano solto não o marque necessariamente como um [url=glossary:sage]Sábio[/url], suas mãos manchadas de tinta e as penas enfiadas em seu capuz certamente o fazem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Uma mulher se aproximando da direção oposta para bem antes de chegar até você. Ela levanta a mão em saudação, mas não se aproxima. Sua postura mostra a graça fácil de um veterano de muitas lutas, e ela tem um machado de cabo longo e cabeça maciça sobre o ombro direito. Cabelos negros e lisos emolduram suas feições pálidas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Uma mulher acena para você da estrada à frente. Mesmo à distância, você pode ver o sol brilhando nos anéis acobreados soltos de seus longos cabelos, e seu vestido parece ser de uma qualidade maior do que a disponível para todos, exceto a nobreza e os comerciantes mais ricos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Um homem entra na estrada à sua frente, um arco pendurado no ombro, coelhos pendurados pelos pés em seu cinto. Sua pele profundamente bronzeada é em grande parte coberta de peles e armaduras de couro, conchas pequenas e polidas penduradas em borlas e colares de couro, cada um separado dos outros por minúsculos pedaços de couro intrincados para evitar que se choquem. Ele levanta a mão em saudação, embora inicialmente mantenha distância.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Você vê a mulher e sua comitiva muito antes de alcançá-la. Ela está hasteando uma bandeira do soberano e uma heráldica menor, marcando-a como membro da pequena e legalmente sancionada Guilda do Névoas Prismáticas. Suas vestes longas e coloridas de linho rico e seda atestam sua participação na escola exclusiva de praticantes místicos. Ela o saúda, prometendo paz em nome de [url=glossary:kyros]Kyros[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Aproxime-se do viajante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Evite o viajante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>À medida que o homem se aproxima, você percebe que ele não está vestindo nada além de uma capa esfarrapada do lixo para cima e os restos de uma saia de outra forma. Sua pele negra como carvão carrega cicatrizes tanto de antigas feridas de batalha quanto de sigilos ritualísticos esculpidos superficialmente. Uma mecha de cabelos brancos bem encaracolados coroa sua cabeça, e uma lâmina de bronze bem cuidada está pendurada ao seu lado.
+
+Você troca uma saudação com o homem, e logo fica claro que ele é um mago de batalha, um indivíduo de talento arcano criado desde cedo para guerrear com magia e espada. Reconhecendo em você uma natureza aventureira, ele se oferece para lhe ensinar alguns dos pontos mais delicados da combinação de lâmina e sigilo em troca de uma garrafa de Água Velha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Você percebe que o homem alto é significativamente mais velho do que parecia à primeira vista, as linhas em seu rosto e manchas em sua careca desmentem sua postura alta e postura atlética. Ele conta que se separou de sua antiga escola há muitos anos e passou grande parte de sua vida viajando e estudando. "Isso me mantém jovem." O [url=glossary:sage]Sábio[/url] sugere que ele estaria disposto a compartilhar alguns dos conhecimentos arcanos de sua antiga ordem, magia de preservação e truques de cajado com um indivíduo de sua habilidades. Tudo o que ele precisa em troca é uma bolsa de Skycap.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Mais perto da mulher, você vê que sua armadura é feita principalmente de couro grosso bem reforçado com pesadas folhas de bronze. Várias cicatrizes marcam seu rosto e braços nus, e tatuagens cobrem grande parte do resto. Seu nariz parece ter sofrido uma derrota com uma arma branca em algum momento do passado, a cicatriz descendo para torcer o lábio superior em um sorriso permanente. Círculos escuros espreitam sob seus olhos enquanto eles sondam você.
+
+Voz sombria e uniforme, o guerreiro pergunta se você carrega alguma Morte Desperta em você. Ela está disposta a trocar treinamento por isso, alegando domínio ofensivo e defensivo de armas de duas mãos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Conforme você se aproxima, o rosto da mulher cai e ela abaixa o braço. Ela se curva profundamente enquanto se dirige a você como Arconte, parando um pouco antes de cair de joelhos em reverência. Ela confessa imediatamente que tinha toda a intenção de te contar uma história totalmente falsa sobre a fortuna de uma família perdida e uma tentativa infalível de recuperá-la, mas ela conhece você pela sua reputação de Arconte e Fatebinder antes.
+
+Talvez os dois de vocês podem ajudar uns aos outros, ela observa. Ela precisa de uma rara poção de invisibilidade. Se você pudesse lhe fornecer alguns, ela trocaria alguns dos truques que aprendeu entre os mentirosos e lutadores sujos do Camadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Conforme você se aproxima, o homem se curva e se dirige a você pelo seu título. Seu cabelo castanho escuro tem mais do que o início de cinza nas têmporas e seu bigode espesso cai sobre os lábios carnudos.
+
+Ele afirma que como um árbitro da lei bem viajado, você pode estar na posse de Azurebell pétalas. Ele propõe uma troca: por uma flor Azurebell ou o número equivalente de pétalas, ele lhe ensinará os segredos do arco e flecha e do lançamento de dardo que ele aperfeiçoou ao longo de suas décadas caçando as selvas do Camadas, incluindo como permanecer leve seus pés para evitar o perigo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>cabelo da mulher está cuidadosamente torcido em grossos dreadlocks cinza que emolduram um rosto gentil e bem enrugado da cor de nozes tostadas. Ela se apoia em um cajado, embora pareça mais para deambulação do que magia. Ela explica que foi encarregada pelo Árbitro de fazer um estudo do Maldito do Camadas. 
+
+Para esse fim, ela observa, se você tiver algum Essência de Maldição com o qual esteja disposto a se desfazer, estará economizando esforços e riscos significativos. Em troca, ela ficaria feliz em aprofundar sua compreensão das artes místicas de geada, Raio e Atrofia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Decidindo evitar o outro viajante, você sai da estrada e contorna o viajante desconhecido.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Aceite a oferta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Então não vamos perder tempo. Prepare sua arma e sua mente." Você passa a noite em uma combinação relativamente tranquila de sparring com lâminas vivas e praticando os sigilos da guerra. No momento em que você segue seus caminhos separados, você está dolorido no corpo e na mente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>mais velho se levanta e se espreguiça. "Nós vamos então, vamos começar imediatamente. Seus dedos estarão gritando por misericórdia antes que os exercícios de sigilo terminem com você." Você passa a noite em estudo concentrado e prática mágica. No momento em que você se separa do [url=glossary:sage]Sábio[/url], você conhece segredos que poucos outros vivos possuem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Ela traz o fungo oferecido ao nariz e inala profundamente, assentindo lentamente, seu olhar sombreado nunca deixando você. Ela guarda a oferenda em uma pequena bolsa ao seu lado e levanta sua arma. "Preparar você mesmo. Este será um dos dias mais longos da sua vida."
+
+Ela não está errada. No momento em que vocês dois seguem seus caminhos separados, seus braços, pernas e ombros doem tanto pelo esforço quanto pelos golpes de sparring.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Enquanto ela pega a garrafa oferecida, seu sorriso ilumina o dia. Ela o segura, examinando a passagem da luz pelo líquido. Com um movimento do pulso, a garrafa desaparece.
+
+"Devemos começar. Eu posso lhe mostrar técnicas, mas o segredo é sempre uma prática prolongada e repetida." Você passa o resto do dia aprendendo mistérios de desorientação, como lutar quando pego sem uma arma e a melhor forma de manejar contra um inimigo os dois pequenos armas a mulher lhe diz que você deve sempre ter escondido em sua pessoa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>caçador segura a flor com ternura, sua atenção quase melancólica, antes de guardá-la cuidadosamente em uma bolsa ao seu lado. Ele puxa o arco do ombro. "Espero que você não tenha dedos sensíveis, Arconte. Esta corda passará sobre eles algumas vezes antes do pôr-do-sol." Você passará o resto da luz do dia trabalhando com o Tiersman enquanto ele ensina a melhor forma de segurar um arco e dardo para atingir um alvo em movimento enquanto permanece leve o suficiente em seu pés para evitar quaisquer perigos inesperados. No momento em que você se separa, as pontas dos dedos e as pontas dos pés doem com o esforço.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Os olhos do mago brilham no brilho pálido que emana do saco de essência. "Incrível. Esta amostra exibe uma trama particularmente ressonante." Ela relutantemente fecha a bolsa e a entrega a um de seus seguidores para mantê-la segura. 
+
+Ela estala os dedos levemente artríticos. "Vamos nos ajoelhar enquanto ainda há luz do dia. Os sigilos do Arcontes não revelam sua miríade de segredos a um olhar de relance." Você passa o resto do dia e boa parte da noite praticando formas místicas com o mago. No momento em que você se separa, as articulações de seus dedos parecem ter sido deslocadas e redefinidas de uma forma mais de acordo com as muitas e contraditórias percepções.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Você ainda vive." O velho mago de combate com roupas folgadas acena para você enquanto se aproxima. "Minha oferta permanece como antes. Um frasco de Água Velha compra para você uma noite de minha tutela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Bem conhecido, Arconte." O mago ancião anteriormente do Escola de tinta e pena o cumprimenta com uma reverência. "Suponho que este encontro seja mera coincidência? É demais esperar que você tenha vindo me dar Skycap em troca dos segredos antigos e arcanos daqueles que trilharam o Arconte caminho antes de você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>À sua aproximação, o guerreiro de pele pálida acena quase imperceptivelmente em saudação. "Se você tem Despertar da Morte," ela diz, "Eu posso lhe oferecer a melhor prática de sparring que você teve em anos. Por outro lado, duvido que tenhamos algum negócio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>O viajante esbelto sorri cordialmente à sua aproximação. "Arconte! Existe um dia mais justo do que aquele em que nossos caminhos se cruzam?" Ela se curva, cabelos cor de cobre escovando brevemente a sujeira da estrada. "Talvez você veio para trocar uma garrafa de poção de invisibilidade por alguns conselhos nas artes mais sutis do jogo de palavras e facas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Arconte." O caçador o favorece com uma reverência profunda. "Você vem com Azurebell? Vou trocar a sabedoria do arco e da lança por pétalas do material."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>A mulher abaixa a cabeça quando você se aproxima, o cabelo caindo em grossos dreadlocks grisalhos ao redor de suas feições enrugadas. "Arconte, é uma honra encontrá-lo novamente na estrada. Você talvez tenha coletado algum Essência de Maldição em suas jornadas? Terei prazer em trocar lições nas artes arcanas de geada, Raio e Atrofia por uma amostra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Recusar a oferta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>O velho acena com a cabeça uma vez. "Até nos encontramos novamente, então. Supondo que sim." Ele continua passando por você e retorna à sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>O mais velho sorri fracamente. "Claro. Vá com segurança então, Arconte, e que o soberano o favoreça em seus trabalhos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Com um aceno brusco, ela coloca a arma no ombro e se afasta, deixando você continuar sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>mulher se curva com um floreio e, sem dizer uma palavra, se derrete em sombras que você nem percebeu que estavam lá.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>O homem mais velho acena com a cabeça, curva-se novamente. "Então eu não vai te segurar por mais tempo, Arconte. Boas viagens." Ele sai da estrada novamente e desaparece na selva.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>O mago mestre acena com a cabeça, curvando-se novamente. "Claro, Arconte. Não posso pedir-lhe que desempenhe meus deveres por mim. Continuarei minhas jornadas, e talvez nossos caminhos se alinhem novamente." Ela o deixa em suas viagens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Pergunte por que eles querem isso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>O velho sorri, torcendo a longa cicatriz que corre abaixo de seu olho esquerdo branco e remelento. "Para beber," ele responde com voz rouca. "Você encara o Maldito tantas vezes quanto eu, e um frasco de Água Velha pode determinar a diferença entre ver outro nascer do sol e uma morte agonizante na sombra do Oldwalls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>velho mago solta um suspiro prolongado, então bate levemente em sua têmpora. "A idade nos faz de tolos, temo. Nós vamos, talvez não Arcontes como você." Ele ri baixinho. "Nós, meros mortais, porém, descobrimos que nossas memórias nos falham e nossos pensamentos nos fogem em nossa velhice. Uma pitada de Skycap aguça a inteligência. Quase me faz sentir jovem novamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Ela o observa em silêncio por quase meio minuto antes de oferecer uma resposta. "Eu tenho um compromisso permanente com o vazio há alguns anos." Seu tom é tão escuro e afiado como um fragmento de obsidiana enquanto ela indica seu rosto marcado com um simples gesto. "Pretendo deixar esperando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Tão quente e claro como a luz do sol, sua risada poderia deixar um frenético Homem-Besta à vontade. "Uma trama, claro! Um estratagema de legalidade questionável. Eu dificilmente poderia fazer de você um cúmplice divulgando seus detalhes astutos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"A flor está se tornando uma raridade," ele responde tristemente, "desde que [url=glossary:kyros]Kyros[/url] feito de Azure um terreno baldio. Estou coletando para um alquimista que conheço para preservar os sucos. Nada como isso em uma pitada para mantê-lo na ponta dos pés, afiar sua mira." Ele dá um tapinha nos coelhos pendurados ao seu lado. "Dificilmente precisa contra as orelhas compridas, mas você sabe tão bem quanto eu que eles não são as únicas criaturas que fazem da natureza um lar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Porque o juiz quer, é claro." Sua cabeça se inclina para a direita. "A essência remanescente do Maldito permite um exame detalhado da ressonância numinosa de sua trama liminar." Ela sorri se desculpando. 
+
+"Com isso quero dizer os processos energéticos compostos que permitem ao Maldito apresentar simultaneamente formas materiais e efêmeras, as mesmas propriedades que convenceram as pessoas com menos respeito por seus órgãos internos do que nós a consumir a essência na tentativa de proteger fora da magia." Ela ri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Aceite a oferta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Aceite a oferta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Aceite a oferta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Aceite a oferta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Aceite a oferta.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

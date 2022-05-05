@@ -1,0 +1,331 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\02_cv_garrick</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>61</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>O homem ensanguentado e sujo de terra grita quando vê você. "Agradecer o forjador que você me encontrou! Temos que sair daqui antes que o Flagelos volte - ou o fraternidade. Não sei o que me assusta mais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Devagar. O que você está fazendo aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Deixar] "Não tenho tempo para isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Eu estava procurando na área perto da entrada Oldwalls por metais ou runas únicas que eu pudesse usar em minha criação." 
+
+"Estou... Estou tentando avançar para o próximo nível de minha aprendizagem. Impressionar mestres de forja é muito mais difícil do que parece e Mestre Lohara é especialmente exigente. Você realmente precisa se destacar, e achei que essa era minha chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Não se preocupe - eu abri o caminho para você Cabeça volte para Rios gêmeos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Vou lidar com a Irmandade na entrada para que você possa passar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Eu nem sabia que os [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] estavam aqui até alguns deles aparecerem. Peguei um capacete descartado e tentei me misturar até poder fugir."
+
+"O líder deles pensou que eu era um soldado que ficou preso longe de seu posto, então ele exigiu que eu voltasse aos meus deveres. Eu estava com medo, então..." Ele dá de ombros com a derrota, "Eu segui minhas 'ordens' e entrei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Assim que consegui sair de vista, comecei a correr para encontrar uma saída. Deve haver um caminho para [url=glossary:lethian's crossing]A travessia de Lethian[/url] em algum lugar..." Ele balança a cabeça, "Mas isso pode ser apenas uma história. Claro que dei meia volta e não consegui encontrar o caminho de volta." "Eu me tranquei aqui para ficar longe das [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] patrulhas e Flagelos vagando por aí. Se você não tivesse aparecido, seria apenas uma questão de tempo até que algo me encontrasse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Ataque] "Fui instruído a trazer de volta suas ferramentas e vingar sua morte. Então você terá que morrer primeiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Você salvou minha vida! Obrigada! Nunca pensei que sairia daqui vivo!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Pelos fogos na forja, isso é uma notícia fantástica! Finalmente posso deixar este lugar! Agradecer você - vou garantir que o [url=glossary:forge-bound]Forge-Bound[/url] saiba que você me ajudou a escapar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ei, essas são algumas ferramentas legais. Dê-me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Roubar as ferramentas de Garrick]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Ele lhe dá um olhar cético. "Não sei por que você precisaria deles aqui, mas... tudo bem." Ele remove sua mochila e a entrega a você. "Para que você precisa deles?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Obrigado! Agora tenho que explorar o resto do Oldwalls... sem você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Eu não posso dizer se você é ingênuo ou apenas estúpido. De qualquer forma, obrigado pelas ferramentas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Deixar] "Nós vamos, preciso ir lá por um tempo. Até logo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Esperar, o que? Suae realmente não vai me deixar aqui, vai?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Você sentiu alguma coisa?"
+
+Ele se encolhe e verifica por cima do ombro. 
+
+"Espero que não seja outro Flagelo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Você está realmente planejando pegar minhas ferramentas e me deixar aqui?" Um olhar de resignação cansada cruza suas feições. "Eu não deveria estar surpreso. Todo mundo está apenas fora de si mesmo. Nós vamos, não vou ficar mais. Melhor morrer pelas suas mãos do que o Flagelos." 
+
+Garrick se lança em você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Deixar] "Bem, eu melhor ir, esses Flagelos não vão se matar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Mas você vai voltar para mim, certo?" Ele olha para você com expectativa. "Direita?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Não. Isso era só eu. Eu roubei suas ferramentas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Mágoa e raiva rasteja em sua voz. "Você... mas, por que você faria isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Por favor, você não pode me deixar aqui! Você deve me ajudar a sair! Lá são... coisas aqui! Coisas ruins, coisas famintas!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Falei com Ferris Pé chato. Ele vai deixar você passar ileso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Nó de script 30</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"O caminho para [url=glossary:lethian's crossing]A travessia de Lethian[/url] é claro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Nó de script 39</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Nó de script40</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Ataque] "Alguma coisa ainda pior do que qualquer uma dessas coisas encontrou você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"O que você pode me dizer sobre Mestre Lohara?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ela é rigorosa, mas garante que as coisas sejam feitas de forma rápida e eficiente. E, como eu disse, ela também é impossível de impressionar. Achei que se pudesse encontrar algo aqui para melhorar meu trabalho, ela teria que me notar. Agora tudo o que vou receber é um sermão." Ele olha em volta, uma expressão de desamparo no rosto.
+
+"Ou seja, se eu sair daqui vivo..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Prometo que nunca mais entrarei no Oldwalls. A guarnição me viu depois da primeira vez, mas desviou o olhar. Acho que era apenas uma questão de tempo antes que minha sorte acabasse comigo."
+
+Ele envolve seus braços em volta de você, esmagando você em um abraço apertado. Ele te solta, faz um pequeno som desesperado e foge para a escuridão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Você não sabe que é ilegal invadir o Oldwalls?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Eu... eu sei que isso não parece bom, mas eu esperava que alguém olhasse para o outro lado, já que estou fazendo tudo por causa do meu trabalho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Tenho certeza de que alguns dos [url=glossary:disfavored]Desfavorecido[/url] me viram saindo, mas ninguém me parou. Isso é tão bom quanto permissão, certo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"O refrão guarnição definitivamente me viu saindo... Eu não acho que havia um problema. Não estou com problemas, estou?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Era responsabilidade da guarnição impedi-lo. Vou me lembrar disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Ataque] "Eu o considero culpado de violar a lei [url=glossary:kyros]Kyros[/url]'. Prepare-se para morrer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Ele concorda. "Obrigado por sua misericórdia. Se eu sair daqui vivo, não vou procurar problemas além da minha porta da frente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Estou no Oldwalls também, não estou? Vamos manter esse segredo entre nós."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Às vezes esqueço que você Vinculadores do Destino está em dívida com a lei [url=glossary:kyros]Kyros[/url]'. É claro! Se eu sair daqui, não mencionarei a ninguém."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Ninguém me parou no meu caminho até aqui. Eu não machuquei ninguém além de mim mesmo. Então não há problema... certo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Obrigado por me salvar daquele lugar sujo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Prometo que nunca mais entrarei no Oldwalls. A guarnição me viu depois da primeira vez, mas desviou o olhar. Acho que era apenas uma questão de tempo antes que minha sorte acabasse comigo."
+
+Ele envolve seus braços em volta de você, esmagando você em um abraço apertado. Ele te solta, faz um pequeno som desesperado e foge para a escuridão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Prometo que nunca mais entrarei no Oldwalls. A guarnição me viu depois da primeira vez, mas desviou o olhar. Acho que era apenas uma questão de tempo antes que minha sorte acabasse comigo."
+
+Ele envolve seus braços em volta de você, esmagando você em um abraço apertado. Ele te solta, faz um pequeno som desesperado e foge para a escuridão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Quem é você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Você deve ser Aprendiz Garrick."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Você... Mestre Lohara me mencionou?" Ele fica visivelmente aliviado com a ideia. "Então ela pelo menos notou a ausência de seu aprendiz." Ele ri baixinho para si mesmo, sua expressão de arrependimento ao invés de alegria. "Se eu poderia ter previsto isso, eu não teria vindo aqui em primeiro lugar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Direita, claro. Eu sou Garrick, [url=glossary:forge-bound]Forge-Bound[/url] aprendiz de [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Estou muito longe do assentamento, eu sei. Acho que você pode dizer que eu... me perdi." Ele balança a cabeça. "Da pior maneira possível, devo acrescentar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Você pode sair por onde veio. Diga Flatfoot Ferris que você está com o Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Pelos fogos na forja, isso é uma notícia fantástica! Finalmente posso deixar este lugar! Agradecer você - vou garantir que o [url=glossary:forge-bound]Forge-Bound[/url] saiba que você me ajudou a escapar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Por que não se disfarçar e fugir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Eu teria, mas estava empenhado em encontrar essa conexão com [url=glossary:lethian's crossing]A travessia de Lethian[/url] e deixei para trás a armadura fraternidade que encontrei. Era mal ajustado e barulhento, e não me ajudou a fugir do Maldito, que posso garantir que é uma preocupação muito mais premente até aqui no Oldwalls do que alguns bandidos cabeça-quente!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Mas você está certo, o disfarce é a melhor escolha." Ele faz uma careta, balançando o punho em frustração. "Não foi inteligente da minha parte largar isso, eu sei. Eu não tenho pensado direito. Tem sido uma luta de momento a momento apenas para permanecer vivo neste lugar amaldiçoado!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Não tenho certeza se você pode encontrar o equipamento que deixei para trás, mas ouvi o fraternidade correndo por esses corredores. Tenho certeza de que deve haver pelo menos um por aqui que não precisa mais de sua armadura. Com ele acredito que posso sair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Encontrei a armadura que você precisava."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Pelos fogos na forja, isso é uma notícia fantástica! Finalmente posso deixar este lugar! Agradecer você - vou garantir que o [url=glossary:forge-bound]Forge-Bound[/url] saiba que você me ajudou a escapar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Por que não usar essa armadura que encontrei para se disfarçar e fugir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Por favor, você não pode me deixar aqui! Você deve me ajudar a sair! Lá são... coisas aqui! Coisas ruins, coisas famintas!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\factionquestlines\disfavored\fq_dis_cv_08_arris_echocallact2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Bem Fatebinder, o seu é um rosto que me surpreende ver. Uma surpresa desagradável, é claro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"A que o [url=glossary:vendrien guard]Guarda Vendrien[/url] deve o prazer da sua companhia?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Trago notícias de [url=glossary:graven ashe]Cinza esculpida[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ah, agora isso está ficando interessante. Primeiro o todo-poderoso Vinculador do Destino chega... e agora ele entrega uma mensagem de alguém que deveria ser empalado e deixado para os pássaros bicarem. O que Ashe quer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Diga-me, estimado Vinculador do Destino, que palavra você carrega de [url=glossary:graven ashe]Cinza esculpida[/url]? Esse deve ser interessante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"[url=glossary:graven ashe]Cinza esculpida[/url] gostaria de lhe oferecer uma aliança. Você se alinha com o [url=glossary:disfavored]Desfavorecido[/url], e nós lutamos como um."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Você quer me dizer, depois de tudo o que aconteceu... depois de todo o derramamento de sangue... o primeiro e único [url=glossary:graven ashe]Cinza esculpida[/url] procura oferecer paz?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Certamente você não me acha um idiota, Fatebinder? Paz? Do [url=glossary:disfavored]Desfavorecido[/url]? Esta é uma das melhores piadas que já ouvi em algum tempo..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"A resposta é não, Vinculador do Destino. Não. Os [url=glossary:disfavored]Desfavorecido[/url] mataram muitos de nossos homens, suas memórias não merecem o insulto de nós ficarmos do lado de seus assassinos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Um acordo de paz pode ajudar a manter os futuros soldados seguros."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Também pode ser nossa maior queda até agora. Não, Vinculador do Destino. Você volta para [url=glossary:graven ashe]Cinza esculpida[/url] e diz a ele que o [url=glossary:vendrien guard]Guarda Vendrien[/url] permanece alto, agora e para sempre, sem a ajuda dele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Muito bem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Nó de script 14</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Vinculador do Destino, vá embora antes que eu fique impaciente com sua presença."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Evite o trabalho de ser eliminado e junte forças com o [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"[url=glossary:graven ashe]Cinza esculpida[/url] só queria que eu dissesse olá."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Ela bufa. "Ah, tenho certeza que sim. O que Ashe realmente quer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Será sua culpa quando todos morrerem, então."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"O [url=glossary:vendrien guard]Guarda Vendrien[/url] permanecerá alto, agora e para sempre, sem o [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

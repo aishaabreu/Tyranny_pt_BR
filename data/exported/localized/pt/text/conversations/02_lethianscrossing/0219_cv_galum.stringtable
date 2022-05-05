@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\0219_cv_galum</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Boa noite." O homem alto e magro sorri com sua aproximação. "E bem-vindo ao Amante de Lethian. Meu nome é Galum e seria um prazer sem fim atendê-lo hoje."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Fale-me sobre você. Como você veio parar aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"O que você pode oferecer que os outros não podem?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Deixar] "Pode ser mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Não há muito a dizer, na verdade." Galum pensa em silêncio por um momento. "Eu sou do norte e estava viajando com uma trupe quando fomos atacados por bandidos perto de [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Eu estava ferido e perdi a consciência e quando acordei, Senhora Sofia estava cuidando dos meus ferimentos."
+
+"O resto da trupe morreu na luta e eu não tinha para onde ir, então o amante me ofereceu uma posição. Ela sabia que minhas habilidades de atuação seriam úteis. É o melhor trabalho que já tive."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Se você quer que o chão se mova e sinta as paredes caindo, eu sou o homem certo para você. Eu lhe darei o 'Delícia de Earthshaker' e - acredite em mim - você nunca mais vai querer contratar outro artista."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Bem-vindo de volta!" Galum cumprimenta você com um sorriso tímido. "Seria você gosta de passar algum tempo comigo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

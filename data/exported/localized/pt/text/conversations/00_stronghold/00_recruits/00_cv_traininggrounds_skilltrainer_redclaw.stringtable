@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\00_recruits\00_cv_traininggrounds_skilltrainer_redclaw</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Jagged-Claw inclina a cabeça quando você passa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Este Homem-Besta se levanta de suas ancas, os olhos abaixados momentaneamente em uma demonstração de respeito. “Fatebinder é gentil com Homem-Besta. Deixar irregular-Claw junte-se a Refrão pack quando [url=glossary:disfavored]Desfavorecido[/url] caçou Homem-Besta sangue. ”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Você tem algo para mim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Deixar.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>“Fatebinder retorna, pronto para caçar-perseguir-rasgar novas presas em pedaços?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Sim, sim. Mostrará humano."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Não. Deve caçar mais, primeiro. O Fatebinder deve voltar mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>“O pacote de refrão é fraco. Muitos companheiros de matilha lutam para ser Alfa - muitos fracotes chorões rasgam a garganta uns dos outros. irregular-Claw esperou e assistiu enquanto o pequeno humano Betas rasgava o menor Betas em pedaços. Os companheiros de matilha estavam cansados, mas irregular-Claw estava pronto para atacar. Crânios esmagados, barrigas moles rasgadas. Os companheiros de matilha ficaram quietos e molhados de sangue. Então irregular-Garra esquerda para procurar melhor Alfa, melhor pacote. Aglutinante do Destino encontrado.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Ele bufa, mal conseguindo conter sua empolgação. “Fatebinder é um lutador feroz! irregular-Claw mostrará aos humanos como perseguir enquanto caça - como matar presas enquanto o sangue ainda esfria. Vai ser divertido, sim?”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Conquista] “Sua tribo lutou pelo traidor [url=glossary:cairn]Cairn[/url] uma vez. Como posso confiar em você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>“Todos os [url=glossary:stonestalker]Perseguidor de Pedras[/url] Alfas - até os da tribo [url=glossary:prima]Prima[/url] - seguiram o grande místico de pedra chamado [url=glossary:cairn]Cairn[/url] por algumas temporadas. Mas agora o místico de pedra dorme nas terras da tribo e sangra no sangue dos ancestrais da tribo. Não pode caçar mais, exceto apenas em sonhos." Ele lambe suas presas. "Vinculador do Destino não dorme. Vinculador do Destino persegue e luta e mata. É bom Alfa.”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

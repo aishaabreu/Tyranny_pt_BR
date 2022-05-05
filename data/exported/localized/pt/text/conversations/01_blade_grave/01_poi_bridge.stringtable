@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\01_poi_bridge</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Precisamos que a rampa seja abaixada - existe outra maneira de subir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Se pudéssemos dar um tiro certeiro no guincho ou na polia da ponte, isso abaixaria a ponte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Se conseguirmos chegar a um terreno mais alto, podemos destruir aquele maldito guincho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Kills-in-Shadow pode escalar penhascos, mas como Alfa seguiria? Deve rasteje mais perto para quebrar a armadilha que levantou a ponte, sim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Não podemos atingi-lo daqui de baixo, mas aposto que se encontrarmos um terreno mais alto, podemos tirar o guincho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Eu sugiro que alcancemos um terreno mais alto para desativar esse guincho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Não há como escalar as paredes do penhasco, embora a rampa possa ser abaixada se você conseguir elevação suficiente para atirar no guincho que a segura.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Nó aleatório9</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,287 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\03_burninglibrary\03_cv_int01_fatulsten_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>50</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Um homem abatido está no meio de um grupo, dirigindo-se a eles com os dentes cerrados. Eles estão descansando na sala, ignorando-o quase completamente.
+
+"Se você não conseguir entrar na fila, eu juro que vou deixar você queimar nesta forja. Você quer isso? Apenas me escute, e todos nós podemos sair daqui com nossas sobrancelhas intactas. São fragmentos de pergaminho brilhantes! Quão difícil pode ser encontrá-los?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Emboscar os desavisados? Uma tática que eu esperaria do Refrão, mas não daqueles com qualquer pretensão de honra."
+
+"Acho que você precisa aprender uma lição."
+
+Ele sinaliza seu grupo para atacar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Meus ouvidos enganam ou você apenas questionou minhas ações?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Estou fazendo exatamente o que você está fazendo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Meu negócio é meu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Ataque] "Importa pouco. Você não vai demorar muito para este mundo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>homem recua e um olhar de terror cruza seus olhos. "N-não! Só quis dizer que foi estranho encontrá-lo aqui!"
+
+Ele olha para seus homens, que estão contendo o riso às suas custas.
+
+"Perdoe-me, Vinculador do Destino." Ele tenta uma reverência desajeitada, provocando mais risadas. de seu grupo. "Achei que o Censurar te enviou para nos checar. Não se preocupe, seremos o primeiro grupo a passar por essa barreira e encontrar o Arquivo Silencioso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Eu não quis ofender, Fatebinder! Só fiquei surpreso em vê-lo aqui. Pensei que talvez o Censurar tivesse enviado mais pessoas para encontrar o Arquivo Silencioso." Ele abre a boca novamente, parecendo prestes a dizer alguma coisa, então a fecha novamente com um estalo alto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Outro grupo procurando o Arquivo Silencioso? Por que ela enviaria mais homens aqui? Lá já são demais! E se cada um de nós encontrar um pedaço da senha? O que fazemos então?"
+
+Ele suspira, parecendo derrotado. Ele então se lembra que você ainda está lá e se levanta. "Nós vamos, não pense que vai ser fácil para você encontrá-lo! O Censor nos enviou primeiro e não pretendemos decepcionar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Você precisa de mais alguma coisa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Grupo de endereços] "Ulsten parece uma tarefa simples. Se você o matar, você pode seguir seu próprio caminho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Endereço Ulsten] "Suae sendo retido por esses idiotas. Você não prefere seguir em frente sozinho?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Grupo de endereços] "Vocês são patéticos. Seu líder lhe deu uma ordem e eu sugiro que você a siga antes que haja problemas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Dirigir-se aos sábios] "O refrão não deve tocar no Arquivo Silencioso. Como um companheiro mago, ajude-me a destruir este grupo miserável."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Ataque] "Vou simplificar este concurso matando todos vocês."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Ataque Ulsten homens] "Sua grupo só vai te prejudicar. Acho que vou matá-los e deixar você ir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Que diabos você está fazendo? Eu preciso que eles encontrem o Arquivo Silencioso!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"O que diabos está errado com você? Elas podem ter sido insubordinados, mas eles eram minha tripulação! Eu precisava deles!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Você teve um problema. Agora não."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Eu sempre poderia terminar as coisas e matar você também..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Ataque] "Você tenta ajudar alguém..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Está tudo bem. Encontrarei meu caminho para o Arquivo Silencioso por conta própria."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Ele abre a boca para dizer algo e imediatamente a fecha novamente. "Suae certo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Ele levanta as mãos e se afasta. "Não! Não! Eu falei errado. Não se preocupe com isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"O que exatamente você está fazendo aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Ele olha para seus homens, que o encaram sem expressão. "Achei que você soubesse. Por que mais o Censurar deixaria você entrar?" Ele dá de ombros, distraidamente coçando a axila. "Ela nos colocou aqui para competir. Devemos encontrar o Arquivo Silencioso - e não é como o Refrão ter uma competição que mata uma pontuação de soldados decentes."
+
+"É por isso que estamos empenhados em encontrar o Arquivo primeiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Ele olha para sua tripulação. "Em vez, estávamos empenhados em encontrá-lo. Este lote é melindroso como bebês que não querem chamuscar o cabelo nos dedos dos pés."
+
+"Nem encontrei um único pedaço da senha. Bloqueamos a passagem para que ninguém pudesse nos seguir e então eles se sentaram e se recusaram a se mover!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"O quê? Fatebinder, você não pode tirar meu comando!"
+
+Como Ulsten saca sua arma, o resto de sua unidade avança sobre ele.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Ele coça a cabeça em contemplação.
+
+"Eu sempre assumi que estava destinado a algo melhor do que esse monte de merda. Qualquer um pode ser um líder, mas é preciso um homem de verdade para ser seu próprio mestre. Vou encontrar o Arquivo Silencioso sozinho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Os homens de Ulsten recuam de suas palavras e murmuram desculpas sem entusiasmo para ele antes de entrar mais fundo no Biblioteca. Ulsten dá uma última olhada antes de segui-los.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Porra, Fatebinder, o que você está fazendo?" Ulsten diz enquanto saca sua arma. 
+Os Sábios, reforçado por suas palavras, ataque Ulsten e seu grupo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Ele nota sua aproximação e grita, lançando ao resto do grupo um olhar de advertência.
+
+"Fatebinder! O que você está fazendo aqui?"
+
+Ele olha para sua gangue. "Achei que seus tolos bloquearam a passagem!" Um de seus homens bufa e dá de ombros e volta a ignorá-lo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"O que há de tão especial no Arquivo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"É o coração do [url=glossary:vellum citadel]Cidadela de Velino[/url]. Dizem que os registros mais valiosos estão guardados lá - livros que só o veterano Sábios conhecia antes do cataclismo.""[url=glossary:the voices of nerat]As vozes de Nerat[/url] quer destruí-lo para que [url=glossary:kyros]Kyros [/url]' a ira contra o Sábios está completa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Diz-se que "O Arquivo também tem algumas propriedades mágicas," Ulsten franze a testa. "Supostamente, o Arquivo é a única razão pela qual o Biblioteca ainda está de pé. Não sei, estamos apenas procurando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Estou vendo um líder indigno tentar dirigir uma equipe inútil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Dois de Ulsten homens olham uns para os outros e depois para ele. "Ele acabou de nos insultar?" Ulsten fecha os olhos e solta um suspiro derrotado.
+
+"Eu não pedi isso. Estou apenas tentando me manter vivo." Ele de repente se endireita como se percebesse que você ainda está ali. "Forma para cima, seus fodidos inúteis!" ele os ataca, depois olha para você.
+
+"Vou encontrar o Arquivo Silencioso mesmo que ele me mate!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[Dirigir-se aos sábios] "Eu te ajudei uma vez e [url=lore:bl_lava_level]avisei sobre o Edito de Kyros[/url]. Ajude-me a destruir esses tolos e você ainda poderá viver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Claro que vai. Um grupo desorganizado de descontentes liderados por um homem que nem consegue manter o controle deles. Isso é uma competição real, eu lhe digo. Eu ficaria surpreso se você conseguisse sair desta sala, quanto mais ir para o arquivo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Nó do banco 63</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Um rei rato sarnento poderia coordenar melhor do que este lote. Duvido que precisemos gastar muito tempo nos preocupando com aqueles que tropeçam em seus pés - muito menos com seu comando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Cuidado com essa boca bonita. Podemos estar competindo, mas esses soldados ainda são [url=glossary:scarlet chorus]Coro Escarlate[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Sinto muito, Senhora Sirin! Eu não sabia que você estava aqui!" Fat Ulsten faz uma reverência desajeitada para o deleite zombeteiro de seus homens. "Eu não quis dizer que eu era superior a você! Isso é o calor - e esses tolos. Eles estão tão assustados quanto o bebê Homens-fera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Como se isso importasse uma garra. Você fala sobre isso como se fosse algum chamado glorioso. Líder ou grunhido, vocês ainda estão clamando em uma pilha de esterco. Esteja você enterrado embaixo ou de pé em cima, ainda cheira a merda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Meus ouvidos me enganam, ou o homem do metal apenas fez um ponto importante? Nós vamos agora, Barik. Talvez você não seja tão grosso quanto eu pensava. Certamente melhor do que esses cretinos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Então não fique com tanto medo, sim? Até os filhotes da primeira temporada são destemidos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Porque sua pilha de esterco é tão diferente da minha? Pelo menos estou no topo. Lembre-se que da próxima vez [url=glossary:the voices of nerat]o Vozes de Nerat[/url] comprar um vestido bonito para você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Nó de script 51</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Ei, você! Venha aqui. Quero falar com você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Pegue-o! Não podemos deixá-lo ir mais longe!"</DefaultText>
+      <FemaleText>"Pegue ela! Não podemos deixá-la ir mais longe!"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

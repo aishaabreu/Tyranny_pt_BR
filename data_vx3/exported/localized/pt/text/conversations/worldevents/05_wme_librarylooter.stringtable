@@ -1,0 +1,394 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\worldevents\05_wme_librarylooter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>76</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Uma mulher corpulenta em um avental sujo de sujeira acena para você enquanto seus caminhos se cruzam perto das ruínas abandonadas de uma cidade sem nome espalhada entre as pedras rachadas do antigo Azure. Ela acena animadamente, quase pulando de um pé para o outro. "Você," ela grita, "parece uma viajante do MEIO!" Sua voz ecoa pela fenda abissal entre vocês.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Aproxime-se dela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Evite ela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Você passa sem muita interação, deixando de lado as tentativas dela de conversar. Enquanto você se afasta, ela continua na direção oposta, olhando para baixo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Ela puxa sua bandoleira, chamando a atenção para os numerosos estojos de pergaminhos manchados de fuligem escondidos em sua pessoa.
+
+Olhos verde-oliva observam você acima de um nariz de botão e bochechas com covinhas enquanto ela informa animadamente sobre os raros e potentes textos secretos que ela tem em oferta... por um preço.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Examinar suas mercadorias.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Interrogue-a.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Condená-la.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Deixar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Ela bate palmas animadamente e começa a recitar os diversos pergaminhos que ela coletou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>mulher pisca rapidamente quando você se aproxima, uma mão distraidamente torcendo seu cabelo trançado. "Ah... Vinculador do Destino. Eu não sabia que era você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Você caminha propositalmente em direção à mulher e a informa de seus deveres como Vinculador do Destino de [url=glossary:tunon]Tunon[/url] o juiz e um árbitro do código legal de [url=glossary:kyros]Kyros[/url].
+
+Ela empalidece, a boca ligeiramente aberta. Pelo olhar em seu rosto, parece bem ciente do Tribunal de Vinculadores do Destino.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Você imediatamente a informa que ela está violando as disposições Soberano contra a posse de conhecimento proibido. Ela começa a gaguejar uma desculpa, mas você vê seus dedos formando sigilos experientes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Execute-a.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Poupe-a.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Você a ataca antes que ela tenha a oportunidade de terminar seu feitiço. O primeiro golpe arruína suas mãos, e ela grita, segurando os apêndices mutilados contra o peito. Seu segundo golpe acaba com a vida dela. 
+
+Você vasculha as vestes dela, descobrindo um pequeno pacote de pergaminho. É possível que o mago tenha escondido mais nas proximidades, mas se houver alguma verdade nessa suposição, ele morreu com ela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Você garante a ela que ela não está em perigo de sua parte, apesar de seu pronunciamento, e ela se acalma, as mãos ainda livres para formar feitiços se for necessário.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Deixar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Ela agradece sua clemência e oferece alguns pergaminhos empoeirados e desgastados por sua misericórdia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Você teria chamado se tivesse me reconhecido?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Quem é você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Se você sabe quem eu sou, você sabe que é melhor responder minhas perguntas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Claro!" ela gagueja. "Eu lhe direi tudo o que você quiser saber. Eu não ousaria guardar segredos de um Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Uh... talvez não?" Ela sorri timidamente. "Melhor não chamar a atenção do soberano, certo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Comece a falar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"[Player Name], conheça [url=glossary:sage]Sábio[/url] Antígnia," Lantry avança para apresentar vocês dois, "Tig, conheça Vinculador do Destino [Player Name] ." Ele oferece a ela uma reverência curta. "Desculpe, eu não te reconheci no começo, mas eu você mudou seu cabelo e em minha defesa, eu não estou totalmente sóbrio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Eu sou Antígnia, [url=glossary:sage]Sábio[/url] do Escola de pena e tinta," ela anuncia formalmente, endireitando-se levemente com a afirmação. Ela esvazia imediatamente. "Ou era, antes dos problemas no [url=glossary:vellum citadel]Cidadela de Velino[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"E eu não te reconheci porque pensei que você seria um monte de cinzas! Isso é bom ver que você escapou do [url=glossary:edict]Edital[/url] e está inteiro." Ela acena com a cabeça em sua direção. "Será que o Fatebinder prender você? Eu pegar você sendo levado para Tribunal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Não exatamente, mas estou seguindo as ordens Vinculadores do Destino - é tudo o que você precisa saber." Lantry aponta para o [url=glossary:sage]Sábio[/url]. "Antígnia trabalhou do outro lado do Cidadela de mim, mas eu a conheço há muito tempo. Ela é boa gente - na maioria das vezes inofensiva."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Sim," Antígnia acena enfaticamente. "Inteiramente inofensivo!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Mas suponho que você saiba tudo sobre isso, não é, Firestarter?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Quero dizer, ainda sou Antígnia. Só não é mais uma [url=glossary:sage]Sábio[/url]." Ela franze a testa. "Ou talvez eu não seja mais Antígnia, sendo esse o nome que escolhi quando terminei meu aprendizado." Ela dá de ombros. "Acho que ainda estou descobrindo exatamente como tudo se encaixa agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Ela balança a cabeça. "Sem considerar, as pessoas geralmente me chamam de Tig. Sinta-se à vontade para."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Você queria minha atenção. Agora você tem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"O que você está fazendo aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Deixar.] "Direita. Adeus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Nós vamos, veja, estou tentando chegar a Ardente. E então, eu não sei de lá. Ver se um barco pode me levar para outro lugar... talvez até me aventurar no norte, eu acho. Eu só quero ficar longe do Camadas e longe da guerra, e tão longe quanto eu puder do fedor de cinzas e fuligem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"As viagens não são gratuitas, especialmente agora com a escassez de guerra e os saqueadores Refrão. Então eu tenho alguns pergaminhos, pesquisas mágicas e históricas e coisas do tipo, que eu, er, resgatei do Cidadela. Estou disposto a trocá-los por anéis para me ajudar no meu caminho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Você escapou com alguns pergaminhos da biblioteca? Brilhante! Perdi muito sono de luto por tudo o que deixamos para trás."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Você está ciente de que a posse de Conhecimento Proibido é uma ofensa punível sob as leis do soberano?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Você está ciente de que o Soberano me fez emitir o [url=glossary:edict]Edital[/url] de Fire por um motivo, correto? Que posse de Conhecimento Proibido é uma ofensa punível?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Vamos ver o que você tem a oferecer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Deixar.] "Não estou interessado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Oh, uh... desculpe por desperdiçar seu tempo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Tem certeza, Binder?" Lantry pergunta, a ponta de sua pena pressionada contra seus lábios. "Podemos não ter outra oportunidade de, er, arquivar e proteger esse conhecimento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Tig bate palmas. "Ah! Você não vai se arrepender, eu prometo!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Mas, uh, eu - " a [url=glossary:sage]Sábio[/url] gagueja, de repente achando seus pés intensamente interessantes. "Certamente nem TUDO no [url=glossary:vellum citadel]Cidadela de Velino[/url] foi proibido. Quero dizer, nem todo conhecimento é mau, certo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Oh!" Tig olha para você com os olhos arregalados. "Então... Você decidiu que queria alguns dos Segredos Antigos do Sábios?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Multar. Mostre-me o que você tem, Tig."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Deixar.] "Tenho certeza."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Ah." Ele olha ansiosamente para Tig's caixas de rolagem. "Muito bem então. Despedida, Antígnia, e esteja seguro - que possamos cruzar nossos caminhos novamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Não tenho certeza se você quer desafiar o Vinculador do Destino nos graus de proibição, mas, hum..." Lantry gagueja no final de sua frase antes de ficar em silêncio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Isso é para [url=glossary:kyros]Kyros[/url] decidir. E para mim, como representante Soberano."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Acho que posso ignorar isso uma vez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Eu certamente aprecio isso!" Ela enxuga a testa com as costas da mão, espalhando uma linha quebrada de sujeira na testa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Uma demonstração de boa fé, talvez na forma de uma doação de uma de suas aquisições mais perigosas, ajudaria bastante a indicar que você entende o perigo da situação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Um show de-" ela franze a testa antes de seus olhos se arregalarem em reconhecimento. "Ah, você quer um suborno! Por que você não disse isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Sutil como sempre." Lantry massageia a ponte do nariz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Aqui!" Ela empurra um maço de papiro desgastado em suas palmas. "Esse deve funcionar!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Claro!" Ela assente furtivamente. "E que melhor maneira de julgar isso do que olhar meus pergaminhos? Não vou esconder nada, prometo!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[Ataque.] "Eu o considero culpado de posse de Conhecimento Proibido. Declaro a sentença de morte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Seus olhos se arregalam de medo, mas seus dedos imediatamente começam a formar sigilos, a magia tomando forma ao seu redor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Adiar para Lantry.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Lantry apresenta a mulher como [url=glossary:sage]Sábio[/url] Antígnia, e ela admite que fugiu do [url=glossary:burning library]Biblioteca em chamas[/url] com alguns restos que agora deseja vender para pagar sua passagem pelo Camadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Você sabe que o Sábios jurou fidelidade a mim? O que é à esquerda do Escola está sendo montado novamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Eu tinha ouvido algo nesse sentido." Tig esmaga a bola do pé esquerdo na terra. "Isso é ótimas notícias... ótimas notícias."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Você não parece particularmente impressionado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Há um lugar para você no Mountain Spire, se você quiser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Se você não está interessado, você não está interessado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Certamente, é impressionante. Não estou dizendo que você não é impressionante..." Seus dentes pressionam seu lábio inferior carnudo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"No Spire?" Ela não consegue esconder a admiração de sua voz, mas então ela faz uma careta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Não é que não seja interessante... mas sim, Vinculador do Destino. Receio que não haja volta para mim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Ela balança a cabeça. "Não. Eu tenho que ir para outro lugar. Em algum lugar seguro. Afaste-se de tudo isso." Ela gesticula vagamente em direção às [url=glossary:edict]Edital[/url] torres de pedra que se projetam da terra e pontuadas por depósitos pulsantes de cristal roxo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Ela pisca entorpecida enquanto você se afasta, deixando-a atrás de você na poeira do [url=glossary:stone sea]Mar de Pedra[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Obrigada por sua clemência, Vinculador do Destino." Ela morde o lábio inferior, então vasculha rapidamente sua bolsa e tira um maço enrolado de pergaminho seco. "Isso é por conta da casa. Em agradecimento por sua misericórdia." Depois de lhe entregar o pergaminho, ela se arrasta para o pó do [url=glossary:stone sea]Mar de Pedra[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

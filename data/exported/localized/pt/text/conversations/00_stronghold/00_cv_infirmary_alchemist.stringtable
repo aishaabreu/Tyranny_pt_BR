@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\00_cv_infirmary_alchemist</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Bem-vindo à Pináculo enfermaria, Vinculador do Destino. Como você pode ver, temos tudo em ordem e sob controle." O alquimista acena com a cabeça e sorri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Te devo um pedido de desculpas, Vinculador do Destino. Mesmo em cima dessa estrutura incrível, precisamos de anéis para manter a enfermaria funcionando. Tenho certeza que você entende."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Você precisa de ajuda, Fatebinder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Você precisa de ajuda, Fatebinder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"O que você fez para mim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Deixar.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Nossos esforços aqui provaram ser frutíferos, mas seriam acelerados por mais recrutas. Se acontecer de você encontrar alguém disposto." Ambro ergue uma sobrancelha para você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"O que posso fazer aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Se você deseja criar poções, temos uma estação de alquimia nas proximidades. Estamos, é claro, produzindo um modesto suprimento de poções - você só precisa perguntar e eu lhe mostrarei o que fizemos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Estou muito feliz em mostrar a você! Venha, dê uma olhada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Não temos nada para você no momento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"O que você acha do Pináculo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>O alquimista olha para a borda do Pináculo com uma contração ansiosa. "Esse é certamente um local irregular para estabelecer os nossos serviços, mas que assim seja. Pelo menos estamos afastados da linha de frente deste conflito... por enquanto, pelo menos."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

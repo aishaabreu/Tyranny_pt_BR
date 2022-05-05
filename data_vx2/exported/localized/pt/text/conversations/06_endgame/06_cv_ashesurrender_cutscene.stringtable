@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\06_endgame\06_cv_ashesurrender_cutscene</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Não quero guerra com [url=glossary:kyros]Kyros[/url]. Como faço para acabar com isso pacificamente?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Você pediria paz? Então resta apenas um caminho diante de você - dobrar o joelho, como fiz há muito tempo. Você deve oferecê-lo... imediatamente, sem hesitação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Talvez o Senhor aceitará e concederá autoridade sobre o Camadas. Mas dado seu poder e minha história, acho difícil imaginar [url=glossary:kyros]Kyros[/url] sofrendo nossa existência unida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Com sua rendição, todo o Terrato será unificado sob o testamento Soberano. O que senhores da guerra como nós oferecerão a um mundo em paz?" Ele solta um suspiro baixinho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Se isso acabar com essa guerra, deixarei o soberano sem dúvidas quanto à minha lealdade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Então faça como você deve, Arconte, mas faça isso com pressa. Retorne ao seu Pináculo da Montanha, antes que o momento de agir passe por você."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\05_cairnplains\05_qst_rebel01_releaseleftclaw</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Voltar para o Selvagem</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Viaje para [Plainsgate] e localize Deixou-Claw</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Fale com Deixou-Claw e solte-o</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Fale com cem-Sangue</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Fale com Mortes-In-Shadow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Kills-in-Shadow pediu para você resgatar Deixou-Claw, uma ex-seguidora de sua matilha e uma Homem-Besta, que foi capturada pelos colonos de [Plainsgate].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Viaje para [Plainsgate] e avalie a situação em torno do Homem-Besta capturado, Garra Esquerda.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Liberar à esquerda-Garra para que ele possa retornar aos seus Homens-fera irmãos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Fale com Centenas-Blood, líder da tribo Homem-Besta em Desfiladeiro de Pedra, e informe que você ajudou um de seus [url=glossary:stonestalkers]Perseguidores de Pedras[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Fale com Mortes-In-Shadow sobre a libertação de Deixou-Claw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>O jogador falou com Centenas-Blood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você matou Deixou-Claw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Você liberou Deixou-Claw.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Garra Esquerda, um Homem-Besta capturado em [Plainsgate], pediu para salvá-lo de uma multidão de humanos que o matariam por um crime que ele alega não ter cometido.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

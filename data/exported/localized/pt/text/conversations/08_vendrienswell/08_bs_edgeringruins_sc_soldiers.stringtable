@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\08_vendrienswell\08_bs_edgeringruins_sc_soldiers</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Se os [url=glossary:disfavored]Desfavorecido[/url] são tão poderosos, por que não podem acabar com alguns camponeses desesperados?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Cante meus irmãos! Cante a Vozes' glória e grandeza!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Não olhe para mim Vinculador do Destino, não estou quebrando nenhuma das regras de [url=glossary:tunon]Tunon[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Quanto tempo mais devemos esperar para que o Arcontes planeje? Estou com fome de luta!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

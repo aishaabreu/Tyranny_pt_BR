@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\01_cv_duskwatch_agathon</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>Um capitão de ombros largos [url=glossary:unbroken]ininterrupto[/url] pára perto do portão aberto. Ele olha para você com uma carranca incerta. "O Vinculador do Destino de [url=glossary:tunon]Tunon[/url], correto? Mesmo neste canto da Camadas, ouvimos falar do agente Tribunal alegando estender uma bandeira azul da paz para todos nós..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Se eu ajudar, você jura lealdade a mim e se entrega pacificamente a [url=glossary:kyros]Kyros[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

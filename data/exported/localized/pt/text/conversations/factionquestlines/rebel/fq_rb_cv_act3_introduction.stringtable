@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\factionquestlines\rebel\fq_rb_cv_act3_introduction</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Encadernador [Player Name]!" Arri se aproxima de você sem fôlego. "Nossos batedores avistaram [url=glossary:disfavored]Desfavorecido[/url] forças marchando em [url=glossary:lethian's crossing]A travessia de Lethian[/url]. O decreto de [url=glossary:kyros]Kyros[/url] deve ter colocado fogo em [url=glossary:graven ashe]Cinza esculpida[/url]. Aposto minha lança que ele quer o ferro da cidade sob seu controle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"O futuro da coalizão dança no fio de uma lâmina. Converse com os líderes. Esta pode ser nossa única chance de contra-atacar de uma posição de poder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Precisamos reunir nossas forças e contra-atacar. Convoque uma reunião da coalizão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Você está certo. Vou reunir todos para discutir nossos próximos passos. Podemos contar com eles realizando tanto." Ela franze a testa. "No entanto [url=glossary:kyros]Kyros[/url] sabe se eles cooperarão entre si."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"[url=glossary:lethian's crossing]A travessia de Lethian[/url] não me diz respeito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Devo lidar com isso agora?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Esse... isso está acontecendo quer você tenha ou não tempo para isso! Temos que reunir nossas forças e contra-atacar." Ela olha para você como se isso fosse evidente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Estaremos esperando por você em [url=glossary:ascension hall]Salão da Ascensão[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"É melhor você se preocupar. Se o [url=glossary:disfavored]Desfavorecido[/url] pegar o Cruzando, você terá colocado um novo arsenal de armas de ferro nas mãos do inimigo." Ela balança a cabeça. "Estou reunindo a coalizão. Seria bom se você aparecesse."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

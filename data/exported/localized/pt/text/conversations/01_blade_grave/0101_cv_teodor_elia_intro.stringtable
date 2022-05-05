@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\0101_cv_teodor_elia_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Um soldado [url=glossary:unbroken]ininterrupto[/url] luta para se levantar - uma flecha alojada em seu ombro, a outra em sua coxa. Ele tenta ficar de pé, mas seus músculos estão fracos demais para a tarefa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Um soldado [url=glossary:disfavored]Desfavorecido[/url] calmamente se aproxima do oeste. Ele considera o vulnerável sulista com um lábio torcido e um aceno de desaprovação de sua cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>O soldado [url=glossary:disfavored]Desfavorecido[/url] se volta para o campo [url=glossary:unbroken]ininterrupto[/url], frustração evidente em seu tom. Em seguida, seu olhar muda para você e volta para as paredes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Você vê uma mulher caminhando propositalmente no topo de uma plataforma ao longo da borda da parede. Ela levanta uma lança e a arremessa em Teodor, xingando baixinho quando ela quebra contra as rochas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Fraco e quebrado. Os prisioneiros fazem para o esporte pobre. Sua fuga foi animada, mas malditamente tola." Ele ergue sua espada e a aponta para o coração do homem [url=glossary:unbroken]ininterrupto[/url], pronto para deixá-lo mergulhar e empalá-lo no chão sujo de sujeira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Você está bem, soldado?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Assista isso se desenrolar.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Ele se vira para você perplexo, apertando os olhos para a extensão coberta de poeira, reconhecimento quase evidente em seu olhar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Já tive dias melhores, verme, mas mesmo que eu morra aqui... pelo menos posso contar este como o dia em que você não me forçou a entrar em uma gangue fedorenta para a diversão do seu Arconte. " Ele cospe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Vocês, couraçados, não costumam fazer perguntas antes de começar a enfiar lanças em nossas entranhas." Ele corta um punhado de catarro sangrento. "Surpreso que você pode até encadear palavras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Não consigo distinguir amigo de inimigo nestes ventos... Se houver alguma misericórdia em seu coração, peço que me ajude!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Antes que ele possa continuar, vocês dois ouvem o som de botas de ferro se aproximando.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>O soldado não tem força, mas nenhuma convicção enquanto luta para se mover apesar de seus ferimentos. Ele é impotente para fugir quando um oficial [url=glossary:disfavored]Desfavorecido[/url] se aproxima do oeste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Em um movimento rápido, ele mergulha sua espada no coração do homem, prendendo o soldado caído na terra enferrujada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Observar com interesse desapegado.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Pare com isso de uma vez!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Isso é realmente necessário?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>soldado olha você de cima a baixo. "Suae aquele rato do coro que ficou sob a pele Geral em [url=glossary:vendrien's well]Poço de Vendrien[/url], não é? Se você está aqui para recrutar esses Sulistas, estou muito feliz em poupá-los da agonia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Sua espada oscila quando ele percebe você. "Ah, Vinculador do Destino. Espero que você tenha vindo para arrumar a bagunça que esses vermes nos causaram. Mas para responder à sua pergunta... Ashe considerou assim, então sim, é."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Ele franze a testa em sua direção. "Suae... não, não aquele Vinculador do Destino do cerco Ápice? Você pode ter tido autoridade para segurar minha mão antes de virar as costas para o Em geral, mas temo que os pedidos Ashe sejam os únicos que aceito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Ele olha para você com uma expressão perplexa. "E por que eu faria isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Elia! Parece que toda a sua escavação inútil atraiu o Refrão. Quanto tempo mais você acha que essas paredes podem ficar de pé enquanto todas as forças [url=glossary:kyros]Kyros[/url]' se reúnem contra você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Tenho reforços agora, Elia! Se você abrir os portões, eu ainda posso facilitar isso para você." Ele lhe lança um olhar de cumplicidade que sugere que ele está mentindo e orgulhoso disso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Reforços ou estranhos, Elia?" Teodor convoca as defesas esfarrapadas. "Nem um dos meus e nem um dos seus, eu acho - embora seja difícil distinguir vocês."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Esses são seus aliados agora, Elia - traidores e canalhas que quebram guerras ao invés de vencê-las?" Teodor balança a cabeça. "Melhorar que você abra seus portões para mim e preserve sua dignidade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Sua expressão azeda. "Eu levantei essas paredes para manter os idiotas a favor do vento. Você não é amigo de de Teodor, mas não sei o que você é para mim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Sem merda. Um ou dois blindados, não faz diferença. Essas paredes podem resistir à fúria [url=glossary:kyros]Kyros[/url]' e ao chocalho do sabre do seu porco compatriota."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Se você está aqui, talvez meus dias de cagar em um buraco de terra tenham terminado. Corra de volta ao seu Arconte com o rabo torcendo as pernas, Teodor. Acho que meus reforços chegaram primeiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Eu sou assim. Porra. Cansado de te ouvir. Vá gritar na fortaleza de outra pessoa para variar, e pare de tentar me impressionar caçando prisioneiros desarmados. Talvez as damas do Norte fiquem trêmulas com a sua bravura, mas tudo o que isso me diz é que seu calção está mais vazio que seu crânio." Ela observa você com uma sobrancelha erguida.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Acho que não fomos apresentados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Não diga nada.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Não se engane, Elia. Você seria melhor servido como meu escravo do acampamento do que como meu inimigo. Um desperdício de bom potencial." Ele inclina a cabeça para o oeste. "Vinculador do Destino, vamos consultar quando você tiver um momento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ele é seu problema agora, Elia. Voltarei para reclamar aquele monte de lixo que você chama de forte." Teodor aponta para você um olhar duro e recua para a obscuridade dos ventos.</DefaultText>
+      <FemaleText>"Ela é seu problema agora, Elia. Voltarei para reclamar aquele monte de lixo que você chama de forte." Teodor aponta para você um olhar duro e recua para a obscuridade dos ventos.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Eu lhe dei a chance de se render e ser meu escravo do acampamento, Elia. Quando eu içar você em uma lança, lembre-se de que você teve uma escolha." Ele olha para você e volta para a obscuridade dos ventos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Ela cospe sobre a borda. "Como está isso para sua saudação cortês?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Não se engane, Elia. Você seria melhor servido como meu escravo do acampamento do que como meu inimigo. Um desperdício de bom potencial." Ele inclina a cabeça para o oeste. "Vinculador do Destino, vamos consultar quando você tiver um momento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

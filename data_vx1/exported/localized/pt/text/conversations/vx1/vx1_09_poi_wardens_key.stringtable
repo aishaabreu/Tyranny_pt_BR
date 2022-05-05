@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\vx1\vx1_09_poi_wardens_key</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Acho que [url=glossary:warden's key]Chave do Guardião[/url] deve funcionar a partir daqui. Experimente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Que [url=glossary:warden's key]Chave do Guardião[/url] deve trabalhar à distância. Experimente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Acho que as keystones não funcionam neste intervalo, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Bauble chamado [url=glossary:warden's key]Chave do Guardião[/url] deve funcionar aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Hora de ver se este [url=glossary:warden's key]Chave do Guardião[/url] faz o que anuncia. Quer fazer apostas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Se este chamado [url=glossary:warden's key]Chave do Guardião[/url] realmente funciona à distância... Gostaria de saber o que mais poderia desbloquear..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>O farol está muito longe para usar a tocha. Você precisará de algo mais para ativar o farol à distância.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Ao considerar a distância entre você e o mecanismo Oldwalls, você sente um leve calor emanar do [url=glossary:warden's key]Chave do Guardião[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Ao considerar a distância entre você e o mecanismo Oldwalls, você sente um leve calor emanar do [url=glossary:warden's key]Chave do Guardião[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

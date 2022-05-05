@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\vx1\vx1_09_cv_oldwalls_mercenaries_jaspos</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Veja, lhe disse que o Vinculador do Destino viria até nós." Ela tira a poeira das mãos e as coloca nos quadris, respirando fundo e com satisfação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Jaspos manda lembranças. Visto que você está aqui, você deve ter matado os outros." Os mercenários com ela resmungam com raiva das notícias. "Agora é uma questão de vingança."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Jogue entulho na cabeça do mercenário.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Afaste-se. É realmente assim que você quer morrer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Ataque] "Venha e tente me impedir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Essa é a ideia, Fatebinder!" Os mercenários sacam suas armas e atacam em meio a uma cacofonia de gritos e bronze tinindo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Vamos, guerreiros como você e eu somos feitos para a ação. Chega de conversa, vamos dançar." Com um sorriso sombrio, ela acena para sua tripulação, sinalizando para atacar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Você pega um pesado fragmento de pedra do chão úmido e o arremessa em direção a um dos soldados, esmagando-o na cabeça com um estalo retumbante. Seu corpo fica mole e cai no chão, tremendo momentaneamente antes de ficar parado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Prostituta sem mãe!" Ela encara seu companheiro morto, o sorriso apagado de seu rosto. "Suficiente brincando. Mate o Fatebinder!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\03_burninglibrary\03_cv_int02_gaptooth_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Gaptooth sorri amplamente para você, seu homônimo em plena exibição. "Nós vencemos!" Suas palavras têm um toque de descrença. "Foi difícil, mas conseguimos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Honestamente, estou tão surpreso quanto você. Até nos encontrarmos novamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"E a menos que você queira morrer, sugiro que siga em frente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Ataque] "E que pena que agora é hora de morrer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Gaptooth levanta as mãos e recua um pouco. "Ok! Nós vamos!" Ela vira as costas e foge da sua presença.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Claro, Fatebinder! Vá com boa saúde." Ela sorri maliciosamente. "Até nos encontramos novamente!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"O que você quer, Vinculador do Destino?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Deixar] "Nada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Ataque] "Mudei de ideia. Você não pode viver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Nó de script10</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Nó de script11</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\companions\companion_bs_lantry_recountingofdeeds</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Venha morrer nas mãos do herói de [url=glossary:vendrien's well]Poço de Vendrien[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Mil vidas acabaram por nossas mãos. Corra para seus filhos enquanto ainda respira!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Você está diante do infrator dos Éditos! Se é a morte que você procura, não procure mais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Vou adicionar seu nome ao canto fúnebre dos caídos... a música ficou muito longa, mas há espaço para mais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Você ousa atacar o Vinculador do Destino, a mão sangrenta da justiça de [url=glossary:tunon]Tunon[/url]? Nós vamos é seu funeral... "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Você levantaria a mão contra um guerreiro da justiça? Então avance e seja julgado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Passe para cima! Venha, encontre sua morte nas mãos do Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Curve diante do Arconte dos Tiers! Ou morra, mas se curvar é mais fácil..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Você desafiaria o Quakebringer, carrasco de Arcontes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Tremble antes do Stormcaller! Corram seus tolos... CORRAM!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Vem desafiar o Firestarter? Vamos adicionar suas cinzas ao amontoado de mortos."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

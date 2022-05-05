@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\01_poi_oldwall_01_rust_storm</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Finalmente, um descanso de [url=glossary:blade grave]Sepultura de Lâminas[/url] tempestades... ferrugem amaldiçoada chega a todos os lugares..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Os Oldwalls não são um abrigo ideal para a tempestade, mas terá que servir por enquanto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Finalmente uma chance de tirar a ferrugem do meu cabelo. Não que este lugar seja mais limpo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Oldwalls protegerá o bando das garras cortantes do vento... mas será um caminho mais mortal para a caminhada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Não é o abrigo ideal, mas o Oldwalls deve nos dar um alívio da tempestade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Fora do vento e da sujeira em uma estrutura antiga cheia de armadilhas mágicas. Não sei se isso é melhor..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Nó aleatório 7</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

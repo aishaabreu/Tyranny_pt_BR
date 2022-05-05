@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\0101_cv_jacomus_fight</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Fatebinder!" Jacomus avança com intensidade assassina em seu olhar. "Perdi soldados naquele ataque - bons nortistas que não verão suas casas novamente!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"[url=glossary:graven ashe]Cinza esculpida[/url] nunca esquecerá isso... sua raiva é algo que apenas um Arconte poderia compreender. Espero, para o seu bem, que você tenha a decência de morrer aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Ele entrega um sinal para o resto de sua coorte. "Ataque o Fatebinder!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Então mande seus olhos para o Norte. O que me importa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"É tarde demais para se desculpar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Não diga nada.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Ele faz uma careta. "Você não respeita nossos valores, nossa missão ou nossas vidas. [url=glossary:tunon]Tunon[/url] estava errado em dar a você mesmo um pedaço de poder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Somos o sangue do Norte, e nunca esquecemos um desrespeito contra nosso povo! Você transgrediu tudo o que nos é caro."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

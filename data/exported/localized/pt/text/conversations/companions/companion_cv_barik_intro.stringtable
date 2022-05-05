@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\companions\companion_cv_barik_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Vinculador do Destino. Vejo que ainda está ocupando espaço. Precisa de algo meu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Mudei de ideia. Gostaria que você me acompanhasse em minha missão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Não. Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Eu não gosto de ser jogado de lado como um pedaço de sucata, mas não vou ignorar uma oportunidade de quebrar alguns juramentos." Ele gesticula para a frente. "Deve nós?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Você não consegue distinguir a expressão do soldado encouraçado sob seu capacete retorcido. Ele apenas olha para você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Não tenho tempo para trocar histórias de guerra - estamos nos preparando para a batalha!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

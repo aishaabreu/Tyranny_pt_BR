@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\00_recruits\04_cv_forge_vollus</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Você acha que poderia libertar meu amigo de sua armadura?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Se você acha que eu ainda não estava de olho nesse problema, você não conhece o [url=glossary:forge-bound]Forge-Bound[/url]." O grande ferreiro lança um riso sincero.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Barik simplesmente cobre os olhos com a palma da mão e balança a cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Longe de mim fofocar, Vinculador do Destino, mas ouvi dizer que um ferreiro com algum conhecimento de sigilos trabalha em uma pequena ruína no [url=glossary:stone sea]Mar de Pedra[/url]. Os [url=glossary:lethian's crossing]A travessia de Lethian[/url] ferreiros provavelmente sabem mais do que eu sobre esses assuntos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Além de Zdenya, quem pode ajudar? Talvez alguém não vinculado às guildas do Norte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"E se eu precisar de alguém... menos comprometido com as leis do soberano?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Fatebinder!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ou eles poderiam, se ainda estivessem lá." Vollus bate no queixo e dá de ombros.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Eu estava de olho nesse problema espinhoso, mas acho que está muito além de mim. Mestre Zdenya provavelmente poderia ter feito algo a respeito, mas, bem..." Ele olha para você de forma significativa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Mestre Zdenya, no entanto, ou os ferreiros da forja [url=glossary:lethian's crossing]A travessia de Lethian[/url] podem ajudá-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Se você acha que eu ainda não estava de olho nesse problema, você não conhece o [url=glossary:forge-bound]Forge-Bound[/url]." O grande ferreiro lança um riso sincero.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

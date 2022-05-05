@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\02_bs_lc_arrival_soldiers_dis</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Estou de plantão. Fale com outra pessoa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Não posso te ajudar em nada, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Meu dever me espera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Por favor, me deixe em paz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"A Irmandade nunca tirará [url=glossary:lethian's crossing]A travessia de Lethian[/url] de nós."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Nós somos os verdadeiros guardiões de [url=glossary:lethian's crossing]A travessia de Lethian[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Os colonos ficaram mais inquietos desde que o [url=glossary:edict]Edital[/url] foi emitido. Mantê-los na linha será mais difícil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Não tivemos muitos reforços desde que o [url=glossary:edict]Edital[/url] foi emitido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Dizem que você é um Arconte, mas você tem um longo caminho a percorrer antes de se tornar algo como [url=glossary:graven ashe]Cinza esculpida[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Sua [url=glossary:edict]Edital[/url] pode abranger todas as regiões, mas Égide de Ashe nos segue em qualquer lugar que vamos."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

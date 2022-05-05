@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\05_cairnplains\05_cv_irene_hg_merchant</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Saudações, gentil senhor. Como posso ser útil?"</DefaultText>
+      <FemaleText>"Saudações, tudo bem madame. Como posso ser útil?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Mostre-me o que você tem à venda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Não preciso de nada agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Bem-vindo de volta. Posso interessá-lo em meus produtos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"O que você pode me dizer sobre as Agulhas da região? Imagino que você tenha negócios com viajantes dessas áreas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Não posso dizer que sei muito sobre os próprios Pináculos. Eles sempre estiveram lá, imponentes - nunca fazendo muita coisa além de projetar sombras. Eu, no entanto, encontro alguns itens interessantes dessas partes, uma e outra vez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"No último Dia dos Juízes, um sujeito me vendeu um carvão que foi tirado de dentro de um dos Pináculos. Ou então ele afirmou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Não o vejo desde então. Ele disse que estava indo para Apedrejar. Então, eu realmente não posso fazer perguntas a ele sobre isso, infelizmente. Mas pode valer a pena dar uma olhada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Saudações, Fatebinder!" Ela faz uma reverência profunda. "Vocêe nos prestou um ótimo serviço tirando o [url=glossary:scarlet chorus]Coro Escarlate[/url] de nossas costas. Em troca, tenho um preço especial para você em todos os meus produtos!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

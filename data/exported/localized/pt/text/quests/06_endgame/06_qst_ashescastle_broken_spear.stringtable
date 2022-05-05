@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\06_endgame\06_qst_ashescastle_broken_spear</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Lança quebrada</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Viajar para a Aldeia de Caedo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Confrontar o respirador bucal Nefsio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Elimine o respirador bucal Nefsio's guardas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Siga o respirador bucal Nefsio na casa do colono.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Elimine o respirador bucal Nefsio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Retorne a Acalos em Iron Hearth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Um [url=glossary:scarlet chorus]Coro Escarlate[/url] encrenqueiro, Respirador Bucal Nefsio, passou o último ano mirando [url=glossary:disfavored]Desfavorecido[/url] depósitos de suprimentos. O [url=glossary:disfavored]Desfavorecido[/url] o encurralou em uma vila perto de [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Viaje até lá e domine-o antes que ele atravesse a linha defensiva e escape.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Viajar para a Aldeia de Caedo para enfrentar Respirador Bucal Nefsio antes que ele escape.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Respirador Bucal Nefsio está encurralado em Vila Caedo. Lide com ele antes que ele tenha a chance de escapar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>O respirador bucal Nefsio fugiu. Elimine seus guardas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Respirador Bucal Nefsio se retirou para a casa de um colono. Siga-o e faça justiça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Respirador Bucal Nefsio está se recusando a cooperar com o [url=glossary:disfavored]Desfavorecido[/url]. Mate ele.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Você lidou com o encrenqueiro, Respirador Bucal Nefsio. Regresso a Acalos e diga a ele que você completou sua tarefa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você lidou com o problemático Respirador Bucal Nefsio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>A oportunidade de resolver esta tarefa passou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Você traiu seus aliados e não pode mais completar esta tarefa.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

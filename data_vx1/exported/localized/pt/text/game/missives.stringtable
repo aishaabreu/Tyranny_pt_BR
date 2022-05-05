@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>game\missives</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Combustível para o Chama</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Que o conhecimento sobreviva</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\00_cv_traininggrounds_weaponmaster</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>O homem diante de você oferece um aceno de cabeça em sua abordagem. Ele encontra seus olhos hesitantemente e faz uma pausa antes de falar. "Obrigado por me receber, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Não poderemos treinar sem os fundos adequados. Se você puder poupar alguns anéis para nós, vou garantir que este lugar esteja funcionando com eficiência."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Meu treinamento só vai te levar até aqui, [Título do jogador]. Você pode contratar especialistas adicionais para adicionar variedade ao seu regime de treinamento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Como posso ajudá-lo, [Título do jogador]? Coceira para aprimorar suas habilidades?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Gostaria de treinar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Deixar.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"O nome é Rhys. Estou aqui porque sou bom em apenas duas coisas - matar meus inimigos e ver para onde as correntes fluem. Prefiro não ser pego do lado errado da história, então estou aqui para humildemente oferecer minha espada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Como posso ajudá-lo, [Título do jogador]? Coceira para aprimorar suas habilidades?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"O que posso fazer aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Se você quiser aprimorar suas habilidades de luta ou talvez aprender algumas novas, este é o lugar. Mas realmente, este Pináculo é o seu domínio. O que você faz e quem você convida para ajudá-lo é sua escolha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Sou bem versado em muitas formas de combate e posso ajudá-lo a se manter versátil durante uma luta, se desejar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Por que você escolheu me seguir agora?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Estas torres nos dominam há gerações. Quem os fez estava muito além de nós, meros camponeses no chão. Eles eram objetos de admiração e lenda em Tierman histórias... e agora você os reivindicou." Ele olha diretamente para você, com convicção em seus olhos. "Isso é razão suficiente para mim."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

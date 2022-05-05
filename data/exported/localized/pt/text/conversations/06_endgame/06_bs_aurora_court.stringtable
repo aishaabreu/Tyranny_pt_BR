@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\06_endgame\06_bs_aurora_court</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Não achei que conseguiria sair vivo daquele passe. Você fez bem para a legião, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Aurora evita fazer qualquer contato visual com você, mas continua falando com sua empresa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Arconte... Vinculador do Destino... Não sei mais o que fazer com você, mas isso pouco importa, desde que você seja leal à legião."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Aurora murmura em lágrimas sobre a perda de [url=glossary:graven ashe]Cinza esculpida[/url]. Ela não responde.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

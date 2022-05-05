@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\06_cv_dis_grandmother_act2_skypillar</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Você se contenta em andar à procura de uma conversa? Porque alguns de nós querem descer para se juntar às tropas! Há uma guerra e estamos perdendo."
+
+"Não vou descansar até que o teletransportador volte a funcionar. Sugiro que você faça o mesmo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Como você acha que Ashe responderá à guerra civil?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Fale-me sobre você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Parece que eu deveria investigar o teletransportador."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Acho que seria melhor!" Ela cruza os braços e estremece contra a brisa fresca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Ela pisca para você e balança a cabeça. "Vinculador do Destino, eu sou o tenente que vai começar a expulsar as pessoas deste Spire se eu não vir o teletransportador piscar para a vida! Agora não é o momento para eu desfilar realizações e esperanças para o futuro. Guarde para depois da guerra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Com tato e coordenação. [url=glossary:the voices of nerat]As vozes de Nerat[/url] é uma criatura caótica, emocional e sem fundamento. [url=glossary:graven ashe]Cinza esculpida[/url] vai desmantelar o [url=glossary:scarlet chorus]Coro Escarlate[/url] e limpar seu líder do rosto de Terrato. Conte com isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Falo com você em breve, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Acho que você tem dúvidas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Posso praticamente ver o Império do Norte daqui." Ela aperta os olhos para o horizonte. "Espero que quem construiu este lugar tenha morrido. Existe algo como ficar muito alto."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

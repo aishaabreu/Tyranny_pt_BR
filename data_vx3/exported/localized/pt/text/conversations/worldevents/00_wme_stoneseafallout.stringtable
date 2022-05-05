@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\worldevents\00_wme_stoneseafallout</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>42</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Um avança, um gigantesco Mulher-Besta cujas escavações pendem cheias de cicatrizes e empoeiradas. Ela rosna baixo, arrepios subindo, e sua matilha se move como uma só, se aproximando de você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>O chão treme ao seu redor, rachaduras se formando aos seus pés, forçando-o a recuar. As colinas ressoam, desabando na paisagem rompida. Figuras se movem em sua direção através da poeira, suas silhuetas definidas contra um suave brilho violeta. Eles se transformam em homens e mulheres vestidos com túnicas, armados com bastões e ladeados por guerreiros com sapatos de ferro que carregam a heráldica marcada do [url=glossary:disfavored]Desfavorecido[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Os Homens-Besta parecem derreter do solo e da pedra, erguendo-se de agachados ou caindo de afloramentos, cada cabeça coberta até a garra em pelo emaranhado cinza ardósia e cheirando a sangue e decomposição. Eles circulam você, pisando nos dedos e pés nus, olhos piscando amarelo icterícia, lábios torcidos para trás de presas imundas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Ataque-os.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Fale com eles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Você tirou [url=glossary:cairn]Cairn[/url] de nós!" um dos Tremedores de terra sibilos, cajado brilhando com luz avermelhada. "Você o tirou de nós e o deu às Feras no cio!" A terra treme. "Nós sacrificaremos seu sangue e ossos para a terra, e então vamos esfolar seus amigos imundos e usar suas peles!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Você tirou [url=glossary:cairn]Cairn[/url] de nós, órfão órfão!" um dos Tremedores de terra sibilos, cajado brilhando com luz avermelhada. "Pior, você seduziu nossa guilda para a insurreição! Mas como Terrato nós suportamos. E como Terrato, beberemos seu sangue e transformaremos seus ossos em pó!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Você tirou [url=glossary:cairn]Cairn[/url] de nós e massacrou nossos líderes!" um dos Tremedores de terra assobia, cajado brilhando com luz avermelhada. "Ainda assim, levamos adiante a vontade deles. Nossa restauração começa com sua destruição, Fatebinder!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Ataque-os.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Fale com eles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Ataque-os.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Fale com eles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Ataque-os.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Fale com eles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Você prepara suas armas e se prepara para o combate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Suas mãos perto de suas armas, você considera suas palavras cuidadosamente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Você prepara suas armas e se prepara para o combate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Desarme a situação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Ameaçá-los.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Suas mãos perto de suas armas, você considera suas palavras cuidadosamente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Desarme a situação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Ameaçá-los.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[10.000 anéis.] Suborná-los.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Adotando seu tom mais calmo e linguagem corporal mais amável, você fala com a Mulher-Besta, tentando acalmá-la. Os olhos dela nunca deixam os seus, e quando o ataque vem, é notavelmente coordenado, já que é totalmente sem palavras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Você recua, endireitando os ombros, jogando as mãos para os lados, tornando-se o maior possível, e grita para o Mulher-Besta. Eles estão aqui porque você derrubou o maior deles, você supõe. E se você pode derrubá-la, então que esperança eles têm de colocar uma garra em você?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>As Bestas dê um passo para trás em seus latidos, e a alfa Mulher-Besta olha para seus compatriotas. Ela recua lentamente, então, como um só, o bando sai da estrada e entra na selva de onde eles vieram. Você está à esquerda para continuar sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>A Mulher-Fera a cabeça se move para o lado, suas pupilas se contraem e as narinas dilatam. Ela bufa baixinho, então ataca você sem dizer uma palavra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Você calmamente levanta as mãos e adota seu tom mais racional. Você tenta mostrar a eles a razão: [url=glossary:cairn]Cairn[/url] foi selado pelo Soberano [url=glossary:edict]Edital[/url], não suas ações, e Radix's fortaleza não poderia ter resistido contra as forças Refrão e [url=glossary:stonestalker]Perseguidor de Pedras[/url] por muito mais tempo, mesmo sem a sua intervenção...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Você ajudou seus irmãos e irmãs, o Earthshaker admite. E você parece respeitar [url=glossary:cairn]Cairn[/url], mesmo que tenha acabado com ele. Ele finalmente assente. Hoje vocês podem seguir caminhos separados, mas quando se encontrarem novamente, serão como inimigos. Eles deixam você para continuar sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Suas palavras não são totalmente sem mérito, o Earthshaker admite, mas suas ações falaram com maior força do que o discurso jamais pode reunir - elas não podem ficar impunes. A terra treme quando ele começa a traçar sigilos no ar, e os [url=glossary:disfavored]Desfavorecido[/url] avançam sobre você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Silêncio!" o Earthshaker ruge e o chão responde, pedrinhas caindo de pedregulhos próximos. Ele começa a desenhar sigilos de [url=glossary:cairn]Cairn[/url] no ar, e os [url=glossary:disfavored]Desfavorecido[/url] avançam sobre você. "Sua o tempo se aproxima, Fatebinder!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Você olha de nariz empinado para os magos e seus guardas. Quantas vidas terminaram em suas mãos, você pergunta? Quanta energia fluiu através de sua forma? Eles realmente pensam que um par de armaduras de ferro e alguns sigilos os protegerão quando tantos outros falharam?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>O Abanador de Terras gagueja de raiva, mas uma luva de ferro aperta seu ombro. "Ouça o Vinculador do Destino," o [url=glossary:disfavored]Desfavorecido[/url] diz ao mago. "Apenas um tolo escolhe uma batalha tão desfavorável." O Abanador de Terras olha para seus companheiros, e cada um acena com a cabeça de acordo com o [url=glossary:disfavored]Desfavorecido[/url]. "Assim seja, Vinculador do Destino," o Earthshaker cospe. "Nos separamos hoje, mas nos enfrentaremos como inimigos um dia." O grupo se afasta, deixando você continuar sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>O Abanador de Terras gagueja de raiva, e seu colega mago dá um passo para trás de você. "Todos morre eventualmente," um dos [url=glossary:disfavored]Desfavorecido[/url] diz, lâmina de ferro irregular apontada para você. "Todos salve o soberano. Talvez hoje seja o nosso dia. Mas talvez seja seu." Encorajados pelas palavras de seus aliados, os Tremedores de terra começam a desenhar sigilos no ar. A terra treme...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>O Abanador de Terras pisca para sua oferta. "De onde você acha que os anéis vêm?" ele rosna. "A terra oferece sua recompensa por nossas carícias, tolo! Você acha que valorizamos anéis sobre o Arconte de Pedra? Pelas vidas de nossos irmãos?" Ele bate seu cajado no chão e ele ressoa como se estivesse com raiva. "Mate o Fatebinder!" ele grita.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Fuja da área.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Você escapa ileso e continua sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

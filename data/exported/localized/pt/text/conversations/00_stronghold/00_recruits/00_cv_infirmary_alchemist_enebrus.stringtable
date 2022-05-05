@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\00_recruits\00_cv_infirmary_alchemist_enebrus</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Manutenção. Volte mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[url=glossary:sage]Sábio[/url] está preocupado em examinar cada ranhura e rachadura no trabalho de pedra do Pináculo. Ele vê você e começa a balançar a cabeça em espanto. "By [url=glossary:kyros]Kyros[/url]' saco enrugado, como em Terratus você construiu algo assim tão alto do chão! Como você protege seus frascos do vento? O que você faz quando chove?" Antes que você tenha a chance de responder, o rosto dele já se inclinou para uma coleção de ervas crescendo no vaso, ignorando completamente qualquer resposta que você possa ter para ele. "Terei certeza de fazer algo digno deste boticário, não se engane."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"O que você fez para mim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Deixar.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Você pode fazer isso rápido? Estou muito ocupado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Sim, Fatebinder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Deixe-me mostrar a você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Não tenho nada para você no momento. Volte mais tarde."
+
+[Recrutas podem gerar itens para você enquanto você ganha experiência ao se aventurar no mundo.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>velho [url=glossary:sage]Sábio[/url] agita uma panela vigorosamente antes de perceber você. "Ah, Vinculador do Destino. Recebi missivas ressaltando a boa vontade que você demonstrou a alguns de meus colegas no Escola de tinta e pena." Ele sorri com um calor genuíno. "Eu te julguei mal - Levei você para algum belicista imbecil que teria coisas oferecidas a eles na ponta oposta de uma espada, em vez de realmente fazer algo viver com suas próprias mãos." 
+
+Seu humor duram apenas enquanto sua poção leva para fermentar, quando a panela que ele estava mexendo começa a engasgar com sons estranhos e luzes. "Olhar o que você fez! Se há algo que você queria, vá em frente!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

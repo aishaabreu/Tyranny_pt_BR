@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\0101_cv_elia_plateau_secure</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>37</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Saudações, [Player Name], meus agradecimentos novamente por derramar sangue em nossa defesa. Não estamos acostumados a ver outras pessoas pegarem em armas em nosso nome."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Elia acena para você, seu rosto mostrando a sugestão de um sorriso agradecido. "Muitos obrigado - não vamos esquecer como você sangrou com o [url=glossary:unbroken]ininterrupto[/url]. Já que nós dois ainda estamos de pé, manterei minha palavra para você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Desde que você abriu o caminho para nós, meus soldados e eu estamos livres para peidar a favor do vento e nos sentimos seguros sabendo que o [url=glossary:disfavored]Desfavorecido[/url] não sentirá o cheiro. Assim que nos reunirmos, partiremos daqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Você tem sido um grande trunfo para o [url=glossary:unbroken]ininterrupto[/url]. Considerando as vitórias que você nos conquistou, eu diria que você merece todos os elogios que pudermos acumular sobre você, que venha o fim da guerra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Obrigado novamente por tudo. Sei que ainda há muito a ser feito no Violação de Oldwalls e em outros lugares."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>A batalha acabou. O choque de ferro e bronze que encheu o ar terminou, deixando apenas os lamentos da tempestade e os últimos suspiros irregulares de um soldado moribundo. Elia sobe o caminho que leva ao platô encharcado de sangue e se move em sua direção, claramente pisando em um cadáver [url=glossary:disfavored]Desfavorecido[/url] da mesma forma que um tronco caído.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Elia sorri para você com orgulho, embora rapidamente desapareça. "Devo-lhe meus agradecimentos, embora suspeite que seja a última coisa que você deseja. Vou compartilhar o que você quer saber, como prometido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Elia sorri para você com orgulho, embora rapidamente desapareça. "Devo-lhe meus agradecimentos, embora suspeite que seja a última coisa que você deseja. Vou compartilhar o que você quer saber, como prometido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Ainda me é estranho que o [url=glossary:unbroken]ininterrupto[/url] tenha servido aos interesses do [url=glossary:scarlet chorus]Coro Escarlate[/url], mas suponho que muitas coisas são estranhas em tempos de guerra. Com Mattias recrutado em alguma gangue, o [url=glossary:unbroken]ininterrupto[/url] terá que continuar sem ele. Pena perder um bom capitão..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[Decisão de conquista] "Conhece algum outro artefato de valor que valha a pena caçar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Regente Epistratos carregava o Elmo do Primeiro Regente, mas foi pego de surpresa quando o [url=glossary:edict]Edital[/url] de Tempestades bateu sem avisar." Elia olha para você, aparentemente pronto para falar, e então seu tom severo vacila. "Acho que você fez o que tinha que fazer durante a guerra, como todos nós... Aqui está um mapa com o local onde o Regente caiu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Longe de Desfiladeiros de Ferrugem. Recebi a notícia de que ainda há [url=glossary:disfavored]Desfavorecido[/url] na área, mas parece que a legião está em plena retirada. Duvido que estejam com pressa de alimentar mais corpos para a tempestade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Você sabe alguma coisa sobre a Ashe filha, Amelia?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Você estava procurando por um artefato, certo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"O que é o Insígnia Firme?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"O que você aprendeu sobre o Regente?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Como chego ao local Pináculo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Sim, e estamos procurando há algum tempo." Ela olha ao redor com evidente exaustão. "Você tenta encontrar algo útil neste monte de lixo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Mattias nos mandou caçar os restos de Regente Aspison. Antes da guerra, ele era conhecido por carregar um artefato chamado Insígnia Firme." Seus olhos brilham quando ela diz o nome.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"É um símbolo de Stalwart's determinação na batalha. Antes da guerra, Regente Aspison o usava preso ao manto, e seus soldados ficaram mais ousados no campo de batalha quando o viram entrar na briga."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Dizem que pode reunir forças para resistir a qualquer ameaça e dar-lhes força para marchar com propósito sem sofrer danos. Quando você pensar sobre isso, aposto que o Insígnia poderia deixar um exército contra o [url=glossary:kyros]Kyros[/url]' windwall. Você poderia até mesmo entrar em Posto de Sentinela como se estivesse desfrutando de céu limpo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Estávamos procurando o corpo Regente. Em vez disso, encontramos registros de seus movimentos passados. Logo após o golpe [url=glossary:edict]Edital[/url], ele estava a caminho do que agora sabemos ser uma brecha no Oldwalls. Eu não poderia dizer o que ele achava que encontraria lá, exceto seus habitantes selvagens e uma morte prematura." Ela franze a testa com o pensamento. "Se ele planejava liberar o Maldito no [url=glossary:disfavored]Desfavorecido[/url], eu poderia ter dito a ele que ele era tão burro quanto Ashe martelo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Enviamos uma pequena equipe liderada por um dos nossos melhores - Gregos - para investigar a violação. Dizem que é um lugar amaldiçoado e cheio de Maldito. Provavelmente, o Insígnia Firme está lá."
+
+"Gregos viaja com um pequeno contingente de Sábios. Quem melhor para fazer uma expedição ao Oldwalls do que um bibliotecário empoeirado?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Não há estrada direta, mas diz-se que uma brecha no Oldwalls leva ao andar Pináculo do Oceano. Se você estiver decidido a fazer a jornada, encontrará inimigos piores do que os [url=glossary:unbroken]ininterrupto[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Ouvi dizer que ela foi capturada no segundo ano da guerra. Uma unidade sob o comando de Straydus Herodin pegou de Amélia coorte de surpresa."
+
+"Os prisioneiros foram espalhados por diferentes locais, mas Amélia - o verdadeiro prêmio - acabou em Posto de Sentinela. Provavelmente ela ainda está lá."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Então, para onde você vai daqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Onde posso encontrar a lâmina Destemido?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Eu quase esqueci que você também estava caçando artefatos. Espero que ambos consigamos o que queremos, hein?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Nosso líder, Mattias, estava procurando o Destemido antes que suas forças fossem presas por uma gangue [url=glossary:scarlet chorus]Coro Escarlate[/url]. Não ouvi nada desde que recebi um pássaro apressado e em pânico, então presumo que a luta continue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Então, para onde você vai daqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Se você tiver alguma dúvida, meu tempo é seu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Empoeirado? Isso é ridículo. Nós Sábios gastamos muito tempo correndo para que nossas vidas acumulem poeira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Como uma violação se formou no Oldwalls?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Boa pergunta. Ou o [url=glossary:edict]Edital[/url] de Tempestades abriu um buraco nas pedras antigas, ou algo explodiu para fora. Especulação como essa é coisa de pesadelo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Já encontrei o Insígnia Firme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Você tem?" Ela sorri. "Nada mal para um Tribunal funcionário. Com o poder do Insígnia ao seu lado, mesmo o windwall causado pelo [url=glossary:edict]Edital[/url] de Tempestades pode não ser obstáculo algum."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

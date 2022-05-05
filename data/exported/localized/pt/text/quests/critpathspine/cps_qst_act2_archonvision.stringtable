@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\critpathspine\cps_qst_act2_archonvision</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>42</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Visões Agitadas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Interaja com o dispositivo Pináculo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Encontre um caminho para o [url=glossary:stone sea]Mar de Pedra[/url] Pináculos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Encontre um caminho para o [url=glossary:blade grave]Sepultura de Lâminas[/url] Pináculo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Encontre um caminho para o [url=glossary:lethian's crossing]A travessia de Lethian[/url] Pináculo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Entre no Spire em Howling Rock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Entre no Pináculo próximo ao Violação de Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Entre no Spire em Twin Rivers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Encontre uma maneira de subir ao topo do Pináculo do Amanhecer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Encontre uma maneira de subir ao topo do Pináculo do Oceano.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Encontre uma maneira de subir ao topo do Pináculo do Pôr do Sol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Investigue as torres</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Entre no Spire em Gulfglow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Encontre uma maneira de subir ao topo do Pináculo da Aurora.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Examine a misteriosa fricção.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Determine o significado da fricção.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Tudo o que você fez em [url=glossary:ascension hall]Salão da Ascensão[/url] em [url=glossary:vendrien's well]Poço de Vendrien[/url] deu a você o poder de interagir com o Pináculo. Antes de subir o Pináculo, você teve uma visão quando o [url=glossary:edict]Edital[/url] quebrou. Compreender essa visão pode ajudá-lo a entender melhor esse novo poder que você adquiriu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>O teletransportador que o levou ao topo do Pináculo da Montanha em [url=glossary:vendrien's well]Poço de Vendrien[/url] desligou e deixou você preso no topo do pilar. Talvez o estranho dispositivo em seu centro possa conter a chave para ativá-lo mais uma vez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Você ganhou acesso ao [url=glossary:stone sea]Mar de Pedra[/url]. A região abriga dois dos misteriosos Camadas' Pináculos, embora o terreno difícil dificulte a navegação. Encontre uma maneira de alcançar um desses Pináculos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Você ganhou acesso ao [url=glossary:blade grave]Sepultura de Lâminas[/url]. O Pináculo surge à distância, mas se eleva das impenetráveis Oldwalls ao norte. Procure uma maneira de alcançar o Pináculo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Você obteve acesso a Refúgio. O Pináculo da região está anexado aos Oldwalls no assentamento [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Viaje até lá e encontre uma maneira de obter acesso ao Pináculo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Você chegou em Rocha Uivante e localizou o Pináculo do Amanhecer, que é cercado por um forte [url=glossary:disfavored]Desfavorecido[/url]. Encontre uma maneira de inserir o Pináculo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Você chegou ao Violação de Oldwalls, que parece lhe oferecer a oportunidade de acessar o [url=glossary:blade grave]Sepultura de Lâminas[/url] Pináculo. Entre nas Velhas Muralhas e encontre uma maneira de chegar ao Pináculo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Você chegou em Rios gêmeos, que tem uma entrada para o Oldwalls que se conecta com [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Entre nas Velhas Muralhas para encontrar uma maneira de alcançar o Pináculo em [url=glossary:lethian's crossing]A travessia de Lethian[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Quando você chegou na base do Pináculo, você encontrou as mesmas runas e dispositivo de teletransporte que você viu na parte inferior do Pináculo da Montanha em [url=glossary:ascension hall]Salão da Ascensão[/url]. No entanto, tudo parece inerte. 
+
+Você precisará descobrir como ativar o dispositivo de teletransporte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Quando você chegou na base do Pináculo, você encontrou as mesmas runas e dispositivo de teletransporte que você viu na parte inferior do Pináculo da Montanha em [url=glossary:ascension hall]Salão da Ascensão[/url]. No entanto, tudo parece inerte. 
+
+Você precisará descobrir como ativar o dispositivo de teletransporte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Quando você chegou na base do Pináculo, você encontrou as mesmas runas e dispositivo de teletransporte que você viu na parte inferior do Pináculo da Montanha em [url=glossary:ascension hall]Salão da Ascensão[/url]. No entanto, tudo parece inerte. 
+
+Você precisará descobrir como ativar o dispositivo de teletransporte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Você teve uma visão do Pináculos espalhado pelo Camadas e pôde sentir a conexão entre eles e o Pináculo que você reivindicou em [url=glossary:vendrien's well]Poço de Vendrien[/url]. Reúna mais informações sobre essas estruturas misteriosas e procure-as sempre que possível.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10020</ID>
+      <DefaultText>Você chegou ao Oldwalls em Gulfglow, lar de um dos [url=glossary:stone sea]Mar de Pedra[/url] Pináculos. Encontre uma maneira de inserir o Pináculo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10021</ID>
+      <DefaultText>Quando você chegou na base do Pináculo, você encontrou as mesmas runas e dispositivo de teletransporte que você viu na parte inferior do Pináculo da Montanha em [url=glossary:ascension hall]Salão da Ascensão[/url]. No entanto, tudo parece inerte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10022</ID>
+      <DefaultText>Ao explorar você adquiriu uma fricção de carvão. Talvez examinar mais a fricção possa ajudá-lo a determinar sua importância.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10024</ID>
+      <DefaultText>Depois de examinar a fricção, você descobriu que era apenas uma imagem parcial de um símbolo que lembra o que você viu em [url=glossary:ascension hall]Salão da Ascensão[/url] em [url=glossary:vendrien's well]Poço de Vendrien[/url]. Continue sua pesquisa para determinar qual pode ser sua significância ou pesquise mais da imagem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Você aprendeu que o Spire no [url=glossary:blade grave]Sepultura de Lâminas[/url] está localizado dentro do Violação de Oldwalls. Agora é apenas uma questão de como navegar pela tempestade para chegar lá.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>A passagem que leva ao Pináculo do Pôr do Sol foi temporariamente selada devido aos recentes avistamentos do Maldito no Oldwalls. Você não pode alcançar o Pináculo neste momento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Você aprendeu que Pináculo do Amanhecer está localizado em Rocha Uivante onde [url=glossary:cairn]Cairn[/url] caiu.
+
+Você precisará encontrar um caminho para Rocha Uivante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Você aprendeu que um dos Pináculos está localizado em Gulfglow. Pergunte ao redor por pistas de como chegar lá.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Você parece ter descoberto o suficiente do símbolo para ver a imagem completa. Examine-o para ver como é.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Eldian reabriu a passagem que leva ao Torre do Sol, que pode ser acessada digitando o Oldwalls em [url=glossary:lethian's crossing]A travessia de Lethian[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você reivindicou o Ocean Spire no [url=glossary:blade grave]Sepultura de Lâminas[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você reivindicou o Torre do Amanhecer em Howling Rock.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Você reivindicou o Aurora Spire em Gulfglow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Você reivindicou o Pináculo do Pôr do Sol em [url=glossary:lethian's crossing]A travessia de Lethian[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

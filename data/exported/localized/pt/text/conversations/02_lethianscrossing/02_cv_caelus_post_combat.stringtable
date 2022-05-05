@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\02_cv_caelus_post_combat</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Você luta bem. Lembre-me de sempre ficar do seu lado no campo de batalha." O soldado afrouxa as amarras de suas manoplas e flexiona os dedos.
+
+"Pela Irmandade, quem sabe o quão pior isso poderia ter sido sem sua ajuda!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Preciso entrar no Oldwalls. Você pode me indicar a entrada?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"O que aconteceu aqui? O que são Raetommons planos para [url=glossary:lethian's crossing]A travessia de Lethian[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Deixar] "Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Você está de volta. O que posso fazer por você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"A entrada fica ao norte, mas a ponte está fora. Malditos flagelos são mais astutos do que aparentam. A menos que você queira pular o rio, você terá que dar a volta." Ele coloca o polegar por cima do ombro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Eu sou o irmão Caelus. Peço desculpas por não ter havido tempo para apresentações mais cedo. Em nome do [url=glossary:bronze brotherhood]Irmandade de Bronze[/url], dou as boas-vindas ao Rios gêmeos. Só posso supor que você está aqui por Raetommon?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Sua proeza é... inspiradora. Desejo que as relações entre você e o fraternidade fossem melhores. Você tem matado seu caminho através de nossas fileiras..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Eu gostaria de saber! Raetommon disse que iria executar a 'próxima parte de seu plano'. Ele destrancou a porta e entrou com alguns de nossos Irmãos."
+
+"Alguns minutos depois, o Maldito veio transbordando da entrada e nos atropelou! Eu vi Raetomon parado na entrada usando um capacete estranho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ele estava sorrindo! Ele viu o Maldito nos dominar e ele estava sorrindo! Então as portas se fecharam e fiquei um pouco mais ocupado em permanecer vivo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Você não terá muita sorte em entrar já que Raetommon selou a entrada atrás dele. Welby pode ser capaz de ajudá-lo, no entanto. Ela estava tentando reunir meu Irmãos nordeste daqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Caelus bate a mão no capacete e acena com a cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Nó de script 33</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

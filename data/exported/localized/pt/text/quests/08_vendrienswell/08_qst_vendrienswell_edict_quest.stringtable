@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\08_vendrienswell\08_qst_vendrienswell_edict_quest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>A vontade do conquistador</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Viaje para o acampamento [url=glossary:disfavored]Desfavorecido[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Proclamar [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] até o Arcontes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Entregar Palavra de [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] a Quinto Olho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Entregar Palavra de [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] a Marechal de Ferro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>[url=glossary:kyros]Kyros[/url] exige vitória em [url=glossary:vendrien's well]Poço de Vendrien[/url]. Como um Fatebinder de [url=glossary:tunon]Tunon[/url], você tem a tarefa de entregar [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] aos Arcontes do [url=glossary:disfavored]Desfavorecido[/url] e o [url=glossary:scarlet chorus]Coro Escarlate[/url]. Eles devem derrotar os rebeldes [url=glossary:vendrien guard]Guarda Vendrien[/url] em breve, ou todos no vale, aliados e inimigos, morrerão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Faça o seu caminho para sudeste através de Forte de Borda e viaje para o acampamento [url=glossary:disfavored]Desfavorecido[/url] onde [url=glossary:graven ashe]Cinza esculpida[/url] e [url=glossary:the voices of nerat]the Vozes de Nerat[/url] estão se reunindo para discutir sua estratégia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>[url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] deve ser entregue pessoalmente no Arcontes. Encontre-os no acampamento [url=glossary:disfavored]Desfavorecido[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Os [url=glossary:disfavored]Desfavorecido[/url] agora estão cientes da declaração [url=glossary:kyros]Kyros[/url]'. Resta informar o líder [url=glossary:scarlet chorus]Coro Escarlate[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Os [url=glossary:scarlet chorus]Coro Escarlate[/url] agora estão cientes da declaração [url=glossary:kyros]Kyros[/url]'. Resta informar o líder [url=glossary:disfavored]Desfavorecido[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Os dois Arcontes estão atualmente se reunindo dentro da tenda de [url=glossary:graven ashe]Cinza esculpida[/url] no extremo norte do acampamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você anunciou [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] a [url=glossary:graven ashe]Cinza esculpida[/url] e [url=glossary:the voices of nerat]the Vozes de Nerat[/url], mas se eles realmente começam a trabalhar juntos continua a ser visto.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\missives\msv_tunon_act1precitadel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Player Name],
+
+Os Arcontes me informa que a recaptura da cidadela dos Vendrien insurretos continua em ritmo acelerado. O fato de eles terem me escrito separadamente de suas intenções táticas divergentes não gera pouca preocupação, mas agora confio em seus esforços.
+
+Que seu bom senso o acompanhe no confronto vindouro com glória e sucesso e de volta à segurança de nossa corte.
+
+- [url=glossary:tunon]Tunon[/url] o Árbitro, Arconte da Justiça</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Agradecê-lo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Manifestar preocupação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Desabafe a frustração.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Arconte [url=glossary:tunon]Tunon[/url],
+
+Como sempre, suas palavras me fortalecem contra as dificuldades e conflitos iminentes. Aguardo ansiosamente o retorno ao seu salão; uma discussão razoável do código legal Soberano atrai muito após a discórdia desta campanha.
+
+- Vinculador do Destino [Player Name]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Arconte [url=glossary:tunon]Tunon[/url],
+
+Seu pássaro me encontra no caminho do conflito e do derramamento de sangue, e não posso deixar de admirar a sabedoria das decisões e atos que nos trouxeram a este ponto. Eu não questionaria o testamento Soberano, mas estou dividido.
+
+Se este [url=glossary:edict]Edital[/url] acontecer e eu nunca mais ver seu tribunal, espero que você se lembre dos acordos que fizemos forjado quando você me jurou em seu serviço.
+
+- Vinculador do Destino [Player Name]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Arconte,
+
+Eu marcho em direção a [url=glossary:ascension hall]Salão da Ascensão[/url] plenamente consciente do destino que provavelmente me espera, o Arcontes, e todo o hospedeiro Soberano dentro deste vale. Esse [url=glossary:edict]Edital[/url], o que passou desde que você o colocou em minha posse, e o comportamento do Arcontes me forçaram a reconhecer realidades do mundo que eu não reconhecia antes. 
+
+Se eu sobreviver a essas batalhas, saiba que o Vinculador do Destino que volta para você não é aquele que você enviou para enfrentar a execução.
+
+- Vinculador do Destino [Player Name]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Envie isto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Volte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Volte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Envie isto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Volte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Envie isto.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

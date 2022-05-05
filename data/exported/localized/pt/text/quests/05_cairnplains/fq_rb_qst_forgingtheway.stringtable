@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\05_cairnplains\fq_rb_qst_forgingtheway</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Forjando o caminho</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Viajar para Stone Down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Elimine o [url=glossary:scarlet chorus]Coro Escarlate[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Fale com Centenas-Blood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Lide com os invasores em Santuário de Boca Recortada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Derrote Cem-Sangue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Voltar para Cem-Sangue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Fale com Centenas-Blood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>[url=glossary:stonestalker]Perseguidor de Pedras[/url] tribo de Homens-Besta em Stone Down pode lhe dar acesso a Rocha Uivante. No entanto, conseguir que seu líder, Cem Sangue, concorde com isso será difícil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>O [url=glossary:stonestalkers]Perseguidores de Pedras[/url] pode ser encontrado em Apedrejar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Uma banda de [url=glossary:scarlet chorus]Coro Escarlate[/url] fica entre você e o [url=glossary:stonestalkers]Perseguidores de Pedras[/url]. Remova o refrão ameaça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Com o [url=glossary:scarlet chorus]Coro Escarlate[/url] fora do caminho, agora você pode se encontrar com Centenas-Blood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Cem Sangue pediu para você eliminar todos os invasores em Santuário de Boca Recortada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Você desafiou Centenas-Blood para combater em troca de acesso a Rocha Uivante e deve derrotá-la.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Os invasores em Santuário de Boca Recortada foram tratados. Volte para Cem Sangue em Stone Down e conte a ela sobre seu sucesso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Você derrotou Centenas-Blood em combate em Pedra pronta. Fale com ela sobre como ter acesso a Rocha Uivante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ao descobrir aquele irmão Caedis é de Radix, você optou por poupar o soldado [url=glossary:disfavored]Desfavorecido[/url] em Santuário de Boca Recortada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Você atacou os Stone Stalkers e não pode mais se encontrar com Centenas-Blood. Mate todos os Homens-Besta em Stone Down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você matou os invasores [url=glossary:disfavored]Desfavorecido[/url] em Santuário de Boca Recortada e, em troca, Centenas-Blood deu a você acesso a Rocha Uivante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você derrotou Centenas-Blood em combate e ganhou acesso a Rocha Uivante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Você eliminou a tribo [url=glossary:stonestalker]Perseguidor de Pedras[/url] e abriu caminho para Rocha Uivante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Você poupou a vida do [url=glossary:disfavored]Desfavorecido[/url] em Santuário de Boca Recortada e mentiu para Centenas-Blood sobre completar sua tarefa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>A oportunidade de resolver esta tarefa passou.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

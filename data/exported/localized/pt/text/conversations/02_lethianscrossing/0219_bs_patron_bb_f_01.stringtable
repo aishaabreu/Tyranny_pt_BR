@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\0219_bs_patron_bb_f_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Estas camas não parecem suficientemente resistentes. Eu gosto de bruto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"O que há com essas paredes? Não pretendo ficar quieto aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"A atmosfera funciona para mim. Exceto pelos barris. O que você acha que eles estão tentando dizer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Vou ficar aqui fora de perigo. Vou contratar alguém e esquecer Éditos e Senhores Supremos."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

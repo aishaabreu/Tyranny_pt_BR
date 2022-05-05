@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\05_cairnplains\05_qst_treasurehunter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Caçador de tesouros</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Pesquisar Stone Down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Devolva o Everwell a [Plainsgate].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Decida onde entregar a relíquia inestimável</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Arason quer que você procure o Everwell, uma relíquia do Azure que dizem que nunca fica sem tinta. Ele acredita que pode ser encontrado em Apedrejar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Se você já aprendeu o caminho para Apedrejar, vá até lá e procure por qualquer vestígio do Everwell.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Retorne para [Plainsgate] para entregar o Everwell para Arason ou Haygren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Tendo dragado uma relíquia de valor imensurável das profundezas do [url=glossary:stone sea]Mar de Pedra[/url], você pode considerar embolsar o tesouro ou fazer compras ao redor de [Plainsgate] por um preço mais alto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Haygren sugeriu que você devolvesse o Everwell aos cuidados de [Plainsgate] em vez de Arason.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Você decidiu não dar o Everwell para Haygren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você vendeu o Everwell para Arason.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você deu o Everwell para Haygren.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Missão falhou</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

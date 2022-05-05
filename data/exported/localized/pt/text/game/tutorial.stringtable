@@ -1,0 +1,809 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>game\tutorial</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>155</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Bem-vindo ao Terratus!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Se esta é sua primeira visita ao mundo de Tirania, observe estas janelas para ajudá-lo a se familiarizar com o jogo. Você pode desativar as mensagens do tutorial a qualquer momento no menu Opções de jogo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Personagens</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>A maioria das pessoas que você encontra no mundo é neutra ou amigável. Você pode interagir com eles clicando em seu círculo de seleção. Muitos personagens simplesmente irão cumprimentá-lo e seguir seu caminho, mas outros terão conversas maiores para explorar. O soldado Aurora tem uma conversa importante para você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Conversas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>As conversas envolvem você, outro personagem e, às vezes, outras partes, como espectadores ou companheiros que podem interferir. As escolhas que você faz mudam como a história se desenvolve e construirão uma reputação para seu personagem ao longo do tempo. As pessoas no mundo aprenderão sobre suas reputações - boas e ruins - e responderão de acordo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Para começar a criar um feitiço, selecione o símbolo Testemunho para o tipo de magia seguido pelo Sigilo de Expressão para determinar a forma do feitiço. Por exemplo, se você quisesse criar um Feitiço de bola de fogo, você selecionaria o Sigil of Flame como o Testemunho, seguido pelo Sigilo da Força Dirigida para determinar sua forma.
+
+Feitiços têm nomes padrão baseados no #990001 selecionado #. Você pode renomear seus feitiços usando a interface de feitiços.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Os atributos, habilidades, história e gênero do seu personagem - assim como as decisões que você tomou no Conquista - podem abrir opções para você no diálogo. Essas opções não são necessariamente superiores às outras respostas, mas oferecem uma variedade maior de opções para você selecionar. A maneira pela qual alguém responde às suas escolhas depende de sua personalidade e atitude individual.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[url=glossary:reputation]Reputação[/url] em Conversas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Cada personagem que falar com você exibirá um banner abaixo de seu retrato. Esses banners indicam com qual facção o personagem está aliado. A dica de ferramenta nesses banners fornecerá detalhes sobre como essa facção se sente em relação a você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Personagens e locais importantes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Muitas vezes, você verá os nomes de personagens e locais importantes exibidos em uma cor de texto dourada. As dicas de ferramentas nessas entradas do glossário fornecem informações importantes sobre o mundo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[url=glossary:lore]Conhecimento[/url] E dicas de reatividade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Em muitas conversas, você verá palavras ou frases exibidas em uma cor de texto verde. As dicas de ferramentas sobre eles fornecem informações que seu personagem conhece sobre o mundo, com base nas escolhas anteriores que você fez. Esses links podem ajudar a explicar por que outro personagem está sendo amigável ou hostil com você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Movimento e controles</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Para mover seu personagem, clique em qualquer lugar na tela onde o cursor seja um círculo de quatro fatias. Se você vir um círculo vermelho com uma linha atravessando-o, não poderá andar nessa parte do mapa. À medida que você adiciona companheiros ao seu grupo, todos os membros selecionados do grupo se moverão para suas posições correspondentes na formação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Combate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Tyranny usa um sistema de combate em tempo real que pode ser pausado. Como muitas vezes você gerenciará mais de um personagem por vez, é uma boa ideia pausar o jogo, emitir ordens e retomar em tempo real para ver as ordens serem executadas. O menu As opções também contém muitas opções para pausa automática quando certas condições são atendidas (por exemplo, o início do combate). Imprensa [keymap=PAUSE] para pausar e retomar o jogo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Seu personagem sempre pode realizar ataques básicos usando sua arma equipada, ou seus punhos se estiver lutando desarmado. Os personagens também possuem habilidades especiais e feitiços que podem ser usados em combate. Quando um personagem é selecionado, sua barra de habilidade exibe suas habilidades de atalho. À medida que novas habilidades e feitiços são adquiridos, eles são adicionados automaticamente à barra de habilidades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Todos os personagens do jogo, amigos e inimigos, têm cinco defesas primárias contra ataques: [url=glossary:parry]Defesa[/url], [url=glossary:dodge]Desviar[/url], Resistência, Vontade e Magia. Essas defesas são baseadas nos atributos do personagem, itens equipados e outros efeitos. A precisão de um personagem é baseada em sua habilidade com o tipo de arma que está empunhando. [url=glossary:accuracy]Precisão[/url] é comparado com as defesas apropriadas quando um ataque é feito para determinar a probabilidade de o ataque atingir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Todas as habilidades e feitiços do seu personagem podem ser acessados selecionando o ícone de categoria na parte inferior do quadro selecionado. Habilidades são agrupados em Talentos, Feitiços, Habilidades de combinação, Habilidades de artefato, [url=glossary:reputation]Reputação[/url] Habilidades e Posturas. Os ícones de categoria para [url=glossary:weapon sets]Conjuntos de armas[/url] e Itens rápidos seguem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Existem quatro resultados possíveis de qualquer ataque: Hit, Acerto crítico, Pastar e Senhorita. Um acerto crítico aumenta seu dano, enquanto um arranhão o reduz. Com cada ataque, você ganha experiência na(s) habilidade(s) da arma usada(s) para fazer o ataque. Mesmo uma falta vai conceder alguma experiência.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[url=glossary:armor]armaduras[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Todos os ataques que causam dano precisam superar o [url=glossary:armor]armaduras[/url] do alvo. A armadura de um inimigo reduz o dano recebido pelo valor listado, até um mínimo de 1 ponto. Algumas armaduras são mais fortes na defesa contra alguns tipos de dano do que outras. A maioria dos inimigos é forte contra um ou dois tipos de dano e fraco contra um número similar.
+
+Os tipos de dano são: Golpear, perfurar, Crush, Queimar, geada, Choque, Corroer e Arcano.
+
+Algumas habilidades causam dano bruto, o que ignora armadura.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Depois de criar um feitiço, use o botão Atribuir para adicionar esse feitiço a um dos membros ativos do grupo. Você pode atribuir um feitiço a mais de um personagem.
+
+Se você quiser modificar o feitiço depois de descobrir mais sigilos, selecione o feitiço do membro do grupo que deseja modificar. A interface será preenchida com as informações desse feitiço, permitindo que você o modifique e salve suas alterações.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>As vezes, uma arma ou feitiço simplesmente não é adequado para penetrar na armadura de um inimigo. Quando o ataque atingir, a armadura eliminará todos, exceto 1 ponto do dano recebido. Você ouvirá seus personagens reclamarem quando isso acontecer. Preste atenção, observe o tipo de dano que está sendo bloqueado e mude para uma arma ou feitiço que cause um tipo de dano diferente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Habilidade aumentada</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Uma de suas habilidades subiu de nível! Conforme você usa suas habilidades no jogo, elas acumulam experiência. Quando eles ganham experiência suficiente, eles aumentam seu nível de habilidade. À medida que os níveis de habilidade aumentam, seus personagens ganharão experiência para o próximo nível.
+
+Imprensa [keymap=CHARACTER_SHEET] para abrir o Ficha de Personagem e ver sua experiência de habilidade atual.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Minimapa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Ao percorrer o Camadas, use o mapa Mini no canto inferior direito da tela para ver em quais partes do mapa você já esteve e o que resta para explorar. Mantenha pressionada a tecla [keymap=MAXIMIZE_LOG] para maximizar o Mini-map, ou pressione a tecla [keymap=LOG_TAB_NEXT] para alternar entre o Mini-map e o log de combate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Cada Sigilo requer uma certa quantidade de [url=glossary:lore]Conhecimento[/url] habilidade para aprender e controlar. Os personagens devem ter uma habilidade [url=glossary:lore]Conhecimento[/url] pelo menos igual à dificuldade total do feitiço para lançar o feitiço.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>O mini-mapa exibe informações úteis, como a posição dos inimigos que você descobriu, baús que podem ser saqueados e personagens-chave da cena. Use os botões do lado direito do minimapa para alternar a exibição desses indicadores.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Companheiros</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>companheiro Versículo juntou-se ao seu grupo! Versículo é um guerreiro capaz, habilidoso em combate corpo a corpo e à distância. Ao adquirir companheiros, você precisará equilibrar seus pontos fortes com os pontos fortes de seu personagem para ter sucesso no combate. Embora seja possível se aventurar sozinho, você achará o jogo mais recompensador com um grupo bem equilibrado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Você pode visualizar e gerenciar o inventário, atributos e talentos do seu personagem usando os botões na barra de navegação na parte superior da tela ou pressionando a tecla de atalho associada às várias interfaces: [keymap=INVENTORY] para Inventário, [keymap =CHARACTER_SHEET] para seu Ficha de Personagem, [keymap=TALENT] para o Ficha de Talentos e [keymap=JOURNAL] para o Diário de Missões.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Agora existem dois personagens em seu grupo e ambos estão selecionados. Quaisquer comandos que você emitir agora afetarão os membros de ambos os grupos. Para selecionar um único membro do grupo, clique em seu círculo de seleção, seu retrato ou pressione [keymap=PARTY_SELECT_SLOT1] para selecionar o personagem do jogador ou [keymap=PARTY_SELECT_SLOT2] para selecionar Versículo. Para selecionar vários membros do grupo, clique e segure em qualquer lugar da tela e arraste o letreiro sobre os círculos dos membros do grupo que deseja incluir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Combos de Companheiros</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Quando você tem companheiros em seu grupo, você pode executar habilidades únicas e poderosas chamadas combos de companheiros. Essas habilidades permitem que dois personagens atuem em conjunto para criar um efeito poderoso. Tente usar a habilidade de combinação Pedra Encharca Sangue contra Demonstrações do Tarkis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[url=glossary:engagement]Noivado[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Um de seus personagens foi Acionado em combate corpo a corpo. Quando os caracteres são Acionado, eles param de se mover imediatamente. Se eles se afastarem do inimigo, eles provocarão um poderoso Ataque de Desengajamento. Seus personagens também irão automaticamente Envolver inimigos quando iniciarem ataques contra eles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Imprensa [keymap=IN_GAME_MENU] a qualquer momento para salvar o jogo, carregar um jogo salvo ou sair do Tirania. Você também pode usar [keymap=QUICKSAVE] para criar um quicksave do jogo e [keymap=QUICKLOAD] para carregar seu último quicksave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[url=glossary:engagement]Noivado[/url] é indicado por setas desenhadas entre os círculos de seleção de inimigos. Para ver com quem um personagem está se envolvendo - ou com quem - passe o mouse sobre o círculo de seleção para exibir as setas de engajamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Acerto crítico</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Você marcou um [url=glossary:crit]Crítico[/url]! Um [url=glossary:crit]Crítico[/url] é um resultado melhor do que um Hit e é mais provável que ocorram quando o [url=glossary:accuracy]Precisão[/url] do ataque for maior que a defesa do alvo. Ataques que causam dano causarão mais dano em um [url=glossary:crit]Crítico[/url]. Magias e habilidades que curam ou melhoram seus aliados serão melhores em um [url=glossary:crit]Crítico[/url]. Ataques que infligem efeitos de status ou Aflições terão duração aumentada em um [url=glossary:crit]Crítico[/url]. Arranhão são piores que Exitos e sofrem dano reduzido e duração do efeito.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Ferido</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Quando um membro do grupo sofre dano, ele começa a perder [url=glossary:health]Saúde[/url]. A barra de saúde ao lado de seu retrato começará a diminuir. Quando a saúde de um membro do grupo cair o suficiente, ele ganhará um Ferimento e a barra de saúde ficará vermelha. Personagens feridos têm sua vida máxima reduzida e recebem uma penalidade em todas as habilidades. [url=glossary:wounds]Ferimentos[/url] são removidos quando o grupo descansa ou quando um personagem sobe de nível.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Alta Defesa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Você está atualmente atacando um inimigo com pelo menos uma defesa ([url=glossary:parry]Defesa[/url], [url=glossary:dodge]Desviar[/url], Resistência, Vontade ou Magia) que é muito maior do que a precisão do personagem que o ataca. Quando a defesa está significativamente acima da precisão, pode ser extremamente difícil conseguir um Acerto e impossível conseguir um [url=glossary:crit]Crítico[/url]. Tente aumentar a precisão do atacante ou use uma magia ou habilidade que tenha como alvo uma defesa diferente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Nocauteado</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Ai! Quando um membro do grupo é reduzido para 0 [url=glossary:health]Saúde[/url], ele é Nocauteado. Isso significa que eles estão fora da luta, mas enquanto seu lado for vitorioso, eles irão regenerar seu [url=glossary:health]Saúde[/url] quando o combate terminar. Ser nocauteado aplica um Ferimento ao personagem, reduzindo sua saúde máxima para combates futuros até que ele descanse ou suba de nível.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Personagem [url=glossary:recovery]Recuperação[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Todos os personagens - amigos e inimigos - devem se recuperar após cada ação que realizam em combate. Este cronômetro de recuperação é exibido acima de cada personagem em combate. A duração do tempo de recuperação varia de acordo com o personagem, a arma que está empunhando, a armadura que está equipada e o ataque, habilidade ou feitiço que acabou de usar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Habilidades</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Todas as habilidades e feitiços em Tirania têm um temporizador de recarga que determina com que frequência eles podem ser usados em combate. Algumas habilidades têm tempos de espera curtos e podem ser usadas várias vezes por combate. Outros se recuperam mais lentamente. O atributo [url=glossary:quickness]Rapidez[/url] reduz o tempo de espera de feitiços e habilidades. Tempos de Recarga de Habilidades reduz enquanto o grupo percorre uma área e quando descansa. Viajar entre áreas no Mapa mundial não afeta o tempo de espera.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[url=glossary:scouting]Escotismo[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Os Tiers são um lugar perigoso cheio de inimigos à espreita e segredos cuidadosamente escondidos. Habilitar [url=glossary:scouting]Escotismo[/url] Modo pressionando [keymap=STEALTH_TOGGLE] para se mover furtivamente e procurar objetos escondidos como armadilhas e recipientes escondidos. A habilidade de um personagem de encontrar objetos escondidos é baseada em sua habilidade [url=glossary:subterfuge]Subterfúgio[/url]. Um [url=glossary:subterfuge]Subterfúgio[/url] mais alto permite que eles encontrem objetos a uma distância maior, bem como aqueles que estão escondidos de maneira mais inteligente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Furtividade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>modo [url=glossary:scouting]Escotismo[/url] é usado tanto para furtividade quanto para encontrar objetos ocultos, como armadilhas e contêineres secretos.
+
+Enquanto explora, os círculos de seleção de seus personagens começarão a se encher de amarelo quando um personagem hostil estiver começando a detectá-los. Uma vez que o círculo fica amarelo, o personagem fica desconfiado e se move para investigar enquanto o círculo fica vermelho. Se o círculo ficar totalmente vermelho, seus personagens serão descobertos.
+
+Vários talentos concederão bônus ao seu personagem ao atacar furtivamente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Sigilos Mágicos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Você descobriu um novo sigilo! A magia no mundo de Tirania vem de aprender como escrever sigilos perfeitamente e fortalecê-los com energia. Abra o feitiço interface pressionando [keymap=SPELL_CREATION] para criar um novo feitiço com o sigilo que você acabou de aprender!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Criação de feitiços</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Feitiços são criados usando dois ou mais Sigilos. O sigilo central determina o tipo de magia, como Incêndio, geada ou Ilusão. A expressão sigilo determina como esse núcleo se molda ao mundo - como uma bola de fogo ou gelo encantando uma arma. Existem várias categorias de sigilos que podem acentuar um feitiço, concedendo-lhe maior alcance, precisão ou fornecendo efeitos secundários bônus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Subir de nível!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Seu personagem ganhou experiência suficiente para avançar de nível! Com a cada nível sua saúde máxima aumenta e seu personagem é totalmente curado. Você também aumenta um Atributo do seu personagem e compra um novo Talento. Clique no número do nível no retrato do seu personagem para gastar seus pontos, ou pressione [keymap=CHARACTER_SHEET].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Pontos de atributo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>cada nível você pode aumentar um dos atributos do seu personagem: [url=glossary:might]Força[/url], [url=glossary:finesse]Sutileza[/url], [url=glossary:quickness]Rapidez[/url], [url=glossary:wits]Inteligência[/url], [url=glossary:vitality]Vitalidade[/url], ou [url=glossary:resolve]Determinação[/url]. Cada um desses Atributos fornece benefícios ao seu personagem, além de aumentar uma ou mais habilidades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Pontos de talento</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Existem seis categorias de talentos disponíveis para seu personagem: Liderança, Defesa, Poder, Agilidade, À distância e Magia. A cada nível você ganha um ponto para comprar um talento de qualquer uma dessas categorias.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Objetos interativos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Mantenha pressionada a tecla [keymap=HIGHLIGHT_HOLD] para destacar objetos interativos no ambiente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Interações de campo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Alguns objetos no mundo representam problemas ou obstáculos que possuem múltiplas soluções. A seleção desses objetos exibirá a janela Interação de campo. Muitas dessas opções exigirão que um membro do seu grupo tenha um número mínimo de classificações em [url=glossary:athletics]Atletismo[/url], [url=glossary:subterfuge]Subterfúgio[/url], ou [url=glossary:lore]Conhecimento[/url] antes você pode escolher essa opção.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[url=glossary:reputation]Reputação[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Você aumentou sua reputação com uma facção no jogo! Cada facção vê seu personagem de duas maneiras: Respeito e Ira. À medida que você ganha reputação em cada eixo, você atingirá limites de reputação chamados de níveis. Alcançar um nível de reputação pode conceder habilidades únicas ao seu personagem. Abra a [url=glossary:reputation]Reputação[/url] UI pressionando [keymap=REPUTATION] para ver quais habilidades você pode ganhar com as facções que você descobriu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[url=glossary:reputation]Reputação[/url] Habilidade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Você ganhou reputação suficiente para desbloquear uma nova habilidade! Aberto a [url=glossary:reputation]Reputação[/url] UI pressionando [keymap=REPUTATION] para ver a nova habilidade disponível para seu personagem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Canções de Sirin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Quando o combate começar, Sirin começará a cantar uma de suas músicas. Cada uma de suas canções é uma série de estrofes que produzem efeitos diferentes. Quando uma estrofe termina, seus efeitos permanecem, sobrepondo-se aos efeitos da próxima estrofe. Você pode alterar do Sirin música atual selecionando-a e escolhendo uma nova música na interface de músicas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Diário de Missões</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Conforme você recebe missões, seu Diário será atualizado com informações relevantes. Se você ficar preso, abra-o para revisar suas anotações. Você pode abrir o diário pressionando [keymap=JOURNAL].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Companheiros dispensados</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Uma vez que um personagem tenha sido dispensado do grupo, ele retornará ao acampamento de guerra ou ao Spire, se você o tiver desbloqueado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Ataque de Desengajamento</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Um dos membros do seu grupo foi atingido por um ataque de desengajamento. Um ataque de desengajamento ocorre quando um personagem está enfrentando outro personagem em combate, e a pessoa que eles estão enfrentando tenta se afastar. Tenha cuidado com a forma como os membros do seu grupo se movem no campo de batalha para evitar receber ataques de desengajamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[url=glossary:weapon sets]Conjuntos de armas[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Você pode alternar para novos conjuntos de armas selecionando o ícone de arma na barra de ação de um personagem individual. Você também pode usar conjuntos de armas de atalho para facilitar a troca entre armas para o personagem selecionado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Furtividade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Quando o caractere selecionado estiver ativado, seu cursor mudará para um círculo vermelho de quatro fatias. Isso indica que mover esse personagem provocará um ataque de desengajamento do inimigo que o envolve.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Objetos escondidos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Você descobriu um objeto escondido! Muitos áreas de Terrato têm armadilhas ou baús escondidos. Quando descobertos, esses objetos serão destacados para todos do seu grupo verem. Ative o modo de reconhecimento pressionando [keymap=STEALTH_TOGGLE] para facilitar a localização desses objetos ocultos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Pináculo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Você adquiriu seu primeiro Pináculo! Este Spire será sua base enquanto você se aventura pelas terras de [url=glossary:kyros]Kyros[/url]' Camadas. Seu pináculo oferece um local gratuito para descansar e se recuperar de suas viagens. Ao adquirir mais Pináculos, você descobrirá funcionalidades adicionais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Poder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Final [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] on [url=glossary:vendrien's well]Poço de Vendrien[/url] encheu você de muito poder! Esse sem dúvida será útil enquanto você viaja pelo Camadas. Você deve investigar as origens desse poder e encontrar maneiras de adquirir mais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Combos de Companheiros (Melhorado)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>O poder que você ganhou ao terminar [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] em [url=glossary:vendrien's well]Poço de Vendrien[/url] pode ser canalizado em suas habilidades de combinação com seus companheiros. Todos os seus combos ficaram mais poderosos como resultado. Talvez você descubra maneiras adicionais de usar esse poder enquanto se aventura pelo Camadas!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Pináculo desbloqueado</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Você adquiriu um segundo Pináculo! Todas as torres estão vinculadas, permitindo que você viaje instantaneamente entre elas. Isso reduzirá seu tempo de viagem através do Camadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Recrutas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Novos recrutas estão disponíveis para trabalhar para você em seu Pináculo! Cada recruta fornecerá um benefício quando estiver no seu Pináculo, como treinar habilidades e vender ou criar itens exclusivos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Recursos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Existem cinco recursos que você pode encontrar em [url=glossary:kyros]Kyros[/url]' Níveis que podem ser usados para aprimorar o seu Pináculo. São eles: Pergaminhos, Lingotes de Ferro, Lingotes de Bronze, Suprimentos de alquimia e Esconder. Cada atualização usa recursos diferentes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Atualização da biblioteca</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Você construiu uma Biblioteca em uma de suas Torres! A Biblioteca é uma fonte de conhecimento tanto obscuro quanto arcano. Sua presença atrairá Sábios do Escola de tinta e pena. Com pergaminhos suficientes, esses recrutas podem descobrir segredos poderosos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Atualização do Forge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Você construiu um Forja em um de seus pináculos! O Forja é uma fonte de armas e armaduras poderosas. Magos do [url=glossary:forge-bound]Forja-Bound[/url] serão chamados para o seu Forja, onde eles podem construir itens poderosos - incluindo o raro Artefatos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Atualização do Campo de Treinamento</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Você construiu o Campo de Treinamento em um de seus Pináculos! Os maiores treinadores de habilidades do Camadas serão atraídos para o seu Pináculo, onde eles podem aprimorar as habilidades dos membros do seu grupo além do que eles normalmente conseguiriam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Atualização de enfermaria</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Você construiu uma enfermaria em um dos seus Pináculos. Isso trará os mais instruídos Alquimistas e curandeiros para o seu Pináculo. Com Suprimentos de alquimia suficiente, eles poderão construir poções poderosas para você usar em combate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Símbolo do Pináculo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Você concluiu um padrão que exibe um símbolo Pináculo. Você pode usar isso como um guia para desbloquear o Pináculo!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Armazenar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>As lojas permitem que você troque e venda seus itens por anéis de cobre ou itens no inventário da loja. Os comerciantes compram itens de você a um preço bastante reduzido. Se você vender algo, poderá vê-lo aparecer no inventário da loja com um custo muito maior. As lojas atualizam periodicamente seus estoques, então volte sempre para ver quais itens estão disponíveis agora!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Missivas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Você recebeu uma missiva! Missivas são mensagens curtas transportadas por pássaros entre partes distantes de [url=glossary:kyros]Kyros[/url]' Império. Clique no ícone da missiva ou pressione [keymap=MISSIVES] para abrir a interface da missiva e ler sua mensagem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Artefato</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Você descobriu um artefato! Artefatos são itens mágicos poderosos que, quando empunhados, concedem ao seu dono uma nova habilidade. Artefatos são conhecidos em todo o Camadas - e no maior Império além. Como um artefato reputação cresce, sua habilidade se torna mais poderosa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>[url=glossary:camping supplies]Materiais de acampamento[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Você descobriu alguns [url=glossary:camping supplies]Materiais de acampamento[/url]. Você pode usá-los para descansar no deserto ou nas masmorras, restaurando totalmente todas as habilidades de seus personagens e [url=glossary:health]Saúde[/url], e removendo [url=glossary:wounds]Ferimentos[/url]. Se você ficar sem [url=glossary:camping supplies]Materiais de acampamento[/url], tente encontrar mais de um vendedor ou baú.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Descanso</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Descansar restaurará totalmente a saúde e as habilidades de todos os membros do seu grupo e limpará todos os [url=glossary:wounds]Ferimentos[/url]. Você pode usar suprimentos de acampamento para descansar em qualquer lugar ou encontrar locais que permitem que você descanse gratuitamente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Clique no ícone Pináculo para abrir a interface da sua base inicial ou pressione [keymap=STRONGHOLD].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Uma nova barra em seu Ficha de Personagem exibe seu nível atual de potência. Imprensa [keymap=CHARACTER_SHEET] para abrir seu Ficha de Personagem e ver seu nível atual de Poder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Você pode atualizar o Pináculos que descobrir, construindo novas estruturas em cima deles. Cada atualização fornecerá diferentes benefícios. Clique no ícone Pináculo (ou pressione [keymap=STRONGHOLD]) para selecionar uma atualização para o seu novo Pináculo!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Quando os recrutas criam itens para você, eles são armazenados em um inventário comum. O Pináculo UEu indicarei quando você tiver itens de recrutas prontos para você. Se você tiver vários recrutas em um Pináculo que geram itens, você pode falar com qualquer um deles para acessar todos os itens construídos.
+
+Itens são gerados enquanto seu grupo se aventura pelo mundo e ganha experiência. Você não pode simplesmente descansar em seu pináculo para ter um suprimento infinito de itens gerados para você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Você pode pausar o jogo a qualquer momento pressionando [keymap=PAUSE] em seu teclado ou clicando no ícone de hora do dia na interface. Imprensa [keymap=PAUSE] ou clique no ícone novamente para retomar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Atualizações levam tempo e dinheiro para construir e dinheiro para manter. Se você não tiver mais dinheiro para manter uma atualização, ela será suspensa e você não receberá mais seus benefícios até que possa pagar seu custo de manutenção.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Para usar uma habilidade, clique com o botão esquerdo no ícone da habilidade ou pressione a tecla de atalho correspondente à sua localização na barra de habilidades. Seu cursor mudará para indicar se o mouse está sobre um alvo válido para a habilidade. Se o cursor tiver um X vermelho no canto, você não está sobre um alvo válido. Se o cursor tiver um par de pés no canto, você precisará se aproximar do alvo para usar a habilidade.
+
+Para habilidades que visam membros do grupo (feitiços de cura, buffs, etc.), você pode clicar no grupo retratos para direcionar a habilidade naquele membro do grupo.
+
+Pressione ESC a qualquer momento para cancelar o direcionamento da habilidade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Se você emitir uma ação para um personagem e quiser cancelá-la, você pode pressionar [keymap=CANCEL_ACTION] com esse personagem selecionado. Uma vez que uma ação tenha progredido o suficiente (IE: um ataque causou dano), ela não pode ser cancelada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Você pode controlar seu novo Companheiro diretamente ou ativar a IA deles e fazer com que eles ataquem e usem suas habilidades automaticamente. Uma vez que a IA esteja habilitada, você sempre pode selecioná-los e dizer-lhes para atacar um inimigo específico ou usar uma habilidade, e eles seguirão suas ordens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Se você clicar com o botão direito do mouse no botão AI, poderá ver as configurações de AI para os membros do seu grupo. Você pode definir o comportamento de ataque automático de cada personagem que determina como eles atacam os inimigos. Para acompanhantes, você também pode escolher pacotes de IA que determinam como eles usarão suas habilidades em combate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>[url=glossary:consumables]Consumíveis[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Um dos membros do seu grupo está com pouca saúde! Você pode usar uma poção de saúde para curar seu personagem para que ele possa continuar lutando.
+
+Usar uma poção de saúde é uma ação instantânea - os benefícios se aplicam imediatamente, mesmo que seu personagem esteja em recuperação. Mais tarde, todos os consumíveis ficam em cooldown por um curto período.
+
+[url=glossary:consumables]Consumíveis[/url] podem ser adicionados aos slots Item rápido no Inventário do seu personagem ([keymap=INVENTORY]) para que eles pode ser usado em combate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Verse tem várias habilidades Posição que lhe proporcionam diferentes benefícios em combate. As posturas são modais habilidades, o que significa que elas podem ser ativadas e desativadas. Apenas um Posição pode estar ativo por vez. Quando uma postura é desativada, todas as habilidades Posição entram em recarga por um curto período.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Quando um Combo Companion estiver ativada, você verá que o ícone acima da cabeça de cada personagem está definido para a mesma habilidade. O combo começará quando cada personagem estiver fora de [url=glossary:recovery]Recuperação[/url] - quando o círculo azul ao redor do ícone da habilidade desaparecer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Falando com Companheiros</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Uma vez companheiro se juntar ao seu grupo, você pode falar com eles a qualquer momento selecionando o ícone de conversa em seu retrato. Cada companheiro quem se juntar a você terá informações importantes sobre o mundo de Terrato, e suas próprias opiniões sobre as facções e situações que você encontrar. Saber como eles se sentem sobre os eventos permitirá que você faça escolhas que constroem sua reputação a cada Companheiro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Companheiros também inserirá suas opiniões em conversas que você está tendo com outros personagens. A forma como você responde às declarações deles alterará sua reputação com esse Companheiro e com outros no grupo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Alguns locais permitem que você descanse sem usar um dos seus [url=glossary:camping supplies]Materiais de acampamento[/url]. Esses locais são raros, por isso é melhor aproveitá-los quando os encontrar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>A maioria das facções tem habilidades que seu personagem pode adquirir à medida que você constrói reputação com elas. Para adquirir essas habilidades, você deve construir Favor ou Ira suficiente com a facção. [url=glossary:reputation]Reputação[/url] habilidades são concedidas apenas ao seu personagem, não a outros membros do grupo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Você pode personalizar seus feitiços selecionando ícones diferentes. Se você criar vários feitiços usando o mesmo Núcleo e Expressão, mas com acentos diferentes, esses ícones podem ajudá-lo a diferenciar seus feitiços.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Cada feitiço tem um nome padrão, mas você pode personalizar o nome do seu feitiço para refletir os acentos que você adicionou ao feitiço.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Cada Pináculo pode suportar um número limitado de recrutas. Quando atingir esse limite, você precisará dispensar um recruta para contratar outro. Uma vez dispensado, você precisa pagar o custo de contratação para conseguir esse recruta novamente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Alguns sigilos de acentuação permitem que você modifique a área de efeito ou alcance de seus feitiços. Quando você usa esses sigilos, a IU de lançamento exibirá o alcance aumentado como uma segunda área, mais transparente, além da área base do feitiço.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Dentro de uma árvore de talentos, cada nível de talentos é desbloqueado com base em quantos pontos de talento foram gastos nessa árvore. Para aprender um talento, selecione seu ícone e depois o botão 'SALVAR' para confirmar sua escolha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Cada companheiro tem suas próprias árvores de talentos com habilidades únicas. Essas habilidades são desbloqueadas da mesma maneira que os talentos do seu personagem. À medida que você gasta pontos em uma árvore de talentos companheiro, mais níveis de talentos ficam disponíveis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Aumentar um atributo custa um ponto, até que a pontuação do atributo atinja 19. Aumentar um atributo de 19 para 20 requer 2 pontos de atributo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>[url=glossary:kyros]Kyros[/url]' Dia de Espadas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Agora que você entregou a palavra de [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] aos exércitos, o tempo restante até [url=glossary:kyros]Kyros[/url]' Dia de Espadas aparece ao lado de a data atual na barra de navegação. Os termos de [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] devem ser cumpridos até esta data, ou todos em [url=glossary:vendrien's well]Poço de Vendrien[/url] morrerão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Pergaminhos de Feitiço</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Você descobriu um pergaminho que contém a imagem de um Sigilo de magia!
+
+Se um membro do seu grupo tiver uma habilidade [url=glossary:lore]Conhecimento[/url], você pode aprender este Sigilo e use-o para criar feitiços. Se você atender ao requisito [url=glossary:lore]Conhecimento[/url] para esta rolagem, clique com o botão direito do mouse no ícone de rolagem e clique no botão Aprender na parte inferior da interface de inspeção.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Quando um membro do grupo sofre dano, ele começa a perder [url=glossary:health]Saúde[/url]. A barra de saúde ao lado de seu retrato começará a diminuir. Quando a saúde de um membro do grupo cair o suficiente, ele ganhará um Ferimento e a barra de saúde ficará vermelha. Personagens feridos têm sua vida máxima reduzida. [url=glossary:wounds]Ferimentos[/url] são removidos quando o grupo descansa ou quando um personagem sobe de nível.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>[url=glossary:reputation]Reputação[/url] Desbloqueios</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Em novo jogo+, você pode desbloquear [url=glossary:reputation]Reputação[/url] habilidades obtidas em sua jogada anterior sem primeiro atender ao requisito [url=glossary:reputation]Reputação[/url]. Para desbloqueá-los, abra a tela [url=glossary:reputation]Reputação[/url]; as habilidades disponíveis serão destacadas em ouro, e o número que você pode desbloquear é exibido na parte inferior da interface [url=glossary:reputation]Reputação[/url]. O número de habilidades que você pode desbloquear aumenta a cada jogada subsequente.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

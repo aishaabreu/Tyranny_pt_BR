@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\02_cv_eldian_ceratha_argue</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Observe seu tom comigo, Eldian. Você pode ter liderado esta cidade uma vez, mas esse é o meu trabalho agora. Você pode não gostar, mas devo pelo menos um pouco de respeito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Podemos ter que sofrer sob o polegar da Irmandade, Ceratha, mas sem minha ajuda para manter a população apaziguada, você teria muito mais dificuldade em manter o controle e sabe disso. Então eu sugiro que você mostre um pouco de respeito em troca. Como minha mãe sempre dizia: 'Se você não pretende pagar a torta, não peça ao padeiro para fazê-la.' Ela era uma mulher sábia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Ceratha revira os olhos. "Sim, Eldian. Sua mãe foi incrível. Mas não estamos discutindo chavões antiquados. Embora eu adoraria lhe dar mais margem de manobra, Raetommon vai levar minha cabeça se não mantivermos um controle apertado sobre este acordo - e isso inclui você." Ela abaixa a voz antes de continuar, então você mal pode ouvir ela.
+
+"Agora, sugiro que você fique em sua casa e fora de vista caso Raetommon retorne. Pelo menos por enquanto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Suponho que você esteja certo. 'O caracol que se recusa a descansar em sua concha sempre acaba sendo salgado.'" Ele balança a cabeça.
+
+"Ok, nem tudo que ela disse era uma joia."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

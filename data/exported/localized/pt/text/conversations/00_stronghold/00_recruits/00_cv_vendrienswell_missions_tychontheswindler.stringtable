@@ -1,0 +1,429 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\00_recruits\00_cv_vendrienswell_missions_tychontheswindler</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>83</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Mestre Fatebinder." Um homem encapuzado inclina a cabeça para você, o rosto escondido sob um capuz grosso e escuro. Quando ele olha para você, levantando o rosto das sombras, você percebe um sorriso irônico em seus lábios torcidos e cheios de cicatrizes. "Eu quase não te reconheci sem [url=lore:BCity_Tychon]o fedor que o acompanha[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Não esquecido. Estou em dívida com você por sua ajuda em [url=glossary:bastard city]Cidade bastarda[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Acho alturas grandes adequadas para quem lida com teias e sussurros. Nem sempre se trata de girar nas sombras. Eu vejo e ouço muito do meu poleiro em cima do seu Pináculo. Devo contar os sussurros que ouvi?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Que dicas e rumores você tem para mim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ouvi alguma notícia de particular interesse ultimamente?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Eu esperava que você encontrasse necessidade adicional de meus serviços, e mesmo assim anos se passaram sem uma palavra. Sem considerar, é bom vê-lo novamente, meu amigo." O ladrão olha de soslaio, os olhos varrendo uma avaliação sutil da sala. Ele bate um dedo fino em uma orelha encapuzada e continua em um tom mais baixo. "[url=lore:BCity_Tychon]Meus feitos[/url] podem ter sido esquecidos, mas minha posição melhorou consideravelmente. E você se saiu mais do que bem. O mundo sussurra seu nome em cada sombra. Eu estaria mentindo se dissesse que não fiquei impressionado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Desculpe, quem é você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Esses sussurros dizem o que eu faço com aqueles que me irritam?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Já ouvi canções de sua selvageria, sim." O ladrão curva os ombros para a frente e puxa o capuz ainda mais sobre o rosto antes de continuar, "Posso lhe garantir, Mestre Fatebinder, eu seria muito útil para você como um aliado em vez de uma cabeça em um pico."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Incontáveis. De quais o Mestre Fatebinder gostaria de saber?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Como você acabou em [url=glossary:tunon]Tunon[/url]Tribunal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Por que te chamam de vigarista?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Como era a vida antes da guerra?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Procuro um mestre comerciante. Alguém com itens requintados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Um equívoco infeliz, meu amigo. Sou total e absolutamente inocente de qualquer delito vil de que sou acusado, asseguro-lhe." O ladrão cantarola para si mesmo com uma diversão clara. 
+
+"A menos, é claro, que esse crime vil possa me ganhar o favor de qualquer poder atual."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Que outras músicas você já ouviu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Foi um prazer rastejar por várias léguas de esgoto e catacumbas com você, Mestre Fatebinder. Continua sendo uma das noites mais memoráveis da minha vida - como se costuma dizer, o fedor permanece por mais tempo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Talvez pudéssemos trabalhar juntos novamente, em melhores circunstâncias."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"E, é claro, houve aquela vez em que eu enganei uma cidade inteira de sua liberdade roubando um Fatebinder e suas forças dos esgotos. Eu lucrei bastante com esse empreendimento."</DefaultText>
+      <FemaleText>"E, é claro, houve aquela vez em que eu enganei uma cidade inteira de sua liberdade, roubando um Fatebinder e suas forças dos esgotos. Eu lucrei bastante com esse empreendimento."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Não é tão interessante, confortável, nem limpo." O vigarista arranca uma adaga de bronze de uma bainha em sua coxa. Ele sacode a lâmina lentamente para frente e para trás, a lâmina brilhando à luz baixa das velas enquanto ele cava sujeira debaixo de suas unhas. 
+
+"Eu nasci e cresci Bastardo. Nunca tinha mexido um dedo do pé para fora da cidade antes que minha mãe morresse e minha tia prontamente me chutasse na minha quilha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Então você desejará falar com Harchiand Bronze em [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Posso dizer que ele tem acesso às melhores rotas de suprimentos no Camadas, embora ele negue isso em seus estertores."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Divulgação de [url=lore:BCity_Tychon]nosso golpe em Cidade bastarda[/url] como fogo pelo Camadas. Pela primeira vez, meu nome inspirou admiração e ódio nos corações dos homens." Tychon esfrega um dedo sobre os lábios marcados por lâminas, sorrindo com carinho com a lembrança. "Depois, passei um tempo treinando os homens do Quinto Olho nos caminhos e meios do meu comércio. Mas minha fome por anéis sempre teve mais influência do que meu gosto por derramamento de sangue. Então eu criei um lugar para mim no tribunal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Entendo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Como eu tenho certeza que você entende muito bem, meu amigo, há valor naqueles que podem distinguir entre os ouvidos certos e errados para sussurrar. E há muitos que ouvem meus murmúrios."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Nó do banco 29</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Mestre dos sussurros e vigarista extraordinário - ao seu serviço."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Por favor, entenda, Mestre Fatebinder, se os ouvidos errados ouvissem esses sussurros, eu poderia perder minha língua. Espero que você seja discreto com minhas informações."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Tenho muitos olhos e ouvidos no tribunal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Deseja ouvir as novas notícias?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Fique com a língua, Vinculador do Destino. Até as paredes têm olhos e ouvidos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Eu troco segredos, mentiras e trapaças. Para qual você está no mercado hoje, meu amigo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Mestre Fatebinder, você me feriu. Você realmente se esqueceu de quem lhe entregou o [url=glossary:bastard city]Cidade bastarda[/url] quando não havia abatimento do seu cerco à vista?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Não posso esperar que me lembre de todas as costas em que pisei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Se é assim que você vê." O ladrão se curva, lábios torcidos em desgosto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"É. Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Mestre Fatebinder, espero que você esteja bem desde a última vez que nos vimos. Ou devo dizer, 'desde que você me viu pela última vez', como muitas vezes tenho visto você através dos muitos olhos que possuo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Certamente. Seria uma grande honra - que eu pudesse acrescentar ao meu nome. O que você tinha em mente, meu amigo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Eu desbloqueei o Pináculo em [url=glossary:vendrien's well]Poço de Vendrien[/url]. Junte-se a mim se desejar seus anéis e glória."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Até eu sei que recusar um Vinculador do Destino é imprudente na pior das hipóteses e uma ilusão na melhor das hipóteses. O que você tinha em mente?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Deve ser assim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Fiz um curto período nas ruas, mas não me agradou, não ter cama, então troquei uma carta de recomendação de um nobre nobre com um problema de apostas. Isso me custou uma semana de prestidigitação no salão de jogos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Me deu entrada com o Sábios. Eu viajei e isso arregalou meus olhos. Eu vi o [url=glossary:vellum citadel]Cidadela de Velino[/url] antes de queimar. Mas eventualmente o Sábios achou meus métodos muito desagradáveis e fui expulso. Isso não me impediu de forjar meu pedido de formatura, é claro." O vigarista abre um sorriso torto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Aqui vai uma dica inteligente para você - fique fora do Oldwalls, meu amigo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Ouvi dizer que feitiços são realmente eficazes contra o Maldito, ao contrário do que muitos temiam anteriormente. Mas mesmo o menor gasto mágico no Oldwalls pode atrair todos os Maldito dentro de 50 passos. Recomenda-se extrema cautela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Aqui está um boato assustador para aqueles que lidam com sussurros. Se os rumores são verdadeiros, Sirin uma vez sussurrou no ouvido de um homem, e isso explodiu sua cabeça como um melão caído. Aparentemente, deixou uma bagunça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Exércitos precisam de armas, mas acontece que eles precisam mais de carne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Supostamente, [url=glossary:bleden mark]Marca de mistura[/url] uma vez usou duas algemas de casamento no costume de sua cultura. Acho uma perspectiva assustadora - dois grilhões, significando dois casamentos, unidos em união ao mesmo tempo. Não tenho certeza se invejo ou tenho pena do homem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"O único homem no Camadas que ouve mais sussurros do que eu é [url=glossary:the voices of nerat]o Vozes de Nerat[/url]. Posso garantir isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Você notou que uma parcela bastante significativa do tribunal de [url=glossary:tunon]Tunon[/url] é composta por criminosos reabilitados? Não? Só eu então?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Quando líderes proeminentes do [url=glossary:scarlet chorus]Coro Escarlate[/url] desaparecem, eles geralmente ressurgem mais tarde dentro do [url=glossary:the voices of nerat]o Vozes de Nerat[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Receio que minha fonte de informação tenha se esgotado no momento, Mestre Fatebinder. Talvez você tenha a gentileza de me retornar mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Os [url=glossary:disfavored]Desfavorecido[/url] já foram conhecidos por outro nome. Ao contrário da minha primeira suposição, não era O favorecido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"[url=glossary:tunon]Tunon[/url] o Adjutor originalmente tinha três faces. [url=glossary:kyros]Kyros[/url] destruiu um deles por desagradá-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Ouvi rumores de desordem dentro do [url=glossary:bronze brotherhood]Irmandade de Bronze[/url]. Uma mulher chamada Welby foi escolhida para substituir Raetommon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Os Homens-Besta afirmam ouvir os gritos de [url=glossary:cairn]Cairn[/url] do fundo do [url=glossary:stone sea]Mar de Pedra[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Os sacudidores de terra acredita-se estar se fragmentando do [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Achei que você poderia achar interessante saber que o [url=glossary:disfavored]Desfavorecido[/url] Quarto Batalhão desfilou recentemente em Posto de Sentinela. Eles estabeleceram um acampamento e uma rota de abastecimento modesta lá."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Posso te dizer isso, Mestre Fatebinder, o [url=glossary:scarlet chorus]Coro Escarlate[/url] não desgosta totalmente de você. Alguns deles até foram ouvidos cantando seus elogios."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"O [url=glossary:disfavored]Desfavorecido[/url] sussurre seu nome com medo, meu amigo. O que quer que você tenha feito, qualquer ato sujo que esteja fazendo, continue assim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Há ondas de sussurros dentro do [url=glossary:scarlet chorus]Coro Escarlate[/url] que se chocam com medo do seu nome. Não é uma tarefa fácil, meu amigo, agitar tal emoção dentro de um exército que é vasto e tumultuado como o mar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Mais do que alguns dos meus ouvidos ouviram um [url=glossary:disfavored]Desfavorecido[/url] soldado invocar seu nome com honra. Eles respeitam você e podem ter confiado em seu favor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Há algo estranho em Verso e Barik, você não acha, Mestre Fatebinder? Tão diferentes e ao mesmo tempo tão semelhantes. Ou assim dizem minhas fontes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Ridículo. Não sou nada como aquele charlatão encharcado de sangue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Por uma vez parece que concordamos. Embora Barik, como sempre, se recusa a virar o espelho para si mesmo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Você acredita nisso, Tychon, ou você está simplesmente na prática de vender mentiras? Se você quiser ouvir a história real, chegue mais perto e eu vou sussurrar para você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Temo que prefiro não, se me dá licença, Milady Arconte. Eu não quis ofender, obviamente."
+
+O vigarista se encolhe em suas vestes, o rosto enfiado no capuz e a expressão escondida.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"E, no entanto, surpreendentemente, a ofensa foi tomada. Como pode ser quando você está apenas repetindo o que ouviu? Talvez eu seja exagerando! Ou talvez você esteja andando pela cova de um monstro. Com uma venda. Enquanto grita."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Sirin. Já chega."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Desça, já. Você pode matá-lo depois que não precisarmos mais dele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Multar. Você nunca me deixa me divertir. Não é como se eu realmente o tivesse machucado. Muito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Matar? Às vezes você não tem imaginação, Vinculador do Destino. Talvez Tychon gostaria de saber como é remover a própria língua. Imagino que isso acabaria com seus boatos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Vocês são meio parecidos, no entanto. De certa forma."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Eu estou do lado de Verso e Barik neste. Total de opostos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Suponho que somos a última linha de defesa entre você e uma morte prematura. Temos muito em comum. Por enquanto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Fico feliz em ouvir você falar com razão. Eu poderia ter me preocupado com seus sentidos de outra forma."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Correndo o risco de vomitar minha última refeição, tenho que concordar com Barik pela segunda vez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Eu odeio concordar com ela. Não me coloque nessa posição."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Encontrou algo por aí que me interessasse?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Estou trabalhando, Vinculador do Destino. Sempre trabalhando. Volte mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Ele concorda. "Deixe-me mostrar o que já tenho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Receio que minha fonte de informação tenha se esgotado no momento, Mestre Fatebinder. Talvez você tenha a gentileza de me retornar mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Posso ajudá-lo em outra coisa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

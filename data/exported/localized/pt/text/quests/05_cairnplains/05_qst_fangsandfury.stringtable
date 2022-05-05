@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\05_cairnplains\05_qst_fangsandfury</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>40</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Presas e Fúria</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Viajar para GulfGlow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Fale com Red-Fang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Escolha um método para resolver a disputa em Gulfglow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Elimine os Earthshakers em Gulfglow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Elimine o [url=glossary:stonestalkers]Perseguidores de Pedras[/url] em Gulfglow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Encontre-se com os Beastmen no Círculo da Selvageria em Gulfglow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Informe Red-Fang da derrota de Cem Sangue no Rito de Sangue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Fale com Red-Fang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Fale com Manjericão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Voltar para Vermelho-Fang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Fale com Manjericão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Fale com Centenas-Blood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Fale com Centenas-Blood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Fale com Manjericão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Fale com Centenas-Blood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Fale com Centenas-Blood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Uma seita de Tremedores de terra está atualmente em conflito com o [url=glossary:stonestalker]Perseguidor de Pedras[/url] Homens-Besta em Gulfglow. Cem Sangue pediu para você resolver a disputa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Viajar para GulfGlow para avaliar a situação entre os Earthshakers e os [url=glossary:stonestalkers]Perseguidores de Pedras[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Fale com Red-Fang em Oldwalls na base do Pináculo em Gulfglow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Decida e declare a Red-Fang como você vai lidar com o desacordo entre os Earthshakers e os [url=glossary:stonestalkers]Perseguidores de Pedras[/url] em Gulfglow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Elimine os Earthshakers que invadiram o território [url=glossary:stonestalkers]Perseguidores de Pedras[/url]'.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Elimine os Homens-Besta que impediram os esforços de escavação Tremedores de terra' ao longo de Gulfglow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Sobreviva aos [url=glossary:stonestalker]Perseguidor de Pedras[/url]'s Rito de Selvageria e Pedra para ganhar uma classificação respeitada dentro da tribo. Encontre seus oponentes no Gulfglow Oldwalls, em um dos platôs rochosos perto do Pináculo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Informar Vermelho-Fang que você é o novo e legítimo líder do [url=glossary:stonestalkers]Perseguidores de Pedras[/url] depois de derrotar o Hundred-Blood no Rito de Sangue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Fale com Red-Fang no Oldwalls para alertá-la de que você matou o Tremedores de terra que estava invadindo as terras da tribo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Fale com Manjericão para informá-lo de que você matou o Homens-fera que estava incomodando seu Tremedores de terra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Agora que você sobreviveu aos [url=glossary:stonestalker]Perseguidor de Pedras[/url]'s Rito de Selvageria e Pedra, volte para Red-Fang como um membro honorário da tribo para decidir como lidar com o Tremedores de terra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Informar Basilon que o [url=glossary:stonestalkers]Perseguidores de Pedras[/url] permitirá que seu Tremedores de terra vá embora com vida, desde que levem apenas os cristais que já reuniram e prometam nunca mais voltar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Volte para a toca [url=glossary:stonestalkers]Perseguidores de Pedras[/url]' em Desfiladeiro de Pedra agora que você ajudou a tribo resolvendo o problema com a Tremedores de terra na Gulfglow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Volte para a toca [url=glossary:stonestalkers]Perseguidores de Pedras[/url]' em Desfiladeiro de Pedra com a notícia de sua resolução entre os Earthshakers e os Homens-fera.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Informar Basilon que o [url=glossary:stonestalkers]Perseguidores de Pedras[/url] permitirá que seu Tremedores de terra vá embora com vida, desde que levem apenas os cristais que já reuniram e prometam nunca mais voltar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Volte para a toca [url=glossary:stonestalkers]Perseguidores de Pedras[/url]' em Desfiladeiro de Pedra agora que você ajudou a tribo resolvendo o problema com a Tremedores de terra na Gulfglow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>Volte para a toca [url=glossary:stonestalkers]Perseguidores de Pedras[/url]' em Desfiladeiro de Pedra agora que você ajudou a tribo resolvendo o problema com a Tremedores de terra na Gulfglow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você matou todos os [url=glossary:disfavored]Desfavorecido[/url] em Gulfglow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você matou todos os Homens-Besta em Gulfglow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Você completou o [url=glossary:stonestalker]Perseguidor de Pedras[/url] Rito de Selvageria e Pedra e se tornou oficialmente um membro da tribo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Como o novo líder da tribo [url=glossary:stonestalker]Perseguidor de Pedras[/url], você conseguiu forçar o [url=glossary:stonestalkers]Perseguidores de Pedras[/url] a permitir que o [url=glossary:disfavored]Desfavorecido[/url] coletasse os cristais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Você enviou Centenas-Blood para [url=glossary:the voices of nerat]the Vozes de Nerat[/url]. Bone-Claw não sabe do seu acordo anterior.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Você traiu o [url=glossary:scarlet chorus]Coro Escarlate[/url] no [url=glossary:stone sea]Mar de Pedra[/url] e se tornou seu inimigo.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

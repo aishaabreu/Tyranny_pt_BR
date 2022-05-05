@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\00_recruits\00_bs_spireupgrade_workers_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Você pensaria que alguns desses novos recrutas observariam seus passos por aqui. Já perdemos alguns para uma súbita rajada de vento..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Espero que o arsenal de artefatos que você está construindo possa resistir ao Arcontes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Parece que o [url=glossary:burning library]Biblioteca em chamas[/url] parou de queimar. Não posso dizer que vou sentir falta daquele montão ardente de uma monstruosidade daqui de cima."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Os céus estão começando a ficar muito mais claros."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Os níveis parece bastante tranquilo visto das nuvens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Ao seu dispor, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"O [url=glossary:edict]Edital[/url] era terrível para as pessoas do [url=glossary:stone sea]Mar de Pedra[/url], mas à noite eu podia ver esse brilho roxo pulsar lentamente como uma batida de coração. Ficou muito bonito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Com os materiais certos, podemos forjar praticamente qualquer coisa para você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Fique de olho nos dois no ringue. Eles podem levar seu treinamento um pouco a sério demais."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,412 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\vx1\vx1_09_cv_tonves</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>80</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>O [url=glossary:forge-bound]Forge-Bound[/url] aprendiz olha atentamente para a pele de âmbar que ele segura no ar, batendo em sua superfície metodicamente com uma pesada maça de ferro. A luz da lareira próxima dança em seus olhos. À medida que você se aproxima, os odores pungentes dos agentes de bronzeamento ficam mais densos no ar.
+
+Ele se vira para você com uma expressão estóica.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>O curtidor enfia uma pequena pele de animal em um dos muitos bolsos que adornam sua bata antes de se virar para você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Há algum problema? Você precisa de algo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Qual é o seu papel neste assentamento?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Como tem sido o aprendizado para Jaspos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Você acha que Jaspos tem o direito de se referir a si mesmo como Mestre?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Encontrei uma Mulher-Besta morta no Oldwalls. Sabe alguma coisa sobre isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Apontar a lacuna na armadura.] "Suae sangrando, exatamente onde sua braçadeira foi danificada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Deixar] "Falo com você mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Difícil. Não me confunda - eu prometi segui-lo, e minha lealdade não vacila, mas eu gostaria muito que tivéssemos retornado ao Norte como planejado. Em vez de, estou preso dentro desses Oldwalls, cercado por Maldito e marcado como traidor nos olhos de [url=glossary:kyros]Kyros[/url]'." Ele raspa uma faca gasta contra uma pedra de amolar pendurada em seu cinto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Jaspos não gostou do meu interesse em trabalhar com couro. Acho que ele viu isso como um insulto ao seu ofício. Se eu favorecesse tanto, deveria ter buscado o aprendizado com o Mestre do bronzeado, certo? Nós vamos, considere que OUTRA coisa que eu planejava fazer se tivéssemos retornado Norte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Este é meu terceiro ano como aprendiz de Jaspos. Entre isso e tentar manter este assentamento funcionando, nunca me falta trabalho." Ele tira um pedaço de gordura animal da fivela do cinto e olha ao redor da câmara, franzindo a testa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Acho que também sou um matador. Jaspos tem que passar sua 'arte', certo? Mas todo mundo sabe que minha paixão e habilidade está no bronzeamento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Isso não é da minha conta. Os títulos não valem nada. Real [url=glossary:forge-bound]Forge-Bound[/url] deixe suas mãos e suas criações falarem por eles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Por que você está me perguntando sobre isso? Woundkin arriscam suas peles todos os dias para manter o Maldito fora. É apenas uma questão de tempo até que um deles morra." Ele desvia o olhar, remexendo sem rumo com uma pinça pendurada em seu cinto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Eu sou?" Ele levanta o braço esquerdo e olha para o metal rasgado, enchendo o buraco às pressas com um trapo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Segure a peça da armadura que faltava] "Reconhecer isso? Confessar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Eu sei que você matou aquele Mulher-Besta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Eu tive que fazer isso para Jaspos. Isso é tão claro quanto posso dizer. Respeito nosso Woundkin. São bons guerreiros e vizinhos. Doeu-me fazer mal a eles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Por que Jaspos faria você matar Homens-fera?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Então você decidiu que matar Homens-Besta era a solução."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Por que você trouxe Mel para isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ele precisa de Homens-fera osso para suas peneiras. Sem ele, todos pegaríamos podridão murcha da água."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Mas com o fim do Recife-Talon, nossos caçadores não podem mais doar. Jaspos me disse que eu tinha que encontrar uma maneira de reunir Homens-fera ossos, ou todos morreríamos. Eu... não tive escolha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"O que você teria feito? Jaspos deixou claro o que precisávamos. Se não limpássemos aquela água, todos morreríamos ou seríamos forçados a voltar à superfície. A verdade é que o Ferimento ainda está funcionando por causa do que eu fiz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Os Homens-Besta sempre comem seus caídos e deixam a pele e os ossos para trás. Tudo que eu precisava fazer era separar e matar um Homem-Besta ferido em uma caçada, e deixar os outros consumirem a evidência. Achei que era a melhor rota entre as rotas de merda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Por que eu? Foi aquele maldito leitor de livros que pensou em lucrar com isso. " Ele cospe no chão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Bastard me fez ir atrás do Homens-fera maior e mais saudável, e para quê? Apenas para que ele pudesse contrariar as probabilidades e embolsar mais anéis. Eu não tive escolha. Se eu não matasse aqueles que ele queria, ele me exporia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Você realmente acredita que esta é a maneira de continuar Ferida do Bastardo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Eu não teria feito isso se pensasse o contrário. Fatos são fatos - nem Wagstaff ou Jaspos pode atender a demanda como está... imagine o quão pior seria se Jaspos não pudesse fornecer água limpa? Se você me impedir de fazer o que precisa ser feito, o Ferimento. Vontade. Morre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Mell é quem está sendo imprudente aqui. Ele só se importa com anéis. Se você conseguir tirá-lo das minhas costas, isso significa que posso voltar a matar apenas o velho ou enfraquecido Woundkin. Precisamos dos fortes para nos mantermos seguros do Maldito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Parece que Mel não estava totalmente disponível. Vou precisar falar com ele antes de resolver este assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Você vai? Achei que você simplesmente pegaria minha cabeça e acabaria com isso." Seus lábios se juntam para formar um leve sorriso. Os olhos de Tonves de repente se arregalam em alarme e ele dá um passo instintivo para trás.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Aí está você. Presumo que Mel não convenceu todos os Ferimento a me enforcar?" Tonves se mexe desconfortavelmente e desvia o olhar dos mortos Mulher-Besta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Como exatamente você atrai Homens-fera para este local?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Você fez uma coisa terrível. Muitos chamariam uma execução aqui e agora apenas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Seu trabalho é um mal necessário, Tonves. Mel's, no entanto, não é. Ele não vai te incomodar mais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Esses assassinatos estão errados e devem parar. Porque você tinha os interesses Ferimentos no coração, você pode viver, mas nunca deve pisar no assentamento novamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"O... Woundkin confia em mim. Eu caço e sangro com eles, então pedir a um para me seguir é uma questão simples." Seus olhos se movem para o cadáver por um momento. O rosto de Tonves fica vermelho-escuro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Achei que chegaria a isso." Ele se agacha e acaricia o pelo manchado de sangue do cadáver.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Aceito seu julgamento, seja ele qual for. Esta vida está muito longe de qualquer coisa que eu sempre quis. Se você me mandar para o vazio... bem, pelo menos não terei que passar meus dias fingindo não me odiar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Obrigado, Vinculador do Destino, você ajudou a aliviar esse fardo mais do que imagina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Acho que eu precisava de um empurrão na direção certa. Só posso esperar que o Ferimento encontre um caminho a seguir na minha ausência."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Mate-o.] "Você teve boas intenções, mas isso não é desculpa para assassinato. Por esses crimes, devo sentenciá-lo à morte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Você obedece, dando um passo à frente e enfiando uma lâmina em seu coração. Quando ele cai ao lado de sua ex-vítima, seu sangue lentamente se junta, flutuando seus corpos fracamente acima do frio Oldwalls chão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Tão Mel enganou os outros jogadores."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Eu não sei o que ele disse para aqueles idiotas do jogo. Vou apenas dizer isto - ele lhe parece um sujeito particularmente honesto? Eu não confiaria nele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Recebo meus materiais da matança. Presas para ferramentas, couro para roupas resistentes. O resto vai para tendas, catres, e ainda nem chegamos à carne. A Ferida... eles entendem melhor do que nós."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"A verdade é que as pessoas precisam da minha habilidade com peles e peles muito mais do que minhas tentativas de esquartejar. Toda vez que eu visto ou alimento alguém e eles agradecem Jaspos, ele tem cada vez menos a dizer sobre isso. Agora que de Argaen está aprendendo com ele, acho que ele está contente em me deixar 'brincar' com bronzeamento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Você fez o melhor que pôde quando teve uma escolha terrível. Os assassinatos devem parar, mas você pode permanecer no Ferimento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Mell tem suas razões para escolher um Homens-fera específico. Vocês dois estão trabalhando para o bem do Ferimento, então espero que continue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Eu não vou correr, mas não vou me entregar a uma multidão enfurecida. Vou até o Oldwalls e espero notícias suas. Depois de falar com Mel, venha me encontrar. Você já sabe para onde ir." Ele joga um martelo bem gasto em um cinto e sai correndo do Forja.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Obrigado por esclarecer isso. Jaspos terá que encontrar outra maneira de obter seus ossos Homem-Besta. Com certeza, [url=glossary:kyros]Kyros[/url] não será de mim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Se um Fatebinder acha que nossas vidas miseráveis merecem ser preservadas, então terei que aceitar isso. Você aliviou meus fardos mais do que pode imaginar. Vai, uh... vai tornar a próxima vez mais fácil." Ele lhe dá um aceno de cabeça agradecido antes de se esgueirar de volta para as sombras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Você já falou com Mel?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Sempre que posso, vou para a superfície com o Woundkin para uma boa caçada. Cavernas e buracos não são feitos para os vivos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Eu aprendo muito com Jaspos, e isso só me torna um melhor matador e curtidor. Se isso significa que estou fazendo minha parte para manter este acordo, estou satisfeito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Porra." Ele pega a peça que faltava de sua braçadeira e a joga no chão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Quando Recife-Talon ainda estava aqui, Woundkin poderia doar dentes e garras e ela usaria sua magia para garantir que eles voltassem a crescer. Entre isso e Homens-fera às vezes morrendo na caça, tínhamos osso suficiente para manter as peneiras fluindo o dia todo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Mell me pegou voltando com couro e osso em uma hora estranha. Descobri antes que eu pudesse pensar em uma desculpa, e me forçou a dar-lhe uma notícia antecipada de quaisquer assassinatos por sua pequena operação de jogo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Não. Não não não. Mell é uma astuta. Ele manteve os assassinatos acima da minha cabeça desde que descobriu. Ameaçou revelar o que fiz a todos! Ele vaiTenho metade dos Feridos em armas sobre mim."
+
+Tonves se move rapidamente pelo Forja, pegando ferramentas e armas de prateleiras e mesas próximas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Estranho. Devo ter me distraído mais cedo... provavelmente o peguei em um martelo cravado enquanto trabalhava. Outra coisa que precisa ser consertada." Ele balança a cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Qualquer desculpa serve. Eu só tive que abordar Homens-fera que estavam separados de seus grupos de caça e ficar fora da vista do resto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Eu a conhecia e seus filhotes. Guerreira feroz… ela matou muitos Maldito, o que significa que ela salvou muitas vidas." Um tremor incontrolável engole sua mão. Tonves força-se para cima e para longe do Mulher-Besta, incapaz de esconder a angústia em seu rosto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Eu a traí e tantos outros. Jaspos pode ter exigido isso, mas ele não guiou minha mão quando eu os matei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Você concorda com Jaspos? Você não ouvirá reclamações de mim." Tonves olha para você em um silêncio atordoado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Agora que você colocou Mell em seu lugar, voltarei a focar no fraco Woundkin." As linhas em seu rosto ficam menos tensas à medida que ele exala profundamente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Razões além da ganância? Se eu fosse um homem de apostas, eu teria apostado todos os meus anéis nele sendo um vigarista e esta sendo minha última conversa antes de entrar no vazio." Tonves lentamente passa a mão no rosto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"É um julgamento justo, Vinculador do Destino. Eu nunca fui adequado para esse tipo de trabalho. Nada aqui me agradou." Com a cabeça baixa e os olhos fechados, o aprendiz balança a cabeça lentamente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Faça, Vinculador do Destino. Se estes são meus últimos suspiros, eu gostaria de gastá-los acreditando que há alguma justiça em Terrato." Seu rosto é uma máscara estóica de fria resignação, ele se ajoelha sobre os mortos Mulher-Besta e lhe dá um olhar suplicante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Vinculador do Destino... isso é melhor do que eu mereço. Eu admito, sentar neste poço miserável me deu um pouco de vontade de deixar o Maldito me levar como punição."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Mas não vou desperdiçar sua clemência - ainda há muito que posso fazer pelo Ferimento." Ele se levanta, um olhar determinado em seus olhos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Um estranho? Você euEstou querendo falar com o Mestre. Ele está a leste daqui, depois da forja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Humana abusa do vínculo da caça. A morte lenta é o melhor remédio para tais decisões."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"E eu não sei do que diabos você está falando!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Falei com Mel e acabei com o anel de jogo ilegal. Volte para o Ferimento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Verdadeiramente?" Sua boca fica aberta. "Tenho certeza de que o olhar naquele rosto manchado de tinta era um espetáculo para ser visto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Agora que você colocou Mell em seu lugar, voltarei a focar no fraco Woundkin." As linhas em seu rosto ficam menos tensas à medida que ele exala profundamente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Obrigado, Vinculador do Destino, você ajudou a aliviar esse fardo mais do que imagina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>O [url=glossary:forge-bound]Forge-Bound[/url] acena com a cabeça, franzindo a testa em pensamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

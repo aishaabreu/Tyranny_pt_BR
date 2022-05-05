@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\vx1\vx1_09_cv_merchant_neread</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Bom dia para você, Vinculador do Destino. Deixe-me ser o primeiro a lhe dizer que todas as minhas licenças estão em ordem, assinadas e seladas este mesmo ano!" Ele enxuga uma camada de suor de sua testa e ri nervosamente. "Nenhuma razão para saquear meu carrinho ou confiscar minhas mercadorias."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Olá, Vinculador do Destino. Bem-vindo de volta e tal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Eu troco em tudo o que posso colocar em minhas mãos hoje em dia. Quer dar uma olhada?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"O que você pode me dizer sobre Ferida do Bastardo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Vamos ver o que você tem a oferecer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Deixar] "Já estou indo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ah, o que há para dizer? Viver nas profundezas do Oldwalls não é exatamente o sonho de um homem sábio, mas também não é viver sob a constante ameaça de invasores. Pelo menos aqui em baixo minhas costas são vigiadas por Bestas. Jaspos parece ter uma boa noção de como as coisas devem ser feitas... ele certamente é mais uma pessoa do que Wagstaff... mas isso não significa que o Tidecaster seja uma pessoa ruim ou nada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Só por aqui!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Saudações, estranho. Já falou com um dos grandes peixes? Jaspos está na forja ao norte. Wagstaff agacha perto das cataratas do sul."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Vinculador do Destino [Player Name]. Não tenho visto muito de vocês por aqui [url=lore:feedingthehost_bwound]desde que você deu o Desfavorecido rédea solta para saquear nossas caravanas[/url]. Você é metade da razão pela qual acabei aqui. Não que eu vá usar isso contra você. Eu me estabeleci em lugares piores do que Ferimento, e não há nenhuma gangue de Refrão aqui querendo reivindicar minha faca e nethers."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Não posso ficar exatamente em contato com as linhas de abastecimento daqui, mas pelo menos tenho clientes sem ter para onde ir."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

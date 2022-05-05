@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\factionquestlines\scarletchorus\fq_sc_qst_forgebound</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Contratos Secretos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Fale com a Lohara.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Encontre um simpático [url=glossary:forge-bound]Forge-Bound[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Matar Lohara.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Relatório para Sete Dedos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>[url=glossary:the voices of nerat]As vozes de Nerat[/url] gostaria de ter o [url=glossary:forge-bound]Forja-Bound[/url] sob seu controle - pelo menos, o máximo que puder com [url=glossary:tunon]Tunon [/url] assistindo. Com [url=glossary:forge-bound]Forja-Bound[/url] Mestre Zdenya se foi, Lohara assumiu o manto de Mestre do Forja.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Agora que ela controla o [url=glossary:forge-bound]Forge-Bound[/url], Lohara pode estar disposta a atender às solicitações [url=glossary:the voices of nerat]the Vozes de Nerat[/url]. Fale com ela na forja em [url=glossary:lethian's crossing]A travessia de Lethian[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Deve haver alguém na forja em [url=glossary:lethian's crossing]A travessia de Lethian[/url] que seja solidário o suficiente para trabalhar para Nerat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Ulantis diz que trabalhará para o Nerat se você remover Lohara do [url=glossary:forge-bound]Forge-Bound[/url]. Mate-a na forja em [url=glossary:lethian's crossing]A travessia de Lethian[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Deixe sete dedos na cacofonia saiba que o [url=glossary:forge-bound]Forge-Bound[/url] será compatível com as solicitações [url=glossary:the voices of nerat]Vozes de Nerat[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Ulantis parece estar disposto a ajudá-lo, por um preço.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você incutiu um novo líder para o [url=glossary:forge-bound]Forge-Bound[/url], que cumprirá [url=glossary:the voices of nerat]the Vozes de Nerat[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você traiu seus aliados e não pode mais completar esta tarefa.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

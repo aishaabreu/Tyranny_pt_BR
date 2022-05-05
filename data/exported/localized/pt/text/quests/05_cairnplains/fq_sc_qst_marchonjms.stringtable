@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\05_cairnplains\fq_sc_qst_marchonjms</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Batalha no Santuário Jagged Maw</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Viaje para o Santuário da Boca Recortada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Enfrente o [url=glossary:disfavored]Desfavorecido[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Mate o [url=glossary:disfavored]Desfavorecido[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Tangled Limb do [url=glossary:scarlet chorus]Coro Escarlate[/url] está levando um grupo de guerra para Santuário de Boca Recortada para matar os atuais [url=glossary:disfavored]Desfavorecido[/url] habitantes. Ele pediu sua ajuda neste empreendimento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Conheça Tangled Limb e seu grupo de guerra em Santuário de Boca Recortada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>[url=glossary:scarlet chorus]Coro Escarlate[/url] e [url=glossary:disfavored]Desfavorecido[/url] estão engajadas em um impasse em Santuário de Boca Recortada. Enfrente as forças [url=glossary:disfavored]Desfavorecido[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>O [url=glossary:disfavored]Desfavorecido[/url] em Santuário de Boca Recortada atacou você. Mate todos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você eliminou todas as forças [url=glossary:disfavored]Desfavorecido[/url] de Santuário de Boca Recortada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você ativou o Coro no Jagged Maw Shrine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Você está muito atrasado para ajudar seus companheiros Refrão, eles foram derrotados nas mãos do [url=glossary:disfavored]Desfavorecido[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Em vez de matar as tropas [url=glossary:disfavored]Desfavorecido[/url] em Santuário de Boca Recortada, você os deixa recuar depois de massacrar Tangled Limb e sua gangue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Você traiu seus aliados e não pode mais completar esta tarefa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>A oportunidade de resolver esta tarefa passou.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\factionquestlines\disfavored\fq_dis_cv_08_methodius_echocallact2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Vinculador do Destino... como eu esperava que nossos caminhos se cruzassem um dia. Acabei de afiar minha lâmina esta manhã. Que apropriado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Agora, antes que eu decida remover ou não sua cabeça, o que você está fazendo aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Trago notícias de [url=glossary:graven ashe]Cinza esculpida[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ah, você? [url=glossary:graven ashe]Cinza esculpida[/url] é uma das últimas pessoas que eu gostaria de ouvir. Você achou que eu trataria isso como uma boa notícia?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Bem, vamos em frente, vamos apressar este momento insignificante... vamos ouvi-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"[url=glossary:graven ashe]Cinza esculpida[/url] gostaria de lhe oferecer termos de paz. Podemos deixar o passado para trás e seguir em frente como uma força."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Você veio de tão longe para nos oferecer uma negociação. [url=glossary:graven ashe]Cinza esculpida[/url] está levando nossa causa como algum tipo de piada? Ele acha que vamos apenas rolar e ceder? Depois o que ele fez!?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Vinculador do Destino, eu odeio dizer a você... mas você perdeu seu tempo nesta jornada. Não há cenário em que eu concorde com a paz com o [url=glossary:disfavored]Desfavorecido[/url]. Não depois do que foi feito conosco."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Mas porque você veio aqui com uma mensagem de paz, pelo menos vou deixar você sair com seus membros presos. Mas se apresse antes que eu mude de ideia."
+
+"Vá."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"É uma pena que você não tenha ouvido a razão. Vou retransmitir sua resposta para [url=glossary:graven ashe]Cinza esculpida[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Nó de script 76</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Por que você ainda está aqui, Fatebinder? Minha decisão é final."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ah, as coisas Vinculador do Destino usuais. Vagando aqui, ali, em todos os lugares."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Alguém pensa muito bem de si mesmo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Oh, olhe - um Vinculador do Destino que se acha engraçado. Por que você está realmente aqui?"</DefaultText>
+      <FemaleText>"Oh, olhe - uma Vinculador do Destino que se acha engraçada. Por que você está realmente aqui?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Claro que sim, então por que você não se apressa e me diz por que você está realmente aqui antes que eu faça uma demonstração."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Que pena."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"[url=glossary:graven ashe]Cinza esculpida[/url] quer uma aliança. Trabalhe com o [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Dar de ombros.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

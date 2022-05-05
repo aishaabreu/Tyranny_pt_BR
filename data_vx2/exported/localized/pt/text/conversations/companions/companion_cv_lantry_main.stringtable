@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\companions\companion_cv_lantry_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>771</ID>
+      <DefaultText>"Meus novos poderes não mudam o fato de que sou leal a [url=glossary:kyros]Kyros[/url] - mas provavelmente serei percebido como uma ameaça da mesma forma."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>772</ID>
+      <DefaultText>"Se isso for verdade, então o soberano seria sábio em tratá-lo bem, pois seus poderes fariam de você um executor inigualável. Mas... imagino que [url=glossary:kyros]Kyros[/url] se tornou [url=glossary:kyros]Kyros[/url] por ter poucas chances com a concorrência. Eu podia ver o soberano jogando pelo seguro e descartando você."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

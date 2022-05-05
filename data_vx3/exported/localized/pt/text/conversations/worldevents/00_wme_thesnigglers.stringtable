@@ -1,0 +1,357 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\worldevents\00_wme_thesnigglers</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>67</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Você está seguindo a estrada através de uma extensão de bosques raquíticos, carvalhos tortuosos e pinheiros secos agarrados ao céu, quando você ouve o som de risadas de crianças filtrando através das árvores.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>À direita da estrada abre-se uma ampla bacia, a grama alta balançando silenciosamente na brisa leve como as ondas no mar aberto. Uma faixa prateada de riacho serpenteia pelo panorama e você vê um pequeno grupo reunido à beira da água.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>À medida que avança por um caminho à beira do penhasco, você percebe uma escada de corda cravada na pedra e descendo nas profundezas de uma ravina. Espiando por cima, você vê a curva lenta de um rio abaixo. A corda termina em uma pequena saliência que se projeta sobre a superfície cintilante, um trio de jovens balançando linhas na água.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Investigue o riso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Ignore e continue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Abandonando a estrada, você segue para um pequeno afluente do Matani serpenteando pela floresta esparsa. Lá você descobre um grupo de quatro jovens reunidos ao lado do pequeno riacho. Duas das crianças estão sentadas nas rochas, varas na mão, olhando pacientemente para a água. Os outros dois estão sentados perto de um balde, revezando-se a bater nas enguias pelo chão para atordoá-las e cortar a carne da enguia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Tendo um trabalho importante a fazer para o soberano, você decide que o que quer que as crianças estejam fazendo está abaixo do seu conhecimento e continua sua marcha pela estrada empoeirada em direção ao seu destino.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Aproxime-se do grupo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Ignore e continue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Desça a escada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Ignore e continue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Espiando sua aproximação, os snigglers pegam suas cestas e varas e se espalham, correndo em dois grupos, cada um seguindo o rio em direções opostas. Seus gritos e risadas levam o vento até você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Você fica na estrada principal, contornando a bacia e continuando sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>O trio não percebe você até que você esteja quase em cima deles. Eles acenam agradavelmente, convidando você a se juntar a eles, chegando a oferecer-lhe um verme e uma vara. Você percebe que sua cesta está desprovida da menor captura, e suas costelas aparecem claramente através de sua pele bronzeada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Um olhar para a escada frágil e a queda vertiginosa e você decide contra a ideia, continuando ao seu destino.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Você sai da floresta, pisando em galhos secos e batendo a mão no peito. Você grita com as crianças, chamando os espectros de [url=glossary:kyros]Kyros[/url], [url=glossary:tunon]Tunon[/url] e [url=glossary:bleden mark]Marca de mistura[/url]. As crianças gritam e correm, correndo para a vegetação rasteira e deixando para trás sua cesta de enguias capturadas. Você recolhe a carga viscosa e volta para a estrada, confiante no repasto da noite.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Ameace as crianças.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Fale com as crianças.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Sequestrar as crianças.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Volte para a estrada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Você sai da floresta, chamando a atenção das crianças, que o observam com cautela. O mais velho, quase um homem adulto, nota sua heráldica e lança uma bola de catarro nos juncos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Você salta sobre as crianças sem aviso e consegue agarrar duas delas enquanto as outras fogem. Eles gritam, chutam e mordem, mas não são páreo para você em tamanho ou força.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Saciada a curiosidade, você volta à estrada e continua sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Puna o cuspidor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Conte uma história.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Peça para cochilar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Recrute as crianças.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Em uma onda violenta, você caminha em direção à juventude desrespeitosa. Antes que ele possa fazer mais do que ficar de pé, seus dedos envolvem seu pescoço. Enquanto as outras crianças fogem para a vegetação rasteira, você sufoca o menino até sentir que suas convulsões se tornam violentas e frenéticas - só então você solta seu aperto. Ele se desfaz em uma bagunça soluçante aos seus pés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Você levanta as mãos para acalmar os jovens e pergunta se eles já ouviram a história de Pox e o javali mais velho do Madeira Berniana. Quando eles se olham sem resposta, você começa a contar a história para eles, uma história estranha e às vezes divertida, cheia de aventura épica e misticismo sombrio. Quando você terminar, os jovens estarão totalmente absorvidos em sua história, totalmente absortos em sua atenção. A mais nova das crianças traz-te uma enguia em troca do teu tempo. Você agradece e volta para a estrada para continuar sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Embora inicialmente cautelosos com você, os jovens relaxam enquanto você se senta com eles, enfiando sua isca nos buracos e esperando pacientemente por uma captura. Eventualmente, você engancha uma das enguias, puxando a fera sibilante do riacho e batendo a cabeça na pedra até que ela pare. Você agradece aos jovens pelo uso de sua vara e volta para a estrada com sua pesca na mão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Você traz as crianças de volta para o acampamento [url=glossary:scarlet chorus]Coro Escarlate[/url] mais próximo. [url=glossary:the voices of nerat]As vozes de Nerat[/url] tem poucas regras, mas proteger os jovens é uma delas. As crianças serão treinadas e educadas até a idade suficiente para lutar como parte da horda Escarlate em nome do soberano.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Você arranca deles o nome de sua aldeia natal e vai até lá, exigindo um dízimo para o soberano de seus pais em troca do retorno seguro das crianças. A aldeia junta anéis suficientes para garantir a libertação de sua juventude, e você continua sua jornada, seu cinto um pouco mais pesado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Afaste-se silenciosamente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Advirta os jovens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Sem uma palavra, você vira as costas para os jovens e continua sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Você grita com as crianças que fogem, ressaltando o preço da resistência. Apex é o domínio do [url=glossary:kyros]Kyros[/url], e os Soberano oficiais SERÃO respeitados.
+
+Salve o murmúrio silencioso do riacho, o silêncio cai sobre a floresta. Você deixa os jovens para trás e volta para o riacho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Resgate as crianças.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Perseguir rio acima.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Perseguir rio abaixo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Deixe-os em paz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Você persegue, atravessando a grama alta atrás do jovem Refúgio. Apesar da vantagem, você rapidamente alcança os jovens, agarrando um pela gola e outro pelo pulso. Eles se contorcem, tentando se libertar, mas você os segura com força.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Recrute as crianças.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Interrogue a juventude.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[50 Cobre] Compre enguias.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Deixe as crianças irem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Você amarra os jovens e os leva de volta à estrada. Eles choram e reclamam enquanto você os marcha em direção ao Cruzando, e você os aconselha que tal lamúria os servirá mal nos círculos sociais do Refrão. 
+
+No assentamento, você libera os recrutas aos cuidados do comandante da guarnição com efusiva gratidão. Você vira as costas para as crianças e retorna à sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Você garante a eles que não está ligado a esses mercenários, e eles parecem aliviados com esse detalhe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Depois que eles se acalmarem, você solta o par antes de oferecer anéis em troca de sua captura. A princípio, eles se olham, claramente céticos e desconfiados, mas seu desejo por cobre derruba suas suspeitas. A recompensa que você oferece pelas enguias que eles pescaram é mais do que justa; eles colocam os anéis em seu cinto e entregam sua cesta de snigs.
+
+Enquanto eles pegam suas varas e se retiram, você retorna à estrada para continuar sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Você solta os jovens, e eles tropeçam para longe de você, um esfregando o pulso. Eles olham um para o outro, depois para você. Você garante a eles que eles estão livres para ir; eles se afastam, hesitantes no início, depois começam a correr, colocando a maior distância possível entre eles e você. 
+
+Você volta para a estrada e vira em direção ao seu destino.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Você não confirma nem nega sua aliança com os [url=glossary:bronze brotherhood]Irmandade de Bronze[/url], mas garante a eles que os mercenários voltaram sua atenção para inimigos mais nobres do que as enguias e as crianças que os caçam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Arrase com eles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Dê aulas de sniggling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Recusar e voltar ao caminho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Você pega um poste e se junta a eles, enganchando uma minhoca e abaixando-a na água abaixo. Você enfia a isca em um buraco e espera pacientemente que a enguia morda.
+
+Você acaba sentindo um puxão. Você conta baixinho para si mesmo, deixando a enguia engolir a minhoca, depois puxa com força para prender o anzol antes de arrastar a fera escorregadia da corrente.
+
+O trio de jovens pula e aplaude com entusiasmo por sua realização.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Depois que você sai da ravina, Eb o encurrala com um sorriso irônico. "Deve sabe que você é um natural com enguias lisas e varas longas." Você volta à sua marcha através do [url=glossary:stone sea]Mar de Pedra[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Você recusa a oferta, em vez disso, sobe a escada de volta pela parede de pedra até o caminho. De lá, você continua sua caminhada pelas terras quebradas do [url=glossary:stone sea]Mar de Pedra[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Deixe com enguia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Dê-lhes enguia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Você pede aos jovens que lhe mostrem sua técnica e rapidamente identifica várias deficiências. Você mostra a eles como prender a isca para que ela não escorregue, como garantir que a isca se encaixe no buraco e como esperar até que a enguia tenha tempo de engolir o anzol antes de colocá-lo. 
+
+Depois de sua instrução, os jovens fazem outra tentativa de gargalhar, e um rapidamente pega. Os três agradecem imensamente por sua ajuda.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Deixando o poste com o trio, você pendura a trava do seu equipamento e volta pela corda, sua subida seguida pelos olhos arregalados e famintos do jovem. Você os ignora, encontra o caminho e continua sua jornada pela [url=glossary:stone sea]Mar de Pedra[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Você abaixa a besta do rio na cesta e libera o gancho de dentro dela. O trio olha para você com os olhos arregalados quando você desliza a cesta para eles. Você confirma que a captura é para eles e eles agradecem profusamente, até mesmo abraçando você em sua alegria.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Você exige saber por que as crianças fugiram de você, e rapidamente fica claro que eles acreditam que você está em conluio com os mercenários que espreitam as estradas e cursos de água em torno de [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Os bandidos, eles informam, foram rápidos em roubar suas enguias e varas no passado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Você sai da ravina e encontra o caminho antes de continuar sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Você sai da ravina e encontra o caminho antes de continuar sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

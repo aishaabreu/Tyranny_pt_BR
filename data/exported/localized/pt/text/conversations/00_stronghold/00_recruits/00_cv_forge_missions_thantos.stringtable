@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\00_recruits\00_cv_forge_missions_thantos</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"[Player Name]." O mais breve dos sorrisos cruza seu rosto e desaparece tão rapidamente quanto a luz pisca nele. "Se o que eles dizem é verdade sobre a magia dessas torres, será uma honra trabalhar para você entre essas forjas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Thantos olha além de você para o calor da forja com um rosto inexpressivo. "Não tenho tempo nem apetite para brincadeiras, Vinculador do Destino." Ele cruza os braços, revelando as cicatrizes de inúmeras queimaduras. "Mas se for verdade que essas torres aprimoram toda a matéria de magia, eu lhe fornecerei o bronze que você procura, eu lhe garanto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"O que você fez para mim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Deixar.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Vinculador do Destino." O homem cruza os braços revelando seus antebraços marcados pela queimadura. "Esses forjas queimam com uma energia que eu não via há algum tempo." Seus olhos voltam para as chamas da forja. "Deve ser verdade que estes Pináculos melhoram todas as questões de magia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"A forja está em manutenção. Retomaremos nosso trabalho assim que a manutenção for concluída."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Deixe-me mostrar a você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Não tenho nada para você no momento. Volte mais tarde."
+
+[Recrutas podem gerar itens para você enquanto você ganha experiência ao se aventurar no mundo.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Como posso ser útil, Fatebinder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

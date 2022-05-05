@@ -1,0 +1,526 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\00_recruits\00_cv_vendrienswell_skilltrainer_heraldcalio</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>96</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"[Player Name], vejo que você voltou ao redil. Suas façanhas em [url=glossary:vendrien's well]Poço de Vendrien[/url] são objeto de alguma discussão." O Destino do Equilíbrio olha para você com um olhar perspicaz, e por um momento você sente como se ela estivesse tentando perscrutar as profundezas do sua mente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Venha comigo para visitar o Pináculo eu ve reivindicado em [url=glossary:vendrien's well]Poço de Vendrien[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"É um sábio Vinculador do Destino que deseja continuar seu treinamento. Talvez você tenha me procurado em busca de ensinamentos ou conselhos adicionais?"</DefaultText>
+      <FemaleText>"É uma sábia Vinculador do Destino que deseja continuar seu treinamento. Talvez você tenha me procurado em busca de ensinamentos ou conselhos adicionais?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Eu procuraria seu treinamento, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Sim, eu gostaria de ver a vista do monumento que você reivindicou. Vou visitar e conduzir algumas aulas de sparring enquanto estiver lá." Calio acena com a cabeça, concordando com sua sugestão, sua própria curiosidade inclinando a balança de sua decisão a seu favor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Saudações. Suas façanhas em [url=glossary:vendrien's well]Poço de Vendrien[/url] são o tema de muita discussão." "Começa-se a questionar a intenção por trás de seus métodos, [Player Name]. Espero que você não esteja vagando por um caminho do qual não possa retornar." "Apesar de minhas reservas, estou muito curioso para saber de suas viagens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Nó aleatório10</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Gostaria de treinar? Eu poderia usar um bom aquecimento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"O que você deseja saber?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"É um sábio Vinculador do Destino que deseja continuar seu treinamento."</DefaultText>
+      <FemaleText>"É uma sábia Vinculador do Destino que deseja continuar seu treinamento."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Vamos treinar um pouco?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Requer uma lição de derramamento de sangue? Posso mostrar a você as maneiras que domino tanto para causar quanto para mantê-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Cumprimentos, [Player Name]. Parece que você precisa de alguma coisa."
+
+Calio inclina a cabeça para o lado, um lampejo de curiosidade em seus olhos escuros e perspicazes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"O que posso fazer por você?"
+
+Calio toca suavemente seu ombro com a mão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Aconteceu alguma coisa enquanto estive fora?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Você parece saber muito das minhas ações. Você tem me espionado?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"gostaria de saber mais sobre [url=glossary:tunon]Tunon[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Tenho algumas preocupações sobre a guerra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Você é livre para compartilhá-los em minha confiança." Ela se aproxima.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"[url=glossary:tunon]Tunon[/url] é o nosso Soberano justo e exigente Árbitro. Ele fala com a voz da lei [url=glossary:kyros]Kyros[/url]', e sua palavra é julgamento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Não fique tão surpreso. É meu dever garantir que aqueles que operam sob o nome do juiz sigam o espírito de sua lei, se não a própria letra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Nunoval foi enviado para Robusto para quebrar o impasse entre os locais e os [url=glossary:disfavored]Desfavorecido[/url]. Ele proclamou [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] de Tempestades, destruindo o país com ventos sem fim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"O derramamento de sangue e a brutalidade reinam supremos. A paz não pode seguir tal crueldade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Não podemos esmagar a oposição com esforços tão fracos. Somos muito tolerantes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Nossos exércitos brigam pela garganta um do outro.... Dividido, não podemos vencer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Esse é o preço da conquista. Traremos ordem a uma terra governada pela ganância e corrupção. Quando mostrarmos a eles o verdadeiro caminho de [url=glossary:kyros]Kyros[/url], as massas vão chorar sua gratidão e implorar por nosso favor." 
+
+Ela acena para os nobres reunidos no hall de entrada. "Já começou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Não discordo de você, mas tenha em mente que esses Sulista bárbaros estão sendo bem-vindos no Império. [url=glossary:kyros]Kyros[/url] não valoriza uma montanha de Tierman cadáveres... pelo menos nenhum que eu pudesse imaginar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Estou menos preocupado com os exércitos do que com os próprios Arcontes. Não pode haver ordem quando as montanhas colidem."
+
+"Quem você veria como campeão?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Será tratada, rápida e eficientemente, no ponto da lâmina de [url=glossary:bleden mark]Marca de mistura[/url]." O Vinculador do Destino desliza uma adaga fina das dobras de seu traje roxo, virando a arma quase à toa no ar. "Claro, isso supondo que eu não os despache primeiro. Levo meu dever a sério e sou muito, muito bom nisso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"E quem não gosta?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Claro. Não tenho nada a esconder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"É o que você diz, mas eu tenho que pesar todas as evidências apresentadas diante de mim com um olhar objetivo."
+
+"Assuma que você está sendo observado, Vinculador do Destino. Mas não se preocupe. Isso não é mais do que qualquer cidadão do Império pode esperar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"O [url=glossary:disfavored]Desfavorecido[/url] - nossas tropas de elite nos levarão à vitória."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Os [url=glossary:scarlet chorus]Coro Escarlate[/url] - sua crueldade vencerá esta guerra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Nem. Ambos são culpados e igualmente ineptos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Há sabedoria por trás do seu raciocínio. As guerras são vencidas com astúcia, estratégia e força. Os [url=glossary:disfavored]Desfavorecido[/url] são superados apenas em número no campo de batalha."
+
+"Considerando sua oposição, Ashe e seus soldados mais do que compensam a diferença."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Força em números. Quem poderia esperar enfrentar a multidão crescente do Coro?" Ela balança a cabeça em aprovação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Seu humor escurece. "E então quem lideraria nossos avanços, ou seria deixado para entregar [url=glossary:kyros]Kyros[/url]' Paz? Você usaria essa responsabilidade como uma coroa sobre sua cabeça? Você pode achar um fardo pesado para carregar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Eu posso lidar com isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Você não entendeu minha intenção."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>O Vinculador do Destino estuda você com um olhar conhecedor. "Eu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"O Árbitro confia em suas proezas, mas nisso sou mais exigente. Você também deveria estar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Houve rumores de que [url=glossary:cairn]Cairn[/url] cresceu desleal ao comando de [url=glossary:graven ashe]Cinza esculpida[/url] durante a campanha em Azure. Assumi o manto da investigação perto de Plainsgate, e julgando os rumores como verdadeiros, despachei [url=glossary:cairn]Cairn[/url] proclamando [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] de Pedra. A própria terra se voltou contra o traidor Arconte enquanto a região se dividia em julgamento justo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Rhogalus viajou para o [url=glossary:vellum citadel]Cidadela de Velino[/url] para proteger os arquivos do nosso gentil soberano. Os Sábios se mostrou mais teimoso do que havíamos previsto, então Rhogalus foi forçado a proclamar [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] de Incêndio, consumindo a Cidadela em um golfo de chamas eternas. Um caso triste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Depois que você despachou [url=glossary:cairn]Cairn[/url] por [url=lore:EdictofStone_React]enterrando-o em pedra[/url], fui encarregado de investigar as circunstâncias que levaram à sua traição. O Arconte ignorou as ordens de [url=glossary:graven ashe]Cinza esculpida[/url] e virou as costas para [url=glossary:kyros]Kyros[/url] para seus próprios interesses egoístas." "Rhogalus queria assumir o comando da investigação, mas eu temia que o que quer que seduzisse [url=glossary:cairn]Cairn[/url] para longe de seus sentidos em Azure pudesse corromper nosso Rhogalus também, então eu assumi a tarefa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Tenho um olho afiado para a intenção. Eu sinto que você deseja treinar comigo, sim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Nó do banco 57</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Você sabe alguma coisa sobre as leis de sucessão em Robusto?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Engraçado, você deve mencionar isso. Ainda outro dia eu estava lendo alguns textos antigos no porão de um prédio municipal. Faríamos bem em aprender esses Sulista costumes, mesmo quando os desmantelamos." 
+
+"O que você precisa saber?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Vamos ouvir, então."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Mudei de ideia. Não tenho interesse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Faça do seu jeito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Velho robusto era governado pela tradição e um senso de identidade nacional muitas vezes distorcido. As histórias que eles tinham em alta estima estabeleceram a maioria dos precedentes."
+
+"É por isso que muitos de seus documentos legais contêm fábulas ou histórias familiares. Eles deram ao povo uma razão para seguir a lei. Além da própria lei, quero dizer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Além disso, qualquer prática poderia ser derrubada se fosse julgada fora do seu senso de identidade cultural."
+
+"Estou chegando à parte boa, prometo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Continue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Já ouvi o suficiente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Algumas gerações atrás, o alto Regente de Stalwart era a rainha Hadrium. Ela deu à luz ao marido um par de filhas - Lucanun e Tatium."
+
+"Lucanun era o mais forte dos dois, mas como ela nasceu em segundo lugar, a regra de Robusto cairia para Tatium."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Rainha Hadrium não queria nada disso. Ela queria que o mais forte de seu sangue ocupasse o trono de Robusto." 
+
+"Sendo sábia em direito, ela elaborou um plano."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Ela subornou um arquivista para elaborar uma velha fábula. Os detalhes da história eram semelhantes aos dela - embora não tão próximos a ponto de levantar suspeitas. Não vou aborrecê-lo com os detalhes, mas a história terminou com o lendário Rainha fazendo uma declaração simples para cortar o direito de uma criança ao trono de Robusto."
+
+"Felizmente para a rainha Hadrium, a história foi convincente o suficiente que as pessoas compraram a nova tradição. Lucanun morreu mais tarde para uma doença debilitante, mas isso é uma história para outro dia." Ela ri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Um bebê com sangue real pode ceder seu direito ao trono?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Não exatamente. Mas a mãe pode conseguir." Ela levanta a sobrancelha com interesse.
+
+"Há uma história por trás disso, se você estiver interessado. Muito robusto questões envolvem histórias."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Pular para o final?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Muito bem. Apenas diga à mãe para recitar essas palavras." Ela limpa a garganta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Eu... indique seu nome... abdico formalmente da reivindicação de meu filho ou filha ao Regência de Stalwart - dissolvendo todos os laços, pactos, vassalos e propriedades. Perdemos todas as proteções e vantagens dadas pela antiga linhagem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Os Regentes geralmente eram um pouco mais dedicados à pompa e circunstância, mas neste caso acho que eles queriam fazer o trabalho rápido."
+
+"Espero que ajude."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Você conhece a declaração que ela fez?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Devo esperar por isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Ela pisca. "[url=glossary:kyros]Kyros[/url]' olhos, estamos quase no fim. Você quer a resposta ou não?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Realmente não."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Claro que sim." Ela limpa a garganta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Multar. Quais são as palavras mágicas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Não é mágica. Embora eu suponha que as pessoas acreditassem o suficiente, o que dá no mesmo."
+
+Ela limpa a garganta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Tenho perguntas para você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"A guerra entre o [url=glossary:disfavored]Desfavorecido[/url] e o [url=glossary:scarlet chorus]Coro Escarlate[/url] tem sido um pesadelo burocrático, como você pode imaginar. A quadra não pode ser vista favorecendo abertamente um lado ou outro, então [url=glossary:tunon]Tunon[/url] e seu Vinculadores do Destino jogam com imparcialidade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Embora você pareça operar com uma coleira mais longa hoje em dia, não é? [url=glossary:tunon]Tunon[/url] mostra um grande favor a você." Um sorriso pisca no canto de sua boca, depois desaparece.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Voltando às minhas perguntas anteriores."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Naturalmente. O que você sabe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Tudo isso e muito mais você pode aprender perguntando a ele mesmo. Vá em frente, ou ele ainda te intimida?" Ela ri baixinho.
+
+"Eu brinco, é claro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Pensando bem, deixe-me perguntar outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Meu tempo é seu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"E, no entanto, o exército se move sem tato, mata sem pensar, marcha com meias rações na melhor das hipóteses, e está sujeito à loucura e brilho em igual medida."
+
+"As guerras foram vencidas com menos vantagens, embora eu me pergunte se o [url=glossary:scarlet chorus]Coro Escarlate[/url] é igual ao desafio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Como você tem ocupado seu tempo no [url=glossary:bastard city]Cidade bastarda[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"[url=glossary:tunon]Tunon[/url] me envia em tarefas aqui e ali. Eu resolvo disputas entre os moradores quando o Árbitro está ocupado." Ela sorri. "Tudo de desentendimentos comerciais a empurrar Refrão posseiros para fora dos porões. Trabalho realmente gratificante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Ela acena para fora. "A glória da guerra não é uma honra reservada para gente como nós. Somos os peixes nadando no rastro de [url=glossary:tunon]Tunon[/url], pegando restos pelo caminho." 
+
+"Somos bastante grandes e imponentes em comparação com os alimentadores de fundo do Camadas, mas pesque mesmo assim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Eu não sei o que é mais impressionante - que [url=glossary:tunon]Tunon[/url] se humilhou diante de você, ou que você conseguiu ficar tão profundamente sob a pele dele. Eu tentei induzi-lo em discussões no passado para minha própria diversão, mas você fez disso uma ocupação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Então. Poderoso [url=glossary:tunon]Tunon[/url] encontrou sua partida. Você está claramente querendo provar a si mesmo como um poder de grande importância, mas o tempo dirá se você é capaz de manter esse impulso." 
+
+"Eu não vou lamentar o Árbitro. Se ele não conseguiu se defender, então ele não tem nada a ver com o pódio da lei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Tente manter Ashe na coleira curta. Acho que o velho gosta de conhecer suas restrições, e ninguém define limitações com mais eficiência do que [url=glossary:kyros]Kyros[/url]. Mas acho que você vai conseguir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Ashe não deixou nenhum vestígio para trás, deixou? Arcontes geralmente não. Eu adoraria montar sua testa franzida nas paredes do Tribunal, mas terei que ficar sem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Não tenho certeza de como você domou [url=glossary:the voices of nerat]o Vozes de Nerat[/url], e duvido que queira saber. Apenas tome cuidado com isso. Você não gostaria de ser adicionado à mistura de... o que quer que ele seja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Tenho minhas dúvidas de que [url=glossary:the voices of nerat]o Vozes de Nerat[/url] esteja morto. Isso parece algo que ele teria planejado há muito tempo. Tem certeza de que pegou o Arconte certo?" Calio dá de ombros.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Como você acha que o Tribunal se sairá sem o [url=glossary:bleden mark]Marca de mistura[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"[url=glossary:bleden mark]Marca de mistura[/url] está sob meu controle. O que devo fazer com ele?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"O tribunal deve aprender a lição que o Império já sabe - todos são substituíveis. Contanto que tenhamos isso em mente, não estou tão preocupado com a Tribunal." Seus lábios se curvam em um sorriso conhecedor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Recuar e deixá-lo fazer todo o trabalho?" Ela ri. "Eu brinco, é claro. Se eu fosse você, não o encarregaria de nada frívolo. Se você não percebeu, sua lealdade e seu nível de tédio são inversamente proporcionais."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

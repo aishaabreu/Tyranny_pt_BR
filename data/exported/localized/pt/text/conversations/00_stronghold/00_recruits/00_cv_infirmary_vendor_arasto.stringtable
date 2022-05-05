@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\00_recruits\00_cv_infirmary_vendor_arasto</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Com o Pináculo em manutenção, não consigo receber meus envios. Outra vez, talvez?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>O homem faz uma reverência profunda. "Arasto ao seu dispor. Se você está procurando um vendedor confiável de poções, não procure mais - Arasto sempre entrega."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Mostre-me o que você tem à venda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Deixar.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Vinculador do Destino." Ele limpa a garganta. "Algo que posso fazer por você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Eu tenho meus caminhos." Ele se aproxima. "Muitos soldados caem na batalha por todos os lados, muitos deles carregando mercadorias como essas que permanecerão no campo de batalha... definhando." Ele acena com a cabeça solenemente. "Eu simplesmente me certifico de que essas mercadorias cheguem às mãos hábeis, mais uma vez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Poções são uma mercadoria incomum. Como você os adquire? "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Você saqueia os mortos em busca de poções?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Arasto recua. "Ah não, tenho pessoas que pago para fazer isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

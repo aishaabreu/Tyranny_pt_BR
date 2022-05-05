@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\06_endgame\06_cv_adjudication_killed_grandmother</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>29</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Finalmente, o assassino se mostra perante o tribunal." O oficial [url=glossary:disfavored]Desfavorecido[/url] faz uma careta para você com desgosto.</DefaultText>
+      <FemaleText>"Finalmente, o assassino se mostra perante o tribunal." O oficial [url=glossary:disfavored]Desfavorecido[/url] faz uma careta para você com desgosto.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Quer se explicar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Albetronas aqui deseja puni-lo por matar seu mestre, o Marechal de Ferro. Você se lembra disso de [url=glossary:vendrien's well]Poço de Vendrien[/url], é claro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Estou pronto para falar em minha defesa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Vamos começar. Ofereça seu testemunho. Gostaríamos de ouvir seu relato sobre o que levou à morte do oficial."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Marechal de Ferro era excessivamente zeloso. Ela estava fora de controle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Você não sabe de nada! Ela era uma líder apaixonada. Ela cuidou de nós... mesmo quando precisávamos de uma mão menos severa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"O entusiasmo pode ser um estorvo para a força militar. Os [url=glossary:disfavored]Desfavorecido[/url] são tipicamente mais medidos e regimentados, mas já vi muitas ocasiões em que a autoridade era seu próprio fardo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Matei Marechal de Ferro porque ela teria feito o mesmo comigo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Será que ela? Eu me pergunto que você saiba disso com tanta confiança. Os [url=glossary:disfavored]Desfavorecido[/url] são rígidos adeptos à lei [url=glossary:kyros]Kyros[/url]'. Eles não se comprometem sem sanção legal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"A guerra deixou tudo confuso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Como ouvi. No entanto [url=glossary:kyros]Kyros[/url]' a lei não faz concessões específicas para a influência desorientadora do caos, o tribunal é solidário. A desordem no campo pode influenciar até mesmo o mais rígido senso de moralidade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Terminei meu testemunho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Muito bem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Assim seja. Depois de ponderar o assunto, o tribunal o considera inocente das acusações. Normalmente, eu não aceitaria o tempo de guerra como uma defesa viável para suas ações. No entanto, estou disposto a olhar além do assunto. [url=glossary:vendrien's well]Poço de Vendrien[/url] caiu em guerra civil e caos na disputa para resolver [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url]. Lealdades foram questionadas por toda parte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"[url=glossary:graven ashe]Cinza esculpida[/url] vai saber disso. Marque minhas palavras." Albetronas aperta os punhos, produzindo um guincho de ferro que ecoa pela quadra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Nó de script 22</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Estou ocupado. Podemos resolver isso mais tarde?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Não há tarefa de maior importância do que este julgamento e seu testemunho, Vinculador do Destino. Gostaria que você tratasse esses processos com o devido respeito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Você é uma afronta ao [url=glossary:kyros]Kyros[/url]' militar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Aí vem o assassino do meu conterrâneo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"A acusação é assassinato de um sujeito protegido pela lei [url=glossary:kyros]Kyros[/url]'. A punição é a morte. Espero que você possa responder por si mesmo, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Desculpe - preciso ouvir isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Receio que você deve. A justiça não pode ser evitada ou evitada nesses corredores, e o tribunal veria você se defender."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Continuar, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"A menos que algo tenha desafiado essa honrada reputação." Ele olha para baixo para examinar Albatronas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"No entanto, meus servos são ensinados a serem inabaláveis em sua objetividade. A morte do Marechal de Ferro é uma falha nesse aspecto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Suficiente. Eu deixei você falar o suficiente sobre este assunto. Tenentes, há uma guerra civil em andamento, e eu preciso de uma explicação." [url=glossary:tunon]Tunon[/url] bate a base de seu martelo no chão e o eco começa a construir até um som quase ensurdecedor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Nó de conversão de gatilho 29</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

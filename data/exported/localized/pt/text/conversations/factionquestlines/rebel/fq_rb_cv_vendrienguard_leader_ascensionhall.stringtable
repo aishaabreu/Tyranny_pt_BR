@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\factionquestlines\rebel\fq_rb_cv_vendrienguard_leader_ascensionhall</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Você sabe melhor do que ninguém que o [url=glossary:younger realms]Reinos mais jovens[/url] nunca poderia cooperar... bem, temo que seja a mesma coisa com a rebelião. Os líderes estão divididos, e cada um está tão entrincheirado no que ELES quer que não consegue ouvir o inimigo batendo à sua porta." Ele se preocupa. "Para termos uma chance contra [url=glossary:kyros]Kyros[/url], temos que nos unir. É simples assim... ou seja, quase impossível."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Talvez uma reunião para expor queixas esteja em ordem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Isso seria mais do que apropriado. O [url=glossary:younger realms]Reinos mais jovens[/url] teve uma tradição semelhante que ocorreu neste mesmo salão. Realizar a reunião aqui ajudaria muito a mostrar solidariedade com o Camadas. Pode ser apenas um gesto cerimonial, mas a cerimônia é importante quando sua própria cultura está sob ataque."
+
+"Com isso dito, caberia a você fazer com que as facções rebeldes se encontrassem em primeiro lugar. Imagino que convencer pelo menos três deles seria um bom começo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Enviarei uma mensagem assim que reunir apoio suficiente. Em seguida, você pode convocar a reunião."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Muito bem - aguardo notícias do seu sucesso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ah, Vinculador do Destino. Acredito que você recebeu minha mensagem e está pronto para convocar uma reunião dos líderes rebeldes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Bom. Meus mensageiros divulgarão através de canais subterrâneos que os líderes rebeldes devem se reunir aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Nós vamos, não demore muito. Se você deixar seus amigos esperando, a confiança deles em sua liderança pode diminuir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Bem-vindo de volta, Vinculador do Destino. Você está pronto para convocar os futuros líderes do Camadas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Nesse caso, farei meus mensageiros enviarem uma mensagem aos líderes da facção. Eles devem se reunir aqui em breve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Vinculador do Destino, esta reunião tem como objetivo evitar que a aliança desmorone. Espero que você não se esqueça disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Vinculador do Destino, você está preparado para enfrentar seu acusador em um duelo?" Ele balança a cabeça. "Ainda nos curvamos aos velhos costumes quando se trata de resolução de conflitos. Assim que esse negócio com [url=glossary:kyros]Kyros[/url] terminar, estou ansioso para encontrar uma maneira melhor. Enquanto isso, temos sorte de ter tanto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Muito bem. Apenas deixe-me lembrá-lo de que a aliança conta com sua orientação. Sem ele, o futuro parece sombrio e incerto para o Camadas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Você lutou bem, Vinculador do Destino. Embora eu odeie ver nosso círculo se separar por uma fração sequer... parabéns."
+
+"Voltando aos assuntos importantes. A aliança está pronta para apoiar sua campanha contra o Arcontes. Acho que você pode apreciar o grande passo que é esse?"
+
+"Quando você cuspir o último dos [url=glossary:kyros]Kyros[/url]' cachorrinhos de colo, volte aqui. Provavelmente precisaremos ter uma discussão sobre o futuro dessa aliança."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Você trouxe um artefato para representar sua autoridade e solidariedade com os Tiers? Precisaremos de um símbolo de rally apropriado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Ele franze a testa. "Você deve ter em mente que esses grupos respondem à tradição. Sem um símbolo de rally, seus esforços serão em vão."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

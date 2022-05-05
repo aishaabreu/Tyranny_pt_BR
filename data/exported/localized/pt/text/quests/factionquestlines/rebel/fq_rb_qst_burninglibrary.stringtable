@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\factionquestlines\rebel\fq_rb_qst_burninglibrary</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Palavras acaloradas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Conheça Renata.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Remova a presença [url=glossary:scarlet chorus]Coro Escarlate[/url] no [url=glossary:burning library]Biblioteca em chamas[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Encontre um caminho além da barreira mágica.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Encontre mais pedaços de pergaminho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Encontre os pedaços de pergaminho restantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Encontre o último pedaço de pergaminho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Use os pedaços de pergaminho para alcançar o Arquivo Silencioso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Derrote o Censor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Recuperar o Arquivo Silencioso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Viaje para o [url=glossary:burning library]Biblioteca em chamas[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Informe para Arri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Voltar para Renata.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Arri fez contato através do Sábios que lutou na rebelião em [url=glossary:vendrien's well]Poço de Vendrien[/url]. Eles podem apresentá-lo a Renata, seu líder, em Effigy nos arredores de [url=glossary:burning library]Biblioteca em chamas[/url]. Você precisará trabalhar com ela se quiser garantir uma aliança com o Sábios.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Reúna-se com Renata e o Sábios em Efígie para solicitar sua fidelidade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Renata se juntará à sua causa se você eliminar os [url=glossary:scarlet chorus]Coro Escarlate[/url] ocupantes do [url=glossary:burning library]Biblioteca em chamas[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Uma barreira mágica impede você de viajar mais para dentro das ruínas. Encontre uma maneira de dissipá-lo para continuar explorando o [url=glossary:burning library]Biblioteca em chamas[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Você encontrou um fragmento de pergaminho que parece importante. Encontre mais e junte-os.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Você encontrou dois fragmentos de pergaminho. Encontre o resto deles e junte-os.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Você encontrou três pedaços de pergaminho. Parece que você ainda precisa encontrar mais um para completar a página.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Você encontrou pedaços de pergaminho suficientes para decifrar uma frase mágica. Depois de ter feito isso, use-o para entrar no Arquivo Silencioso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Mate o Censor e remova a ameaça final [url=glossary:scarlet chorus]Coro Escarlate[/url] do [url=glossary:burning library]Biblioteca em chamas[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Você aprendeu que o Arquivo Silencioso é um único pergaminho mágico contendo o conhecimento cumulativo do Sábios. Encontre uma maneira de removê-lo do [url=glossary:burning library]Biblioteca em chamas[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Você recebeu informações suficientes para poder contornar as patrulhas [url=glossary:scarlet chorus]Coro Escarlate[/url] e alcançar o [url=glossary:burning library]Biblioteca em chamas[/url]. Viaje até lá e entre nas ruínas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Você recrutou com sucesso Renata e o Sábios para sua causa. Viaje para [url=glossary:ascension hall]Salão da Ascensão[/url] para discutir seu próximo passo com Arri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>Agora que você limpou o [url=glossary:burning library]Biblioteca em chamas[/url] de [url=glossary:scarlet chorus]Coro Escarlate[/url] e recuperou o Arquivo Silencioso, é hora de ver se Renata cumprirá seu acordo em se juntar à sua causa .</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você deu o controle do [url=glossary:burning library]Biblioteca em chamas[/url] de volta ao Sábios e, por sua vez, eles se juntaram à sua causa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você foi contra a causa rebelde e, portanto, alienou-se de outros grupos rebeldes em potencial.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>A oportunidade de resolver esta tarefa passou.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

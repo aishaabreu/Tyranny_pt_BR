@@ -1,0 +1,453 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\vx1\vx1_09_cv_telesophia</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>89</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Telesophia, para encontrá-lo nesta fossa de invasores..." Ele balança a cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Fatebinder! Ouvi dizer que tínhamos recém-chegados, mas não teria imaginado alguém da sua... estatura." Ela acena com a cabeça tão bem quanto pode.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Algo que posso fazer por você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Como você foi parar nessa coluna?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ouvi dizer que você definiu as probabilidades para Mel's apostas de caça. Como você faz isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Deixar] "Tenho que ir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Alguns anos atrás, depois que [url=glossary:cairn]Cairn[/url] foi finalmente declarado desonesto, o Em geral queria pessoas procurando o que fez [url=glossary:cairn]Cairn[/url] perder sua sanidade - ou sua lealdade, dependendo da sua perspectiva."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Mell vem de vez em quando para conversar. Ele me alimenta com sobras, eu o alimento com o que sei em troca e ele usa isso para calcular suas chances. Estranho arranjo que temos, mas gosto de comer tanto quanto todo mundo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Você acha que Mel pode estar trapaceando de alguma forma?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Eu não saberia, Vinculador do Destino. Tenho olhos aguçados, mas eles não andam muito por aí hoje em dia. Eu vi as probabilidades que ele estabelece e elas alinham o que eu digo a ele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Uma Besta afirmou ter visto humanos no Oldwalls durante uma caçada... Poderia estar sem dormir vagando pelas profundezas, é claro. Ela partiu para investigar e nunca mais voltou. Não deveria ter ido sem o pacote." Telesophia dá de ombros.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Como está o dia te tratando, Fatebinder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Estou procurando informações que você possa ter."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Ela olha para baixo e contempla calmamente antes de falar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Estou ouvindo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"E que injustiça é essa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Você deve ter notado um Earthshaker vagando por este lugar. Isso é Argan, e ele traiu minha unidade da mesma forma que [url=glossary:cairn]Cairn[/url] se afastou de seus aliados. O covarde se rendeu no momento em que as lâminas foram sacadas. Agora ele passa seus dias brincando com Jaspos - perdido em preliminares místicas com aquele idiota que deveria estar forjando ferro de guerra adequado, não polindo rochas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"[url=glossary:cairn]Cairn[/url] os discípulos desonestos seriam destruídos, mas não tenho como satisfazer essa ordem, a não ser estrangulá-lo com minhas pernas. Então estou pedindo ajuda a vocês. Dê a ele a justiça que ele merece, então eu lhe direi o que você quiser saber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Não havia escolha a não ser passá-los à espada. Lutamos bem, mas nosso avanço se desfez quando aquele covarde Argaen ergueu os braços e se rendeu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Como eu sei que você realmente tem o que estou procurando?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ele está praticamente morto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Vou pensar nisso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Tenho todo o tempo no Camadas, Vinculador do Destino. Pense nisso o quanto quiser." Seus lábios se curvam para cima para formar um sorriso torto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ah, maravilhoso!" da Telesophia olhos se iluminam e ela sacode as amarras de excitação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Cheguei a uma decisão sobre Argaen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Sim? O que você vai fazer, Fatebinder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Eu não vou matá-lo. Desculpe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ele não é alguém que vale a pena proteger, Vinculador do Destino. É sua escolha, no entanto. Você não terá minha ajuda a menos que mude de ideia." Ela balança a cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Estou tentando descobrir como Apelido Insípido passa por uma barreira mágica no Oldwalls. Alguma ideia?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"É incrível o que as pessoas vão dizer perto de um prisioneiro. Eu a ouvi e Wagstaff sussurrando sobre isso há pouco tempo." Ela sorri, balançando a cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Argaen está morto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Finalmente! Obrigado Fatebinder, a vergonha dessa tarefa não feita me comeu mais do que a fome ou essas cordas amarradas em meus pulsos." Ela fecha os olhos e exala profundamente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Uma mulher de ombros largos com roupas [url=glossary:disfavored]Desfavorecido[/url] balança contra a coluna próxima, suspensa pelos pulsos. Embora ainda vestida com o peitoral de ferro de sua unidade, ela está sem capacete e parece incomumente à vontade em sua posição comprometida. Um colono próximo se envolve em uma conversa amigável com o [url=glossary:disfavored]Desfavorecido[/url] - ela olha para ele, ouvindo com paciência obediente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"A última isca fisgou aquela truta muito bem, mas levou tudo a jusante quando o nó cedeu! Enrolei a linha várias vezes, exatamente como você disse. Você não está me mentindo, está 'Sofia?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"O bronze de Jaspos deve ser forte o suficiente para a truta - de jeito nenhum o anzol quebrou em sua boca. Você provavelmente não enrolou a linha em torno de si mesma vezes suficientes. Lembre-se do que eu disse, são pelo menos cinco voltas antes de você dar um laço e amarrar para formar o clinch. Apenas tente. Vai funcionar. E se o peixe morder, espero que você guarde um pouco dessa truta para mim!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ha, você faria. Vou tentar esse nó outra vez. É uma pena que você não possa simplesmente amarrar as malditas coisas para nós."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Eu faria isso com prazer, mas você sabe que eu teria que cortar vocês traidores primeiro. Pelo menos eu teria todos os peixes para mim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Você diz isso toda vez que eu apareço. De qualquer forma, obrigado pelo conselho - vou tentar novamente com a luz. Até a próxima, 'Sofia." O colono joga a cabeça para trás em uma gargalhada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Boa caça, então." Quando o colono se afasta, o soldado amarrado nota sua aproximação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Minha unidade jogou escolta para uma equipe de Tremedores de terra enquanto eles refaziam a jornada de [url=glossary:cairn]Cairn[/url] através do Camadas. Estávamos indo para o Portões do Julgamento e encontramos uma fenda que por acaso era... bem." Ela aponta para cima com a cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Uma mulher de meia-idade passa segurando uma cesta de tecido, acenando para Telesophia. O soldado [url=glossary:disfavored]Desfavorecido[/url] acena com a cabeça em troca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Como você ainda está vivo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Por que os colonos simplesmente não executam você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"[url=glossary:graven ashe]Cinza esculpida[/url] protege. A égide do general pode nos sustentar em circunstâncias muito mais difíceis." Ela manobra os ombros em uma vaga aproximação de uma saudação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Eles têm, em certo sentido. A Mulher-Fera líder do bando local ordenou que eu fosse enforcado até a morte. Acho que ela não entendeu Égide de Ashe, então quem está rindo agora?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Ninguém quer irritar os caçadores Maldito residentes, então os Bestas devem seguir seu caminho. Tive muito tempo para me familiarizar com os locais enquanto 'pereci'. É quase uma pena que todos estejam condenados sob [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Eu fiz parte do avanço em Azure antes que o [url=glossary:edict]Edital[/url] destruísse a paisagem. Tive que lidar com muitos não cooperativos Homens-fera, então eu sei uma coisa ou duas sobre como dimensionar os mestiços."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Não posso fazer muito mais daqui a não ser observar, então noto detalhes como lesões ou Feras que não jogam bem. Eles escondem suas feridas e agem duros, mas eu sempre posso dizer. Não é uma coisa fácil de entender... a menos que você seja eu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"O que segura sua mão, Fatebinder? Devemos corrigir essa injustiça imediatamente!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Precisa de ajuda?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Permaneça em silencio.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Qual é o crime deste soldado?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Ir embora.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[Permaneça em silencio.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Não é hora para seus jogos de intimidação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Esperar... quem é-? Barik? É você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Não, por favor. Deixe-me ser. Jurei por dever matar esses tolos e jurei por honra cuidar de sua segurança. É... mais fácil não ter escolha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Eu os julguei livres para viver, então não posso exatamente soltar um assassino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Você prefere ficar lá em cima?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Se você insistir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Onde eu estava? Paramos para investigar, apenas para encontrar este... ninho, esta colmeia. Invasores vivendo com Bestas como iguais! Tudo isso uma abominação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Você parece estar em boas relações com os habitantes locais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[Não diga nada.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Como prisioneiro, você não deveria estar resistindo um pouco mais?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Fui capturado em batalha. A feira está longe. Agora meu trabalho é mostrar a essas dragas da humanidade como um cidadão do Império do Norte se comporta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Eles são pessoas bastante amáveis, apesar de todos eles serem [url=glossary:kyros]Kyros[/url]-escória zombeteira que merece mortes lentas e lentas." Ela tenta uma expressão limitada de um encolher de ombros.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Você me entende exatamente, obrigado, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Mesmo se você me libertar, estou com muita fome para lutar. É a única coisa que eu teria vontade de fazer. Chegará o momento em que poderei me libertar e agarrarei a oportunidade com as duas mãos." Ela cerra os dedos pálidos em punhos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Parece que você tem companhia. Fale depois, 'Sofia." O colono se vira para você com um sorriso incerto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Ela? Oh, dificilmente é o meu lugar para dizer. Longe de mim fingir que sou um líder ou um legislador." O colono parece se divertir apenas por ser consultado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Não se preocupe - nós o libertaremos dessa escravidão imediatamente!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Eu saudaria um oficial do Tribunal, mas estou um pouco indisposto no momento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Bom dia, Eucio." Ela observa o colono que passa antes de voltar sua atenção para você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Ele quebrou as fileiras e nos deixou expostos. Se eu não tivesse ficado inconsciente, eu mesmo o teria executado! Acordei levantado nesta parede, e estou aqui desde então."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Meus pulsos estão mutilados, e estou cansado e faminto há mais tempo do que consigo me lembrar, mas estou longe das portas da morte. Os colonos me alimentam apenas o suficiente para continuar." Ela olha para sua armadura incrustada de sujeira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Tenho certeza que cheiro pior do que um Homem-Besta monte de esterco."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Informação é a única coisa que posso oferecer enquanto estiver preso aqui. Tenho certeza que você está procurando algo importante. Estou procurando FAZER algo importante. Se você puder me ajudar a corrigir uma injustiça, eu lhe direi o que você quiser saber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Eu poderia muito bem ser um ornamento no topo desta coluna. As pessoas ou me ignoram e sussurram seus segredos bem debaixo do meu nariz, ou os compartilham comigo quando estão perdendo um ouvido amigável. Você ficaria surpreso como... normal, minha presença aqui é considerada. Eu sei de TUDO que está acontecendo aqui, quer eu goste ou não."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Esse traidor não deve ser difícil de encontrar. A ferida não é exatamente nadar em Tremedores de terra, afinal. Boa caçada, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Obrigado, Vinculador do Destino. Minha mente é sua agora - pergunte-me o que quiser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Ainda... muitos dos Homens-fera mais fortes estão morrendo ultimamente. Azar, talvez? Não vejo como aquele escriba magro pode estar causando isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Insipid estava se gabando de algum tipo de token de controle que manipula a barreira. Ela o mantém escondido em um buraco na parede atrás de um banner Refrão. Isso deve ser um começo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>A [url=glossary:disfavored]Desfavorecido[/url] soldado levanta a cabeça para olhar para você com um mero lampejo de reconhecimento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Obrigado por sua ajuda, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Ei, Fatebinder. Lembra daquela vez que não nos vimos naqueles Oldwalls em que não estávamos? Eu também não."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"É divertido ver você fazer justiça naqueles invasores!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Bom dia, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Foda-se, Fatebinder!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Não posso dizer que não é interessante ver você trabalhar, Encadernador."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

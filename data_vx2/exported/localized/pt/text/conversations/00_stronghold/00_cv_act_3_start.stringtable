@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\00_cv_act_3_start</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Súditos leais de [url=glossary:kyros]Kyros[/url] não se liguem um ao outro... foi assim que essa loucura começou, com o Arcontes caindo em desordem!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Então considere este [url=glossary:kyros]Kyros[/url]' senso de humor? Eu não posso falar por que tem que ser assim, mas eu apostaria os números soberano que talvez seja mais fácil deixar todos vocês engasgarem com suas próprias lutas internas do que tentar fazer com que todos obedeçam."
+
+"E é claro, se você se considera um súdito leal de [url=glossary:kyros]Kyros[/url], você terá que jogar seu peso por aí. Porque tenho mais novidades."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Por favor, parece um pouco presunçoso reivindicar o poder Soberano. Ainda não entendo completamente esse poder."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

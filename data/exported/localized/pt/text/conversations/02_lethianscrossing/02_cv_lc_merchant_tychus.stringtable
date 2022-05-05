@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\02_cv_lc_merchant_tychus</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Receber, bem-vindo!" O comerciante acena para você. "O que posso fazer para você hoje? Certifique-se de estocar antes de sair - há muitos wilds entre aqui e o [url=glossary:bastard city]Cidade bastarda[/url]!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Mostre-me o que você tem à venda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Deixar] "Voltarei mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Encontraremos algo que você goste..." Ele se volta para seus bens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Isso é um erro, amigo! Você não encontrará preços mais baixos em nenhum lugar!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Você poderia me dizer alguma coisa sobre esse selo? Encontrei em [url=glossary:vendrien's well]Poço de Vendrien[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Tychus o vira nas mãos e balança a cabeça. "Não parece com qualquer foca que já encontrei. Desculpe... Mas alguém pode saber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"O que você pode me dizer sobre Gino?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ele foi acusado de matar a concorrência - mas nada aconteceu. Ele ainda está autorizado a vender seus produtos, então não deve ter havido prova definitiva de quaisquer crimes. Embora, com os rumores, imagino que agora seja um momento muito difícil para ele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Ele para, seu lábio virando em um sorriso de escárnio. "Hmmmm... Está aqui para testemunhar sua obra, Fatebinder? Não foi o suficiente para decretar o [url=glossary:edict]Edital[/url], você tinha que ver o que está fazendo com a Travessia?" Ele cruza os braços. "Acho que existem lugares piores onde eu poderia estar, então eu realmente não deveria reclamar..." Ele suspira. "Enquanto você está aqui, posso fazer alguma coisa por você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Nós vamos, se não for o Vinculador do Destino." O rosto do homem fica frouxo e todo sinal de alegria deixa seus olhos. "O que leva você para [url=glossary:lethian's crossing]A travessia de Lethian[/url]? Não você tem guerra para travar com [url=glossary:kyros]Kyros[/url]? Você já condenou o povo de [url=glossary:vendrien's well]Poço de Vendrien[/url] a viver com um de seus Editais - não precisamos mais de morte no Camadas." Ele balança a cabeça. "Mas eu falando comigo mesmo aqui, não é? Posso fazer alguma coisa por você hoje?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Ah, Vinculador do Destino, você voltou." A voz de Tychus é monótona e sem emoção. "Posso pegar alguma coisa hoje?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Saudações viajante, parece que você poderia usar o que tenho a oferecer!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

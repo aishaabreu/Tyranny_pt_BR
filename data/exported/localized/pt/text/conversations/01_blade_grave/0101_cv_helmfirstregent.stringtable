@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\0101_cv_helmfirstregent</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Você passa horas lascando a rocha, liberando dezenas de espécimes danificados e comuns. Eventualmente, você abre um dos espigões ao longo da crista da formação, revelando um capacete que é quente ao toque e aparece - além da poeira que o cobre - recém-forjado.
+
+Você encontrou o Elmo do Primeiro Regente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Você examina a formação em busca de couraças com a marca de Epistratos. Depois de alguns minutos, você encontra um embutido em um espigão que ajuda a formar a crista superior da saliência rochosa. O Regente foi perfurado por baixo e, seguindo a curva do espigão, você vê um elmo distinto meio encaixado perto de sua ponta. 
+
+Você encontrou o Elmo do Primeiro Regente.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

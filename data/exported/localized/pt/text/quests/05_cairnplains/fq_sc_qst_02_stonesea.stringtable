@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\05_cairnplains\fq_sc_qst_02_stonesea</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>[url=glossary:cairn]Cairn[/url]'s Música final</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Viajar para Plainsgate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Viajar para Halfgate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Fale com Miséria.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Viajar para Stone Down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Fale com Oitava.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Fale com Centenas-Blood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>[url=glossary:the voices of nerat]As vozes de Nerat[/url] pediu para você parar o [url=glossary:edict]Edital[/url] no [url=glossary:stone sea]Mar de Pedra[/url] destruindo o que resta de [url=glossary:cairn]Cairn[/url], o Arconte de Pedra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Viajar para Plainsgate e encontre com Miséria, a Lança Carmesim que está postada lá.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Viajar para Halfgate e encontre com Miséria, a Lança Carmesim que está postada lá.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Localizar miséria, a Lança Carmesim executando todas as operações Refrão no [url=glossary:stone sea]Mar de Pedra[/url], e fale com ela para saber como está progredindo o esforço para destruir [url=glossary:cairn]Cairn[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Misery pediu para você ir até Apedrejar para se encontrar com seu segundo em comando, Oitava, que está encarregado de encontrar Rocha Uivante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Fale com Oitava em Stone Down para saber o que o [url=glossary:scarlet chorus]Coro Escarlate[/url] precisa que você faça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Fale com Centenas-Blood, líder do [url=glossary:stonestalkers]Perseguidores de Pedras[/url] Homens-Besta em Stone Down, na esperança de garantir passagem para Rocha Uivante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você fez contato com o Homem-Besta de Cem Sangue em Stone Down e aprendeu sobre seus próximos passos em sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você falhou no [url=glossary:scarlet chorus]Coro Escarlate[/url] e foi rotulado como anarquista.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Você eliminou o [url=glossary:stonestalkers]Perseguidores de Pedras[/url] em Apedrejar, abrindo caminho para avançar com segurança em Rocha Uivante.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

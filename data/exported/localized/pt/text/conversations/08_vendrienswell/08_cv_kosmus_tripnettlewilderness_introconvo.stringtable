@@ -1,0 +1,294 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\08_vendrienswell\08_cv_kosmus_tripnettlewilderness_introconvo</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>54</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Reforços? Finalmente! Venha por aqui, precisamos-" O refrão guerreiro balança seu braço tatuado em saudação. No meio do gesto, um olhar de confusão surge em seu rosto pintado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Estou aqui para reunir os [url=glossary:vendrien guard]Guarda Vendrien[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ah sim? Venha para roubar minha presa?" Ele solta uma risada abafada por entre os dentes. "Quem sou eu enganando? Encontrámo-nos há dois dias e não estamos em condições de voltar a brigar. Por mais que eu ame o direito de me gabar de reivindicar alguns escalpos, minha gangue precisa descansar antes de começarmos outra briga."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Perdi dois da minha gangue nas montanhas e estamos com metade das rações há dias. Então, até que tenhamos um contingente muito maior, provavelmente não venceremos nenhuma luta que começarmos. Agora que você está aqui, acho que minha gangue vai se conter e ficar de olho em problemas, talvez entrar se as coisas ficarem confusas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Sim... ha ha." Sua risada de madeira é seguida por um revirar de olhos. "Se eu estou para jogar fora a vida da minha gangue, será em busca de algo muito mais grandioso e lucrativo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Covarde demais para lutar? Eu vejo como é."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Como você encontrou este lugar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Eu posso lidar com isso. Não há necessidade de forçar seus guerreiros além dos limites."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"O acampamento deles é logo ali," ele aponta para o nordeste, "e estamos de olho neles nos últimos dois dias. Alguns deles partiram há algumas horas – procurando comida, talvez em patrulha – mas ainda não voltaram. Talvez seja sensato atacar agora enquanto eles estão divididos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Minha gangue e eu ficaremos à espreita nas proximidades. Quando você fizer sua jogada, nós desceremos e ajudaremos a capturar Florian. Não se preocupe, eu vou deixar os outros saberem que você fez o trabalho pesado. Vou trapacear na batalha, mas não com minha reputação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Boa sorte lá fora, Vinculador do Destino. Enviaremos Refrão para backup assim que possível."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Bom trabalho aí, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Espera aí... de quem é a gangue?" Sangue respingos cobrem a pele exposta do homem, e seu corpo arfa com sinais de fadiga.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Verso da Irmã? O que eu fiz para merecer tal mão amiga?" Uma risada escapa do homem antes que ele estremeça, colocando a mão sobre a boca - ao mesmo tempo alerta para a necessidade de ficar quieto, sua voz cai para um sussurro áspero. "O Quinto Olho tem um senso de humor mandando você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Verse devolve um olhar frio, mas não diz nada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Vocês se conhecem?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Não estou com nenhuma gangue, mas o Quinto Olho pediu minha ajuda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Sim? E você disse sim?" Ele sorri, segurando uma risada audível. "Nós vamos obrigado [url=glossary:kyros]Kyros[/url] você fez, porque há muitos violadores de juramento para eu e minha gangue aceitarmos. Minha gangue é dura, mas precisamos lamber nossas feridas antes de poder navegar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Este costumava correr com minha matilha... até que ele partiu para a Dobre de Morte gangue."
+
+"Porco sem mãe nem teve coragem de lutar comigo pelo direito de sair - ele apenas fez as malas e foi embora com o rabo de covarde entre as pernas gordas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"E uma jogada sábia nisso. Quantos você perdeu sob seu comando até agora?" Ele ergue a mão, abafando um sorriso. "Falei errado. Tenho certeza de que você só matou a maioria deles - não pode descartar a morte por sua própria incompetência!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Para Versar.] "Arrumar suas lâminas, ou eu as guardo para você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Pegue o Falso Limp pelo pescoço.] "Pedir desculpas. Agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Para Versar.] "Se você quiser lutar com ele, eu te apoio, mas temos uma missão aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Qual é o seu plano agora?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Deixe os violadores de juramento comigo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Um tipo de acidente feliz." Ele aponta para o leste em direção às montanhas. "Estávamos nas montanhas com ordens para manter os infratores do juramento e manter quaisquer possíveis aliados fora do vale."
+
+"Coisa mais estranha acontece - tremores atingem a passagem. E os tremores duraram um pouco, então imaginei que fossem mágicos, mas não havia sinal de Tremedores de terra nem de ninguém!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Isso foi [url=glossary:kyros]Kyros[/url] magia selando o vale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Permaneça em silencio.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Não realmente, como você encontrou este lugar? Ninguém outros no Refrão sabiam onde ficava esse acampamento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Ah sim? Isso seria explique... pensamos por um segundo [url=glossary:cairn]Cairn[/url] sobreviveu à morte e voltou por vingança."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Considerando que não precisávamos mais observar a passagem, descemos a encosta, de volta ao acampamento."
+
+Ele aponta com o olho para o norte. "Os novos peixes da turma têm bons olhos, e ela viu as fogueiras do alto. Ficamos curiosos, viramos para cá e foi assim que chegamos aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Suas sobrancelhas se erguem. "Não tenho certeza do que você está tocando... e não gosto do seu tom. Tínhamos ordens para vigiar as montanhas a leste daqui e encontramos este local em nossa caminhada de volta ao acampamento. O que posso dizer? Eu respondo ao Arconte dos Segredos - não me dizem muitos detalhes, mas com certeza vejo muitas coincidências."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Apenas puxando sua corrente pelos velhos tempos! Você sempre ficava mais feliz quando tinha um inimigo no mundo, hein?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Parece Dobre de Morte não seguiu meu conselho e fez você castrar para conter suas explosões."
+
+Verse puxa suas lâminas em um movimento fluido.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Claro que sim, e eu não poderia me importar menos. Apenas saiba disso - você não é bom o suficiente para fazer isso na minha cara." 
+
+Ela cheira e olha para ele. 
+
+"Limpe-se."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Verse o considera friamente, devolvendo suas lâminas com um olhar penetrante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Este não vale a pena. Tenho ressentimentos melhores para resolver."
+
+Depois de uma longa hesitação, Verse pisca e devolve as lâminas ao cinto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Com um passo rápido e confiante, você avança em Falso mancar e agarra seu pescoço antes que ele possa se afastar. Sua postura oscila quando você aperta sua garganta, e ele pressiona os braços contra você, desesperado para afastá-lo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Por fim, ele se desvencilha de seu aperto, ofegando por ar e agarrando sua garganta. "Sinto muito! Verso da Senhora, eu não... não quis dizer nenhum desrespeito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Ugh. Outra vez, então. Falso mancar, fique à vontade com a ideia de uma faca na barriga. Provavelmente virá de mim."
+
+Verse fareja e devolve as armas ao cinto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Sorrindo amplamente, ele bate palmas em aprovação. "[url=glossary:kyros]Kyros[/url] aplaudiria sua bravura!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Desculpas... Estou no campo há semanas, sem responder a ninguém. Esqueci meu lugar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Vá em frente, avisaremos se houver problemas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Estamos partindo antes que seus reforços apareçam. Mova!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Quem é-?" O guerreiro do Coro pisca surpreso ao ver Barik. "Não lembre-se de convidar a legião para nossa festinha!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"E não me lembro de precisar de sua permissão para lutar contra o inimigo nos meus termos, rato do coro. Você pode comandar sua gangue como achar melhor, mas para mim você é apenas mais um réprobo vestido de escarlate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Ele está comigo, e eu pretendo olhar para o outro lado se ele decidir te matar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"À vontade, Barik. Deixe a postura para mim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>O som de pigarrear ecoa sob Barik's couro de metal. Por sua total falta de movimento, ele poderia muito bem ser uma armadura decorativa há muito negligenciada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>O refrão guerreiro dá um passo para trás, instintivamente protegendo o rosto com as mãos. "Lento para baixo, sem tentar iniciar algo. Minha gangue e eu ainda estamos mancando para a última luta. Você é o Comandante Barik, certo? Desculpas, parece que não consigo abrir a boca sem ser rude."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Eu posso ver isso bem o suficiente. Você está dispensado por enquanto. Temos o suficiente em nossas mãos com o inimigo que não posso me dar ao luxo de brigar com cada Refrão recruta que passamos, posso?" Barik acena para você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Não tenho mais nada a lhe dizer, Vinculador do Destino. Deixe-me em paz por enquanto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

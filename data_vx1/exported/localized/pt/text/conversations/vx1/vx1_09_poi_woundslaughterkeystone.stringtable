@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\vx1\vx1_09_poi_woundslaughterkeystone</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Parece que o amuleto dela era algum tipo de chave em uma corrente. Devemos mantê-lo se planejamos explorar mais abaixo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Esta bugiganga parece ter sido feita de uma pedra angular. Sem dúvida, isso foi usado para viajar o Oldwalls abaixo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Isso é algum tipo de chave Oldwalls? Deixe para o Coro carregar algo tão claramente proibido. Ainda, pode ser útil para você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Tinket-stone irradia um forte cheiro místico... e zumbe como Oldwalls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Isso NÃO é um equipamento padrão Fúria. Acho que permite acesso ao resto do Oldwalls?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Essa rocha parece velha. Não - antigo. Você acha que podemos usá-lo para aprofundar o Oldwalls?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

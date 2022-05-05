@@ -1,0 +1,432 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\05_cairnplains\05_cv_lina_plainsgate</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>82</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Mate a Besta! Cinquenta anéis de bronze para colocar sua pele sobre minha carroça!" O colono rebelde percebe você e faz uma pausa. "Você é o Vinculador do Destino que ouvimos estar chegando, não é? Folclórico de [url=glossary:tunon]Tunon[/url]'s Tribunal não costumam chegar a essas partes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Entendo que você está tendo alguns problemas com o local Homens-fera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"O que você pode me dizer sobre [Plainsgate]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Tenho que ir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Isso é evidente. Enquanto houver Homens-fera, eles serão um problema. Caso em questão - este matou um colono anteontem." Ela gesticula além da multidão. 
+
+"Se os selvagens estão caçando nosso povo, então precisamos devolver a violência dez vezes. Duvido que os malucos peludos e manchados de merda respondam a qualquer coisa menos que um massacre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ele diz que não fez isso, mas isso é um monte de esterco. Não confie em nada que um Fera afirma. Se eles podem falar, então certamente eles podem mentir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Por que não considerar a possibilidade de ele ser inocente? Ele pode estar dizendo a verdade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Vá em frente e tome sua decisão. Tente lembrar que este não é um humano em julgamento, hein? Duvido que [url=glossary:tunon]Tunon[/url] se importe com uma Besta a menos no mundo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Vá em frente e tome sua decisão. Tente lembrar que este não é um humano em julgamento, hein? Duvido que [url=glossary:tunon]Tunon[/url] se importe com uma Besta a menos no mundo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"O que você precisa de gente como eu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Suponho que você tenha visto lugares melhores do que este em suas viagens. Nós vamos, [Plainsgate] nunca tentou ser um grande bastião de riqueza como o [url=glossary:bastard city]Cidade bastarda[/url]. Ele se contentava em ser ele mesmo - decente, fora do caminho e hospitaleiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"O que você pode me dizer sobre as operações [url=glossary:disfavored]Desfavorecido[/url] no [url=glossary:stone sea]Mar de Pedra[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Alguns meses atrás, um punhado de Tremedores de terra passou procurando pelos restos mortais de [url=glossary:cairn]Cairn[/url]. Outros seguiram. Tipos de roupão. Eles fizeram tudo sob o manto da sombra, mas somos uma pequena comunidade. As pessoas falam."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"O que você pode me dizer sobre o [url=glossary:scarlet chorus]Coro Escarlate[/url] e o que eles estão fazendo aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Mesmo com a poeira baixando, os [url=glossary:scarlet chorus]Coro Escarlate[/url] fixaram o olhar em engrossar as fileiras. Eles são menos agressivos sobre isso hoje em dia, mas às vezes você ouve falar de seus ritos sangrentos de recrutamento." "Eles invadem uma casa, pegam o que querem e dizem a quem mora lá para pegar uma lâmina e jurar fidelidade para [url=glossary:the voices of nerat]o Vozes de Nerat[/url] para ter a chance de ver o nascer do sol." Ela balança a cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"A maioria das pessoas os tolera porque estão mantendo o Homens-fera ocupado. O refrão também tem algum plano para quebrar o [url=glossary:edict]Edital[/url] de Pedra, mas eu gostaria que eles fizessem isso sem incomodar o resto de nós. [url=glossary:kyros]Kyros[/url]' os exércitos devem resolver os problemas que começaram, não escravizar nós pobres para limpar a bagunça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Por que eles estão tão determinados a colocar mais pessoas em seus exércitos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Aposto que tem a ver com o [url=glossary:disfavored]Desfavorecido[/url] estacionado em Rocha Uivante. Os [url=glossary:scarlet chorus]Coro Escarlate[/url] estão ganhando mão de obra para atacar as armaduras de [url=glossary:graven ashe]Cinza esculpida[/url]." "Mesmo que 'mão de obra' signifique alguns anciões com porretes e algumas crianças com lanças. Os [url=glossary:scarlet chorus]Coro Escarlate[/url] não são exigentes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Voltando às minhas perguntas anteriores."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Onde você estava durante o ataque de [url=glossary:cairn]Cairn[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Foi ideia da minha mãe colocar alguma distância entre nós e Azure. Ela sabia que não deveria entrar em conflito com os [url=glossary:scarlet chorus]Coro Escarlate[/url] em sua marcha. Outros não acreditavam nas atrocidades do exército, mas esse seria o fardo deles descobrir, não o nosso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Tínhamos uma pequena fazenda um pouco ao sul. Tenho certeza de que agora não passa de uma lembrança de pedra quebrada, mas por um tempo foi nosso refúgio da guerra. Só voltamos quando as coisas se acalmaram."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Quando o [url=glossary:edict]Edital[/url] de Pedra arrancou toda a vida de Azure, esta pequena cidade se tornou a única cidade. Isso aconteceu quase da noite para o dia. Temos alguns problemas aqui e ali, mas é principalmente por causa de problemas que herdamos, como o Homens-fera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Meu tempo é seu. O que você quer saber?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Alguém os rastreou até Rocha Uivante. Você não encontrará nenhum amor perdido entre [Plainsgate] e a laia de [url=glossary:graven ashe]Cinza esculpida[/url]. Desde que eles chegaram, os terremotos têm piorado." "Você me pergunta, a culpa é daqueles magos. Eles só estavam interessados em Azure quando [url=glossary:kyros]Kyros[/url] dividiu a terra. O que quer que tenham encontrado, só pode causar problemas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"[url=glossary:stonestalkers]Perseguidores de Pedras[/url] não estão caçando humanos na toca chamada Plainsgate. Se fosse, todos os humanos estariam mortos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Vá em frente e tome sua decisão. Tente lembrar que este não é um humano em julgamento, hein? Duvido que [url=glossary:tunon]Tunon[/url] se importe com uma Besta a menos no mundo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Vinculador do Destino. As pessoas de Plainsgate lembram." Lina sorri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Você está certo. Qualquer animal que caça um humano precisa ser sacrificado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Que bom que você vê do nosso jeito, Vinculador do Destino. Eu confio que você vai tomar a decisão certa quando chegar a hora. Faça-nos justiça e faça-o pagar por seus crimes, mas certifique-se de que ele sofra antes de ser executado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Que bom que você vê do nosso jeito, Vinculador do Destino. Eu confio que você vai tomar a decisão certa quando chegar a hora. Faça-nos justiça e faça-o pagar por seus crimes, mas certifique-se de que ele sofra antes de ser executado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Mesmo que o Homem-Besta tenha matado um de vocês, ele não cometeu nenhum crime. [Plainsgate] não está sujeito à proteção de [url=glossary:kyros]Kyros[/url]' Paz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Você nos condenaria por uma formalidade?" Ela bufa e balança a cabeça. "Como se não bastasse que [url=glossary:cairn]Cairn[/url] destruiu nossas vidas e terras, agora precisamos jurar nossa fidelidade a outro Arconte apenas para ganhar o favor do soberano."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"O [url=glossary:scarlet chorus]Coro Escarlate[/url] está procurando novos recrutas. Eu poderia recrutar o Homem-Besta para o exército deles, ou você poderia substituí-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Acho que é metade do motivo pelo qual Plainsgate não se saiu pior na guerra. Havia muitas cidades mais ricas em Azure para o Refrão saquear. Às vezes, a melhor defesa é ser o bolso mais pobre do mercado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Esse é apenas um método, mas útil. Funciona melhor quando o jovem da casa está ansioso para ver o mundo e pega uma arma antes mesmo que você precise pedir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Se você passa a vida obcecado com a magia da pedra e do solo, toda esta região oferece muito para estudar. Falando nisso... com certeza seria bom pegar o que eles sabem... ou de alguma forma enganá-los para compartilhar. Dê a eles o antigo tratamento Tinta e pena."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Certeza de que devo ficar ofendida com isso. Raspe isso - quase certo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Não, não, é um elogio. Os Sábios nos ensinou tudo o que precisamos saber sobre roubar as ideias dos outros e depois reescrevê-las como se fossem nossas. Estou verdadeiramente em dívida com o exemplo que sua escola deu. É como uma aula de mestre em roubo sutil - eu só posso esperar um dia ser tão bom quanto o professor."
+
+Eb se curva com um floreio dramático demais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Esta será uma jornada muito longa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Ei Arconte dos Rancores, você terminou de reclamar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[Permaneça em silencio.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Ela tem razão Lantry, ela aprendeu observando você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Foi mais uma lição de história do que um discurso retórico, então foda-se muito e sim, eu terminei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Eu não posso acreditar que você libertou aquele monstro. Vinculador do Destino, nós dois sabemos que os Homens-Besta são uma praga em nossa cultura. Não podemos esperar restaurar nossa antiga glória enquanto eles nos consideram pouco mais que presas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Eles deveriam ser caçados até a extinção ou rastejando aos nossos pés, não deixados para buscar vingança sangrenta contra nós! Onde a justiça pode ser encontrada, se não na sua decisão?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Fiz o que achei certo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"A justiça é reservada para quem aceita [url=glossary:kyros]Kyros[/url]' Paz. [Plainsgate] é apenas uma cidade ocupada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Gostaria de saber se [url=glossary:tunon]Tunon[/url] concordaria com você. Como você está em melhores condições com o Árbitro do que eu, suponho que isso seja o máximo que posso esperar da [url=glossary:kyros]Kyros[/url]' justiça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Entre contribuir para a queda de nossa cultura e se tornar hipócrita em sua defesa, você já fez bastante mal hoje. Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Uma distinção confortável a ser feita quando isso o beneficia. Se combinasse com a lei [url=glossary:kyros]Kyros[/url]', tenho certeza que você poderia encontrar uma maneira de nos colocar entre os vassalos de alguns Arconte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Você não é um maluco de confiança? Esses criaturas são tão grossas quanto burras. Se a Besta está dizendo a verdade, é só porque ele é muito estúpido para se lembrar de ter cometido o crime."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Eu não tentaria se superar com todas as aparências, no entanto. Não quero dar a ninguém a ideia errada de que o Fera pode realmente ser inocente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>[Mentira] "Vou investigar o Fera, mas apenas por causa das aparências."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Desde que me pediram para julgar, a responsabilidade é somente minha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"A fera está sob minha jurisdição. Você vai recuar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Se a Besta matou um de vocês ou mil, o assunto é meu para decidir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Ela bate na lateral do nariz. "Isso é um inteligente bem ali. Por um momento, pensei que você estava defendendo o Fera. Claramente, eu tinha percebido tudo errado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Eu não tentaria se superar com todas as aparências, no entanto. Não quero dar a ninguém a ideia errada de que o Fera pode realmente ser inocente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Eu não tentaria se superar com todas as aparências, no entanto. Não quero dar a ninguém a ideia errada de que o Fera pode realmente ser inocente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Ela parece prestes a protestar, mas se detém. "Suae certo. Eu não gostaria de entrar em conflito com [url=glossary:tunon]Tunon[/url]. Qualquer amigo do Arconte é bem-vindo para conduzir seus negócios aqui - especialmente se isso nos favorecer com [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Tenho dificuldade em imaginar o Fera inocente, mas acho que não cabe a mim julgar. Basta olhar para ele."
+
+Ela olha para o prisioneiro e faz uma careta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Tenho dificuldade em imaginar o Fera inocente, mas acho que não cabe a mim julgar. Basta olhar para ele."
+
+Ela olha para o prisioneiro e faz uma careta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Tenho dificuldade em imaginar o Fera inocente, mas acho que não cabe a mim julgar. Basta olhar para ele."
+
+Ela olha para o prisioneiro e faz uma careta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Eu..." Ela esfrega a cabeça e suspira. "[Plainsgate] não viu uma autoridade adequada desde que a guerra destruiu tudo. Talvez eu tenha deixado isso nublar meu julgamento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Às vezes eu esqueço como [url=glossary:kyros]Kyros[/url]' exércitos nunca pensam em pessoas como nós, vivendo à margem. É uma maravilha que [Plainsgate] tenha durado tanto tempo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Ela se encolhe em alarme. "Você não ousaria! Não é como se o [url=glossary:scarlet chorus]Coro Escarlate[/url] me quisesse, de qualquer maneira. Eu sou um lixo em uma luta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Jovens e velhos, fortes e enfermos - todos são forragem para o [url=glossary:scarlet chorus]Coro Escarlate[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url]' olhos, mas receio acreditar em você." Ela estremece. "Se isso me mantém longe das linhas de frente, então pegue a criatura imunda! Prefiro jogá-lo para o [url=glossary:scarlet chorus]Coro Escarlate[/url] como amigo do que arriscar chamar a atenção deles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Melhor morto do que vermelho, como dizem. Conheço algumas das atrocidades que [url=glossary:scarlet chorus]Coro Escarlate[/url] provocam em seus próprios recrutas, mas o que mais me assusta são as que não conheço."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Melhor morto do que vermelho, como dizem. Conheço algumas das atrocidades que [url=glossary:scarlet chorus]Coro Escarlate[/url] provocam em seus próprios recrutas, mas o que mais me assusta são as que não conheço."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Melhor morto do que vermelho, como dizem. Conheço algumas das atrocidades que [url=glossary:scarlet chorus]Coro Escarlate[/url] provocam em seus próprios recrutas, mas o que mais me assusta são as que não conheço."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Eu não tentaria se superar com todas as aparências, no entanto. Não quero dar a ninguém a ideia errada de que o Fera pode realmente ser inocente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Tenho dificuldade em imaginar o Fera inocente, mas acho que não cabe a mim julgar. Basta olhar para ele."
+
+Ela olha para o prisioneiro e faz uma careta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Vá em frente e tome sua decisão. Tente lembrar que este não é um humano em julgamento, hein? Duvido que [url=glossary:tunon]Tunon[/url] se importe com uma Besta a menos no mundo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Perguntar-me é uma boa maneira de ser ridicularizado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Sem perguntas. Não há necessidade de piorar as coisas. No que me diz respeito, nosso negócio está feito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Vou encontrar outra maneira de atender aos interesses de [Plainsgate], mas não é isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Acho que é bom saber que o agente de [url=glossary:tunon]Tunon[/url] não nos abandonou completamente, então. Nestes tempos sombrios, parece que estamos cada vez mais dependentes das forças de [url=glossary:kyros]Kyros[/url] para nossa sobrevivência."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Despedida, Vinculador do Destino. Tente não nos esquecer enquanto você vai acertar a guerra. Você pode ter todos os recursos do Camadas à sua disposição, mas nós temos apenas esta pedra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Ela suspira. "Como se eu estivesse em posição de questionar a lei [url=glossary:kyros]Kyros[/url]'. Vá, então. Nosso negócio está feito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Mate a Besta! Cinquenta anéis de latão para colocar sua pele sobre minha carroça!"
+
+O colono revoltado percebe você e faz uma pausa. "Você é o Fatebinder que cuidou da Refrão gangue que comanda esta cidade?" Ela lhe dá um tapa forte no ombro. "Talvez você pode mostrar a essas feras selvagens uma coisa ou duas também, hein?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

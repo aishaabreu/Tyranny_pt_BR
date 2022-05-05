@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\08_vendrienswell\08_bs_citadel_sc_attack_arrival_comp_bark</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Vamos falar com o Quinto Olho. Posso vê-lo a leste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Eu posso ver o Quinto Olho, aquela criatura miserável. Ele está a leste de nós."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Quinto Olho está logo à frente, saltitando com alguns Blood Chanters a leste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Nó do banco4</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

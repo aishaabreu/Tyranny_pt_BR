@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\companions\companion_cv_sirin_leaveparty</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Diga-me, Fatebinder - o sacrifício valeu a pena? Condenar outro a esse destino horrível conseguiu algo além de resultar em mais uma morte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Há baixas na guerra, Sirin. Eu tive que arriscar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Não me dê sermão sobre o certo e o errado, garotinha. Fiz o que precisava fazer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Não, não foi - perdemos um amigo hoje. Mas também destruímos um monstro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"E isso deixa tudo bem? Nerat está morto, então isso equilibra o sacrifício sem sentido? Isso é tão fácil para você, não é? Quero dizer, não é a sua vida que você está oferecendo!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Uma chance? E como isso funcionou para você? Ah, certo - não! Por que não decapitar alguém? Ou pendurá-los? O resultado final teria sido o mesmo!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Já passamos do certo e do errado, Fatebinder! O que você fez foi imperdoável! Eu estive dentro da mente daquela coisa. Ninguém mereceu o que você fez!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Não tente se desculpar. Eu disse que tinha acabado com você e estou falando sério. Você é como todo mundo - meu pai, [url=glossary:kyros]Kyros[/url], Nerat... Mais um monstro que se coloca em primeiro lugar."</DefaultText>
+      <FemaleText>"Não tente se desculpar. Eu disse que tinha acabado com você e estou falando sério. Você é como todo mundo - meu pai, [url=glossary:kyros]Kyros[/url], Nerat... Mais um monstro que se coloca em primeiro lugar."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Você pode sair, Sirin. Duvido que o mundo em geral esteja tão ansioso para protegê-lo quanto eu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Às vezes você tem que se tornar um monstro para destruir um. Um verdadeiro líder entende isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Lamento que você veja dessa forma, Sirin. Não vou impedi-lo de sair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Não se preocupe comigo. Sou perfeitamente capaz de me proteger. Você me ensinou bem. Tudo o que preciso fazer é colocar minhas necessidades antes de qualquer outra pessoa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Então você teve sucesso além das expectativas mais loucas de qualquer um. Acho que não demorará muito até que o próximo monstro chegue para destruí-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Se arrepender não apagará o que você fez aqui. Não posso perdoá-lo por isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Adeus, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\01_bs_mattias_sentinelstand</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Mantenham-se firmes, homens! Devemos expulsá-los - de uma vez por todas!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Você lidera o ataque, Fatebinder! Garantiremos que ninguém flanqueie seu avanço."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Para Stalwart e o [url=glossary:unbroken]ininterrupto[/url], não vamos cair!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

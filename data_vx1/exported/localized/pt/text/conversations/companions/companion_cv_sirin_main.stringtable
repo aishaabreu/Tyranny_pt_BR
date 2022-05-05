@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\companions\companion_cv_sirin_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>735</ID>
+      <DefaultText>"Meu escriba diz que este pergaminho que encontrei na Ferida Bastarda pode ser música antiga."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>738</ID>
+      <DefaultText>Palavras ou sons indiscriminados para o ouvido humano - uma linguagem não destinada a ser entendida por ninguém além do Arconte da Canção, além da amplitude do discernimento, mas inescapavelmente convincente - vinculativa, dolorosamente dolorosa em uma única cadência e, em seguida, cumprindo euforicamente uma mera entonação depois -
+
+Você pisca e percebe que o murmúrio abafado e arrepiante em seu ouvido silenciou.
+
+Sirin recua com um suspiro satisfeito, sorrindo para você. E a imagem perfeita de um sigilo - a invocação de seu nome - marca-se nas profundezas de sua mente.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

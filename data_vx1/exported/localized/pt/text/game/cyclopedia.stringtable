@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>game\cyclopedia</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>[url=glossary:warden's key]Chave do Guardião[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>O [url=glossary:warden's key]Chave do Guardião[/url] permite a ativação de interruptores e beacons dentro do Ferida do Bastardo Oldwalls a uma curta distância. Ele é usado automaticamente quando você clica em um objeto aplicável dentro do alcance do item.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>[url=glossary:betray alliance]Trair Aliança[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

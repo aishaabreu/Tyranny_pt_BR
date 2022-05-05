@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\02_poi_oldwall_01_glowing_rune</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Você vê aquele brilho misterioso? Em termos arcanos, acredito que isso signifique 'importante'. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Nada diz 'armadilha arcana' como uma runa brilhante no chão. Mas eu sei que estou curioso... e você também..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Esculpir no chão fica brilhante como a lua de sangue. Deve cheirar cuidadosamente antes de provar com a língua."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Olhe - lá no chão! Vê aquela runa? Espero que não signifique 'morte iminente' ou algo igualmente desagradável. Vamos tocá-lo!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Olhe lá! Que runa está brilhando agora. Eu ofereço você para tocá-lo!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Uma runa no chão. Porque por que eles colocariam runas em qualquer outro lugar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Nó do banco 7</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\00_recruits\04_cv_forge_vollus</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"As chamas da forja queimam forte, Fatebinder!" Vollus se curva diante de você. "Como posso servir você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Encontrei referência a uma adaga chamada Sangue do coração. O que você pode me dizer sobre isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Não preciso de nada agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Sangue de Coração? Sério? Deixe-me ver esse livro!" Ele olha para ele.
+
+"Isso é incrível! Infelizmente, as informações desse livro não são suficientes para eu recriá-lo. Se você pudesse me dar mais informações sobre isso, eu provavelmente poderia fazer isso para você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Encontrei este cabo no Oldwalls. O que você pode me dizer sobre isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Parece o punho de Sentinela, uma das melhores espadas que o [url=glossary:forge-bound]Forge-Bound[/url] já fez! Com isso, eu posso recriá-lo se você quiser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Encontrei esses planos e esse metal no Oldwalls. Você pode fazer isso para mim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Estes são os planos para Skorn! E você tem o metal que precisamos para fazer isso!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Encontrei esses planos no Oldwalls. Você pode fazer isso para mim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Infelizmente não posso agora - isso fala de um metal específico necessário para forjá-lo. Se você me trouxer os dois, posso fazer para você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Encontrei este capacete em Desfiladeiros de Ferrugem. O que você pode me dizer sobre isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Este é o Elmo Olho de Falcão! Com isso, poderei recriá-lo para você!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"As forjas estão prontas, Vinculador do Destino." Vollus abaixa a cabeça, não encontrando seus olhos. Seu corpo está virado, como se quisesse evitar um golpe. "Como pode um ferreiro indigno servir à sua grandeza?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Saudações, Fatebinder! Como posso ajudá-lo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Fale-me sobre o Forja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Você terminou de forjar um item para mim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Quero que você forje algo para mim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Ele gesticula para as bigornas próximas. "Se você quiser atualizar suas armas e armaduras, você pode usar qualquer uma das bigornas - deve ser simples o suficiente se você tiver os materiais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Se você precisar de algo que exija um mestre ferreiro, como forjar um item único, venha falar comigo e verei o que posso fazer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Há mais alguma coisa que eu possa fazer por você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Certamente, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Seus recrutas têm trabalhado duro. Deixe-me mostrar o que eles fizeram."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"O trabalho é lento com apenas um recruta, mas ainda podemos fazer as coisas."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

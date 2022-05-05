@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\01_cv_duskwatch_dis_merchant</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"O forte está protegido e as remessas de suprimentos de Lareira de Ferro estão nos mantendo abastecidos. Isso não significa que vamos recusar alguns anéis do baú de guerra de [url=glossary:tunon]Tunon[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Gostaria de ver seus produtos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Vinculador do Destino, você nos honra com sua presença. O que será?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Qualquer coisa por um servo do Tribunal. Não gostaria que você punisse a injustiça sem um ferro útil para respaldar seu julgamento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Fui informado de suas ações em Posto de Sentinela. Você prestou um ótimo serviço ao [url=glossary:disfavored]Desfavorecido[/url]. Com o [url=glossary:unbroken]ininterrupto[/url] derrotado, nenhum inimigo se colocará em nosso caminho." O soldado lhe dá uma saudação. "Recebi ordens expressas para oferecer meus produtos a um preço especial, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

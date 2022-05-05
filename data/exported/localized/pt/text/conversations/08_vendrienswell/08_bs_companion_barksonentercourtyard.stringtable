@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\08_vendrienswell\08_bs_companion_barksonentercourtyard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Vinculador do Destino, os [url=glossary:disfavored]Desfavorecido[/url] escalaram as paredes! Precisamos empurrá-los de volta!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Os blindados ultrapassaram as paredes? Deixe-me falar com eles!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Quem diria que o [url=glossary:disfavored]Desfavorecido[/url] poderia subir tão alto... eles estão acima das paredes!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"A legião está chegando e eles escalaram as paredes. Você seria sábio em empurrá-los de volta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Nó do banco 17</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

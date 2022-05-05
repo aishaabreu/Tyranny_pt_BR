@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\01_cv_injured_skyblade_sentinelstand</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Cuidado, estranho." A lâmina do céu tosse algumas vezes e pigarreia. "Não subestime o [url=glossary:disfavored]Desfavorecido[/url]. Em nossa arrogância, nunca pensamos que eles poderiam nos levar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Eles vão pagar pelo que fizeram para Robusto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Estou ansioso para ajudá-los a eliminar o resto de vocês."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Nenhum de vocês ficará aqui por muito tempo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Bom. Pelo menos alguém ainda está de pé que pode ver o futuro do nosso país." Uma sugestão de sorriso brinca em seus lábios enquanto ela morre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Espero que você sangre," ela rosna e seus olhos rolam para trás enquanto ela sucumbe aos ferimentos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Você!" A Lâmina do Céu tosse algumas vezes e pigarreia. "Nós subestimamos as forças de [url=glossary:kyros]Kyros[/url]." Um sorriso brinca nas bordas de seus lábios. "Você também vai."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Os [url=glossary:disfavored]Desfavorecido[/url]... Eles chegaram antes de nós."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Você... você trouxe isso para nós."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

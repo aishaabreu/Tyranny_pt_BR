@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\02_bs_lc_merchant_02_ambientbarks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Algum de vocês viu aquele flash de luz do Pináculo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Não é apenas o nosso Pináculo, mas ouvi dizer que outros Pináculos em todas as camadas estão acendendo, eu me pergunto o que isso pode significar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Talvez agora a paz finalmente chegue a [url=glossary:lethian's crossing]A travessia de Lethian[/url]..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Quem protegerá nossas lojas sem guarnição?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Me sinto mais à vontade com o [url=glossary:vendrien guard]Guarda Vendrien[/url] nos protegendo."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

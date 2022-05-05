@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\01_cv_ssik_ub_sentry01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Pode ser? Uma figura se aproxima através da tempestade!" A Lâmina do Céu Regente parece pronta para se aproximar e dar as boas-vindas a você. A compreensão da alvorada vem à sua expressão quando ela ergue sua arma em uma postura de desafio. "Anunciar você mesmo, invasor! Não ficamos no olho da tempestade tanto tempo para nos tornarmos escravos de [url=glossary:kyros]Kyros[/url]!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"A... a Insígnia!" A sentinela solta um grito assustado. "Alguém carregando o Insígnia do Regente vem por aqui!" Ela aperta os olhos para ver você na tempestade. "Por que você veio, estranho?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Venho em nome de Mattias, campeão do [url=glossary:unbroken]ininterrupto[/url]. Devo falar com Regente Stryadus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Mentira] "Sou amigo de Straydus, e carrego uma mensagem apenas para os ouvidos dele. Ele vive?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Ataque] "Estou aqui para matar o Regente, mas você servirá para começar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Mattias ainda vive... Acho que isso não é surpresa, mas os [url=glossary:unbroken]ininterrupto[/url] ainda estão juntos? Extraordinário. Fomos cortados do Robusto por muito tempo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Para as armas!" A sentinela entra em ação, gritando por socorro enquanto avança.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Uma amiga?" Ela coça a nuca. "Tenho certeza que o Regente vai querer ver alguém corajoso o suficiente para enfrentar a tempestade em seu nome. Deve ser alguma mensagem." Ela acena com a cabeça. "O portão está logo à frente. Fale com o guarda se quiser ter uma audiência."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>A voz do batedor diminui para um sussurro. "Lá são alguns que acreditam que o Regente se perdeu. Por favor, siga este caminho para os portões. Você pode convencê-lo a acabar com essa loucura."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"A guerra deixou esses pobres torrões para trás. Um ano ou mais preso na mesma fortaleza? Eu preferiria jogar o Regente por cima do muro. Nenhum país vale isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Ataque] "Estou aqui pela Ashe filha. Entregue-a sob minha custódia ou morra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Ataque] "Estou aqui para acabar com o [url=glossary:edict]Edital[/url] de Tempestades. O Regente morrerá."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"O que, você quer dizer Amelia?" O guarda lhe dá um olhar perplexo. "Mas ela..." Antes que a sentinela possa completar o pensamento, ela nota suas armas brandidas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Traga-me a cabeça de Straydus Herodin."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Não posso deixar de respeitar seu jeito de negociar com esses selvagens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Leve-nos para Straydus Herodin!" Barik avança na guarda com um ar ameaçador. "Não quero mais ouvir suas ameaças mesquinhas ou o quanto você ama seu país. Entregue-nos a serpente no coração deste ninho!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ei, garotão! Eu apenas assisto a tempestade o dia todo. Straydus está atrás das paredes." Ela olha em sua direção com admiração.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"O quebra-vento está aberto, sugiro que saiam com suas vidas ou juntem-se ao monte de corpos que deixei no meu rastro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>O soldado olha para seu conterrâneo e lhe dá uma olhada. "Esse não vale a pena morrer pela loucura... Nem mesmo o Regente nos culparia por ter a chance de ir embora depois de todo esse tempo, não é?" Considerando novamente, o soldado treme a cabeça e corre para a abertura no windwall atrás de você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Roar sobre o volume da tempestade.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>A lâmina do céu arma oscila em suas mãos e seu rosto fica com uma palidez doentia. Ela parece igualmente disposta a deixá-lo cair e correr ou fazer um balanço descuidado para abrir alguma distância entre vocês dois.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Ela franze a testa e recupera seu rumo, avançando em você. "Você acha que eu não gritei para a tempestade antes - que meu desespero para voltar para casa não foi arrancado da minha garganta quando eu menos suspeitava?! Você acha que eu não respirei meu peso em ferrugem e escombros, e que minha garganta não está tão crua e ressecada quanto a sua? Então venha até mim e veremos quem ruge mais alto!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

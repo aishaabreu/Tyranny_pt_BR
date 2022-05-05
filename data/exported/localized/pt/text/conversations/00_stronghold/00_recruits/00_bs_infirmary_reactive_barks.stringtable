@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\00_recruits\00_bs_infirmary_reactive_barks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Tantas vidas perdidas em busca daquele pedaço de pedra conhecido como Posto de Sentinela... Podemos apenas esperar que sua reivindicação acabe com o conflito por um tempo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Só agora que as tempestades passaram podemos ver a devastação que o [url=glossary:edict]Edital[/url] causou nas terras de Robusto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Haven certamente já viu dias melhores..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Se você continuar se encontrando cara a cara com criaturas como Destruição, não posso garantir que serei capaz de consertar você. Não posso ressuscitar os mortos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Talvez agora que a situação tenha passado do [url=glossary:stone sea]Mar de Pedra[/url] algumas das ervas mais raras que antes eram férteis voltem a crescer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Parece que o [url=glossary:stone sea]Mar de Pedra[/url] pertence às feras agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ah, Vinculador do Destino... Espero que esteja tudo do seu agrado."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\02_cv_scarletfury_ambush</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Um homem está diante de você. Todo o seu corpo, coberto por uma fina camada de suor, é uma confusão trêmula de tremores e espasmos. "W-Qual é o seu negócio?" ele gagueja.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Vim falar com alguém sobre Harchiand Bronze."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>O homem tenta falar, mas só consegue balbuciar algo incompreensível antes de cair morto. Quando ele cai flácido diante de seus pés, você vê que suas mãos estavam amarradas atrás dele no pulso.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\05_cairnplains\05_cv_scarchor_bark_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Não fique muito tempo, sim? Não nos importamos com o seu tipo por aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Nó do banco 2</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Tch. Agora não, amigo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Cuidado com o passo, chefe. Toda vez que ocorre um terremoto, parece que uma nova queda se abre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ouvi dizer que os superiores estão de olho em um Homem-Besta. Estou babando há dias."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Merda se armar armadilhas não deixou meus ombros mais rígidos do que o traseiro de um javali morto há uma semana."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Eles chamam de Rocha Uivante por causa dos gemidos de [url=glossary:cairn]Cairn[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Bênçãos do Senhor Supremo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Wh-whoa! Merda! E-ele acabou de - ?!"</DefaultText>
+      <FemaleText>"Wh-whoa! Merda! D-ela acabou de - ?!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Adivinhe o Fatebinder O novo chefe de gangue de [Plainsgate] agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

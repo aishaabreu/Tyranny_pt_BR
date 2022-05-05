@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\01_cv_rumalan_sentinelstand</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Tolo! Você acha que é isso que [url=glossary:kyros]Kyros[/url] quer? Para você reunir esses Southnobs para rastejar aos pés Tribunal? Os níveis deve ser unificada por sangue e sacrifício!" Ela sinaliza para suas tropas. "Quero que você concentre todos os esforços em me trazer a cabeça dessa! Não podemos permitir que o Tribunal prejudique nossa pacificação do [url=glossary:blade grave]Sepultura de Lâminas[/url]!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] governaria um reino vivo, não um campo de valas comuns. Se você entendesse o testamento Soberano, também saberia disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"[url=glossary:graven ashe]Cinza esculpida[/url] é o tolo se acha que essa matança é o que [url=glossary:kyros]Kyros[/url] quer."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

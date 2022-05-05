@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\01_bs_ssik_companion_barkstring_on_enter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Curioso como aquele artefato deixou o caminho aberto atrás de nós. Outros provavelmente seguirão nossas pegadas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"O caminho permanece aberto atrás de nós, abrindo caminho para amigos ou inimigos. Posto de Sentinela nunca foi tão exposto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"O caminho permanece aberto. Devemos esperar que os outros sigam."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Eu não posso acreditar que esses ventos nos deixaram passar. O caminho ainda está aberto, então arrisco que qualquer um pode nos seguir por onde viemos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Pack usou artefato para cortar a tempestade. Caminho aberto esculpido como sulco em terra seca. Significa que outros podem rastrear e seguir. Deve manter as sombras daqui para frente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Fazemos todo o trabalho para abrir uma passagem através da tempestade e ela continua aberta? Típica. Você sabe que todo mundo vai nos seguir, certo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>A insígnia firme abriu o caminho para você atravessar [url=glossary:kyros]Kyros[/url]' tempestade, mas parece que a entrada continua aberta. Dado o Posto de Sentinela popularidade ultimamente, há uma boa chance de que outros possam seguir seu caminho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Nó do banco8</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

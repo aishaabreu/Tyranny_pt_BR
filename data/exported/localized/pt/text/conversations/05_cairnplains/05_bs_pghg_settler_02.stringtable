@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\05_cairnplains\05_bs_pghg_settler_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Para dizer a verdade, me acostumei com os terremotos. Essa quietude é um pouco enervante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Com o Coro se foi, quem vai nos proteger do Bestas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Acho que estamos livres agora. Ou tão livre quanto possível."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Como um único homem pode matar uma gangue tão grande? Certamente, ele deve ser um Arconte...?"</DefaultText>
+      <FemaleText>"Como uma mulher solteira pode matar uma gangue tão grande? Certamente, ela deve ser uma Arconte...?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Eu vi uma flor desabrochar hoje, a situação finalmente melhorou?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Talvez possamos reconstruir agora que nossos prédios não estão caindo a cada dois dias."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] devastou nossas terras, mas resistimos até agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Bem-vindo ao [Plainsgate]. Nem mesmo um Arconte poderia nos forçar a sair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"É bom que alguém do exército [url=glossary:kyros]Kyros[/url]' esteja cuidando de nós."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Espero que o resto dos Camadas possa suportar esta guerra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Esta é a paz [url=glossary:kyros]Kyros[/url] prometida ao Camadas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Não sei quanto tempo mais podemos viver aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Eu me pergunto o que traz um Vinculador do Destino para [Plainsgate]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Quando os exércitos de [url=glossary:kyros]Kyros[/url] nos deixarão em paz?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Os terremotos estão piorando, não estão?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

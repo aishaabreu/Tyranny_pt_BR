@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\03_burninglibrary\0301_bs_beastmen_general</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Queria matar um humano chamado Censurar, mas pode cheirar - Vinculador do Destino já foi morto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Vi e farejou muitos soldados mortos. A sede de sangue de Fatebinder é selvagem e forte. Impressionante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"[url=glossary:sage]Sábio[/url]-místicos dizem que as palavras têm poder. Fatebinder também acha que arranhões em pergaminhos de árvores podres mantêm a força?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Chorus pack jogado brutal, jogos de sangue em lugar de livros queimados. Também gostaria de jogar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Humanos em rot-pack são fracos. Covarde. É melhor que a presa apodreça, morta na terra, do que sempre ter medo e lutar."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,2367 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\companions\companion_cv_verse_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>471</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"O que você precisa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Conte-me algo sobre você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Conte-me sobre seu tempo com o [url=glossary:scarlet chorus]Coro Escarlate[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Quero perguntar sobre nossas viagens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Falaremos novamente mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Se você insistir. Eu sou uma Fúria Escarlate. Isso deve levantar algumas bandeiras para você. Significa que sou bom em matar, e - mais importante... que gosto disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Conte-me sobre sua vida antes do Refrão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Como você foi recrutado?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Conte-me sobre seu treinamento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Chega de perguntas sobre seu passado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"O [url=glossary:scarlet chorus]Coro Escarlate[/url] é principalmente para loucos e camponeses com punhais enferrujados, mas também é um pequeno nicho de liberdade que eu nunca tive. Depois que sobrevivi ao treinamento e conheci minhas Fúria Escarlate irmãs, vi um lado diferente da multidão uivante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Fale-me sobre [url=glossary:the voices of nerat]o Vozes de Nerat[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Deixe-me perguntar sobre outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Vida - que vida? No que me diz respeito, eu não existia antes do Refrão. Havia uma garota em uma fazenda usando meu rosto e falando com minha voz, mas ela não era eu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Como eu... Acho que você tem uma ideia errada sobre mim. O refrão não me considerou uma empregada soluçante. Entrei no acampamento deles e me alistei. Alguém me jogou uma lâmina amassada, eu sobrevivi à iniciação, passei uma semana massacrando meus vizinhos e segui em frente com meus novos parentes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Para novos recrutas empurrados para a linha de frente, 'treinar' significa sobreviver à primeira batalha. Qualquer coisa além disso é para os lutadores que mostram potencial, sejam dançarinos de lâminas ou loucos arcanos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Não há nada no mundo como ser posto à prova como um Fúria Escarlate. Cada dia é um teste de seu compromisso e paixão. O fracasso significa a morte. As primeiras semanas foram as mais difíceis, mas também as mais gratificantes. Ganhei meu nome, peguei algumas armas de qualidade e conheci minhas irmãs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Conte-me sobre suas habilidades com armas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Quem são suas irmãs?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Voltando às minhas perguntas sobre o [url=glossary:scarlet chorus]Coro Escarlate[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Quando eu era apenas uma criança, não demorei muito para perceber que era natural. Eu poderia pegar uma faca de cozinha enferrujada e espetar um rato do outro lado da sala."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Antes, você hesitou quando mencionou seus estilos de luta. Por quê?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "Como se isso fosse da sua conta. Se eu quisesse dizer algo, você teria ouvido. Não presuma que estou me segurando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Pelo meu escritório como Vinculador do Destino, você deve lidar comigo honestamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Eu estava preocupado, nada mais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"E aqui eu ouvi tanto sobre o Vinculador do Destino do gênio tático de [url=glossary:tunon]Tunon[/url], mas ninguém mencionou seu coração sangrando." Verse revira os olhos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Esse é o ponto mais engomado e literal que eu já ouvi, mas você não está errado. Também, eu gosto de como você se porta ali, jogando sua autoridade como se isso significasse alguma coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Eu mencionei antes que sou bom em pegar diferentes armas e técnicas de luta. A verdade é... eu sou melhor do que bom. Eu poderia esfolar um homem de forma tão limpa que deixaria uma única tira de pele para trás. Ele nem precisaria ser amarrado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Minhas irmãs eram mestres em suas formas de luta. Mas desde que eles morreram, meu estilo mudou, quase como... como se eu pudesse matar como eles mataram. Eu poderia pegar um arco, uma lança... qualquer coisa, na verdade. Eu poderia rasgar alguém em pedaços com uma arma que eu só via minhas irmãs usarem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Não sei o que isso pode significar, e isso me preocupa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Não havia um inimigo que não pudéssemos derrotar juntos. Nossos estilos de luta se complementavam perfeitamente, então dividimos o trabalho de matar como bardos compartilhando uma música. Pelo menos costumávamos." Ela faz uma saudação solene.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Fale-me sobre Três Sussurros."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Fale-me sobre Gêiser Vermelho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Fale-me sobre Buscando-Bainha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Voltando às minhas perguntas sobre o [url=glossary:scarlet chorus]Coro Escarlate[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ela estava calma como a superfície de um lago, e com os pés leves. Mais de um inimigo tropeçou e caiu em sua própria lâmina devido a Sussurros' footwork astuto." Verse deixa seu olhar escapar de você enquanto um momento fugaz de tristeza rouba sua atenção.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Uma destruidora de cercos de uma mulher só! Ela se lançaria em seus inimigos como um aríete. Nem mesmo uma falange [url=glossary:disfavored]Desfavorecido[/url] poderia ter resistido àquela puta idiota e suicida. [url=glossary:kyros]Kyros[/url]' olhos, mas ela era algo para se ver!" Versículo bate o punho na palma da mão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Aquela garota poderia passar uma lança por doze anéis do outro lado de um campo de batalha. [url=glossary:kyros]Kyros[/url] ajude qualquer inimigo que se aproximasse dela marchando em fila única - ela fez um jogo de cuspir o maior número possível de soldados no mesmo dardo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Você já desejou poder fazer as coisas de novo e acabar em algum lugar diferente de [url=glossary:kyros]Kyros[/url]' exército?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Essa é a pergunta mais ingênua que já ouvi. [url=glossary:kyros]Kyros[/url] está em toda parte. Se você não está no Soberano exército, está sendo pisoteado por ele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Ele é um louco, mas isso nunca me impediu de seguir suas ordens. Mesmo em uma legião tão cruel quanto o Refrão, você sabe que não deve entrar no lado ruim do Vozes'. As pessoas que o cruzam - ou apenas as pessoas que ele conhece - não tendem a sobreviver à experiência."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"O que torna o [url=glossary:the voices of nerat]o Vozes de Nerat[/url] tão poderoso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Ele é o Arconte dos Segredos, e ele não ganhou esse título de ânimo leve. As pessoas dizem que ele sabe mais do que cada [url=glossary:sage]Sábio[/url] no Camadas combinado, e que ele pode pensar mil passos à frente dos outros Arcontes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Quais são seus pensamentos sobre o [url=glossary:disfavored]Desfavorecido[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Um labirinto de crianças auto-intituladas tão envolvidas em delírios de honra que provavelmente se enforcarão por seus próprios padrões elevados. Eu gostaria que eles tivessem ficado no Império do Norte onde eles pertenciam. Então poderíamos fazer algum trabalho real no Camadas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"O que você acha do líder deles, [url=glossary:graven ashe]Cinza esculpida[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Você acha que o [url=glossary:disfavored]Desfavorecido[/url] tem chance de ter sucesso no Camadas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"O que você acha das estratégias de batalha deles?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Deixe-me perguntar sobre outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Falando como uma das exceções, a maioria dos Tiersmen são simples. As pessoas de Robusto parecem suficientemente capazes, embora eu tenha minhas dúvidas. Você pode chamá-los de o melhor desafio de [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Mesmo que tenham sucesso, pode ser tarde demais para se redimir. O refrão já impactaram a conquista mais do que os [url=glossary:disfavored]Desfavorecido[/url] impactaram ou provavelmente impactarão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"E quantos milhares de Coristas suas vitórias lhe custaram ao longo do caminho?" Barik limpa a garganta, o som áspero ecoando em seu capacete.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Quantas forem necessárias, monte de lixo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Ele chama a si mesmo de Arconte de Guerra, mas pela maneira como ele paralisa suas forças esperando que uma estratégia melhor se apresente, você pensaria que ele tem medo da batalha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Você pensaria que alguém mais merecedor tiraria Ashe manto dele, mas o [url=glossary:disfavored]Desfavorecido[/url] tem esse culto de personalidade construído em torno de seu 'Grande General.' Aos olhos deles, ele não pode errar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"E a Ashe conexão com suas tropas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Quem você veria tomando Ashe lugar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Suponho que você tenha uma ideia melhor de como lidar com as forças [url=glossary:disfavored]Desfavorecido[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Voltando às minhas perguntas sobre o [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"'[url=glossary:graven ashe]Cinza esculpida[/url] protege.' Seus soldados continuam repetindo essas palavras como se elas significassem alguma coisa. Eu não nego que o [url=glossary:disfavored]Desfavorecido[/url] pode levar alguns caroços extras no campo de batalha, mas isso só fala de sua cabeça dura."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Prefiro deixar os [url=glossary:disfavored]Desfavorecido[/url] resolverem entre si. [url=glossary:graven ashe]Cinza esculpida[/url] é essa figura envelhecida do que deveria ser um papel em constante mudança. O soldado certo precisa criar um par e matar o velho. Chute sua bengala debaixo dele. Lembre a legião como é a força."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Eles realmente têm alguma coisa com essa manobra de falange - uma formação construída para ficar parado, avançando lentamente e esperando que ninguém escorregue na lama."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Fúrias Escarlates são dançarinos. Ouvimos a música da batalha e nos organizamos em obras de arte de matar. Cada luta é tão quente e apaixonada quanto a última, sem espaço para uma rotina obsoleta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Você fala de rotina e disciplina como se fossem fraquezas. A parede de escudos mantém os soldados vivos. Os recrutas do coro voam para a morte como mariposas para a chama de uma vela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Queimar enquanto coberto pelo sangue de seus inimigos é mais honroso do que a lenta marcha para uma aposentadoria digna. Você prefere sentir a mordida de uma lança enquanto corta um machado no crânio do seu inimigo, ou o aperto da traição do seu coração enquanto você se senta na cama, velho e sozinho?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"O que você tinha em mente?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"O que você acha de nossas circunstâncias atuais?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"O que você acha dos nossos companheiros de viagem?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Voltando às minhas perguntas anteriores."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Nós vamos, há um [url=glossary:edict]Edital[/url] pairando sobre nossas cabeças. No que me diz respeito, a incompetência do [url=glossary:disfavored]Desfavorecido[/url] nos colocou nessa confusão, e será necessária a fúria do [url=glossary:scarlet chorus]Coro Escarlate[/url] para nos tirar dela . Em outras palavras... nada muda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Você apoiou o time vencedor, e isso é tudo que importa. O [url=glossary:scarlet chorus]Coro Escarlate[/url] suportou o peso da conquista. Parece apropriado que eles fiquem sobrecarregados com a limpeza. [url=glossary:graven ashe]Cinza esculpida[/url] e sua legião de tolos responderão a [url=glossary:kyros]Kyros[/url], e a nós."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Alguém em particular?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"O que você acha de Lantry?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"O que você acha de Barik?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"O que você acha de Mortes-in-Shadow?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"O que você acha de Eb?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"O que você acha de Sirin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Voltando às minhas perguntas anteriores."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Eu queria perguntar a você sobre ele. Lantry é falante, lê quando não está escrevendo e traz tanto para o campo de batalha quanto um pássaro doente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Ele é... bem, vou dar-lhe algum crédito. Ele é mais complicado do que parece. Ele é ainda é um bastardo intolerante e sem remorso, mas isso é mais problema dele do que meu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Eu tenho assistido a luta dela. Ela é feroz de uma forma que o [url=glossary:scarlet chorus]Coro Escarlate[/url] poderia usar a nosso favor. Nós tentamos recrutar Homens-Besta no passado, mas os resultados foram... menos que bem sucedidos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"É fácil respeitar alguém que traz tanta paixão para uma batalha. Mesmo assim - quando ela começa a falar sobre empurrar [url=glossary:kyros]Kyros[/url] do Camadas, ela me faz querer esculpir minhas opiniões sobre o assunto nas costas dela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Leve isto no espírito em que se destina. Se eu tivesse o tipo de poder dela nessa idade, a última coisa que faria seria receber ordens de você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Como é que você aprendeu as habilidades com armas de suas irmãs caídas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"O que aconteceu com eles?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Estávamos explorando [url=glossary:vendrien's well]Poço de Vendrien[/url] durante o cerco, quando apenas suspeitávamos que o Guarda organizasse em segredo. Minhas irmãs e eu encontramos um grupo deles... ou [url=glossary:kyros]Kyros[/url] sabe, talvez eles nos tenham encontrado. Ninguém disse nada. Desenhamos ferro e bronze."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Eles morreram. Eu vivi. Minhas irmãs confiavam em mim para liderar a dança, e eu falhei com elas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"É compreensível. Cuidado parou sua mão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Suas ações foram imperdoáveis para um lutador de sua estação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Alguma ideia de por que você perdeu a coragem na batalha?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Voltando às minhas perguntas sobre o [url=glossary:scarlet chorus]Coro Escarlate[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Cuidado?! Guarde seu cuidado para o [url=glossary:disfavored]Desfavorecido[/url]. Se tivéssemos cuidado, poderíamos ter tomado o [url=glossary:bastard city]Cidade bastarda[/url] ou os Portões do Julgamento? Poderíamos ter conquistado o Camadas com algo menos do que nosso sangue fervendo de raiva, a canção da batalha rasgando nossos pulmões?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Alguma opinião sobre o assunto, ou estamos aqui apenas para abrir velhas feridas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Você está absolutamente certo. Se eu tivesse testemunhado o mesmo em uma de minhas irmãs, eu poderia até tê-la matado por colocar o resto de nós em perigo. Ainda bem que eles não tiveram a chance." Ela ri, mas não há humor nisso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Eu gostaria de ter uma explicação. Pela primeira vez, perdi a dança. A canção do assassinato ficou em silêncio. Em vez de, havia apenas um controle rígido e organizado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Isso está em minha mente há algum tempo e ainda não tenho uma explicação que se encaixe. Eu tenho algumas idéias, mas..." Verse franze a testa em profundo pensamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Quando minhas irmãs morreram, senti cada uma delas sendo arrancada do meu cérebro como alguém puxando caracóis de um jardim, mas alguns de seus resíduos de lodo ainda estavam lá. Isso faz algum sentido?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Eu me confortaria com isso. Suas irmãs vivem em você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Você deve explorar essa habilidade em todo o seu potencial."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Seu otimismo é fofo, Vinculador do Destino, embora singularmente inútil. Não vai trazer minhas irmãs de volta, e não conserta essa coisa na minha cabeça que eu não entendo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Habilidade? Não tenho certeza se eu chamaria assim. Há algo... parasita nisso, mas entendo seu ponto. Se há uma vantagem nisso... coisa que estou experimentando, não estou acima de usá-la contra nossos inimigos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Então eu deixaria qualquer ética mal colocada no Império do Norte. Eles não estão ajudando a campanha [url=glossary:kyros]Kyros[/url]' de qualquer maneira, então foda-se eles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Excelente. Você os tornaria mais parecidos com o [url=glossary:scarlet chorus]Coro Escarlate[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Isso seria tão errado? O refrão é responsável por si mesmo de maneiras que o [url=glossary:disfavored]Desfavorecido[/url] não é. Nossos fracos morrem, e os fortes lutam para manter sua posição."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"O que você acha daqueles que desafiam [url=glossary:kyros]Kyros[/url]' autoridade?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Os Tiersmen pode lutar ou se submeter a [url=glossary:kyros]Kyros[/url]' Paz, e apenas uma dessas opções captura meu interesse. Acho que aprecio quando eles caem lutando. Se eles fizessem o contrário, eu precisaria encontrar outra desculpa para esfolá-los."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Eles precisam entender - se unificamos o Camadas sob um banner compartilhado ou no fundo de uma vala comum faz pouca diferença para você, para mim ou para [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Você lutou em alguma batalha notável?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Vamos mudar de assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Vinculador do Destino. Sempre um prazer." Verse avalia você com curiosidade aberta. Quando sua avaliação é feita, ela ri para si mesma - balançando a cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Vinculador do Destino." O verso faz uma pausa para acenar em sua direção.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Você tem minha atenção. Cuspa o que você tem a dizer." O verso olha para você com suspeita.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Algo em sua mente, Fatebinder?"
+
+Verse esfrega a ponta do nariz enquanto você se aproxima. Ela respira fundo e murmura uma maldição baixinho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Ao seu serviço, Vinculador do Destino." O verso se curva com um floreio adicional.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Precisa conversar? Suponha que eu pode te dar um momento do meu tempo." Verse cruza os braços e te olha com curiosidade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"O que eu não vou gostar são os prazeres dos ritos funerários repletos de lamentadores. Algum dia eu vou cair na batalha, e então eles vão me jogar em uma vala comum ou me amontoar em cima de uma carroça manchada de merda. Mais um pedaço de carne anônimo e crivado de facas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Isso me serve muito bem. Não sou muito de comparar histórias familiares se puder evitar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Quando o [url=glossary:scarlet chorus]Coro Escarlate[/url] varreu minha aldeia em sua longa jornada do [url=glossary:bastard city]Cidade bastarda[/url], foi quando finalmente acordei. Enterrei minha antiga vida, vinguei-me de quem me ofendeu e descobri que a liberdade que eu só podia sonhar estava lá fora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Não perdi tempo com despedidas. Minha mãe havia morrido há muito tempo, e o resto da minha família eram piolhos. A garota que eu costumava ser? Até ela sabia que valia mais do que todos eles juntos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Claro, eu poderia ter trabalhado na fazenda da família em meus anos de amadurecimento, me casado com algum idiota e jogado para ele um viveiro de leitões barulhentos. Ter meu corpo despedaçado por versões menores de mim parece divertido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Acho que você poderia ter dado uma chance a essa vida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Você é um assassino - é melhor ficar com o Refrão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Então você não me conhece, Vinculador do Destino." Ela bufa e balança a cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Pelo menos você entende. O refrão elogia e recompensa a coisa dentro de mim que eu suprimiria em uma empresa 'civilizada'. A vida é muito curta para reprimir todo desejo, certo? Especialmente se eu tem algo a dizer sobre isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Você 'conquistou' seu nome?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Se você acha que um simples fazendeiro do Camadas chamaria seu filho de 'Versículo', sugiro que você visite minha antiga vila. A maioria deles andava por aí com sobrenomes como 'Barrel' ou 'Fish'. Não é o grupo mais criativo." Ela sorri e balança a cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"O refrão tira seu nome. Quem quer que você fosse antes, você não é mais essa pessoa. Então você ganha de volta um nome através de grandes feitos - geralmente assassinos. É por isso que você vê Coristas andando por aí com nomes como Rato fedorento ou Facefirst. Provavelmente há uma boa razão para isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Você tiraria tudo o que os torna fortes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"É uma ótima alternativa de onde estou. Se toda essa força não pode acabar com um cerco, de que serve para alguém?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Nas profundezas sombrias de sua armadura, Barik não emite nenhum som. Ele nem parece estar respirando.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Se for preciso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Percebi isso, não é? Isso é um... um assunto que não estou acostumado a discutir. Principalmente porque não sei como."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"O que você precisa saber?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"O que você precisa saber?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"O que você precisa saber?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"O que você precisa saber?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Se for preciso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"De qualquer forma, vamos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Tudo bem, estou ouvindo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Gosto de Lantry. Eu o considero um amigo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Precisamos dele, e isso é tudo que você precisa saber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Oh, me perdoe, Vinculador do Destino. Se eu soubesse que estávamos fazendo amigos, teria trazido meu jogo de chá e alguns bolos duros Robusto. Eu não confio em Lantry, e ele vai nos matar. Se eu o vir se contorcer, talvez eu mesmo dê o primeiro passo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Entendido. Você tem algo em mente que você está usando para realizar? Então, deixe-o ir junto, mas não espere que eu o mantenha vivo. Se ele está se esforçando de alguma forma, sinta-se à vontade para me dar uma dica, porque não estou vendo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Vá em frente, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Essa é uma visão interessante da conquista."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"É pragmático, de qualquer maneira. O [url=glossary:scarlet chorus]Coro Escarlate[/url] pegou a ideia no início da campanha. Se ninguém objeta que estamos aqui para trilhar um caminho sangrento para ganho e diversão, então, segundo todos os relatos, esse é o nosso propósito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Além do mais, unificação é um conceito tão vago que [url=glossary:kyros]Kyros[/url] permite que o [url=glossary:disfavored]Desfavorecido[/url] e o Refrão interpretem como quiserem. O Senhor Supremo está preocupado com os resultados. Fico feliz em focar nos detalhes, especialmente se isso significa cortar as pernas de um fazendeiro enquanto sua família assiste sua terra queimar." Ela sorri com uma lembrança agradável.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Sem vergonha de ter prazer no seu trabalho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Você é nojento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Se você entendesse como um Fúria Escarlate transforma a morte em arte, talvez não pense assim. Mantenha a mente aberta. Você pode gostar das coisas que eu lhe mostro." Suas palavras não a perturbam nem um pouco. Ela apenas acena com a cabeça, uma suspeita confirmada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Não... não, não existe. Vinculador do Destino, suspeito que vamos fazer algo grande juntos. Uma linha de corpos que se estende até o Oldwalls. Vai ser lindo." Ela olha para você com interesse renovado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Fale-me sobre o Quinto Olho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Um pesadelo ambulante, aquele. Eu não poderia começar a adivinhar quem vive sob aquela armadura e fala com aquela voz esganiçada, mas vou lhe dizer o que sei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Quando seu mundo é construído sobre segredos, vale a pena ter alguns olhos extras. [url=glossary:the voices of nerat]As vozes de Nerat[/url] tem olhos em abundância - alguns que ele mantém perto, e outros que ele envia no deserto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Quem quer que seja o Quinto Olho era antes de entrar no culto Arconte, agora ele é apenas um meio louco e tagarela. Uma função corporal. Em outras palavras, um Olho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Quantos Olhos tem o Arconte dos Segredos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"O número continua mudando - ou porque cresce ou porque rumores não significam nada. Três, sete, dezenove... alguns até dizem que todos nós somos Olhos e nem sabemos disso." Ela balança a cabeça em desaprovação pensativa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Não importa como você pinte, alguma parte das minhas irmãs se quebrou em mim quando elas morreram, e agora eu tenho que lidar com isso. Apenas mais um dia no Camadas, certo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Cuidado com suas palavras. Eu não gostaria de ouvir você falando do Arconte dessa maneira." Um rosnado ondula através da armadura de Barik's, acompanhado por sons de metal se dobrando.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Zigzando em torno do Camadas, irritando as autoridades à medida que avançamos? Suponho que existam maneiras piores de ocupar o tempo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Você deve saquear alguns desses corpos antes de seguir em frente. Para onde eles vão, acho que não sentirão falta de seus equipamentos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Eu estava falando com você, ferro-velho? E não, não vou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Quem são os [url=glossary:scarlet chorus]Coro Escarlate[/url] líderes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Nós vamos, [url=glossary:the voices of nerat]the Vozes de Nerat[/url] é a aranha no centro da teia. Ele age como se o exército pertencesse a ele, e ele só empresta para [url=glossary:kyros]Kyros[/url] porque atende aos seus propósitos. Ambas são verdadeiras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Conte-me sobre os chefes das gangues."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Voltando às minhas perguntas sobre o [url=glossary:scarlet chorus]Coro Escarlate[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Gosto da sua curiosidade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Se ele parece desorganizado ou perdido, é porque está canalizando uma das personalidades que devorou ao longo dos anos. Seus maneirismos mudam para outra pessoa - alguém que provavelmente está morto há muito tempo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Um chefe é qualquer um que pode reunir apoio suficiente para matar o chefe anterior. Eles se agarram ao comando até que alguém fique esperto e os apunhale pelas costas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Tipcap lidera o Cordeiros imundos, Locks lidera o Harpas Enferrujadas, Sharp costumava liderar o Bones Boys... não sabia dizer onde ele foi parar depois que eles quebraram as pernas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Qual é o significado de suas penas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Estamos ficando muito íntimos, então acho que você merece uma história."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Também gosto de como as penas pegam a brisa. Ajuda-me a manter o equilíbrio, especialmente quando estou me movendo rápido." Ela desliza a pena entre as outras e a alisa de volta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Conversaremos quando isso acabar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Não sei em que estado de confusão mental você pensou que o [url=glossary:disfavored]Desfavorecido[/url] fosse o exército para apoiar, mas vejo que você está comprometido com isso. Claro que você é livre para fazer o que quiser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Por ter uma carreira militar tão enfeitada quanto a sua, não sei o que passou pela sua cabeça quando apoiou o [url=glossary:vendrien guard]Guarda Vendrien[/url]. Eu posso gostar de querer virar a mesa contra seus superiores, mas nunca à custa de seu status."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Liguei a minha cota de amigos, mas nunca nessa escala. Mostrando sua retaguarda para os rebeldes e aliados, jogando de lado um contra o outro... bem, é realmente inspirador. Se eu fosse mais esperto na época, teria feito mais intrigas nos meus primeiros dias."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Algum motivo específico para você ter escolhido viajar comigo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Se você está me provocando por um elogio, você está falando com a garota errada."</DefaultText>
+      <FemaleText>"O que, você tinha algo em mente? Não é que eu não esteja lisonjeado, Vinculador do Destino. Só acho que não sou seu tipo."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Eu não tenho mais uma gangue, e eu não jogaria minha sorte com nenhum dos assassinos que circulam nas fileiras [url=glossary:scarlet chorus]Coro Escarlate[/url]. O fato é que você está fazendo um trabalho importante - mesmo se tropeçar e se debater ao longo do caminho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Se isso me coloca em desacordo com meus [url=glossary:scarlet chorus]Coro Escarlate[/url] empates, que assim seja. Eu não sou um seguidor de acampamento que não cuido dos meus interesses primeiro. E eu acho você... interessante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Além do mais, uma vez que esse negócio de guerra civil seja resolvido, acho que qualquer um que siga sua sombra merece uma recompensa merecida. Embora talvez alguns sejam mais merecedores do que outros." Ela funga.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Você satisfez sua curiosidade, então deixe-me satisfazer a minha. Por que você está mantendo um pedacinho de uma coisa como eu por perto?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Você é um assassino calejado. Isso é motivo suficiente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Eu nos considero amigos. Não é?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Tenho... sentimentos por você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Eu me pergunto o que faz você ter tanta certeza de que eu não vou cortar sua garganta alguma noite, só para ouvir você gorgolejar? Isso é arriscando quando você viaja com alguém como eu. Suponho que o tempo dirá." Ela lhe dá um sorriso agradável.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Oh garoto. Estamos entrando nesse território, estamos? Olhar... Eu sei que as pessoas tendem a ser amigas quando estão juntas em um acampamento, mas eu não sou muito 'amiga' material. Odeio decepcioná-lo, mas isso é tudo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"Posso prometer que permanecerei fiel à sua causa enquanto você me tiver, mas não posso prometer que compartilharemos algo mais íntimo do que uma bebida forte quando tudo isso acabar. Negociar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"Isso é rico. O que há em mim que aperta seu fole - as manchas de sangue na minha armadura ou os piolhos rastejando por baixo dela?"</DefaultText>
+      <FemaleText>"É mesmo? Não vou fingir que a ideia não passou pela minha cabeça. Nós vamos, algo mais interessante do que 'sentimentos' em qualquer caso. Uma garota precisa liberar sua tensão de alguma forma."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"Espero não precisar lembrá-lo de que estamos em guerra. Encontre um lugar melhor para exercitar seu eu inquieto - se não o campo de batalha, então um bordel. Sempre funciona para mim quando não há esporte por perto."</DefaultText>
+      <FemaleText>"Mas estamos no meio de uma guerra, e muitas vezes dormindo a um braço de distância de algum formigueiro ou Maldito ruínas assombradas. Provavelmente estaremos loucos demais até o final disso para sequer pensar nesse tipo de coisa. Portanto, esqueça isso por enquanto."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"Você luta por mim, não é? Dizereu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Continue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Você já tentou aquele truque de esfolar antes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"Vamos apenas dizer que quando ficamos sem lona para armar barracas, a Quinto Olho me entregou uma faca e me apontou para os currais da prisão." Ela pisca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"Fale-me sobre o Fúrias Escarlates."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"Os lutadores de elite do [url=glossary:scarlet chorus]Coro Escarlate[/url]. Seu típico recruta Horda luta com uma colher enferrujada e um golpe no ombro, mas os Fúrias Escarlates são... bem, diferentes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Focamos nossa loucura, coordenamos, matamos, dançamos. É como arte. Imagine uma escultura que se contorceu em ângulos estranhos e bonitos - e depois estripou você rápido demais para você perceber o que estava acontecendo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"Parece maravilhoso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"Você ao menos se ouve quando fala?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Ah, foda-se, então. Não estou aqui para deslumbrá-lo com meu uso de metáforas. Quando se trata do [url=glossary:scarlet chorus]Coro Escarlate[/url], ou você entende ou não."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"É, como sempre me lembro. O dia mais importante da minha vida foi quando [url=glossary:the voices of nerat]o Vozes de Nerat[/url] reconheceu meu potencial e me enviou para o Fúria Escarlate treinamento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"Eu tinha mais perguntas sobre suas irmãs."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Vá em frente. Sinto falta dessas garotas, mas não estou tão mal a ponto de não poder falar sobre elas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"Isso soa como a segurança de uma falange para mim. Você deve praticar uma forma de combate mais ordenada, se isso combina com você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Mesmo se o [url=glossary:scarlet chorus]Coro Escarlate[/url] lutasse em formação, não seria nada parecido com sua parede de escudos hedionda." Ela olha para ele com desgosto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"O resto são todos ramificações do Vozes - como o Quinto Olho. Uma vez que você chega à base, os [url=glossary:scarlet chorus]Coro Escarlate[/url] se organizam em torno de um grupo heterogêneo de chefes de gangues que dão as ordens. O que você quer saber?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Você deu a [url=glossary:the voices of nerat]the Vozes de Nerat[/url] um pedaço de sua mente em [url=glossary:vendrien's well]Poço de Vendrien[/url] - você já deve estar familiarizado com ele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"Você já conheceu [url=glossary:the voices of nerat]o Vozes de Nerat[/url], e aparentemente pensou o suficiente nele para colocar sua confiança no [url=glossary:scarlet chorus]Coro Escarlate[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"Ele está morto. Acho que isso diz tudo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"Você destruiu a mente dele e a substituiu por uma melhor. Brilhante jogada, diga-se de passagem. Isso praticamente cobre tudo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Você matou [url=glossary:the voices of nerat]o Vozes de Nerat[/url], então isso faz isso no que diz respeito à liderança."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] é seu fantoche para controlar agora, então acho que isso faz de você o chefe do [url=glossary:scarlet chorus]Coro Escarlate[/url], não é? Engraçado como isso funciona."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"Espere - de Nerat 'olhos' são pessoas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"Voltando às minhas outras perguntas sobre os [url=glossary:scarlet chorus]Coro Escarlate[/url] líderes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"Vá em frente, então."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"Talvez eles costumavam ser pessoas. O que quer que fossem, agora são Olhos. As pessoas gostam de sussurrar que [url=glossary:the voices of nerat]o Vozes de Nerat[/url] pega seus servos e corta todas as partes extras que eles não precisam." Ela faz um gesto rápido e cortante com os dedos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"Uma vez ouvi as Vozes e o Quinto Olho em uma tenda juntos. As vozes ficava gritando 'redundâncias! redundâncias!' Cada vez, outra gota de sangue espirraria nas paredes de lona. Não consigo nem imaginar o que ele estava cortando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"Se alguma coisa, só é verdade porque seus soldados depositam muita confiança nisso. Já vi o poder da sugestão fazer coisas estranhas com as pessoas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"Isso seria possível?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"Estranho do que curar feridas no campo de batalha? Acho que não."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"Estamos falando de um homem que tem séculos de idade e usa uma armadura brilhante. Você me diz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"Seja você mesmo. Estou apenas divulgando, e não vejo você chegando com nenhuma grande explicação para um soldado que se recupera de um ferimento mortal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] alterações. Ele é uma joia multifacetada, e o [url=glossary:scarlet chorus]Coro Escarlate[/url] é um reflexo dessa beleza. Se alguém pudesse se levantar e derrubar o Vozes, qualquer um de nós o seguiria em um piscar de olhos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"Você quer dizer sua pequena coalizão em [url=glossary:ascension hall]Salão da Ascensão[/url], certo? Sem ofensa, mas estou cético quanto às suas chances. Eles não conseguiram derrotar [url=glossary:kyros]Kyros[/url] com força total. Não me peça para acreditar que eles podem fazer isso agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>"Posso unir os Camadas sem os exércitos de [url=glossary:kyros]Kyros[/url]. Temos uma chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"Você não está em posição de me questionar, Versículo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>"Se você diz. Se fosse eu, gostaria de jogar alguns corpos extras no inimigo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"Não estou tentando desafiar sua autoridade. Você tem que entender que os Camadas nunca colaboraram em nada além de sua própria destruição. Eles ganharam um pouco de ceticismo saudável."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>"Passei algum tempo em Azure no final da guerra. Homens-fera destruíram minha unidade. Achamos que eles poderiam estar trabalhando sob as ordens de [url=glossary:cairn]Cairn[/url], mas nunca tivemos certeza."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"O [url=glossary:scarlet chorus]Coro Escarlate[/url] ganhou [url=lore:conq_cairnstribe]muita inteligência boa[/url] quando torturamos aqueles Homens-fera mais tarde - tudo graças a você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>"Mas você já sabia disso, não é? O [url=glossary:disfavored]Desfavorecido[/url] [url=lore:conq_cairnstribe]caçou a tribo,[/url] e nunca descobrimos a verdade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>"Como você fez isso?"
+
+Verse olha para você com uma expressão intrigada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>"Fazer o quê?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"Do que você está falando?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>"De volta à Arcontes' tenda de guerra. Você lança um [url=glossary:edict]Edital[/url] tão casualmente quanto lê um carregamento de suprimentos. Como você fez isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"Não seja burro. Este é um negócio sério."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"Nós vamos, eu já fiz isso antes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"Não foi nada, na verdade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>"Não pareço estúpido. Você foi quem lançou o [url=lore:vw_drastem_react]Édito das Tempestades[/url] em Robusto, não foi? Aquele que destruiu o campo de batalha com um ciclone de [url=glossary:kyros]Kyros[/url]' raiva."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>"Não sei por que não percebi isso antes. Você proclamou o [url=lore:edict_stone]Édito de Pedra[/url] em Azure. Arruinou todo o reino, tudo para destruir o rebelde Arconte. Não acredito que foi você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>"Você lança o [url=lore:edict_fire]Édito de Fogo[/url] no [url=glossary:vellum citadel]Cidadela de Velino[/url]. Eu ouvi sobre isso - como [url=glossary:kyros]Kyros[/url]' raiva levantou um vulcão debaixo da própria fortaleza Sábios'. Que... foi um trabalho impressionante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"Nós vamos, me chame de impressionado. Considerando que você leu as palavras de [url=glossary:kyros]Kyros[/url] mais de uma vez, estou surpreso que você esteja vivo para contar isso. Suas cordas vocais já devem ter se transformado em cinzas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>[Conquista] "Sou eu, tudo bem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>[Acene silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"Não quero discutir isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>"Não estou tentando fazer você se sentir desconfortável. Vale a pena reconhecer o que você fez. Você não é apenas [url=glossary:tunon]Tunon[/url]'s Vinculador do Destino, você é o porta-voz do soberano. Me dá motivos de sobra para ficar por aqui. Você está indo a lugares diferentes, e eu quero ver aonde eles levam."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>"Agora não é hora de bancar o tímido. Você falou palavras que poderiam levar à morte de centenas. Reserve um momento para se sentir orgulhoso de si mesmo!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>"Isso é o suficiente por enquanto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>"Se você diz. Tenho algumas perguntas sobre você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>"Então, os [url=glossary:scarlet chorus]Coro Escarlate[/url] e [url=glossary:disfavored]Desfavorecido[/url] estão na garganta um do outro. Não posso dizer que não previ isso, mas o Arcontes pode ter esperado até que uma guerra terminasse antes de começar outra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>"Você acha que tomei a decisão certa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>"A guerra deles não me interessa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>"Reivindicando [url=glossary:vendrien's well]Poço de Vendrien[/url] e expulsar todo mundo? Foram necessárias bolas de latão do tamanho do Portões do Julgamento, mas não culpo você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"Lutando com o [url=glossary:scarlet chorus]Coro Escarlate[/url]? Nunca duvida de si mesmo por apoiar a equipe vencedora. O Chorus tem a melhor chance de sucesso no Camadas. Apesar de toda a sua habilidade, os [url=glossary:disfavored]Desfavorecido[/url] são muito teimosos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>"Lutando com o [url=glossary:disfavored]Desfavorecido[/url]? Não a ligação que eu teria feito, mas tenho certeza que você tem suas razões. Se você gosta de armas de ferro, ou algo sobre esse uniforme roxo te excita, então fique à vontade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>"Lutando com os rebeldes? Tenho certeza que [url=glossary:tunon]Tunon[/url] não viu aquele vindo quando ele despachou você para ajudar a quebrar o cerco."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>"Se o cerco foi realmente tão mal administrado, então não vejo que você tenha outra escolha. Isso fará de você mais inimigos do que amigos a longo prazo, mas amigos são superestimados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>"Sentimento engraçado, considerando que você está no centro disso. Não que eu esteja julgando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>"Notado. Tenho perguntas para você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>"Vamos embora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>"Vou dizer isso - nosso tempo juntos é tudo menos monótono. Minhas lâminas são suas enquanto você me tiver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>"Quem pode dizer? A guerra tem tudo a ver com comprometer sua moral, decidir quem vive e quem morre. O que parece um erro se transforma em sua melhor decisão no futuro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>"Até então, pretendo pegar o que puder da vida e me divertir um pouco ao longo do caminho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "Ah, eu não conto essa história para qualquer um. Você vai ter que me dar manteiga antes que eu entre nos detalhes realmente íntimos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>"Minha mãe tinha um pássaro mensageiro. Bicudo. Ele era um velho bastardo raivoso - estragado por viver a vida de luxo. Gritou na minha janela cada. Solteiro. Noite. Biquei meus dedos enquanto eu o alimentava apenas com os ratos mais gordos e suculentos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] me deu esse nome. Quando o [url=glossary:scarlet chorus]Coro Escarlate[/url] corre uivando para a batalha, ele não ouve a guerra - ele ouve uma sinfonia. E quando eu luto com lâmina ou arco, ele me disse que minha música se destaca mais do que a de qualquer outra pessoa e contém muitas partes para serem facilmente definidas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>"O [url=glossary:scarlet chorus]Coro Escarlate[/url] me deu oportunidades de me 'educar' ainda mais. Minhas irmãs sempre ficavam um pouco surpresas com a rapidez com que eu adotava diferentes estilos de luta." Ela franze a testa por um momento, e então se livra do que quer dizer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>"Essa foi uma das primeiras coisas que descobri sobre mim depois de ingressar no [url=glossary:scarlet chorus]Coro Escarlate[/url]. [url=glossary:the voices of nerat]As vozes de Nerat[/url] também reconheceu isso em mim, e é por isso que ele me escolheu para o Fúria Escarlate treinamento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>"Sua preocupação é fofa, embora insultante e totalmente desnecessária. Ainda bem que estou me sentindo falante, ou eu o colocaria no fundo de uma latrina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>"Foi quando tudo deu errado. Eu deveria assumir o ponto e ocupar o Guarda com uma dança de bladework - algo desorientador enquanto minhas irmãs escolhiam suas marcas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>"Seria levianamente dizer que ele nunca está sozinho sob aquele capacete de desaprovação dele. Se você faz dos segredos o seu negócio, acho que ter pessoas constantemente sussurrando em seu ouvido é uma coisa boa. Eu geralmente quero que as pessoas calem a boca, mas cada uma na sua."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>"É uma daquelas perguntas que te deixa louco se você se permitir pensar sobre isso por muito tempo. Ei, você pode ser um dos [url=glossary:tunon]Tunon[/url]Olhos. Aposto que você nunca pensou nisso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>"Você liderou uma gangue?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>"Não fique tão surpreso. Eu posso estalar um chicote melhor do que qualquer uma dessas margaridas nos campos de trabalho [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>"Mas eu nunca estive tão interessado na luta pelo poder daqueles grunhidos e fura-greves no meio. Eu queria ficar no topo como um predador de ápice. Aqui estou eu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>"Estão próximos, mas precisariam de pelos e presas para serem os principais predadores. Como mulheres-feras." Ela bufa, achando graça do pensamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>"Então, quando me cansei de uma gangue, me separei e deixei os outros chefes lutarem pelos novos recrutas. Isso me divertiu muito, pelo menos. Alguns dos meus antigos companheiros ainda estão vivos e rondando onde quer que tenham ido parar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>"Parece que [url=glossary:the voices of nerat]o Vozes de Nerat[/url] está executando muitas das pessoas que envio para ele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>"Para não dizer o óbvio, mas [url=glossary:the voices of nerat]o Vozes de Nerat[/url] é um Arconte - ele pode fazer o que quiser, e poucas pessoas em Terrato podem dizer o contrário. Até [url=glossary:kyros]Kyros[/url]' lei parece saber melhor do que restringir os gostos dele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>"Por que você acha que ele mata tantos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>"Voltando às minhas outras perguntas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>"Você me pegou. Quando me juntei ao [url=glossary:scarlet chorus]Coro Escarlate[/url], todos agiam como se a trilha de corpos na esteira do Arconte fosse uma ocorrência bastante comum. Por mais que o Vozes minimizasse os assassinatos, sempre me perguntei se havia algum plano ou padrão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>"Ele teria como alvo prisioneiros que ostentassem alguma informação ou talento especial. Às vezes, ele caçava entre as cidades vizinhas se ouvisse falar de algum local que se destacasse. As pessoas que ele escolheu estavam longe de ser comuns."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>"Acho que ele faz isso para [url=lore:voices_power]colher o conhecimento deles."[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>"Sim... todos sabemos que o Vozes está atado com muitas mentes diferentes. Há mais do que algumas pessoas uivando na paisagem de seus pensamentos. Não é algo sobre o qual ele fala, mas todos sabemos que acontece."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>"Vá em frente. Não posso falar sobre o Vozes sem ficar arrepiado, como se ele estivesse me observando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>"As pessoas contam histórias sobre ele... dizem que ele pode olhar nos olhos de um homem e saber tudo o que está por trás deles. Ele pode espiar seus pensamentos, escolher o que quer e descartar o resto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>"É uma loucura, eu sei, mas também dizem que ele pode desmantelar sua mente... e puxá-la para a dele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>"Você acredita nisso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>"Nunca vi isso acontecer, mas não tenho motivos para duvidar. [url=glossary:the voices of nerat]As vozes de Nerat[/url] não fala de uma só boca. É lógico que ele ficou assim de alguma forma."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>"Waterwheel ordens em torno do Caçadores Peludos, Hauls-for-Shit lidera o Malkins preguiçoso. Então Rainha do escorbuto, Comida de dedo e Corte Selvagem lideram coletivamente o Senhoras do Estrangulamento Perpétuo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>"Estou esquecendo pelo menos mais uma dúzia. Eu até liderei uma gangue ou duas na minha época. Eles nunca sobrevivem por muito tempo, então não adianta se apegar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>"Gostaria de discutir sua aparente conexão com Barik."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>Nó de conversão de gatilho 394</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>Nó de conversão de gatilho 395</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>[Para Barik e Verso] "Tenho algum de vocês notou que lutam particularmente bem juntos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>Nó de conversão de gatilho 397</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>"Deixe-me esclarecer uma coisa, só para não haver mal-entendidos. Você apoia [url=glossary:graven ashe]Cinza esculpida[/url], e eu não poderia me importar menos. Estou aqui porque você fez o que nenhum dos Arcontes conseguiu. Nem mesmo [url=glossary:the voices of nerat]o Vozes de Nerat[/url] me culparia por isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>"Ele também é um completo bastardo, e eu não gostaria de perder a oportunidade de esfaqueá-lo no estômago e assumir o controle de seu exército. Então é isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>"Você criou um verdadeiro talento para si mesmo quebrando o Éditos do Overlord para a esquerda e para a direita. Qualquer que seja [url=glossary:tunon]Tunon[/url] está pagando por seus serviços, eu diria que você deve receber um aumento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>"Como se sente? Você não apenas deu voz à vontade Soberano, mas está quebrando a magia [url=glossary:kyros]Kyros[/url]' para a esquerda e para a direita."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>"Estou me expondo a poderes que não entendo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>"Estou apenas servindo aos interesses da missão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>"Não estou com vontade de divulgar meus pensamentos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>"Guerra é sobre correr riscos, e você está se expondo mais do que qualquer um. Não posso deixar de respeitar isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>"Manter suas prioridades é uma boa maneira de se manter vivo, mas eu me pergunto se você deveria ser mais imprudente. Eu nunca cheguei a lugar nenhum jogando pelo seguro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>"Você não vai me ouvir reclamar. No que me diz respeito, você tem mais do que o suficiente em sua mente - incluindo as palavras de alguns Editais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>"Eu estou aqui se você precisar de mim, mas eu não tenho uma mente para sabedoria arcana. Farei o que puder para que nossa pequena gangue passe por essa guerra. E se parecer que sua força está enfraquecendo, eu vou tirar você da sua miséria e assumir o controle. Anime-se."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>"Nossa gangue está construindo uma pequena coleção de Pináculos, não é? [url=glossary:the voices of nerat]As vozes de Nerat[/url] nunca foi de manter fortalezas, mas posso definitivamente ver o apelo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>"Por que o Vozes não gosta de fortalezas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>"O que você acha desses Pináculos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>"Eu tinha perguntas para você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>"Porque não adianta ficar parado. As vozes prefere manter suas forças ocupadas e em movimento, com as únicas horas de descanso entre o anoitecer e o amanhecer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>"Além do mais, lutadores em movimento são menos propensos a se levantar e desafiar a autoridade. Segurança em números. Mas uma vez que você faz com que as pessoas se agachem para discutir seus problemas, de repente todo mundo tem um motivo para matar o chefe de gangue mais próximo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>"Eles são grandes, mas não se engane - um exército determinado poderia derrubar um se tivesse pás e picaretas suficientes juntos. Não se apresse em supor que você é invencível."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>"Quanto ao que são... tento não fazer esse tipo de pergunta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>"E seus pais?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>"Minha mãe administrava uma fazenda de sucesso, e trabalhei nela por vários anos antes de encontrar o Refrão. Ela era uma mulher dura e amarga. Agiu como se o mundo lhe devesse algo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>"Ela nunca falou sobre meu pai, embora eu tenha descoberto uma ou duas coisas sobre ele mais tarde. Ele era um comerciante do Império do Norte que gostava dela, e ela dele. Ele ficou por aqui apenas o tempo suficiente para conseguir o que queria."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>Barik se vira para desviar o olhar. Verse franze a testa em sua direção, embora eles não digam nada um ao outro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>"Claro, estamos todos atualizados sobre esse pequeno escândalo, não estamos? Barik's prostituta de um pai gosta de plantar sua semente em solo longe de casa. E quem pode culpá-lo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>"Mas não ligue para ele. Minha mãe nunca teve o que você chamaria de bom gosto, então ele não poderia ter sido muito influente para mim se ele ficasse por aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>"Se você não falar bem dele... então eu imploro que você não diga nada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>"Então um dia, quando eu decidi que já era o suficiente, eu cortaria a garganta do meu marido durante o café da manhã e correria para me juntar ao Refrão de qualquer maneira. Meu jeito economizou muito tempo." Verse alisa as penas de seu cabelo e balança a cabeça com um sorriso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>"Quando saí da fazenda para me juntar ao [url=glossary:scarlet chorus]Coro Escarlate[/url], torci aquele filho da puta ingrato como um pano de prato, arranquei suas penas e dei sua carcaça aos ratos. Parecia justiça." Ela tira uma pena carmesim do cabelo e a gira nos dedos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>"Fúrias Escarlates compartilhar uma espécie de link. É como coordenamos nossa dança no calor da batalha. Não passamos mensagens nem nada, mas nossas emoções e intenções se sincronizam sem palavras." Ela começa a preocupar uma de suas facas. Depois de um momento, ela suspira e coloca a lâmina de volta na bainha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>"Esse link é misterioso por natureza?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>"Você foi agrupado por causa de suas compatibilidades?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>"Continue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>"Eu diria que é emocional. O refrão está mais interessado na paixão. A magia é apenas uma ferramenta conveniente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>"Algo assim. Mas quando se tratava de minhas irmãs, tínhamos tantas diferenças quanto semelhanças, então é difícil dizer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>"A única coisa que eu sempre soube foi que eu sentia essa conexão mais profundamente do que minhas irmãs. Pude captar nuances que eles não perceberam e senti-los de mais longe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText>"Você é um espião para [url=glossary:the voices of nerat]o Vozes de Nerat[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>Verso o considera com uma expressão ilegível. Seus olhos incompatíveis olham para cada um de vocês.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>438</ID>
+      <DefaultText>"Eu era. E para ser perfeitamente justo, acho que fui mais ou menos transparente sobre isso. Mas isso não muda nada sobre por que eu escolhi viajar com você. Se eu não quisesse, iria embora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "Quero dizer, isso importa mesmo? Você tem que decidir por si mesmo se vale ou não a pena confiar em mim. Será que me manter junto vale o risco de eu de vez em quando falar sobre o que você comeu no café da manhã?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] é o Arconte dos Segredos, não o Arconte da Honestidade ou Negociações Justas. Se você não assumir que todos já se reportam a ele, você não está sendo cuidadoso o suficiente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>441</ID>
+      <DefaultText>"O que o Vozes queria saber?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText>"Você estava apenas fazendo seu trabalho. Nenhum dano."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>443</ID>
+      <DefaultText>"Ele nunca me contou. Ele apenas disse para ficar de olho em você, mas havia uma implicação de que eu teria a oportunidade de relatar. Como se eu tivesse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>"É mais provável que ele tenha roubado minha mente e aprendido tudo o que eu sabia, só para ter certeza de que eu não deixaria nada de fora. Portanto, se você tiver alguma ressalva quanto à minha discrição, lembre-se disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText>"Eu nunca confiei em você, e isso só confirma minhas suspeitas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>446</ID>
+      <DefaultText>"Nós vamos, sou grato por não termos que fazer um grande negócio sobre isso e perder nosso tempo imaginando se podemos confiar um no outro novamente. Honestamente, é refrescante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>447</ID>
+      <DefaultText>"Se é um problema tão grande para você, então me deixe no Pináculo ocupado mais próximo e me mande embora. Prefiro encontrar algo útil para fazer do que ver sua expressão magoada toda vez que verifico se você ainda está vivo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>448</ID>
+      <DefaultText>"Quando você menos suspeita, o Arconte dos Segredos pode ser absolutamente encantador."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>449</ID>
+      <DefaultText>"Suponho que seja verdade e, como qualquer chefe de gangue competente, você quer saber se seu segundo em comando está perdendo a coragem. Parece justo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>"'Quem eram eles' seria mais apropriado. Três Sussurros, Gêiser Vermelho e Buscando-Bainha. Os melhores lutadores que já conheci."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>451</ID>
+      <DefaultText>"eu... hesitei. Eu perdi minha coragem. Em vez de apressar os infratores, congelei com minha arma em punho. Minhas irmãs lutaram sem mim, mas estavam desequilibradas - como se o que eu tivesse estivesse pegando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>452</ID>
+      <DefaultText>"Você acha que hesitou por causa de sua conexão com Barik?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>455</ID>
+      <DefaultText>Ela desvia o olhar de você, focando em um ponto distante. Você pode ver que ela está mastigando o interior de sua bochecha em pensamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>"Sim. É uma coisa difícil de imaginar, mas acho que o compartilhamento de Barik e eu é mais profundo do que sangue. Ele está na minha cabeça em algum lugar, e eu na dele. Se o que você diz é verdade, nossa conexão estava ativa antes mesmo de nos conhecermos." Ela solta um suspiro forte e balança a cabeça com espanto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>457</ID>
+      <DefaultText>"Você com certeza tem um talento especial para chegar ao fundo das pessoas, Vinculador do Destino. Tenha cuidado com isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>458</ID>
+      <DefaultText>"Você já conhece a história. Perdi a coragem no campo de batalha e minhas irmãs morreram. Foi uma perda terrível, e não tenho orgulho disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>459</ID>
+      <DefaultText>"Hesitação é uma podridão. É impróprio para qualquer membro Refrão, e inédito em um Fúria Escarlate. Eu a cortaria do meu corpo e cauterizaria a ferida se... se ao menos eu soubesse sua origem." Ela faz uma careta mais uma vez e se volta para dentro, contemplando.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>460</ID>
+      <DefaultText>"Melhor morrer do que se tornar [url=lore:voices_power]parte da Vozes."[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText>"As penas não são boas o suficiente para você, são?" Versículo suaviza sua plumagem carmesim com uma risada humorada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>462</ID>
+      <DefaultText>"Já vi o suficiente desse fanfarrão de mente elevada para saber que ele é todo o dever. Nada além de um espantalho carismático de ombros largos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>463</ID>
+      <DefaultText>"Claro que sim. Primeiro eu pararia de mimar as tropas. A dor é uma lição melhor aprendida cedo. Eu recrutaria os moradores locais para reforçar as linhas de frente, porque por que desperdiçar sua elite na vanguarda?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>464</ID>
+      <DefaultText>"Os [url=glossary:disfavored]Desfavorecido[/url] promovem sua linhagem em declínio e disciplinam qualquer soldado com a audácia de mostrar seus dentes. Apesar de nunca admitirem, os [url=glossary:disfavored]Desfavorecido[/url] precisam do Refrão para lhes mostrar o caminho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>"Na melhor das hipóteses, os [url=glossary:disfavored]Desfavorecido[/url] estão cansados de usar a mesma tática repetidamente. Na pior das hipóteses, o inimigo sabe o que esperar deles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>"Nós vamos, cabe a nós decidir qual dos Arcontes está apto a governar o Camadas. Acho que isso significa matar o resto, fazê-los se curvar ou dobrar o joelho você mesmo. Eu escolheria qualquer coisa menos isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>467</ID>
+      <DefaultText>Nó do banco 467</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>468</ID>
+      <DefaultText>"Você quer dizer meu irmão fedorento no terno de ferro?" Seu nariz se enruga com desgosto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>469</ID>
+      <DefaultText>"Na verdade, os resultados foram feios. É difícil capturar algo que uma rede não segura. Na maioria das vezes, temos que convencer o tipo dela a se alistar ou matar o suficiente deles para que apenas os fracos fiquem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>470</ID>
+      <DefaultText>"Você pode pensar que a está enganando, mas pode ser o contrário. Algum de nós saberia a diferença? Tudo que eu precisa saber sobre Sirin é que ela assusta [url=glossary:kyros]Kyros[/url]. Que... isso já diz tudo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>471</ID>
+      <DefaultText>"Há algo que possamos fazer por Barik?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText>"Não sei. Eu nunca o vi assim, mas, novamente... não nos conhecemos há tanto tempo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>473</ID>
+      <DefaultText>"Ele sempre teve tanto conforto em [url=glossary:graven ashe]Cinza esculpida[/url]. Aquele velho torto... Talvez Barik responderia a uma demonstração de autoridade? Ele parecia amar nada mais do que receber ordens." Ela suspira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>474</ID>
+      <DefaultText>"Penso sobre suas habilidades de combate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>475</ID>
+      <DefaultText>"Você agora? Ligar estou intrigado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>476</ID>
+      <DefaultText>"Você já sabe que eu memorizei os movimentos das minhas Fúria Escarlate irmãs. Se isso me parece um mistério total, não sei como você pode ter chegado a alguma conclusão. Mas estou aberto a ideias."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>477</ID>
+      <DefaultText>"Seu talento me lembra [url=glossary:the voices of nerat]o Vozes de Nerat[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>478</ID>
+      <DefaultText>"Eu acho que você é apenas um bom lutador."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>479</ID>
+      <DefaultText>"Você pegou seus movimentos de luta ou a memória de seus movimentos de luta? Você se lembra de alguém?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>480</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>481</ID>
+      <DefaultText>"Espero não ter ouvido você dizer isso, Vinculador do Destino, porque a implicação é mais do que qualquer um de nós está preparado para lidar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>482</ID>
+      <DefaultText>"Pense nisso. Ele [url=lore:voices_power]absorve as mentes[/url] de suas vítimas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>484</ID>
+      <DefaultText>"Esqueça que eu disse alguma coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>485</ID>
+      <DefaultText>"Com prazer! Já podemos seguir em frente?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>486</ID>
+      <DefaultText>"Nós vamos, não quero nem pensar nisso! Não você considera por um segundo que o pensamento já me ocorreu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>487</ID>
+      <DefaultText>"Eu viajo com o Refrão há anos. Eu vi o que os Voices podem fazer, e isso me assusta, certo? A ideia de que tudo o que sou pode ser reduzido a... a isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>488</ID>
+      <DefaultText>"Se eu tivesse esse tipo de poder, se pudesse me tornar como ele, não sei como poderia viver comigo mesmo. Prefiro me afogar em uma latrina de acampamento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>489</ID>
+      <DefaultText>"Você não precisa se tornar como ele. Apenas seja... seletivo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>490</ID>
+      <DefaultText>"The Voices não é tão ruim. Dê uma chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>492</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] é um monstro. Nós dois sabemos que Terrato nunca viu uma criatura mais desprezível do que ele - não importa que ele seja meio que meu chefe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>493</ID>
+      <DefaultText>"Tenho certeza que ele teve a mesma ideia quando começou... mas você sabe o que dizem sobre poder. Geralmente é usado por idiotas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>494</ID>
+      <DefaultText>"Minhas irmãs morreram. Você deveria ter nos visto... nós éramos incríveis juntos. Eu não queria tirar o que os tornava especiais, mas fiz isso do mesmo jeito. E deixe-me dizer... foi terrível."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>495</ID>
+      <DefaultText>"Se eu vivesse um século, talvez nunca descobrisse como fazer isso acontecer novamente. E, mais importante, não quero."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>496</ID>
+      <DefaultText>"Você não deve ter prestado atenção durante a conquista, então. Eu gostaria de poder dizer quantos corpos ele deixou em seu rastro, mas até eu perdi a conta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>497</ID>
+      <DefaultText>"Se você pensa tão bem dele, você deveria estar se curvando em seu trono e servindo ao Refrão. Entre nós dois, sou a autoridade sobre o quão terrível ele pode ser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>498</ID>
+      <DefaultText>"Bolas. Você sabe exatamente o que dizer a uma garota, não sabe? Agradeço por me poupar os elogios vazios."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>499</ID>
+      <DefaultText>"Se você quiser se desvencilhar disso, pode argumentar que peguei seus instintos, suas reações, mas não consigo ver... Esperar. Você está tentando me comparar com [url=glossary:the voices of nerat]os Vozes de Nerat[/url]?" Versículo brilhos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>501</ID>
+      <DefaultText>"Não estou comparando você com o Vozes - apenas esse... talento que você exibe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>502</ID>
+      <DefaultText>"Meu pequeno 'talento' que se apega aos meus amigos e os esgota, você quer dizer? Porque eu nunca pedi!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>503</ID>
+      <DefaultText>"Às vezes ela saía de fininho à noite, pegava uma foice e se divertia com o gado. Nossos interesses compartilhados começaram e terminaram ali."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>504</ID>
+      <DefaultText>"Os guerreiros ao seu lado não devem sofrer com a dor do ancião no braço da espada. Você seria mais bem servido se o livrasse de sua miséria."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>507</ID>
+      <DefaultText>"Eu me encontro precisando de um assassino talentoso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>508</ID>
+      <DefaultText>"Me aponte na direção certa. Vou cortar tudo o que encontrar no meu caminho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>509</ID>
+      <DefaultText>"Suponho que odiaria privá-lo. Vamos embora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>510</ID>
+      <DefaultText>"E parece que estou sentindo falta de uma gangue. Estamos bem combinados, você e eu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>511</ID>
+      <DefaultText>Nó aleatório 511</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>512</ID>
+      <DefaultText>"Você aprendeu algumas coisas sobre lutar no [url=glossary:scarlet chorus]Coro Escarlate[/url]. Quer duelar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>513</ID>
+      <DefaultText>"Isso seria um eufemismo, e pensei que você nunca perguntaria! Desde a você obviamente está em grande desvantagem, vou deixar você escolher nossa arma de escolha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>514</ID>
+      <DefaultText>"Vamos tentar facas duplas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>515</ID>
+      <DefaultText>"Que tal arcos? Vamos pratique tiro ao alvo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>516</ID>
+      <DefaultText>"Pensando bem, vamos lutar outra hora. Eu quero sobreviver a este dia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>517</ID>
+      <DefaultText>"Sinta-se livre para desenhar ferro ou bronze a qualquer momento. Estarei pronto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>518</ID>
+      <DefaultText>"Exótico. Boa escolha. Vou deixar você adivinhar qual é a minha mão dominante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>519</ID>
+      <DefaultText>O verso corta e apara com ferocidade desenfreada. Às vezes torna-se difícil seguir seus movimentos. Depois de fazer mais do que alguns cortes, você aprende a relaxar os olhos e a seguir melhor o movimento sutil de sua dança.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>520</ID>
+      <DefaultText>"Você se manteve firme. Me chame de impressionado. Precisa de mais alguma coisa ou cansei você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>521</ID>
+      <DefaultText>"Se você quer arriscar se tornar uma almofada de alfinetes, é o seu funeral. Mas você está certo sobre uma coisa - isso vai ser divertido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>522</ID>
+      <DefaultText>Vocês se revezam soltando flechas cegas, usando uns aos outros como alvos móveis. Verse é um corredor talentoso e golpeia os poucos projéteis que se aproximam do ar. Quando chega a vez dela, você precisa de toda a sua energia para acompanhar sua saraivada implacável de projéteis. Você observa a técnica dela e leva a sério uma lição valiosa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>524</ID>
+      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "Vinculador do Destino, trato meu ofício como minha mãe tratou sua torta de framboesa - não dou a receita para qualquer um. Pensando bem, ainda não sei o que havia naquela maldita torta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>525</ID>
+      <DefaultText>"Por que tanta aversão?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>526</ID>
+      <DefaultText>"Porque as vozes não é... quer dizer, você ainda pode chamá-lo de humano?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>527</ID>
+      <DefaultText>"Tudo o que sou me levou a este ponto. Juntei-me ao Refrão, lutei para sobreviver, fiquei mais forte do que jamais soube que poderia ser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>528</ID>
+      <DefaultText>"Eu nunca precisei roubar nada que me fez eu! Eu não quero ser melhor sendo outra pessoa! As vozes é mais forte do que qualquer um, e aterrorizante o suficiente para liderar o Refrão, mas ele também é um parasita crescido, e algum dia ele se encherá de vozes a ponto de explodir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>530</ID>
+      <DefaultText>"Qual é o seu nome verdadeiro?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>531</ID>
+      <DefaultText>"Essa pergunta não é digna de nenhum de nós, mas vou entretê-la por pena."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>532</ID>
+      <DefaultText>"Você já me conhece pelo meu nome verdadeiro. é verso. Você está procurando por qualquer coleção arbitrária de letras e sons que minha mãe achou apropriado quando ela nem me conhecia?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>533</ID>
+      <DefaultText>"Então você está sem sorte. Enterrei esse nome há muito tempo. Longo para meus padrões, de qualquer maneira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>534</ID>
+      <DefaultText>"Pensando bem, já ouvi o suficiente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>535</ID>
+      <DefaultText>"Se você não está interessado em dissecar minha história, tanto melhor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>536</ID>
+      <DefaultText>"Esqueça que eu disse alguma coisa. Voltando às minhas perguntas anteriores."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>537</ID>
+      <DefaultText>"Sentindo-nos indecisos, não é? Continue, então."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>538</ID>
+      <DefaultText>"Você está tentando irritar todo mundo, ou você só faz isso por diversão? Não estou julgando de qualquer maneira, estou apenas curioso. Lançar um [url=glossary:edict]Edital[/url] em [url=glossary:vendrien's well]Poço de Vendrien[/url] é uma boa maneira de iluminar a si mesmo. Ou pinte um alvo." Verse cruza os braços e sorri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>539</ID>
+      <DefaultText>"Vinculador do Destino... Eu nunca pensei que alguém pudesse pular no [url=glossary:the voices of nerat]o Vozes de Nerat[/url]. Ele sobreviveu à maioria de seus inimigos e comeu os outros. Ele era essa grande, sem fundo... coisa. Eu apenas assumi que ele estaria por perto para sempre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>540</ID>
+      <DefaultText>"Eu salvei sua pele, não salvei?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>541</ID>
+      <DefaultText>"Coloquei todos nós em perigo. Eu nunca deveria ter feito isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>542</ID>
+      <DefaultText>"Tenho perguntas para você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>543</ID>
+      <DefaultText>[Deixar] "Chega por enquanto. Vamos embora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>544</ID>
+      <DefaultText>"Você é o chefe, chefe." Verse oferece uma saudação humorada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>545</ID>
+      <DefaultText>"Claro que sim. Por enquanto. Como eu disse, não estou tentando incomodá-lo ou sugerir que você fez a ligação errada. Como alguém que gosta de ficar discreta até ter a oportunidade de dar um golpe mortal, acho seu pequeno gesto público de dominação... bem, pitoresco. Encantador. De uma forma burra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>546</ID>
+      <DefaultText>"Veja, andando por aí se questionando - se você me perguntar, ISSO nos coloca em mais perigo do que ostentar a magia Soberano. Cresça um par e mantenha suas convicções. Em um mundo onde um funcionário legal pode lançar feitiços apocalípticos do topo de uma torre inatacável, quem pode dizer o que é certo ou errado?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>548</ID>
+      <DefaultText>"Você não facilita as coisas para aqueles de nós que o seguem. Ver um de nós alimentado com aquela boca verde sem fundo? Nem eu tentaria isso, e já liderei gangues do Coro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>549</ID>
+      <DefaultText>"E agora ele está morto. É difícil de acreditar, realmente. Estou feliz, mas ele também me deu essa vida, esse nome. Eu o odiava, mas ele era incrível. Um artista."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>550</ID>
+      <DefaultText>"O que estou tentando dizer aqui é que estou impressionado. Você superou minhas baixas expectativas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>551</ID>
+      <DefaultText>"Você acha que o Vozes ainda está lá em algum lugar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>552</ID>
+      <DefaultText>"Você acha que o Vozes está realmente morto?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>553</ID>
+      <DefaultText>"Tenho perguntas para você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>554</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>555</ID>
+      <DefaultText>"E o fato de que Barik acabou dentro daquele... daquele cadáver verde Nerat chamado de corpo? Eu não desejaria isso para ele. Espero que ele esteja feliz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>556</ID>
+      <DefaultText>"E Barik... Não acredito que você deixou o Vozes levá-lo. Você não tem ideia do que o Vozes faz com a mente das pessoas, como elas sofrem naquele abismo gritante. Mesmo que não tenha durado muito, sei que Barik estava com dor antes do fim. Tanta dor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>558</ID>
+      <DefaultText>"Pelo menos Barik está sem armadura."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>559</ID>
+      <DefaultText>"Não foi fácil para nenhum de nós."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>560</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>561</ID>
+      <DefaultText>"Sim... assim que ele sai de uma prisão é empurrado para outra. Entendo seu ponto, mas não compartilho seu otimismo. Eu só espero que ele consiga ficar... humano, lá dentro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>562</ID>
+      <DefaultText>"Barik e eu éramos irmãos de sangue, mas caramba... não é como se tivéssemos crescido juntos. Ele não tinha motivos para tomar o meu lugar. Aquela torre grande e burra de merda de ferro. O que ele sentiu que eu não entendo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>563</ID>
+      <DefaultText>"Apenas... fique fora do meu negócio, Vinculador do Destino. Ele se foi, mas também o Vozes. Tenho certeza que Barik ficaria feliz com isso. Como se eu o conhecesse. Como se tivéssemos tempo para nos conhecermos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>564</ID>
+      <DefaultText>"Cansei de falar sobre isso. Eu nem gosto de pensar nisso. Podemos seguir em frente?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>565</ID>
+      <DefaultText>Esfregando a testa, ela vira o olhar para o chão entre seus pés e suspira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>567</ID>
+      <DefaultText>"Por que você está levando a Barik's morte tão pessoalmente?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>568</ID>
+      <DefaultText>"Houve um tempo em que esta guerra era pequena demais para nós dois, e nós brincávamos constantemente. Eu o queria fora da minha vida. Desejei que ele nem existisse. Agora que ele se foi, eu só quero ele de volta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>569</ID>
+      <DefaultText>"Sim. Ele não está em sua antiga força, mas ele está lá. Tenho certeza que os outros o estão mantendo subjugado... de alguma forma. Nesse mar caótico e uivante de memórias, espero que ele nunca chegue à costa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>570</ID>
+      <DefaultText>"Se formos honestos um com o outro, tenho minhas dúvidas. As vozes poderia planejar mil passos à frente de qualquer um - só posso imaginar que ele tinha algo planejado para sua morte, alguma contingência."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>571</ID>
+      <DefaultText>"Pode ser tão complexo que talvez nunca o reconheçamos se o virmos. Pode nem acontecer em nossas vidas... se tivermos sorte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>573</ID>
+      <DefaultText>"Você acha que o Vozes ainda está lá em algum lugar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>574</ID>
+      <DefaultText>"Sim. Ele não está em sua antiga força, mas ele está lá. Tenho certeza que os outros o estão mantendo subjugado... de alguma forma. Nesse mar caótico e uivante de memórias, espero que ele nunca chegue à costa."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

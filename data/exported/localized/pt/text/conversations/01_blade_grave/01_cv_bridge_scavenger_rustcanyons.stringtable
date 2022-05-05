@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\01_cv_bridge_scavenger_rustcanyons</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Enrole sua vela, estranho - esta ponte marca o início do [url=glossary:unbroken]ininterrupto[/url] território." Ele raspa sua lâmina nas tábuas à sua frente, traçando uma linha. "[url=glossary:kyros]Kyros[/url]' forças já tentaram nos vencer, chegaram até aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Ataque] "A maioria morre por sua família, outros morrem por uma ponte..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>A sentinela da ponte oferece um aceno evasivo. "Suae de volta, e a ponte ainda está fora dos limites. A mudança vem devagar para Robusto, veja você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Outro tolo vem nos testar!" Ele grita para seus homens, "Uma vez pegamos o nortista, vamos estacar ele no quebra-vento!"</DefaultText>
+      <FemaleText>"Outro tolo vem nos testar!" Ele grita para seus homens, "Uma vez pegamos a nortista, vamos estacá-la no quebra-vento!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Há quanto tempo você luta contra as [url=glossary:kyros]Kyros[/url]' forças?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Ele faz uma pausa para contar nos dedos. "Grandes o suficiente para ter filhos duas vezes, pelo menos. Depois da tempestade, pensei que [url=glossary:kyros]Kyros[/url] ficaria satisfeito com nossa dor, mas... o soberano ainda encontra motivos para nos chutar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Conhecemos esses desfiladeiros como a parte de trás de nossos escudos, e não vamos permitir que um bando de burros cabeça de porco nos afaste." Ele bufa de orgulho. "É preciso um tipo especial para durar mais que um cerco ou uma longa campanha. Pessoas nascidas fortes como eu o têm pela carga da carroça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"O que há além desta ponte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>A sentinela coça o queixo e avalia você. "Nada pessoas como você estariam interessadas. Se você está prestes a perguntar 'Nós vamos, por que você está defendendo isso?' então não se incomode. Temos provisões, equipamentos e [url=glossary:unbroken]ininterrupto[/url] soldados. Razão suficiente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"O que você quer conosco?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"O [url=glossary:unbroken]ininterrupto[/url] raramente cede ou cede. Não devemos subestimar a ferocidade desses catadores."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Se você tem negócios conosco, então vá falar com Elia - ela está nos portões da frente. Amigo ou não, infelizmente não posso deixar você passar por esta ponte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Eu conheço você pelo que você é, nortista. Eu nunca conheci uma mulher ou homem do domínio [url=glossary:kyros]Kyros[/url]' que não tentasse 'convidar' meus compatriotas para o rebanho. Eu vou te dar essa chance de ir embora. Por outro lado, estou preparado para dar minha vida defendendo esta ponte... por mais escassa que possa parecer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>necrófago acena com a cabeça enquanto você faz contato visual.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

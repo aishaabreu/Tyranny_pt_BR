@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\08_vendrienswell\08_qst_horde_recruitment</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>O Caminho do Horda</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Viaje para o Liquidação Remota.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Convença os colonos a se juntarem ao Refrão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Derrote o [url=glossary:vendrien guard]Guarda Vendrien[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Volte para [url=glossary:death]Morte[/url] Knell no acampamento [url=glossary:scarlet chorus]Coro Escarlate[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>A Horda [url=glossary:scarlet chorus]Coro Escarlate[/url] depende do recrutamento para aumentar seus números. No entanto, devido às baixas e falta de prisioneiros em batalha, seus números começaram a diminuir. [url=glossary:death]Morte[/url] Ajoelhar, uma Fúria Escarlate, tem uma nova tática que ela gostaria de testar, se você estiver disposto a participar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>[url=glossary:death]Morte[/url] Knell disse que uma gangue de Horda está invadindo um assentamento remoto no lado oeste do vale. Vá até lá e conecte-se com as forças Refrão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>[url=glossary:death]Morte[/url] Knell lhe disse que os aldeões deste assentamento remoto estavam dispostos a se juntar ao Refrão. Encontre os colonos e convença-os a se juntarem ao Refrão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>O assentamento remoto é na verdade um esconderijo [url=glossary:vendrien guard]Guarda Vendrien[/url], e sua presença os atraiu. Derrote os emboscados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>A horda gangue na área sabia o tempo todo que você estava entrando em uma armadilha [url=glossary:vendrien guard]Guarda Vendrien[/url] - eles só precisavam de isca. Reporte-se a [url=glossary:death]Morte[/url] Knell e confronte-a sobre o que aconteceu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você confrontou [url=glossary:death]Morte[/url] Knell sobre sua tática de usá-lo como isca para atrair o [url=glossary:vendrien guard]Guarda Vendrien[/url] no assentamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você falhou em realizar esta tarefa antes que o ataque à cidadela começasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

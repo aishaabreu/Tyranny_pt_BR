@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\05_cairnplains\05_qst_sq_conscriptingthebeasts</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Recrutando as Bestas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Fale com cem-Sangue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Ganhe favor com Centenas-Blood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Voltar para a oitava.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Sequestre os Filhotes de Besta de Gorja Negra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Voltar para a oitava.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Você concordou em recrutar Homens-fera da tribo [url=glossary:stonestalker]Perseguidor de Pedras[/url] para a tribo [url=glossary:scarlet chorus]Coro Escarlate[/url] para fortalecer a reivindicação do exército sobre o [url=glossary:stone sea]Mar de Pedra[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Fale com Centenas-Blood, a líder da tribo [url=glossary:stonestalker]Perseguidor de Pedras[/url], em Apedrejar para solicitar que alguns de seus Homens-fera se juntem ao [url=glossary:scarlet chorus]Coro Escarlate[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Cem Sangue não tinha interesse em deixar qualquer um de sua tribo em Apedrejar se juntar ao [url=glossary:scarlet chorus]Coro Escarlate[/url]. Fazer algo por ela pode fazê-la mudar de ideia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Let Octave saiba que Centenas-Blood lhe deu dois Beastmen para o [url=glossary:scarlet chorus]Coro Escarlate[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Octave sugeriu que você encontrasse uma maneira de atrair a ninhada de Filhotes de Besta para longe da toca [url=glossary:stonestalker]Perseguidor de Pedras[/url] em Apedrejar. Eles podem então ser aumentados pelo [url=glossary:scarlet chorus]Coro Escarlate[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Retorne a Octave em Stone Down e verifique se ele recebeu com sucesso o [url=glossary:stonestalker]Perseguidor de Pedras[/url] Filhotes de Besta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Este assunto agora pode ser resolvido com Bone-Claw em Stone Down Gorge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Os Beastcubs podem ser atraídos apenas com carne humana. Voltar para a oitava para discutir formas de adquirir esta isca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Colha carne humana de Dois Vice, um homem morto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Retorne ao Filhotes de Besta com a isca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Com a disputa em Gulfglow cuidada de Centenas-Blood deve estar disposto a se separar de alguns Homens-fera.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você recebeu dois Beastmen por Hundred-Blood para o [url=glossary:scarlet chorus]Coro Escarlate[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você garantiu vários Homens-fera filhos para os [url=glossary:scarlet chorus]Coro Escarlate[/url] criarem e treinarem sozinhos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Você enviou Centenas-Blood para [url=glossary:the voices of nerat]the Vozes de Nerat[/url] antes de perguntar a ela sobre o recrutamento de [url=glossary:stonestalkers]Perseguidores de Pedras[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Você não conseguiu recrutar nenhum Homens-fera.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Você traiu seus aliados e não pode mais completar esta tarefa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Como o de Oitava gangue marchou em Rocha Uivante, você precisará prosseguir com o Homens-fera que você já recrutou.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

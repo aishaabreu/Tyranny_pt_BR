@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\06_cv_albetronas</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Vinculador do Destino." O tenente lhe dá um breve aceno de cabeça. 
+
+"Estou pouco à vontade neste salão polido, mas admito que é um alívio do campo de batalha e dos campos de treinamento. Se Ashe precisa que eu fique aqui e represente seus interesses durante a ocupação, então estarei à altura da tarefa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Salve Ashe e [url=glossary:kyros]Kyros[/url]!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Não pode ser pior do que os nossos dias em [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Brincadeiras à parte, você foi generoso em conceder o [url=glossary:disfavored]Desfavorecido[/url] controle sobre a cidade. Até a legião de ferro precisa de uma pausa na frente de vez em quando."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\05_cairnplains\05_bs_oot_guard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Garras cegas não entrarão em Rocha Uivante. Não aos calvos, não aos humanos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Humanos não podem passar para Rocha Uivante. Não sem permissão de [url=glossary:prima]Prima[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Nó aleatório3</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Volte, humano. Beastwoman guarda passagem para Rocha Uivante. Protege as terras das tribos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Humanos não podem passar para Rocha Uivante. Não sem permissão de [url=glossary:prima]Prima[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Jogada. Eu sou [url=glossary:prima]Prima[/url] desta tribo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Scram, cara de merda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Ataque] "Saia do meu caminho, seu fedorento Fera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Com os olhos arregalados, os guardas trocam um olhar surpreso antes de assentir e se mover para o lado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>A Mulher-Fera rosna e mostra os dentes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Conforme você ataca, rapidamente, o primeiro guarda cai com um uivo sufocado, o corpo estremecendo ao atingir o chão. O outro, um Homem-Besta de pelo fulvo, olha de relance, olhos selvagens, em direção ao poleiro de Centenas-Blood, mas percebendo o desajeitado Mulher-Besta observando vocês dois sem reação - o guarda restante morde de volta um latido e sabiamente se arrasta para o lado.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

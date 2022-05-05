@@ -1,0 +1,806 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>game\items</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>152</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1774</ID>
+      <DefaultText>Ferramentas Gravelight</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1775</ID>
+      <DefaultText>Elas fazem parte de um conjunto de [url=glossary:forge-bound]Forge-Bound[/url] ferramentas de corte feitas de Minério de Luz de Sepultura.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1776</ID>
+      <DefaultText>Elmo do Reaver</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1777</ID>
+      <DefaultText>Tomo de Metalurgia Aquosa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1778</ID>
+      <DefaultText>Este livro contém uma grande quantidade de informações sobre como misturar [url=glossary:forge-bound]Forge-Bound[/url] e Lançador de maré magia de forma benéfica.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1779</ID>
+      <DefaultText>Pertences de Phoibe</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1780</ID>
+      <DefaultText>Os pertences de um sábio chamado Phoibe. Eles consistem principalmente de pergaminhos, instrumentos de escrita e pedaços aleatórios de pergaminho com coisas rabiscadas sobre eles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1781</ID>
+      <DefaultText>Tocha Lazu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1782</ID>
+      <DefaultText>Jadis Torchkey</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1783</ID>
+      <DefaultText>Tocha Tanza</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1784</ID>
+      <DefaultText>Cymo Torchkey</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1785</ID>
+      <DefaultText>[url=glossary:warden's key]Chave do Guardião[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1786</ID>
+      <DefaultText>Chaves do Guardião são usados pelos habitantes e homens-fera de Ferida do Bastardo para facilitar a viagem pelo Oldwalls. Criado por Jaspos e Wagstaff, eles permitem que o titular use sinalizadores e interruptores à distância.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1787</ID>
+      <DefaultText>Ferida do Bastardo Pedra Velha de Muralhas Velhas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1788</ID>
+      <DefaultText>Esta pedra angular é usada pelos habitantes e Homens-Besta da Ferida do Bastardo para entrar nas profundezas do Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1789</ID>
+      <DefaultText>Pedra angular de profundidades fraturadas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1790</ID>
+      <DefaultText>Pedra-chave oca escurecida</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1793</ID>
+      <DefaultText>A Chave do Abismo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1794</ID>
+      <DefaultText>Esta pedra angular pode ser usada para ativar os teletransportadores dentro do Ferida do Bastardo Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1795</ID>
+      <DefaultText>A Pedra Angular de Mel</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1796</ID>
+      <DefaultText>A pedra angular do apelido insípido</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1797</ID>
+      <DefaultText>Fogo do Oceano</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1798</ID>
+      <DefaultText>Um frasco de líquido azul rodopiante que parece ter fogo correndo pelo seu conteúdo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1799</ID>
+      <DefaultText>Carne saborosa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1800</ID>
+      <DefaultText>Um pacote de carne crua e suculenta. Provavelmente seria delicioso se cozinhado adequadamente, mas quase parece bom o suficiente para comer como está.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1801</ID>
+      <DefaultText>Sussurros de Choro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1802</ID>
+      <DefaultText>Razão Circular</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1803</ID>
+      <DefaultText>Elmo de Saqueador de Lâmina Livre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1804</ID>
+      <DefaultText>Couro Freeblade Marauder [url=glossary:armor]armaduras[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1805</ID>
+      <DefaultText>Botas de Saqueador de Lâmina Livre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1806</ID>
+      <DefaultText>Botas de regentes quebradas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1807</ID>
+      <DefaultText>Luvas de regentes quebradas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1808</ID>
+      <DefaultText>Elmo de Regentes Quebrados</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1809</ID>
+      <DefaultText>Regentes Quebrados [url=glossary:armor]armaduras[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1828</ID>
+      <DefaultText>Este machado possui uma lâmina de ferro escuro afiadamente afiada em um cabo de bronze. Impresso com o sigilo de Pox, Arconte da Ruína, a cabeça da arma parece desagradavelmente fria ao toque e pulsa com um brilho fraco e doentio.
+
+Embora você tenha encontrado esta arma abandonada na barriga de um cadáver no [url=glossary:blade grave]Sepultura de Lâminas[/url], você suspeita que ele tenha ido para o sul das terras de [url=glossary:kyros]Kyros[/url], onde as armas de ferro têm um uso muito mais amplo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1829</ID>
+      <DefaultText>Um arco curto elegantemente simples de madeira de freixo amarrado com cânhamo, Frostbite tem vários sigilos rasos de gelo esculpidos em seu comprimento. Embora a madeira em si seja fria ao toque, o punho de couro evita que a arma seja desconfortável para empunhar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1830</ID>
+      <DefaultText>A cabeça deste dardo padrão carrega uma série de três pequenas farpas saindo de cada um de seus quatro lados. Carmesim mancha o cabo de madeira da arma logo abaixo da cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1831</ID>
+      <DefaultText>Você suspeita que o [url=glossary:stonestalker]Perseguidor de Pedras[/url] de quem você pegou essa lança a reivindicou de um inimigo [url=glossary:disfavored]Desfavorecido[/url]. A cabeça viciosamente trabalhada possui uma seção transversal triangular torcida para mutilação máxima, e pequenas calhas ao longo do metal canalizam o sangue para longe das garras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1832</ID>
+      <DefaultText>Estampado com os sigilos violeta pálido de Atrofia, este martelo de bronze surpreendentemente pesado parece atraído pelas fraquezas daqueles contra quem é levado a lutar. Ele procura lacerações, ossos quebrados e músculos rasgados, direcionando golpes para os pontos onde eles causarão o dano mais grave.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1833</ID>
+      <DefaultText>morte de [url=glossary:iron guard]Guarda de Ferro[/url] Icaela em Palorian's Rise acabou com qualquer esperança de que os defensores de Robusto fossem facilmente esmagados pelos [url=glossary:graven ashe]Cinza esculpida[/url] [url=glossary:disfavored]Desfavorecido[/url] Legião. À medida que a campanha parou por causa do Período seguinte, todas as tentativas de recuperar o cadáver e os armamentos de de Icaela falharam embaraçosamente.
+
+A [url=glossary:disfavored]Desfavorecido[/url] contou esta enorme espada, encomendada por Ashe e nomeado para o reservatório central de mercúrio contido dentro de seu ferro dobrado, principal entre as perdas. Algum truque da gravidade permite que essa lâmina atinja significativamente mais forte do que sua massa sugeriria, e os aprimoramentos alquímicos do [url=glossary:forge-bound]Forge-Bound[/url] concedem à lâmina afiada de ferro uma parte da toxicidade do mercúrio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1834</ID>
+      <DefaultText>Faixas de bronze manchado unem este escudo de linwood carbonizado. Embora você tenha recebido de um legionário [url=glossary:disfavored]Desfavorecido[/url] no Terrenos Contestados, os materiais e sigilos impressos sugerem uma origem dentro do Camadas. Apesar de estar enegrecida e deformada, possivelmente pelo [url=glossary:edict]Edital[/url] do próprio Incêndio, a madeira permanece incrivelmente durável. Talvez devido à força arcana do soberano, o escudo permanece quente ao toque, dando um toque de vigor abrasador ao seu portador.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1835</ID>
+      <DefaultText>Enquanto as fileiras de [url=glossary:graven ashe]Cinza esculpida[/url][url=glossary:disfavored]Desfavorecido[/url] têm a reputação de buscar a morte gloriosa em combate, o Earthshaker Sentorum não temia mais nada. Sentorum requisitou este escudo de torre de ferro e teceu nele potentes encantamentos que fortaleceriam seus sigilos e iluminariam o baluarte em momentos de perigo mortal.
+
+Enquanto o escudo poupava Sentorum de Tierman falxes e Mulher-Besta garras, não lhe ofereceu proteção contra a insuficiência cardíaca que tirou sua vida em um banheiro externo Azure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1840</ID>
+      <DefaultText>Embora a pedra preta pendurada nesta fina corrente de bronze pareça a fonte óbvia de seu poder, o encantamento na verdade se esconde dentro do colar de metal tecido, cada minúsculo sigilo gravado para enfrentar a trama. Mesmo que a forma do colar obscureça sua força, sua função fortalece o obscuro. 
+
+Uma vez comum entre uma ordem secreta de espiões místicos e assassinos em Robusto, itens como este conferem velocidade nos momentos vitais após um primeiro golpe. O sucesso tornou-se a ruína dos assassinos, quando Regente Straydus Malia erradicou todos os vestígios da ordem depois de empregá-los para eliminar seu antecessor. Que um periapto como este tenha sobrevivido é uma prova da capacidade da escola para subterfúgios e desenvoltura.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1841</ID>
+      <DefaultText>Este selo de pedra branca representa uma ponte sobre a água, com rochas afiadas que se projetam das ondas e um platô de topo plano pairando acima da ponte. Estas imagens representam Separar, uma cidade portuária que já foi conhecida por infinitas maravilhas arquitetônicas esculpidas por uma miríade de pedreiros em uma mesa branca com vista para o mar.
+
+Esse selo sempre parece um pouco sujo e empresta à pele de quem o carrega um aspecto seco e intemperizado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1842</ID>
+      <DefaultText>As características incrustadas de gelo desta estátua há muito tempo foram usadas além do ponto de reconhecimento. Linhas de gravuras rasas ao redor da base lembram os sigilos dentro dos Oldwalls e do Pináculos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1843</ID>
+      <DefaultText>Conhecido por seu excepcional olho para detalhes, o [url=glossary:sage]Sábio[/url] Davidian trabalhou nos scriptoriums do [url=glossary:vellum citadel]Cidadela de Velino[/url] dois séculos e meio atrás. Ao longo dos anos, longas horas entre os textos enfraqueceram sua visão, e ele usou sua notável compreensão da geometria para criar essa lente maravilhosa que ajudou a compensar sua visão cada vez menor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1844</ID>
+      <DefaultText>Essas luvas de couro carmesim carregam as manchas irregulares de anos de brutalidade, tanto para inimigos quanto para subordinados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1845</ID>
+      <DefaultText>Estas luvas grossas de couro foram reforçadas com placas de ferro. O metal que se projeta além dos nós dos dedos foi afiado em uma borda grosseira. Embora incomuns, luvas com lâminas, espinhos, garras ou aprimoramentos semelhantes geralmente levam o nome de Kaidi, uma antiga rainha guerreira do norte que, segundo rumores, matou seu primeiro inimigo em combate de punhos nus ainda criança.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1846</ID>
+      <DefaultText>Soldados nas legiões Soberano às vezes se referem à Unificação de Terratus como 'A Marcha Sem Fim', uma campanha sem fim. Oficiais sábios restringem o uso dessa frase, reconhecendo o perigo de sugerir em voz alta que a conquista [url=glossary:kyros]Kyros[/url]' nunca verá sua conclusão. Tão leves e confortáveis quanto protetoras, essas botas feitas com maestria parecem projetadas para garantir um final mais rápido para a luta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1847</ID>
+      <DefaultText>Forradas com penugem [url=glossary:flightless]flightless[/url] e paralelepípedos de pele e couro, estas botas macias proporcionam calor e conforto excepcionais. Um pouco pesado para uso no Camadas, este calçado provavelmente encontrou seu caminho para o sul durante o Conquista.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1848</ID>
+      <DefaultText>O otimismo caloroso de [url=glossary:sage]Sábio[/url] Kailor lhe rendeu muitos amigos nas pilhas de [url=glossary:vellum citadel]Cidadela de Velino[/url], mas também o condenou. Uma das principais vozes contrárias à aceitação da regra [url=glossary:kyros]Kyros[/url]', Kailor acreditava que o conhecimento acumulado pelo Escola de tinta e pena era um tesouro muito grande para o soberano arriscar emitindo um [url=glossary:edict]Edital [/url] contra a grande biblioteca.
+
+Embora Kailor não tenha sido visto desde a destruição do Cidadela, seu chapéu favorito, tricotado por suas próprias mãos, chegou às suas mãos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1849</ID>
+      <DefaultText>Este capuz pertencia a uma feiticeira acusada de rixatrix - o crime de ser uma mulher briguenta frequentemente usada para assediar e torturar magos sem contrapartida sob as leis [url=glossary:kyros]Kyros[/url]' - no Nível Bastardo quase um século atrás . Quando os homens da lei locais vieram para prendê-la, eles encontraram uma surpresa suína que o mago havia preparado para eles. No momento em que recuperaram seus sentidos, só restava este capuz desgastado da bruxa que procuravam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1850</ID>
+      <DefaultText>Enquanto apenas o [url=glossary:forge-bound]Forge-Bound[/url] possui os segredos de fazer uso seguro e eficiente do ferro, outros trabalharam o material pesado ao longo dos séculos. Esta amostra em particular possui placas de ferro grossas e grosseiramente talhadas com o selo da casa real de Azure. Infelizmente, a ferrugem começou a reivindicar as bordas da armadura, obscurecendo a marca do fabricante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1851</ID>
+      <DefaultText>Aqueles peleteiros com estômago (ou apatia) para trabalhar as peles grossas e muitas vezes marcadas de Homens-fera acham difícil se curvar ao seu ofício. A recompensa, eles reconhecem, mais do que compensa o problema, alegando que o couro Fera combina proteção robusta com flexibilidade incomparável. 
+
+Apesar dessas afirmações, Fera armadura de couro permanece impopular entre os guerreiros reais, provavelmente devido à sua tendência de atrair as presas e garras dos vivos Homens-fera.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1877</ID>
+      <DefaultText>Razão Circular</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1878</ID>
+      <DefaultText>[url=glossary:edict]Edital[/url]'s Crescente</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1879</ID>
+      <DefaultText>[url=glossary:edict]Edital[/url]'s Crescente</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1880</ID>
+      <DefaultText>[url=glossary:edict]Edital[/url]'s Malho</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1881</ID>
+      <DefaultText>[url=glossary:edict]Edital[/url]'s Malho</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1885</ID>
+      <DefaultText>Shako do Perseguidor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1886</ID>
+      <DefaultText>Acólito do Arconte Mil Brasas, fundador do Escola da Ira Selvagem, o errático Paulex atormentou o sudoeste do Camadas com incêndios florestais há quase cinco séculos. Notoriamente indeciso, o Conjurador encomendou um par de braçadeiras finas e leves que não o impediriam de sacar uma nova arma a qualquer momento. Embora as braçadeiras reais usadas por Paulex tenham sido perdidas, não poucas reproduções foram criadas a partir do design original.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1887</ID>
+      <DefaultText>Venda estéril</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1888</ID>
+      <DefaultText>Cajado Starsmite</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1889</ID>
+      <DefaultText>Regalia de Oldwalls do Imperator</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1890</ID>
+      <DefaultText>Braçadeiras de Paulex</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1891</ID>
+      <DefaultText>Graça de Rinoxa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1892</ID>
+      <DefaultText>Borda Rúnica</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1893</ID>
+      <DefaultText>Receita: Extrato de Colosso</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1894</ID>
+      <DefaultText>Extrato de Colosso</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1895</ID>
+      <DefaultText>Esta receita descreve o processo de fabricação do Extrato de Colosso. Isso pode ser criado com acesso a um Atualização da Enfermaria Spire e materiais adequados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1896</ID>
+      <DefaultText>Pergaminho: Sigilo Maior dos Parafusos Delimitadores (Acento)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1897</ID>
+      <DefaultText>Este pergaminho contém um mágico Sotaque que permite que um feitiço salte para vários alvos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1898</ID>
+      <DefaultText>Este pergaminho contém um mágico Sotaque que aumenta notavelmente a precisão de um feitiço.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1899</ID>
+      <DefaultText>Pergaminho: Sigilo Notável de Ação Precisa (Acento)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1900</ID>
+      <DefaultText>Este pergaminho contém um mágico Sotaque que aumenta notavelmente a força de um feitiço.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1901</ID>
+      <DefaultText>Pergaminho: Sigilo de Força Notável (Acento)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1902</ID>
+      <DefaultText>Os Tiersmen fazem segredo de suas inúmeras superstições. Uma crença comum sustenta que um caçador pode mascarar sua presença da presa cobrindo suas feições com a pele de um animal predador. Seja mascarando o cheiro do caçador, silenciando sua respiração ou por algum processo mais místico, parece haver alguma verdade nessa ideia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1903</ID>
+      <DefaultText>infame capitão comerciante Rinoxa voltou-se para a pirataria há um século, em uma tentativa de contra-atacar as práticas monopolistas das casas mercantis no [url=glossary:bastard city]Cidade bastarda[/url]. Temida tanto por sua astúcia quanto por sua habilidade com uma lâmina, sua destreza na batalha a transformou em uma figura lendária - uma fama auxiliada pelos muitos biógrafos que vieram depois dela, com a intenção de competir pelos mais glamorosos (ou mais anti- heróica) re-visão de sua história. Em particular, jovens nobres de inclinação romântica com ambições marciais a idolatram e sonham em seguir seu exemplo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1904</ID>
+      <DefaultText>Embora as causas permaneçam um mistério, médicos e metalúrgicos do Camadas e do norte reconhecem que o cobre e sua liga de bronze resistem a limos e bolores melhor do que muitos outros materiais, e os recipientes de comida e água são feitos dos materiais por aqueles que podem pagar. such.
+
+Este elmo parece feito com esta propriedade vantajosa em mente. Um artesão incrustou sigilos de cobre de cura e proteção neste elmo forjado em bronze. Ele realmente brilha com impecabilidade sobrenatural.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1905</ID>
+      <DefaultText>relação de [url=glossary:cairn]Cairn[/url] com seus acólitos era notoriamente distante. Alguns dizem que ele ensinou menos o Tremedores de terra do que permitiu que a guilda o estudasse e suas obras. O colossal arconte mostrou favor a alguns de seus aprendizes, no entanto, entre eles Ragnall, uma mulher excepcionalmente inteligente que o procurou nas montanhas do norte. 
+
+Ragnall moldado Starsmite da madeira de um pinheiro que cresceu do afloramento pedregoso onde ela conheceu o Arconte de Pedra. Infundido com a força de uma avalanche, o cajado lança uma onda de pedras com infusão de energia naqueles que ameaçam seu portador.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1906</ID>
+      <DefaultText>Uma lenda popular do Camadas ridiculariza o Imperator Thesanax, um provável senhor da guerra mítico do norte que jurou que a armadura invisível que ele comprou de um aventureiro invasor do Oldwalls poderia protegê-lo de todo e qualquer dano. Aqueles que sugeriram que ele havia sido enganado foram dados publicamente aos tubarões.
+
+Enquanto Thesanax pode nunca ter existido, essa armadura certamente existe. Provavelmente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1907</ID>
+      <DefaultText>Uma lâmina de bronze viciosamente afiada gravada irregularmente com sigilos primitivos de algum Arconte, Runa-Edge há muito esquecido entrou em posse da Casa Helos do Nível Bastardo antes da ascensão do [url=glossary:bastard city]Cidade bastarda[/url]. A família Quando o Helo caiu para o avarento Casa Dermeciana, um de seus campeões reivindicou o Runa-Edge como um troféu de guerra. Desde então, mudou de mãos nada menos que vinte vezes, aparecendo com destaque nas histórias de várias guerras entre os vários reinos do Camadas. 
+
+Há menos de um século, o importador Norastus Bephos de Azure comprou a espada, apenas para que sua neta a vendesse ao príncipe mercante Rostrom Vorus duas décadas atrás. Vorus manteve o machado proeminentemente exibido em sua propriedade nas montanhas, e ele se gabava muitas vezes de que Runa-Edge reivindicaria a cabeça de qualquer [url=glossary:kyros]Kyros[/url]-sugadores do norte que ousassem tentar expulsá-lo de sua casa.
+
+Ele não contava com o inevitável invasor do norte sendo [url=glossary:cairn]Cairn[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1908</ID>
+      <DefaultText>Esta bebida espessa e mal cheirosa tem aproximadamente a mesma cor de um osso branqueado e tem gosto de peixe em conserva. Garantido para tornar o bebedor maior e durar mais tempo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1909</ID>
+      <DefaultText>Pergaminho: Sigilo Excepcional de Energias Cíclicas (Acento)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1910</ID>
+      <DefaultText>Escamas Cerúleas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1911</ID>
+      <DefaultText>Fantasma</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1912</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1913</ID>
+      <DefaultText>Musgo Desidratado</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1914</ID>
+      <DefaultText>Este musgo teve toda a água removida magicamente. Ele rapidamente se desintegra em uma substância em pó quando tocado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1915</ID>
+      <DefaultText>Cinza Descolorida</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1916</ID>
+      <DefaultText>Esta cinza ainda está ligeiramente quente ao toque. A cor dele foi alterada, provavelmente por meios mágicos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1917</ID>
+      <DefaultText>Carne crua</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1918</ID>
+      <DefaultText>Perna de Artyx</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1919</ID>
+      <DefaultText>Sombras Infundidas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1920</ID>
+      <DefaultText>Pedra-chave da Cascata da Fonte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1921</ID>
+      <DefaultText>Esta pedra angular parece que caberia em um dos teletransportadores do Ferida do Bastardo Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1922</ID>
+      <DefaultText>Nenhum período de tempo sobre o fogo queima esta haste densa de origem incerta. Mais estranho ainda, parece haver nele alguma essência de vida; qualquer carne roída dele eventualmente volta a crescer, tão dura e fibrosa quanto antes. Embora seu peso desafie o de uma maça de ferro, o quadril é mal equilibrado como arma e o osso liso e lascado que se projeta dele oferece pouca aderência. 
+
+Usá-lo em batalha seria uma conquista digna de lembrança.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1923</ID>
+      <DefaultText>Enquanto a maioria dos gatos passa o dia cochilando e caçando à noite, esse gatinho preto também não. Enquanto ele aceita comida colocada na frente dele, ele geralmente olha fixamente para frente, sua vigília silenciosa interrompida por um bocejo ocasional.
+
+Com Sombra Fantasma enrolado ao seu lado, você se sente particularmente cauteloso com os perigos de Terrato.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1926</ID>
+      <DefaultText>Ferro fundido e liga de bronze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1927</ID>
+      <DefaultText>Nem exatamente ligado nem fundido, este material nasceu na ira feiticeira de [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] de Tempestades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1928</ID>
+      <DefaultText>Balde de Sangue Real</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1929</ID>
+      <DefaultText>Bem fechado com uma tampa de madeira, este grande balde, quase um barril, derrama lágrimas coletadas da estátua chorosa da rainha Lycaerus nas ruínas de Afiação. Uma energia vaga pulsa por dentro e, por mais fraca que seja, lembra a carga mística no ar depois de proclamar uma das [url=glossary:kyros]Kyros[/url]' Editais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1930</ID>
+      <DefaultText>Penumbra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1931</ID>
+      <DefaultText>Penumbra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1932</ID>
+      <DefaultText>Encore de Songbird</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1933</ID>
+      <DefaultText>Ecos do Tempestade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1934</ID>
+      <DefaultText>Ecos do Tempestade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1935</ID>
+      <DefaultText>Ecos do Tempestade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1936</ID>
+      <DefaultText>Ecos do Tempestade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1937</ID>
+      <DefaultText>crista da onda</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1938</ID>
+      <DefaultText>Sussurros de Choro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1939</ID>
+      <DefaultText>Razão Circular</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1940</ID>
+      <DefaultText>Elmo Veterano</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1941</ID>
+      <DefaultText>Lâmpada de Ferro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1942</ID>
+      <DefaultText>Casa dos Regentes Quebrados despoja seus inimigos derrotados de qualquer coisa que os mercenários possam carregar. O que eles não podem vender ou usar como estão, eles derretem e remontam em ferramentas funcionais. Nas Velhas Muralhas, isso significa lâmpadas para afastar a escuridão. Essas lâmpadas de ferro escuro têm uma semelhança marcante com a coloração da armadura de ferro [url=glossary:disfavored]Desfavorecido[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1943</ID>
+      <DefaultText>Chave de Prata</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1944</ID>
+      <DefaultText>Casa dos Regentes Quebrados nomearam-se para um contrato bem sucedido contra um dos Regentes de Stalwart. Enquanto eles geralmente se gabam de terem superado os lendários guerreiros daquela nação em combates honrosos, as histórias que eles contam entre si pintam uma história dramaticamente diferente de subterfúgio e traição. Cada membro do Casa usa um pingente de prata, estanho ou estanho em forma de chave. Cada um é uma cópia, afirma Casa, daquilo que abriu as portas das câmaras Regente, permitindo que a astúcia superasse a guarda real onde a força bruta havia falhado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1945</ID>
+      <DefaultText>Chifre de Bronze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1946</ID>
+      <DefaultText>Os Saqueadores de Lâminas Livres' especialização em táticas de emboscadas brutais lhes concedeu uma forte consciência dos perigos de serem pegos sem recorrer a apoio. Nenhum grupo de Freeblades viaja sem buzina, usando os instrumentos para chamar a ajuda de seus companheiros de armas. Os ouvidos afiados de seus aliados Homens-fera estendem o alcance viável dos sinais, embora não leve os reforços aos soldados em perigo mais rapidamente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1947</ID>
+      <DefaultText>Efígie de Grama</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1948</ID>
+      <DefaultText>Os Homens-Besta membros do Saqueadores de Lâminas Livres carregam pequenas efígies de galhos e grama na forma grosseira de humanos. Embora eles não falem do significado das figuras, com cada inimigo que eles matam em batalha eles adicionam outro galho ou árvore de grama. Os mais antigos e bem-sucedidos Bestas usam suas efígies, feixes quase esféricos de espinheiro, orgulhosamente em volta do pescoço.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1949</ID>
+      <DefaultText>Páginas do Reboco</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1950</ID>
+      <DefaultText>Esses pedaços de velino fino parecem ser páginas copiadas do Reboco, um texto filosófico popular entre as classes mais pobres do Camadas. A mesa supostamente vilipendia a nobreza como ladrões gananciosos que só possuíam sua posição e influência por força das circunstâncias, piores do que criminosos honestos e a serem resistidos em todas as oportunidades. Apenas um punhado de pessoas poderia realmente ler o Reboco, a maioria o recitou por memória (aproximada) de outra pessoa e, ao longo dos anos, dezenas de variações do Reboco apareceram, cada uma com seus próprios discursos idiossincráticos sobre qualquer machado em particular. autor queria moer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1951</ID>
+      <DefaultText>Suprimentos recuperados</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1952</ID>
+      <DefaultText>guerra civil aparentemente tratou bem o portador deste saco de suprimentos - pelo menos até que eles cruzaram você. Dentro há uma variedade de produtos, incluindo talheres, rolos de algodão, corda de cânhamo, pequenas estatuetas, um tabuleiro de jogo, uma linha de sniggles, uma pequena flauta, algumas jóias de cobre, velas, óleo de lamparina e outros diversos tipos de vida em o Camadas. Em tempos de guerra, essas necessidades simples valem bons anéis para indigentes e Arcontes iguais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1954</ID>
+      <DefaultText>Lohara forjou este martelo de ferro e bronze retorcidos do [url=glossary:blade grave]Sepultura de Lâminas[/url]. A cabeça desta arma tem selos de raios e trovões finamente trabalhados, evocando a ira da tempestade arcana que forneceu as matérias-primas do martelo, e [url=glossary:edict]Edital[/url]-esporas afiadas brotam de sua face. Ele constantemente emite um gemido baixo que levanta seu cabelo e zumbe em sua armadura.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1956</ID>
+      <DefaultText>Lycentia criou este machado vicioso do ferro e bronze retorcidos do [url=glossary:blade grave]Sepultura de Lâminas[/url]. A longa curva da lâmina se projeta de uma cabeça forjada com numerosos antigos selos de destruição, evocando a ira arcana do julgamento Soberano contra Robusto. 
+
+O mago-ferreiro também incluiu um sigilo que ela descreveu como "algo que eu estava mexendo." Ela acrescentou: "Provavelmente não vai te matar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1958</ID>
+      <DefaultText>Três Sussurros nunca foi a lugar nenhum verdadeiramente desarmado. Essas manoplas podem incluir apenas seis de suas muitas lâminas, mas talvez fossem as mais comumente ensanguentadas. Os fragmentos aparentemente decorativos que se projetam dos lados dessas braçadeiras são reforçados por longas faixas de ferro escondidas dentro do couro em camadas, permitindo que um usuário experiente os transforme em ataque e defesa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1960</ID>
+      <DefaultText>Esta bem equilibrada faca de arremesso tem a notável propriedade de retornar ao seu arremessador, um encantamento que pode levar a acidentes fatais se se espera o comportamento usual para objetos arremessados. A lâmina passou por duzentos anos de Sábios, mas não existe uma história definida de sua origem. Muitas das histórias falam de amantes perdidos há muito tempo, vingança trágica, e a maioria sugere que essa lâmina veio do Oldwalls em terras distantes.
+
+Lantry acha a maioria dessas histórias ridículas e insiste que a lâmina foi uma tentativa mal concebida de suicídio de alguém ou um presente de mordaça para um rival 'amado'. Afinal, a lâmina é perfeitamente precisa em sua capacidade de atingir a pessoa que a jogou e não perfeitamente precisa em sua capacidade de atingir outras pessoas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1962</ID>
+      <DefaultText>Formada por Tidecaster Eb em uma variação de seu cajado de guerra tradicional, esta arma só é perfeitamente sólida quando balançada. Quando mantido em repouso, o bastão flui e reflui ao redor das mãos que o seguram. Criado a partir de metais que foram transmutados em água e remodelados, esse armamento foi, em tempos passados, ferozmente guardado por Jade Oculto, Arconte das Marés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1963</ID>
+      <DefaultText>Sua sombra pisca erraticamente na luz violeta pálida emitida por esta lâmina de bronze viciosamente afiada, flutuando entre convergir sobre o comprimento da arma e se esticar como se tentasse escapar de sua presença. Nenhuma lenda canta sobre esta arma, mas ela eriçada com energia feiticeira que a lâmina afiada de liga parece insuficiente para conter. Talvez o artesão responsável por esta espada tenha usado técnicas há muito perdidas para os ferreiros modernos, infundindo-a com um poder que pode ser mais antigo que o Arcontes, o soberano ou mesmo o Oldwalls em que você a descobriu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1964</ID>
+      <DefaultText>Escaramuça [url=glossary:armor]armaduras[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1966</ID>
+      <DefaultText>véu da noite parece infectar a Caçador de Sombras a cada movimento - ou talvez seus movimentos escorram escuridão. Seus olhos vermelhos brilham mais intensamente no escuro, e sua sombra muda de forma desigual, estendendo-se como um gato entediado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1969</ID>
+      <DefaultText>Embora o delicado mecanismo de relógio que restringe a cabeça do Sirin a este cocar permaneça tão inescrutável como sempre, ela o usa com mais leveza, como se o peso dele tivesse diminuído. A gema em sua testa capta a luz e a amplifica antes de liberá-la de volta ao mundo, pulsando no tempo com as músicas Arconte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1970</ID>
+      <DefaultText>Lembrança do Escudo de Pedra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1971</ID>
+      <DefaultText>Uma imagem gravada de um membro lendário do [url=glossary:disfavored]Desfavorecido[/url] Legião. Rumores afirmam que ele revela a verdadeira forma de um homem preso, mas apenas para aqueles poucos cujos olhos trilharam o fato da falsidade.
+
+A compra deste item remove o Barik de sua armadura para fins de equipar o Barik, mas as pessoas do mundo ainda verá (e cheirará) Barik como preso em sua armadura. Essa ação não pode ser desfeita.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1972</ID>
+      <DefaultText>Lembrança do Pássaro canoro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1973</ID>
+      <DefaultText>Uma pequena estatueta de um pássaro esculpido em teixo e polido para um brilho profundo. Rumores afirmam que isso liberta a música até mesmo da voz mais enjaulada. 
+
+A compra deste item melhora o do Sirin elmo, mas não altera a história ou a progressão da missão. Essa ação não pode ser desfeita.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1974</ID>
+      <DefaultText>Lembrança do Caçador da sombra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1975</ID>
+      <DefaultText>Um pequeno pedaço de madeira petrificada manchado com as antigas runas de um místico Mulher-Besta. A lenda sugere que este símbolo simples é feito de madeira tão antiga quanto o Oldwalls, e sua ressonância para os místicos antigos pode atrair o potencial inexplorado daqueles que carregam seu sangue. Este token em particular parece sobrenaturalmente escuro, seus detalhes silenciados e encobertos mesmo quando examinados perto de uma fonte de luz.
+
+A compra deste item concede a Kills-in-Shadows o aprimoramento Infused Shadows, mas não altera a história ou a progressão da missão. Essa ação não pode ser desfeita.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1976</ID>
+      <DefaultText>Pergaminho de Oldwalls</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1977</ID>
+      <DefaultText>Você descobriu este pergaminho antigo nas profundezas do Ferida do Bastardo Oldwalls, mas não consegue decifrar a notação impressa nele. Um pesquisador recrutado pode ajudá-lo a determinar suas origens e significado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1978</ID>
+      <DefaultText>Grandes serpentes agitam os mares da costa do Camadas. Em uma ostentação de sua riqueza, uma nobre de Último porto encomendou um bracelete em escala de safiras, tomando como inspiração os contos das feras sob as ondas. O fecho é habilmente obscurecido pelas gemas sobrepostas, dando à peça a impressão de uma serpente infinita enrolada no pulso. Ao longo dos anos, Escamas Cerúleas conquistou uma reputação própria. Contos afirmam que aqueles que o usam podem resistir a qualquer tempestade - ou convocar uma tempestade própria.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1979</ID>
+      <DefaultText>Frasco de Água Inexplicavelmente Pesada</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1980</ID>
+      <DefaultText>Este frasco de água cristalina é muito mais pesado do que um frasco de água pura tem o direito de ser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1981</ID>
+      <DefaultText>Equipe do Wagstaff</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1982</ID>
+      <DefaultText>Jaspos [url=glossary:armor]armaduras[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1991</ID>
+      <DefaultText>Coração de Devastação</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1993</ID>
+      <DefaultText>Você reuniu essa poeira pulsante e quase etérea de energia cristalizada dos restos dispersos do Devastação na Ferida do Bastardo. Quando mantido perto, você quase pode ouvir a 'canção' sussurrante daquele Maldito no limite da audição. Seu zumbido constante mantém você focado e acordado, mas deixa você distraído de ataques que você poderia ver chegando.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1995</ID>
+      <DefaultText>Falange</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1996</ID>
+      <DefaultText>Devido a um pequeno erro de cálculo em sua criação, Phalanx é um pouco mais longa que as lanças regulamentares. Os soldados da Legião o passam entre as fileiras como recompensa pelo desempenho excepcional, valorizando em vez de rejeitar suas excentricidades, adotando-o como uma quebra de conformidade inofensiva.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1997</ID>
+      <DefaultText>[url=glossary:armor]armaduras[/url] como este é favorecido por ladrões que fazem uma fuga ousada. Bolsos profundos costurados com acolchoamento espesso permitem que os anéis viajem sem tilintar, e o tecido é adaptado com flexibilidade em mente. A liberdade de movimento oferece ao cutpurse espaço para atacar inesperadamente, visando as fragilidades de um oponente para uma morte eficiente.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\01_cv_elia_campsecured</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Elia acena para você, seu rosto mostrando a sugestão de um sorriso agradecido. "Menos do que eu esperava. Parece que sua força total ainda não chegou." Seus olhos se movem rapidamente sobre os inimigos caídos, procurando por rostos familiares. 
+
+"Nenhum comandante aqui. Droga." Algumas buzinas distantes perfuram o vento do sul. "Isso é provavelmente o resto. Podemos esperar muito mais do que o ataque inicial!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Nós não sobreviveremos ao dia se ficarmos aqui. Nossas muralhas foram comprometidas, e os ventos ficam ainda mais fortes." Ela aponta para o norte, passando pelos restos retorcidos do portão. "Isso é nossa única rota. Teodor enviou homens para segurar o ferro-velho do norte. Temos uma chance com eles, mas somente se agirmos agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Problemático. Se o [url=glossary:disfavored]Desfavorecido[/url] fosse enviado para um ataque sem um comandante, o movimento teria que ser uma tática de protelação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Ajude-me mais uma vez, e eu lhe direi o que sei sobre entrar Posto de Sentinela." Ela faz uma pausa para tocar a ponta de sua lança. "Você deve ter cuidado - nós prendemos o terreno ao norte do acampamento. Pise levemente e rally para o planalto noroeste. Se derrotarmos os soldados estacionados lá, teremos uma rota de fuga clara."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"E você e seus soldados?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Muito bem. Eu vou agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Faremos curativos nos feridos e facilitaremos a passagem daqueles que não podem seguir. Não estamos em condições de acompanhá-lo - não depois daquele ataque."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Vinculador do Destino, temos pouco tempo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Mais uma coisa, Vinculador do Destino. Nem todos os meus homens conseguiram ficar atrás dos muros após o ataque inicial. Minha esperança é que eles estejam escondidos nos desfiladeiros do norte e ainda bem o suficiente para viajar. Se você encontrar alguém da minha tripulação, dê a eles uma chance de escapar enquanto ainda há tempo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Reconsidere o plano. Você está fraco demais para deixar essas paredes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Ela ri. "Você pode estar certo. E ainda não há como voltar atrás agora. Não para nós, de qualquer maneira. Somos uma raça teimosa. Você já deve saber muito sobre o [url=glossary:unbroken]ininterrupto[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

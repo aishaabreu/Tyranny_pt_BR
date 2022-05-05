@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\08_vendrienswell\08_cv_scarletchoruscamp_gateguard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A guarda coloca as mãos no cinto quando você se aproxima, segurando o cabo de uma lâmina.
+
+"Após este ponto é Refrão território, e você não parece um recruta de alguém.... Você tem certeza que está dentro o lugar certo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Eu sou [Player Name], Fatebinder de [url=glossary:tunon]Tunon[/url]. Estou aqui para ajudar a derrotar os infratores."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Você sabe... acho que me disseram para esperar alguém, mas... você parece muito feia para ser ele." Seus lábios se curvam em um sorriso. "Por que exatamente eu deveria deixar você entrar?"</DefaultText>
+      <FemaleText>"Você sabe... acho que me disseram para esperar alguém, mas... você parece muito feia para ser ela." Seus lábios se curvam em um sorriso. "Por que exatamente eu deveria deixar você entrar?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>O guarda observa você friamente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Fatebinder! O Quinto Olho já partiu para o [url=glossary:disfavored]Desfavorecido[/url] Acampamento. Ele encontrará você lá."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Fatebinder! O Quinto Olho já partiu para o [url=glossary:disfavored]Desfavorecido[/url] Acampamento. Ele encontrará você lá."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Fatebinder! O Quinto Olho pediu você, é urgente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Estou sempre no lugar certo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Ela sorri e balança a cabeça em silêncio por vários segundos.
+
+"Justo," ela gesticula por cima do ombro, "Entre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Estou aqui para ajudar a evitar que todos nós morramos. Afaste-se."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Aproxime-se, empurre-a para baixo.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"E eu estava esperando um [url=glossary:scarlet chorus]Coro Escarlate[/url] guerreiro, não uma criança pedindo uma surra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Antes que ela possa sacar sua lâmina, você avança, coloca seu pé atrás dela e lhe dá um forte empurrão no ombro. Pego desequilibrado, ela cai para trás, provocando uma gargalhada no outro guarda.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Eu não posso acreditar que você zombou do Vinculador do Destino - você é um idiota estúpido. Eu não disse que tínhamos um convidado especial chegando?!"
+
+O guarda acena para você com um sorriso. "Entre. E não deixe que os babacas do acampamento lhe dêem qualquer bobagem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Sim, sim, tudo parece muito importante." O guarda acena preguiçosamente para você entrar. "Entre, apenas observe seus passos por aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>A guarda olha para você por um longo momento, limpando a garganta enquanto ela tensiona sua postura.
+
+Finalmente, ela acena com a cabeça para o lado, gesticulando para você entrar. "Entre, apenas observe seus passos por aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Você é o Vinculador do Destino, certo?" O guarda o examina com uma careta pensativa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Pensei que ele fosse mais alto, mas é ele."</DefaultText>
+      <FemaleText>"Pensei que ela fosse mais alta, mas é ela."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Estes são coro motivos, indique sua empresa ou se perca."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>O guarda fica tenso, travando os olhos com você. "Que um pedaço de ferrugem ambulante... o que ele, ela, talvez esteja fazendo aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Multar, apenas entre. Tenho certeza de que o Fúria vai estripá-lo se você for realmente um problema." A guarda acena sem entusiasmo enquanto acena para Versículo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Seu idiota! Este é o Vinculador do Destino! [url=lore:conq_gatecrasher]Ele está conosco desde o maldito começo - até derramou sangue no Portões do Julgamento![/url] Peixe novo! Começar aprender os nomes e rostos ou encontrar trabalho como alvo móvel de alguém."</DefaultText>
+      <FemaleText>"Seu idiota! Este é o Vinculador do Destino! [url=lore:conq_gatecrasher]Ela está conosco desde o Portões do Julgamento![/url] Peixe novo! Começar aprender os nomes e rostos ou encontrar trabalho como alvo móvel de alguém."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"E mais importante, o que essa tonelada de ferro está fazendo aqui?" O guarda gesticula para Barik com um sorriso de escárnio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>A guarda balança a cabeça, corando de vergonha. "Sinto muito. Agora, por favor, entre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Ele é um guerreiro aliado e meu guarda. Você não quer fazer disso um problema."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"O [url=glossary:disfavored]Desfavorecido[/url] achou que eu precisava de um cuidador e não queria ferir seus sentimentos.'</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Repreenda-me se você deve ganhar o favor da turba fedorenta, mas estaríamos melhor servidos não desperdiçando nosso tempo apelando para todos os lacaios do acampamento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Sério agora? Deixe-me adivinhar - você é um deles Vinculadores do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Eu não disse que tínhamos um convidado especial vindo? Esse não é apenas um Vinculador do Destino, [url=lore:conq_gatecrasher][Player Name] aqui vai muito longe. Estive lutando conosco desde o Portões do Julgamento[/url] - mostre um pouco de respeito." O guarda gesticula para você entrar no acampamento. "Entre, um veterano como você é sempre bem-vindo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Tente tirar o capacete se quiser fazer beicinho. Continue. Vamos esperar."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

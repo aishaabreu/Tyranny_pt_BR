@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\vx1\vx1_00_cv_act3_companion_interjection</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Eu sei que você tem uma ou duas coisas no seu prato, mas se você puder arranjar algum tempo para mim, um passarinho nos trouxe algumas notícias interessantes. E eu odiaria ter que ir esfaquear pessoas sem você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Arconte! Precisamos falar antes que isso vá além do que já foi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Encontrei algo interessante nesses Crônica fragmentos. Quando você tiver um momento, talvez possa satisfazer minha curiosidade."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

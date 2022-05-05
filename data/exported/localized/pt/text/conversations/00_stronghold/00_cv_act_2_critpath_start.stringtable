@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\00_cv_act_2_critpath_start</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Você sentiu isso?" Lantry assina um longo sigilo no ar, apertando os olhos para você enquanto trabalha seu truque. "As ondulações estão por toda parte. Quando você se move, a magia deste lugar se agita e se agita. Aquele portal ali, aqueles braseiros em chamas - todos ficam mais intensos à medida que você se aproxima. Acho que está respondendo à sua presença."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Antes de nos adiantarmos, vale lembrar que você acabou com [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url]. Isso não é pouca coisa. Talvez sua conexão com este lugar esteja relacionada? Ou maneira, soa como algo para a mente arcana investigar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Nó do banco3</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Odeio interromper a confusão, mas você acabou de resolver um dos [url=glossary:kyros]Kyros[/url]' Editais, que é pelo menos tão notável quanto subir um Pináculo. Eu sou o único que acha que eles podem estar relacionados?" Barik planta os pés e cruza os braços. "Como titular legal deste Pináculo, é seu dever descobrir o máximo possível. Isso inclui entender Editais também. Se você esquecer suas responsabilidades, ficarei feliz em lembrá-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"A julgar pelo que acabou de acontecer, uma de duas coisas aconteceu. Terminar o [url=glossary:edict]Edital[/url] resultou em uma espécie de reação, ou [url=glossary:ascension hall]Salão da Ascensão[/url] tinha algum antigo encantamento adormecido. Talvez ambos? Parece devemos estudar mais de perto este e outros Pináculos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Eu sei que você está ocupado com o peso do Camadas pesando em seus ombros, mas vamos apontar este navio de volta ao seu rumo - você resolveu um [url=glossary:edict]Edital[/url]. O significado, simplesmente... não é..." Lantry procura entre seus papéis e encontra vazio. "Nós vamos, realmente não há comparação. E ascender ao topo de um Spire? Não posso deixar de sentir que essas ações estão relacionadas e devemos saber mais sobre elas o mais rápido possível."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Estranho..." Eb enrola os dedos e desenha um sigilo rápido no ar, então estuda como ele desaparece. "A magia deste lugar responde a você. O portal, os braseiros - tudo fica mais vibrante quando você se aproxima."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Apesar das coisas que você viu e entendeu apenas vagamente, uma verdade é inegável - você resolveu [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url], a mesma que você proclamou em [url=glossary:vendrien's well]Poço de Vendrien[/url]. Isso não é tarefa fácil, e agora aqui você está no cume de um Pináculo. 
+
+A possibilidade de que esses eventos estejam conectados tanto o arrepia quanto o excita. Acima de tudo, você quer saber mais sobre Editais, Pináculos e como você se envolveu inextricavelmente em ambos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Sem dúvida, você tem muito a relatar para [url=glossary:tunon]Tunon[/url]. Enquanto você se encontra com os Arconte, Florian, Sibila, e eu cuidarei dos feridos e salvaremos o que pudermos dos Arcontes' campos de guerra. Nos encontraremos em [url=glossary:ascension hall]Salão da Ascensão[/url]... desde que o Arconte da Justiça não o execute por nos ajudar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Certifique-se de me ver depois de sua audiência com [url=glossary:tunon]Tunon[/url]. Não podemos deixar o [url=glossary:scarlet chorus]Coro Escarlate[/url] ganhar o Camadas. Juntos vamos limpá-los da terra." "Venha a mim assim que puder, Vinculador do Destino. Temos muito trabalho a fazer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Fale comigo depois de ver [url=glossary:tunon]Tunon[/url], Vinculador do Destino. O [url=glossary:disfavored]Desfavorecido[/url] precisa mostrar seu lugar - se um cachorro agir, você usa uma mão firme para colocá-lo de volta no chão." "Se quisermos ter sucesso no Camadas , devemos trabalhar rapidamente. Estarei esperando."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,473 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\vx1\vx1_09_cv_cassandra</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>91</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Um pequeno grupo de [url=glossary:forge-bound]Forge-Bound[/url] se reúne em torno de uma mulher mais velha de cabelos grisalhos. Mechas azuis tatuadas descem da linha do cabelo, pousando em um par de sobrancelhas permanentemente fixadas em uma expressão severa. Ela agarra um pedaço de jaspe e o golpeia várias vezes com um pedaço afiado de obsidiana. "O movimento deve parecer rítmico enquanto você trabalha a pedra, tão mundano quanto a respiração."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Vinculador do Destino, precisa de mais alguma coisa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Você tem cabelo? Achei que todos os [url=glossary:forge-bound]Forge-Bound[/url] rasparam a cabeça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"pensei Jaspos era o Mestre do Knapping."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Ela permite um sorriso por um breve momento. "Raspei minha cabeça quase todos os dias da minha vida... Acho que ganhei um adiamento." Ela dá um leve tapa na nuca de um aprendiz enquanto ele se ajoelha para trabalhar. "Esses idiotas não têm esse luxo. Temos essas tradições por uma razão. Se você entrasse em uma forja o dia todo, você saberia que não deveria deixar crescer um tufo de pavios em sua cabeça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Jaspos? Achei que os oficiais do Tribunal seriam mais bem informados, Vinculador do Destino. Só pode haver um Mestre de Knapping por vez. Ainda não sou um cadáver, apesar dos desejos de meus aprendizes, então o título permanece comigo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Então, qual é a classificação Jaspos se ele não é um mestre?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Por que estamos falando de Jaspos? O único título que ele pode usar é Mestre da Arrogância. Ele era um aluno bastante obediente, mas ouvi as jactâncias que ele fez aos meus aprendizes em particular. Ele aprendeu rapidamente, eu admito, mas ele estava muito longe de atingir qualquer tipo de maestria."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Demora pelo menos uma década de trabalho consistentemente impressionante antes que o Guilda permita que o título de Mestre seja cogitado. Se eu cair morto amanhã, há uma dúzia de outros mais qualificados para herdar meu título."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Ela solta um longo suspiro, seus olhos se estreitando enquanto seu lábio superior se contrai. "O que deu a você essa noção de que Jaspos é o Mestre do Knapping?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Como você veio parar aqui em South Haven?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Como Mestre do Knapping, é meu dever construir as forjas que mantêm os outros ocupados. Bronze e ferro são a marca Guilda, mas a pedra é a base. Quando [url=glossary:kyros]Kyros[/url]' a conquista começou, meus parentes seguiram os exércitos até os Tiers e eu liderei os esforços para construir [url=glossary:lethian's crossing]A travessia de Lethian[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Com nossa tarefa no Cruzando concluída, não havia nada a fazer além de voltar para casa. Eu mal fiz a longa marcha para o sul, então decidi ir em direção ao porto mais próximo - bem perto daqui - e planejei pegar um barco de volta para casa. Mas a jornada aqui foi difícil. Bandidos da Irmandade nos emboscaram na estrada." Seus olhos se estreitam com a memória, e ela esfrega o lado esquerdo de seu abdômen. "Elas gostou de nossos implementos de forja e achou justo o pagamento pelo uso da estrada. Eu recusei, e nós os acertamos com nossos martelos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Deixar] "Tenho que ir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Jaspos reivindicou esse título para si mesmo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Mentira] "Apenas uma reclamação equivocada feita por um comerciante no Cruzando. Meus dados claramente não estão em ordem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Mãe. Idiota." Ela pega um martelo e o esmaga contra uma parede próxima, enviando fragmentos para voar. "A ousadia daquele homem. Eu colocaria a cabeça dele como exemplo, se ele estivesse aqui." Ela bate na parede novamente para garantir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Estou aqui para recuperar Jaspos' ferramentas de corte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Um erro ridículo, mas... não se pode esperar que os Tiersmen médios entendam os meandros dos caminhos. Muito bem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"O que te faz pensar-" Seus olhos se arregalam em reconhecimento. "Ah, entendi." Ela range os dentes e faz uma careta. "Suspeito que ambos estamos sendo usados."
+
+"As ferramentas em questão são minhas - dadas a mim por Mestre da Forja Zdenya anos atrás em homenagem ao meu semicentenário com o Guilda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Depois que saímos [url=glossary:lethian's crossing]A travessia de Lethian[/url], notei que o conjunto estava incompleto - vários martelos e cinzéis, uma das minhas melhores lupas - tudo faltando. Na época, presumi que a culpa era minha. O caminho para South Haven não foi isento de problemas, e presumi que havia perdido as coisas durante o embaralhamento. Eu nunca teria imaginado que Jaspos iria roubá-los de mim, de seu próprio mestre!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Se meus joelhos ainda fossem bons para correr, eu perseguiria aquele ancinho ingrato e pulverizaria seu esqueleto um osso por vez." Sua raiva parece desaparecer com um encolher de ombros e um sorriso. "E eu suponho que fazer ferramentas é o que eu faço de melhor... não como se eu não pudesse substituir o que foi perdido, mas... essas ferramentas foram um presente - e nem mesmo eu posso criar sentimentalismo com rock."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"O que torna essas ferramentas tão especiais?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Zdenya os criou como parte de uma série de trabalhos inspirados em algum estudo pré-guerra sobre o Lançadores de maré e seus modos. Ela assumiu a responsabilidade de passar um ano trabalhando apenas com os cristais e metais que o 'Rodízios usava em seus projetos. Minhas ferramentas foram algumas de suas melhores peças que vieram daquele ano de experimentação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Na verdade, posso me sair bem com ferramentas 'menores'. Por mais que eu adore o conjunto Zdenya feito para mim, ninguém consegue fazer uma alça para caber na minha mão como eu." Ela pega um pequeno martelo e o gira em sua mão. "Mas se Jaspos acha que pode reivindicar o resto das minhas ferramentas e fingir grandeza... aquele desgraçado ingrato está morto para mim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Preciso dessas ferramentas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Ela se move na frente de uma mesa próxima, protegendo os implementos de pedra da vista. "Não. Vinculador do Destino. Você não tem direito a isso, a menos que queira desafiar Zdenya ela mesma." Ela coloca a mão em um grande martelo preso ao cinto. "Eu lhe disse a verdade sobre o assunto, e vou fazê-lo novamente antes de [url=glossary:tunon]Tunon[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[Ataque] "Se você deseja perder sua vida por causa de um conjunto de tarugos e martelos, que assim seja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"[url=glossary:forge-bound]Forge-Bound[/url], para mim!" Imediatamente, o telhado ganha vida, martelos brandidos e erguidos em um coro desafiador. "Você deve estar realmente louco para tirar sangue de ferramentas que nunca usará... agora venha, tente pegá-las!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Ela estala o pescoço com uma rápida inclinação da cabeça. "Eu quebrei uma costela ou três, e alguns outros do grupo ficaram feridos. Então, descansar em South Haven parecia sábio. Os habitantes locais eram excessivamente complacentes, e comecei a me perguntar se sobreviveria ao longo da viagem marítima para casa. Então decidi me estabelecer e ensinar aqui - nossa estadia temporária tornou-se bastante permanente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Eu tenho cinzéis mais velhos que ele - ele é muito, muito jovem para tal posição! É claro que ele tinha potencial - eu não instruiria ninguém que não tivesse - mas ele busca aprovação nas pessoas, e não em seu próprio ofício. Dificilmente a mentalidade de um mestre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Você conhece um homem chamado Capteron?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Capteron? Oh, pelo amor de Deus." Ela revira os olhos em uma súbita perda de compostura. "Um filhote apaixonado, se eu já vi um. Ele é útil com transporte e biscates, mas o suficiente com seu anseio sem fim! Não que ele já tenha experimentado o amor, pelo que posso dizer. Ele já passou da idade de ser pai, mas provavelmente não conseguiu encontrar uma vagina em um bordel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Mentira] "Eu não entendi a situação. As ferramentas devem permanecer com você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Obrigado, Vinculador do Destino." Ela relaxa visivelmente, assim como vários de seus aprendizes que rapidamente retornam às suas funções. "Estou feliz por podermos esclarecer este mal-entendido, e lamento que um dos meus tenha enganado você. Como seu instrutor, eu deveria ter percebido a falha em seus escrúpulos - a vergonha é minha que ele não tenha sido retirado de nossas fileiras antes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Diante de uma platéia extasiada de aldeões, Cassandra segura Capteron por cordas amarradas em suas mãos. "Povo de South Haven, diante de você está um criminoso, aquele que não viverá pelas regras da justiça comum! Capteron, por sua própria admissão, foi pego tentando roubar ferramentas de nossa loja. Tais atos prejudicam nosso trabalho, prejudicando a prosperidade de todos. Capteron é um adulto, mas em todos os seus anos ele não aprendeu a viver com os outros. Para deter seu furto e alertar outros que possam pensar em agir em seu exemplo, Capteron deve morrer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Com o rosto uma miserável confusão de lágrimas e muco pingando, Capteron engasga e arfa, mal capaz de balbuciar um apelo. "Por favor! Eu cuido de você! Acreditareu. Eu nunca faria nada para prejudicá-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Quieta!" Cassandra silencia a prisioneira com um pesado revés. "Conheça seu destino com alguma medida de dignidade."
+
+"Vinculador do Destino, peço desculpas por isso. Pela sua experiência, tenho certeza de que você sabe que o culpado dirá qualquer coisa para evitar julgamento. Este caso dificilmente vale o seu tempo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Seus bíceps musculosos se contraem para controlar a força de cada impacto, mantendo o jaspe notavelmente imóvel. "Ouço aos seus sentidos. Se a forma em sua mente não parece inevitável, então você está desperdiçando sua força E meu tempo." Percebendo sua aproximação, ela interrompe sua demonstração e acena para seus aprendizes. "Nós vamosContinuo depois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Vinculador do Destino. eu sou Cassandra, Mestre do Knapping. Os [url=glossary:forge-bound]Forge-Bound[/url] estão sob minha responsabilidade." Ela lhe concede um aceno superficial. "Sei que seu tempo é limitado e South Haven remoto demais para que esta reunião seja casual. O que posso fazer por você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Vinculador do Destino." Ela acena com a cabeça por hábito, uma cobertura pobre para seu tom de desprezo. "Pensei que nosso negócio com você tivesse terminado. Tudo o que ajudei a construir no Cruzando está adormecido, graças a você. Você deve ter vindo aqui para um propósito específico, então o que você quer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Ele principalmente mantém suas afeições para si mesmo, felizmente. Ele é inofensivo e sempre complacente se você gritar alto o suficiente. Você gosta de homens covardes? Tenha com ele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"A Guilda agirá sobre isso. Fazer uma afirmação falsa como essa é uma grave ofensa aos nossos caminhos. Assim que puder, escreverei uma missiva aos meus superiores. Sua arrogância será disciplinada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Vinculador do Destino, fique atento. A forja foi invadida ontem à noite e minhas ferramentas de graveto foram roubadas." Ela faz uma careta, mal conseguindo conter sua fúria. "Aquela Irmandade covardes fariam algo assim... sem dúvida para me irritar por matar alguns deles, anos atrás! Vou ter que dobrar a vigília à noite agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Sobre Capteron..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Ela te olha incrédula. "O que sobre ele agora?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Você já pensou em dar a ele uma chance de conhecê-lo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Ele não está seguindo em frente. Deixe-o saber que ele não tem chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Ele está disposto a ajudá-lo com qualquer coisa. Talvez você possa transformar seu desejo estranho em amizade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Ela apalpa o rosto, enojada com o pensamento. "Que simplório? Claro que não. Não estou aqui para romance, e certamente não com o idiota da vila." Ela solta um longo suspiro. "Estou, no entanto, perfeitamente disposto e capaz de matar as afeições de alguém. Geralmente não leva mais do que algumas conversas. Da próxima vez Eu vejo Capteron chorando por perto... talvez eu tenha uma conversa com ele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Ela faz uma careta, mas acena com a cabeça em resposta. "Não é assim que eu quero gastar meu tempo, mas admito que seu desejo é doloroso de assistir. Apesar das aparências, não sou uma pessoa cruel. Vou deixar as coisas claras para ele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Isso é um absurdo. Tenho habilidades para transmitir a uma nova geração e as afeições deste simplório não são minha preocupação. Não vou negar que ele tenta ser útil. Se... permitir-lhe mais algumas tarefas e dar-lhe uma palavra gentil de vez em quando ajudar, então que assim seja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"É um detalhe que surgiu como parte de uma investigação minha. Não posso dizer mais nada sobre o assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Se isso for verdade, alguém deve ser informado sobre-" ela interrompe seu pensamento com o punho cerrado. "Se for verdade que Jaspos está reivindicando tais coisas, saiba que é uma ofensa punível no [url=glossary:forge-bound]Forge-Bound[/url] Guilda. Quando você estiver... mais livre para discutir o que sabe, por favor, traga isso à atenção Guilda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"ferramentas de Jaspos?! O que tipo de bobagem é isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Ele tem um conjunto de ferramentas bastante elaborado que foi deixado no Cruzando, correto? Estou aqui para coletá-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Boa pergunta. Estou começando a suspeitar que fui enganado. E acho que as únicas ferramentas aqui são as suas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Eu sei que ele tinha um conjunto de ferramentas muito requintado. Estou procurando reuni-los."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Fale com sinceridade.] "Eu não entendi a situação. As ferramentas são suas por direito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Obrigado, Vinculador do Destino." Ela relaxa visivelmente, assim como vários de seus aprendizes que rapidamente retornam às suas funções. "Estou feliz por podermos esclarecer este mal-entendido, e lamento que um dos meus tenha enganado você. Como seu instrutor, eu deveria ter percebido a falha em seus escrúpulos - a vergonha é minha que ele não tenha sido retirado de nossas fileiras antes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Eu tento não dar muita importância ao fato de ter ferramentas inspiradas na Tierman magia, mas... elas são as melhores que já usei. Acho que a ideia é que parte da energia do luar permaneça presa no lado comercial das ferramentas. Tudo o que sei é que, com eles em mãos, posso trabalhar mais rápido, com mais precisão e força."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Para comemorar meus cinquenta anos com o Guilda, Zdenya me fez um conjunto de ferramentas do mais requintado artesanato. Sem dúvida, é isso que Jaspos tem em mente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Não sei exatamente como posso ajudá-lo com essa situação, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Deixar] "Isso é tudo que eu precisa saber. Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Sobre essas ferramentas..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Desculpe Fatebinder, não vou me desfazer do que resta do set. Fim da discussão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"A [url=glossary:forge-bound]Forge-Bound[/url] me responde. Isso significa que você responde para mim. Se uma solicitação educada não funcionar, farei dela um comando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Assim seja." Tomando pouco cuidado para empurrar as outras ferramentas na bancada, Cassandra recolhe vários cinzéis e martelos. "Se esta é a SUA Guilda, então acho que você pode tirar as ferramentas do SEU Mestre - talvez você também goste de cagar em seu próprio ensopado." Ela enrola as ferramentas em uma bolsa de couro e enfia o pacote em sua direção. "Agora vá embora! Tenho ferramentas de reposição para a moda e não consigo me concentrar com você por perto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Permaneça em silencio.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>[Acene silenciosamente, continue andando.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Tudo aqui parece em ordem. Continue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Obrigado, Vinculador do Destino, mas eu cuido disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Não! Por favor! [url=glossary:kyros]Kyros[/url]me ajude!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Tolo! Não arraste [url=glossary:kyros]Kyros[/url]' bom nome para o seu erro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Se houver uma execução, esse é o meu domínio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Seu idiota! Você insistiu que eu-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Vinculador do Destino, você está totalmente correto." Ela dá um tapa em Capteron antes de descer e trocar de lugar com você no estrado. "Sou excessivamente zeloso em minha administração desta cidade. Perdoe-me, a justiça é o seu trabalho, e eu nunca interferiria na arte de outro artesão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>[Fale sobre ele.] "Capteron, pelo crime de roubo do [url=glossary:forge-bound]Forge-Bound[/url], você representa uma ameaça material ao sucesso logístico desta guerra. Sua sabotagem irá reivindicar vidas. O primeiro deles será seu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[Deixe-o falar.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>[Executá-lo.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Você insistiu que eu roubasse! Vocês! Você!" Lágrimas escorrendo pelo rosto, Capteron gagueja sobre si mesmo com impotência e raiva. "Você fez... me fez fazer isso! Você!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Um silêncio se instala no centro da vila, e apenas de Capteron soluços podem ser ouvidos sobre o silêncio ensurdecedor de sua contra-acusação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[Permaneça em silencio.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Covarde!" O silêncio é finalmente quebrado por de Cassandra grito penetrante. "Como você ousa manchar a Fatebinder honra?"
+
+"Vamos [Player Name], estou cansado de ouvir esse camponês mentiroso vomitar falsidades. Acabe com isso!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Não! Por favor, não!"
+
+Capteron cobre o rosto enquanto você desfere um golpe no pescoço dele. Ele agarra o pescoço, com os olhos arregalados de choque, antes de tropeçar em uma pilha de espasmos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[Permaneça em silencio.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Foi ela!" Capteron aponta a cabeça para Sirin. "O Arconte! O Fatebinder disse a ela para cantar para mim e então... oh [url=glossary:kyros]Kyros[/url] me ajude! Eu não queria fazer isso!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"O Vinculador do Destino me fez fazer isso! Nada aconteceu até ele chegar na cidade! Eu nem sabia por que ele queria suas ferramentas, só sabia que tinha que roubá-las... senão!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Juro por [url=glossary:kyros]Kyros[/url] - não foi ideia minha! Achei que tinha que seguir as ordens Fatebinder ou todos pereceríamos!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Olhos fixos nos seus, o rosto de Cassandra se derrete em uma carranca chocada enquanto de Capteron palavras afundam. "O que tipo de piada distorcida é essa?"
+
+Você vê a mão dela se mover em direção ao martelo em seu cinto, e você ouvir gritos de 'mate o Vinculador do Destino' da multidão atrás de você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"E... era o Vinculador do Destino. Ele me forçou a fazer isso!"</DefaultText>
+      <FemaleText>"E... era o Vinculador do Destino. Ela me forçou a fazer isso!"</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

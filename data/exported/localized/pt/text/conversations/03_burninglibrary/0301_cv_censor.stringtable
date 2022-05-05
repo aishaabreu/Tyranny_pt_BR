@@ -1,0 +1,692 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\03_burninglibrary\0301_cv_censor</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>122</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ah, se não for o Vinculador do Destino de [url=glossary:tunon]Tunon[/url]. Que surpresa inesperada! Eu sou o Censurar e bem vindo ao meu acampamento. É bom ver um rosto familiar." A voz da mulher carrega um tom genial que não chega ao fim em suas palavras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Fiquem com suas armas. Esta é [url=glossary:tunon]Tunon[/url]'s Vinculador do Destino." 
+
+O Censor faz um movimento rápido para seus soldados, então faz uma pausa para olhar você de cima a baixo. 
+
+"E que prazer complicado é encontrá-lo em meu acampamento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Por que você não me diz o que está fazendo aqui, e veremos como isso acontece?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Estou aqui pelo Arquivo Silencioso, não por nenhum de vocês."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Ataque] "Eu não preciso de você ou do seu joguinho. Vou pegar o Arquivo Silencioso para mim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Estamos sob ataque! Mate o Fatebinder - jogue-se nele se precisar!"</DefaultText>
+      <FemaleText>"Estamos sob ataque! Mate o Fatebinder - jogue-se nela se precisar!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Agora, por mais que eu goste de entreter sua companhia, preciso que todos os homens e mulheres aqui continuem vasculhando o Biblioteca. Se você me der a honra de se tornar escasso, posso me concentrar em assuntos mais importantes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Você está convidado a entrar na biblioteca - desde que concorde em jogar de acordo com as regras da competição." 
+
+Ela ri de emoção.
+
+"Se você quiser encontrar o Arquivo Silencioso, você deve pegar participe do meu jogo também."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"O que é o Arquivo Silencioso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Conte-me sobre esse seu jogo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"O Arquivo é o Sábios' tesouro mais guardado, guardado em uma grande câmara que se acredita conter mais conhecimento do que todos os Camadas combinados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Nossos batedores têm motivos para acreditar que ele sobreviveu. Alguma magia impede que a biblioteca seja engolida pelo fogo, então talvez ela também proteja o Arquivo Silencioso."
+
+"Viemos para destruir o Arquivo em [url=glossary:kyros]Kyros[/url]' nome."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Diversos [url=glossary:scarlet chorus]Coro Escarlate[/url] equipes foram despachadas para as ruínas do Biblioteca, cada uma com alguns Sábios para servir como guias. A equipe que completar a senha, atravessar a barreira e obter acesso ao Arquivo Silencioso enfrentará glória e recompensa. Os outros?" 
+
+Ela passa um dedo pela garganta. 
+
+"Apenas um pode ter sucesso. Se você deseja participar da alegre caçada, você será mais um time correndo contra os outros. Embora você não receba nenhum Sábios, é claro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Concordo com as regras da competição."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Preciso de tempo para pensar antes de participar da competição."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Faça o que você gosta. Até que você concorde com as regras da competição, você terá acesso limitado ao acampamento. Não teste minha hospitalidade, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Você tem Sábios trabalhando com você. Como você conseguiu isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"O Coro pode ser mais persuasivo às vezes, e você sabe como gostamos de empregar... incentivos não convencionais." 
+
+Seu sorriso de lábios finos se alarga.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Estou aqui para pesquisar o Biblioteca. Deixe-me passar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Ataque] "Desculpe para recusar sua oferta hospitaleira, mas consegui todas as informações de que preciso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Absolutamente não. A Biblioteca é importante demais para deixar gente como você entrar." 
+
+"Não tenho tempo para discutir mais o assunto. Você é livre para sair. Se você se aprofundar no meu acampamento, encontrarei uma maneira mais conveniente de lidar com você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Deixar] "Muito bem, vou embora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Ela franze a testa e considera suas palavras. 
+
+"Como você sabe sobre... oh, não importa. O Arquivo Silencioso é um assunto Refrão a ser tratado em nossos termos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>[Deixar] "Estou de passagem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Nem mesmo esses estudiosos conseguiram encontrar as peças para nós. Ainda não, de qualquer maneira. " Ela aponta para um próximo [url=glossary:sage]Sábio[/url], que está com a cabeça baixa de vergonha. "Então, dei um incentivo a todos e fiz um jogo com isso!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Infelizmente, devo dizer que não posso entretê-lo adequadamente no momento. Você veio em um momento muito ocupado para mim! Nós somose fazendo um empurrão ousado para explorar as Biblioteca profundezas." 
+
+"No entanto, antes de terminarmos nossas gentilezas, você pode satisfazer minha curiosidade. Por que você está aqui?" Com sua pergunta, sua voz fica monótona e assume um tom acusatório.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Leve o tempo que precisar, embora o Arquivo Silencioso não espere para sempre." 
+
+"Você é livre para se ocupar no acampamento. As ruínas estão fora dos limites até que você concorde com os termos da competição."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Bem-vindo de volta, Vinculador do Destino. Você está disposto a cumprir as regras da competição?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Vinculador do Destino. Você permanece no acampamento apenas para me provocar, ou você realmente quer alguma coisa?"
+
+Os soldados que ladeiam o Censurar mudam de peso e ficam de olho em você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Saudações, Vinculador do Destino. Imagino que você ainda esteja aqui porque ainda não descobriu o Arquivo Silencioso. O que você precisa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Fale-me sobre o [url=glossary:disfavored]Desfavorecido[/url] na região."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Fale-me sobre os Sábios da região."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Conte-me sobre o capturado [url=glossary:disfavored]Desfavorecido[/url] soldado, Jelena."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Conte-me sobre o capturado [url=glossary:sage]Sábio[/url], Folante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>[Deixar] "Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Conte-me sobre seus objetivos na região."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] quer o Arquivo Silencioso destruído. Provavelmente contém uma riqueza de conhecimento, mas não sou do tipo que dá valor a essas ninharias."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Os Sábios fez um grande esforço para evitar que o Biblioteca fosse engolido pelo dilúvio de fogo, e não foi apenas por alguns tomos empoeirados. Qualquer que seja o arquivo casas devem ser valiosas. Se [url=glossary:kyros]Kyros[/url] não puder tê-lo, garantiremos que o Sábios também não o possa recuperar." 
+
+"Certo?" Ela mira com atenção o Sábios de pé curvou-se.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Até agora, eles ainda não fizeram um impacto notável em nossos esforços. Eles não me preocupam particularmente."
+
+Sua expressão escurece. 
+
+"Um líder escoteiro intrometido - Maric - causou alguns problemas às minhas forças quando tentou se infiltrar no Biblioteca. Ele quase foi morto no esforço, então duvido que tenha notícias dele em breve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Maric e suas Juramento tropas invadiram as ruínas juntos, mas conseguimos capturar um deles - uma mulher chamada Jelena."
+
+"Murmúrio Sujo passou algum tempo 'falando' os fatos dela, e ela foi prestativa o suficiente para desistir das localizações de seus aliados. Infelizmente, Maric nos escapou, mesmo que apenas pela pele de seus dentes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Estamos mantendo ela viva no momento - não é uma prática padrão do Refrão, eu sei, mas há uma boa razão para isso. Como ela pode detectar seus compatriotas usando sua afinidade Juramento, ela deveria nos alertar se eles chegarem perto do acampamento."
+
+Ela encolhe os ombros. "E se ela não o fizer, nós a mataremos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Ela fecha os olhos por um momento. 
+
+"Sua lealdade a este inferno é louvável, se mal orientada. Nenhum esforço da minha parte foi gasto pegando Sábios pela nuca enquanto eles tentam retornar ao seu precioso Biblioteca."
+
+"Seu líder, Renata, é particularmente incômodo, e parece tem uma vingança contra mim. Estou ansioso pelo dia em que ela deixará de ser uma variável de preocupação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Sua ameaça contínua também não torna mais fácil para nós manter o controle sobre os Sábios que escravizamos à nossa causa."
+
+Ela olha para um dos estudiosos próximos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Até pegamos um [url=glossary:sage]Sábio[/url] disfarçado de Corista. Ele estava tentando libertar seus irmãos, mas fez um péssimo trabalho ao vender a performance. Folant era seu nome."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Eu ficaria surpreso se ele ainda estivesse vivo neste momento, dado o entusiasmo com que Murmúrio Sujo levou ao seu interrogatório."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Estou convencido de que Folante sabe onde os Sábios estão escondidos. É apenas uma questão de tempo antes de quebrá-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Excelente! Normalmente, eu pediria para você provar sua honestidade e lealdade ao Refrão, mas suas ações em outros lugares já mostraram isso. Você é livre para entrar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Mas eu ainda pediria um favor a você. Meu assistente, Murmúrio Sujo, tem algo que precisa ser feito. Se você fosse tão gentil... Ele está em algum lugar próximo. Acredito que ele esteve recentemente ocupado 'conversando' com um dos prisioneiros."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Estou aqui pelo Arquivo Silencioso, não por nenhum de vocês."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Diga-me o que você sabe sobre o [url=glossary:edict]Edital[/url] de Incêndio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>O Censor ri, o som oco e ausente de qualquer alegria. "Por quê? Não é como se você fosse capaz de fazer qualquer coisa com a informação." Ela se aproxima de você. Sua respiração rançosa acaricia sua bochecha enquanto ela fala com você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Acredito que o Arquivo Silencioso, no coração do [url=glossary:vellum citadel]Cidadela de Velino[/url], nunca foi destruído." Ela diz isso quase de forma conspiratória. "Se isso for verdade, explicaria por que o [url=glossary:edict]edito[/url] está em andamento." Ela aponta para a entrada na parede da montanha. "Se alguém fosse lá e removesse o Arquivo Silencioso da biblioteca, estou disposto a apostar que poderia ser usado para cumprir o [url=glossary:kyros]Kyros[/url]' will."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>[Ataque] "Infelizmente para você, é hora de você morrer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Nerat me encarregou de recuperar o conhecimento das ruínas aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Ah, você deve estar se referindo ao Arquivo Silencioso. Eu esperava tê-lo recuperado já para evitar esse problema. Infelizmente, ainda não terminamos nossa busca."
+
+"Se seu objetivo é encontrá-lo, você deve saber que não é tão fácil apenas entrar lá e pegá-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Então passe e vá embora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Por que você faria isso? É minha tarefa cuidar das coisas aqui e não quero que você atrapalhe minha operação. Nerat não ficaria muito satisfeito se você chegasse ao Arquivo Silencioso antes de nós."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Você não entrará no [url=glossary:burning library]Biblioteca em chamas[/url] enquanto eu estiver aqui. Esta é a sua chance de sair com sua vida intacta. Eu sugiro que você pegue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>[Ataque] "Você não me deixa escolha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Não tenho nada a lhe dizer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Você provou ser o verdadeiro vencedor deste jogo, Vinculador do Destino. Sem a sua 'ajuda' no Biblioteca, meus homens certamente acabariam se matando de uma forma ou de outra."
+
+"Eu não sou tão tolo a ponto de pedir para você entregar o Arquivo Silencioso. Se as vozes pediu para você recuperá-lo pessoalmente, vou deixar para você entregá-lo a ele. Estou mais do que feliz em permanecer aqui, longe de seu olhar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Ele provavelmente não vai gostar de ouvir que a Biblioteca está em ruínas completas agora. Temo que eu possa estar sofrendo o impacto disso, então se você ficar de boca fechada sobre isso, eu também vou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Você até conseguiu manter o Biblioteca intacto... na maior parte. A Nerat ficará satisfeita com o nosso sucesso. Eu agradeceria se você pudesse informá-lo sobre meu papel nesse sucesso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Na realidade, Nerat quer que informemos a ele agora que coletamos o Arquivo Silencioso. Nós dois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>O Censor rosto inteiro cai e ela balança de volta em seus calcanhares, parecendo que ela está tentando fugir de suas palavras. "Ele... o quê?" Ela fica em silêncio por um momento e então continua, um tom falso de felicidade em sua voz.
+
+"Nós vamos, então. Eu poderia usar uma mudança de cenário. Meus olhos praticamente derreteram de ver o fluxo de lava." Ela olha para baixo. "Despedida, Vinculador do Destino." Agora há uma finalidade em seu tom. "Espero vê-lo de volta em Cacofonia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Eu não gosto de ser questionado, Censurar. Eu sou [url=glossary:tunon]Tunon[/url]Vinculador do Destino. Não preciso de desculpas - ou convites."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>O Censor fica quieto, imóvel. Depois de alguns momentos, seu corpo relaxa e o tom amigável volta às suas palavras. "Claro, Vinculador do Destino. Me desculpe. Parece que minha propensão à franqueza levou a melhor sobre mim. Novamente, bem-vindo!" Ela se curva rigidamente.
+
+"O que o traz ao meu acampamento?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Agora, o que [url=lore:fq_path_decision]Ashe's plaything[/url] quer com minha biblioteca? Não foi o suficiente para trair Nerat e ficar do lado daquele maníaco por controle? Você está aqui para tentar tirar isso também?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Agora, o que o [url=lore:fq_path_decision]traidor de Kyros[/url] quer com minha biblioteca? Não foi suficiente dar as costas ao seu mestre e ficar do lado desses canalhas desobedientes? Você está aqui para tentar tirar isso também?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Agora, o que [url=lore:fq_path_decision]o cachorro selvagem[/url] quer com minha biblioteca? Não foi o suficiente virar as costas para seu mestre e mijar em todos que te colocaram onde você estava? Você está aqui para tentar tirar isso também?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"A única razão pela qual instruí meus soldados a se conterem é por causa da operação sensível em andamento nas ruínas - uma que não pretendo perturbar. Os jogadores daquele joguinho têm o suficiente para se manterem ocupados."
+
+"Com isso dito, eu não hesitaria em matá-lo se fosse necessário. Então..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Estou bem ciente do papel que você desempenhou em [url=lore:bl_chain_of_command]convencer o Desfavorecido a manter suas posições enquanto recuamos[/url] durante a conquista do [url=glossary:vellum citadel]Cidadela de Velino[/url]. Muitos de nós sobrevivemos àquele dia por causa de suas ações." Sua cabeça se inclina para o lado enquanto ela considera você. "Normalmente, eu guardaria isso para mim, mas você merece algum agradecimento, não importa quão pequeno.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>Sirin bufa ironicamente. "Coro Típico. Nem um pingo de sutileza. Você sempre vem e atropela todas as coisas. Dor e tortura sendo usados como um jogo? Atroz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Não aja como se estivesse acima de tudo, garota. Se tivesse a chance, você não hesitaria em nos cantar de um penhasco."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Eu guardo minha voz para aqueles que realmente merecem...garota. E não se preocupe, estou compondo uma música especial só para você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"É interessante que as pessoas não entendam como motivar adequadamente seus subordinados. Se você não os mantiver ocupados, eles terão tempo para planejar. E isso nunca é bom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>O Censor ri em agradecimento, batendo palmas com alegria. "Esse é exatamente o tipo de motivação que eu esperava. Você não vê? Concorrência torna as pessoas mais fortes!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>Nó de script 219</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Vinculador do Destino, por que você está pensando em jogar esse jogo insano? Você só promove a causa do [url=glossary:scarlet chorus]Coro Escarlate[/url]! Por quê?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Concordo com as regras da competição."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Isto é o que faz lutadores fortes! Você não consegue ver que a adversidade o ajuda a crescer? Tudo está funcionando exatamente como deveria!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Sua escolha [url=lore:bl_lost_to_mountains]não enviar nossas tropas para limpar os erros do Desfavorecido[/url] resultou em minha tripulação ter alguns corpos extras. Suponho que devo a você meus agradecimentos por isso." Ela faz uma pequena reverência para você. "Você pode achar interessante saber que os corpos daquela tropa foram encontrados recentemente, mas meus homens não tiveram tempo de vasculhar completamente a área. Você pode encontrar algo interessante por aí, se estiver tão inclinado a escolher primeiro os espólios."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Eu teria uma tripulação maior para 'saudá-lo', mas [url=lore:bl_lost_to_mountains]sua decisão de enviar nossas tropas para encontrar o grupo Desfavorecido que não conseguiu encontrar o caminho com segurança pela encosta de uma montanha[/url] resultou em mais mortes de ambos os lados. Então, obrigado por isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Eu teria uma tripulação maior para 'saudá-lo', mas [url=lore:bl_lost_to_mountains]sua decisão de enviar nossas tropas para encontrar o grupo Desfavorecido que não conseguiu encontrar o caminho com segurança pela encosta de uma montanha[/url] resultou em mais mortes de ambos os lados. Então, obrigado por isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Ah, e eu me vigiaria por dentro, Vinculador do Destino. Seu tempo para decretar o [url=glossary:edict]Edital[/url] não poderia ter sido mais perfeitamente cronometrado." Ela ri alegremente.
+
+"Porque os sábios praticamente não teve tempo para se preparar para a destruição, há muitos poucas áreas que estavam completamente cobertas de lava. É uma pena termos perdido todos aqueles tesouros preciosos, mas toda guerra tem suas baixas, não é?" Ela ri novamente e acena para você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Ah, e eu me vigiaria por dentro, Vinculador do Destino. Enquanto eu, pessoalmente, não teria dado nenhum aviso aos Sábios, eles ainda não conseguiram se preparar completamente para a destruição." Ela ri alegremente.
+
+"Existem algumas áreas que foram completamente cobertas de lava antes que eles parassem o colapso do edifício. É uma pena termos perdido todos aqueles tesouros preciosos, mas toda guerra tem suas baixas, não é?" Ela ri novamente e acena para você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Você vai destruir o Arquivo Silencioso? Um artefato com 'mais conhecimento do que todos os Camadas combinados?'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Claro, Fatebinder! Afinal, é um conhecimento proibido! E não é como se Nerat não tivesse um plano." Ela para e se endireita. "Nunca medo. Lidaremos com o Arquivo Silencioso adequadamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Nerat se interessou particularmente por mim e meus... talentos e está trabalhando comigo para refiná-los."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Você acabou de sugerir - para um Vinculador do Destino - que pretende reter todo o conhecimento no Arquivo Silencioso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>Enquanto ela está falando com você, um dos Horda se aproxima dela com um pergaminho estendido diante dele. Ela tira isso dele, sua cabeça nunca virando para desviar o olhar de você. Há um breve clarão de luz azulada de sua mão e ela devolve o pergaminho para o Horda.
+
+"Pare de me trazer palavras que já peguei ou vou ter sua cabeça." Ela fala devagar, ainda olhando para você, mas a cada palavra, o Horda recua como se estivesse prestes a ser atingido. "Coloque-os em uma pilha separada para que você saiba que eu os tenho ou peça a alguém para lê-los para você. Se eu tiver que repetir a mesma missiva fútil mais uma vez, você vai se arrepender." A horda recua, murmurando desculpas profusamente como ele faz.
+
+Ela se dirige a você novamente. "Sinto muito que você tenha testemunhado isso. Agora, onde eu estava? Ah, sim - o Arquivo Silencioso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"O que aconteceu com aquela missiva? O que foi aquele flash de luz?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Não vejo como isso é pertinente. Mas, se você quer saber, você não é o único com talentos únicos nos Camadas, Vinculador do Destino. Nem todo mundo precisa usar os olhos para ler. Mandar-me para um Biblioteca parecia óbvio." Ela ri. "O que uma maneira perfeita de coletar conhecimento!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>O Censor balança a cabeça vigorosamente. "Certamente não! Eu não tenho ideia de como você teve essa ideia, então tire isso da sua cabeça! Nerat conhece as leis [url=glossary:kyros]Kyros[/url]' e nunca faria nada para quebrá-las abertamente!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Eu peço uma coisa a você, no entanto." Ela se aproxima e você pode ouvir que sua respiração acelerou. "Eu posso mantém o Arquivo Silencioso? Só uma vez? Todo aquele alarido gasto para recuperá-lo. Quero poder dizer que o tive em minhas mãos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] pode não estar muito feliz com isso. E eu não sei qual será a reação ao terminar o [url=glossary:edict]Edital[/url], mas isso é um assunto para você lidar, não é?" Ela ri como se tivesse contado uma piada .</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Eu não sei o que [url=glossary:kyros]Kyros[/url] vai fazer depois de descobrir que você acabou com o [url=glossary:edict]Edital[/url], mas isso é um problema para você lidar, não é ?" Ela ri como se tivesse contado uma piada. "Acho que destruir a Biblioteca é um ponto a seu favor nesse tribunal. Olhe pelo lado positivo!" Ela ri novamente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>[Dê a ela o Arquivo Silencioso.] "Claro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>O Censor risadinhas assumem um tom maníaco e sua respiração beira a hiperventilação quando você coloca o pergaminho em suas mãos. Quando o pergaminho toca suas mãos, há um flash - mais brilhante do que o que você viu antes - e ela faz um barulho orgástico, quase derrubando o Arquivo Silencioso.
+
+"Tanto poder..." Ela sussurra as palavras com temor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Agora devolva."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Quer saber? Guarda isso. Leve para Nerat você mesmo - e dê a ele meus cumprimentos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"E agora que você tem a informação no Arquivo Silencioso, leve-a para Nerat você mesmo - com meus cumprimentos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Claro!" Ela te entrega o Arquivo Silencioso. "Isso era tudo que eu queria. Diga a Nerat I disse que a missão foi um sucesso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Agora que você tem as informações do Arquivo Silencioso, você mesmo pode contar a ele. Ele quer que nós dois nos reportemos a ele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>O Censor olha para o Arquivo Silencioso e volta para você. Sob sua respiração, você a ouve sussurrar, "Seu tolo! Você tinha que saber que isso ia acontecer." Então ela balança a cabeça e estende o Arquivo Silencioso para você.
+
+"Vinculador do Destino, eu nem sonharia em tirar essa honra de você! Por todos os meios, você é mais do que bem-vindo para entregar isso para Nerat você mesmo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>O Censor balança a cabeça. "Oh, não, Vinculador do Destino, eu nem sonharia em tirar essa honra de você. Por todos os meios, você é mais do que bem-vindo para entregar isso para Nerat você mesmo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Eu insisto. Nerat perguntou por você pessoalmente. Ele quer que nós dois informemos a ele agora que temos o Arquivo Silencioso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Eu insisto. Isso é o que você queria, não é? Nerat consegue destruir o Arquivo e manter todas as suas informações. E ele perguntou por você pessoalmente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>O Censor olha em volta como se estivesse tentando encontrar alguém para salvá-la. Sob sua respiração, você a ouve sussurrar, "Seu tolo! Você tinha que saber que isso ia acontecer." Então ela balança a cabeça.
+
+"Vinculador do Destino, eu nem sonharia em tirar essa honra de você! Por todos os meios, você é mais que bem-vindo para dizer a ele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Eu insisto. Isso é o que você queria, não é? Nerat consegue manter todas as informações do Arquivo Silencioso. E ele perguntou por você pessoalmente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Parece que os traiçoeiros Sábios estavam com medo de que alguém pudesse querer pegar seu precioso Arquivo e escondê-lo atrás de uma barreira. Arcano. Impenetrável. Realmente uma pena quantos homens perdemos para feitiços de rebote..." Ela acena com a mão com desdém.
+
+"Então, meus homens estão procurando a senha para ir além. Não sabemos quantas partes existem, apenas que estão em algum lugar dentro do Biblioteca."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Fale-me sobre o [url=glossary:disfavored]Desfavorecido[/url] na região."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Até agora, eles ainda não fizeram um impacto notável em nossos esforços. Eles não me preocupam particularmente."
+
+Sua expressão escurece. 
+
+"Um líder escoteiro intrometido - Maric - causou alguns problemas às minhas forças quando tentou se infiltrar no Biblioteca. Ele quase foi morto no esforço, então duvido que tenha notícias dele em breve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>Nó de script 258</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>Nó de script 259</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>Ela franze a testa e considera suas palavras. 
+
+"Como você sabe sobre... oh, não importa. O Arquivo Silencioso é um assunto Refrão a ser tratado em nossos termos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"Se você não quer ver seu sangue decorando este acampamento, sugiro que me deixe entrar nas ruínas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>Um Cantor de Sangue olha nervosamente para seus companheiros, enxugando a testa cheia de suor. Ele recua lentamente antes de começar a correr, tomando cuidado para não alertar seus aliados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Você é um grande agressor, não é? Que pode intimidar um desses merdas de joelhos fracos, mas estou no jogo há muito tempo para ficar impressionado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Deixe-me dar-lhe outra opção. Você pode depor as armas e se render."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>[Ataque] "Talvez isso deixará uma impressão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>Ela revira os olhos, imperturbável por sua agressão. "Não tenho tempo para esse absurdo. Há hora e lugar para sede de sangue e, infelizmente, tenho uma operação para supervisionar."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

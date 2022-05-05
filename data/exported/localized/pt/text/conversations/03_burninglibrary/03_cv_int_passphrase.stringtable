@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\03_burninglibrary\03_cv_int_passphrase</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Os símbolos na página nadam diante de seus olhos, desaparecendo e reaparecendo enquanto você assiste. Enquanto você os encara, eles se resolvem lentamente em uma série de frases.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Em primeiro lugar, para aqueles que têm força de vontade, a porta ao norte se abrirá."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Em segundo lugar vem a paixão, queimando no sul como um fogo sem fim, para dar vitalidade aos dedicados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Então do oeste virá aquele com verdadeira determinação para explicar a gravidade do compromisso com o conhecimento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Por último, olhe para o leste e prepare-se contra aqueles que o derrubariam. Deixe seu poder ser sólido como pedra."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

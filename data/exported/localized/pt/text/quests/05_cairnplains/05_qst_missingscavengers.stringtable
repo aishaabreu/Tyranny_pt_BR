@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\05_cairnplains\05_qst_missingscavengers</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Busca e resgate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vá para Stone Down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Negocie a libertação dos colonos com Pedra-Warden.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Solte os colonos capturados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Solte os colonos capturados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Solte os colonos capturados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Voltar para Grayson.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Um grupo de catadores que partiu para Apedrejar não retornou. Grayson quer que você descubra o que aconteceu com eles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Se você já aprendeu o caminho para Apedrejar, vá até lá e investigue o desaparecimento do grupo de catadores.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Fale com Stone-Warden em Stone Down e convença-a a libertar os colonos desaparecidos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Você ganhou sua classificação dentro do [url=glossary:stonestalkers]Perseguidores de Pedras[/url], e por causa disso você pode liberar os colonos capturados de Apedrejar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Liberte os colonos capturados de Apedrejar agora que nenhum [url=glossary:stonestalkers]Perseguidores de Pedras[/url] se opõe a você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Depois de liberar Deixou-Claw do [url=glossary:scarlet chorus]Coro Escarlate[/url], você ganhou um favor do [url=glossary:stonestalkers]Perseguidores de Pedras[/url]. Por causa disso, eles permitiram que você libertasse os colonos capturados de Apedrejar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Você libertou os colonos capturados de sua caneta em Apedrejar. Voltar para Grayson em [Plainsgate] e diga a ele o que aconteceu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você libertou os colonos capturados de Apedrejar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>A oportunidade de resolver esta tarefa passou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Você traiu seus aliados e não pode mais completar esta tarefa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Você encontrou um grupo de catadores sendo mantidos em cativeiro pelo [url=glossary:stonestalkers]Perseguidores de Pedras[/url] em Apedrejar.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

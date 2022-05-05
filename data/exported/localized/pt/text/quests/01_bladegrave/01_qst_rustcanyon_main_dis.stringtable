@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\01_bladegrave\01_qst_rustcanyon_main_dis</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Aquilo que fica</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Reúna-se com Teodor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Perseguir Elia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Assuma o controle do acampamento [url=glossary:unbroken]ininterrupto[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Proteja o portão leste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>[url=glossary:graven ashe]Cinza esculpida[/url] acredita que os artefatos que o [url=glossary:unbroken]ininterrupto[/url] está procurando podem ajudá-lo a inserir Guarda Sentinela. Ele despachou soldados para Desfiladeiros de Ferrugem, onde os rebeldes estão caçando as heranças do Regentes caído. Ajude o [url=glossary:disfavored]Desfavorecido[/url] a assumir o controle do acampamento [url=glossary:unbroken]ininterrupto[/url] e aprenda mais sobre a caça ao artefato.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Viaje para Desfiladeiros de Ferrugem e encontre-se com Teodor, comandante das forças [url=glossary:disfavored]Desfavorecido[/url] na área.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Elia e alguns de seus homens escaparam do acampamento quando ele caiu e estão tentando fugir Desfiladeiros de Ferrugem. Siga seu caminho para o norte e evite que eles escapem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Ataque o acampamento [url=glossary:unbroken]ininterrupto[/url] em Desfiladeiros de Ferrugem. Proteja a área e mate todos os [url=glossary:unbroken]ininterrupto[/url] soldados dentro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>O [url=glossary:unbroken]ininterrupto[/url] tem homens estacionados fora dos portões do acampamento oriental em Desfiladeiros de Ferrugem. Mate os soldados e liberte os [url=glossary:disfavored]Desfavorecido[/url] cativos lá.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Você conheceu Elia, líder das forças [url=glossary:unbroken]ininterrupto[/url]. Você deve falar com Teodor antes de atacar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Você atacou o acampamento [url=glossary:unbroken]ininterrupto[/url] antes de coordenar com Teodor e agora deve tomar o acampamento sozinho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Você tomou a área fora do portão leste. Agora ajude os [url=glossary:disfavored]Desfavorecido[/url] prisioneiros a sair do poço.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Os homens de Teodor atacarão o portão leste para fornecer assistência.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Você conseguiu entrar no acampamento sem ser detectado. Use esta vantagem para derrotar o [url=glossary:unbroken]ininterrupto[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Atire no guincho segurando a rampa para alcançar o [url=glossary:unbroken]ininterrupto[/url] no mirante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Você derrotou Elia e aprendeu sobre os esforços para recuperar o Steadfast Insignia no Violação de Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Você ligou o Teodor e decidiu tomar o acampamento para si, tornando-se um inimigo do [url=glossary:disfavored]Desfavorecido[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

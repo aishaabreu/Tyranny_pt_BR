@@ -1,0 +1,333 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\02_cv_sandro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>61</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Fique para trás, estou armado!" Vestido com os pedaços de couro, o homem suado avalia você, relaxando um pouco enquanto lê suas feições.
+
+"Deixe-me em paz, por favor. Estou doente e quero ficar em paz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Eu sei que você matou Deyaesposa..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Você parece nervoso, não doente..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Só estou tentando ficar sozinho com meus pensamentos." Sandro solta um suspiro longo e forçado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Vou deixar você em paz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"O quê? Você deve estar brincando! Eu nunca..." Sua boca se move, mas nenhuma palavra se forma enquanto ele dá um passo para trás. "É mentira!" Seus olhos percorrem as muitas direções que ele poderia correr.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Ataque] "O culpado sempre corre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Conte-me o seu lado da história. Se você é inocente, não tem nada a temer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Impede-o de fugir.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Apenas me diga o que você fez, Sandro. Eu juro que não vou contar a ninguém."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Dando um passo à frente e plantando sua perna com firmeza, você tropeça em Sandro enquanto ele dispara para a frente em uma corrida.
+
+Aterrissando primeiro de joelhos e depois com as mãos, Sandro xinga e grita de surpresa. Quando a poeira baixa, ele fica de joelhos frouxamente, ombros caídos em derrota.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"May [url=glossary:kyros]Kyros[/url] me derrube se eu estiver mentindo!" Ele treme lamentavelmente "Eu não matei Phaedra! Ela fez! Era Deya!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Deya disse que você está com a Irmandade e matou Fedra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Parece que Deya e eu precisa conversar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Ataque] "Suficiente mentiras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ela disse o quê?" do Sandro rosto empalidece, seus olhos se arregalam de surpresa. "A Irmandade? Absolutamente não! Parece que eu poderia até mesmo levantar um machado sem me machucar?"
+
+Ele pega sua cabeça, dedos cavando em seu cabelo. "Eu a vi... vi Deya matar Phaedra! Ela matou sua própria esposa e culpou..." Sua cabeça cai. "Que prostituta sem mãe está tentando me incriminar!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Você viu Fedra morrer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Não vou esquecer, não importa o quanto eu tente!" Ele enxuga o olho, seu corpo tremendo. "Foi Deya! Eu a vi matar a própria esposa!"
+
+Ele respira fundo várias vezes, dobrando-se em pânico. "Foi durante o último ataque - quando os bandidos atacaram.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Por que você está usando Fedra colar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Isto?!" Ele toca o simples medalhão turquesa no pescoço. "Isso é meu! Fedra comprou para mim em Ardente dez anos atrás!"
+
+Sandro olha em volta. "Será que Deya te digo que este era o Fedra colar? Isso éabsurdo! O colar é um símbolo da amizade que Fedra e eu teve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Fale com sua lâmina, não apenas com suas palavras," Sandro faz uma careta, fazendo um movimento cortante com a mão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Ele lhe entrega o colar. "Aqui, pegue! Não quero problemas, só quero ficar em paz!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Dê-me o colar - quero enganar Deya."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Sandro olha para você com desconfiança. "Ela mente sobre mim, então agora devo perder meu colar? Aquele que Fedra me deu?"
+
+Ele pega o medalhão turquesa e o passa entre os dedos por um longo momento. "Multar, pegue. Se levar Deya à justiça, então vale o preço."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Obrigado por me ouvir. Ela nunca foi a pessoa mais amigável, mas não achei que Deya faria algo assim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"De fato eu sou! Não aguento mais. Achei que me acostumaria a ver as pessoas morrerem, mas o fraternidade e seus ataques... não há fim à vista!"
+
+Ele chuta o solo, suas mãos brincam preguiçosamente com seu colar enquanto seus pés se arrastam ansiosamente . "Eu só quero ficar longe do povo do Cruzando agora mesmo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Ataque] "Você vai pagar por matar Deya esposa!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Por um momento, parece que ele vai seguir em frente e tentar passar por você. Com um grito, ele cai de joelhos.
+
+"Por favor!" ele soluça, "Eu não fiz nada!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Com terror nos olhos, Sandro se defende com relutância.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Sim, um pouco de privacidade seria bom." Sandro suspira, esfregando a mão na têmpora.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Obrigado por me ouvir. Se você vir Deya, corte a cabeça dela para mim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Você pode estar certo. Ela não parecia muito feliz com Fedra quando os vi juntos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Você resolveu meu problema? Eu sou seguro agora?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Deya está morta. Você pode retornar a [url=glossary:lethian's crossing]A travessia de Lethian[/url] se quiser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Eu dei a Deya o colar e agora ela pensa que você está morto. Eu não voltaria ao Atravessando se eu se você fosse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Ah, obrigado! Esse é uma notícia maravilhosa! Caso contrário, eu não sabia o que faria!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Nós vamos... isso é melhor que a morte, suponho. Não sei para onde vou, mas acho que está na hora de decidir... Talvez o [url=glossary:bastard city]Cidade bastarda[/url]! Obrigado pela ajuda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Obrigado por sua ajuda. Pelo menos agora não preciso olhar por cima do ombro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Deixar] "Voltarei mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Não quero falar com ninguém agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Por que Deya mataria a própria esposa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Como devo saber?! Deya nunca foi muito feliz com ela, e ela não estava feliz que Fedra e eu fossem amigos. Phaedra nunca deveria ter se casado com ela!"
+
+"Eu disse a Phaedra que era uma má ideia, mas ela não quis ouvir, e agora está morta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"O que Deya poderia ter ganho com a Fedra morte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Você está escondendo algo de mim. Diga-me agora ou cortarei sua garganta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Alarmado, Sandro levanta os braços para evitar você. "Por favor, tenha piedade! Veja, Fedra... bem, ela era de Lethian neta. Como o de Lethian única herdeira conhecida, ela herdou a terra que [url=glossary:lethian's crossing]A travessia de Lethian[/url] fica. Mas ela não gostava de fazer barulho sobre isso. Ela apenas fez o que era necessário para garantir o futuro da cidade e deixou por isso mesmo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Ele olha em volta nervosamente e sussurra. "Deya, por outro lado, queria mais. Acho que ela taxaria os comerciantes até o ponto de ruptura, se pudesse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Se você e Fedra fossem amigos, por que Deya incriminaria você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Ele respira longa e profundamente. "Porque eu disse a Phaedra para não se casar com Deya, e ela sempre me odiou por isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Phaedra e eu somos amigos desde a infância. Prometemos sempre ser honestos um com o outro, mesmo quando dói. Quando Fedra saiu para morar no [url=glossary:bastard city]Cidade bastarda[/url], fiquei no [url=glossary:lethian's crossing]A travessia de Lethian[/url] para ficar de olho nas coisas para ela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Então Fedra me disse que ela se apaixonou. Eu estava inicialmente feliz por ela, mas quando ela trouxe Deya de volta para [url=glossary:lethian's crossing]A travessia de Lethian[/url] para me conhecer, eu pude ver imediatamente que Deya não estava interessado em Fedra além do que Fedra poderia oferecer a ela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Você está dizendo que Deya se casou com Phaedra por suas terras?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Como você pode ter certeza que é isso que Deya queria?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"O que qualquer mulher pode ganhar - terra. Phaedra possuía sua casa em [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Poucos podem fazer essa afirmação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Essencialmente, sim. Acho que Deya nunca amou Fedra. Ela sempre teve outros motivos."
+
+"Fedra estava de cabeça [url=glossary:kyros]Kyros[/url] apaixonada por Deya. Ela era carismática - sempre sabia o que dizer para Fedra para fazê-la sorrir. Mas assim que Fedra virasse de costas, as presas de Deya começariam a aparecer, por assim dizer, quero dizer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Deya estava sempre pressionando Fedra para aumentar o número de anéis que eles coletavam dos comerciantes. Felizmente, Fedra não teria. Ela amava [url=glossary:lethian's crossing]A travessia de Lethian[/url] e se recusou a manipular seu povo para seu próprio ganho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Ele olha para o que está vestindo. "Ah, isso, eu... na verdade não sou um fraternidade soldado." Ele para por um momento, avaliando sua reação. "Foi a única maneira que encontrei para sair de [url=glossary:lethian's crossing]A travessia de Lethian[/url] vivo. Deya estava tentando me encontrar. Achei melhor me disfarçar de fraternidade mercenário e segui-los. Encontrei um Irmão morto e vesti um pouco de sua armadura. Eu realmente não tive tempo para descobrir como colocar tudo isso, mas funcionou bem o suficiente para me trazer aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Você está estranhamente vestido para um [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] mercenário."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[Ataque] "Culpado ou inocente - não importa para mim. Só me importa que você morra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Por que eu deveria acreditar nisso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Seus ombros caem e um olhar derrotado cruza seu rosto. "Não tenho provas. Tudo o que posso fazer é confiar que, como Vinculador do Destino, você sabe que o que estou dizendo é verdade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Se você estiver mentindo por omissão, eu pessoalmente o jogarei nas masmorras em [url=glossary:bastard city]Cidade bastarda[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

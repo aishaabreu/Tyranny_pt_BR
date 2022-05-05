@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\01_cv_trappersjunction_sc_merchant</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ela enxuga um pequeno fio de baba do rosto antes de falar. "Vinculador do Destino, viu alguma coisa que você gosta?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Deixe-me ver suas mercadorias."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Deixar]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Fatebinder!" As palavras caem de sua boca disforme com pedaços de baba que escorrem involuntariamente e escorrem pelo queixo. "Você é muito bem-vindo aqui, tenho um preço especial para você!" Seu entusiasmo faz com que uma chuva de saliva caia bem em seu peito.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Você vê uma mulher virada de costas para você, sua cabeça inclinada em vários barris, jogando fora pedaços de comida podre e uma praga ocasional. Você pode ver que suas costas estão adornadas com cicatrizes de queimaduras que se estendem por todo o lado esquerdo.
+
+Ela percebe que você se aproxima e vira a cabeça, revelando que o lado esquerdo do rosto dele está igualmente cheio de cicatrizes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "Vinculador do Destino..." Respingos de saliva escorrem de sua boca disforme involuntariamente enquanto seu rosto se contorce em uma estranha versão de uma carranca. "Você vai comprar alguma coisa ou continuar olhando?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"O que... aconteceu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Ela pisca. "Ah, esses?" Ela aponta para o rosto e para o lado. "Tive uma noite ruim com um Cão de Sangue. Eles tendem a explodir quando superexcitados, tenho certeza que você notou."
+
+Ela enxuga o rosto enquanto continua a olhar para você sem expressão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Ela de repente cai na gargalhada, causando um ataque de baba em todas as direções. "Eu tive você por um momento!" Sua risada diminui e ela se recompõe, dando de ombros. "Não-não, os pais não estavam muito interessados em ter um quinto filho - tentaram me jogar em uma pira funerária para meu tio quando eu era jovem. Ficou um pouco cozido demais, mas consegui rastejar para longe. Começou uma nova vida com o Refrão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Receber, Vinculador do Destino. Remédio irregular vai querer falar com você."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

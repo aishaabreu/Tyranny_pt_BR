@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\factionquestlines\tunon\fq_tn_cv_heraldcalio_confrontation</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Você foi longe demais, [Player Name]. [url=glossary:tunon]Tunon[/url] lhe deu uma trela muito longa e ainda não foi suficiente para você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ao contrário de você, eu conheço meu dever. Apenas um de nós pode sair vivo."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

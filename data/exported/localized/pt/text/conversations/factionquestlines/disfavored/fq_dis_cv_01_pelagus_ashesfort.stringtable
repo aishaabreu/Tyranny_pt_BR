@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\factionquestlines\disfavored\fq_dis_cv_01_pelagus_ashesfort</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Vinculador do Destino, você fez um grande feito pelo Tremedores de terra - um que não esqueceremos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"[url=glossary:cairn]Cairn[/url] é preservado, e os Tremedores de terra são restaurados com segurança para o forte Ashe. As circunstâncias são ideais para progredirmos ininterruptamente em nossa linha de estudos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"De nada. Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Não sei como vamos nos recuperar da perda de [url=glossary:cairn]Cairn[/url]. Seu valor acadêmico sozinho pode nunca ser igual."
+
+"No entanto, os Tremedores de terra são restaurados com segurança para o forte Ashe, e isso me dá esperança."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Tenho dúvidas sobre o Tremedores de terra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Pergunte. Nossos clientes normalmente estão mais interessados em nossos resultados do que em nossos procedimentos e sabedoria. Isso faz uma mudança refrescante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Por que [url=glossary:kyros]Kyros[/url] tolera sua guilda?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"O que você estava fazendo durante a conquista do Camadas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Por enquanto é só."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Porque somos úteis, imagino." Ele ri sozinho. "A realidade é um pouco mais complexa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Nossa história remonta antes da chegada de [url=glossary:kyros]Kyros[/url]' Paz. Os sacudidores de terra contentavam-se em viver à margem da sociedade, contratando nossos serviços para as aldeias em troca de um mínimo de proteção e sigilo."
+
+"Quando os muros precisavam de construção ou manutenção, os Tremedores de terra estavam sempre ao alcance para emprestar um mão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Nosso trabalho mais importante envolvia consertar brechas no Oldwalls, o que sem dúvida ganhou o favor de autoridades superiores."
+
+"O resto do nosso tempo foi gasto em profundo estudo e ritual."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Já ouvi o suficiente. Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Continue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Quando [url=glossary:kyros]Kyros[/url] trouxe uma nova ordem para o Norte, nossa guilda se contentou em permanecer nas sombras e ficar de fora da invasão. Nós nos orgulhamos de permanecer retraídos, intocados pelas maiores preocupações do mundo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Um olhar melancólico o transporta para alguma memória distante. 
+
+"Com o avanço do soberano, seguiu-se o [url=glossary:cairn]Cairn[/url], o Arconte de Pedra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Ele parece dominado por um poço de luto profundo. 
+
+"Então descobrimos [url=glossary:cairn]Cairn[/url], o Arconte de Pedra. Ele nos fascinava e nós o admirávamos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"A chegada de [url=glossary:cairn]Cairn[/url] mudou tudo. Em seu poder, reconhecemos o ápice de nossas aspirações - a expressão máxima de nossa arte mágica." "Após algum debate entre nossos mais velhos, o Tremedores de terra prometeu fidelidade a [url=glossary:kyros]Kyros[/url]. Não pudemos, em sã consciência, passar a oportunidade de estudar sob a tutela de [url=glossary:cairn]Cairn[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Bom te ver de novo, Vinculador do Destino. O que você precisa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"E por isso temos nos tornado úteis para o esforço de guerra desde então, como esperançosamente você observou em campo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Você teve a gentileza de punir os [url=glossary:scarlet chorus]Coro Escarlate[/url] canalhas - um favor que não esquecemos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Você apoiou a decisão implacável deles. Posso entender por que você queria uma vantagem tática, mas isso custou nossos acólitos mais promissores."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Enfrentei uma batalha infeliz em Azure. Enquanto nossos conjuradores residentes estudavam mapas e tentavam rastrear o Arconte de Pedra, o [url=glossary:scarlet chorus]Coro Escarlate[/url] forçou nossos magos a lutar contra a oposição local. Estávamos despreparados, e as 'táticas' Refrão raramente ajudavam nossos esforços." Ele franze a testa ao lembrar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Muitos de nós morreram naquele dia, alguns diriam desnecessariamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Nada por enquanto. Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Voltando às minhas perguntas anteriores."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Claro. O que você sabe de nós?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

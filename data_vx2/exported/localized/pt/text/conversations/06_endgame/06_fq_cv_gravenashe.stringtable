@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\06_endgame\06_fq_cv_gravenashe</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>803</ID>
+      <DefaultText>"Temos um reino para conquistar em nome de [url=glossary:kyros]Kyros[/url]. Qual é o nosso próximo passo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>804</ID>
+      <DefaultText>"Glória ao Senhor Supremo!" Ele grita, e as couraças dos vizinhos [url=glossary:disfavored]Desfavorecido[/url] chacoalham com suas saudações.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

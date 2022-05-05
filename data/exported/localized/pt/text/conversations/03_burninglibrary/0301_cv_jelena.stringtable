@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\03_burninglibrary\0301_cv_jelena</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>34</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Esse [url=glossary:disfavored]Desfavorecido[/url] soldado cede fortemente contra sua corda, emaciado e fraco. Suas roupas revelam que ela é uma das Juramento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Vinculador do Destino... você não é inimigo do [url=glossary:disfavored]Desfavorecido[/url]. Minha vida é inútil, mas talvez você possa ajudar meus irmãos. Por favor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"O que aconteceu com você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Como posso ajudar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Deixar] "Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Eu vim aqui com uma unidade de Juramento batedores e nosso líder, Maric. Estávamos tentando localizar o Arquivo Silencioso. Quando vimos que o local estava invadido por [url=glossary:scarlet chorus]Coro Escarlate[/url], resolvemos destruir o Arquivo para que seu conteúdo não caísse em mãos erradas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Eu rastejei pela superfície enquanto os outros desciam para as profundezas da biblioteca. À medida que as horas se arrastavam, eu ficava desajeitado. Alguém ficou sabendo de mim, e um homem que eles chamam de 'Murmúrio' tem sido meu algoz desde então."
+
+Ela faz uma careta em introspecção.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ele estava ansioso o suficiente para saber que Juramento podem 'sentir' a presença um do outro. Isso nos torna poderosos no campo de batalha, mas é uma desvantagem paralisante se alguém for capturado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Até onde eu sei, dois membros da minha unidade ainda estão vivos e presos no [url=glossary:burning library]Biblioteca em chamas[/url]. Eu não estou em condições de ir atrás deles eu mesmo. Se você conseguiu, tenho certeza que Maric gostaria de saber que suas tropas não foram completamente devastadas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Tudo o que posso dizer é que você os encontrará no Biblioteca. Não consigo identificar onde eles estão. Só sei que os dois estão feridos. Pise com cuidado, Vinculador do Destino... Temo que esse lugar esteja longe de ser estável."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Eu posso te libertar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Você também está aqui, Fatebinder? Estou cercado de inimigos. Se você veio para me matar, acabe logo com isso. Por outro lado, não tenho nada para lhe dizer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Maric quer você morto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Eu não quero, nem mereço. Eu traí minha unidade e custei a vida deles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Mas se por acaso você encontrar algum sobrevivente lá embaixo e libertá-lo, então volte. Voltarei a Maric e enfrentarei o julgamento dele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Maric está certo em me querer morto. Tentei ajudar minha unidade, mas os traí no processo. Quando tudo isso acabar, vou me submeter a qualquer julgamento que me devam."
+
+"Eu não esperaria que você presidisse minha sentença. Que você está falando comigo agora é mais do que eu mereço."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Me devasta admitir que acabei quebrando. O que quer que sejam ou afirmem ser, os Refrão são persuasivos." 
+
+"No entanto... Eu os alimentei com tantas mentiras quanto com os fatos, apostando que os Refrão se ocupariam com o procure e dê tempo ao Juramento para escapar. Ouvi no acampamento que Maric conseguiu, mas não sei sobre os outros."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Você voltou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Resgatei seus companheiros. Você está livre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Ela ilumina. 
+
+"Eu posso dizer que você está sendo sincero, e estou impressionado que você tenha conseguido. Obrigado, Vinculador do Destino. Assim que conseguir, voltarei para Maric e enfrentarei o julgamento dele. Aconteça o que acontecer, cuide-se por aí."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Maric está morto. Eu o matei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Ela lhe dá um olhar de puro ódio e cospe em seus pés. "Ele merecia mais do que ser massacrado pelo cachorrinho de [url=glossary:tunon]Tunon[/url]. Não tenho nada para te dizer. Mate-me e acabe com isso. Por outro lado, vá embora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Cai fora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Qualquer desvantagem é incapacitante. Esses tolos insistem em aprender tudo da maneira mais difícil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Matar] "É hora de você pagar por seus crimes contra seus companheiros."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Jelena acena com a cabeça e lentamente fecha os olhos e levanta a cabeça expondo o pescoço para uma punição rápida.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[corta a garganta dela]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Esfaquear ela no estômago]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Matar] "Tenho do seu jeito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Nó de conversão de gatilho 36</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Recebi uma segunda chance graças a você, estou em dívida com você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Deixe-me libertá-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Eu estava contente em morrer pela mão Censura... Eu traí minha unidade e custei a vida deles, afinal. Mas, como você achou por bem me libertar, vou encontrar alguma cobertura discreta e ficar quieto até que você recupere meus irmãos. Boa sorte, Fatebinder!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Isso é melhor do que eu mereço, mas que assim seja."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

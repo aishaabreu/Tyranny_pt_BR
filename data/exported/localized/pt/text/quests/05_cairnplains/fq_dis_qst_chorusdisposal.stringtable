@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\05_cairnplains\fq_dis_qst_chorusdisposal</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Disposição do Coro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Viaje para [Plainsgate].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Elimine o [url=glossary:scarlet chorus]Coro Escarlate[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Caedis e Radix pediu para você eliminar o [url=glossary:scarlet chorus]Coro Escarlate[/url] de [Plainsgate] em um esforço para abrir caminho para suas viagens para Rocha Uivante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Viaje para [Plainsgate] para começar a caçar todos os membros do [url=glossary:scarlet chorus]Coro Escarlate[/url] na área.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>O refrão em [Plainsgate] servirá apenas como uma interferência quando você pressionar para frente no [url=glossary:stone sea]Mar de Pedra[/url]. Mate todos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você eliminou com sucesso o [url=glossary:scarlet chorus]Coro Escarlate[/url] em [Plainsgate].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você traiu seus aliados e não pode mais completar esta tarefa.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

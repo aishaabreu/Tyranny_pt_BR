@@ -1,0 +1,1348 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\vx1\vx1_09_cv_phoibe</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>266</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Não importa quantas vezes eu tente divulgar tudo o que sei, todos vocês parecem pensar que estou escondendo mais. Assim seja, vamos jogar este joguinho mais uma vez. Faça suas perguntas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Responda minhas perguntas, então discutiremos seu destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Saque sua arma.] "Permita-me libertá-lo de seu sofrimento..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Você está de volta - você conseguiu garantir nossa liberdade?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Enquanto eu gostaria de ser liberado deste dilema, devo adverti-lo - você está cometendo um erro. Se você me matar, estará deixando de lado décadas de pesquisa mágica. Vivo, eu valho alguma coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Ela estica a cabeça para cima e aguarda suas perguntas com respirações difíceis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Preciso fazer algumas perguntas primeiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Deixar] "Voltarei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>O rosto do prisioneiro fica pálido quando você se aproxima. "Você de novo..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"O que você estava fazendo aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Wagstaff me enviou para te matar - diz que você é uma ameaça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Em relação aos seus Refrão captores, o que eles perguntaram a você e o que você disse a eles?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Matar] "Suficiente conversa. Eu só vim aqui para terminar o que o Refrão começou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Pouco conteúdo - pergunte se você está tão curioso." Uma tosse molhada de sangue e catarro pontua sua resposta fria.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Por que esses Coristas se preocupam tanto em alcançar esse cofre inferior?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Eu os ouvi falando de outra gangue que se aventurou no [url=glossary:burning library]Biblioteca em chamas[/url] - se o que eles dizem pode ser acreditado. Eles falam como se estivessem apostando em quem sairá vivo," sua voz fica mais baixa, "Eu suspeito que eles provavelmente estão planejando emboscar quem quer que saia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Forrageamento, tentando encontrar comida para sobreviver. Desde o [url=glossary:edict]Edital[/url] de Incêndio, sou sem-teto e nômade. No entanto, não consigo me afastar muito do [url=glossary:burning library]Biblioteca em chamas[/url]... ainda parece o centro de Terratus para mim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Por que você veio para esta vila em ruínas, especificamente?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Sei que alguns sobreviventes passaram por esta vila. Parecia plausível que eles guardassem alguma coisa aqui, então parei para investigar... e então o Refrão me encontrou e os espancamentos começaram."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Você arriscou vir para esta vila porque 'parecia plausível' que alguém escondeu algo aqui? Risco estranho a correr."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Tenho outras perguntas para você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"O [url=glossary:vellum citadel]Cidadela de Velino[/url] caiu, mas minha... missão de reunir conhecimento permanece. Eu sigo qualquer pista plausível que posso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Golpeie ela.] "Deitado por omissão não te levará a lugar nenhum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"A incerteza é uma mentira fácil de vender. Diga-me por que você veio a este lugar sem sentido ou eu destroço sua mão que escreve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Você bate seu punho contra a boca dela, jogando sua cabeça para trás. "Suficiente, não mais! Eu falo, se isso parar sua mão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Por favor, isso não será necessário. Eu falo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Então meu estoque já foi saqueado e para adicionar insulto à injúria, esses Refrão capangas me encontraram. Meus colegas," ela gesticula em direção aos outros Sábios, "todos sofreram porque eu insisti em juntar coisas velhas... um erro tolo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Se Wagstaff te enviou..." uma tosse sangrenta interrompe sua tentativa de falar com firmeza, "então há pouco a discutir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Deixar] "Vou lidar com isso mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Quero os detalhes. Esclareça-me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Você não parece surpreso que Wagstaff me enviou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"O que você ganhou com sua colaboração com Wagstaff?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Nós éramos amigos e rivais - então apenas rivais. Você veio até aqui para me interrogar sobre essas fofocas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Golpeie ela.] "Deitado por omissão não te levará a lugar nenhum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Levante-a pela bandoleira.] "Podemos pular para a parte sobre ele querer você morto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Blefe] "Já conheço os impronunciáveis - ele poupou alguns detalhes. Quero seu lado da história."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Vamos falar de outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Aquele porco-fera de lábios soltos! O filho da puta não poderia pular na flotilha com o resto daqueles covardes salgados..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Seus olhos se arregalam de medo enquanto você levanta sem esforço seu corpo esguio. "P-ponto tirado!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Você bate seu punho contra a boca dela, jogando sua cabeça para trás. "Suficiente, não mais! Eu falo, se isso parar sua mão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Sim, nós tivemos um relacionamento, tão estimulante fisicamente quanto mentalmente exaustivo! Foi um encontro que durou décadas. Nossas Escolas proibia esse tipo de emparelhamento, e o bom senso também o fazia, mas... o perigo só o tornava mais inebriante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Uma infinidade de emoções voláteis e reconciliação impulsionada pelo coito, se você me perdoar a franqueza." Ela balança a cabeça, estremecendo de dor. "É um pouco estranho lembrar de tais coisas enquanto enfeitado com hematomas. Novamente, perdoe a franqueza."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Mentira] "Meu erro. Estou apenas supondo que vocês dois trabalharam juntos, pois não consigo imaginar que Wagstaff descobriu tudo o que ele me contou sozinho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Juntos, ele e eu... descobrimos algo especial. Sua compreensão de Jade Oculta magia e meu talento para expressões... tudo veio junto quando juntamos nossos anéis para comprar um texto copiado do [url=glossary:forge-bound]Forge-Bound[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Seus olhos se iluminam e, por um momento, parece que a fadiga dos repetidos interrogatórios desaparece de seu rosto. "Que idiota! SUAS descobertas?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Mas não poderíamos apresentar nossas descobertas, pois nenhum deles seria recompensado por nossas descobertas, mas sim punido por nossas colaborações. Portanto, nossas descobertas, como nossos encontros, tinham que permanecer um... assunto privado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Conte-me sobre essa sua descoberta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Ela desvia o olhar. "Ah, apenas alguns refinamentos nas teorias existentes da magia da água. Revelador no sentido acadêmico, sem sentido para um... tipo aventureiro e prático como você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[Golpeie ela.] "Quanto mais você se esconder de mim, mais vai doer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Então você se deparou com algum sotaque desconhecido ou algum novo poder arcano? Garanto a você que esses assuntos não são abaixo de mim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[Mentira] "Wagstaff já falou de sua pesquisa, então não adianta mentir sobre suas descobertas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Você acerta vários golpes violentos em sua mandíbula e têmporas, jogando sua cabeça violentamente para trás a cada golpe. Após o terceiro soco, suas pernas se dobram e seu corpo fica mole - enquanto ela cai, a parte de trás de sua cabeça bate contra a borda irregular de um pedaço de escombros. À medida que o sangue se mistura com as cinzas, uma poça escura e mosqueada se forma sob seu corpo imóvel. 
+
+Não há mais nada a aprender com este antigo [url=glossary:sage]Sábio[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Eu não posso... ajudá-lo. Os escritos... năo estavam onde deveriam... supostamente estar. E eu não poderia reescrevê-lo de memória. O conhecimento acabou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Ele? Então terminamos de conversar, pois ele sem dúvida tem você aqui para descobrir quais detalhes ele esqueceu. Mate-me agora, Fatebinder - prefiro que a satisfação do que sei morra comigo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Bata nela novamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Seu punho se conecta com sua mandíbula e o [url=glossary:sage]Sábio[/url] estremece de dor. "Chega! Chega... vou falar..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Entre sua compreensão de formas fluidas, minha compreensão de Preservação magia, e nosso [url=glossary:forge-bound]Forge-Bound[/url] texto furtado, nós classificamos... esbarramos em uma descoberta muito curiosa. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Fomos pioneiros em uma expressão que afeta a transição do metal do estado fundido para o sólido. Nós o chamamos de 'Metalurgia Aquosa' - embora eu ache que o nome é mais nobre do que qualquer aplicação prática que veio de nosso trabalho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Avançar com nossa pesquisa apresentou problemas... mas então a guerra estourou - houve preocupações maiores para todos os envolvidos. Escondi o que pensei ser a única cópia do nosso trabalho... mas foi reivindicado pelo fogo ou roubado por um saqueador que chegou aqui primeiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Nós não nos separamos amigavelmente... e o homem guarda rancor como nenhum outro. Parte de mim esperava que ele contratasse alguns canalhas para investigar copiosa fustigação. Diga-me, ele pediu para você trazer algo de volta com você, depois da escritura? Um olho? Um dedo do pé, talvez?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Ele me pediu para trazer de volta o que você estava carregando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"O que importa o que Wagstaff solicitou?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>[Saque sua arma.] "Qualquer prova de sua morte deve ser suficiente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Não é óbvio? Ele quer meus escritos em Metalurgia Aquosa, mas não quer que você saiba. O que é mais crível - que eu sou realmente uma ameaça ou que ele quer meus escritos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Talvez essa seja a vantagem de todos os meus pergaminhos pegarem fogo... aquele bruxo da água de boca incisiva não pode tê-los..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Então é como eu suspeitava - ele quer meus escritos... está muito atrasado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Os Lançadores de Marés fugiu do Camadas, e mesmo assim, ainda recebi missivas de Wagstaff. Ele começou a perguntar sobre minhas atividades e paradeiro - com grande persistência. Cheguei a suspeitar que ele queria o que quer que eu tivesse colocado no pergaminho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Não é óbvio? Ele quer meus escritos em Metalurgia Aquosa, mas não quer que você saiba. O que é mais crível - que eu sou realmente uma ameaça ou que ele quer meus escritos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Deixe-me perguntar outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>[Saque sua arma.] "Matar você e pegar suas coisas parece uma solução muito mais simples, não?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Decidi não te matar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Então... você vai me ajudar?" Ela relaxa visivelmente, afrouxando sua postura rígida.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Eu não disse isso, só que não vou te matar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Eu o libertarei se você me der seus escritos em Metalurgia Aquosa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Espero algo em troca de sua liberdade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Falarei com o Refrão sobre sua libertação se você me der algo em troca."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"O que você vai fazer comigo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Suas posses podem ser valiosas. Vou levá-los e deixá-lo com sua vida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>[Deixar] "Suae por conta própria.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Não, por favor! Todas as minhas pesquisas estão lá. Você atrasará meu trabalho em anos."
+ 
+Ela luta impotente contra a corda que amarra suas mãos e só pode observar enquanto você vasculha seus pertences. Você reúne alguns diários, pergaminhos e itens que podem ser de valor e os coloca em sua mochila, sem prestar atenção aos Phoibe's gritos enquanto se afasta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Por favor!" Sua voz falha enquanto luta para levantar a voz. "Não nos deixe aqui!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Ela se vira e levanta os braços amarrados. "Mas o que eu faço sobre o Coro? Devo simplesmente apodrecer aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Embora eu tenha pouco a oferecer, tudo o que tenho é seu se você puder me libertar. Basta falar com o Refrão, por favor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>[Vire-se para sair.] "Vou deixá-lo nas boas mãos do Refrão. Boa sorte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Espere! Não me deixe aqui - se eu não for morto por esses selvagens, meus talentos serão desperdiçados no Refrão!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Qual é a história entre você e Wagstaff?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Achei que até você nortistas sabe como a Escola de Tinta e Pena e os Lançadores de maré se odeiam. Wagstaff era o inimigo - então [url=glossary:kyros]Kyros[/url]' minions apareceram..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Deixe-me perguntar outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Continuar..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>[Matar] "Suae vale mais morto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Se é sangue que você procura, então vá em frente. Se é assim que você resolve todos os seus pró-" Antes que ela possa pronunciar outra palavra, você corta a garganta dela. Com os olhos arregalados de choque, ela agarra o pescoço para cobrir o buraco na garganta que vaza ar e sangue. Ela cai no chão, ofegante em seus momentos finais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Certamente você veio para esta região procurando aprender com o Sábios. Bem, restam poucos de nós, e nossos escritos são quase cinzas. Os segredos da Escola de Tinta e Pena estão na minha cabeça - e eles morrem comigo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>[Deixar] "Voltarei mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Eu posso ser um cadáver quando você voltar, mas estarei aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Estava aqui nesta vila, mas alguém o encontrou antes..." Ela limpa a garganta. "Não... chega de bancar o tímido. Ainda está aqui, eu só..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"E onde você guardou seus escritos em Metalurgia Aquosa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Você espera que eu mate meus próprios aliados?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Considere-os mortos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Eu não vou matá-los tão desnecessariamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>Ela olha ao redor da área e nos deixa um longo suspiro. "Nós vamos, o Coro não é mais uma preocupação... se você me deixar ir, eu te direi onde escondi o tomo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>[Saque sua arma.] "Eu sabia que você estava se esquivando das minhas perguntas o tempo todo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"E você seria perfeitamente honesto se fosse você amarrado e amarrado? Por favor, mantenha sua mão - por que me matar quando você pode lucrar com essa troca?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>[Matar] "Estou bem com a sua morte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Ou convencê-los a me deixar ir... mas acho que nós dois sabemos que os brutos só ouvem violência."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Ultimamente, eles parecem se divertir apostando em eventos no [url=glossary:burning library]Biblioteca em chamas[/url] - Tenho certeza de que você pode fazê-los lutar se você se dedicar a isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Um acordo aceitável para nós dois, então. Você terá o que deseja ao retornar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Vou ver se consigo semear alguma discórdia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Obrigado por ver a razão. Estarei aqui quando você terminar." Ela sorri sombriamente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>[Desamarre-a.] "Feito. Agora sua parte do negócio..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Obrigado por minha vida... embora sinta-se à vontade para espalhar a notícia de que sou um cadáver - a vida pode ser mais fácil assim." Ela se levanta lentamente, preparando-se para a longa marcha adiante. "Seguro viagens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>[Saque sua arma.] "Eu sabia que você estava se esquivando das minhas perguntas o tempo todo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"E você seria perfeitamente honesto se fosse você amarrado e amarrado? Por favor, mantenha sua mão - por que me matar quando você pode lucrar com essa troca?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>[Matar] "Estou bem com a sua morte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Negócio. Eu cuido do Refrão. Onde estão suas coisas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Você pode ficar com seus escritos antigos, eu só preciso de alguns de seus pertences para convencer Wagstaff que eu matei você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"E onde você guardou seus escritos em Metalurgia Aquosa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Você não receberá nada de mim a menos que prometa me liberar. Um pequeno preço para minha pesquisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Você não receberá nada de mim a menos que prometa me liberar. Um pequeno preço para minha pesquisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Espere! Não me deixe aqui - se eu não for morto por esses selvagens, meus talentos serão desperdiçados no Refrão!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Desculpe, mas acho que você vai fazer um bom Cantador de Sangue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>A [url=glossary:sage]Sábio[/url] cai de joelhos e chama desanimada para seus companheiros. "Sinto muito, meus amigos. Eu não deveria ter te trazido aqui..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Obrigado por me arrastar para esta fossa de barbárie. Não tenho mais nada a dizer a você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Diga-me onde você escondeu seu diário."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Isso funciona para mim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>[Desamarre-a.] "Eu vou te libertar, mas vou pegar seus pertences."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Ali, na mochila encostada na parede." Parece que a Refrão já saqueou a maior parte do que ela tinha, deixando para trás apenas pergaminhos em branco e um diário mofado.
+
+Ela observa enquanto você vasculha ela posses. "Há um bolso escondido no interior - leve os anéis para lá."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Ah, e Vinculador do Destino - se você está considerando uma maldita solução, deixe-me dar algo a considerar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Ou convencê-los a me deixar ir... mas acho que nós dois sabemos que os brutos só ouvem violência."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Ultimamente, eles parecem se divertir apostando em eventos no [url=glossary:burning library]Biblioteca em chamas[/url] - Tenho certeza de que você pode fazê-los lutar se você se dedicar a isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Preciso considerar isso mais a fundo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>Consegui convencer o Coro a deixar você ir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>O [url=glossary:sage]Sábio[/url] parece momentaneamente atordoado. "Eu mal posso acreditar nisso, Fatebinder - que poderíamos nos livrar do Refrão, e que você nos ajudaria. No que me diz respeito, ambos são pequenos milagres. Obrigado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Obrigado por minha vida... embora sinta-se à vontade para espalhar a notícia de que sou um cadáver - a vida pode ser mais fácil assim. Quanto aos meus escritos, eles estão em um baú quebrado a sudoeste, escondidos entre uma árvore queimada e a carcaça de uma carroça." Ela se levanta lentamente, preparando-se para a longa marcha adiante. "Seguro viagens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>Ela lhe entrega uma bolsa de anéis e uma pequena coleção de pergaminhos. "Leva estes - espero que satisfaçam Wagstaff's demandas." Apesar de seus muitos ferimentos, ela se arqueia para frente e consegue uma reverência profunda. "Agradecer você, Vinculador do Destino. Viagens seguras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>[Desamarre-a.] "O Coro não existe mais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Não tenho certeza se eles vão se matar por causa dessa pequena aposta deles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Então, além de matá-los, talvez pechinche com Crass Callia? Ela é a coisa mais próxima de uma figura de autoridade neste heterogêneo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Vou ver se consigo semear alguma discórdia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Obrigado por ver a razão. Estarei aqui quando você terminar." Ela sorri sombriamente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Outro interrogador?" Ferido e contido, a mulher de meia-idade consegue um sorriso fraco entre os lábios inchados e cobertos de sangue. Embora cortes e queimaduras percorram todo o comprimento de seu corpo, sua compostura tranquila lhe confere uma surpreendente medida de dignidade. "Desculpas se estou... ficando sem gritos." Ela ri, estremecendo de alguma dor desconhecida.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Acho que você não vai me libertar se eu responder suas perguntas...?" Ela se esforça para manter a cabeça erguida, abrindo um leve sorriso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Engraçado eu seria perguntado pelo Vinculador do Destino que proclamou o [url=glossary:edict]Edital[/url] do Fogo! Você pode imaginar meus colegas fugindo, pergaminhos e pergaminhos enrolados em seus membros e explodindo de suas mochilas? Bem, eue andamos vasculhando a área, esperando além da esperança encontrar alguns fragmentos de nossos antigos escritos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Quando você nos avisou sobre o [url=glossary:edict]Edital[/url] de Incêndio, muitos dos meus colegas pegaram o que podiam carregar e fugiram do [url=glossary:vellum citadel]Cidadela de Velino[/url]. Quaisquer que sejam os textos, agora são tudo o que temos de nossas antigas vidas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Eu não fui o único [url=glossary:sage]Sábio[/url] a escapar do [url=glossary:edict]Edital[/url] de Incêndio, e muitos carregavam pergaminhos e tomos enquanto fugiam da destruição. Não vai trazer de volta o Escola, mas me traz consolo para juntar os restos que eu puder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"A verdade é... Eu escondi alguns escritos antigos nesta aldeia anos antes da guerra. Voltei para recuperar as mensagens, mas... alguém me venceu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>Quando os laços se desfazem, ela esfrega o pulso com um sorriso de dor. "Olhe para o sudoeste, em um caixote quebrado entre uma árvore queimada e os restos enegrecidos de uma casa. Minha magia escondeu sua imagem, mas se você sabe onde procurar, deveria vê-la."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Certamente há algo que posso lhe oferecer. Eu..." Ela fala em um sussurro relutante, seus ombros caídos em derrota. "Eu vou... Eu vou te dar meus escritos em Metalurgia Aquosa. Escondi o diário ali perto, mas você nunca o encontrará sem minha ajuda. Só não me deixe com o Refrão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"Por favor! Vou falar seus elogios em todos os níveis! Que bens escassos eu tenho - eles são seus!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"Que porra é essa, Fatebinder?" A mão de Callia se move em direção ao cinto, mas uma fração de segundo depois, sua sensação de indignação parece diminuir. "Qualquer que seja, é melhor assim... cansado de cuidar deles de qualquer maneira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>Do outro lado, você vê uma Callia indignada gritando algo ininteligível para você enquanto balança o punho. Ela olha para você por um momento antes de acenar com um aceno de cabeça desdenhoso. Ela vira as costas para você e chuta um capacete de mãos desavisadas Corista.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"Verdadeiramente? Não sei como... Esta é uma misericórdia que eu não esperava..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>Ela olha de volta para seus companheiros. "Com o Coro se foi, poderemos partir para climas mais amigáveis. Vou precisar de algum tempo para me recuperar deste passeio." Com as mãos trêmulas, ela atende seus companheiros, desamarrando suas amarras e sussurrando palavras de encorajamento. Abalado, mas exultante, o grupo foge para o deserto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"Ali, na mochila encostada na parede." Parece que a Refrão já saqueou a maior parte do que ela tinha, deixando para trás apenas pergaminhos em branco e um diário mofado.
+
+Ela observa enquanto você vasculha ela posses. "Há um bolso escondido no interior - leve os anéis para lá."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>Satisfeito com seu transporte, você corta a corda que prende o Sábios. Phoibe esfrega os pulsos e, com um breve aceno de cabeça, começa a mancar em direção às escadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>Satisfeito com seu transporte, você corta a corda que prende o Sábios. Phoibe esfrega os pulsos e, com um breve aceno de cabeça, começa a mancar em direção às escadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Ali, na mochila encostada na parede." Parece que a Refrão já saqueou a maior parte do que ela tinha, deixando para trás apenas pergaminhos em branco e um diário mofado.
+
+Ela observa enquanto você vasculha ela posses. "Há um bolso escondido no interior - leve os anéis para lá."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"Muito bem. Apenas saiba que não tenho mais nada a oferecer, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>[Golpeie ela.] "Deitado por omissão não te levará a lugar nenhum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"Isso depende da sua cooperação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"Responda minhas perguntas, então discutiremos seu destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Acho que não estou em posição de recusar..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"Wagstaff me enviou para te matar - diz que você é uma ameaça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>[Conquista] "Então você está me dizendo que eu avisei os Sábios do [url=glossary:edict]Edital[/url] do Fogo e em agradecimento, todos vocês cometeram atos de acumular conhecimento proibido..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Que tipo de textos você veio aqui para recuperar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>[Golpeie ela.] "Deitado por omissão não te levará a lugar nenhum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"Eu pergunto porque eles podem ter solicitado conhecimento proibido... uma ofensa punível."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"Você ainda está vivo, então está dizendo algo a eles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Eles assumem que estou caçando algo de valor. O que é verdade, pensei que meus antigos escritos estivessem escondidos nesta vila, mas... alguém já chegou a eles primeiro. Eles NÃO estão felizes com essa resposta, infelizmente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"Me perguntaram se eu sabia como entrar nos cofres inferiores do [url=glossary:burning library]Biblioteca em chamas[/url]. Não sendo um ancião do Escola, eu não poderia ter dito a você como chegar lá mesmo quando era uma peça... eles obviamente não acreditaram em mim e usaram isso como uma desculpa para saciar seu desejo de violência ."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>Com um revés rígido, você bate na lateral da cabeça dela, e ela estremece com o impacto. "Você acha que... eu não... já sofri pior?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>[Bata nela novamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>[Afaste-se, ignore o assunto.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>Ela acena com a cabeça calmamente em resposta à notícia, suspirando suavemente. "Entendo. Eu deveria ter esperado isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>Com um revés rígido, você bate na lateral da cabeça dela, e ela estremece com o impacto. "Você acha que... eu não... já sofri pior?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>Você bate seu punho contra a boca dela, jogando sua cabeça para trás. "Suficiente, não mais! Eu falo, se isso parar sua mão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>[Bata nela novamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>[Afaste-se, ignore o assunto.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"Ah, [url=glossary:sage]Sábio[/url] Phoibe. Você está parecendo... como se estivesse se mantendo ativo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"Ah, pelo amor de... por que não estou surpreso de ver o Soberano fanático mais leal do lado dos meus captores."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"Quem é seu amigo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"Você quer dizer a ela Wagstaff quer ela morta, ou devo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"Este é [url=glossary:sage]Sábio[/url] Phoibe, um dos nossos... membros mais brilhantes, se me dói dizer isso. Ela é especialista em Ocultação magia... ou pelo menos deveria ser especialista o suficiente para NÃO ter sido pega."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"[url=glossary:sage]Sábio[/url] Phoibe e eu somos antigos, embora raramente trabalhássemos juntos no passado. Ela e eu não concordamos em muitas coisas, como o-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>"Marchando para [url=glossary:kyros]Kyros[/url]' bateria já? Era este o arranjo? Você prega a rendição aos Sábios e [url=glossary:kyros]Kyros[/url]' lacaios tratam você como um animal de estimação?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"Chega disso! Você faria faça bem em ouvir o Vinculador do Destino... e obedecer. Duvido que acredite em mim, mas não quero que sofra mais do que já sofreu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>[Sussurro para matar-in-Shadow.] "Cheiro o [url=glossary:sage]Sábio[/url], então procure na área por qualquer coisa que corresponda ao cheiro dela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>[Permaneça em silencio.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>Ela reconhece seu comando com um aceno de cabeça e se inclina para perto de Phoibe, passando uma garra ao longo da bochecha de [url=glossary:sage]Sábio[/url] enquanto observa a tinta e o suor do prisioneiro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>De focinho para cima, Kills-in-Shadows se abaixa e olha em volta. Ela parece incapaz de sentir um cheiro, mas determinada a continuar cheirando do mesmo jeito.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>[Bata nela.] "exposição algum respeito quando você fala de [url=glossary:sage]Sábio[/url] Lantry."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>[Permaneça em silencio.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>"eu uh - eu pensei mais em recuperar o que era nosso... eu não... não houve intenção criminosa..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>Com um revés rígido, você bate na lateral da cabeça dela, e ela estremece com o impacto. "Você acha que... eu não... já sofri pior?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>[Bata nela novamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>[Afaste-se, ignore o assunto.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>[Dá um soco nela.] "Chega de mentiras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>Seu punho em sua mandíbula provoca uma maldição sufocada. "Pare! Pare! Garanto a você, essa é a verdade! Lá seria uma época em que eu resistiria à tortura para protegê-lo - mas esses dias não existem mais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>Com um revés rígido, você bate na lateral da cabeça dela, e ela estremece com o impacto. "Você acha que... eu não... já sofri pior?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>Você bate seu punho contra a boca dela, jogando sua cabeça para trás. "Suficiente, não mais! Eu falo, se isso parar sua mão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>[Bata nela novamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>[Afaste-se, ignore o assunto.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>[Mate-a.] "Como preferir..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>[Soque nela.] "Sua a morte pode ser um processo lento..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>Sua cabeça se inclina para trás, e quando ela finalmente se estabiliza, seu lábio trêmulo forma um sorriso malicioso. "Diga ao Wagstaff, morre comigo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>[Bata nela novamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>[Bata nela.] "Estou cansado dessas não-respostas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>[Aponte para Eb.] "Meu Tidecaster aqui não gosta tanto de Sábios... sem dúvida ela estaria ansiosa para sacudir sua memória."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"De fato, eu adoraria pegar seu cérebro... lentamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>Ela dá a Eb um olhar preocupado. "Eu sei muito bem que você quer dizer isso literalmente. Multar, eu falo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"O que morre?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>O [url=glossary:sage]Sábio[/url] olha para você em silêncio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>Ela levanta a cabeça, tremendo com o esforço, e olha para você, desafiadoramente silenciosa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>Com um revés rígido, você bate na lateral da cabeça dela, e ela estremece com o impacto. "Você acha que... eu não... já sofri pior?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>[Bata nela novamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"Juro por [url=glossary:kyros]Kyros[/url], você deixará este lugar vivo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>Barik rapidamente se vira para você, mas não diz nada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>"Jure por [url=glossary:kyros]Kyros[/url] que deixarei este lugar vivo, ou você não terá nada além de silêncio de mim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"Você não está em posição de fazer exigências. Eu te ajudo, você me ajuda. Fim da história."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>"Então terminamos." Ela abaixa a cabeça e fica em silêncio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>"Jure por [url=glossary:kyros]Kyros[/url] que deixarei este lugar vivo, ou você não terá nada além de silêncio de mim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>"Juro por [url=glossary:kyros]Kyros[/url], você deixará este lugar vivo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>"Você não está em posição de fazer exigências. Eu te ajudo, você me ajuda. Fim da história."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>"Jure por [url=glossary:kyros]Kyros[/url] que deixarei este lugar vivo, ou você não terá nada além de silêncio de mim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>"Juro por [url=glossary:kyros]Kyros[/url], você deixará este lugar vivo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>"Você não está em posição de fazer exigências. Eu te ajudo, você me ajuda. Fim da história."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>[Afaste-se, ignore o assunto.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"Sei da sua associação com Wagstaff. Diga-me o que quero saber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>"Apenas poesia, um almanaque - coisa sentimental... Não consigo imaginar que essas coisas lhe interessem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>[Golpeie ela.] "Deitado por omissão não te levará a lugar nenhum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>"Você está certo. Eu estava esperando ouvir que você tinha escondido alguma pesquisa sobre algum malandro Arconte conhecido apenas pelo Tiersmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>"Acho que Wagstaff não tem nada a ver com esses registros?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>Seus olhos brilham com seu comentário. "Bem, não uma desconhecida Arconte mas..." ela abaixa a cabeça e fica em silêncio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>[Dá um soco nela.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>"Termine esse pensamento..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>Com um revés rígido, você bate na lateral da cabeça dela, e ela estremece com o impacto. "Você acha que... eu não... já sofri pior?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>Se recuperando de seu ataque, Phoibe gagueja um pedido de desculpas. "Desculpe! Não mais, por favor!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>[Bata nela novamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>[Afaste-se, ignore o assunto.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>"Embora meu trabalho estivesse nos estágios iniciais, eu estava explorando uma... adaptação, de certa forma, da velha magia Lançador de maré. Eu estava trabalhando com uma expressão que permitia que a terra e as ligas se tornassem líquidas e depois voltassem ao estado sólido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>"Eu pensei que esta 'Metalurgia Aquosa' como eu a chamava, mudaria o mundo do artifício como o conhecemos... mas tudo que eu fiz com a magia foi arruinar bugigangas perfeitamente boas. Temo que essa magia esteja fadada a ser pouco mais que uma novidade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>"Que tal isso... se você matar meus captores e jurar por [url=glossary:kyros]Kyros[/url] que eu saio daqui vivo, eu te direi onde está escondido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>Outro golpe em sua bochecha produziu saliva sangrenta e fez voar um dente, mas não obteve resposta no prisioneiro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>"Fale-me sobre este seu 'Metalurgia Aquosa'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>"Embora meu trabalho estivesse nos estágios iniciais, eu estava explorando uma... adaptação, de certa forma, da velha magia Lançador de maré. Eu estava trabalhando com uma expressão que permitia que a terra e as ligas se tornassem líquidas e depois voltassem ao estado sólido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>"Eu pensei que esta 'Metalurgia Aquosa' como eu a chamava, mudaria o mundo do artifício como o conhecemos... mas tudo que eu fiz com a magia foi arruinar bugigangas perfeitamente boas. Temo que essa magia esteja fadada a ser pouco mais que uma novidade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>Você bate seu punho contra a boca dela, jogando sua cabeça para trás. "Suficiente, não mais! Eu falo, se isso parar sua mão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>Com um revés rígido, você bate na lateral da cabeça dela, e ela estremece com o impacto. "Você acha que... eu não... já sofri pior?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>[Bata nela novamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>[Afaste-se, ignore o assunto.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>Rindo triunfantemente, Kills-in-Shadows rasteja em sua visão periférica enquanto você se afasta dos mortos [url=glossary:sage]Sábio[/url]. "Cheiro de espinho-[url=glossary:sage]Sábio[/url] próximo - cheira a tinta que não está lá. Kills-in-Shadows mostrará a você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>Você passa por ela e abre sua mochila, procurando por qualquer item de valor aparente dentro. O refrão provavelmente pegou as valiosas probabilidades e pontas, mas você junta um diário mofado, alguns pergaminhos em branco e alguns itens pessoais e os coloca em sua mochila, sem prestar atenção aos Phoibe's gritos enquanto caminha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>[Raspe a pele dela.] "Nós vamos concluído."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>[Acene silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>Ela lhe entrega uma pequena bolsa de pergaminhos antigos. "O que pouco que eu tenho é seu." Apesar de seus muitos ferimentos, ela se curva para frente e consegue uma profunda reverência. "Agradecer você, Vinculador do Destino. Viagens seguras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>"Vamos nos concentrar na tarefa em mãos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>"Negócio. Eu cuido do Refrão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>"Bem-vindo de volta, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>"O que você quer saber?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>"Eu o libertarei se você me der seus escritos em Metalurgia Aquosa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>"Sirva comigo. Muitos Sábios já atenderam a chamada, será bem vindo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>"Sirva comigo. Muitos Sábios já atenderam a chamada, será bem vindo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>"Você reuniu os outros?" Ela desvia os olhos inchados de você. "Nesse caso, talvez seja melhor deixar o tomo com você. Talvez eu até encontre meu caminho para o seu serviço. Eventualmente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>"Você reuniu os outros?" Ela desvia os olhos inchados de você. "Nesse caso, talvez seja melhor deixar o tomo com você. Talvez eu até encontre meu caminho para o seu serviço. Eventualmente."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\vx1_12_lantry\vx1_12_qst_lantry_act2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>30</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Verdade e reconciliação</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Fale com Mell e Lantry sobre Lexeme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Traga Lantry para falar com Mel sobre Lexeme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Encontre a Fazenda de Feridas do Bastardo crônica</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Encontrar crônicas adicionais</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Encontrar Lexeme's crônicas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Encontre as crônicas restantes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Encontrar Lexeme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Voltar para Lexeme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Confere com Lantry</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Confere com Lantry</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Crônicas do Escola de tinta e pena foram escondidas nas profundezas do Ferida do Bastardo Oldwalls. Ajuda Lantry encontre e remonte-os.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Lantry mencionou saber Lexeme há muito tempo. Fale com ele e Mel sobre seu desaparecimento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Lantry pode querer falar com Mel sobre seu mestre Lexeme. Traga-o para Ferida do Bastardo para falar com Mel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Mell disse que a primeira crônica está escondida na área Fazenda de Feridas do Bastardo. Procure na fazenda com Lantry presente para encontrá-la.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Lantry encontrou uma crônica escondida por [url=glossary:sage]Sábio[/url] Lexeme no Oldwalls. Há provavelmente mais para encontrar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Lexeme disse que havia escondido várias crônicas ao longo do Ferida do Bastardo Oldwalls. Procure nas Velhas Muralhas com Lantry para encontrá-los.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Procure nas Velhas Muralhas para fragmentos adicionais ocultos por Lexeme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Você encontrou todas as do Lexeme crônicas ocultas. Encontre-a e pergunte sobre eles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Você encontrou todas as do Lexeme crônicas ocultas. Retorne a ela para discuti-los.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Com as Crônicas compilado, sem dúvida Lantry terá muito a dizer sobre o assunto, e muito a pesquisar. Fale com ele.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Com as Crônicas compilado, sem dúvida Lantry terá muito a dizer sobre o assunto, e muito a pesquisar. Fale com ele.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Você encontrou a crônica escondida no Fazenda de Feridas do Bastardo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Você encontrou a crônica escondida no Profundidades Fraturadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Você encontrou a crônica escondida no Oco Escurecido.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Você encontrou a crônica escondida em O abismo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Lantry morreu e não pode mais completar esta missão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>As vozes de Lantry não pode completar esta missão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Você ajudou Lantry a enterrar seu passado e seu amante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Você ajudou Lantry a recuperar uma parte perdida de seu passado.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\02_cv_eldian_tiersmasher_argue</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Cuidado com o que você diz perto de mim, velho. Você pode ter estado no comando antes, [url=lore:lc_kyros_controlled]mas eu estou agora.[/url] Não me importo se você não gostar - mostre-me algum respeito ou você vai se arrepender."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Podemos ter que sofrer sob o controle do Refrão, Esmagador de Camadas, mas sem minha ajuda para manter a população aplacada, você teria muito mais dificuldade em manter o controle e você sabe disso. Então eu sugiro que você mostre um pouco de respeito em troca. Como minha mãe sempre dizia: 'Se você não pretende pagar a torta, não peça ao padeiro para fazê-la.' Ela era uma mulher sábia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Congratulo-me com um desafio. As vozes pode ter me proibido de matar todos vocês, mas isso não significa que eu não possa encontrar uma maneira de me divertir de qualquer maneira. É melhor esperar que você não sobreviva ao seu uso. Agora saia da minha vista antes que minha arma escorregue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Suponho que você esteja certo. 'O caracol que se recusa a descansar em sua concha sempre acaba sendo salgado.'" Ele balança a cabeça.
+
+"Ok, nem tudo que ela disse era uma joia."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\06_endgame\06_cv_voicesofcompanion_kis</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Alfa para matar-in-Shadow parece estranho. Parece mais brilhante quando perto, mas... difuso quando longe. Desaparece na escuridão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Você está bem aí?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Como é executar o [url=glossary:scarlet chorus]Coro Escarlate[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Já colocou alguém no pico?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Não gosto de corpo humano fraco. Falta tetas e garras de matar. Cheira a podridão e não pode deslizar facilmente na escuridão. Sentimentos... errado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Matilha de filhotes fracos não ouve como deveria. Tive que arrancar a garganta de muitos mais de cinco Alfas antes que outros aprendessem a rastejar e choramingar a da mulher-fera pés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Já não tem garras e dentes de matar. Tem que caçar humanos com ferro. Tem que punir com muitos espinhos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Deixar] "Fica aqui. Voltarei... mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Ela enrola o lábio em desgosto.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

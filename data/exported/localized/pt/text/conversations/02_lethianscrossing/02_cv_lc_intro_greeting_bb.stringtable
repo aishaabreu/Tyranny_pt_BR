@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\02_cv_lc_intro_greeting_bb</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Bem-vindo ao [url=glossary:lethian's crossing]A travessia de Lethian[/url], viajante! Você é livre para entrar, mas observe a si mesmo enquanto estiver aqui. Os comerciantes e cidadãos da cidade estão sob nossa proteção e não toleramos ninguém que prejudique nossa autoridade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Quem manda aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Que tipo de comerciantes você tem aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Conte-me mais sobre [url=glossary:lethian's crossing]A travessia de Lethian[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Deixar] "Falo com você mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"A Irmandade líder na Travessia é o Segundo Irmão Ceratha. Ela é responsável por manter o assentamento seguro quando Raetommon não estiver por perto."
+
+"Por outro lado, fale com Eldian. Ele é o ancião da cidade e com quem você vai querer falar sobre os problemas locais." Ele aponta para o leste. "Ambos deles podem ser encontrados no nível térreo do Distrito do Nascer da Lua."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Você encontrará praticamente tudo o que quiser - na maioria das vezes. [url=glossary:lethian's crossing]A travessia de Lethian[/url] é um grande centro comercial e muitas mercadorias passam pela área."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Os colonos estão aqui há muito tempo, isso é praticamente tudo o que sei. Se você quiser detalhes, encontre Eldian. Ele é o ancião da cidade. Ele pode responder às suas perguntas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Se você ainda não o fez, verifique com o Conta-gotas Ceratha, o Segundo-Irmão. Ela vai querer falar com você!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Há algo em que eu possa ajudá-lo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Bem-vindo de volta, viajante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"O que é o Distrito do Nascer da Lua?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"O distrito do nascer da lua é composto por todos os edifícios do outro lado do rio. Se você precisar de alguma coisa deste lado, estará procurando no Distrito do nascer do sol. Este rio Portuscor divide os dois distritos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"A Irmandade líder na Travessia é o Segundo Irmão Ceratha. Ela é responsável por manter o assentamento seguro."
+
+"Por outro lado, fale com Eldian. Ele é o ancião da cidade." Ele aponta para o leste. "Ambos deles podem ser encontrados no nível térreo do Distrito do Nascer da Lua."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Assim que as palavras saem de sua boca, ele dá um pequeno passo para trás. "Não estou sugerindo que você prejudique nossa autoridade... quero dizer, sua autoridade é absoluta, Vinculador do Destino. O [url=glossary:edict]edito[/url] que você liberou... uh... proclamado em [url=glossary:lethian's crossing]A travessia de Lethian[/url] certamente foi uma ajuda, não um obstáculo! Isso manteve os encrenqueiros longe!" Ele se mexe desconfortavelmente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Assim que as palavras saem de sua boca, ele dá um pequeno passo para trás. "Não sugerir que você iria minar nossa autoridade... Ou que poderíamos impedi-lo se você quisesse. Não que você queira, é claro!" Ele se mexe desconfortavelmente. "Peço desculpas, Vinculador do Destino. Eu nunca estive na presença de alguém cujo poder rivaliza com [url=glossary:kyros]Kyros[/url]'. Por favor, perdoe minha explosão."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

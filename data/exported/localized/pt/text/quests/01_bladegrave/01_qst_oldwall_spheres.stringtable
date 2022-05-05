@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\01_bladegrave\01_qst_oldwall_spheres</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>As pedras da elucidação</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Recupere as Pedras da Elucidação para Hieronymus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Dê as pedras para Hieronymus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Hieronymus quer que você pegue os dois Pedras de Elucidação do Violação de Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Hieronymus encarregou você de recuperar o Pedras de Elucidação do Violação de Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Você coletou os dois Pedras de Elucidação do Oldwalls. Entregue-os a Hieronymus em Violação de Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Você recuperou o primeiro Pedra da Elucidação. Depois de encontrar o segundo, devolva-o para Hieronymus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você enfrentou o Violação de Oldwalls e recuperou o Pedras de Elucidação para Hieronymus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Missão falhou</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\vx1\vx1_qst_hiddentruths</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Verdades ocultas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Viaje para o Bastião Despedaçado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Encontre o [url=glossary:sage]Sábio[/url] que o convocou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Lide com o [url=glossary:scarlet chorus]Coro Escarlate[/url] no Bastião Despedaçado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Procure as ruínas para a entrada da caverna</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Fale com Rholes, o Açougueiro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Fale com Gwyneth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Procure nas ruínas um método de limpar a entrada da caverna desmoronada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Pegue o fogo do oceano de Gwyneth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Acesse a caverna com o Fogo do Oceano.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Explore a caverna.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Leia a missiva [url=glossary:sage]Sábio[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Pegue o fogo do oceano de Gwyneth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Fale com Gwyneth.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Procure as ruínas para a entrada da caverna</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>A [url=glossary:sage]Sábio[/url] ofereceu a você informações valiosas em troca da preservação de sua pesquisa e do bem-estar de seu escriba.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>O [url=glossary:sage]Sábio[/url] o direcionou para uma propriedade em ruínas no Nível Bastardo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Explore as ruínas da propriedade para encontrar o paradeiro do '[url=glossary:sage]Sábio[/url] L' que entrou em contato com você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Os [url=glossary:scarlet chorus]Coro Escarlate[/url] se recusam a deixar qualquer pessoa explorar livremente a propriedade. Convença ou force-os a baixar a rampa ou encontre uma rota alternativa pela área.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Com a ameaça imediata neutralizada, você pode terminar sua busca no Shattered Bastion pela caverna mencionada por [url=glossary:sage]Sábio[/url] Lexeme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Satisfeito, Rholes baixou a rampa que leva ao acampamento [url=glossary:scarlet chorus]Coro Escarlate[/url]. Fale com Rholes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Agora que o [url=glossary:scarlet chorus]Coro Escarlate[/url] foi resolvido, você deve perguntar a Gwyneth sobre o plano dela para acessar a caverna.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Algo dentro das ruínas pode ajudar a desalojar os escombros que bloqueiam a boca da caverna.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Gwyneth afirma possuir uma substância chamada Fogo do Oceano que pode abrir a entrada da caverna. Recupere-o dela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Use o fogo do oceano de uma distância segura para limpar a entrada da caverna.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Procure na caverna por sinais do [url=glossary:sage]Sábio[/url] que entrou em contato com você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Você recebeu uma missiva de um '[url=glossary:sage]Sábio[/url] L.' Leia a mensagem para saber mais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Gwyneth afirma possuir uma substância chamada Fogo do Oceano que pode abrir a entrada da caverna. Recupere-o dela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>Agora que o [url=glossary:scarlet chorus]Coro Escarlate[/url] foi resolvido, você deve perguntar a Gwyneth sobre o plano dela para acessar a caverna.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Com a ameaça imediata neutralizada, você pode terminar sua busca no Shattered Bastion pela caverna mencionada por [url=glossary:sage]Sábio[/url] Lexeme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Mate todos os [url=glossary:scarlet chorus]Coro Escarlate[/url] encontrados no Bastião Despedaçado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Gwyneth pediu sua ajuda para livrar o Shattered Bastion dos [url=glossary:scarlet chorus]Coro Escarlate[/url] ocupantes. Ela afirma que seu grupo irá ajudá-lo a acessar a caverna em troca de sua ajuda.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Mate Warbler e sua gangue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Mate Rholes, o Açougueiro e sua gangue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>A refugiada Gwyneth mencionou que tinha uma maneira de abrir a caverna desmoronada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você se encontrou com Mel, [url=glossary:sage]Sábio[/url] aprendiz de Lexeme, e descobriu que [url=glossary:sage]Sábio[/url] Lexeme está faltando dentro do Ferida do Bastardo Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

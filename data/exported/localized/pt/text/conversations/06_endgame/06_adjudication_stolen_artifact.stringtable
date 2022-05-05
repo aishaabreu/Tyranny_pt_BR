@@ -1,0 +1,275 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\06_endgame\06_adjudication_stolen_artifact</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>53</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Meu senhor [url=glossary:tunon]Tunon[/url]... Devo pedir minha inocência neste assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Isso caberá ao tribunal decidir. O [url=glossary:forge-bound]Forge-Bound[/url] são meus assuntos, e eu os mantenho em um padrão mais alto. Vocês são os guardiões do segredo de ferro. Isso não pode ser esquecido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Vinculador do Destino, muito gentil de sua parte se juntar a nós. Gostaria de saber se você pode ajudar a julgar este caso. Como sempre, estou curioso para testemunhar a execução da lei [url=glossary:kyros]Kyros[/url]'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Seria um prazer, Sua honra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Estou ocupado no momento. Talvez mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Vinculador do Destino, você está pronto para ouvir meu caso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Excelente. Smith, ofereça seu testemunho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>O artesão [url=glossary:forge-bound]Forge-Bound[/url] limpa a garganta. "Comprei uma bugiganga brilhante de um comerciante que passava por [url=glossary:lethian's crossing]A travessia de Lethian[/url] - uma pedra de grande beleza e força. Com o tempo, transformei-o em um martelo para bater ferro. As propriedades da pedra eram incríveis. Eu poderia balançar mais forte, mais rápido e sem esforço. Isso aumentou dez vezes minha produção de armas de ferro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Até que seu mestre começou a desconfiar e o entregou a mim. O 'bauble' de que você fala era uma pedra de toque - um artefato conhecido por se originar do Oldwalls, ao qual todos estão proibidos de ir." 
+
+"A acusação é invasão e roubo de artefatos proibidos. Você pode prosseguir, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Você sabia de onde veio a pedra de toque?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Quando você percebeu a origem do objeto, parou de usá-lo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Você já mentiu sobre usar o martelo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Estou pronto para dar minha decisão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"A princípio não. O mercador não quis revelar suas fontes. Mas não demorou muito para juntar as peças. Você simplesmente não encontra objetos com tanto poder em nenhum outro lugar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Não... Assim que entendi, cada golpe do martelo me envergonhou algo terrível. Mas eu sabia que estava fazendo certo por [url=glossary:kyros]Kyros[/url]. Eu estava enviando ao seu exército as melhores armas que eu já tinha criado. Achei que isso poderia me absolver. Acho que pensei errado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Não! Ou seja, os outros ferreiros estavam curiosos sobre meu trabalho, mas ninguém pensou em inspecionar minhas ferramentas. Como ninguém perguntou, eu nunca contei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Uma mentira de omissão, então. Tão nefasto aos olhos de [url=glossary:kyros]Kyros[/url]. O que se sua ferramenta arcana machucou alguém, ou você mesmo? O que então teria se tornado de produção de ferro?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"eu... não sei, Sua honra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Confio em seus instintos, Vinculador do Destino. Certifique-se de que minha confiança não seja extraviada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"O ferreiro nunca traiu [url=glossary:kyros]Kyros[/url]. Ele deve ficar livre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"O artefato - e seu uso - foram proibidos. O ferreiro é culpado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Conhecimento proibido é tabu sob a lei [url=glossary:kyros]Kyros[/url]', mas o ferreiro era ignorante. Ele deve ficar livre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Deixe-me voltar às minhas perguntas anteriores."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Você... você realmente fala sério?" Ele se recompõe com confiança renovada e sorri para você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Suas palavras cheiram a subjetividade, falta de disciplina e, no entanto, são suas regras. Então deixe acontecer que o [url=glossary:forge-bound]Forge-Bound[/url] é inocente e retornará aos seus trabalhos. Smith, tome cuidado com suas futuras infrações. O tribunal lembra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ah... ah, não." Ele estremece em antecipação de um golpe que se aproxima.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Tal é a vontade de [url=glossary:kyros]Kyros[/url]. Embora eu esteja relutante em ver a produção de ferro cair, não posso tolerar a improvisação nas fileiras do meu [url=glossary:forge-bound]Forge-Bound[/url]. E a punição, Fatebinder? Posso contar com você para determinar uma resposta proporcional."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Então... posso ir?" Ele olha de você para [url=glossary:tunon]Tunon[/url] e volta com pânico e incerteza.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Uma interpretação astuta da lei [url=glossary:kyros]Kyros[/url]', mas não posso negar sua validade. Muito bem. O [url=glossary:forge-bound]Forge-Bound[/url] pode retornar às suas funções, usando apenas as ferramentas de seu ofício. Está entendido?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Sim, Meritíssimo! Voltarei aos meus trabalhos imediatamente!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Outro interrogatório? Vou permitir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Vá em frente. Comece do início."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ainda não. Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Misericórdia, meu Senhor [url=glossary:tunon]Tunon[/url]. Misericórdia!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Nó de script 39</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Será uma honra retornar à forja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Eu nunca quis quebrar a lei [url=glossary:kyros]Kyros[/url]', mas aqui estou eu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Não me deixe esperando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Gostaria de um tempo para considerar o assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Você está pronto para governar minha... minha transgressão?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Lembre-me dos detalhes do caso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"O ferreiro perderá uma mão de sua escolha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Três dias nas ações devem ser suficientes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Marque o rosto dele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Morte, claro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Apropriado à sua maneira. A produção de ferro pode sofrer, mas o custo da justiça é pago."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Sua medida de justiça é severa, mas justa." [url=glossary:tunon]Tunon[/url] acena para você em aprovação. "[url=glossary:kyros]Kyros[/url]' será feito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Para ser o escárnio de seus pares e compatriotas. Sim, acho que vai servir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Sim, uma marca de punição. Um sigilo de vergonha para usar pelo resto de seus anos. Um fardo na juventude, mas uma lição com a idade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Você é tão intransigente quanto eu já lhe ensinei a ser na execução da lei [url=glossary:kyros]Kyros[/url]'. Muito bem, Vinculador do Destino. O tribunal foi adiado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Nó em cascata 56</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Uma frase difícil, mas abre o precedente de forma adequada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Não há como educar algumas pessoas, mas você pode pelo menos dar o exemplo para o resto."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

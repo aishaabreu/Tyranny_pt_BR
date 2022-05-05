@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\02_bs_ironhaul_bb</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"A Irmandade é muito mais organizado com Raetommon no controle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Gostaria que alguém me dissesse por que sempre sou colocado no pedágio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Eles não me parecem tão duros. Achei que o [url=glossary:disfavored]Desfavorecido[/url] deveria ser perigoso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Os [url=glossary:scarlet chorus]Coro Escarlate[/url] melhor ficar fora do nosso território se eles sabem o que é bom para eles."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

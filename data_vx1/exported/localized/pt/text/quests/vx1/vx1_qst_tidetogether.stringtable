@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\vx1\vx1_qst_tidetogether</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>42</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Maré Juntos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Fale com a Melita em [url=glossary:lethian's crossing]A travessia de Lethian[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Encontre Phoibe na vila de Flogisto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Mate o [url=glossary:scarlet chorus]Coro Escarlate[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Fale com Crass Callia sobre Phoibe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Fale com Phoibe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Voltar para Wagstaff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Fale com Phoibe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Voltar para Wagstaff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Enfrente o Coro sobre jogos de azar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Regresso a Phoibe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Confronte Crass Callia sobre o jogo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Encontre o Tomo da Metalurgia Aquosa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Pesquise a área.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Voltar para Wagstaff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Titulares e Sábios estão lutando entre si por mais tempo do que os dois lados podem se lembrar. Fiel à forma Wagstaff tem pelo menos uma tal rivalidade. Ele pediu para você matar uma [url=glossary:sage]Sábio[/url] chamada Phoibe e trazer de volta todos os seus pertences como prova da ação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Wagstaff mencionou uma mulher chamada Melitta, uma associada que pode saber onde Phoibe reside atualmente, pois o [url=glossary:vellum citadel]Cidadela de Velino[/url] foi destruído pelo [url=glossary:edict]Edital[/url] de Incêndio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>A última localização conhecida de Phoibe foi no que resta de uma vila atualmente conhecida como Flogisto. A vila pode ser encontrada nas Terras Contestadas não muito longe do [url=glossary:burning library]Biblioteca em chamas[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>O [url=glossary:scarlet chorus]Coro Escarlate[/url] fica entre você e o [url=glossary:sage]Sábio[/url], mate-os.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Os [url=glossary:scarlet chorus]Coro Escarlate[/url] detiveram o [url=glossary:sage]Sábio[/url] que você estava procurando. Você pode convencer o líder deles a deixá-lo falar com ela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>O [url=glossary:scarlet chorus]Coro Escarlate[/url] deu a você acesso para falar com Phoibe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Pegue o Phoibe's posses de volta para Wagstaff como prova de sua morte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Você removeu o [url=glossary:scarlet chorus]Coro Escarlate[/url] entre você e Phoibe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Você decidiu não matar Phoibe nem pegar nenhum de seus pertences. Voltar para Wagstaff e informe-o de sua decisão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>Phoibe informou que vários membros da gangue estão apostando entre si em quem encontraria o Arquivo Silencioso. Use esta informação para convencê-los a libertar os sábios.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Deixe Phoibe saiba como foi o confronto com o [url=glossary:scarlet chorus]Coro Escarlate[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>Você resolveu um problema com Refrão membros de gangues e seus jogos de azar mais cedo. Use isso como alavanca para convencer Crass Callia a deixar o Sábios ir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10020</ID>
+      <DefaultText>Phoibe escondeu o Tomo de Metalurgia Aquosa nas proximidades, procure por ele.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10021</ID>
+      <DefaultText>Kills-in-Shadow localizou algo pertencente a Phoibe nas proximidades, procure-o.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10022</ID>
+      <DefaultText>Pegue o Phoibe's posses de volta para Wagstaff como prova de sua morte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Confrontando Crass Callia sobre o problema do jogo não produziu nenhum resultado em relação à liberação dos sábios. Fale com a Horda que está apostando nisso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Você puniu os Horda enviando-os para Ferida do Bastardo. Sem o apoio deles, você provavelmente pode convencer Crass Callia a liberar os sábios.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Biqueira Agulha sugeriu conversar com Skinner sobre a punição por jogos de azar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Ragwort sugeriu conversar com Skinner sobre a punição por jogos de azar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Confrontando Crass Callia sobre o problema do jogo não produziu nenhum resultado em relação à liberação dos sábios. Falando com Skinner pode gerar resultados diferentes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você matou Phoibe e trouxe de volta o Tomo de Metalurgia Aquosa para Wagstaff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você deu o Tomo de Metalurgia Aquosa para Wagstaff mas deixou o [url=glossary:sage]Sábio[/url] Phoibe vivo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Você trouxe de volta Phoibes coisas para Wagstaff como ele pediu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Você deu o Tomo de Metalurgia Aquosa a Jaspos. Wagstaff não ficou satisfeito com sua decisão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Você matou Wagstaff e não conseguiu completar esta missão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Você deixou Phoibe viva e não trouxe os pertences dela de volta para Wagstaff como ele pediu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>A oportunidade de resolver esta tarefa passou.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

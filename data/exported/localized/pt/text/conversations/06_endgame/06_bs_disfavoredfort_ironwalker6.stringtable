@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\06_endgame\06_bs_disfavoredfort_ironwalker6</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Cantador de Sangue a magia tomou meus olhos, então não luto tão bem quanto antes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"A maioria das nossas feridas cicatrizam, mas não esta. Você não ouvirá isso com tanta frequência na legião."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Eu não deveria ser capaz de ver nada, mas às vezes tenho vislumbres de luz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"O brilho azul ao redor do [url=glossary:graven ashe]Cinza esculpida[/url] é o mais vibrante, mas outros também o têm."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Você tem uma cor promissora. Tão cheio de vida e potencial."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Sua cor é filtrada por uma névoa de raiva e comando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Não me escute. São apenas meus sentidos confusos falando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Estou tentando aprimorar minha audição antes de voltar para a batalha. A falange me chama para casa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Nó do banco9</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Nó de conversão de gatilho 37</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

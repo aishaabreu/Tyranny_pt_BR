@@ -1,0 +1,454 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\vx1\vx1_09_cv_capteron</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>88</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Um homem de meia-idade acena para você, segurando uma pequena caixa de maçã em um braço. Um pedaço de pergaminho gasto sai de seu punho fechado, marcas de carvão visíveis em sua superfície exposta. "Nós vamos conheci, viajante. Desculpe, eu estava contando isso para Hermod e não vi você chegando. Bem-vindo a South Haven."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Bom dia, senhor." Capteron oferece uma pequena reverência quando você se aproxima dele.</DefaultText>
+      <FemaleText>"Bom dia, minha senhora." Capteron oferece uma pequena reverência quando você se aproxima dele.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Há algo que eu possa fazer por você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Não estou familiarizado com South Haven. Conte-me sobre isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Como esta vila acabou sendo composta por [url=glossary:forge-bound]Forge-Bound[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Deixar] "Por enquanto é só."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Eu não tenho certeza do que é realmente digno de nota." Ele coça o queixo, inadvertidamente o borrando com carvão. "Temos o rio e o mar por perto e vivemos do que eles nos trazem nas estações boas, trocamos pelo que não temos quando a sorte se esgotar. Se você já está entediado, bom - acho que as forças [url=glossary:kyros]Kyros[/url]' também estavam entediadas e pareciam nos ignorar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ah, a chegada deles foi a maior mudança que experimentamos em muito tempo! Isso é faz... talvez dois anos? Esse comitiva vigiada veio à cidade e todos nós pensamos que estávamos sendo invadidos, mas não - apenas um bando de artesãos reservando passagem para fora do porto ao sul daqui. Quando chegaram, todos estavam com febre e precisavam descansar. Desde Old Lyones eliminado, deixamos a [url=glossary:forge-bound]Forge-Bound[/url] usar a casa dela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Cassandra está quase sempre no trabalho, apenas no telhado do prédio atrás de mim. Ela é uma mulher ocupada, mas tenho certeza que ela tem tempo para você, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ela é incrível. Ela não é uma garota da primavera, mas pode partir uma pedra melhor do que qualquer homem da aldeia. Você pode dizer que seus aprendizes a respeitam apenas pelo jeito que eles olham para ela. Todos na aldeia sentem o mesmo. Se ela falar, notamos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"O que você sabe sobre Cassandra?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Eu poderia precisar de sua ajuda com um assunto relacionado a Cassandra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Ele aponta para si mesmo, piscando em confusão. "Eu? Quer dizer, eu não sei nada sobre o que o [url=glossary:forge-bound]Forge-Bound[/url] faz. O que você poderia precisar de mim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Suborno] "Cassandra não precisa saber de nada, incluindo essa pilha de anéis que tenho para você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"A raiva de Cassandra será o menor dos seus problemas se você recusar meu pedido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Vinculador do Destino, por favor... Não posso fazer isso com Cassandra. Ela tem sido tão boa para nós!" Suas mãos tremem enquanto ele se atrapalha com o pergaminho amassado. "São muitos anéis, com certeza, mas tenho tudo o que preciso. Além do mais, não sou bom em trapaças. As pessoas podem ver as mentiras bem na minha cara."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ela mantém as ferramentas na mesa mais próxima dela. Eu ajudo seus aprendizes com pequenas coisas o tempo todo, então eles podem não me notar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Suas ferramentas de corte são valiosas e eu preciso delas. Você poderia obtê-los para mim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Quão ativos são os [url=glossary:forge-bound]Forge-Bound[/url] à noite?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Suas ferramentas?" Seus olhos se arregalam. "Não entendo, Vinculador do Destino. Tenho certeza que você poderia falar com Cassandra sobre isso. Não sou do Norte... não conheço os jeitos dela. Ela também ficaria furiosa se eu as tirasse dela!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Eles não aceitam qualquer tipo de invasão à noite. Eles são especialmente protetores de Cassandra... como deveriam ser! Ela é uma rara mestra em seu ofício e eles têm sorte de tê-la."
+ 
+Ele para, franzindo a testa. "Por que você pergunta, Fatebinder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Esquece."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Mentira] "Estou aqui para avaliar o trabalho deles, então minhas perguntas devem ser exaustivas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Tenho a sensação de que essas ferramentas podem desaparecer misteriosamente durante a noite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ah, entendo. Nós vamos, Cassandra e seus aprendizes trabalham o dia todo e só param quando a luz do dia acaba. Mas eu não sou artesão e não posso falar sobre a qualidade do artesanato deles - você deveria ver o funcionamento deles você mesmo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Espere até o anoitecer]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Deixar] "Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Você pode encontrar o [url=glossary:forge-bound]Forge-Bound[/url] no telhado do prédio atrás de mim. Cassandra mantém seus aprendizes trabalhando até tarde, mas raramente fica acordado com eles a essa hora. Afinal, ela acorda antes do amanhecer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Espere até de manhã.] "Preciso de um lugar para ficar até de manhã."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Tenho outras perguntas para você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Nada com que você precise se preocupar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Você quer dizer com mágica... ah, você quer roubar-" Seus olhos se arregalam e ele olha para a forja em pânico. "Não, isso não está certo. Vou contar a Cassandra sobre isso!" Ele começa a se afastar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ah... como quiser, Vinculador do Destino." Ele olha para o chão, chutando suavemente as pedras a seus pés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Mate ele.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>[Soque nele.] "Guarda quieto, ou isso vai continuar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Antes que ele possa escapar, você o agarra por trás e, com o braço em volta da garganta dele, aperta até que sua traqueia seja esmagada e ele pare de se debater em protesto. Você o arrasta para trás dos contêineres próximos, escondendo-o da vista.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Quando ele vira as costas, você interrompe sua fuga com um golpe rápido no rim. Ele cai no chão, segurando seu lado em agonia. Ele implora entre suspiros de dor por ar. "Misericórdia! Eu vou cumprir. Eu não vou dizer nada. Eu prometo!"
+
+Ele rasteja para longe de você, levantando-se lentamente cambaleando antes de finalmente começar a correr em direção à borda da vila.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Acalme-se. Tenho uma ideia melhor - você terá as ferramentas para mim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>[Mentira] "Levando as ferramentas são um assunto inofensivo. Na pior das hipóteses, Cassandra trabalharia um pouco mais devagar e prolongaria sua estadia na cidade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Oh, ela pode ir embora? Eu... eu não percebi isso." Seus ombros caem e ele fica quieto.
+ 
+"Nós vamos, talvez não fosse tão ruim se eu pegasse as ferramentas. Cassandra sempre diz que os knappers podem fazer o que precisarem. E acho que ela foi levada para South Haven, então tenho certeza que ficar na cidade seria bom para ela. Talvez ela finalmente tenha tempo para falar comigo também. Tudo bem, eu te ajudo. Tenho certeza de que você precisa deles por um bom motivo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Isso faz sentido. Vá à noite, então."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Sem mais desculpas. Vá agora enquanto ainda estou me sentindo caridoso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>[Suborno] "Suae certo, ofereci muito pouco. Por favor, leve-os... seria rude recusar um pedido Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Ela mantém as ferramentas na mesa mais próxima dela. Eu ajudo seus aprendizes com pequenas coisas o tempo todo, então eles podem não me notar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Sim... claro, Vinculador do Destino." Ele olha para o telhado próximo e fecha os olhos. Ao abri-los, ele parece bastante perturbado. "Oh, isso está realmente acontecendo." Ele cambaleia em direção à sua tarefa, choramingando baixinho para si mesmo a cada passo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Sim... claro, Vinculador do Destino." Ele olha para o telhado próximo e fecha os olhos. Ao abri-los, ele parece bastante perturbado. "Oh, isso está realmente acontecendo." Ele cambaleia em direção à sua tarefa, choramingando baixinho para si mesmo a cada passo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Mentira] "Eu sei que Cassandra significa muito para você. Ela está muito ocupada para prestar atenção em alguém, mas eu poderia falar bem de você para ela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Você ouve o farfalhar de folhas e arbustos ao longe, seguido pelo estalar de um galho quebrando e um baque surdo no chão. Capteron corre pela esquina do prédio próximo, estremecendo e esfregando o traseiro. Ele está uma bagunça, seu corpo coberto de lama e folhas. Ele está sem fôlego, aparentemente mais pelos nervos do que pela exaustão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Ela mantém as ferramentas na mesa mais próxima dela. Eu ajudo seus aprendizes com pequenas coisas o tempo todo, então eles podem não me notar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Você... você poderia?" Seus olhos se iluminam. "Mas pegar as ferramentas ainda seria errado. Embora você seja um Vinculador do Destino, talvez não seja. Os tribunais negócios sempre foram confusos." Ele franze a testa, balançando a cabeça lentamente em frustração. "Ok, farei isso. Por favor, deixe Cassandra saiba que ela tem alguém que faria qualquer coisa por ela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Eu fiz isso, Vinculador do Destino. O [url=glossary:forge-bound]Forge-Bound[/url] não me notou. Dei-lhes água fresca, como de costume, e depois deslizei as ferramentas pela lateral do prédio. Alguns deles ficaram presos na árvore e se perderam no mato... Acho que deveria ter pensado nisso primeiro." Ele coça a cabeça. "Mas eu tenho as ferramentas para você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Se não houver mais nada, vou embora agora, antes que sintam minha falta." Ele se curva nervosamente e caminha em direção ao centro da vila, desajeitadamente tirando folhas e sujeira de seu corpo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Então... agora que fiz o que você pediu, você pode falar com Cassandra sobre mim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[Deixar] "Temo que isso não aconteça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Deixar] "Quando eu encontre um momento, falarei com ela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"O quê? Mas você prometeu..." Ele olha para você, estupefato, e continua olhando para você enquanto você se afasta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[Apenas vá embora.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Ele ri. "Parece eles parecem nunca parar, certo? Cassandra geralmente se aposenta à noite, mas seus aprendizes continuarão trabalhando e vigiando a loja durante as horas tardias."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"O que você faz aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Eu? Ah, não sou ninguém importante, Vinculador do Destino. Eu nunca fiz um negócio em particular e não sou um homem de letras, apenas ajudo onde posso." Ele gesticula em direção aos caixotes atrás dele. "Eu conto os produtos para Hermod - ele me deixa pegar algumas frutas quando termino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Suas palavras são interrompidas por um som rítmico de martelos contra metal. Ele se vira para olhar para a fonte no topo de um telhado próximo, expondo um sorriso dentuço enquanto fala. "E, claro, os [url=glossary:forge-bound]Forge-Bound[/url] sempre precisam de água fresca, então vou bombear para eles de vez em quando... tenho certeza Cassandra aprecia isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Alguns recrutadores do Refrão vieram anos atrás e reuniram algumas pessoas que estavam no campo. Acho que levaram o menino de Ptoled, e também os gêmeos Korba, mas isso foi o pior. Ouvi muitas histórias de outros lugares no Camadas, três pessoas se foram - enquanto uma tragédia - não é nada comparado ao sofrimento visto em outros lugares. Temos sorte, não há como negar isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Eles têm sido muito úteis. Lanças e pontas de flecha para nossos caçadores, arados para os campos, anzóis para os rios... até uma ou duas lareiras para as noites frias. Eles também ajudam a nos manter seguros e vigiam a cidade. Se eu fosse mais jovem, pediria para eles me treinarem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Ela, uh, ela é intimidante, no entanto. Eu queria dar a ela uma sugestão sobre algumas pontas de flecha de pedra que ela fez, mas ela parecia muito zangada quando me aproximei dela. Ela estava gritando com um de seus alunos e outro estava pegando fogo ou algo assim, então meu timing foi ruim. Eu adoraria aprender muito com ela, mas estou velho demais para ser levado a sério como candidato."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Seus olhos disparam para os anéis e depois para as armas ao seu lado. "Claro, Vinculador do Destino, se esse for o seu comando." Um profundo suspiro escapa de seus lábios enquanto ele pega os anéis. "Cassandra, por favor, me perdoe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Quando você dá um único passo em direção a ele, Capteron recua, sua postura encolhendo em súplica. "Sinto muito, Fatebinder! Por favor, não quero ofender o Tribunal! Eu farei... farei o que você mandar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"O que você quer dizer? Nunca ouvi falar de ferramentas que desaparecem sozinhas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Quero dizer que eles vão desaparecer nos meus bolsos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Com o homem silenciado, você se prepara para uma abordagem menos conspícua sob o manto da escuridão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Obrigado! Significaria muito para mim, Vinculador do Destino." Ele junta as mãos e sorri. "Eu só espero que ela veja o quanto eu me importo..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Oh, o Vinculador do Destino! Olá, bem-vindo a South Haven."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Ah, claro, Vinculador do Destino. Philia me deixa ficar no antigo quarto de seu filho. Há um berço lá que você pode usar..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Sirin, acho que ele precisa de um pouco de convencimento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>O Arconte da Canção olha para você, claramente não se divertindo com seu comando.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Todos nós assumimos que seria temporário, mas ou o navio que eles pretendiam embarcar afundou ou eles mudaram de planos. Um tempo depois, os [url=glossary:forge-bound]Forge-Bound[/url] ainda estavam aqui e se sentindo em casa. Não doeu que os aldeões aqui estivessem fascinados por suas magias de artesanato... os jovens da aldeia fizeram fila para as aulas e - [url=glossary:kyros]Kyros[/url] sejam elogiados - eles acharam adequado ensinar alguns deles! "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Você se parece com o retrato! Quero dizer... é uma semelhança lisonjeira, embora você pareça mais majestosa pessoalmente. Quero dizer, uh, Governador [Player Name], é uma honra conhecer um Vinculador do Destino de sua estatura." Enquanto ele se curva desajeitadamente, várias maçãs caem da caixa e saltam de suas mãos, passando por seus pés. "Desculpe." Ele coloca o container no chão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Você é o Vinculador do Destino, não é? Aquele que reivindicou o Pináculo da Montanha! Não é todo dia que temos um visitante tão estimado." Enquanto ele se curva desajeitadamente, várias maçãs caem da caixa e saltam de suas mãos, rolando por seus pés. "Desculpe." Ele coloca o container no chão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Eu vou agora, enquanto está escuro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Claro, faria mais sentido ir depois do pôr do sol."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Claro, faria mais sentido ir depois do pôr do sol."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Ela mantém as ferramentas na mesa mais próxima dela. Eu ajudo seus aprendizes com pequenas coisas o tempo todo, então eles podem não me notar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Eu vou agora, enquanto está escuro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Isso não foi uma sugestão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"É sua música ou meu punho. Sua música parece ser a opção mais suave."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Esqueça, vou convencê-lo da maneira mais difícil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>O velho olha para você com expectativa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Assim seja." Sirin se vira para Capteron e sussurra uma nota suave e sustentada. "As ferramentas. Traga-os para nós." Sua voz baixa uma oitava. "de Cassandra ferramentas... encontre-as... agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Mas eu nunca..." Capteron balança a cabeça, lutando contra o murmúrio da sugestão até que seja sua. "Eu nunca... eu nunca te decepcionaria. Como você comanda."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

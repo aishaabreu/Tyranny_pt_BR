@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\08_vendrienswell\08_cv_horderecruitment_village_vendrienguard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ao entrar no centro da vila, você sente como se estivesse sendo observado de todos os ângulos. O distante tamborilar de pés ecoa nas paredes da pequena e aparentemente deserta vila.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Eu sou o Fatebinder [Player Name]. Vim para discutir seu recrutamento no Refrão. Colaborar, e você não morrerá."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Mostre-se. Quanto mais você me fizer esperar, mais devagar farei suas mortes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>As vigas de madeira no telhado ao norte rangem sob o peso de alguém. Uma árvore farfalha atrás de você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Se você deseja se esconder em suas casas, ficarei feliz em queimar este lugar até o chão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Vim oferecer a você redenção com o [url=glossary:scarlet chorus]Coro Escarlate[/url]. Estou fazendo o meu melhor para tentar salvar todos vocês... Sinta-se à vontade para me ajudar nessa empreitada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Uma voz berra do telhado com uma gargalhada "Vá para casa para o seu soberano!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Desculpe amigo, mas você não vai sair daqui inteiro. Mandaremos sua cabeça de volta Norte - Quero que seus pais vejam o que acontece com aqueles que invadem nossas terras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Não diga nada.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Não precisa se esconder, não tenho vontade de lutar - apenas conversar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Permaneça em silencio.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,365 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\0105_cv_agathon_victory</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>71</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ha!" Agathon dá um soco no ar e desfere um chute forte no corpo de Comandante Osmios'. "Que dia para enfrentar os melhores de [url=glossary:graven ashe]Cinza esculpida[/url]! Oh, Fatebinder - não teríamos vencido o dia sem você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Você foi uma tremenda ajuda para o [url=glossary:unbroken]ininterrupto[/url]. Parece justo que compartilhemos o que sabemos - como aliados, se não compatriotas." Ele acena para a caneta. "Venha, siga-me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Ele gesticula em direção ao prisioneiro. "É por isso que [url=glossary:graven ashe]Cinza esculpida[/url] está interessado em Crepúsculo. Vou deixar você ouvir os detalhes dele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Um escudo de pedra te encara sem emoção antes de se voltar para o capitão. "Venha para se vangloriar, agora que você se banhou no sangue do Norte, Agathon? Eu respondi todas as suas perguntas. Deixe-me em paz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Quem é você, soldado?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Por que o [url=glossary:unbroken]ininterrupto[/url] precisa de você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"A filha de Ashe sobreviveu às tempestades?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Sou apenas um Escudo de Pedra, mas fui obrigado a servir a filha de [url=glossary:graven ashe]Cinza esculpida[/url], Amélia." Sua voz vacila. "Foi meu orgulho lutar ao lado dela, e minha grande vergonha quando as Straydus Herodin forças dominaram e capturaram nossa unidade. O velho Regente pode ser dez vezes mais teimoso que seu povo, mas não lhe falta nada do poder deles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Você cooperará com o Vinculador do Destino, ou enfrentará a mesma punição de antes." O olhar no rosto do capitão sugere que ele não se importaria com um pouco de desafio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Eu era um plano de contingência, nada mais. Os [url=glossary:unbroken]ininterrupto[/url] estavam apenas me mantendo vivo por causa da minha antiga carga."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Parece que você negligenciou seus deveres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Amelia não morreu em campo naquele dia. Nós dois fomos feitos prisioneiros, mas eu fui transferido para cá e feito para sofrer. O [url=glossary:edict]Edital[/url] atingiu pouco depois, e presumo que tenha frustrado qualquer esforço para nos recuperar. Se Straydus não é um tolo, então ele a está mantendo viva como refém para alguma negociação futura."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Seu olhar endurece. "Eu fiquei ao lado dela enquanto muitos outros caíram ao nosso redor. Só porque eu respiro não me torna um fracasso. Até o Grande General entenderia isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ter Amélia significa que o Regente pode alavancar um acordo com [url=glossary:graven ashe]Cinza esculpida[/url], se for necessário. Não queremos que o [url=glossary:disfavored]Desfavorecido[/url] ganhe uma vantagem antes de termos a chance de matar Straydus Herodin. Isso torna a posse da fortaleza mais importante do que nunca."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Essa é a questão, não é? Antes ele saiu, nosso líder Mattias nos instruiu a fazer Posto de Sentinela nossa maior prioridade... mesmo se perdêssemos a mão de obra para segurar Crepúsculo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Como entro Posto de Sentinela?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Até onde sabemos, Amelia está morta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Você acredita na palavra de Callias?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Ele ri. "Acreditar eu, o que você ouviu de Callias hoje é francamente falador. Depois que ele foi transferido para Crepúsculo, ele não nos deu uma palavra. Se você duvida de mim, julgue-o por suas feridas. Eles curaram com o tempo, mas ele se lembra deles. Não é, Callias?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Improvável. Ashe pode sentir a presença de seus soldados de longe - e isso inclui sua filha. Aposto minhas botas que ele está interessado em levar Callias apenas para esconder a verdade de sua sobrevivência do [url=glossary:unbroken]ininterrupto[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Você se saiu bem, Vinculador do Destino. Devemos a você." O capitão [url=glossary:unbroken]ininterrupto[/url] se posiciona com orgulho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>O prisioneiro pigarreia e endireita a postura. "Você faz companhia estranha, servo de [url=glossary:tunon]Tunon[/url]." Ele encara Agatão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>prisioneiro apenas o encara.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"O que vem a seguir para Crepúsculo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Estou reunindo uma coalizão para enfrentar [url=glossary:kyros]Kyros[/url]. Você estaria disposto a representar o [url=glossary:unbroken]ininterrupto[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Por mais que eu queira apoiá-lo, não tenho autoridade. Mattias é o melhor de nós, e os interesses do [url=glossary:unbroken]ininterrupto[/url] estão dobrados no bolso de trás. Eu confio nele para fazer a escolha certa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Temos muito trabalho pela frente. Além de consertar o forte e garantir o local, também temos que garantir que os homens estejam equipados para marchar em Posto de Sentinela." Ele fica mais alto e sorri com orgulho. "Eles leu estarei pronto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Viagens seguras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Precisa de algo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Você vai cooperar com meu questionamento, ou isso deve ficar feio?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Ele estremece. "O [url=glossary:unbroken]ininterrupto[/url] me tortura, e a proteção de [url=glossary:graven ashe]Cinza esculpida[/url] cura minhas feridas. Não temo pela minha vida... mas vivi para ver agonias que é melhor esquecer. Faça suas perguntas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Você pretende responder minhas perguntas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Você tem um ar de dignidade. Apesar das circunstâncias, eu posso respeitar isso. Faça suas perguntas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Não conheço você de amigo ou inimigo, mas estou cansado das [url=glossary:unbroken]ininterrupto[/url] torturas. Eu cooperarei se você me deixar em paz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Por [url=glossary:kyros]Kyros[/url]! Esse confirma tudo pelo que minha legião lutou. Ela sobreviveu à captura... isso significa que há uma chance!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Trago notícias de Tarkis Arri do [url=glossary:vendrien guard]Guarda Vendrien[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Os guerreiros de Ápice mostraram pouco interesse em assuntos Robusto no passado, mas estes são tempos estranhos. O que Arri quer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Somente para divulgar a causa da nossa coalizão. Você pode ser nossa voz no [url=glossary:blade grave]Sepultura de Lâminas[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Isso soa como uma causa digna o suficiente, e poderia promover os objetivos dos Guarda e [url=glossary:unbroken]ininterrupto[/url], agora que temos um inimigo compartilhado em [url=glossary:kyros]Kyros[/url]." Agathon acena com orgulho. "Muito bem. Farei o que puder para espalhar a palavra por todo o [url=glossary:blade grave]Sepultura de Lâminas[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Você pode dizer a Arri e sua coalizão que eles podem contar com o [url=glossary:unbroken]ininterrupto[/url] para fazer sua mensagem ser ouvida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Pouco antes do [url=glossary:disfavored]Desfavorecido[/url] aparecer, recebi uma missiva que me preocupou. Eu teria abordado isso antes, mas..." Agathon se preocupa com a mandíbula e franze a testa. "Mattias e seus homens foram encurralados em Junção do Trapper. Se você puder ajudar, talvez tenhamos uma chance de pegar Posto de Sentinela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Pode Mattias realmente nos ajuda?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Deixar] "Sons como se eu fosse Junção do Trapper."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Ele organizou as [url=glossary:unbroken]ininterrupto[/url] forças na região enquanto estamos juntos. Se alguém pudesse falar sobre nossos esforços para recuperar a fortaleza, seria ele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Vamos manter Duskwatch fora de [url=glossary:disfavored]Desfavorecido[/url], e esperamos fazer as defesas em forma com alguns remendos e pregos. Adeus e boa caça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Por que você não envia tropas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Porque precisamos segurar esse forte e nos preparar para um empurrão contra Posto de Sentinela. Eu sei que parece cruel deixar Mattias em apuros, mas ele nos quer aqui e prontos para retomar Robusto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Você está bem o suficiente para conversar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Você pode perguntar. Este adiamento dos interrogadores ajuda. Minhas feridas estão fechando com proteção Ashe, embora eu desejasse que isso ajudasse minha memória. Algumas coisas você não pode esquecer e perfuram mais fundo do que flechas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"A lealdade deste tem um preço. Os [url=glossary:disfavored]Desfavorecido[/url] são tão grossos e duráveis quanto aríetes, mas podem durar mais que qualquer número de atrocidades e enlouquecer apesar da sobrevivência. Eu já vi isso acontecer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Não fique muito animado, capitão. Não gostaria que você se machucasse lá dentro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Como estar coberto de sangue quente e escorregadio de armaduras de ferro. O gosto é bom."
+
+Lentamente e com uma língua áspera e malva, ela lambe o sangue coagulado de suas garras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Eu posso tornar isso doloroso. Você gostaria disso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Todos os militares são tão sádicos quanto você? Não que você deva parar ou algo assim."</DefaultText>
+      <FemaleText>"Acabei de lembrar por que sinto falta das linhas de frente. Não me deixe impedi-lo."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Você tem cooperado. Capitão, solte suas amarras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Parece que você sabe o que está fazendo, então tentarei não ser excessivamente crítico." Ele se ajoelha e com muito cuidado solta as amarras do soldado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Eu aprecio isso. Pelo menos alguém aqui sabe o valor de um interrogatório de qualidade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "Nunca em sua vida. Você já viu o que o [url=glossary:disfavored]Desfavorecido[/url] pode fazer com um grama de resistência do seu presente Arconte? Esse um levou uma surra pesada todos os dias desde a captura, e ainda está lúcido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"E você nunca aprendeu o significado de um 'gesto de boa fé'. Embora eu o espancasse até a morte com suas próprias pernas se tivesse a chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Nosso amigo prisioneiro aqui é porque [url=glossary:graven ashe]Cinza esculpida[/url] está tão interessado em Crepúsculo." Ele desperta o prisioneiro com um chute nas laterais. "Eu mesmo estou interessado nele, se você estiver disposto a me ajudar com o interrogatório? Callias aqui está de boca fechada desde o segundo ano da guerra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>O escudo de pedra olha para você com desprezo. "Eu não te conheço, estranho, mas você usa o sangue dos meus compatriotas como um distintivo carmesim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Eu não me importo com quem você é. Estou aqui apenas para saber mais sobre o Destemido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Vou ajudá-lo a interrogar o prisioneiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Mercenário até o âmago. Eu posso respeitar isso." Agathon limpa a garganta e olha para as nuvens de tempestade distantes. "Nosso líder, Mattias, esteve em uma espécie de caça aos artefatos. Ele está convencido de que podemos usar um para romper as tempestades em torno de Posto de Sentinela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Ele despachou Elia e sua equipe de catadores para Desfiladeiros de Ferrugem. Eles estão procurando pelos restos mortais de Regentes robustos. Se alguém sabe onde encontrar sua arma histórica, seria ela." Ele franze a testa. "Ela não faz check-in com nosso destacamento há algum tempo. Se você puder ajudá-la, melhor ainda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Agora que te ajudei com o prisioneiro, a localização do Destemido?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"B-Barik?" Callias aperta os olhos para seu companheiro. "Agora eu sei que devo estar alucinando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Gostaria que fosse assim, conterrâneo. Se nos encontrássemos novamente em condições melhores do que essas..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Cabeça inclinada para um lado, as calças Mulher-Besta felizes, presas brilhantes à mostra em um sorriso perigoso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Ela ofega, assistindo alegremente.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

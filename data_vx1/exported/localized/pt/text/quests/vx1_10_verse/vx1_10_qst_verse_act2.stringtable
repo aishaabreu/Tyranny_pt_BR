@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\vx1_10_verse\vx1_10_qst_verse_act2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>O fogo por dentro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Leia a missiva de [url=glossary:the voices of nerat]As vozes de Nerat[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Fale com o Verso sobre a missiva sobre suas irmãs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Viaje para o Encruzilhada do Mercador e encontre-se com o Versículos contato</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Interceptar Krokus no descanso do caçador</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Localize Irissa no Fio Rasgado</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Encontre Clea em River's Break</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>[url=glossary:the voices of nerat]As vozes de Nerat[/url] forneceu informações sobre as identidades dos responsáveis pelas mortes de Fúria Escarlate do Verso irmãs. Versículo de ajuda rastrear os assassinos e obter alguma resolução.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Você recebeu uma missiva de [url=glossary:the voices of nerat]As vozes de Nerat[/url], Arconte dos Segredos e espião do soberano. Pode conter inteligência vital... ou desinformação perigosa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Em sua missiva, a Vozes de Nerat pediu que você fornecesse a Versículo novas evidências sobre as pessoas que mataram os membros de sua gangue anterior. Fale com Versículo e discuta como você irá proceder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>[url=glossary:the voices of nerat]As vozes de Nerat[/url]'s missive incluiu um cypher Verse pode usar para obter mais informações de um informante em Encruzilhada do Mercador perto de [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Viaje até lá e descubra o que esse comerciante sabe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Você aprendeu que Krokus, um homem que se gabou de matar três Fúrias Escarlate em Apex durante o Conquista, aceitou trabalhar como guarda de caravana para um comerciante chamado Aesa. A rota programada da caravana inclui uma parada em Descanso do caçador. Verso quer confrontar Krokus lá.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Você aprendeu com Krokus que Íris, um dos Ápice soldados que destruíram a gangue Versículos, pode ser localizado entre um grupo de [url=glossary:unbroken]ininterrupto[/url] no Fio Rasgado. Viaje para lá com Versículo para confrontá-la.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Irissa já está morta, e Versículo quer visitar sua vingança contra a da Irissa irmã Clea. A fazenda de sua família está localizada em Ruptura do Rio em [url=glossary:vendrien's well]Poço de Vendrien[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Em um ato de perdão, você e Versículo decidiram deixar Essa viver. Versículo é agora mais um passo para a resolução que ela busca para a morte de suas irmãs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Contra o verso deseja, você matou Essa pelos crimes que ela e suas filhas cometeram. Apesar de lamentar o resultado, Verse é mais um passo em direção à justiça que busca para suas irmãs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Pelos crimes que Essa e suas filhas cometeram, você ordenou que Verse acabasse com a vida dela. Apesar de lamentar o resultado, Verse é mais um passo em direção à justiça que busca para suas irmãs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Versículo morreu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Verse deixou a festa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>A oportunidade de resolver esta tarefa passou.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

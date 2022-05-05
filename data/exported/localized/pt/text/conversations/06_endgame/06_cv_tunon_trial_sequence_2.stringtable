@@ -1,0 +1,2408 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\06_endgame\06_cv_tunon_trial_sequence_2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>466</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Vinculador do Destino, obrigado por responder minha convocação. Esta pode muito bem ser a hora decisiva da conquista."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Curve-se para [url=glossary:tunon]Tunon[/url]]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"O prazer é meu, Sua honra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Não diga nada.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Primeiro quero deixar claro por que nos reunimos hoje. Após o colapso do [url=glossary:vendrien's well]Poço de Vendrien[/url] e o início da guerra civil, ficou claro para mim que deve ter havido alguma grande falha por parte do Arcontes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Suas maneiras lhe fazem bem. Mesmo assim, estamos aqui por justiça - não por gentilezas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Sua falta de decoro foi notada, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Muita coisa aconteceu desde que eu despachei você nessa missão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Sua falta de suporte para qualquer um dos Arcontes tem sido o tema de muitas conversas. Na queda de [url=glossary:vendrien's well]Poço de Vendrien[/url], você não apoiou nenhum dos poderes dominantes que pediram ajuda a você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Você expressou seu apoio ao [url=glossary:scarlet chorus]Coro Escarlate[/url] no início da guerra civil, e parece que sua lealdade é consistente com essas reivindicações. Isso soa preciso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Você apoiou [url=glossary:graven ashe]Cinza esculpida[/url] e seu [url=glossary:disfavored]Desfavorecido[/url] exército no início da guerra civil. Eu sei que você deve ter ficado dividido em sua decisão, mas garanto que sua lealdade ao Arconte não está em questão aqui - apenas suas descobertas serão pesadas com a devida importância."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Você escolheu não apoiar a Arcontes do Overlord... uma decisão que desafiou a própria trama da conquista."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"A resposta é simples - eu sou o único Arconte digno de governar o Camadas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Uma afirmação interessante. Vamos testá-lo, sim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Fui um agente fiel ao [url=glossary:scarlet chorus]Coro Escarlate[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Eu servi [url=glossary:the voices of nerat]o Vozes de Nerat[/url] com o melhor de minhas habilidades."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Neste momento, seu testemunho vale mais para mim do que sua lealdade - mas podemos abordar isso mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Seu desempenho não está em julgamento aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Os [url=glossary:disfavored]Desfavorecido[/url] são mais do que um exército para mim, Sua honra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ashe não é um homem fácil de seguir, mas emprestei minha força à causa dele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Sua fidelidade ao Arconte lhe dá crédito, mas vamos nos concentrar no testemunho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Trabalho duro que merece elogios, tenho certeza. Esses detalhes podem ser resolvidos quando a guerra acabar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Embora você tenha feito sua lealdade a um Arconte conhecido no início da guerra civil, você optou por tomar uma direção diferente e caiu em desgraça. Posso perguntar por que você optou por desobedecer suas ordens e seguir um caminho diferente?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Na sua opinião profissional e objetiva, qual dos dois Arcontes é o culpado de semear o maior caos no Camadas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Você queria que eu descobrisse qual Arconte semeou mais caos? A resposta está na sua frente: sim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Suas palavras o condenam, assim como as evidências que as sustentam. Você está tão empenhado em sabotar tudo o que construiu? Muito bem." 
+
+[url=glossary:tunon]Tunon[/url] balança a cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"[url=glossary:graven ashe]Cinza esculpida[/url], Arconte de Guerra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url], Arconte dos Segredos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Surpreendente que você se voltou contra seu ex-aliado neste momento. Não digo isso para questionar sua afirmação - apenas para refletir."
+
+"O Arconte da Guerra é uma presença intimidadora, com certeza. Vamos decidir se ele ainda é igual à honra de comando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"E assim as acusações são declaradas. Tenho certeza de que você veio com argumentos e pesquisas preparadas, como é esperado de sua estação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Muito bem. Não é surpresa que você dê as costas para [url=glossary:the voices of nerat]o Vozes de Nerat[/url]. Ele não é conhecido por inspirar lealdade." "O Arconte dos Segredos é uma força de terror no exército [url=glossary:kyros]Kyros[/url]'. Agora vamos saber se ele também é um passivo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"De acordo com o costume legal [url=glossary:kyros]Kyros[/url]', você declarará os crimes contra o Arconte e oferecerá suas provas. O tribunal avaliará suas reivindicações quanto ao mérito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Acuso o Arconte de sedição mais suja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"O Arconte é culpado de incompetência, Sua honra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"O Arconte cometeu atos vis durante esta campanha. Eu o acuso de crimes de guerra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"O Arconte é culpado de acumular conhecimento proibido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Sedição, você diz? Traição, rebelião, insubordinação. Esta é uma afirmação séria, de fato. Arconte [url=glossary:graven ashe]Cinza esculpida[/url] pode ter uma história inconsistente, mas seus laços leais com [url=glossary:kyros]Kyros[/url] estão bem estabelecidos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] deu [url=glossary:disfavored]Desfavorecido[/url] planos de batalha para os Robusto defensores."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"[url=glossary:graven ashe]Cinza esculpida[/url] trocou de prisioneiros com o [url=glossary:vendrien guard]Guarda Vendrien[/url] e prolongou propositalmente o cerco."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Não tenho provas para apresentar, Sua honra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Não faço mais alegações de sedição, Sua honra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Maric, um Juramento mestre escoteiro, perdeu o rastro de seus próprios soldados no [url=glossary:burning library]Biblioteca em chamas[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"[url=glossary:graven ashe]Cinza esculpida[/url] enviado [url=glossary:cairn]Cairn[/url] para destruir Edgering Fort no reino de Ápice. A destruição custou a [url=glossary:scarlet chorus]Coro Escarlate[/url] muitos recrutas em potencial."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Não tenho provas dessa acusação, Sua honra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Terminei de argumentar por incompetência, Sua honra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Eu fiz meu caso com o melhor de minhas habilidades, Sua honra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Incompetência nesta escala não é motivo de riso. Vidas e oportunidades podem ser perdidas se um comandante militar tiver um desempenho abaixo do esperado. É chocante imaginar [url=glossary:graven ashe]Cinza esculpida[/url] falhando na tarefa diante dele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Entendo. Em tempo de guerra, muito se faz em prol da lealdade - mas há quem justifique monstruosidades em nome da conquista. O tribunal sempre deseja que seu Arcontes esteja dentro das leis [url=glossary:kyros]Kyros[/url]'. Eu ficaria surpreso se [url=glossary:graven ashe]Cinza esculpida[/url] cometesse crimes dessa escala."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"O [url=glossary:disfavored]Desfavorecido[/url] tentou me subornar por armas de ferro durante a conquista."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"O [url=glossary:disfavored]Desfavorecido[/url] invadiu uma operação [url=glossary:scarlet chorus]Coro Escarlate[/url] na [url=glossary:stone sea]Mar de Pedra[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Não tenho provas de crimes de guerra para apresentar, Sua honra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Esgotei minhas evidências de crimes de guerra, Sua honra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Uma verdade difícil de trazer à luz. O fato é que [url=glossary:kyros]Kyros[/url] é o guardião da sabedoria em Terrato, e há vias de estudo negadas sob sua lei imutável."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Encontrei um civil morto nas Oldwalls do [url=glossary:blade grave]Sepultura de Lâminas[/url]. O [url=glossary:disfavored]Desfavorecido[/url] o mandou para lá procurando um artefato."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Não tenho provas desta afirmação. Retiro minha acusação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Enviei provas suficientes para esta acusação, Sua honra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Eu o encorajo a fazer o maior número possível de reivindicações. Fazer acusações contra um Arconte não é pouca coisa. Eles não são responsáveis pelas leis [url=glossary:kyros]Kyros[/url]' com a mesma rigidez que um cidadão comum, então pode ser mais difícil justificar sua culpa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Entendido. Não reterei nenhuma reivindicação legítima do tribunal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Desde que você tenha evidências para apoiá-los, é claro. Fazer uma reclamação sem provas só prejudicará o seu caso aos olhos do tribunal. Está entendido?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Sim. Vou apoiar minhas acusações com fatos concretos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Então estamos prontos para começar. Declare suas reivindicações, Vinculador do Destino. Você pode prosseguir no seu próprio ritmo." [url=glossary:tunon]Tunon[/url] convida você a começar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Então vamos para as acusações."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Devemos voltar ao assunto das acusações."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Muito bem. Você tem outra cobrança para cobrar do Arconte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Então, a menos que haja mais alguma coisa, voltemos ao assunto das outras acusações."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Muito bem. Eu pesei suas evidências contra as acusações."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"O tribunal de [url=glossary:tunon]Tunon[/url] o Árbitro, Arconte da Justiça e do Conselho a [url=glossary:kyros]Kyros[/url] o soberano, considera [url=glossary:the voices of nerat]o Vozes de Nerat[/url] culpado de semear o caos, ostentando sua autoridade e usando um tempo de guerra para promover sua própria ambição distorcida. A sentença é a morte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Seu caso contra [url=glossary:graven ashe]Cinza esculpida[/url] não conseguiu capturar meu interesse. No futuro, eu recomendaria aprimorar seus poderes de observação e dedicar um tempo para estudar as leis que transmiti."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"O tribunal de [url=glossary:tunon]Tunon[/url] o Árbitro, Arconte da Justiça e do Conselho a [url=glossary:kyros]Kyros[/url] o soberano, considera [url=glossary:graven ashe]Cinza esculpida[/url] culpado de semeando o caos, mantendo seus interesses acima dos do soberano e causando caos em tempos de guerra. A sentença é a morte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Você falhou em abrir um processo contra [url=glossary:the voices of nerat]o Vozes de Nerat[/url]. Embora você tenha fornecido algumas evidências convincentes, temo que não tenha sido suficiente para condenar o Arconte dos Segredos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Com esse assunto desagradável fora do caminho, mudamos o rumo para outro assunto sério... um que põe em dúvida sua conduta como membro de [url=glossary:kyros]Kyros[/url]' seguidores leais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Nenhuma? Estranho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"De fato? Estranho que você trouxe isso à atenção do tribunal, então."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Nenhuma? Espero que você não desperdice o tempo deste tribunal, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Vinculador do Destino, isso é ultrajante. Não leve acusações à atenção deste tribunal a menos que você esteja disposto a apoiá-las com fatos comprovados!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Sedição. Não é pouca coisa para pesar contra um Arconte. Mas se você acredita que [url=glossary:the voices of nerat]o Vozes de Nerat[/url] conspirou com o inimigo, então continue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Apresente seu caso, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Vá em frente, Vinculador do Destino. A atenção do tribunal é sua."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] sofreu acusações de incompetência no passado, mas sempre provou ser um líder capaz e estrategista brilhante. Estou curioso para saber se suas evidências provarão o contrário."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Conte-me sobre esses crimes de guerra, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Faça seu caso, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] tem uma tendência a interpretar a lei [url=glossary:kyros]Kyros[/url]' como deseja, mas espero que essa prática não tenha saído do controle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Se o Arconte da Guerra está se educando sobre assuntos proibidos, então vale a pena um exame mais aprofundado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Se o Arconte dos Segredos trata essa conquista como uma oportunidade de saquear conhecimentos proibidos para seus próprios fins, então vale a atenção desta corte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>A filha de "[url=glossary:graven ashe]Cinza esculpida[/url] conspirou com o [url=glossary:unbroken]ininterrupto[/url], produzindo um herdeiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Encontrei evidências em [url=glossary:lethian's crossing]A travessia de Lethian[/url] de que o [url=glossary:disfavored]Desfavorecido[/url] derramou o primeiro sangue na guerra civil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Remédio irregular estava recrutando do [url=glossary:unbroken]ininterrupto[/url] quando suas forças foram proibidas da região."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] usou seu poder para consumir o filho de [url=glossary:graven ashe]Cinza esculpida[/url] durante o cerco de [url=glossary:vendrien's well]Poço de Vendrien[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Durante a guerra, o [url=glossary:scarlet chorus]Coro Escarlate[/url] roubou armas e armaduras de [url=glossary:disfavored]Desfavorecido[/url] cadáveres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Garrick, um aprendiz de [url=glossary:forge-bound]Forge-Bound[/url], buscou conhecimento no Oldwalls. A guarnição [url=glossary:disfavored]Desfavorecido[/url] olhou para o outro lado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"O Censor procurou reivindicar o Arquivo Silencioso para o [url=glossary:the voices of nerat]o Vozes de Nerat[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Garrick, um aprendiz de [url=glossary:forge-bound]Forge-Bound[/url], buscou conhecimento no Oldwalls. A guarnição [url=glossary:scarlet chorus]Coro Escarlate[/url] olhou para o outro lado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Durante a conquista, o [url=glossary:scarlet chorus]Coro Escarlate[/url] desejou o conhecimento do capturado Sábios."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Durante o robusto campanha, a [url=glossary:disfavored]Desfavorecido[/url] marchou em Posto de Sentinela embora uma [url=glossary:edict]Edital[/url] fosse iminente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"No [url=glossary:burning library]Biblioteca em chamas[/url], o Censurar transformou sua missão em um jogo doentio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Sob as vozes' ordens, Harchiand Bronze contrabandeou armas de ferro para o [url=glossary:vendrien guard]Guarda Vendrien[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"O [url=glossary:scarlet chorus]Coro Escarlate[/url] ajudou o [url=glossary:unbroken]ininterrupto[/url] durante a guerra civil. Encontrei [url=glossary:disfavored]Desfavorecido[/url] rotas de patrulha em um corpo inimigo, entregues por Refrão agentes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Se o Grande General engajado com o inimigo por seu próprio interesse, então ele não é tão confiável ou direto quanto eu imaginava. Mesmo em lealdade, ele traz grande vergonha para a legião."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Você tem mais evidências que apóiam a alegação de sedição?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Já não discutimos isso? Presente seu caso, então."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Já discutimos a acusação de incompetência, não discutimos? Se você tiver novas evidências, não as retenha desta vez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Já discutimos as acusações de crimes de guerra. Se você tiver novas provas, apresente-as agora ao tribunal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Você já cobrou essa cobrança. Você tem novas evidências para apresentar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Este tribunal não tem o hábito de deixar que os pecados da criança reflitam sobre o pai, mas posso ver um caso sendo feito que coloca a liderança do Grande General em questão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Nenhum dos Arcontes era digno de governar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Talvez. E ainda assim você foi enviado para [url=glossary:vendrien's well]Poço de Vendrien[/url] para resolver o cerco de maneira ordenada. Em vez disso, você foi um agente da desordem final." 
+
+"Você não pode apresentar provas contra o Arcontes de Guerra ou Segredos. Sua objetividade como servidor deste tribunal é, na melhor das hipóteses, questionável."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Você encontrou evidências de tal crime? Chocante que o Arconte dos Segredos permitiria que qualquer traço caísse em mãos rebeldes, mas Stalwart está longe do alcance do Arconte... simplesmente fascinante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Então o Arconte dos Segredos' a traição é mais profunda do que eu imaginava. Temo que esta notícia prejudique o próprio fundamento de nossa ofensiva. Obrigado por entregá-lo à nossa atenção."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"A documentação é rara em tempos de guerra, onde reinam a confusão e a desordem. O tribunal aceita esta evidência de conluio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Conheço a marcha da legião. Foi uma missão determinada resgatar uma unidade perdida de soldados, entre eles a filha Arconte. Os relatos que chegaram aos meus ouvidos falavam de grande bravura e, no entanto, muitas vidas foram perdidas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Entendo. Os [url=glossary:disfavored]Desfavorecido[/url] mantêm seu número em meros dez mil. Cabe ao Arconte tornar seus soldados responsáveis uns pelos outros."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"O [url=glossary:scarlet chorus]Coro Escarlate[/url] dependia do recrutamento, já no segundo ano da conquista, e eu entendo que foram prometidas oportunidades para aumentar suas fileiras. Parece que o [url=glossary:disfavored]Desfavorecido[/url], em seu desejo excessivo de destruição, custou profundamente seus aliados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] leva o conhecimento do [url=glossary:vellum citadel]Cidadela de Velino[/url] muito a sério... assim como eu. Se um dos oficiais Vozes' reduzisse suas ordens a uma fonte de diversão, que reflete mal no Arconte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"[url=glossary:graven ashe]Cinza esculpida[/url] os soldados se comportam com honra, mas temo que haja uma veia de corrupção sob seu exterior legal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Se a legião colocar seus interesses de guerra civil à frente da conquista do Camadas, isso mostra um grande desprezo pelo nosso trabalho no Sul. É um insulto à própria [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Então a ira e conflito entre os dois exércitos tem raízes mais profundas do que o que aconteceu em [url=glossary:vendrien's well]Poço de Vendrien[/url]... esta é uma acusação condenatória de fato."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Uma infração no território Robusto, ao qual [url=glossary:graven ashe]Cinza esculpida[/url] fez sua reclamação. Isso mostra algum desrespeito pela operação [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"O Arconte talentos são bem conhecidos nesta corte, mas claramente ignoramos até onde ele iria em sua execução horrível."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Eu também entendi que havia alguma dúvida sobre como os [url=glossary:disfavored]Desfavorecido[/url] soldados morreram. De qualquer forma, este foi um ato repreensível que minou a Norte tradição."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"E mesmo assim você governou a Refrão' favor. Por quê?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Isso me desagrada muito. Se a legião pensou que poderia invadir o Oldwalls recrutando outro para a tarefa, então eles estavam enganados. O erro de julgamento pode custar-lhes a Arconte vida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Seria responsabilidade da guarnição deter o aprendiz e informar o Arconte. A cadeia de comando é claramente mais tênue do que eu imaginava."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] proclamou o [url=glossary:edict]Edital[/url] de Fogo por uma boa razão - o Sábios não abriria mão de seu conhecimento perigoso. Reivindicar o Arquivo Silencioso é uma transgressão óbvia da autoridade Soberano. Não há como saber quantos recrutas foram expostos a conhecimentos perigosos e exigirão execução imediata."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"A guarnição deveria ter vigiado melhor a população. Acho mais provável que eles tenham procurado se beneficiar da transgressão. [url=glossary:kyros]Kyros[/url]' a lei é bastante clara neste ponto, e o exército é culpado por associação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Há muito se sabe que os Sábios possuem mais conhecimento do que qualquer assunto de [url=glossary:kyros]Kyros[/url] é garantido. O Senhor Supremo, em sua sabedoria, mantém tal conhecimento proibido para a segurança de todos. O [url=glossary:scarlet chorus]Coro Escarlate[/url] deve saber disso e temer as repercussões."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"O [url=glossary:disfavored]Desfavorecido[/url] ultrapassou seus limites quando matou o Sábios. Eles deveriam ter trazido o assunto à minha atenção primeiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Você faz bem em lembrar seu lugar na hierarquia. Se apenas o [url=glossary:disfavored]Desfavorecido[/url] fizesse o mesmo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Achei mais vantajoso aplacar dois Arcontes de uma vez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Você não foi enviado para a conquista para o prazer de todos que cruzaram seu caminho. No futuro, espero que você adote uma postura mais vigilante e legal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Você tem alguma outra reclamação de incompetência?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Algum outro crime de guerra vem à mente?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Você pode expressar mais evidências de que o Arconte acumulava conhecimento proibido?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Seu caso contra [url=glossary:the voices of nerat]o Vozes de Nerat[/url] não correspondeu às minhas expectativas. Talvez com mais pesquisa e melhor compreensão do costume legal, seu testemunho poderia ter me influenciado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Seu caso contra [url=glossary:graven ashe]Cinza esculpida[/url] não conseguiu influenciar a opinião do tribunal. Embora você tenha apresentado provas de crimes - que levamos a sério - eles não são suficientes para condenar o Arconte de Guerra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>438</ID>
+      <DefaultText>"Por minha honra como Árbitro e Arconte da Justiça, submeto-me a você como meu soberano. Deste dia em diante, suas leis serão minhas leis, sua missão minha missão. Eu sou o martelo que você bate em face da ilegalidade. Eu sou a espada que você mergulha no coração da desordem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>"Meu martelo, minha máscara, minha execução de justiça e direito... eles são seus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>449</ID>
+      <DefaultText>"Para encontrar tanta impertinência na minha própria corte! Todos serão punidos no devido tempo! Você, Vinculador do Destino, será o primeiro." 
+
+Mesmo atrás da máscara de determinação de [url=glossary:tunon]Tunon[/url], você sabe que por trás dela está um homem de raiva trêmula. Ele joga seu cajado no chão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>"Meu carrasco... a vida dele não era sua." 
+
+Atras do [url=glossary:tunon]Tunon[/url] raiva de você, você detecta uma reação mais sutil - descrença.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>451</ID>
+      <DefaultText>[Ataque] "Eu só vim aqui para te matar mesmo assim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>452</ID>
+      <DefaultText>"Ambos são culpados. Eles devem ser executados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>453</ID>
+      <DefaultText>"Isso não é uma opção. Você foi encarregado de determinar a culpa de um Arconte e um Arconte sozinho."
+
+"Escolher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>454</ID>
+      <DefaultText>"Com [url=glossary:kyros]Kyros[/url]' mandato que apenas um Arconte pode governar o Camadas, o veredicto é agora mais importante do que nunca. Não podemos permitir que essa conquista desça à anarquia total."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>455</ID>
+      <DefaultText>"Você matou [url=glossary:graven ashe]Cinza esculpida[/url], burlando a diretiva deste tribunal e tomando o destino Arconte em suas mãos."
+
+"Explique-se."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>"Você matou [url=glossary:the voices of nerat]o Vozes de Nerat[/url], assumindo a responsabilidade de uma execução de Arconte."
+
+"Explique-se."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>457</ID>
+      <DefaultText>"Ashe era instável. Eu precisava derrubá-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>458</ID>
+      <DefaultText>"Os [url=glossary:disfavored]Desfavorecido[/url] são fracos. Eu queria mostrar a eles a verdadeira força."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>459</ID>
+      <DefaultText>[Ataque] "Eu o matei e vou matar você também."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>460</ID>
+      <DefaultText>"The Voices era um louco. Ele não merecia um julgamento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText>"Eu não tive escolha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>463</ID>
+      <DefaultText>"Você teria sido mais bem servido se apresentasse acusações e provas contra ele. Lamentavelmente para todos nós, essa oportunidade está encerrada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>464</ID>
+      <DefaultText>"Você trouxe a guerra para o Arconte... um fim adequado, embora injusto, ao seu reinado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>"Essa não foi uma decisão sua. E aqui estamos nós."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>"Não incomode esses corredores com o raciocínio de uma criança. Espera-se que um Fatebinder se comporte melhor do que isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>467</ID>
+      <DefaultText>"Você atacaria o tribunal sem se preocupar em defender sua honra? Assim seja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>468</ID>
+      <DefaultText>[Ataque] "Eu só vim aqui para matar você. Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>469</ID>
+      <DefaultText>"O tribunal tem um problema sério para resolver. Sua conduta ao longo desta campanha foi questionada, e você responderá por suas ações."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>470</ID>
+      <DefaultText>"Como meu carrasco está morto, encarrego você da execução do Arconte. Vinculador do Destino, vá para Cacophony no [url=glossary:stone sea]Mar de Pedra[/url] e entregue a justiça do tribunal para [url=glossary:the voices of nerat]the Vozes de Nerat[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>471</ID>
+      <DefaultText>"Como meu carrasco está morto, encarrego você da execução do Arconte. Vá para Iron Hearth no [url=glossary:blade grave]Sepultura de Lâminas[/url]. Encontrar [url=glossary:graven ashe]Cinza esculpida[/url] e, com a aprovação do tribunal, executá-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>473</ID>
+      <DefaultText>"Meu carrasco vai procurar o Arconte e gerenciar sua execução."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>474</ID>
+      <DefaultText>"Meu carrasco vai procurar o Arconte e gerenciar sua execução." [url=glossary:tunon]Tunon[/url] acena para [url=glossary:bleden mark]Marca de mistura[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>477</ID>
+      <DefaultText>"Este é o seu fim, estudante. Sem piedade para traidores. Apenas o abraço frio da sepultura."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>478</ID>
+      <DefaultText>"Vamos ver, Árbitro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>479</ID>
+      <DefaultText>"Você será julgado no final de uma lâmina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>480</ID>
+      <DefaultText>[Não diga nada, ataque.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>482</ID>
+      <DefaultText>[Não diga nada.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>483</ID>
+      <DefaultText>"Parece que a experiência não amenizou seus modos, insolente. Este teste prosseguirá com ou sem sua cooperação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>484</ID>
+      <DefaultText>"O que você sabe de mim, Sua honra?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>485</ID>
+      <DefaultText>"O [url=glossary:scarlet chorus]Coro Escarlate[/url] é um aliado estranho, mas aprendi muito com eles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>486</ID>
+      <DefaultText>"Então você não expressa nenhuma reivindicação de devoção, apenas sua função útil? Esse é interessante notar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>487</ID>
+      <DefaultText>Nó de conversão de gatilho 487</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>489</ID>
+      <DefaultText>"Durante o ápice campanha, [url=glossary:scarlet chorus]Coro Escarlate[/url] os recrutas foram autorizados a participar de um Camadas festival - conspirando com o inimigo durante um período de guerra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>490</ID>
+      <DefaultText>"Não me oponho a trazer a humanidade para assuntos de guerra, mas parece suspeito que as gangues queiram conspirar com seus compatriotas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>491</ID>
+      <DefaultText>"Você não apoiou esta decisão? Eu entendo que você permitiu que tudo acontecesse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>492</ID>
+      <DefaultText>"Era uma questão de tradição, fomentar a cooperação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>493</ID>
+      <DefaultText>"Respeitosamente me recuso a explicar meu envolvimento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>494</ID>
+      <DefaultText>"Muito bem. Vou permitir isso... por enquanto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>495</ID>
+      <DefaultText>"Eu permitirei o máximo. Você agiu no melhor interesse da guerra, embora eu não possa dizer o mesmo para o [url=glossary:scarlet chorus]Coro Escarlate[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>496</ID>
+      <DefaultText>"Se a tradição priva nossos soldados de armas, ela precisa ser deixada de lado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>497</ID>
+      <DefaultText>"Prefiro não dizer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>498</ID>
+      <DefaultText>"Devo admitir que sua praticidade é admirável. Embora trabalhemos para preservar os valores Norte e apresentá-los ao selvagem inculto, também devemos manter nossas prioridades em ordem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>499</ID>
+      <DefaultText>"Uma pena. Você está aqui para dar testemunho, e isso só pode prejudicar sua causa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>500</ID>
+      <DefaultText>"[url=glossary:scarlet chorus]Coro Escarlate[/url] envenenado 'acidentalmente' [url=glossary:disfavored]Desfavorecido[/url] guerreiros no Ápice cerco."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>501</ID>
+      <DefaultText>"Uma jogada com consequências letais. Tal esquema coloca todos os envolvidos em perigo. O [url=glossary:scarlet chorus]Coro Escarlate[/url] deve tomar mais cuidado para manter os dois exércitos informados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>502</ID>
+      <DefaultText>"Você não considerou o Refrão inocente no assunto?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>503</ID>
+      <DefaultText>"Eu não queria desencorajar a resolução de problemas com tato."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>504</ID>
+      <DefaultText>"Eu fiz, mas não tenho mais nada a dizer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>505</ID>
+      <DefaultText>"Um raciocínio sábio. Punir a base corria o risco de enviar a mensagem errada. O tribunal aceita sua contabilidade do assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>506</ID>
+      <DefaultText>"Como seu depoimento só pode implicar o Arconte, estou surpreso com seu silêncio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>507</ID>
+      <DefaultText>"Eu entendo que você decidiu apoiar o [url=glossary:disfavored]Desfavorecido[/url] neste assunto. Você gostaria de elaborar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>508</ID>
+      <DefaultText>"[url=glossary:cairn]Cairn[/url] era uma força imprevisível. Perdas dessa natureza foram antecipadas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>509</ID>
+      <DefaultText>"Não neste momento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>510</ID>
+      <DefaultText>"Verdade. O Arconte de Pedra era tão caprichoso e caótico quanto qualquer outro que eu já vi. Convidá-lo para a guerra também trouxe uma certa desordem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>511</ID>
+      <DefaultText>"Como você quiser, embora eu o advirta a não reter qualquer testemunho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>512</ID>
+      <DefaultText>"As [url=glossary:scarlet chorus]Coro Escarlate[/url] invadiram [url=glossary:disfavored]Desfavorecido[/url] provisões na campanha Robusto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>513</ID>
+      <DefaultText>"Sim... uma questão de fome, me lembro. O refrão é notoriamente insuficiente, mas isso parece ser o resultado do planejamento de [url=glossary:the voices of nerat]do Vozes de Nerat[/url]. Eu entendo que isso desencoraja a preguiça ou a complacência."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>514</ID>
+      <DefaultText>"Você achou o Refrão inocente neste assunto. Por quê?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>515</ID>
+      <DefaultText>"Muito é feito em nome da manutenção da paz, e a fome é um poderoso motivador. O tribunal aceita sua conta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>516</ID>
+      <DefaultText>"Só para desarmar a situação. Melhor que os exércitos guardem sua agressão para o inimigo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>517</ID>
+      <DefaultText>"Eles estavam com fome. Eu não dei muita consideração."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>518</ID>
+      <DefaultText>"Espero que você seja mais calculista em seus julgamentos futuros, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>519</ID>
+      <DefaultText>"Durante o robusto campanha, [url=glossary:scarlet chorus]Coro Escarlate[/url] soldados foram vistos lutando ao lado do [url=glossary:unbroken]ininterrupto[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>520</ID>
+      <DefaultText>"Sim, eu me lembro desse capítulo perturbador de nossa campanha. O Arconte dos Segredos mantém suas operações perto do colete. Não é possível que esses soldados fossem espiões, como o exército afirmou?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>521</ID>
+      <DefaultText>"Se eles fossem espiões, então eu deveria ter sido informado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>522</ID>
+      <DefaultText>"Se ninguém pudesse atestar por eles, eles eram tão bons quanto Tiersmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>523</ID>
+      <DefaultText>"Seu ponto está anotado, embora o Arconte não seja obrigado a compartilhar suas operações com um Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>524</ID>
+      <DefaultText>"Exatamente. Lealdade é um conceito estranho no [url=glossary:scarlet chorus]Coro Escarlate[/url]. Os conterrâneos lutam contra sua região natal e os recrutas às dúzias abandonam seus postos. Se eles fossem espiões, você não teria sido mais sábio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>525</ID>
+      <DefaultText>"Tem algo a dizer sobre este assunto, filho do Norte?" [url=glossary:tunon]Tunon[/url] vira Barik com uma expressão inescrutável.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>526</ID>
+      <DefaultText>"Reconheço que foi um movimento desesperado... impulsivo mesmo, e sofremos as consequências dessa marcha. Alguns de nós mais do que outros."
+
+"Mas eu faria de novo pelo bem de Arconte. Ele sacrificou muito em nosso nome e merece mais do que poderíamos dar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>527</ID>
+      <DefaultText>"Obrigado pelo seu testemunho. Sua coragem e convicções lhe dão crédito, mas não redimem o Arconte aos meus olhos. Uma legião aprisionada e conflito de interesses não são justificativas para enviar recursos valiosos para o destino certo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>529</ID>
+      <DefaultText>"Recursos? Eu... eu nunca pensei em nós dessa maneira. [url=glossary:graven ashe]Cinza esculpida[/url] sempre nos chamou de família..." 
+
+Barik fica em silêncio, sua armadura rangendo com a mudança de peso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>530</ID>
+      <DefaultText>"Torre do Crepúsculo estava em ruínas, e ainda assim a legião não conseguiu tirá-lo do [url=glossary:unbroken]ininterrupto[/url] sem minha ajuda. Eles estavam com falta de pessoal em sua região de origem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>531</ID>
+      <DefaultText>"Apropriação indevida de soldados não é pouca coisa. Eu odiaria imaginar [url=glossary:kyros]Kyros[/url]' forças de elite lutando para conquistar uma paliçada esfarrapada composta por degenerados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>532</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] queria o [url=glossary:forge-bound]Forge-Bound[/url] Master retirado de [url=glossary:lethian's crossing]A travessia de Lethian[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>533</ID>
+      <DefaultText>"Os [url=glossary:forge-bound]Forge-Bound[/url] estão sob meus cuidados, e nenhum outro Arconte tem o direito de ditar suas atribuições, sua manutenção ou seu bem-estar."
+
+"Isso é um pouco na própria campanha... isso mina nossa capacidade de armar nossas forças."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>544</ID>
+      <DefaultText>"Durante o refúgio campanha, a [url=glossary:scarlet chorus]Coro Escarlate[/url] procurou recrutar novos recrutas da [url=glossary:forge-bound]Forge-Bound[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>545</ID>
+      <DefaultText>"De fato. Se a situação estivesse ao meu alcance, eu teria intervindo para pará-la. O [url=glossary:scarlet chorus]Coro Escarlate[/url] deveria saber melhor do que levar artesãos habilidosos de [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>546</ID>
+      <DefaultText>"Você me traz essa acusação apesar de ter apoiado o [url=glossary:scarlet chorus]Coro Escarlate[/url], permitindo que a mente do ferreiro fosse limpa. Essa decisão nos custou um ativo valioso da forja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>547</ID>
+      <DefaultText>"Achei que ele poderia ensinar aos Refrão uma lição sobre como manter seus braços."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>548</ID>
+      <DefaultText>"O [url=glossary:forge-bound]Forge-Bound[/url] raramente usa as armas que eles fabricam. Parecia justo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>549</ID>
+      <DefaultText>"Um ponto justo. Se a multidão uivante achasse em si mesmo o respeito por suas armas, eles poderiam pensar duas vezes antes de pegar forcados e pedras afiadas para a batalha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>550</ID>
+      <DefaultText>"O tribunal determinará o que é justo, já que você parece ter caducado em seu julgamento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>551</ID>
+      <DefaultText>"O [url=glossary:scarlet chorus]Coro Escarlate[/url] tentou me subornar por armas de ferro durante a campanha Refúgio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>552</ID>
+      <DefaultText>"Eu não considero a tentativa de corrupção de um Vinculador do Destino levianamente. O [url=glossary:scarlet chorus]Coro Escarlate[/url] deveria saber que isso viria à tona. Mesmo em seus esquemas, eles são míopes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>553</ID>
+      <DefaultText>"Eu entendo que você não hesitou em conceder o desejo deles. Explique-se."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>554</ID>
+      <DefaultText>"Qual a melhor forma de ganhar sua confiança do que ceder às suas demandas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>555</ID>
+      <DefaultText>"Eu permitirei. Se você não tivesse concedido o pedido, poderia ter perdido a evidência crítica."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>556</ID>
+      <DefaultText>"Por que o [url=glossary:disfavored]Desfavorecido[/url] acumula todas as armas de ferro?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>557</ID>
+      <DefaultText>"Porque o ferro está reservado para a elite, e os [url=glossary:scarlet chorus]Coro Escarlate[/url] não merecem esse direito. Isso deve ser evidente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>562</ID>
+      <DefaultText>"Encontrei um [url=glossary:forge-bound]Forge-Bound[/url] cadáver no Oldwalls. Ele estava procurando um caminho para Twin Rivers para o [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>563</ID>
+      <DefaultText>"Um invasor no Oldwalls, e a morte de um [url=glossary:forge-bound]Forge-Bound[/url]... Esses crimes vão assombrar o [url=glossary:disfavored]Desfavorecido[/url] duplamente. Seus poderes de observação são creditados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>564</ID>
+      <DefaultText>"Você considerou o Refrão inocente no assunto, e deu vários [url=glossary:disfavored]Desfavorecido[/url] escravos ao Arconte da Canção para sua diversão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>567</ID>
+      <DefaultText>"Encontrei uma missiva no [url=glossary:burning library]Biblioteca em chamas[/url] que implica Ashe em crimes de guerra anteriores à guerra civil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>568</ID>
+      <DefaultText>"Os Arcontes' animosidade entre si é bem documentada, mas nunca soubemos ao certo se qualquer um deles havia agido em sua amargura. Vamos adicionar isso ao registro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>569</ID>
+      <DefaultText>"Encontrei um registro de interrogatórios e torturas por um Murmúrio Sujo. Ele gravou atos vis com [url=glossary:disfavored]Desfavorecido[/url] prisioneiros de antes da guerra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>570</ID>
+      <DefaultText>"Chocante. Mais do que os próprios atos, seu descarado desrespeito pela paz - como se o próprio Arconte zombasse de nós de longe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>571</ID>
+      <DefaultText>"Durante o [url=glossary:vellum citadel]Cidadela de Velino[/url] assalto, [url=glossary:disfavored]Desfavorecido[/url] soldados mortos Sábios que foram recrutados para o [url=glossary:scarlet chorus]Coro Escarlate[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>572</ID>
+      <DefaultText>"Uma sentença brutal, mas os Sábios não estavam se preparando para dispensar o conhecimento proibido? Eu entendi que o Arconte da Canção os havia cativado e soltado suas línguas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>573</ID>
+      <DefaultText>"Você até governou do lado do [url=glossary:disfavored]Desfavorecido[/url]. Explique isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>574</ID>
+      <DefaultText>"A influência de Sirin teria se dissipado com o tempo. Os Sábios pode ter se rebelado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>575</ID>
+      <DefaultText>"Eu não queria sofrer o mesmo destino que o Sábios."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>576</ID>
+      <DefaultText>"Eles ainda poderiam ter oferecido informações valiosas como prisioneiros."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>577</ID>
+      <DefaultText>"Como você disse, Sirin estava envolvido. Os Sábios não infringiu voluntariamente a lei [url=glossary:kyros]Kyros[/url]'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>578</ID>
+      <DefaultText>"Parece que você é o único a pensar na guerra em uma escala de longo prazo. Entendo seu ponto, embora ainda condene Ashe soldados por seus crimes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>579</ID>
+      <DefaultText>"Resposta de um covarde. Você é a lança da [url=glossary:kyros]Kyros[/url]' justiça. Aja como tal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>580</ID>
+      <DefaultText>"Isso é especulativo na melhor das hipóteses. [url=glossary:kyros]Kyros[/url]' a lei contra o conhecimento proibido é clara, mas a morte de aliados em potencial ainda é desencorajada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>581</ID>
+      <DefaultText>"Um ponto justo. Como eles se renderam às forças [url=glossary:kyros]Kyros[/url]', eles deveriam ter sido tratados como prisioneiros ou recrutas em vez de hostis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>582</ID>
+      <DefaultText>"Durante a guerra, os [url=glossary:disfavored]Desfavorecido[/url] foram ineficazes em conseguir que [url=glossary:cairn]Cairn[/url] seguisse ordens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>583</ID>
+      <DefaultText>"Uma marca gritante contra ele. Era responsabilidade de [url=glossary:graven ashe]Cinza esculpida[/url] manter o Arconte sob controle. Sua loucura quase destruiu uma região crítica do Camadas, e a própria [url=glossary:kyros]Kyros[/url] teve que intervir. Uma bagunça, com certeza. Levamos essa afirmação muito a sério em nossa contabilidade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>584</ID>
+      <DefaultText>"Os sacudidores de terra queria usar [url=glossary:cairn]Cairn[/url] para arruinar os [url=glossary:stone sea]Mar de Pedra[/url] e passar fome [url=glossary:scarlet chorus]Coro Escarlate[/url] soldados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>585</ID>
+      <DefaultText>"Uma tática de guerra eficaz, mas não ao custo de matar de fome o próprio reino. As tropas de Ashe eram tolas ou loucas por considerar isso uma alternativa à luta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>588</ID>
+      <DefaultText>"Assim seja, miserável. Se dispensar as formalidades do tribunal, dispensa a lei [url=glossary:kyros]Kyros[/url]'. Terminei com você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>589</ID>
+      <DefaultText>"Acredito que o Arconte foi o responsável pela morte de um Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>590</ID>
+      <DefaultText>"Sim - meu agente no [url=glossary:stone sea]Mar de Pedra[/url]. Se [url=glossary:the voices of nerat]o Vozes de Nerat[/url] estava por trás desse assassinato, então sua culpa aos olhos deste tribunal está fora de questão. Apresente sua evidência."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>591</ID>
+      <DefaultText>"O Homem-Besta, Rending-Hound, tinha um colar de orelhas que o implicava."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>592</ID>
+      <DefaultText>"Misery - um [url=glossary:scarlet chorus]Coro Escarlate[/url] recruta - me disse que matar Rending Hound era uma questão de negócios inacabados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>593</ID>
+      <DefaultText>"Não tenho nada para apresentar ao tribunal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>594</ID>
+      <DefaultText>"O tribunal aceita esses achados mórbidos como evidência."
+
+"Você tem mais alguma coisa a apresentar nesta acusação?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>595</ID>
+      <DefaultText>"cão de caça confessou a trama. O Vinculador do Destino estava se aproximando demais do Arconte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>597</ID>
+      <DefaultText>"Então eu encorajo você a não perder tempo com suas alegações especulativas!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>598</ID>
+      <DefaultText>"O Arconte desejava esconder evidências de sua ação. Uma abordagem tão organizada para quebrar a lei [url=glossary:kyros]Kyros[/url]' implica que este não foi um evento isolado. Obrigado por chamar a minha atenção."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>599</ID>
+      <DefaultText>"Você fez bem em obter uma confissão da fonte. A parte que o Arconte desempenhou nesta atrocidade está fora de questão, então. Obrigado por trazer à tona evidências tão convincentes."
+
+"Há mais alguma coisa para contar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>600</ID>
+      <DefaultText>"Não tenho mais nada a apresentar nesta acusação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>601</ID>
+      <DefaultText>"Muito bem. Podemos passar para outros assuntos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>602</ID>
+      <DefaultText>"Eu entendo que você fez um trabalho rápido com meu carrasco. Ou o Arconte das Sombras perdeu sua proeza outrora indomável em combate, ou você de fato assumiu o manto de Arconte. De qualquer forma, você pagará caro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>603</ID>
+      <DefaultText>"Minha corte e o mundo em geral estão mais livres de você, coitada."
+
+"[url=glossary:bleden mark]Marca de mistura[/url], ataque!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>604</ID>
+      <DefaultText>Nó de script 98</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>605</ID>
+      <DefaultText>Nó de script 99</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>606</ID>
+      <DefaultText>"Eu não posso estar ouvindo isso! Se Ashe caiu pela sua palavra, acho que não aguentaria..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>607</ID>
+      <DefaultText>"Não tenho acusações a fazer, Sua honra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>608</ID>
+      <DefaultText>"Nenhuma? Depois a conquista dos Tiers e a guerra civil que se seguiu, você não apresentaria nada ao tribunal?"
+
+"Você perdeu meu tempo - talvez a guerra inteira - e você responderá por isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>609</ID>
+      <DefaultText>"Só pergunto como você procederá com seu julgamento se seus carrascos estiverem mortos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>610</ID>
+      <DefaultText>"Meu carrasco... a vida dele não era sua." 
+
+Atras do [url=glossary:tunon]Tunon[/url] raiva de você, você detecta uma reação mais sutil - descrença.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>611</ID>
+      <DefaultText>"Eu o matei e vim para matar o bobo da corte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>612</ID>
+      <DefaultText>"Eu o matei como [url=glossary:kyros]Kyros[/url] e mantenho minha decisão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>613</ID>
+      <DefaultText>[Mentira] "Ele escolheu administrar sua própria justiça e me emboscou, eu apenas me defendi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>614</ID>
+      <DefaultText>"Vou determinar se você é tão leal quanto afirma ser, Vinculador do Destino. Não terminamos aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>615</ID>
+      <DefaultText>"Mas ainda devemos seguir a lei [url=glossary:kyros]Kyros[/url]', e você como Vinculador do Destino deve entregar este título executivo ao Arconte, pessoalmente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>616</ID>
+      <DefaultText>"Não pode [url=glossary:bleden mark]Marca de mistura[/url] apenas... fazer isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>617</ID>
+      <DefaultText>"Eu vou, Árbitro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>618</ID>
+      <DefaultText>"É lei que aqueles que desafiam [url=glossary:kyros]Kyros[/url] devem ser informados de sua sentença a partir de um Vinculador do Destino, e é isso que você deve fazer. Retorne para mim assim que a ação estiver concluída."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>619</ID>
+      <DefaultText>"Muito bem, volte para mim assim que a ação estiver concluída."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>620</ID>
+      <DefaultText>"O tempo é essencial e você tem uma tarefa em mãos, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>621</ID>
+      <DefaultText>"Nós nos reunimos para erradicar a fonte de nossos problemas e determinar qual dos Arcontes semeou mais caos durante a guerra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>622</ID>
+      <DefaultText>"Amelia era um soldado sob sua guarda e compartilhava sua confiança mais do que a maioria da legião. A deserção dela é ainda mais preocupante." 
+
+"Vou permitir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>623</ID>
+      <DefaultText>"Acho que a resposta para essa pergunta é óbvia, Árbitro. Dar voz a isso aqui é apenas uma formalidade para confirmar o que já sabemos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>624</ID>
+      <DefaultText>[url=glossary:tunon]Tunon[/url] vira-se para apontar o que você só pode supor ser um olhar severo. Ele volta a se concentrar em você com estoicismo legal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>625</ID>
+      <DefaultText>"Assassino!" Incapaz de manter o silêncio, o oficial [url=glossary:disfavored]Desfavorecido[/url] pega sua arma e se prepara para avançar sobre você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>626</ID>
+      <DefaultText>"Espero que não seja sua intenção armar-se perante um tribunal de representantes legais pacíficos, comandante, a não ser para oferecer diversão enquanto [url=glossary:bleden mark]Marca de mistura[/url] o esfola para nosso deleite." Calio oferece uma sorriso encorajador.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>627</ID>
+      <DefaultText>Ela pensa melhor de si mesma e lentamente libera sua arma, colocando uma mão trêmula ao seu lado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>628</ID>
+      <DefaultText>"Posso apontar o culpado e nos poupar da discussão!" Cobertura de Sangue aponta a ponta de uma adaga bruta em seu coração. "Esta é a escória que derrubou o Vozes!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>629</ID>
+      <DefaultText>"Espero que não seja sua intenção armar-se perante um tribunal de representantes legais pacíficos, comandante, a não ser para oferecer diversão enquanto [url=glossary:bleden mark]Marca de mistura[/url] o esfola para nosso deleite." Calio oferece uma sorriso encorajador.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>630</ID>
+      <DefaultText>Ele aperta os olhos para Calio e lentamente devolve sua arma à bainha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>631</ID>
+      <DefaultText>"Mentiroso!" Albetronas se prepara para dizer mais, mas um olhar de [url=glossary:tunon]Tunon[/url] a silencia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>632</ID>
+      <DefaultText>"Nós éramos mais fortes juntos do que você jamais poderia imaginar, e você tirou Ashe de nós! Não deixarei esta quadra até que sua cabeça seja montada em nosso estandarte e apresentada antes dos Geral ritos funerários." Albetronas acena para [url=glossary:tunon]Tunon[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>633</ID>
+      <DefaultText>"Ele era um gênio e um artista! Que você não o entendeu apenas aguça seu brilho!" Cobertura de Sangue se curva para [url=glossary:tunon]Tunon[/url] e se silencia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>634</ID>
+      <DefaultText>"A Corte não tem tempo para suas mentiras! Ah, isso é... com sua aprovação, o poderoso [url=glossary:tunon]Tunon[/url]." Cobertura de Sangue silenciosamente recua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>635</ID>
+      <DefaultText>Albetronas faz uma saudação orgulhosa e acena em sua direção.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>636</ID>
+      <DefaultText>"Eu desafio você a encontrar uma Arconte mais carinhosa e dedicada do que Ashe!" Albetronas treme de raiva reprimida. "Desculpas, Sua honra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>637</ID>
+      <DefaultText>Caio ri. "Esse deve ser interessante. Sua bravura certamente floresceu com o tempo, meu velho colega."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>638</ID>
+      <DefaultText>"Você derrubaria nosso professor e mentor? Um desenvolvimento intrigante." A sobrancelha de Rhogalus se ergue em um arco afiado, mas ele permanece imóvel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>639</ID>
+      <DefaultText>"Sim, e nos lembramos de nossos amigos, não é?" Cobertura de Sangue pisca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>640</ID>
+      <DefaultText>"Nós sempre nos esforçamos para dar o nosso melhor esforço aos Arconte dos Segredos, Sua honra." Cobertura de Sangue acenos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>641</ID>
+      <DefaultText>"Hm?" Blood Mulch olha para cima ao inspecionar suas cutículas lascadas para olhar para você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>642</ID>
+      <DefaultText>"Será que realmente vamos ouvir esse traidor em nosso meio?" Albatronas cerra os punhos e treme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>643</ID>
+      <DefaultText>[url=glossary:tunon]Tunon[/url] passa a ela um olhar vazio até que ela recupere a compostura e se volte para você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>644</ID>
+      <DefaultText>"Eu não vou ficar aqui sentado pacientemente com acusações infundadas!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>645</ID>
+      <DefaultText>"Eu mesmo mataria esse vilão se..." Cobertura de Sangue olhasse para cima e se lembrasse de si mesmo na presença de [url=glossary:tunon]Tunon[/url]. "Que é, se eu tivesse a autoridade Tribunal, poderosa [url=glossary:tunon]Tunon[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>646</ID>
+      <DefaultText>O chefe da gangue pisca. "O que?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>647</ID>
+      <DefaultText>"Receio ter que ecoar esse sentimento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>648</ID>
+      <DefaultText>[Não diga nada.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>649</ID>
+      <DefaultText>[url=glossary:tunon]Tunon[/url] considera você em um silêncio sem compaixão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>650</ID>
+      <DefaultText>"Por mais interessante que eu ache esse concurso de olhares, provavelmente deveríamos começar o julgamento, sim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>651</ID>
+      <DefaultText>"Você sem dúvida se lembra das categorias de infração pelas quais os Arcontes podem ser responsabilizados? Elas são sedição, incompetência, crimes de guerra e acúmulo de conhecimento proibido." Rhogalus acena para você. "Não é todo dia que somos chamados a determinar a culpa em tal escala. Pise levemente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>652</ID>
+      <DefaultText>"Uma fabricação grosseira, Meritíssimo! Sem dúvida, Ashe estava tentando atrair os violadores de juramento para uma armadilha... embora ele não tenha feito essa tática conhecida para o resto de nós."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>653</ID>
+      <DefaultText>"Se você mantivesse [url=glossary:the voices of nerat]o Vozes de Nerat[/url] no mesmo padrão, ele seria julgado por cada uma das centenas de desertores que fugiram de seu acampamento e voltaram para seus compatriotas! Isso é uma farsa, Sua honra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>654</ID>
+      <DefaultText>"Bah. Como se qualquer evidência crível pudesse ser desenterrada daquele monte de lixo de um reino. O que quer que você tenha encontrado provavelmente está tão manchado ou rasgado que está ilegível."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>655</ID>
+      <DefaultText>O refrão chefe de gangue engole enquanto você apresenta as evidências e olha para [url=glossary:tunon]Tunon[/url] com ansiedade crescente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>656</ID>
+      <DefaultText>"Respeitosamente, ótimo [url=glossary:tunon]Tunon[/url], acredito que o Vinculador do Destino ia enfatizar a importância da cooperação em tempos de guerra." Nunoval se curva.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>657</ID>
+      <DefaultText>"Estamos sendo julgados por diversão? Porque a fila de réus se estenderá até o Oldwalls... com respeito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>658</ID>
+      <DefaultText>"Aquele reino é um deserto de fumaça e cinzas... qualquer coisa que não esteja pegando fogo estava fadada a pegar a qualquer momento. Você mal podia ver sua mão diante de seu rosto." Ela franze a testa e acena com desdém.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>659</ID>
+      <DefaultText>"Então nivele suas acusações em [url=glossary:cairn]Cairn[/url], que errou como o louco que era! Deixe o General fora disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>660</ID>
+      <DefaultText>"Arconte, tenho certeza que o bom [Player Name] - cuja língua está presa no momento - conhece bem a natureza imprevisível do Arconte de Pedra. Não que isso proteja Ashe da culpa." Calio se curva.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>661</ID>
+      <DefaultText>"Nossos números estão bem documentados, ótimos [url=glossary:tunon]Tunon[/url]. Tenho certeza de que Ashe pode fornecer a você os livros contábeis que representam-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>662</ID>
+      <DefaultText>[url=glossary:tunon]Tunon[/url] acena para ela silenciar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>663</ID>
+      <DefaultText>"Você usaria isso contra nós?" Barik se afasta de você. "Não foi nossa busca mais guerreira, mas foi nobre..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>664</ID>
+      <DefaultText>"Poderoso [url=glossary:tunon]Tunon[/url]! Fiquei com a impressão de que um Arconte poderia direcionar suas forças como bem entendesse, e que um jogo era tão bom quanto uma expedição se tivesse o trabalho feito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>665</ID>
+      <DefaultText>"Não quando recursos valiosos de guerra estão em jogo, e o Arconte pode perder tropas para entretenimento desnecessário. Anulado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>666</ID>
+      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "Há um elemento de verdade e precedente para esta afirmação, mas não é suficiente para absolver o Arconte aos Tribunal olhos. Anulado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>667</ID>
+      <DefaultText>"Nós estávamos praticamente preparados para falhar, Sua honra. A falta de disciplina de [url=glossary:cairn]Cairn[/url] era bem conhecida. Como Ashe poderia ter esperança de mantê-lo na linha em meio ao estresse da guerra?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>668</ID>
+      <DefaultText>"O Arconte da Guerra deveria ter se lembrado de sua posição e realizado o melhor de suas habilidades."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>669</ID>
+      <DefaultText>"Com... com admiração, Sua honra, pergunte sobre corrupção dentro do [url=glossary:scarlet chorus]Coro Escarlate[/url]! Tenho certeza de que este poderia inventar uma história que colocaria o Tribunal prendendo todos os recrutas sanguinários em correntes!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>670</ID>
+      <DefaultText>O chefe da gangue não oferece nada além de um inocente e confuso encolher de ombros.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>671</ID>
+      <DefaultText>"O [url=glossary:scarlet chorus]Coro Escarlate[/url] não está sendo julgado hoje, comandante. Anulado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>672</ID>
+      <DefaultText>"Não estamos em guerra aqui?" Albatronas cruza os braços com um aceno de cabeça. "O Coro é uma multidão de pequenos espiões interferentes..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>673</ID>
+      <DefaultText>"Eu sabia! Vocês inatos vão pagar por seus esquemas!" Cobertura de Sangue faz uma careta grosseira em Albatronas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>674</ID>
+      <DefaultText>"Arconte, se me permite? [Player Name] mostrou claramente que os [url=glossary:disfavored]Desfavorecido[/url] são capazes de matar os indignos. Ele não queria atrair a ira deles e guardou seu relatório para um momento oportuno." Nunoval se curva.</DefaultText>
+      <FemaleText>"Arconte, se me permite? [Player Name] mostrou claramente que os [url=glossary:disfavored]Desfavorecido[/url] são capazes de matar os indignos. Ela não queria atrair a ira deles e guardou seu relatório para um momento oportuno." Nunoval se curva.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>675</ID>
+      <DefaultText>O Árbitro pensa sobre isso e assente. "Eu vou permitir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>676</ID>
+      <DefaultText>"Você poderia ter parado ali mesmo - 'matou Sábios.' Não consigo ver o dilema aqui." Albetronas faz uma careta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>677</ID>
+      <DefaultText>"Se a opinião escrita for uma questão de culpa, então pretendo apresentar acusações semelhantes a todos os idiotas alfabetizados que caber neste tribunal!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>678</ID>
+      <DefaultText>O chefe da gangue abre os braços e olha ao redor do tribunal. "É mesmo? Presente ele, então. Eu adoraria ver isso pessoalmente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>679</ID>
+      <DefaultText>"Eu poderia soletrar isso de uma maneira que o tornasse totalmente menos venenoso e mais prático, mas quer saber? Vá jogar seu joguinho de lei. Veja onde isso o leva." Ele acena para você com as duas mãos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>680</ID>
+      <DefaultText>"Talvez seja melhor sugerir que as [url=glossary:disfavored]Desfavorecido[/url] tradições de guerra estão desatualizadas e impraticáveis. [Player Name] estava agindo para o bem da guerra, mas isso não desculpa o Refrão... Sua honra." Calio pisca para você e se afasta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>681</ID>
+      <DefaultText>"Um ponto justo." [url=glossary:tunon]Tunon[/url] acena com a cabeça. "Leva cuidado para não apoiar seu colega por pena, Calio." Ele volta sua atenção para você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>682</ID>
+      <DefaultText>"É nossa culpa que o [url=glossary:disfavored]Desfavorecido[/url] tenha reabastecido seus cantis no poço errado? Percebo que [Player Name] não contou o número de Vendrien escória que matamos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>683</ID>
+      <DefaultText>"Excelente [url=glossary:tunon]Tunon[/url]... embora o Refrão coloque em risco a vida de seus aliados, punir aqueles que mostrassem iniciativa e estratégia calculista só prejudicaria o esforço de guerra. É melhor deixar esses detalhes serem resolvidos em um local mais apropriado." Rhogalus se curva.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>684</ID>
+      <DefaultText>"As vozes' o design nem sempre é claro, Sua honra, mas isso só contribui para sua beleza." Cobertura de Sangue arcos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>685</ID>
+      <DefaultText>"Se eu pudesse, o poderoso [url=glossary:tunon]Tunon[/url]?" Nunova limpa a garganta. "A fome nas fileiras pode ser perdoada no calor do momento, mas a fonte de tal agravamento é melhor abordada posteriormente. Perdoe o soldado, puna os arcos Arconte." Nunova.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>686</ID>
+      <DefaultText>"Tenho certeza de que o Vozes só queria cuidar da do Mestre Zdenya segurança..." Cobertura de Sangue desaparece quando [url=glossary:tunon]Tunon[/url] o fixa no local com um olhar . "Ah. Declaração retirada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>687</ID>
+      <DefaultText>"Claro! As vozes era [url=glossary:kyros]Kyros[/url]' espião antes de ser general. Seria ingênuo pensar que as forças de Refrão correndo com o inimigo fossem outra coisa senão plantas que o Vozes semeou em seu meio." Cobertura de Sangue balança a cabeça em decepção.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>688</ID>
+      <DefaultText>"Respeitosamente, poderoso [url=glossary:tunon]Tunon[/url], teria sido prudente que [url=glossary:the voices of nerat]o Vozes de Nerat[/url] compartilhasse esta informação com o Tribunal contato com o esforço de guerra em vez de arrisque qualquer mal-entendido." Rhogalus olha em sua direção e faz uma reverência.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>689</ID>
+      <DefaultText>O Árbitro o observa em silêncio e volta sua atenção para você com um aceno de aprovação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>690</ID>
+      <DefaultText>Cobertura de Sangue resmunga baixinho para si mesmo, mas não diz nada em sua defesa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>691</ID>
+      <DefaultText>"Sim, e os [url=glossary:disfavored]Desfavorecido[/url] são inocentes nessa acusação, não é?!" Ele aponta para Albatronas. "Peça para ela justificar a culpa da legião!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>692</ID>
+      <DefaultText>[url=glossary:tunon]Tunon[/url] simplesmente encara Cobertura de Sangue até que o silêncio retorne ao tribunal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>693</ID>
+      <DefaultText>"A compreensão de Murmur sobre alfabetização é, na melhor das hipóteses, incerta. O homem não conseguia se lembrar da data de seu próprio nascimento, muito menos a data de um interrogatório..." Cobertura de Sangue desaparece quando [url=glossary:tunon]Tunon[/url] o encara.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>694</ID>
+      <DefaultText>"Repugnante. Nada menos do que o peso total do martelo da justiça vingará meus compatriotas." Albetronas balança a cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>695</ID>
+      <DefaultText>"Não estamos em guerra com essa ralé, juiz? Discuta a legalidade disso tudo o que quiser - o número desses selvagens vestidos de vermelho precisava ser reduzido para trazer ordem ao Camadas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>696</ID>
+      <DefaultText>"Cada um de nós prometeu lealdade a [url=glossary:kyros]Kyros[/url] e o Arconte dos Segredos." Cobertura de Sangue inclina a cabeça para [url=glossary:tunon]Tunon[/url]. "Esperamos a proteção merecedora de [url=glossary:kyros]Kyros[/url]' Paz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>697</ID>
+      <DefaultText>"Este faz um ponto justo, Árbitro. As [url=lore:kyros_quota]leis de cota e partilha[/url] ditam que os servos de [url=glossary:kyros]Kyros[/url] serão alimentados em tempos de necessidade. O [url=glossary:disfavored]Desfavorecido[/url] claramente ultrapassou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>698</ID>
+      <DefaultText>[url=glossary:tunon]Tunon[/url] acena com a cabeça. "Concordou. A transgressão aqui é óbvia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>699</ID>
+      <DefaultText>"E você não pode imaginar por um momento que o Refrão teria plantado um cadáver lá para você descobrir? Eu odeio dizer isso, mas pela primeira vez você não está dando [url=glossary:the voices of nerat]o Vozes de Nerat[/url] seu merecido crédito como mentiroso e intrigante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>700</ID>
+      <DefaultText>"Limpe a ferrugem do seu cérebro, blindado. A maioria de nós não consegue escrever o próprio nome, muito menos forjar um diário."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>701</ID>
+      <DefaultText>"Talvez seus idiotas precisem parar com a especulação desenfreada e permitir que nosso estimado Árbitro avalie as evidências como achar melhor, hm?" Calio oferece um sorriso condescendente para os peticionários enquanto entrega a palavra para [url=glossary:tunon]Tunon[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>702</ID>
+      <DefaultText>"Vamos, não precisamos punir o Arconte de Guerra pela transgressão de um sulista - e um traidor?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>703</ID>
+      <DefaultText>Ele se volta para Albatronas. "Deixe um [url=glossary:forge-bound]Forge-Bound[/url] escapar por entre os dedos, não é? Eu ofereço minhas condolências, só que não tenho nenhuma."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>704</ID>
+      <DefaultText>Ela aponta para Cobertura de Sangue. "Guarda aquela dor de choro que você chama de boca fechada, ou então me ajude vou costurar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>705</ID>
+      <DefaultText>[url=glossary:tunon]Tunon[/url] observa a troca em silêncio não impressionado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>706</ID>
+      <DefaultText>"Ahh... Eu não me preocuparia muito, ótimo Árbitro. Tenho certeza de que o Censurar escolheu apenas os porcos mais estúpidos e analfabetos para a tarefa. Não é o que você chamaria de tipos livrescos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>707</ID>
+      <DefaultText>"A menos que você possa atestar pessoalmente cada recruta que entrou no Biblioteca, caberá ao critério do Tribunal decidir a magnitude da culpa." Calio acena até [url=glossary:tunon]Tunon[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>708</ID>
+      <DefaultText>"Será que agora? Fascinante. Cuidado para detalhar o que seus recrutas procuraram ganhar com sua negligência, Cobertura de Sangue?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>709</ID>
+      <DefaultText>O chefe da gangue desvia o olhar de Albatronas para [url=glossary:tunon]Tunon[/url]. Ele engole. "Sem comentários?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>710</ID>
+      <DefaultText>"Temos um senso saudável de... cautela para essas coisas." Cobertura de Sangue balança a cabeça lentamente, escolhendo suas palavras com cuidado. "Mas ninguém na campanha conseguia distinguir o que era proibido do que não era. A lei-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>711</ID>
+      <DefaultText>"A lei é a vontade de [url=glossary:kyros]Kyros[/url], e você dificilmente está qualificado para interpretar sua intenção ou usá-la para justificar qualquer desculpa pobre de um argumento a seu favor." Calio sorri agradavelmente para Cobertura de Sangue e inclina a cabeça para [url=glossary:tunon]Tunon[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>712</ID>
+      <DefaultText>"Que zombaria de processo é essa? As acusações são todas invenções contra meu mestre, e eu não vou ouvir falar disso!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>713</ID>
+      <DefaultText>"O tribunal de [url=glossary:tunon]Tunon[/url] governou, sua pústula madura. Eu sugiro que você segure sua língua."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>714</ID>
+      <DefaultText>"Parece que seu treinamento cortês não valia seu peso em grãos, Vinculador do Destino." Cobertura de Sangue ri. "Conheço alguns porcos famintos que podem te ensinar uma lição de oração se você estiver interessado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>715</ID>
+      <DefaultText>"Ultrajante, ultrajoso... um tronco caído pode ser um caso convincente dos crimes de [url=glossary:the voices of nerat]Vozes de Nerat[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>716</ID>
+      <DefaultText>"Não! Por favor, Adjudicator - Ashe é inocente! Esse... esse seu servo arrogante conjurou evidências do nada!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>717</ID>
+      <DefaultText>"Eu me canso desse charlatão de ferro. Alguém pode acorrentá-la ou devemos recorrer a uma solução mais imediata?" Cobertura de Sangue estala os dedos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>718</ID>
+      <DefaultText>"Eu esperava esse resultado, e é gratificante ver a justiça feita. Obrigado, Árbitro." Albetronas se curva com respeito.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>719</ID>
+      <DefaultText>"Claro que você elogiaria o Tribunal desde que seja adequado aos seus interesses. O seu Arconte culpa é tão fácil de ver quanto aquele olhar presunçoso em seu rosto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>720</ID>
+      <DefaultText>"Árbitro, você pode me dar um momento com o meu colega aqui?" Calio limpa a garganta e o encara com uma expressão de conhecimento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>721</ID>
+      <DefaultText>"Nem sempre fomos os mais próximos ou os mais confiantes, mas eu gostaria de pensar que nosso respeito um pelo outro vai nos dois sentidos." Ela faz uma pausa e continua em um sussurro. "Eu não sei se você está tentando entrar na pele de [url=glossary:tunon]Tunon[/url] ou o que, mas... pelo menos apresente um caso. Não posso garantir sua segurança se você agir como um idiota na frente de [url=glossary:tunon]Tunon[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>722</ID>
+      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url].] "Apenas queria lhe desejar boa sorte." Ela oferece um sorriso simpático. "Isso é esteve na mente de [url=glossary:tunon]Tunon[/url] desde a falha em [url=glossary:vendrien's well]Poço de Vendrien[/url], e eu sei que ele está ansioso por isso... pois ele pode esperar qualquer coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>723</ID>
+      <DefaultText>"Retiro minha declaração. Eu gostaria de fazer um processo contra o Arconte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>724</ID>
+      <DefaultText>[Não diga nada.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>725</ID>
+      <DefaultText>O silêncio entre você e [url=glossary:tunon]Tunon[/url] se prolonga desconfortavelmente. "Continuar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>726</ID>
+      <DefaultText>Ela suspira e oferece um aceno desdenhoso. "Tudo bem. Boa sorte com isso, então."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>727</ID>
+      <DefaultText>"Na realidade, eu mesmo gostaria de executar a execução."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>728</ID>
+      <DefaultText>"Você deve executar o Arconte dos Segredos, [url=glossary:the voices of nerat]o Vozes de Nerat[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>729</ID>
+      <DefaultText>"Vá com sua missão, carrasco. Incomodar o Tribunal não mais com suas exibições ou sua bravura, e seja rápido em retornar com o culpado. Ficaremos aqui até você voltar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>730</ID>
+      <DefaultText>"O tribunal tem mais necessidade de mentes jurídicas do que de carrascos, mas vou permitir essa... sua predisposição, desde que não entre em conflito com seus deveres." [url=glossary:tunon]Tunon [/url] lança seu olhar entre você e [url=glossary:bleden mark]Marca de mistura[/url], momentaneamente perturbado. "Entregar este mandado aos culpados e execute-os com a aprovação Tribunal." "Primeiro há a questão do peticionário que tão cegamente seguiu seu mestre corrupto e réprobo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>731</ID>
+      <DefaultText>"Agora, veja, é disso que eu gosto em você, garoto. Você é tão... maleável." Ele inclina a cabeça para você em despedida e diversão, brandindo uma adaga sombria entre os dedos. 
+
+"Não se deixe matar. Ou terei que limpar depois de você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>733</ID>
+      <DefaultText>Nó de script 733</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>734</ID>
+      <DefaultText>Nó de script 734</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>736</ID>
+      <DefaultText>"Como você comanda, Árbitro. Então devo agir." Ele se curva para o Arconte da Justiça, com as costas tensas. Ele estica o rosto para você, encara uma máscara dura enquanto ele apunhala você com um último olhar fulminante.
+
+Então o chão se abre com um grito de sombras, uma entrada negra esculpindo tapeçaria, mármore e chão, sibilando através do tempo e espaço, uma cobra atacando um Arconte. E [url=glossary:bleden mark]Marca de mistura[/url] desaparece.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>739</ID>
+      <DefaultText>"Paciência, estudante. [url=glossary:bleden mark]Marca de mistura[/url] aproxima-se imediatamente. O Arconte das Sombras é tão rápido quanto mortal." [url=glossary:tunon]Tunon[/url] acena em aprovação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>740</ID>
+      <DefaultText>O Árbitro chama a atenção para os peticionários [url=glossary:disfavored]Desfavorecido[/url] e [url=glossary:scarlet chorus]Coro Escarlate[/url]. Mesmo através de sua máscara estóica, a intensidade de seu olhar é evidente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>741</ID>
+      <DefaultText>"Dado o Tribunal, julgo você culpado por associação com [url=glossary:the voices of nerat]the Vozes de Nerat[/url]. Como ele perpetuou seus crimes, você teve a audácia de representar o [url=glossary:scarlet chorus]Coro Escarlate[/url] neste salão da lei." 
+
+[url=glossary:tunon]Tunon[/url] com os melhores cumprimentos. "E o destino dele, estudante? Você provou a culpa Vozes'. Seu servo é seu para dispensar como achar melhor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>742</ID>
+      <DefaultText>"Sua associação com o traidor [url=glossary:graven ashe]Cinza esculpida[/url] o condenou aos olhos de Tribunal. Assim como você compartilha a proteção Arconte, você compartilhará a culpa dele." 
+
+[url=glossary:tunon]Tunon[/url] com os melhores cumprimentos. "E o fim dela, estudante? Pelo seu serviço, ofereço-lhe a liberdade de determinar o destino do comandante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>743</ID>
+      <DefaultText>"Execução. Seu mestre se juntará a ele em breve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>744</ID>
+      <DefaultText>"Ele deve ser destituído de posto e feito para servir o Tribunal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>745</ID>
+      <DefaultText>"Tão justo e comprometedor como sempre." [url=glossary:tunon]Tunon[/url] acena com a cabeça. 
+
+"Nunova, acompanhe este do Tribunal. A hora da disciplina e reintegração virá depois que nosso negócio for concluído."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>746</ID>
+      <DefaultText>"Então é julgado." [url=glossary:tunon]Tunon[/url] acena com a cabeça. 
+
+"Nunova, entregue a sentença em outro lugar. Não há necessidade de sujar o chão com a passagem deste, especialmente enquanto ainda temos assuntos para resolver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>747</ID>
+      <DefaultText>"Morte. Deixe-a se juntar ao Arconte em sua pira funerária."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>748</ID>
+      <DefaultText>"Ela perderá seu posto e servirá a Tribunal - uma grave indignidade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>751</ID>
+      <DefaultText>"Retorne assim que suas tarefas estiverem concluídas e o Arconte estiver morto. Ainda há mais a resolver antes que este conflito chegue a um fim satisfatório." [url=glossary:tunon]Tunon[/url] olha para você com um olhar intenso e sem emoção. "Não perca tempo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>752</ID>
+      <DefaultText>Sombras ondulam e flamejam ameaçadoramente, mais espessas que sangue e mortais, penetrando e rangendo, comendo a sala do trono das bordas mais distantes, cada vez mais perto, rastejando ainda, até que finalmente, por uma única respiração presa, até o ar fica preto. E a luz foi engolida.
+
+E então há luz novamente e [url=glossary:bleden mark]Marca de mistura[/url], o Arconte assassino, de pé diante de você, envolto em sombras e punhais - e morte - e com dentes brancos piscando em sua boca enquanto ele ri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>753</ID>
+      <DefaultText>"Você deve executar o Arconte de Guerra, [url=glossary:graven ashe]Cinza esculpida[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>754</ID>
+      <DefaultText>"Garoto. Árbitro." Ele observa cada um de vocês, olhos dois carvões que queimam enquanto ele fala. "E quem esta lâmina vai cortar hoje? O habitual? Ou alguém... novo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>755</ID>
+      <DefaultText>Uma sobrancelha levantada, o assassino vira seu olhar para [url=glossary:tunon]Tunon[/url].
+
+"Faz um tempo desde que eu apaguei um Arconte. Poderia ser uma ordem alta. Pode demorar... mais do que da última vez." Ele sorri, mas é um olhar arrepiante, algo de um pesadelo. 
+
+"A não ser que, talvez, o garoto queira tentar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>756</ID>
+      <DefaultText>"Vou deixar isso para sua experiência. Afinal, você é o Lâmina da Corte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>757</ID>
+      <DefaultText>"Certo. Posso tentar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>758</ID>
+      <DefaultText>O assassino dá de ombros com seu jeito despreocupado e despreocupado. Ele lhe dá um sorriso irônico e passageiro, como se dissesse que não há pele nas costas dele, e então se vira para o Árbitro total, total e totalmente desdenhoso de você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>759</ID>
+      <DefaultText>"O-o que posso fazer por você, poderoso [url=glossary:tunon]Tunon[/url]?" Cobertura de Sangue estremece e dá um passo cauteloso para trás.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>760</ID>
+      <DefaultText>"Meritíssimo?" Albetronas mantém sua postura com rigidez nervosa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>761</ID>
+      <DefaultText>"Meu carrasco não está presente. O Arconte das Sombras vem e vai quando quer, mas ele sabe o seu lugar..." [url=glossary:tunon]Tunon[/url] olha para você com um lampejo de incerteza quase imperceptível. "Na ausência de [url=glossary:bleden mark]Marca de mistura[/url], eu o acuso da execução culpada de Arconte. Seja rápido em seu trabalho e lembre-se de se compor como um agente do meu Tribunal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>762</ID>
+      <DefaultText>"De acordo com as leis [url=glossary:kyros]Kyros[/url]', o carrasco Tribunal entregará o veredicto e suas consequências ao nosso ex-colega." "Eu invoco [url=glossary:bleden mark]Marca de mistura[/url] para aparecer!" [url=glossary:tunon]Tunon[/url] bate o martelo no chão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>763</ID>
+      <DefaultText>O Arconte da Justiça flutua com total equilíbrio, uma graça de ferro, impassível e imóvel diante do ataque de [url=glossary:bleden mark]Marca de mistura[/url].
+
+Uma miríade de duplos de sombra convergem para o Arconte, arremessando, cortando , e espetando com lâminas pretas gotejantes, tão mortais quanto imateriais, mas o Árbitro não faz nenhum movimento para se esquivar. Em vez de, ele simplesmente pega um pela garganta e o levanta bem alto diante dele.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>764</ID>
+      <DefaultText>Ele respira ofegante, o rosto virado contra a luz abrasadora, a expressão contorcida em agonia enquanto sua pele chamusca e começa a descascar.
+
+"eu removi... o Ligação de sombras... você não tem... espera aí eu... Árbitro...?! Quem te ensinou - "
+
+Ele engasga e se contorce contra o aperto de [url=glossary:tunon]Tunon[/url], mas cada punhal que ele saca se dissipa no brilho severo da luz. Sua pele queima, suas roupas soltam fumaça e, finalmente, um grito agudo escapa de sua garganta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>765</ID>
+      <DefaultText>assassino torce o suficiente para olhar para você. Ele faz uma careta meio melancólica. 
+
+"Desculpe, garoto. Não posso ajudá-lo... afinal..." Seus olhos se arregalam quando a luz o atravessa em vários lugares, desintegrando pedaços inteiros de seu corpo. "Não... se preocupe... não vai morrer..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>766</ID>
+      <DefaultText>"Vá embora, e reflita sobre as consequências de suas escolhas, Arconte das Sombras. Sofra em um estado de iluminação infinita até que eu julgue que você corrigiu seu mau comportamento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>767</ID>
+      <DefaultText>"Um vira-lata, acreditando que cortou sua coleira, morderia a mão de seu próprio mestre?" O Arconte a voz reverbera com desdém, sacudindo as paredes da sala quando ele fala. 
+
+"eu vejo eu deve levá-lo ao calcanhar. Mais uma vez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>768</ID>
+      <DefaultText>"Você acha que a soberano favoreceu você - porque ela poupou você uma vez?" [url=glossary:tunon]Tunon[/url] levanta Marca mais alto na luz. "Você acreditou que ela um dia permitiria que você me derrotasse? Que ela confiaria você a mim sem nenhum meio de disciplina?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>769</ID>
+      <DefaultText>A sombra imediatamente começa a se infiltrar e se dissolver no nada, deslizando com um silvo pelos dedos enluvados pretos, mas antes que ela possa escapar, o Árbitro bate o cabo do martelo contra o chão, balançando o Tribunal com uma onda de choque impressionante de força bruta. Uma luz branca ofuscante brilha da cabeça do martelo, e a sombra tênue e se debatendo no aperto de [url=glossary:tunon]Tunon[/url] se encaixa duramente na forma muito sólida de [url=glossary:bleden mark]Marca de mistura[/url], zombando com dor, enquanto cada sombra na sala queima com calor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>770</ID>
+      <DefaultText>"[url=glossary:graven ashe]Cinza esculpida[/url] e [url=glossary:the voices of nerat]the Vozes de Nerat[/url] - os generais nomeados desta guerra - estão mortos. Você foi instruído a fazer justiça ao ilegal, mas claramente tomou a lei em suas próprias mãos." [url=glossary:tunon]Tunon[/url] paira em um silêncio pensativo e acusatório.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>771</ID>
+      <DefaultText>"Eu não tive escolha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>772</ID>
+      <DefaultText>"A Corte não tem tempo para suas mentiras! Ah, isso é... com sua aprovação, o poderoso [url=glossary:tunon]Tunon[/url]." Cobertura de Sangue silenciosamente recua.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>773</ID>
+      <DefaultText>"Nós éramos mais fortes juntos do que você jamais poderia imaginar, e você tirou Ashe de nós! Não deixarei esta quadra até que sua cabeça seja montada em nosso estandarte e apresentada antes dos Geral ritos funerários." Albetronas acena para [url=glossary:tunon]Tunon[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>774</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>775</ID>
+      <DefaultText>"Ashe e Nerat são indignos da ajuda Tribunal. Devemos rescindir nosso apoio a esta guerra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>776</ID>
+      <DefaultText>"Explique-se, estudante. Suas ações não foram as de um agente legal, mas de um oportunista buscando avanço por qualquer meio necessário." 
+
+"Seu julgamento é uma desgraça e, sob as circunstâncias, o Arcontes não pode ser julgado enquanto seu acusador estiver assim diminuiu na estimativa Tribunal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>777</ID>
+      <DefaultText>"Por suas próprias ações, você escolheu quebrar a lealdade com a decisão Arcontes responsável por esta guerra. Como um Fatebinder, era seu dever representar a lei [url=glossary:kyros]Kyros[/url]' aos generais comandantes e, a esse respeito, você se esquivou de seu dever mais básico."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>778</ID>
+      <DefaultText>O Árbitro considera você em um silêncio pensativo. Talvez seja sua imaginação, mas as sombras do tribunal parecem ter se alongado, como se estivessem fechando você em uma armadilha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>779</ID>
+      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "Eu ouço meus ensinamentos em suas declarações, mas também reconheço como você os torceria para seus próprios fins. O tribunal não será enganado em seu jogo manipulador. Além disso, tenho perguntas sobre seu comportamento e você responderá por si mesmo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>780</ID>
+      <DefaultText>"O tribunal considera seu julgamento... satisfatório. Embora eu não seja influenciado por suas reivindicações, reconheço meus ensinamentos nelas. Você é competente o suficiente para apresentar seu argumento e levar um Arconte a julgamento." [url=glossary:tunon]Tunon[/url] acena para você em aprovação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>781</ID>
+      <DefaultText>"Apoiar qualquer um dos dois Arconte só comprometeria minha objetividade ao levar as acusações a julgamento, Sua honra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>782</ID>
+      <DefaultText>"Sua desaprovação não me interessa mais. Talvez tivesse sido útil se você tivesse provado ser um membro competente do Tribunal, mas não mais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>783</ID>
+      <DefaultText>"Sua honra, se me permite?" Fatebinder Calio dá um passo à frente e limpa a garganta.
+
+"Meu colega aqui faz um ponto decente, embora imprudente. Nosso escritório gastou um grande esforço apoiando a causa desta guerra, mas o Arcontes tem..." ela tosse em seu punho, " desempenho inferior. Esta pode ser uma boa oportunidade para avaliar nossas opções no futuro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>784</ID>
+      <DefaultText>O Árbitro enfrenta Calio, seu comportamento caracteristicamente ilegível. 
+
+"Eu vou... entreter essa noção, estudante. Certifique-se de não testar minha paciência ou desperdiçar o Tribunal tempo. Qualquer esforço para impedir nosso progresso legal será recebido com uma rápida retaliação, entendido?" [url=glossary:tunon]Tunon[/url] solta uma respiração profunda e olha para você mais uma vez.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>785</ID>
+      <DefaultText>Nó de script 785</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>786</ID>
+      <DefaultText>"E assim as acusações são declaradas. Tenho certeza de que você veio com argumentos e pesquisas preparadas, como é esperado de sua estação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>787</ID>
+      <DefaultText>"Eu não vou ficar aqui sentado pacientemente com acusações infundadas!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>788</ID>
+      <DefaultText>"Sirin iniciou um culto dedicado a adorá-la em [url=glossary:lethian's crossing]A travessia de Lethian[/url], causando caos na região e dificultando o esforço de guerra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>789</ID>
+      <DefaultText>"O quê? Como isso se reflete em [url=glossary:the voices of nerat]o Vozes de Nerat[/url]? do Sirin voos de fantasia não são novidade! Se as pessoas fossem culpadas toda vez que Sirin fizesse algo que não deveria, [url=glossary:kyros]Kyros[/url] não teria mais um exército."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>790</ID>
+      <DefaultText>Os olhos de Sirin se arregalam e um sorriso brinca brevemente no canto de seus lábios. "Ah! Sim! É verdade! Nerat especificamente me disse para reunir alguns desses seguidores e mantê-los para mim. Ele me disse que tínhamos que ter cuidado porque se alguém descobrisse que estávamos tentando desestabilizar o [url=glossary:forge-bound]Forge-Bound[/url] para minar o [url=glossary:disfavored]Desfavorecido[/url], poderia acabar mal para nós dois!" Ela se vira para você e acena com a cabeça rapidamente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>791</ID>
+      <DefaultText>"Cobertura de Sangue está correto, Vinculador do Destino. As ações da Sirin por si só não representam incompetência por parte de [url=glossary:the voices of nerat]the Vozes de Nerat[/url]. Seu trabalho era recrutar para o [url=glossary:scarlet chorus]Coro Escarlate[/url]. Sua incapacidade de direcionar a dedicação de seus seguidores de si mesma para Nerat é dela, não dele. Que outras evidências você tem para apoiar essa afirmação?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>792</ID>
+      <DefaultText>[url=glossary:tunon]Tunon[/url] acena com a cabeça. "[url=glossary:the voices of nerat]As vozes de Nerat[/url] não conseguiu controlar adequadamente seus subordinados, causando a desestabilização de uma região muito importante no armamento do [url=glossary:kyros]Kyros[/url]' exército. Esta reclamação será adicionada à lista de acusações contra ele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>793</ID>
+      <DefaultText>"Se você não puder sustentar sua alegação de incompetência com provas adequadas, este tribunal não tem escolha a não ser rejeitar esta acusação. [url=glossary:the voices of nerat]As vozes de Nerat[/url] não será responsabilizado por do Sirin ações em [url=glossary:lethian's crossing]A travessia de Lethian[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>794</ID>
+      <DefaultText>"A lei estabelece que um Arconte é responsável por seus próprios vassalos. [url=glossary:the voices of nerat]As vozes de Nerat[/url] não pode alegar que Sirin era livre para fazer o que quisesse sem ter que responder por isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>795</ID>
+      <DefaultText>"O [url=glossary:scarlet chorus]Coro Escarlate[/url] não atribuiu a culpa a Ashe e o [url=glossary:disfavored]Desfavorecido[/url] pelos pecados percebidos de [url=glossary:cairn]Cairn[/url]? Isso não é o mesmo? Se um Arconte não responde pelas ações de alguém sob sua responsabilidade?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>796</ID>
+      <DefaultText>"Eu era o governador de [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Eu vi os problemas que resultaram das ações do Sirin e [url=glossary:the voices of nerat]o Vozes de Nerat[/url] não fez nada para impedi-lo. Sua incompetência resultou em remessas atrasadas para o [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>797</ID>
+      <DefaultText>"Não tenho mais nada para apoiar esta afirmação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>798</ID>
+      <DefaultText>"[url=glossary:tunon]Tunon[/url] concorda com você. Ele está convencido de sua acusação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>799</ID>
+      <DefaultText>"Eu cuidaria da sua língua se fosse você, verme. Não é do seu interesse depreciar uma Arconte na quadra de [url=glossary:tunon]Tunon[/url] enquanto ela está na sua frente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>800</ID>
+      <DefaultText>"O tribunal observa as ações de todos os que participam aqui, Senhora Sirin. Cobertura de Sangue será censurado por suas explosões se não conseguir se controlar. Você não está sendo julgado aqui e lembrarei a todos os presentes que considerem cuidadosamente o que dizem na minha presença."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>801</ID>
+      <DefaultText>[url=glossary:tunon]Tunon[/url] permanece em silêncio por um momento. "Não convém a alguém de tão alta posição criar histórias para seus próprios fins. No entanto, uma vez que você é um Arconte e entende a gravidade das acusações feitas contra [url=glossary:the voices of nerat]o Vozes de Nerat[/url], confiamos em que você respeite a santidade deste tribunal e aceitaremos seu testemunho - e assumimos o entusiasmo com que você o apresenta é apenas entusiasmo por participar desses procedimentos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>802</ID>
+      <DefaultText>"Eu não vou ficar aqui ouvindo enquanto meu nome é caluniado por aquele verme," ela aponta para Cobertura de Sangue, "e este... Presumível Arconte! Não estou em julgamento aqui!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>803</ID>
+      <DefaultText>[Dar Sirin um olhar conhecedor] "Sirin, estamos apresentando provas contra o [url=glossary:the voices of nerat]o Vozes de Nerat[/url] para que ele seja executado. Não é hora de protestar contra sua inocência."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>804</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>805</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>821</ID>
+      <DefaultText>"Vinculador do Destino, eu tinha assumido que você ignoraria minha intimação judicial como você fez no passado, mas parece que apenas a ameaça de punição criminal o estimula a agir." [url=glossary:tunon]Tunon[/url] gesticula com sua equipe para o resto da audiência do tribunal. "Prossigamos Vinculador do Destino, esta pode muito bem ser a hora decisiva da conquista."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>835</ID>
+      <DefaultText>"De acordo com a missiva que recebi pouco antes de sua chegada, você traiu o Arconte dos Segredos ao seu subordinado, concedendo o controle de um dos Soberano exércitos a uma Camadas camponesa."
+
+"Explique-se."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>837</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] tomou sua própria decisão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>839</ID>
+      <DefaultText>[Ataque] "Removi um obstáculo do meu caminho e estou prestes a remover outro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>840</ID>
+      <DefaultText>"Não insulte a inteligência deste tribunal. Quando uma pessoa come aveia por vontade própria, ela não absolve de sua morte a pessoa que envenenou a aveia."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

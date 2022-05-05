@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\00_recruits\00_cv_forge_skilltrainer_nikostas</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Vinculador do Destino." Ele lhe dá uma reverência rápida. "eu sou Nikostas. Ainda não sou um mestre, mas acho que ensinar meus caminhos aos outros só melhora minha própria compreensão. Se você deseja ser treinado, apenas pergunte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Você pode pensar que nós [url=glossary:forge-bound]Forge-Bound[/url] somos simplesmente ferramentas de guerra, não diferentes de martelos para moldar metal." Ele sorri. "Mas é preciso mais do que força para ser eficaz no campo de batalha. Devo me tornar um mestre de muitos elementos em minha vida. Se você quiser aprender comigo, pode perguntar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Gostaria de treinar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Deixar.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Uma lâmina forte ao seu lado não é o único instrumento de guerra à sua disposição." Ele estende o braço novamente, e instantaneamente ele é engolido por um campo de eletricidade. "Dediquei minha vida à compreensão dos elementos e só cresci nesse conhecimento ensinando aos outros. Pergunte e eu o treinarei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Não tenho os implementos para treinar enquanto a forja estiver em manutenção. Volte quando terminar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>O [url=glossary:forge-bound]Forge-Bound[/url] levita um pequeno orbe brilhante de chamas em sua mão antes de subitamente fechá-lo com o punho, sufocando a chama em nada além de fumaça e cinzas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Parece que você precisa de algum treinamento."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

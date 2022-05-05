@@ -1,0 +1,419 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\companions\companion_cv_eb_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>81</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Você sabe que temos uma batalha em nossas mãos. Algo em sua mente?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Falaremos mais quando a batalha terminar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Então, qual é exatamente o seu plano aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Fale-me sobre você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Então, que tipo de mágica você pode fazer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Pensando bem, vamos conversar mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Como em... qual é o nosso plano para o [url=glossary:disfavored]Desfavorecido[/url] e o [url=glossary:scarlet chorus]Coro Escarlate[/url] desabar na nossa porta? Ou essa foi uma pergunta mais geral e ampla?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Curto prazo. Você achou que sua banda poderia montar uma defesa duradoura?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Eu quis dizer longo prazo. Qualquer um pode montar uma insurreição breve, mas inútil. Como você realmente espera ganhar a liberdade de [url=glossary:kyros]Kyros[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"A maioria de nós nunca presumiu que viveríamos mais do que alguns dias, muito menos alguns períodos. Nosso ataque ao Cidadela mudou as coisas - nosso sucesso foi tão avassalador, nossas perdas apenas uma fração em comparação com nossas estimativas...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Bem, a longo prazo, realmente não há um plano. [url=glossary:kyros]Kyros[/url] tem o poder do [url=glossary:edict]Edital[/url] e aparentemente infinito Arcontes e exércitos para convocar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Sério? Agora mesmo? Hum... vamos ver... nascido em Refúgio, um pouco irritado, provavelmente vou morrer em Ápice. O resto é totalmente irrelevante para nossa sobrevivência aqui. Se eu ainda estiver vivo quando isso terminar, você pode me entediar com suas perguntas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Eu tenho feitiços que focalizam a luz abrasadora de Túmulo de Terrato onde eu quiser... entre outras coisas."
+
+Eb faz uma careta, seus olhos se afastando de você e em direção ao seu cajado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Concordou, vamos lidar com a batalha em mãos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Por enquanto é só."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Quando isso acabar, sem dúvida teremos muito o que discutir. Eu sei que os Vinculadores do Destino aprendem suas letras e sigilos, seria uma deliciosa mudança de ritmo discutir assuntos misteriosos com uma mente educada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Isso só alimentou nossas convicções quando recebemos um influxo de voluntários de outros reinos - um bando de Sábios até se uniu à nossa causa... esse nos pegou de surpresa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Como e por que você começou a trabalhar com o [url=glossary:vendrien guard]Guarda Vendrien[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Como muitos no [url=glossary:vendrien guard]Guarda Vendrien[/url], tive uma vida perfeitamente adorável até alguns anos atrás, quando a guerra veio e varreu tudo. Os Lançadores de Marés desmoronou quando nosso líder e fundador, Jade Oculto, Arconte das Marés escolheu fugir do Camadas... um suporte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Claro, nosso pequeno estande foi um desastre. Reivindicamos alguns soldados, mas o Mestre Hagrivar e os outros foram levados para [url=glossary:the voices of nerat]o Vozes de Nerat[/url]... então não apenas eles se foram, todo o seu conhecimento agora está com o Arconte dos Segredos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Nossa posição durou pouco... e embora muitas vezes eu me odeie por não morrer ao lado dos Mestres do Escola, pelo menos ainda respiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"O [url=glossary:vendrien guard]Guarda Vendrien[/url] foi oficialmente derrotado no final da primeira invasão de [url=glossary:vendrien's well]Poço de Vendrien[/url], mas mesmo semanas após a rendição, as pessoas estavam prontas para continuar lutando." "Então a causa parecia desesperada o suficiente para se adequar à minha fantasia. E realmente, eu tinha uma escolha entre ser um velho escravo ou um cadáver jovem. Suponho que todas as escolhas de vida se resumem a uma questão de risco ou descanso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Então, quando você veio falar alguns dias atrás... foi uma chamada de recrutamento?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"De certa forma, você é o Pacificador, afinal. Não faço ideia se você se imagina uma boa pessoa, um monstro ou uma mistura dos dois. Mas do nosso ponto de vista, você é o único portador da paz e da vida - ou o único que vimos - em toda a [url=glossary:kyros]Kyros[/url]' host of war."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Não inicialmente. Um dos guerreiros do [url=glossary:scarlet chorus]Coro Escarlate[/url] estava nos vazando informações e espalhando a notícia de que você viria ao vale com um [url=glossary:edict]Edital[/url] para proclamar. Na verdade, fui enviado para tentar matá-lo, para talvez parar o [url=glossary:edict]Edital[/url]. Mas o [url=glossary:edict]Edital[/url] já estava em vigor no momento em que encontrei você - então, naquele momento, falar parecia muito mais prudente do que lutar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"A ideia de tentar recrutar alguém do exército [url=glossary:kyros]Kyros[/url] veio um pouco mais tarde, quando estávamos ponderando sobre a sentença de morte do [url=glossary:edict]Edital[/url]. A maioria de nós teria fugido do vale, mas [url=glossary:kyros]Kyros[/url]' a magia nivelou as passagens nas montanhas, prendendo-nos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Sybil sugeriu que tentássemos vender o [url=glossary:ascension hall]Salão da Ascensão[/url] para o [url=glossary:the voices of nerat]o Vozes de Nerat[/url]... esse era o plano que eu mais gostava. Mas Florian estava convencido de que você era a resposta. Ele disse que você era sincero em seu desejo de sobreviver ao [url=glossary:edict]Edital[/url] com a menor perda possível de vidas. Então, o que você disse ou fez para Florian, causou uma boa impressão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Eu realmente não falo muito sobre o Escola das Marés. Não sobrou ninguém na minha escola para falar de negócios. Os outros 'quebradores de juramento' como somos chamados... eles foram criados para ter medo de magia - mas no momento, minha capacidade de matar significa que eu sou a vadia que eles têm que fingir gostar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Eu sou treinado em todos os tipos de coisas, magia é uma delas - eu ficaria feliz em falar sobre assuntos misteriosos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Você pode me ensinar alguma coisa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Esse seu truque em Travessia de ecochamada custou muitas vidas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Não."
+
+Ela bate seu cajado no chão, pontuando a resposta abrupta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Estranho, poderia jurar que você jurou fidelidade a mim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Deixe-me perguntar outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Eu sei como essas coisas funcionam. Eu juraria a morte antes da divulgação - tudo o que você me ensinar nunca será repetido ou reimpresso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Talvez eu pergunte com gentileza outra hora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"É seu direito de recusar, posso perguntar por quê?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Eu sei, certo? Você é um dos Soberano juízes oficiais, você deve saber o que é ser um chub-on por um ou dois assassinatos justos."</DefaultText>
+      <FemaleText>"Eu sei, certo? Você é um dos Soberano juízes oficiais, deve saber como é receber o orvalho da manhã sobre um ou dois assassinatos justos."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Bruxa hedionda! Você viola as leis de rendição e se diverte com sua atrocidade? Eu deveria atropelá-lo pelo seu orgulho!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"A observação não era um elogio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Se você tem tanto domínio das águas, por que caiu do rio?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Você é o que matou o primeiro round de [url=glossary:disfavored]Desfavorecido[/url] enviado para pegar o Cidadela?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Não olhe para mim nesse tom de voz, você perguntou sobre minha magia e estou tentando puxar conversa! Mas... ponto, vou tentar não me gabar de como sou bom em matar seus velhos amigos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Não tenho certeza se concordo exatamente, mas sim, a glória é sua própria recompensa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Alguns dias, é a matança que me faz continuar. Minha família, minhas terras, o Academia... tudo se foi, mas você tem que olhar o positivo, certo? Certamente estou sentindo toda a emoção da batalha e da glória que ansiava quando era mais jovem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"E não faz mal que o [url=glossary:vendrien guard]Guarda Vendrien[/url] esteja repleto de jovens cheios de esperança e paixão... eles confortam antes da próxima batalha... sempre foque no lado positivo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Entendo. Percebo que estou fazendo pouco caso de seus ex-aliados se afogando, minhas desculpas. Mas isto é guerra, e esta é a natureza do nosso... estranho arranjo. Provavelmente há muito que devemos perdoar no outro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Deixe-me perguntar sobre outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Talvez outra hora? Se ainda estivermos vivos após o conflito que está por vir, podemos divagar o quanto quiser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Se você está se referindo à tripulação [url=glossary:disfavored]Desfavorecido[/url] que tentou atravessar várias semanas atrás? Sim, fui eu. O [url=glossary:disfavored]Desfavorecido[/url] enviou tão poucas pessoas que as eliminamos e não deixamos testemunhas... Achei que não teria o luxo de usar o mesmo truque duas vezes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Nós vamos... você sabe, eu sou bom no que faço e tudo menos..."
+
+Ela dá de ombros, deixando o pensamento inacabado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Mas você estava operando no limite de sua habilidade?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Mas você correu para salvar sua vida quando nos viu atravessando?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Ei, estou surpreso por ter isso em mim! Eu vi o Mestre Folvax fazer isso há muito tempo e pensei 'o quão difícil pode ser?' e é muito difícil. Então, sim, eu sabia que não poderia continuar o ataque e recuei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Não que eu fosse dizer assim, mas... eu sabia que uma vez que você e sua comitiva cruzassem o Matani, minha pequena tática tinha acabado e meu plano de contingência era... voltar para o Cidadela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Calma aí, eu sei que os [url=glossary:disfavored]Desfavorecido[/url] são todos bem unidos e tal, tenho certeza que você conhecia algumas ou todas as pessoas que eu matei. Mas não sinto muito por isso, você não pode vir para nossas terras, pegar o que quiser e esperar que não lutemos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Se você continuar insultando as pessoas leais a mim, você e eu teremos problemas. Peça desculpas a Barik."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Barik, você quer jurar por [url=glossary:kyros]Kyros[/url]' nome que você não se gabou de matar Eb's pessoas? Vocêe sangue em suas mãos também."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"sim eu, suponho que falar como se fosse uma maneira pouco auspiciosa de começar nossa aliança. Lorde Barik, seus irmãos lutaram bem. Estou honrado por tê-los encontrado em batalha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Você parece ter conquistado a Fatebinder confiança através de algum arcano maligno, mas eu não sou tão confiante. Você responderá pelos mortos com mais do que palavras vazias."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Fico do lado direito. É meu privilégio me gabar de matar dissidentes e violadores de juramentos, e nem você nem a bruxa d'água têm motivos para desafiá-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Eu percebo isso... uma espécie de aliança nos coloca em uma posição desconfortável. Aposto que agora não é um bom momento para discutir nossas diferenças e queixas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Vá se foder, Encadernador. Se você quer conhecer a arte do Lançadores de maré, pergunte ao seu amigo, [url=glossary:the voices of nerat]the Vozes de Nerat[/url]. Talvez você possa acariciar os egos dele até que ele lhe dê o que você quer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Isso eu fiz, mas meu conhecimento do Escola das Marés morre comigo. Você pode me matar por desobediência, se quiser, mas não vai descobrir meus segredos lendo minhas entranhas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Excelente, então eu vou recusar você rudemente em algum momento no futuro. Vê isso? Nós Ve acabamos de nos tornar amigos e já temos discussões futuras planejadas. Não é divertido?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Meus segredos arcanos são tudo o que me resta. [url=glossary:kyros]Kyros[/url] levou tudo, mas tenho, pelo menos, o conforto de ser o último de uma importante tradição. Percebo que nossos modos são velhos e tolos para todos vocês, mas meu conhecimento é a ÚNICA coisa que posso defender com minha vida que o soberano não pode suportar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Bem, essa é certamente a atitude que eu gostaria de ouvir, mas... é mais complicado do que isso. E se, sem culpa sua, você for vítima de [url=glossary:the voices of nerat]o Vozes de Nerat[/url]?" Ela começa a falar, parando enquanto bate um dedo na boca em pensamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Contanto que não seja uma maneira indireta de me atormentar por instrução, claro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Deixe-me perguntar sobre outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Tivemos muito tempo para sentar e ficar aterrorizados com o que está por vir. Em uma dessas muitas sessões de terror tarde da noite, alguém lançou a ideia de... ugh... soa estranho dizer isso... ajudar um dos [url=glossary:kyros]Kyros[/url]' servos a levar [url=glossary:ascension hall]Salão da Ascensão[/url], apenas de uma maneira que não envolva todos nós morrendo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Seja honesto, você era a favor deste plano?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Sou a única pessoa que você abordou?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Deixe-me perguntar sobre outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Havia outra, uma Refrão líder de gangue que pensamos em abordar, até que ela foi morta por um rival. A maioria dos luminares do [url=glossary:disfavored]Desfavorecido[/url] e do Refrão não são o que eu chamaria de gente saborosa. Coloque ao lado de pessoas como eles, você parece ser o único adulto na sala."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Uma vez Ashe e Nerat atravessou a montanha, nossa insurreição passou de folia bêbada para 'o que diabos começamos?' quase da noite para o dia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Há muitas mentes brilhantes, grandes guerreiros e Tidecasters modestos em nossa tripulação, mas não fingimos ter uma chance. Ter outros apoiando nossa causa era e é nossa única esperança."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Eu tinha uma pergunta sobre outras coisas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>À medida que você se aproxima, Eb limpa a garganta e endireita sua postura - batendo com seu cajado no chão por afeto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Eu sugeri que vendêssemos o lugar para Vozes de Nerat, mas Florian não estava tendo nenhuma das minhas artimanhas femininas e não concordaria. Foi Sybil que sugeriu a noção. Ela voltou de Echocall espancada e exausta, mas você foi o estranho detalhe brilhante do relatório dela."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

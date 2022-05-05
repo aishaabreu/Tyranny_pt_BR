@@ -1,0 +1,1913 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\vx1_11_barik\vx1_11_cv_lycentia</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>379</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>O ar frio agita suas roupas quando você entra na pequena oficina, apesar da forja acesa que você vê contra a parede dos fundos. Uma mulher de túnica escura espreita o centro do espaço, dedos dançando contra seu queixo, sobrancelhas franzidas em pensamento. Manchas de fuligem em sua pele sugerem que ela toca seu rosto com frequência. Ela lhe dá um olhar inicialmente desdenhoso, mas o segue com um olhar surpreso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ah, foda-se. O Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Quero dizer, o que o traz ao meu humilde atelier?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Acho que você me conhece."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Quem é você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Boa forja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Eu preciso que você examine meu amigo Barik."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Alguém não? Pináculos não acende exatamente como o sol todos os dias."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Você me procurou - eu assumi que você já sabia. Ou você tem o hábito de entrar na casa de estranhos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Obrigado, eu mesma fiz." Ela ri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Este, suponho? Ele é pontudo." Seu olhar vagueia em torno de Barik's variedade de bordas afiadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Após o [url=glossary:vellum citadel]Cidadela de Velino[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Você é um [url=glossary:sage]Sábio[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Após o [url=glossary:vellum citadel]Cidadela de Velino[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Tem mais alguém? Ouvi a escola pegou fogo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Surpreso que você percebeu. Lycentia aqui é uma... ex [url=glossary:sage]Sábio[/url]? Isso é não que ela tenha saído oficialmente, é mais que ela se cansou da vida no Cidadela e nunca mais voltou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Estudei entre os Sábios uma vez, anos atrás. Trabalhou para a realeza do Azure por um tempo depois disso. Bom trabalho, até que [url=glossary:cairn]Cairn[/url] chegou. Você... vai me processar?" Ela olha para você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Então deixe-me perguntar novamente... por que você está aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Depende da sua ajuda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Hoje não."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Provavelmente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Você ficaria surpreso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Eu me chamo Lycentia. Conheço meus sigilos, mas principalmente sou um artesão. Eles me mantêm por perto para trabalhos estranhos - consertando ferramentas, consertando armaduras e geralmente tentando evitar que [Plainsgate] caia no [url=glossary:stone sea]Mar de Pedra[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Examinar um amigo? Não sou médico."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ele é um caso especial. Posso trazê-lo para você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Você vai entender quando o vir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Dificilmente posso dizer não a um Vinculador do Destino. Traga-o aqui. Vou ver o que há para ser visto." Ela morde a ponta do polegar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Oh uau, ele é grande. pontudo também."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Dificilmente posso ajudar seu companheiro se ele não estiver aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Principalmente em cima da cabeça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Você deve ser sempre um burro, Verso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Como dissemos em Gangue de bunda - uma vez burro, sempre burro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Droga, Vinculador do Destino. Por que você não pode deixar isso pra lá?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Deixar o que está?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Esperava que você pudesse libertar Barik desta prisão de bronze e ferro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Atualmente ele é muito ruim em escalar, esgueirar-se, nadar e usar o banheiro sem ajuda. Gostaria que você abordasse isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Tire-o dessa armadura."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Vinculador do Destino, você sabe tão bem quanto eu que [url=glossary:tunon]Tunon[/url] proibia isso! Não posso ser cúmplice!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"O que você vai fazer? Sente-se no chão e cruze os braços como uma criança?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Você é obrigado a seguir minhas ordens, Barik. Então eu ordeno que você fique parado e cale a boca."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Eu prometo a você que isso será o melhor, amigo. Deixe-me lidar com as ramificações legais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Se eu precisar! Se isso fará com que o Vinculador do Destino veja o motivo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Como você comanda, Vinculador do Destino." Uma moagem sai das profundezas da armadura retorcida.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Tenho pouca confiança de que [url=glossary:tunon]Tunon[/url] verá da mesma maneira. Ou que você será capaz de me proteger da ira dele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Eu suponho que você quer sair com todos os seus bits independentemente, certo? Então fique quieto e acalme-se."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Antes de mais nada, preciso fazer algumas perguntas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Que tipo de perguntas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Pergunte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Apenas responda as perguntas, Barik."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Entenda que pode haver coisas que não podemos te contar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Não vou pedir nada político ou tático. Apenas assuntos pessoais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Dificilmente tranquilizador."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Primeiro, você já se envolveu em congresso sexual?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"O-o quê? Eu não - como pode isso... isso não pode ser relevante!" Barik engasga.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Ele não entende nada sobre simpatia mística, não é?" O ferreiro franze a testa e olha para você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Tenho que admitir, Barik, também estou curioso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Sim, Barik. Simpatias místicas e tal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"É importante, Barik, principalmente no caso de uma possível convergência de energias arcanas, descartar a adulteração ressonante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Isso não é mera curiosidade. Antes de entender qual é a situação do seu amigo, preciso ter certeza do que não é."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Muito convincente, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Eu... suponho que isso pareça razoável."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"A armadura impediu que algo acontecesse recentemente, independentemente de eu querer ou não. Antes disso... bem, eu... A Legião é... passei um... pessoas com quem me importei profundamente. Somos o orgulho do Norte... forte e lindo..." Ele range baixinho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Entendo, Barik. Sparring é como dançar. Fica muito quente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"E é tudo o que falarei sobre isso. Eu nunca passei tempo com um mago. Ou Arconte, Juramento, Mulher-Besta, ou qualquer outra coisa incomum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Não compare os rituais de combate virtuosos do [url=glossary:disfavored]Desfavorecido[/url] com o seu Escarlate cio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Nada incomum? Sempre ouvi dizer que existe um vínculo especial entre um oficial [url=glossary:disfavored]Desfavorecido[/url] e seus submissos... desculpe, subordinados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Há algo que você não queira sujar com sua perversão, bruxa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Você usou [url=glossary:forge-bound]Forge-Bound[/url] armadura durante o Conquista, correto?" O ferreiro assente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"E antes disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Era tecido com sigilo? Encantado contra danos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Acredito que não. Era ferro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Você já teve sigilos de qualquer tipo marcados em sua pele?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Eu trago a marca do [url=glossary:disfavored]Desfavorecido[/url], e nada mais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"A marca do [url=glossary:disfavored]Desfavorecido[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Isso é útil?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>[Permaneça em silencio.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"O do general sigilo, ou melhor, o que o decreto Soberano permite. Muitos membros do Legião se machucam com isso, vinculando sua lealdade em sua carne e sangue. Isso nos marca família."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Podemos estar chegando a algum lugar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Você carrega o sigilo de [url=glossary:graven ashe]Cinza esculpida[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Claro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Ouvi dizer que [url=glossary:graven ashe]Cinza esculpida[/url] protege. Os Sábios não tinham conhecimento direto das habilidades Arconte de Guerra, mas havia muitas, muitas teorias. Acho que você não pode fornecer nenhuma informação concreta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Você me pede para revelar os do Grande General segredos? Para um mago? Isso é demais!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Diga a ela, Barik."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Arconte Ashe compartilha uma forte conexão com seus soldados. Isso permite que ele assuma alguns dos seus danos enquanto também compartilha suas experiências."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Ashe pode curar seus soldados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Barik, se você não contar a ela, ela não poderá ajudá-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"eu... O General toca cada um de nós em cada batalha. Ele nos empresta sua força, cura nossas feridas e nos concede a coordenação para agir como uma unidade única e inquebrável." As fendas dos olhos sombreadas em seu elmo se concentram em você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Fatebinder!" Seu suspiro contém raiva e descrença em igual medida.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>O ferreiro encara Barik em um silêncio pensativo antes de retirar da forja uma longa barra de ferro, com a ponta brilhando em vermelho por causa do calor. Ela estende para você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[Pegue.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"O que devo fazer com isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[Olhar para ela.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Você está louco?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Pegue, para começar. O que vem a seguir, ele vai querer um amigo fazendo isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Próximo, você vai querer enfiar isso nele, através de sua armadura. Vai doer de qualquer jeito, mas eu suspeito que mais rápido seria melhor." Ela se inclina para você, baixando a voz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Faça como quiser." Ela se afasta de você, abaixa o ferro aquecido e, com um impulso incrivelmente rápido, o empurra para o lado Barik's.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>[Não diga nada.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Uivando em agonia, Barik cambaleia para trás, agarrando-se ao seu lado. O cheiro de carne queimada atinge suas narinas um momento depois.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"E você não precisa de reparos ou manutenção na armadura, presumo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Além de lubrificar e lixar as pontas? Não. Esperar, como você sabe disso?" Metal range silenciosamente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>[Devolva o ferro para ela.] "Eu... não posso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Você está louco?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>[Apunhalar Barik.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Abaixando-se, Lycentia agarra a barra de ferro e a puxa do lado Barik's, provocando outro grito de dor. Ela dá um passo para trás enquanto sua luva balança para fora em uma tentativa selvagem de lhe dar as costas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Talvez um pouco. Vem com quase todos e tudo o que você conhece apagado do rosto de Terrato com algumas palavras mágicas de um tirano distante." Ela balança a cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Merda de merda em uma malfadada Fera mãe de burros!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Que diabos do Grande General nome, mulher?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>[Para Lycentia:] "Isso foi necessário?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>[Para Barik:] "VaiEu estou bem, Barik! Você já enfrentou coisas piores!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>[Olhar para ela.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Claro que não era necessário! Eu não pedi isso!" Barik ruge, sua armadura soando como um gongo enquanto ele bate um punho no outro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Um silvo sai de dentro de seu capacete.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Suponho que seja verdade. Embora geralmente com um pouco mais de aviso." Ele torce o torso na tentativa de dar uma olhada no ferimento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Incrível..." O ferreiro ergue o bastão de metal escaldante, desenhando um sigilo no ar com a mão livre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>[Examine a ferida.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Vou deixar isso para você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Você se inclina perto do ferimento, mas a mão Barik's está presa sobre o buraco na lateral dele, obscurecendo sua visão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"O tipo enjoado, hein? Não faria esperava isso de um Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>[Mova Barik's mão.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Preciso ver a lesão, Barik."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Mova a porra da mão, soldado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Com um grunhido em seus lábios, Barik relutantemente permite que você tire a mão dele do seu caminho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Com lenta relutância, Barik move sua mão enluvada do buraco em seu lado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Você espia pelo buraco na casca oxidada de bronze e ferro, desejando ignorar a mistura de cheiros de carne cozida e dejetos humanos fétidos. Você vê a carne esfarrapada e escorrendo por baixo, uma cavidade vermelha ofegante pulsando no tempo com Barik's respiração difícil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Mesmo enquanto você observa, a ferida parece se fechar, a pele cor de bronze se unindo nas bordas como uma boca se fechando lentamente. Não é apenas a pele, no entanto... A armadura de Barik muda e flui lentamente, reduzindo gradualmente a abertura.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Você também está vendo isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Infelizmente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Sua armadura está se consertando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Sua armadura parece estar curando... assim como sua carne."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Infelizmente? O que está acontecendo?" Barik se contorce na tentativa de ver seu ferimento, mas imediatamente se endireita com um suspiro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Exatamente! E as bordas!" Se ela está tentando esconder sua excitação, ela está falhando espetacularmente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Sua armadura e sua carne se curam como uma só. Isso é uma propriedade padrão entre os [url=glossary:disfavored]Desfavorecido[/url]?" Ela se endireita, olhando para Barik's olhos incompatíveis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Não... não que eu saiba."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Sua armadura cura. E daí?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Então finalmente estamos chegando a algum lugar, certo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Se ele e sua armadura se curarem como um, eles provavelmente estarão misticamente ligados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"De fato. [url=glossary:tunon]Tunon[/url] gosta deles inteligentes, eu entendo. A questão permanece, porém - por que isso acontece?" Ela sorri apreciativamente para você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Isso certamente significa que eu tenho uma noção do que está acontecendo." Ela bate os lábios em pensamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Tenho uma teoria que funciona, mas o que não consigo entender é o que o diferencia dos outros [url=glossary:disfavored]Desfavorecido[/url] que serviram no [url=glossary:blade grave]Sepultura de Lâminas[/url]. Talvez seja algum truque do sangue, talvez seja sua conexão com o Vinculador do Destino, talvez outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Mas eu mal conhecia o Vinculador do Destino antes do [url=glossary:vendrien's well]Poço de Vendrien[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Há muita coisa que não entendemos sobre como o mundo funciona. [url=glossary:kyros]Kyros[/url]' restrições contra a alfabetização e a investigação não ajudam exatamente." Ela olha para você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Escolha suas palavras com cuidado, ferreiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Eu não vou te entregar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Ah... desculpas, Vinculador do Destino." Ela empalidece, engolindo em seco.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Eu aprecio isso, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Antes que eu possa sugerir uma solução, vou precisar de uma amostra de liga de ferro e bronze do local de sua... armadilha. Sobre isso deve ser suficiente." Ela mantém as palmas das mãos abertas a cerca de quinze centímetros de distância.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Nós lhe daremos a amostra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Não podemos simplesmente cortar tanto de Barik?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Se eu encontrar algum, considerarei trazê-lo para você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Então aguardo seu retorno." Ela se afasta de você, olhando pensativa para sua banheira e a barra de ferro dentro dela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Fatebinder!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Não, estou com medo. Mesmo que Barik aqui estavam dispostos à idéia..." Ela levanta uma sobrancelha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Não sou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Preciso desta amostra como ponto de comparação. Tirar isso dele não faria sentido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>[Coloque o dedo nele.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Você sente os músculos Barik's se tensionando enquanto seus dedos se movem entre eles, escorregadios e trêmulos. Você sente outras energias internas, que enviam um zumbido quente ao longo de seus nervos. A pessoa se sente distante, desconhecida. 
+
+O outro lembra o soberano.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Uhm... Vinculador do Destino..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Você está de volta! Você segurou a liga? Dar aqui!" Ela abre a palma da mão e te olha com um sorriso entusiasmado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>[Dê a amostra.] "Aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Ainda não recuperei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Vá e pegue-o, então. Você saberá onde me encontrar." Ela franze a testa e acena com desdém.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Ah, fantástico!" Ela aceita a liga e a coloca em sua bigorna. Resmungando, ela traça os dedos no ar, formando uma série de sigilos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Com muita atenção, Barik observa o ferreiro se mover pela amostra, examinando-a de vários ângulos. Ele não diz nada, mas quando a placa frontal de seu elmo se move em sua direção, há acusação em seus olhos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Heh... hmmm..." Alguns outros sons pensativos seguem enquanto ela continua seu exame.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Suponho que você também a esfaqueará com uma barra de ferro quente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Puxe um banquinho ou uma caixa e sinta-se em casa. Isso não deve demorar muito..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Algumas horas se passam enquanto Lycentia bombardeia a amostra do [url=glossary:blade grave]Sepultura de Lâminas[/url] com uma combinação de marteladas e feitiços. Ela o aquece, o submerge na água, o molda, o envolve em raios e o faz levitar no ar.
+
+Eventualmente ela faz uma pausa, estudando o metal e batendo no queixo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"A liga absorve e retém a energia mística. Especificamente na forma de efeitos mágicos." Ela sorri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Fatebinder! Eu... eu realmente não esperava ver você de novo. Com tudo." Lycentia enxuga as palmas das mãos em suas vestes imundas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Você superou o Arconte de Guerra... isso é um feito incrível. Um feito lendário, desde que o soberano não reescreva a narrativa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Ouço coisas estranhas no [url=glossary:blade grave]Sepultura de Lâminas[/url]. Dizem que você e [url=glossary:graven ashe]Cinza esculpida[/url] chegaram a um acordo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Suspeito que sei por que você está aqui." Ela olha para Barik.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Sem Ashe proteção, Barik tem poucas chances de sobreviver à remoção de sua armadura. Dito isso, conheço um ritual para facilitar o processo. Requer um componente com tanta simpatia em comum com o indivíduo quanto a armadura... em uma palavra, sangue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Infelizmente, dada a ligação da liga com o Soberano [url=glossary:edict]Edital[/url] de Tempestades, o sangue precisará vir de uma régua. Sangue real. O suficiente para encher uma banheira. E com as forças [url=glossary:kyros]Kyros[/url]' colhendo o Camadas de seus governantes, é um componente em falta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Conheço um bebê de Robusto..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Tarkis Arri tinha sangue nobre, não tinha?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Talvez Tarkis Arri estará disposto a fazer uma doação para a causa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"O do general herdeiro que você assassinou?" Os espinhos de sua armadura se eriçam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Um bebê não forneceria nada como a quantidade de sangue que estamos procurando. Boa ideia, no entanto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Só para esclarecer, estamos medindo nossas opções em unidades de sangue de bebê agora?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Arri? Há quanto tempo o cadáver dela decorou o Pináculo da Montanha?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"O sangue perderia sua utilidade tanto tempo depois da morte. Menos o sangue de um governante do que o sangue de um cadáver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Duvido que pudéssemos tirar sangue suficiente da Senhora Tarkis sem matá-la, e precisamos dela para evitar que as outras facções se matem na sua ausência."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Não vamos mergulhar o Camadas em outra guerra civil antes de terminarmos a primeira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"E a estátua da Rainha Lycaerus em Edgering? Quantos litros de sangue ela chora por dia?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Conheço bem a estátua. Os Sábios queria bisbilhotar, mas o [url=glossary:vendrien guard]Guarda Vendrien[/url] não os deixava chegar perto, exceto aqueles que lutaram em suas fileiras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Deve funcionar perfeitamente. Se você conseguir trazer um barril de coisas para cá, eu conseguirei soltar Barik de sua jaula. Provavelmente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Bem-vindo de volta, Arconte. Eu acredito ter visto um barril de sangue de rainha." Lycentia olha você de cima a baixo, franzindo a testa com uma mistura de interesse e desgosto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Tudo bem, Barik, no molhado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Aqui vai tudo," Lycentia murmura e traça uma série de sigilos luminescentes no ar enquanto circula a banheira. Os pelos dos braços e da nuca se levantam lentamente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Canto, o ferreiro coloca um cinzel ao lado do elmo Barik's e bate nele três vezes com um martelo. Cada golpe ressoa mais alto que o anterior, e o terceiro é acompanhado por um som como uma lâmina cortando uma armadura. 
+
+Ela coloca as duas mãos em um dos espinhos de metal que coroam a Barik's cabeça e começa a puxar.
+
+Ele grita.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>O procedimento finalmente chega à sua conclusão, e Lycentia cai contra a parede, cabelos emaranhados e encharcados de suor, mãos e rosto vermelho de sangue. Ela solta um suspiro longo e trêmulo enquanto a energia na sala se dissipa lentamente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Vestido apenas com suas roupas de baixo e uma espessa pátina de sangue e sujeira, Barik está diante de você. Pesados fios de cabelo emaranhado pendem diante de seu rosto quebrado, e cicatrizes longas e retorcidas marcam seus membros e torso. Ele cheira a suor e fezes, o fedor se fundindo com o cheiro inebriante de sangue e ferro em um todo nocivo. Seu estômago se revira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Eu odeio encurtar isso, mas estou morto em meus pés, e há uma última coisa que precisamos resolver." Seus olhos encontram os seus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"O que você planeja fazer com ele?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Primeiro vou cutucar, cutucar e examinar. O que vem depois disso depende do que eu encontro depois de cutucar e cutucar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Um truque revelador e alguns grunhidos sem rumo? Ah, vamos lá, eu poderia ter conseguido isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Isso serve. Isso certamente servirá!" Ela se endireita, assentindo vigorosamente. Lycentia junta as mãos novamente em um único e forte aplauso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Claro que não. Não seja ridículo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Com o que você está preocupado? Não [url=glossary:graven ashe]Cinza esculpida[/url] proteger?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Claro que não." Sua armadura range contra si mesma com um rosnado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Não estou com vontade, bruxa da água."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Me avise quando estiver com vontade. Tenho planos para a ocasião."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Encontrou alguma coisa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Você finalmente terminou?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>[Não diga nada.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Eu com certeza diria que sim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Ah, desculpas. Eu meio que me esqueci de você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"É isso, então? Tenho você completou... o que quer que esteja fazendo?" Barik limpa a garganta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"O que isso significa para Barik?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Essa é mais uma razão para libertá-lo dessa concha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Isso significa que sua curiosidade está saciada. Isso significa que podemos continuar nossa verdadeira missão e esquecer essa busca herética!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"E quantas razões para NÃO você está escolhendo ignorar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Todos eles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Você vive toda a sua vida a serviço de [url=glossary:graven ashe]Cinza esculpida[/url] e do soberano. A carga adicional desta armadura é ridícula!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Como posso libertar os Tiers do Arcontes e deixar meu aliado jurado preso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Quais são mais alguns inimigos adicionados à nossa coleção?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Abaixe-se, soldado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Então não há raciocínio com você. Faça o que quiser, então. Você sempre faz isso." Barik se endireita, sua armadura gemendo enquanto ele rola os ombros.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Como deve ser! Não sofro dessa armadura porque é justo! Eu sofro porque é [url=glossary:kyros]Kyros[/url]'vontade, e eu sou [url=glossary:kyros]Kyros[/url]' servo. Como você sempre afirmou ser!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"O que isso diz sobre sua missão principal? Pode ser um reexame de seus valores está em ordem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Isso é..." Ele inala profundamente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Ele se endireita, cruzando os braços espinhosos sobre o peito irregular.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Infelizmente, separar Barik de sua armadura pode não ser tão fácil quanto se imagina. Talvez se eu tivesse chegado a ele imediatamente após o [url=glossary:edict]Edital[/url]..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Simplificando, a habilidade de Ashe de proteger seus soldados se espalhou para a armadura, provavelmente devido ao poder do [url=glossary:edict]Edital[/url]. Cada ferimento sofrido pelo soldado e pela armadura é um, e eles se curam como um só - com carne e metal se fundindo." Ela entrelaça os dedos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Enquanto Barik permanecer sob o poder Arconte de Guerra, ele permanecerá na armadura. Quanto mais tempo ele permanecer em sua armadura, mais ela se tornará uma parte intratável dele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Isso não é encorajador."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Podemos remover o Égide?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Não há outro jeito?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>[Para Barik:] "Você é um grande problema, você sabe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Não, imagino que não. Pelo menos você tem respostas?" Ela oferece um sorriso fraco.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"A não ser a morte do [url=glossary:graven ashe]Cinza esculpida[/url] ou ele rescindindo seu patrocínio sobre Barik, não vejo como libertar Barik do poder Arconte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Uma alternativa? Vou continuar estudando a liga. Se eu encontrar alguma coisa, mandarei um recado para o seu Pináculo." Ela tamborila o queixo com três dedos sujos de fuligem, franzindo a testa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Não tente me culpar por essa loucura. Eu sempre me opus a isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Você sempre pode visitar. Nós temos um teletransportador, não é como se você tivesse que escalar a coisa toda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Vou passar, obrigado. Espaços altos nunca concordaram com meu... tudo." Ela passa a palma da mão aberta sobre a barriga.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Nenhuma solução aceitável. Esta concha, por mais onerosa que seja, me protege e serve a você. Sem o Grande General ou o [url=glossary:disfavored]Desfavorecido[/url], não tenho propósito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Obrigado, Lycentia. Continue procurando uma maneira melhor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Foi uma incrível perda de tempo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Ah, vamos lá, seu grande chorão. Tenho certeza de que há uma máquina de cerco em algum lugar precisando de um contrapeso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Bobagem! Os Sábios sempre precisarão de cargas pesadas para evitar que seu pergaminho voe com o vento. A não ser que, claro, [url=glossary:kyros]Kyros[/url] destrói sua preciosa biblioteca e a espalha ao vento. Ah, certo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Mulher-fera fará bom uso de armaduras de ferro, rasgará a casca, morderá carne e chupará medula."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Sempre está me protegendo. Há um propósito nisso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Você não trouxe... Barik era o nome dele, certo? Tentando para esconder isso dele?" Ela levanta a liga, examinando sua parte inferior.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"O que Barik não sabe que não preciso saber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Ele não aprova totalmente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Ele não está comigo no momento. Não é nada mais do que isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Acho que é uma maneira de ver isso..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Tive essa impressão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Ah, claro. Eu não quis insinuar nada desagradável."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Justo..." Ela pisca para você, dando de ombros.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Viu? Você sempre tem um lugar conosco."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Tente prejudicar o General Ashe em meu nome, Vinculador do Destino, e esse acordo terminará rapidamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"Que... reconfortante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Prazer, Vinculador do Destino. Se eu descobrir algo de valor, enviarei um pássaro imediatamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"Nós vamos, eu não diria DESPERDÍCIO... er, quero dizer, como você diz, Vinculador do Destino. Entrarei em contato com você se descobrir mais alguma coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"É Arconte agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"Vai ser preciso mais do que alguns exércitos Arconte para acabar comigo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"Você achou que eu estava morto?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>[Cruze os braços, não diga nada.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Claro, Arconte. Desculpas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"Fico feliz em ouvir isso!" Ela ri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"O quê? Claro que não! Quero dizer... talvez um pouco. As coisas acontecem na guerra, certo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>Ela engole e abaixa a cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"Já pensei um pouco e tenho uma solução possível. Eu não acho que você vai se importar com isso, no entanto. Ou quem sabe? Talvez seja o tipo de coisa que você gosta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>Cruzando os braços, Barik permanece em silêncio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Eu me pergunto se o metal já se projetou no cérebro..." Lycentia espia Barik, subindo até a ponta dos dedos dos pés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"Precisamente. Muito bom, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"Estou ouvindo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"Se eu não gostar, não farei. Bastante simples."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Faz sentido. Não tenho certeza de qual seria a alternativa, no entanto. Exceto deixá-lo em sua armadura."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"Pensamentos, Barik?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Isso vai depender do que o ferreiro tem a dizer. Supondo que ela não exija o sangue de inocentes, devemos seguir seu conselho. Nós percorremos o caminho até aqui, não é?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"Engraçado você mencionar sangue..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"Por causa do ferro nele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"Qual era o propósito deste rito?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Continue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"Eles o usaram para tirar armaduras malformadas dos mortos sem mutilar ainda mais o cadáver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"Somente os [url=glossary:disfavored]Desfavorecido[/url] são dignos de armadura de ferro, e nós enterramos os nossos com seus braços."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"Então o [url=glossary:forge-bound]Forge-Bound[/url] deve estar se preparando para um momento em que um deles não será mais verdadeiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"Will Arconte serviço de sangue?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"Talvez no caso de [url=glossary:graven ashe]Cinza esculpida[/url] ou [url=glossary:tunon]Tunon[/url]. Dado que o sangue Arconte pode ter várias outras propriedades desconhecidas, eu ficaria muito, muito hesitante em usá-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"O nome de Cem-Sangue sugere sangue de sobra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"Esse é um nome Homem-Besta? Dificilmente acho que isso seria suficiente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"nome da mulher-fera - [url=glossary:prima]Prima[/url] de [url=glossary:stonestalker]Perseguidor de Pedras[/url] Tribo. Lidera muito melhor do que humano [url=glossary:primas]Primas[/url]. Místico mais forte. Caçadora mais veloz." Seus lábios tremem entre os dentes. "Mais nítidogarras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"Mais fraco que Mortes-in-Shadow [url=glossary:prima]Prima[/url], no entanto. [url=glossary:prima]Prima[/url] que cheira a Arconteslew Centenas-Blood."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"...certo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"Ela fez... até você chutá-la do Pináculo e espalhá-la pelo Nós vamos. Não se preocupe se você esqueceu, eu vou lembrar para você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"Eu não sacrificarei o Geral herdeiro pela minha liberdade." A armadura de Barik range com a tensão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>"Essa é certamente uma oferta nobre." Ela ri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"Fui criado entre a nobreza. E o meu sangue?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"Se pudermos encontrá-la. Uma mulher sábia teria fugido tão longe de [url=glossary:vendrien's well]Poço de Vendrien[/url] quanto seus pés traiçoeiros a levariam." Seus dentes rangem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"Se você puder encontrá-la, e se ela compartilhar sangue com a casa real de Ápice, isso funcionaria. No entanto, muitos 'se'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>"Decidiu se juntar a nós, Barik?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"É uma estátua ou uma rainha, não uma rainha de verdade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>"Isso não é uma má ideia. Funcionaria?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>Ele olha fixamente para você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>"Não, não, vale a pena considerar..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"Obrigado, Lycentia. Para tudo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>"Acho que não. Esse metal pertence a Barik. O que significa que pertence a mim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>Ela puxa um machado barbudo e de cabo comprido da parede e o oferece a você. Sua cabeça brilha na luz pálida da forja.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>Virando-se para a bacia, Barik coloca a mão em seu lábio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>Ele cai pesadamente no tanque sem dizer uma palavra e fica ali imóvel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>"Se eu não sobreviver a isso, saiba que eu nunca te perdoei isso ou as ações que você tomou que nos trouxeram até aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"Arconte. Não pretendo entender os meandros dos salões do poder. Eu nunca vou entender por que você e o Grande General não conseguiram chegar a um acordo. Eu usaria essa armadura para sempre se isso o trouxesse de volta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"Arconte. Obrigado por tudo que você fez por mim. Mesmo quando eu implorei para você não fazer isso, você me empurrou para frente. Agora até o Grande General reconhece sua grandeza." Ele inclina a cabeça levemente em sua direção.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"Mas isso não acontecerá. Se eu sobreviver a isso, você e eu teremos muito trabalho a fazer juntos para compensar os terríveis males que perpetramos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"Espero sobreviver a isso. As histórias vão cantar as obras que nossa aliança realiza."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>A cuba começa a borbulhar, e metal range contra metal enquanto Barik libera um silvo prolongado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>O ferreiro coloca a mão em um dos Barik's espinhos afiados e lentamente o puxa como se estivesse puxando uma lâmina de sua bainha. Você mal consegue distinguir Barik's grunhido de dor sob a miríade de sons da oficina. 
+
+O fragmento vem de graça, com fios de carne sangrentos pendurados nele.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>[Pegue o Barik's mão.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"Esta é apenas mais uma batalha, filho de Barikonen. Fique forte, soldado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>"Aguente, Barik, acabamos de começar! Você acha que esse choro iria impressionar Ashe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>[Use sua magia para ajudar no processo.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>Você desliza sua mão na pata enluvada Barik's e aperta. Enquanto o ferreiro retira o próximo fragmento, Barik retribui seu gesto, o metal de sua concha mordendo você enquanto seus tendões estouram sob sua força.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>Você mal consegue perceber o aceno Barik's, mas seus ombros se endireitam visivelmente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>Virando o rosto de capacete para você, os olhos heterocromáticos de Barik se estreitam em seus recessos sombreados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>Você adiciona seus próprios sigilos ao ar, fortalecendo o corpo Barik's contra essa provação. Ele relaxa visivelmente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>[Fazer nada.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>Eclusas líquidas vermelhas com crista de espuma entre as lacunas da armadura Barik's, escurecendo à medida que a sujeira e a sujeira de sua carapaça se misturam com o sangue da rainha e Escudo de Pedra igualmente. Ele estremece, sua manopla esquerda apertada sobre o espaço deixado por uma das excisões de Lycentia anteriores.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"Você está bem, Barik?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"Agarre, soldado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"Eu não esperava que você fosse limpo, exatamente, mas uau."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>[Não diga nada.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>Seus olhos piscam para você, sobrancelhas franzidas em uma carranca, lábios torcendo em uma careta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>Ele se endireita e se vira para você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>"Nunca mais tire suas roupas, Arconte. Veremos como você permanece limpo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>Por um minuto ou mais, o antigo Escudo de Pedra ecoa seu silêncio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>"A dor desaparecerá com o tempo. Talvez mais tempo do que estou acostumado, no entanto." Ele sorri levemente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>"A desonra de nossas ações me deixou vazio, Arconte. Talvez eu nunca mais seja imaculado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"A liberdade parece crua e fria, mas... confortável."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>"Acho que é tarde demais para colocar a armadura de volta nele..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>"Bem-vindo de volta à vida dos livres, seu monte ambulante de... hein. Vou ter que inventar alguns nomes novos para você, não é?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>"Qualquer maneira, coloque uma calça. Estou cansado de olhar para o seu... tudo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>"Não estou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>"Fico feliz em vê-lo livre das Soberano algemas, mesmo que o resultado esteja... precisando de um polimento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>"Agora eu posso rascunhar seu retrato oficial para o Crônica. Você não tem ideia do quanto essa omissão me assombrou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>"A tartaruga não se afastaria do casco protetor! Insensato! Ironclad sentirá falta do velho casaco de sucatas na próxima caçada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"Bem, isso não é simplesmente fantástico? Pelo menos um de nós está livre de seu oneroso capacete soberano."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>"Foi uma honra, Arconte." Ela coloca o machado em suas mãos. Ele se eriça com energia, uma faísca saltando de sua lâmina curva.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>"Eu gostaria que ela ficasse com ela, Arconte. Em justa recompensa pelos serviços prestados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>"Se você me dá licença, então... acho que preciso de uma semana de sono." Ela coloca o machado em um caixote perto de você e se afasta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>[Pegue o machado e vá embora.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>Levantando o machado, você sente a energia percorrendo-o. Uma faísca salta da lâmina curva com um estalo audível. Você se vira e deixa Lycentia descansar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>[Matar Lycentia.] "O metal me pertence."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>O ferreiro exausto mal tem tempo de reagir antes de você colocar as mãos em volta da garganta dela. Com um grunhido, você enfia o rosto dela nos ferros quentes de sua forja. Seu corpo se torce embaixo de você enquanto ela chuta e arranha seus braços. No momento em que ela finalmente fica quieta, o fedor de carne queimada encheu a sala.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>Piscando de surpresa, Barik olha para você com uma condenação silenciosa antes de se virar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>Você recolhe o metal e o machado, deixando Lycentia para arder e morrer sozinho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>"Você não tem algo que precisa fazer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>"Você não tem algo que precisa fazer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>"Você não tem algo que precisa fazer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>"Estou feliz por poder ajudar você e seu defensor, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>Ela ajuda você a rolar o barril para a oficina, e vocês dois despejam o líquido nocivo em uma grande banheira de cobre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>[Dê-lhe licor.] "Beber up. Isso vai doer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>[Dê-lhe licor.] "Beber up. Isso vai doer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>[Dê a ele uma tira de couro.] "Mastigar nisso, soldado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>Ele hesita por um momento, então pega a garrafa, arranca a rolha e a joga para trás, drenando um grande gole. Ele acena para você com gratidão enquanto o ferreiro continua seu trabalho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>Ele pega o couro com familiaridade fácil e o enfia entre os dentes. Ele lhe dá um breve aceno de agradecimento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>"São as lágrimas sangrentas de uma rainha morta? Um presságio do sangue a ser derramado em defesa de Apex? Água rica em minerais? Dado que as águas ficaram vermelhas quando as forças [url=glossary:kyros]Kyros[/url]' invadiram, provavelmente há um vínculo metafísico, ainda que tênue, com o soberano."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>"Gosto particularmente das enfermarias de calor. Não apenas pelo conforto. Evita que o lugar pegue fogo, exceto qualquer coisa incomum. Tive o pensamento depois..." Ela franze a testa e cai em silêncio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>"Mas não, não estou sem razão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>"Vou demorar um pouco para descobrir as propriedades da rocha, mas este é um começo promissor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>"Em teoria, uma arma fabricada com ela poderia manter seu encantamento por... pelo menos décadas, talvez mais!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>"Senhor."</DefaultText>
+      <FemaleText>"Senhora."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>"Faça pouco caso de sua posição precária, se quiser. Você não terá as habilidades Arconte das Sombras' nas quais confiar quando esses inimigos se levantarem para derrubá-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>"Assim, Barik está tão ligado com sua armadura quanto o ferro está com o bronze." Ela aponta para a amostra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>"Tirá-lo dessa armadura não é tarefa simples. É uma parte dele agora, fundida em seu músculo e pele. Qualquer coisa que o tire disso... bem, será como descascá-lo como uma batata. A parte externa vai sair, com certeza, mas vai levar algumas coisas boas com ela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>"Embora ela fosse sábia, ela nunca teria pegado em armas contra o Soberano em primeiro lugar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>"Mas sangue nobre não será suficiente. A menos que você tenha um país sobre o qual não me falou, vamos ter que olhar mais alto. Se queremos estar seguros."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>"Estou mantendo a liga que tiramos dele. Em troca, tomei a liberdade de forjar a amostra que você me trouxe antes em um machado que espero que seja digno de você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>"Desejaria a você viagens seguras se achasse que isso faria algum bem. Então tente se manter vivo lá fora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>"Bem atendido, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>"Eu tenho minha própria forja se você quiser se mudar. É significativamente maior e oferece uma visão muito melhor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>"Oh uau, Encadernador. Primeiro você elogia minha forja, depois se vira e me diz que a sua é maior. Você tem muito jeito com as palavras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>"Estou feliz onde estou, obrigado."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

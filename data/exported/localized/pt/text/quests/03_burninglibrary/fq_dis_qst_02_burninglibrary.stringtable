@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\03_burninglibrary\fq_dis_qst_02_burninglibrary</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Apagando as Chamas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Viajar para Efígie.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Resgate Maric.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Vá para as ruínas [url=glossary:burning library]Biblioteca em chamas[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Encontre um caminho além da barreira mágica.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Encontre mais pedaços de pergaminho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Encontre os pedaços de pergaminho restantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Encontre o último pedaço de pergaminho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Use os pedaços de pergaminho para alcançar o Arquivo Silencioso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Destrua o [url=glossary:burning library]Biblioteca em chamas[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Reporte para [url=glossary:graven ashe]Cinza esculpida[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>[url=glossary:graven ashe]Cinza esculpida[/url] quer que você termine o que foi iniciado durante a [url=glossary:kyros]Kyros[/url]' conquista do Camadas e destrua o [url=glossary:burning library]Biblioteca em chamas[/url] de uma vez por todas, negando o [url=glossary:scarlet chorus]Coro Escarlate[/url] conhecimento proibido da biblioteca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Maric lidera um grupo de [url=glossary:disfavored]Desfavorecido[/url] Oath Bound no [url=glossary:burning library]Biblioteca em chamas[/url] e pode ser capaz de ajudá-lo, embora Ashe tenha perdido contato com ele nas últimas semanas. Viaje para a casa de Mari última localização conhecida em Efígie e obtenha sua ajuda, se possível.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Agora que você chegou em Efígie, você precisa localizar e libertar o soldado Juramento capturado, Maric. Ele sabe que você precisará destruir o [url=glossary:burning library]Biblioteca em chamas[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Entre nas ruínas do [url=glossary:burning library]Biblioteca em chamas[/url] para destruir o Arquivo Silencioso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Uma barreira mágica impede você de viajar mais para dentro das ruínas. Encontre uma maneira de dissipá-lo para continuar explorando o [url=glossary:burning library]Biblioteca em chamas[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Você encontrou um fragmento de pergaminho que parece importante. Encontre mais e junte-os.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Você encontrou outro fragmento de pergaminho. Encontre o resto deles e junte-os.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Você encontrou três pedaços de pergaminho. Parece que mais um vai completar a página. Encontre-o.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Você encontrou pedaços de pergaminho suficientes para decifrar uma frase mágica. Depois de ter feito isso, use-o para entrar no Arquivo Silencioso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Agora que você localizou o Arquivo Silencioso, encontre uma maneira de destruir o [url=glossary:burning library]Biblioteca em chamas[/url] e complete a tarefa que o [url=glossary:graven ashe]Cinza esculpida[/url] lhe deu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Volte para [url=glossary:graven ashe]Cinza esculpida[/url] em Lareira de Ferro e diga a ele que o [url=glossary:burning library]Biblioteca em chamas[/url] não existe mais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você destruiu o [url=glossary:burning library]Biblioteca em chamas[/url] para o [url=glossary:disfavored]Desfavorecido[/url], assim como [url=glossary:graven ashe]Cinza esculpida[/url] comandou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você desobedeceu as ordens de [url=glossary:graven ashe]Cinza esculpida[/url] matando Maric e, ao fazê-lo, alienou-se do exército [url=glossary:disfavored]Desfavorecido[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

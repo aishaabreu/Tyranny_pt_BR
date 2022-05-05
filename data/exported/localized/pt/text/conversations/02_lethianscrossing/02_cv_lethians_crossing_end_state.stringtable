@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\02_cv_lethians_crossing_end_state</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Vinculador do Destino, é bom ver que você está vivo. Com toda a comoção vinda de dentro do Oldwalls Eldian estava começando a se preocupar com você. Ele me enviou para encontrá-lo caso você voltasse para [url=glossary:lethian's crossing]A travessia de Lethian[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ele tentou convencer alguns dos [url=glossary:disfavored]Desfavorecido[/url] a entrar no Oldwalls para ajudar, mas todos recusaram. Parece que a ajuda deles não era necessária."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Forças do [url=glossary:disfavored]Desfavorecido[/url] configuradas aqui enquanto você estava dentro do Oldwalls. Eu, pelo menos, descansarei melhor sabendo que eles estão aqui para nos proteger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Sem uma guarnição aqui para nos proteger, os ruídos eram no mínimo desconcertantes. Todos aqui vão dormir um pouco melhor sabendo que você voltou em segurança para nós."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Os [url=glossary:scarlet chorus]Coro Escarlate[/url] estavam debatendo sobre enviar alguém para verificar o barulho. Não tenho certeza se alguém foi enviado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"O [url=glossary:scarlet chorus]Coro Escarlate[/url] chegou há pouco tempo. Eles proclamaram que [url=glossary:lethian's crossing]A travessia de Lethian[/url] está agora sob seu controle."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Quando o [url=glossary:disfavored]Desfavorecido[/url] viu o [url=glossary:forge-bound]Forge-Bound[/url] saindo, eles saíram ao lado deles. Disse algo sobre o assentamento não valer a pena sem as armas serem feitas aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"O [url=glossary:forge-bound]Forge-Bound[/url] ouviu sobre o que você fez com Mestre Zdenya. Eles já fizeram as malas e deixaram [url=glossary:lethian's crossing]A travessia de Lethian[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Soldados do [url=glossary:vendrien guard]Guarda Vendrien[/url] chegaram há pouco tempo. Matani, sua líder, disse que os trouxe aqui para proteger o assentamento de futuros ataques dos [url=glossary:kyros]Kyros[/url]' exércitos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Quando o [url=glossary:scarlet chorus]Coro Escarlate[/url] viu o [url=glossary:forge-bound]Forge-Bound[/url] saindo, eles também saíram. Acho que por si só o acordo não vale nada para eles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Obrigado pela informação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Os desafios do Oldwalls nunca poderiam me impedir de proteger [url=glossary:lethian's crossing]A travessia de Lethian[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Diga ao velho para parar de se preocupar comigo e começar a se preocupar consigo mesmo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"De nada." Ele se curva e sai correndo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Agradecemos sua proteção." Ele se curva profundamente e depois foge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"S-sim, claro." Ele rapidamente se curva e depois foge.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

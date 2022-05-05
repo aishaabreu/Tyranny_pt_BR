@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\01_bladegrave\01_qst_rustcanyon_main_ind</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Ventos inconstantes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Localize Elia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Destrua o acampamento [url=glossary:unbroken]ininterrupto[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Defenda o [url=glossary:unbroken]ininterrupto[/url] Acampamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Limpe um caminho para o [url=glossary:unbroken]ininterrupto[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Perseguir Elia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Derrote Teodor e seus soldados</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Você traiu seus aliados e decidiu assumir o controle do Desfiladeiros de Ferrugem para si mesmo. Elimine as forças [url=glossary:disfavored]Desfavorecido[/url] e Rebelde e proteja a área.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Mattias revelou que [url=glossary:unbroken]ininterrupto[/url] soldados, liderados por uma mulher chamada Elia, foram enviados para Desfiladeiros de Ferrugem. Localize-os.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Você iniciou um ataque ao acampamento [url=glossary:unbroken]ininterrupto[/url] em Desfiladeiros de Ferrugem. Derrote Elia e todos os soldados rebeldes lá dentro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Elia precisa de sua ajuda para repelir um ataque das forças [url=glossary:disfavored]Desfavorecido[/url]. Ajude-a a defender o acampamento [url=glossary:unbroken]ininterrupto[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>O ataque [url=glossary:disfavored]Desfavorecido[/url] foi repelido, mas mais estão a caminho. Viaje para o norte do acampamento e derrote os soldados restantes para abrir caminho para os rebeldes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Elia e alguns de seus homens escaparam do acampamento quando ele caiu e estão tentando fugir Desfiladeiros de Ferrugem. Siga seu caminho para o norte e evite que eles escapem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Elia pediu a você para expulsar Teodor e seus homens dos cânions, seja por espada ou intimidação, e resgatar seus homens cativos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Você matou os homens de Teodor e libertou os [url=glossary:unbroken]ininterrupto[/url] cativos. Elia vai querer saber das novidades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Você conseguiu entrar no acampamento sem ser detectado. Use isso a seu favor durante o ataque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Atire no guincho segurando a rampa para alcançar o [url=glossary:unbroken]ininterrupto[/url] no mirante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Você ajudou Elia a escapar dos desfiladeiros e aprendeu sobre Mattias' última localização conhecida: Junção do Trapper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Você derrotou Elia e soube da última localização conhecida de Mattias': Junção do Trapper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Você conheceu [url=glossary:bleden mark]Marca de mistura[/url], que agora o aconselhou a buscar objetivos diferentes em Desfiladeiros de Ferrugem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>A oportunidade de resolver esta tarefa passou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>A oportunidade de resolver esta tarefa passou.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

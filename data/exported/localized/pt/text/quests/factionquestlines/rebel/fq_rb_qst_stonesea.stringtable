@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\factionquestlines\rebel\fq_rb_qst_stonesea</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Aliados improváveis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Viajar para Stone Down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Viaje para [Plainsgate].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Elimine o [url=glossary:scarlet chorus]Coro Escarlate[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Fale com o líder Homem-Besta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Elimine o [url=glossary:scarlet chorus]Coro Escarlate[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Fale com o representante Earthshaker.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Sua causa está condenada sem aliados poderosos. Procure os Homens-Besta da tribo [url=glossary:stonestalkers]Perseguidores de Pedras[/url] na [url=glossary:stone sea]Mar de Pedra[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Viaje para Stone Down na [url=glossary:stone sea]Mar de Pedra[/url] para fazer contato com a tribo [url=glossary:stonestalkers]Perseguidores de Pedras[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Viaje para [Plainsgate] para entrar em contato com o representante Earthshaker.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>[url=glossary:scarlet chorus]Coro Escarlate[/url] forças se interpõem entre você e os [url=glossary:stonestalkers]Perseguidores de Pedras[/url] em Apedrejar. Remova eles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Encontre o líder [url=glossary:stonestalker]Perseguidor de Pedras[/url] em Apedrejar e busque uma aliança com o Homens-fera.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>[url=glossary:scarlet chorus]Coro Escarlate[/url] forças se interpõem entre você e o Earthshaker representante em [Plainsgate]. Remova eles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Agora que os [url=glossary:scarlet chorus]Coro Escarlate[/url] estão todos mortos, fale com o representante Earthshaker em [Plainsgate].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você decidiu agir contra seus aliados e não poderá mais ganhar a confiança deles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você fez contato com o líder do [url=glossary:stonestalkers]Perseguidores de Pedras[/url], Cem Sangue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Você entrou em contato com o representante Earthshaker em [Plainsgate].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>A oportunidade de resolver esta tarefa passou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Sua causa está condenada sem aliados poderosos. Procure os Earthshakers no [url=glossary:stone sea]Mar de Pedra[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

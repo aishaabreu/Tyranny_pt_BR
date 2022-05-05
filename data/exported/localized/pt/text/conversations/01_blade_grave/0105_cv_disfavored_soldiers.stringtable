@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\0105_cv_disfavored_soldiers</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>41</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Merda, Callias vai ter que esperar. Mate o Fatebinder!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Pelo menos conseguimos a Fatebinder atenção. Assim que o portão da frente for arrombado, nenhum de vocês terá chance." Ela tosse sangue e depois fica mole.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Vocês idiotas de ferro nunca dormem?!" Versículo coloca as mãos nos quadris. "Não é à toa que Ashe está sempre de mau humor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Abaixe-se, soldados, isso é uma ordem!" Barik's comando se ergue sobre a fúria do vento. "Se você abaixar suas armas, você ainda pode sobreviver para ver o próximo amanhecer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>O soldado pisca. "Barik? Ouvi dizer que você estava correndo com o Vinculador do Destino, mas nunca acreditei até agora." Ela abre as narinas e fecha os punhos. "Traidor! Verei você ser trazido antes [url=glossary:graven ashe]Cinza esculpida[/url] acorrentado!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Pequeno consolo quando você está morto." Verso bufa. "Nortista burro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Dorme, conterrâneo. Seu mandato acabou." Barik suspira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Como você pode ver, Duskwatch está fechado para gente como nós, senão eu estaria me abrigando da tempestade." O [url=glossary:disfavored]Desfavorecido[/url] luta para lembrar suas feições. Então seus olhos se abrem em compreensão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Diga-me o que os [url=glossary:disfavored]Desfavorecido[/url] estão fazendo aqui e talvez eu poupe você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Mate-o.] "A guerra acabou para você, pequena."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Dispensá-lo.] "Vá em frente e saia daqui. Estou cansado do seu rosto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Ah, o Vinculador do Destino de [url=glossary:tunon]Tunon[/url]! Comandante Osmios me disse que eu deveria procurar companhia, mas eu não esperava ninguém tão alto na cadeia alimentar!" Ele acena para você seguir. "A leste daqui, nossa unidade reúne forças para tomar Crepúsculo. Siga-me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Você agarra os lados de sua cabeça com as duas mãos e torce - com força. São necessárias algumas boas tentativas, mas você ouve o estalo satisfatório do pescoço dele cortando a ligação do cérebro entre consciência e ação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ashe ordenou que tomássemos o forte. Comandante Osmios também diz que há um Norte prisioneiro atrás daquelas paredes." Ele engole nervosamente, sua atenção indo de você para a paliçada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Isso é tudo que eu sei. Eu me concentro principalmente em minhas ordens... como uma boa sentinela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Tudo o que você sabe sobre Crepúsculo. Agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Durante a guerra, os [url=glossary:unbroken]ininterrupto[/url] mantiveram este forte trancado contra as forças [url=glossary:kyros]Kyros[/url]'. Pode não ser muito para se olhar, mas as pessoas por trás dessas paredes são um bando espirituoso. Nem mesmo a tempestade quebrou a coragem deles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Eu sei o que o comandante diria - que um sulista é muito ignorante para limpar a sujeira de seus olhos. Mas os [url=glossary:unbroken]ininterrupto[/url] estão usando a tempestade contra nós, e bem... você tem que respeitar isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Fale-me sobre Osmios."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Qual é a história com Crepúsculo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Deixar] "Posso encontrar meu próprio caminho. Você foi dispensado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Durante a guerra, os [url=glossary:unbroken]ininterrupto[/url] mantiveram este forte trancado contra as forças [url=glossary:kyros]Kyros[/url]'. Pode não ser muito para se olhar, mas as pessoas por trás dessas paredes são um bando espirituoso. Nem mesmo a tempestade quebrou a coragem deles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Eu sei o que o comandante diria - que um sulista é muito ignorante para limpar a sujeira de seus olhos. Mas os [url=glossary:unbroken]ininterrupto[/url] estão usando a tempestade contra nós, e bem... você tem que respeitar isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Eles não vêm mais decorados que Osmios. Ele enfrentou o Refrão durante a campanha Robusto - algo a ver com o [url=lore:beasts_stalwart]Cantores de Sangue e Bestas.[/url] Não me lembro dos detalhes, mas ele tem sido nosso comandante de unidade desde então."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Eu o seguiria em qualquer lugar... incluindo o olho de uma tempestade, ao que parece."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ele faz parte da campanha Robusto desde o início, então ele conhece este país como o interior de seu capacete, o que é impressionante quando você considera como o [url=glossary:edict]Edital[/url] abalou tudo. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Vamos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Qual é a sua missão aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Fazemos o que [url=glossary:kyros]Kyros[/url]' legião de ferro faz melhor - reivindicamos o forte, e quem não cooperar é morto. Nosso comandante gosta de manter as ordens simples."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Osmios mencionou algo sobre um Norte prisioneiro por trás dos muros de Crepúsculo, mas não pude dizer mais nada. Fui designado para o serviço de reconhecimento, não para o serviço de resgate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Eu pediria que você suprimisse seu ódio irracional aos Norte soldados desta vez, Vinculador do Destino. O garoto não é um combatente até que você o torne um."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Você agarra os lados de sua cabeça com as duas mãos e torce - com força. São necessárias algumas boas tentativas, mas você ouve o estalo satisfatório do pescoço dele cortando a ligação do cérebro entre consciência e ação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Abominável, e ainda nada mais ou menos do que eu esperava de você. Vou me lembrar do rosto desse menino quando chegar a hora do acerto de contas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Ele olha para Barik em uma confusão repentina. "Suae o maior Escudo de Pedra Ie já visto! Como você corre com uma armadura assim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Com muito esforço, mas devo continuar me movendo para evitar a ferrugem. Minhas panturrilhas ficaram do tamanho de leitões."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>A sentinela balança a cabeça para dissipar o pensamento e se concentra em você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Ah não... É só minha sorte que eu iria entrar em conflito com [url=glossary:tunon]Tunon[/url] Vinculador do Destino." Ele coloca dois dedos nos lábios e se prepara para assobiar, mas pensa melhor disso. "Diga... amigo? Por que não me deixa ir? Esses são tempos difíceis, e a misericórdia é mais valiosa que ouro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Você ouviu o Vinculador do Destino - dispensado!" Barik gesticula em direção ao horizonte distante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Obrigado! Nunca quis atrapalhar a lei." O jovem sentinela tropeça em seus pés ao sair apressado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Bem atendido, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Vinculador do Destino." Ele limpa a garganta. "Algo que posso fazer por você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

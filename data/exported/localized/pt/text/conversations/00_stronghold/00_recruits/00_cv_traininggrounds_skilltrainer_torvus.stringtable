@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\00_recruits\00_cv_traininggrounds_skilltrainer_torvus</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Não há tempo para treinar agora, Vinculador do Destino. Talvez mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Vinculador do Destino." Ele sorri amplamente. "Venha para algum treinamento?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Deixar] "Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>O soldado resmunga e olha para você com desinteresse. "Venha para seus hematomas diários? Posso emprestar alguns."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Aqui para um treinamento, Fatebinder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Saudação, Vinculador do Destino e bem-vindo de volta ao seu Pináculo! Devo dizer que a vista daqui é bastante impressionante." O soldado coça a nuca e dá de ombros. 
+
+"Eu nunca pensei que veria o dia em que cumprimentasse um agente de [url=glossary:tunon]Tunon[/url] tão feliz, mas também nunca pensei que veria o topo de um Pináculo, então eu acho que estamos quebrando a tradição hoje em dia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Como você chegou aqui? Eu deveria checar a segurança..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"O que você quer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Eu não gostaria de aborrecê-lo com os detalhes. Um oficial de sua estatura tem o suficiente para se preocupar sem se preocupar com gente como eu ou como vou de um lugar para outro." Ele pisca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Tenho certeza de que [url=glossary:tunon]Tunon[/url] encheu sua cabeça com todos os tipos de lições, e os detalhes provavelmente me assustariam até a morte. Mas precisamos de você em sua melhor forma e você precisa de todos os meios de defesa à sua disposição." 
+
+"O que você diz? Interessado em algum treinamento além do seu treinamento?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Vamos começar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Deixar] "Agora não. Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

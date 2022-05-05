@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\factionquestlines\rebel\fq_rb_cv_alliesmeeting</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Obrigado a todos por terem vindo. Enfrentamos sérios desafios juntos, mas estou feliz por finalmente apresentar um farol para iluminar o caminho - [Player Name], o campeão do Camadas, nosso líder e Arconte!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Isso levanta a questão, Arconte. E aqueles que optaram por não aderir à nossa aliança?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"É reconfortante ouvir isso. Você já mostra mais compaixão e compreensão mortal do que [url=glossary:kyros]Kyros[/url] jamais demonstrou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Essa é uma... posição intrigante, Arconte. Podemos discutir mais tarde se você está disposto a repensar... ah, deixa pra lá."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Sua ambição é grandiosa como sempre, Arconte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Agora, ainda há a questão dos Editais que assolam nossa terra. Muitos de seus aliados mais próximos foram impactados."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

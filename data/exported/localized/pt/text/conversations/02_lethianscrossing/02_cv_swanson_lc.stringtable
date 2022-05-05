@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\02_cv_swanson_lc</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Svansen empilha cuidadosamente pedaços de ferro dentro de um caixote. Ele percebe que você se aproxima e tira a poeira das mãos. "Um Vinculador do Destino, honrado por ser agraciado com sua presença."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Svansen acena para você com um sorriso. "O que posso fazer por você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"O que posso fazer por você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Você é um [url=glossary:forge-bound]Forge-Bound[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Você gostaria de se tornar um?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Você não sabe como perdeu a memória?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Deixar]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Svansen coça o topo da cabeça por um momento. "Não, pelo menos acho que não sou. Embora eu sinta que posso ter uma alma gêmea para o ofício."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Acho que não consigo." Ele desvia o olhar momentaneamente como se procurasse sua própria mente, mas não encontra nada. "Não entendo muito bem, mas dizem que perdi a memória em um acidente há alguns anos e agora não tenho o que precisaria para me tornar um."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>A expressão de Svansen escurece. "Não, não pressionei a pergunta. Acho que isso não importa mais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Então o que você faz?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Svansen sorri largo. "Todos os tipos de coisas! Às vezes eu transporte de ferro, às vezes eu envio missivas. Disseram-me que esse sempre foi meu trabalho, e eu gosto de me manter ocupado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[url=glossary:forge-bound]Forge-Bound[/url] Comerciante fica de costas para a conversa e ouve sua conversa e se vira para você. "Se não for o Vinculador do Destino de [url=glossary:tunon]Tunon[/url]. Bem-vindo a [url=glossary:lethian's crossing]A travessia de Lethian[/url]!" Ele aponta para Svansen. "Terminar seu trabalho e então você pode continuar falando com o Vinculador do Destino." Svansen balança a cabeça ansiosamente e volta a empilhar o ferro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Uma vez que Svansen volta, o comerciante lança um olhar preocupado para você. "[url=lore:lc_redanvil]Não quero questionar seu julgamento[/url] e agradeço a ajuda, mas é apenas..." Vocês dois observam a ingenuidade dócil de Svansen enquanto ele examina uma peça de merda de rato no chão perto da caixa. "Isso é apenas um pouco inquietante como um homem pode se tornar uma criança novamente. Não sei o que faria se de repente esquecesse tudo o que me fez quem sou."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

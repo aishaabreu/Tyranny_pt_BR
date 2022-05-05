@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\worldevents\00_wme_playeredictstorms</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>O vento retarda sua jornada, pressionando contra você com a força do fluxo de um rio. Nuvens agitam o céu acima, turvas com as energias arcanas de seu [url=glossary:edict]Edital[/url] de Tempestades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Rajadas uivantes rasgam os desfiladeiros e os espinhos enferrujados do [url=glossary:blade grave]Sepultura de Lâminas[/url], carregando nuvens de areia pelas longas trincheiras escavadas pela erosão dos ventos incessantes. Você não pode deixar de comparar seu trabalho com o Soberano... e [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] de Tempestades parecia muito mais hostil. Você quase se sente bem-vindo por esse caos rodopiante, como se fosse uma parte de você manifestada e infligida ao mundo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Relâmpagos saltam entre as nuvens acima, iluminação piscando pelas planícies inundadas estendidas diante de você. O dilúvio de chuva caiu incessantemente desde que você emitiu o [url=glossary:edict]Edital[/url] de Tempestades sobre o Refúgio, e os rios escaparam de suas margens. Grama e grãos se dobram e quebram sob a água que cai, e as estradas foram transmutadas em um lamaçal sinuoso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>luz do sol filtra o verde através dos gases ondulantes acima de você, e a chuva que cai é densa com produtos químicos acres que sibilam ao atingir a pedra. As gotas salpicaram o manto pesado que você usa para proteção com manchas brancas esbranquiçadas. Um fedor como Fera urina queima suas narinas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Os ventos carregam vastas neblinas de poeira seca pela superfície irregular do [url=glossary:stone sea]Mar de Pedra[/url], mesmo quando ele grita entre as grandes vergas de terra. Ele dirige a areia e a areia em suas feições, inundando você até que você não tenha certeza de onde sua pele rachada termina e a terra ressecada começa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>O vale de [url=glossary:vendrien's well]Poço de Vendrien[/url] é uma bacia bem regada, o dilúvio sem fim do seu [url=glossary:edict]Edital[/url] de Tempestades inundando o Matani e o Irenev. Relâmpagos rasgam o céu e trovões ecoam em suas costelas. As estradas através do antigo Ápice tornaram-se pouco mais do que um atoleiro quase intransponível.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Diante de você, percebe-se um alvoroço de atividade em um prédio próximo, uma casa de fazenda atarracada e isolada de pedra rebocada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Investigar mais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Evite isso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Pacote de ajuda.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Decidindo não se envolver com o que quer que esteja acontecendo, você segue em frente através da tempestade que você mesmo criou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Ao se aproximar, você vê as ruínas de uma casa de fazenda solitária, a madeira sobre as janelas escurecida pela corrosão. Um lodo meio sólido circunda a casa, restos de gesso que se desprenderam sob o ataque da chuva. Na frente da casa, os proprietários ostensivos montaram uma saliência de couro grosso para proteger a carroça que estão enchendo com seus pertences insignificantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Ao se aproximar do prédio, você vê uma família de Camadas camponeses lutando contra os elementos em desespero apressado. Eles protegeram suas portas e janelas contra o pior da tempestade, mas o vento arrancou metade do telhado da estrutura e eles trabalham desesperadamente para consertá-lo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Exalte sua grandeza.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Deixar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Ajuda com reparos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Você deixa os camponeses com seus trabalhos e continua sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Você avança e grita para os camponeses, declarando a tempestade um grande e terrível trabalho chamado por sua voz para derrubar os iníquos. Eles tremem de medo, olhos arregalados de horror.
+
+Você deixa os camponeses com seus trabalhos e continua sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Você se junta aos colonos, assustando-os com sua aproximação, e eles sacam facas e forcados. Quando eles percebem que você está lá para ajudar, eles acenam com a cabeça sombriamente e passam seus pertences para adicionar ao carrinho. Sua presença sob o dossel parece afastar o pior da tempestade, e o trabalho é rápido.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Os camponeses agradecem vociferantemente e você continua sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Você avança, assustando os camponeses, mas quando eles percebem que você os está ajudando, eles lhe fornecem ferramentas e materiais com gratidão. A tempestade parece atrapalhar menos seus esforços do que os deles e você termina de remendar o telhado rapidamente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>O vento retarda sua jornada, pressionando contra você com a força do fluxo de um rio. Nuvens agitam o céu acima, turvas com as energias arcanas de seu [url=glossary:edict]Edital[/url] de Tempestades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>O vento retarda sua jornada, pressionando contra você com a força do fluxo de um rio. Nuvens agitam o céu acima, turvas com as energias arcanas de seu [url=glossary:edict]Edital[/url] de Tempestades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>O vento retarda sua jornada, pressionando contra você com a força do fluxo de um rio. Nuvens agitam o céu acima, turvas com as energias arcanas de seu [url=glossary:edict]Edital[/url] de Tempestades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>O vento retarda sua jornada, pressionando contra você com a força do fluxo de um rio. Nuvens agitam o céu acima, turvas com as energias arcanas de seu [url=glossary:edict]Edital[/url] de Tempestades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

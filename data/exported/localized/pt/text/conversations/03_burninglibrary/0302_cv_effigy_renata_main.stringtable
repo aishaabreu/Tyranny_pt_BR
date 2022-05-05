@@ -1,0 +1,550 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\03_burninglibrary\0302_cv_effigy_renata_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>106</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Que negócio você tem com o Sábios?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"O que você pode me dizer sobre Sábios nesta área?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Gostaria de falar com seu prisioneiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Ataque] "Suficiente disso - sua vida está perdida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Absolutamente não. A última coisa que preciso é de vocês dois conspirando contra mim. Agora, estou incrivelmente ocupado e tenho trabalho a fazer. Então me deixe em paz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Renata cruza os braços e te olha incrédula. "Nós vamos, considerando que ele provavelmente foi enviado para terminar o trabalho que o [url=glossary:edict]Edital[/url] começou, o que significa que você provavelmente está aqui para ver como ele está, por que eu deixaria você fazer isso ?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Eu só quero vê-lo brevemente. Ele pode estar mais inclinado a falar comigo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Estamos muito ocupados." Ela olha para você incisivamente. "Não só estamos tentando recuperar o [url=glossary:burning library]Biblioteca em chamas[/url], há [url=glossary:disfavored]Desfavorecido[/url] se escondendo, metendo o nariz onde não pertencem. Nós até pegamos um deles e o temos mantido aqui, tentando obter algumas informações dele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"[url=glossary:scarlet chorus]Coro Escarlate[/url] na biblioteca... [url=glossary:disfavored]Desfavorecido[/url] se escondendo... Os Sábios no caos. Às vezes me pergunto por que quero liderar esse grupo..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Fale-me sobre o [url=glossary:scarlet chorus]Coro Escarlate[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Fale-me sobre o [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"O que você está fazendo aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Vamos falar de outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Deixar] "Falo com você mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Eles estão por todo o Biblioteca. Não conseguimos chegar ao Arquivo Silencioso. Já é ruim o suficiente que nosso conhecimento esteja permanentemente em chamas, mas ter esses monstros bisbilhotando..." Ela balança a cabeça.
+
+"Eu estremeço só de pensar no que eles estão fazendo com isso!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Eu não tinha ideia de que eles estavam aqui, e quem sabe quantos mais estão por aí. É apenas mais um problema para adicionar à lista."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Desde a destruição do [url=glossary:vellum citadel]Cidadela de Velino[/url], não houve nada além de caos. Eu sei que poderia resolver o problema se eu tivesse os meios para fazê-lo! Por isso estou... estamos aqui. Precisamos nos reagrupar e eu preciso encontrar uma maneira de recuperar o Cidadela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Eu tenho o Olho do Escrivão para você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Fale-me sobre o prisioneiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ele é um Juramento chamado Maric. Tentamos obter informações dele, mas ele não está falando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Obrigado! Agora minha autoridade sobre o Sábios está assegurada. Você me deu esperança de que o Sábios recuperará o poder que já teve!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Não posso agradecer o suficiente por encontrar o Olho do Escrivão. A Biblioteca pode estar em ruínas, mas com esta ferramenta podemos reconstruí-la novamente em outra geração. Você prestou um ótimo serviço ao Sábios!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Estou reunindo uma força para enfrentar [url=glossary:kyros]Kyros[/url]' exércitos. Queremos que o Sábios se junte a nós."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Eu vim em busca de alguém chamado Maric. Fiquei sabendo que ele pode estar aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Renata sorri e aponta para o sul em direção a uma casa com [url=glossary:sage]Sábio[/url] e Homem-Besta na frente dela. "Ele é aqui tudo bem. Ele é nosso cativo e ele não vai a lugar nenhum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Você pode me dizer alguma coisa sobre o [url=glossary:edict]Edital[/url] de Incêndio?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Eu não sei muito sobre as especificidades do [url=glossary:edict]Edital[/url], mas tenho estudado. A redação do [url=glossary:edict]Edital[/url] era específica sobre a remoção de todo o conhecimento proibido da biblioteca. Eu sei o que [url=glossary:kyros]Kyros[/url] significava quando o [url=glossary:edict]Edital[/url] foi emitido, mas acho que conheço uma maneira de cumpri-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] considera todo conhecimento proibido, por isso o [url=glossary:edict]Edital[/url] foi destinado a punir quem busca conhecimento. Os Sábios, no entanto, apoiava a livre troca de informações, então nada era proibido, exceto por uma coisa - o Arquivo Silencioso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"O problema é que o único reconhecido com autoridade sobre os Sábios é aquele que empunha o Olho do Escrivão, e ele está perdido em algum lugar do Biblioteca."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Por que não remover fisicamente o arquivo da biblioteca?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Onde está o olho?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Um olhar de terror surge no rosto de da Renata. "Não! Você não deve fazer isso!"
+
+"Se o arquivo fossem removidos fisicamente, toda a biblioteca entraria em colapso ao seu redor. A única coisa que mantém a estrutura de pé é o feitiço que está usando esse pergaminho como foco!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Vou procurar o Olho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"O que é o Olho do Escrivão?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Um item muito importante para o Sábios. Com nosso grupo no caos, não há ninguém no comando e estamos tropeçando. A pessoa que possui o Olho é considerada a responsável. Se eu conseguir colocar as mãos nisso, posso preencher o vácuo e trazer o Sábios de volta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>[Dê o olho a Renata] "É isso que você está procurando?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Está em Biblioteca em algum lugar. Infelizmente, não faço ideia de onde. Um dos nossos Sábios foi procurá-lo e nunca mais voltou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Vou pensar em recuperá-lo para você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Vou pegar o Olho do Escrivão para você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Vamos falar de outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Muito obrigado, Fatebinder! Com a liderança necessária, o Sábios será muito mais poderoso. Se conseguirmos nos organizar adequadamente, ouso dizer que - comigo no comando - podemos superar o poder do grupo anterior."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Ah, Vinculador do Destino, que bom que você voltou. Folant acabou de chegar e me contou sobre sua ajuda em seu resgate. Não posso agradecer o suficiente por sua mão neste assunto." Ela estende uma pilha de papéis, sacudindo-os em um [url=glossary:sage]Sábio[/url]. Ele salta, correndo para pegar a pilha de Renata, depois se afasta, desaparecendo na esquina de um prédio próximo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>Ao se aproximar, você vê uma mulher de rosto severo tendo uma discussão acalorada com um jovem assustado. Ela segura um pedaço de papel na mão e pontua a cada poucas palavras com um toque pontudo na folha. O jovem fica vermelho brilhante e dá dois passos arrastados para trás, seus olhos procurando por ajuda do grupo, mas ninguém o encontra.
+
+Finalmente, a mulher joga o papel nele e diz com desdém: "Terminamos aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>Renata ergue os olhos de um punhado de papéis quando você se aproxima. "Vinculador do Destino, você retornou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>O jovem faz algumas tentativas frenéticas no papel antes de finalmente segurá-lo, depois se vira e foge, tropeçando no caminho. A mulher fecha os olhos com força, suspira e coloca a palma da mão na testa, fazendo pequenos círculos. Ela toma outra respiração profunda e então se vira para você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"O que foi essa discussão?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>Renata olha para onde o jovem [url=glossary:sage]Sábio[/url] desapareceu atrás de um prédio. "Estamos..." Ela faz uma pausa e olha pensativa. "Como é que eu diga isso diplomaticamente? Estamos com poucos funcionários no momento e certos... aspectos do meu dia-a-dia são mais difíceis do que eu esperava."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>Ela olha para você, um olhar de desgosto nublando seu rosto. "Porque [url=lore:bl_lava_level]não tivemos tempo suficiente para evacuar antes que nossa...casa fosse destruída,[/url] perdemos muitos bons homens." Ela sorri rigidamente. "Mas isso ficou no passado, não é?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>Ela considera você, seus lábios franzidos. Você pode ver que ela está escolhendo suas próximas palavras com cuidado. "[url=lore:bl_lava_level]Porque você nos avisou,[/url] conseguimos retirar muitos livros e pessoas importantes antes que nossa casa fosse destruída. Por isso, eu agradeço." Ela funga, seus olhos olhando brevemente para baixo. Quando ela olha para cima novamente, ela está composta, todo o sentimento de sentimento desapareceu de seu comportamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Porque [url=glossary:kyros]Kyros[/url] achou por bem ter nossa casa destruída, algumas pessoas estão demorando mais para se ajustar ao novo ambiente do que outras. Mas esse não é o ponto de sua visita.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>"O que você pode me dizer sobre o Arquivo Silencioso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>"O Arquivo é a soma total de [url=glossary:sage]Sábio[/url] conhecimento. É nossa maior criação, um rolo de informações ilimitadas que pode reescrever seu conteúdo. Você precisa, mas faça as perguntas certas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>"A perda de qualquer outra coisa no Biblioteca é trágica, mas o Arquivo Silencioso é insubstituível. O [url=glossary:edict]Edital[/url] de Incêndio teria inundado o Arquivo com lava, mas alguns dos Sábios conseguiram evitá-lo com um feitiço poderoso. O feitiço é sustentado pelo próprio Arquivo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>"Por que o Arquivo Silencioso é valioso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>"Mesmo que o Arquivo seja notável por si só, não posso nem mesmo transmitir a você seu significado. É mais valioso do que uma biblioteca do tamanho de uma cidade. Lamento não poder divulgar mais detalhes, mas isso deve ser suficiente para enfatizar sua importância para nossa causa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>"Recentemente capturamos um Oath Bound e o estamos mantendo aqui, esperando que possamos obter algumas informações sobre o [url=glossary:disfavored]Desfavorecido#[/url] na área." Ela faz uma careta e franze o nariz. "Ele não tem cooperado e eu não tenho estômago para violência.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>"Obrigado! Agora minha autoridade sobre o Sábios está assegurada. Você me deu esperança de que o Sábios recuperará o poder que já teve!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>"Além disso, muitos dos Sábios se espalharam pela região. Poderíamos usar mais deles aqui, mas não temos os corpos de sobra para recolhê-los."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>469</ID>
+      <DefaultText>Ela lhe dá uma meia reverência. Seu rosto é estóico e não mostra mais nenhum sinal de frustração, "Vinculador do Destino. Você nos honra com sua presença. Meu nome é Renata." Ela faz um pequeno gesto de saudação. "Lamento não estarmos mais bem preparados para recebê-lo, mas estamos muito ocupados recentemente." Ela acena com a mão com desdém, afastando o assunto antigo antes de começar um novo. "No entanto, você não está aqui para falar de tais assuntos, e estou certo de que podemos chegar a um acordo mutuamente benéfico."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>479</ID>
+      <DefaultText>"Por favor, Vinculador do Destino. Os Sábios precisa de um líder e atualmente não há ninguém mais qualificado do que eu. Poderíamos ser uma grande potência novamente!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>480</ID>
+      <DefaultText>"Cego, direto e direto ao ponto. Eu gosto disso. E eu adoraria ajudá-lo, mas minha atenção precisa ficar um pouco mais perto de casa por enquanto. Os [url=glossary:scarlet chorus]Coro Escarlate[/url] estão fervilhando por toda a minha antiga casa. No momento não tenho para onde ir e praticamente ninguém para ajudá-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>481</ID>
+      <DefaultText>"Foi mantido na parte mais profunda do [url=glossary:vellum citadel]Cidadela de Velino[/url], protegido por feitiços perigosos para que ninguém pudesse chegar até ele, a menos que fosse um [url=glossary:sage]Sábio[/url]. Quando o [url=glossary:edict]Edital[/url] foi declarado, muitos dos meus irmãos e irmãs deram suas vidas para evitar que o Arquivo fosse totalmente destruído."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>482</ID>
+      <DefaultText>Ela lhe dá uma meia reverência, seu rosto estóico e sua voz plana. "Vinculador do Destino. A última coisa que eu esperava aqui era um representante do [url=glossary:disfavored]Desfavorecido[/url]. Meu nome é Renata. Não estamos devidamente preparados para recebê-lo, pois recentemente fizemos um prisioneiro e ele provou ser bastante difícil." Ela coloca a mão na cabeça novamente, como se quisesse enfatizar sua consternação. "E eu tenho a sensação de que você provavelmente está aqui para falar sobre esses assuntos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>483</ID>
+      <DefaultText>Ela lhe dá uma meia reverência, seu rosto estóico e sua voz plana. "Vinculador do Destino. A última coisa que eu esperava aqui era um representante do [url=glossary:scarlet chorus]Coro Escarlate[/url]. Meu nome é Renata. Não estamos devidamente preparados para recebê-lo, pois recentemente fizemos um prisioneiro e ele provou ser um punhado de mão cheia." Ela acena com a mão com desdém, enxotando o assunto antigo antes de começar um novo. "No entanto, você não está aqui para falar desses assuntos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>488</ID>
+      <DefaultText>"Admito que tive minhas dúvidas, Vinculador do Destino. As histórias de feitos e realizações das pessoas são sempre exageradas e as lendas nunca fazem jus às histórias contadas sobre elas. Então, quando você disse que nos ajudaria, presumi que nunca mais o veria. E aqui está você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>489</ID>
+      <DefaultText>"Quando chegamos, encontramos o Censurar desaparecido e o restante [url=glossary:scarlet chorus]Coro Escarlate[/url] caiu facilmente. Já começamos a montar um acampamento permanente e em breve poderemos explorar o Biblioteca e recuperar qualquer outra coisa que tenhamos perdido." "Os Sábios se juntarão a você desafiando [url=glossary:kyros]Kyros[/url]' regra. Vou para [url=glossary:ascension hall]Salão da Ascensão[/url] e emprestarei minha voz aos dissidentes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>490</ID>
+      <DefaultText>"Como você obviamente é capaz de proteger o Arquivo Silencioso, vou deixá-lo sob seus cuidados até que possamos reconstruir o Biblioteca e fazer um novo lar para ele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>491</ID>
+      <DefaultText>"Fatebinder! O que você está fazendo aqui? O que eu posso ajudá-lo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>494</ID>
+      <DefaultText>"Você quer liderar o Sábios?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>495</ID>
+      <DefaultText>"Sim. Os sábios tendem para o estilo de vida de um eremita se deixados por conta própria - estudando, lendo, copiando manuscritos. Com liderança, motivação e organização adequadas, eles são uma força inabalável!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>496</ID>
+      <DefaultText>"Guardas! Estamos sob ataque!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>497</ID>
+      <DefaultText>Renata olha para você intrigada. "Não tenho certeza se você está tentando me atrair aqui, Vinculador do Destino, mas é de conhecimento geral onde está sua lealdade atualmente. Estou relutante em dar minha opinião verdadeira. Basta dizer que ficarei feliz quando estiver livre para estudar em paz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>498</ID>
+      <DefaultText>Renata olha para você intrigada. "Não tenho certeza se você está tentando me atrair aqui, Vinculador do Destino, mas é de conhecimento geral onde está sua lealdade atualmente. Estou relutante em dar minha opinião verdadeira. Basta dizer que ficarei feliz quando estiver livre para estudar em paz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>499</ID>
+      <DefaultText>"Ashe me mandou falar com Maric, você está no caminho das forças [url=glossary:kyros]Kyros[/url]'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>501</ID>
+      <DefaultText>"Não vou perguntar de novo, Renata. Deixe-me falar com Maric ou pagar o preço."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>502</ID>
+      <DefaultText>"E eu tenho um grupo disperso para reunir e liderar - todo mundo tem dificuldades e eu realmente não me importo de ouvir sobre o seu. [url=glossary:kyros]Kyros[/url] causou danos suficientes, não permitirei que continue enquanto estiver aqui. Você pode falar o quanto quiser - você não vai falar com o prisioneiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>503</ID>
+      <DefaultText>Os olhos de Renata se estreitam. "Parece que você deseja que isso termine em sangue. Que assim seja. Você descobrirá que os Sábios não são tão facilmente silenciados."
+
+"Guardas! Estamos sob ataque!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>504</ID>
+      <DefaultText>"Posso falar com o prisioneiro?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>505</ID>
+      <DefaultText>"Temo que não posso permitir isso, Vinculador do Destino. Ele tem informações de que precisamos e não quero que meus homens sejam interrompidos enquanto estão trabalhando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>506</ID>
+      <DefaultText>"Eles estão profanando o Biblioteca e eu sou com medo de encontrar o Arquivo Silencioso. Se perdermos isso, o trabalho de toda a minha vida pegará fogo junto com o prédio. E ainda por cima temos que lidar com a fumaça e as brasas do [url=glossary:edict]Edital[/url] de Incêndio."
+
+"Então você vai me perdoar se eu não te levar no oferta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>507</ID>
+      <DefaultText>"Se eu eliminar o [url=glossary:scarlet chorus]Coro Escarlate[/url] e recuperar o Arquivo Silencioso, você se juntará a mim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>508</ID>
+      <DefaultText>Renata lhe dá um olhar confuso. "Sério? Isso não é tarefa fácil, Vinculador do Destino. Eles tomaram o controle do terreno e eu nem sei se você consegue chegar ao Arquivo Silencioso." Ela mastiga o canto da boca, pensando. "Ok. Se você quer fazer isso por nós, o Sábios se juntará a você para lutar contra o [url=glossary:kyros]Kyros[/url]. Não tivemos nada além de dor e destruição nas mãos dos [url=glossary:disfavored]Desfavorecido[/url] e [url=glossary:scarlet chorus]Coro Escarlate[/url] e eu ficaria feliz em retribuir sua gentileza dez vezes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>509</ID>
+      <DefaultText>"Fofa, Vinculador do Destino. Mas me atormentar com a pergunta não vai me fazer mudar minha resposta. Enquanto o [url=glossary:scarlet chorus]Coro Escarlate[/url] controlar a Biblioteca e o Arquivo Silencioso estiver em perigo, ficarei aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>510</ID>
+      <DefaultText>"Vamos falar de outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>511</ID>
+      <DefaultText>"E eu posso ajudá-lo a chegar ileso ao Biblioteca. Um dos meus Sábios escapou do cativeiro e conseguiu voltar aqui com informações sobre onde estão todas as patrulhas deles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>512</ID>
+      <DefaultText>"Ah, e mais uma coisa. O Arquivo Silencioso é o foco do feitiço que está impedindo o Biblioteca de entrar em colapso. Você não pode simplesmente levá-lo de sua casa. Um substituto adequado deve ser colocado em seu lugar. A câmara onde está alojado foi usado como local de armazenamento de artefatos poderosos. Se você pesquisar lá, poderá encontrar algo que possa ser usado para substituir o pergaminho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>513</ID>
+      <DefaultText>"Faça isso por mim e os Sábios estão em dívida com você, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>515</ID>
+      <DefaultText>"Se você tivesse um artefato de poder semelhante, ele poderia ser trocado com o Silencioso Arquivo e o poder do feitiço seria sustentado. Mas simplesmente remover o Arquivo seria desastroso!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>518</ID>
+      <DefaultText>"Isso não é tudo. Eu tenho o Olho do Escrivão para você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>519</ID>
+      <DefaultText>"Fatebinder! Como pude duvidar de você? Obrigada! Agora minha autoridade sobre o Sábios está assegurada. Você me deu esperança de que o Sábios recupere o poder que já teve!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>520</ID>
+      <DefaultText>"Estamos realmente em dívida com você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>521</ID>
+      <DefaultText>[Ataque] "Suficiente disso - sua vida está perdida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>522</ID>
+      <DefaultText>"Não somos criminosos, [url=glossary:sage]Sábio[/url]. Seja o que for que você possa pensar, nós somos os únicos aqui, e você é simplesmente uma obstrução a ser afastada... pela força, se necessário."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>523</ID>
+      <DefaultText>Ela examina Barik com uma expressão confusa. "Fácil para você dizer quando você está tão alto quanto as pilhas da biblioteca. Desça ao meu nível se quiser brigar, seu grande ferro Pináculo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>524</ID>
+      <DefaultText>[Ataque] "Suficiente disso - sua vida está perdida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>525</ID>
+      <DefaultText>Renata olha para onde o jovem [url=glossary:sage]Sábio[/url] desapareceu atrás de um prédio. "Estamos..." Ela faz uma pausa e olha pensativa. "Como é que eu diga isso diplomaticamente? Estamos com poucos funcionários no momento e certos... aspectos do meu dia-a-dia são mais difíceis do que eu esperava."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>528</ID>
+      <DefaultText>Renata faz uma pausa por um momento. "embora eu tem um assunto que gostaria de abordar. Quando o [url=glossary:vellum citadel]Cidadela de Velino[/url] estava sob cerco, por que você achou necessário [url=lore:bl_sirin_song]fodaçar meu companheiro Sábios[/url]? Se eles escaparam, o que havia de tão errado com isso? [url=glossary:kyros]Kyros[/url] teve problemas com o conhecimento que tínhamos armazenado, por que punir seus cuidadores? Especialmente já que eles já estavam temendo por suas vidas!" Ela levanta a mão e balança a cabeça. "Não importa. Não. Não tenho certeza se quero ouvir a resposta. Já tenho problemas suficientes em minhas mãos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>529</ID>
+      <DefaultText>"Os Sábios encarregado do [url=glossary:vellum citadel]Cidadela de Velino[/url] alterou as runas necessárias para desativar a barreira toda semana. Apenas alguns específicos foram informados sobre a sequência real. Eles disseram que era para 'evitar olhos indesejados no cofre'. Digo que é porque eles eram maníacos por controle e gostavam de fazer as pessoas pularem em círculos."
+
+"A senha foi dividida em quatro partes e colocada em prateleiras ao redor do Cidadela. Qualquer pessoa com habilidade suficiente poderia encontrar as runas e decifrar a senha, dizendo a eles como desativar a barreira. É isso que você precisará fazer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>530</ID>
+      <DefaultText>"Infelizmente, na verdade, conseguir o Arquivo Silencioso não será tão fácil quanto entrar e pegá-lo. Está protegido por uma barreira arcana que impede a passagem para a câmara que o contém. Assim que você entrar no Cidadela, você precisará encontrar partes da senha." Ela suspira e balança a cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>531</ID>
+      <DefaultText>"Senha?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>532</ID>
+      <DefaultText>"Por que tenho a sensação de que vou pesquisar muitos livros?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>533</ID>
+      <DefaultText>"Parece que o [url=glossary:edict]Edital[/url] de Incêndio foi quebrado. Pelo menos eu não tenho que lidar com a tosse devastadora causada pela fumaça e cinzas do [url=glossary:edict]Edital[/url] de Incêndio - e aquele calor opressivo! Se você teve uma mão nisso, você tem meus agradecimentos. No entanto, por que um Vinculador do Destino desfaria [url=glossary:kyros]Kyros[/url]' Editals está além de mim. No entanto, não vou recusar um presente tão maravilhoso quando apresentado!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>534</ID>
+      <DefaultText>"Guardas! Estamos sob ataque!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>535</ID>
+      <DefaultText>"Estamos muito ocupados." Ela olha para você incisivamente. "Não apenas estamos tentando recuperar o [url=glossary:burning library]Biblioteca em chamas[/url], há [url=glossary:disfavored]Desfavorecido[/url] se escondendo, metendo o nariz onde não pertencem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>537</ID>
+      <DefaultText>"Primeiro [url=glossary:sage]Sábio[/url] Arwel foi o último a segurar o Olho. Ele não conseguiu sair dos Cidadela níveis mais baixos quando [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] o destruiu. Se não foi devorado pela lava, quase certamente estará em seus restos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>538</ID>
+      <DefaultText>"Primeiro [url=glossary:sage]Sábio[/url] Arwel foi o último a segurar o Olho. Ele não conseguiu sair dos Cidadela níveis mais baixos quando [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] o destruiu. Se não foi devorado pela lava, quase certamente estará em seus restos."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

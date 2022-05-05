@@ -1,0 +1,368 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\vx1_12_lantry\vx1_12_cv_lantryact2complete</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>72</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Podemos continuar vasculhando a área, mas considerando a pequena montanha de pergaminhos que estou carregando, acho que encontramos tudo o que vamos encontrar." Lantry passa a mão por um dos numerosos Crônica volumes encontrados em sua pesquisa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Acho que gostaria... de ouvir o que Lexeme tem a dizer sobre tudo isso. Demorei para aceitar, mas essas mudanças são dela, ela me deve seu raciocínio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Eu só queria... Eu gostaria que Lexeme tivesse falado comigo antes de continuar com essa bobagem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Acho que entendi porque Lexeme insistiu tanto para que um Vinculador do Destino recuperasse esses textos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"O que você pretende fazer com todos esses textos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Você está aceitando todas as 'modificações' do disco?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Deixar] "Notado. Vamos seguir nosso caminho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Não estou colocando dúvidas sobre sua decisão, bom Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Então, não há nenhuma circunstância em que uma 'edição criativa' seja justificada?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Ela violou as leis [url=glossary:kyros]Kyros[/url]' e colocou seus amigos em perigo. Ela convidou sua própria morte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Então você discorda do que ela fez?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Suponho... nada. Eu não vi no começo, mas ela queria que VOCÊ - um Vinculador do Destino - encontrasse essas coisas, não eu. E esse é o detalhe crítico."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Tudo! Ao adulterar trechos do Crônicas, ela põe em dúvida todos os textos que trazem seu roteiro!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Prefiro submeter cada volume da Crônica ao [url=glossary:edict]Edital[/url] de Incêndio do que violar a integridade do projeto!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Há muito poucos que podem ler este Crônica, muito menos encontrar valor nele. E eles não apreciarão a precisão histórica - eles podem até ver isso como ficção..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Então... se algumas vidas podem ser salvas... acho que entendo a lógica."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Sabendo o que ela fez com nosso Chro- quero dizer, o Crônica... Eu me pergunto se ela teria semeado ainda mais engano se fosse deixada viva."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Sou eu que preciso aceitar que ela estava pronta para morrer. Se eu ficasse acordado, sabendo que violei meus votos de veracidade, eu também gostaria de morrer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Sim! Bem, a princípio, sim. Mas eu entendo o que ela estava tentando realizar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"E agora?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Eu sei que ela significou algo para você. Por isso, sinto muito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Talvez devêssemos ter palavras com Mel?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Duvido que Mell tenha participado dessa fabricação, e prefiro que ele ignore do Lexeme miscreance. Já que já estamos omitindo detalhes para um bem maior, por que não mais um?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Apesar de minha fé renovada na precisão histórica, talvez possamos poupar Mel do fardo desse detalhe até que a dor de sua morte seja uma lembrança mais distante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Terei muito trabalho pela frente editando as imprecisões, mas é o tipo de trabalho que gosto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Quando voltarmos ao Pináculo, tenho uma bela noite de tinta, reencadernação e categorização à minha frente. Mal posso esperar!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Vou... honrar Lexeme e sofrer suas modificações no texto. Pelo menos eu conheço a contabilidade verdadeira, e 'As Crônicas Sem Censura' soa como um livro que eu deveria escrever antes de morrer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Certamente houve um tempo em que ela quis dizer tudo, mas..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Você deve me achar um monstro para me ouvir dizer isso... apenas saiba disso... bem, vê-la no estado em que ela estava - incapaz de dormir, incapaz de fazer magia, incapaz de ser ela mesma."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Não me cite sobre isso, mas... talvez seja melhor que ela tenha encontrado a paz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Deixar] "Vamos vá em frente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Mas ela tomou sua decisão." Lantry pigarreia, endurecendo a mandíbula.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"E agora?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Talvez devêssemos ter palavras com Mel?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Eu sei que ela significou algo para você. Por isso, sinto muito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Você deve me achar um monstro para me ouvir dizer isso... apenas saiba disso... bem, vê-la no estado em que ela estava - incapaz de dormir, incapaz de fazer magia, incapaz de ser ela mesma."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Quando voltarmos ao Pináculo, tenho uma bela noite de tinta, reencadernação e categorização à minha frente. Mal posso esperar!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Certamente houve um tempo em que ela quis dizer tudo, mas..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Mas ela tomou sua decisão." Lantry pigarreia, endurecendo a mandíbula.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Não me cite sobre isso, mas... talvez seja melhor que ela tenha encontrado a paz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Meus agradecimentos por entreter este assunto. Eu sei que é tudo um pergaminho velho para você, mas... parece quase meio século de obsessão para mim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Agora estávamos onde estávamos? Ah sim, para sempre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Quando voltarmos ao Pináculo, tenho uma bela noite de tinta, reencadernação e categorização à minha frente. Mal posso esperar!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Essa é exatamente minha preocupação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Acho que esse seria meu eufamismo de escolha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Posso pelo menos apreciar a estratégia. Pode-se, em teoria, alegar que Tiersmen SEMPRE aceitamos [url=glossary:kyros]Kyros[/url] e apontar para estes Crônicas como prova."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Acho que gostaria... de ouvir o que Lexeme tem a dizer sobre tudo isso. Demorei para aceitar, mas essas mudanças são dela, ela me deve seu raciocínio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"E o que você espera ouvir dela?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Acho que posso dizer o que ela vai dizer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>[Deixar] "Concordou, vamos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>O velho [url=glossary:sage]Sábio[/url] olha para você com expectativa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Ela reiteraria que o Escola se foi e as Crônicas agora só podem ajudar os vivos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Sua missiva pediu um Vinculador do Destino para encontrar esses textos. Ela não pretendia envolver você, nem todo o Crônica."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Suponho que ela ficará horrorizada por você ter descoberto os enganos que ela esperava que eu não percebesse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Ela provavelmente lhe dirá que o Crônica nunca foi preciso, então por que começar agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Há sabedoria no que você está dizendo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Esta não seria a primeira vez que inadvertidamente causaria dores de cabeça a ela. Não sou nada se não consistente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"No momento em que ela violou uma passagem Crônica, ela me envolveu! No entanto... você está certo, não é como se ela alterasse sistematicamente cada Crônica já escrito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Bem, você não é um jovem cínico?! Garanto-lhe que o Crônica sempre foi escrito com a mais sincera dedicação a..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"O que estou dizendo? Não é é tolice supor que Lexeme é o PRIMEIRO a cometer mentiras no registro?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Há muito poucos que podem ler este Crônica, muito menos encontrar valor nele. E eles não apreciarão a precisão histórica - eles podem até ver isso como ficção..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Sabendo o que ela fez, é um pouco difícil... desconhecer e ver o Lexema I costumava saber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Quaisquer que sejam suas razões, discordo de como ela adulterou a história. Embora eu duvide que minha discordância seja importante para ela neste momento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Tudo isso parece errado e ainda assim... Eu entendo a intenção do Lexeme. Eu pensei que o Crônica era mais importante que minha própria vida, mas é mais importante que a vida dos outros?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Uma explicação, um pedido de desculpas, talvez. Eu nunca esperei que um Cronista se comportasse assim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Supondo que ela conheça você e seu amor pela verdade, estou esperando um pedido de desculpas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"E não duvido que haja arrependimento, mas ela estaria se desculpando por ter sido pega, já passou da hora dela se desculpar por ter feito algo errado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Você está certo, isso foi uma manobra para enganar o Tribunal, não eu. Eu não tenho que aprovar isso, mas posso... quase apreciar o pensamento dela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Nunca pensei que um colega Crônica se envolveria em uma história tão... criativa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>O velho [url=glossary:sage]Sábio[/url] olha para você com um sorriso de dor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>O velho [url=glossary:sage]Sábio[/url] olha para você com um sorriso de dor.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

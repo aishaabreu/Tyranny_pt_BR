@@ -1,0 +1,203 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\05_cairnplains\05_qst_killhumans</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>39</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Limpe o [url=glossary:stone sea]Mar de Pedra[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Elimine o [url=glossary:scarlet chorus]Coro Escarlate[/url] em [Plainsgate].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Elimine o [url=glossary:disfavored]Desfavorecido[/url] em Santuário de Boca Recortada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Elimine os Earthshakers em Gulfglow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Voltar para Cem-Sangue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Voltar para Cem-Sangue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Voltar para Cem-Sangue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Retornar ao osso-Garra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Retornar ao osso-Garra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Retornar ao osso-Garra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Voltar para Cem-Sangue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Os [url=glossary:stonestalkers]Perseguidores de Pedras[/url] desejam livrar suas terras dos humanos que as invadem. Isso inclui o [url=glossary:scarlet chorus]Coro Escarlate[/url] em Apedrejar e [Plainsgate], o [url=glossary:disfavored]Desfavorecido#[/url] em Santuário de Boca Recortada e o Tremedores de terra na Gulfglow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Mate os [url=glossary:scarlet chorus]Coro Escarlate[/url] que assumiram [Plainsgate].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Despache o esquadrão de [url=glossary:disfavored]Desfavorecido[/url] que está temporariamente acampado em Santuário de Boca Recortada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Remova os Earthshakers que invadiram Gulfglow em busca de cristais considerados sagrados para a tribo [url=glossary:stonestalker]Perseguidor de Pedras[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Relate seus assassinatos para Cem Sangue em Stone Down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Relate seus assassinatos para Cem Sangue em Stone Down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Relate seus assassinatos para Cem Sangue em Stone Down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10023</ID>
+      <DefaultText>Relate suas mortes para Bone-Claw em Stone Down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10024</ID>
+      <DefaultText>Relate suas mortes para Bone-Claw em Stone Down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10025</ID>
+      <DefaultText>Relate suas mortes para Bone-Claw em Stone Down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10033</ID>
+      <DefaultText>Reporte-se a Cem Sangue em Stone Down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Este é agora um objetivo opcional.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Este é agora um objetivo opcional.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Este é agora um objetivo opcional.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Fale com Red-Fang dentro do Pináculo da Aurora para decidir como lidar com o Tremedores de terra em Gulfglow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Sobreviva ao [url=glossary:stonestalkers]Perseguidores de Pedras[/url]' Rito de Selvageria e Pedra. Encontre-se com os Homens-Besta no Círculo da Selvageria em Gulfglow para ser testado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20006</ID>
+      <DefaultText>Você decidiu matar o Tremedores de terra na Gulfglow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>Retorne a Red-Fang para que ela saiba do seu sucesso com o Rito de Selvageria e Pedra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>Retorno ao Basilon fora do Pináculo da Aurora para contar a ele sobre seus novos arranjos pacíficos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Você decidiu matar Red-Fang e o local Homens-Besta em Gulfglow.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Você decidiu matar o [url=glossary:scarlet chorus]Coro Escarlate[/url] e deixar o [url=glossary:disfavored]Desfavorecido[/url] no lugar em Santuário de Boca Recortada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>Você decidiu matar o [url=glossary:disfavored]Desfavorecido[/url] e o [url=glossary:scarlet chorus]Coro Escarlate[/url] em Santuário de Boca Recortada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>Você matou o [url=glossary:disfavored]Desfavorecido[/url], mas deixou o [url=glossary:scarlet chorus]Coro Escarlate[/url] vivo em Santuário de Boca Recortada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você satisfez os requisitos Centenas-Blood para viajar com segurança pelo território [url=glossary:stonestalker]Perseguidor de Pedras[/url] no território [url=glossary:stone sea]Mar de Pedra[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>O jogador falou com Osso-Claw sobre matar os humanos no [url=glossary:stone sea]Mar de Pedra[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Você matou Bone-Claw e não é mais bem-vindo entre os [url=glossary:stonestalkers]Perseguidores de Pedras[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Você traiu seus aliados e não pode mais completar esta tarefa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>A oportunidade de resolver esta tarefa passou.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

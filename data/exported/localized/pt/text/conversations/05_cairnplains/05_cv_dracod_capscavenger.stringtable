@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\05_cairnplains\05_cv_dracod_capscavenger</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Fatebinder! Fatebinder, por favor, esses Bestas nos tiraram das planícies. Eles estão nos segurando contra nossas vontades. É-é apenas uma questão de tempo até que eles nos matem e comam!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Por favor, você está aqui para nos ajudar, não é?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Como membro da tribo [url=glossary:stonestalker]Perseguidor de Pedras[/url], estou deixando você ir. Não volte para Azure a menos que tenha um desejo de morte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Eu uso minha autoridade como líder da tribo [url=glossary:stonestalker]Perseguidor de Pedras[/url] para libertar você. Deixar, rapidamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Os [url=glossary:stonestalkers]Perseguidores de Pedras[/url] concordaram em libertá-lo em pagamento de uma dívida comigo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Desculpe, mas não estou aqui para te libertar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Arcontes sejam louvados! Agradecer você, e mil vezes mais obrigado, Fatebinder! Não esqueceremos o que você fez por nós!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Os [url=glossary:stonestalkers]Perseguidores de Pedras[/url] estão mortos. Você está livre para sair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Vou ver o que posso fazer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Você está livre para ir, o caminho está livre."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

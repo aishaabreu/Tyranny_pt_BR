@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\worldevents\00_wme_courtermaster</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Você vê algumas figuras na estrada bem à sua frente. O brilho do ferro e do bronze os marca como bem armados e blindados. Dois apresentam os ombros largos dos caminhões Homens-fera e conduzem uma carroça pesadamente carregada. À medida que eles se aproximam, você percebe que o padrão voado de seu carrinho possui a heráldica de [url=glossary:tunon]Tunon[/url] o Árbitro, Arconte da Justiça. Eles o saúdam quando você se aproxima.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Você reconhece a mulher que lidera a procissão como uma funcionária menor no serviço de [url=glossary:tunon]Tunon[/url] pelo nome de Alma. Suas roupas carregam o vermelho, preto e dourado do Tribunal, e ela mantém o cabelo castanho claro em um coque cuidadosamente trançado no topo da cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Fale com eles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Continue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Você passa a comitiva e continua em direção ao seu destino.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Vinculador do Destino [Player Name]," ela te cumprimenta com uma reverência. "Eu viajo no serviço Arconte. A carroça atrás de mim está carregada de suprimentos, tudo a um preço razoável. Há algo que eu possa fornecer a você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Comprar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Deixar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Alma sorri. "Claro! Deixe-me mostrar o que tenho." Ela puxa a tampa do carrinho com um floreio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Alma se curva. "Então viagens seguras, Vinculador do Destino. Saudação [url=glossary:kyros]Kyros[/url]!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>À sua frente, na estrada, você vê a carroça de Alma, uma fornecedora da quadra de [url=glossary:tunon]Tunon[/url], acompanhada por seus guardas e dois Homens-fera transportadores conduzindo uma carroça. Ela te saúda quando você se aproxima.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Vinculador do Destino [Player Name]! Isso é é sempre um prazer vê-lo." Alma se curva profundamente. "Meu carrinho está cheio de suprimentos da quadra. Quer examiná-los?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\06_endgame\06_cv_gravenashe_death</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Mas eu unifiquei o Camadas e desejo servir [url=glossary:kyros]Kyros[/url] pacificamente - por que o soberano desejaria mais matança?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Temer... esse movimento cheira a [url=glossary:kyros]Kyros[/url]' medo. Você tem o poder dele do [url=glossary:edict]Edital[/url], toda a lealdade em seu coração não pode mudar o fato de que... do ponto de vista [url=glossary:kyros]Kyros[/url]', você é menos um dor de cabeça morta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Renda-se ao soberano e reafirme sua fidelidade se você realmente deseja servir. Grite do seu Pináculo - isso deve chamar a atenção de todos. Mas tenha cuidado com o que [url=glossary:kyros]Kyros[/url] tem reservado para você se conseguir a paz desejada."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

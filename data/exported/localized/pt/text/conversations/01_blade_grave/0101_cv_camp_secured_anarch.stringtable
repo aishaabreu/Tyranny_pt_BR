@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\0101_cv_camp_secured_anarch</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Nenhum [url=glossary:unbroken]ininterrupto[/url] permanece no forte do necrófago. Elia e seus soldados conseguiram fugir para o norte - provavelmente em uma tentativa de escapar dos cânions.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Ainda há tempo de persegui-la antes que ela parta, levando todo o conhecimento de Robusto artefatos com ela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Vamos rastrear esses [url=glossary:unbroken]ininterrupto[/url] até a próxima toca. Eu arrisco que eles foram para o norte, a única rota de fuga deixada aberta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Se os [url=glossary:unbroken]ininterrupto[/url] gostam tanto de virar as costas, não é de admirar de onde eles tiram sua reputação."
+
+"Vamos rastreá-los para o norte. Aposto que estão tentando escapar do desfiladeiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Tanto para ter uma conversa amigável com os habitantes locais. Há trilhas que levam ao norte - devemos segui-las antes que a trilha seja apagada pela tempestade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Acho que é o último da guarnição. A capitã não está entre os corpos - ela provavelmente fugiu para o norte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Todos os [url=glossary:unbroken]ininterrupto[/url] aqui estão mortos. Todos os outros provavelmente fugiram para o norte enquanto estávamos lutando. Covardes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Abateu todos os [url=glossary:unbroken]ininterrupto[/url] em den-fort. Exceto pelo Alfa da matilha que fugiu para o norte com medo. É hora de caçar, sim-sim? É hora de perseguir, rasgar e mutilar." Ela agita suas garras e sorri sombriamente em antecipação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Nó aleatório10</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

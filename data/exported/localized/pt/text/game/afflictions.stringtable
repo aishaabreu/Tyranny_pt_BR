@@ -1,0 +1,903 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>game\afflictions</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>179</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>[url=glossary:stunned]Atordoado[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[url=glossary:edict]Edital[/url] de Tempestades</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>As tempestades de ferrugem uivando pelo [url=glossary:blade grave]Sepultura de Lâminas[/url] reduzem um pouco sua visibilidade, mas concedem bônus aos seus ataques à distância. Ataques à distância inimigos são impedidos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Ferido</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Escudo enganchado</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[url=glossary:prone]Propenso[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[url=glossary:hobbled]Mancando[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Memória da Guerra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Retardado</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Flanqueado</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[url=glossary:burning]Queimando[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[url=glossary:dazed]Atordoado[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Extensão excessiva</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[url=glossary:bleeding]Sangramento[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Veneno: Fluxo Sangrento</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Asfixia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Encharcado</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[url=glossary:enraged]Enfurecido[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[url=glossary:frightened]Assustado[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[url=glossary:drowning]Afogamento[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[url=glossary:blinded]Cego[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[url=glossary:bleeding]Sangramento[/url]!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[url=glossary:blinded]Cego[/url]!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[url=glossary:burning]Queimando[/url]!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Asfixia!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[url=glossary:dazed]Atordoado[/url]!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[url=glossary:frightened]Assustado[/url]!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[url=glossary:hobbled]Mancando[/url]!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Os ventos de [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] enchem o ar com nuvens espessas de ferrugem das armas e armaduras decadentes que cobrem o chão. Sem vento natural, dificulta todos os seus movimentos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[url=glossary:edict]Edital[/url] de Execução</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>O Senhor Supremo decretou que todos no vale em [url=glossary:kyros]Kyros[/url]' Dia de Espadas devem morrer a menos que [url=glossary:kyros]Kyros[/url]' representante mantenha [url=glossary:ascension hall]Salão da Ascensão[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Encharcado!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>[url=glossary:suspended]Suspenso[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[url=glossary:suspended]Suspenso[/url]!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>--CORTAR--</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[url=glossary:frozen]Congeladas[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>[url=glossary:frozen]Congeladas[/url]!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Buff Cristal Azul!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Lustre de Cristal Verde!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Lustre de Cristal Laranja!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Lustre de Cristal Roxo!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Lustre de Cristal Vermelho!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Lustre de Cristal Amarelo!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Aumento de dano</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Aumento de dano!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[url=glossary:paralyzed]Paralisado[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>[url=glossary:paralyzed]Paralisado[/url]!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[url=glossary:confused]Confuso[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[url=glossary:confused]Confuso[/url]!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Bônus de subida de nível</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Subir de nível!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[url=glossary:weakened]Enfraquecido[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[url=glossary:weakened]Enfraquecido[/url]!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>A chuva torrencial que assola a terra aumenta o poder dos feitiços Choque e diminui a eficácia dos feitiços Incêndio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[url=glossary:petrified]Petrificado[/url]!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[url=glossary:petrified]Petrificado[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[url=glossary:poisoned]envenenado[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[url=glossary:poisoned]envenenado[/url]!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[url=glossary:degenerating]Degeneração[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[url=glossary:degenerating]Degeneração[/url]!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[url=glossary:asleep]Dormindo[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[url=glossary:asleep]Dormindo[/url]!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Ventos uivantes ecoam pelos cânions do [url=glossary:stone sea]Mar de Pedra[/url], enlouquecendo o Homens-fera com os ecos constantes. O movimento torna-se difícil para todos na área e as defesas são reduzidas para os inimigos. O Fatebinder se beneficia de um aumento de [url=glossary:dodge]Desviar[/url] e [url=glossary:parry]Defesa[/url] durante a tempestade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Chuva de ácido corrosivo cai do céu. Todos os personagens têm sua armadura reduzida e têm dano elementar caótico adicionado aos seus ataques. O grupo ganha um efeito de dano corrosivo em seus ataques, enquanto os inimigos têm suas armas corroídas, reduzindo o dano de ataque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[url=glossary:edict]Edital[/url] de Incêndio</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Pequenas poças de lava e magma derretido começam a espreitar da terra quebrada e ao redor da terra. Armadilhas de lava volátil ameaçam a área. O grupo recebe uma redução para Incêndio de dano e todos os personagens têm sua habilidade mágica aumentada. Bane na área são empoderados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Um deserto exaustivo como o calor murcha a região e seca todas as fontes naturais de água. Todos os personagens têm sua habilidade mágica aumentada. O Fatebinder party também cura uma parte do geada dano recebido e os consumíveis são muito mais eficazes. Os inimigos se tornam [url=glossary:fatigued]Cansado[/url] e têm uma penalidade de [url=glossary:quickness]Rapidez[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Jatos de vapor saem periodicamente de bolsões porosos na terra e desfiladeiros da região. Rios, lagos e outras fontes de água são aquecidos a uma temperatura próxima à ebulição. Todos os personagens têm seus [url=glossary:resolve]Determinação[/url] penalizados e suas habilidades mágicas aumentadas. Bane na área se torna mais poderoso e as aflições causadas pela festa Fatebinder duram mais. Água e vapor queimam aliados e inimigos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Cinzas negras e fiapos de minúsculas brasas alaranjadas espalham-se pelo ar, flutuando sem rumo e à deriva. Todos os personagens da região estão imbuídos de um aumento na habilidade mágica e um aumento maior na habilidade Magia de Fogo. O grupo recebe um aumento de Queimar de dano que é causado e todos os ataques corpo a corpo de membros do grupo aplicam uma pequena quantidade de Queimar de dano.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[url=glossary:edict]Edital[/url] de Pedra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Uma maldição de pedra assola a região. Sangue, a carne e a natureza começam a endurecer com o tempo, causando petrificação e movimento lento. O [url=glossary:edict]Edital[/url] diminui a potência da magia na área e enfraquece o Maldito.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Tremores e terremotos assolam a região. Ruídos e deslocamentos periódicos fazem com que os personagens caiam [url=glossary:prone]Propenso[/url] em combate. Todos os personagens têm a habilidade Magia de Pedra aumentada. O grupo ganha um aumento para [url=glossary:prone]Propenso[/url] defesa, enquanto os inimigos têm [url=glossary:prone]Propenso[/url] durações aumentadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>[url=glossary:edict]Edital[/url] de Maldição</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>equilíbrio dos destinos é alterado para todos aqueles dentro da região. O grupo ganha um bônus em todas as habilidades, Pastar [url=glossary:precision]Precisão[/url] e Hit [url=glossary:precision]Precisão[/url]. Os inimigos têm uma penalidade em todas as habilidades e uma parte de seus acertos críticos são convertidos em acertos e acertos são convertidos em arranhões.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[url=glossary:edict]Edital[/url] de Anoitecer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>A escuridão assola a região, independentemente da hora do dia. O grupo ganha um bônus para [url=glossary:subterfuge]Subterfúgio[/url] e dano. Enquanto os inimigos recebem uma penalidade no alcance de percepção e [url=glossary:accuracy]Precisão[/url]. Os inimigos também são [url=glossary:blinded]Cego[/url] no início do combate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Bônus de descanso do pináculo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>--CORTAR--</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>--CORTAR--</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>--CORTAR--</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>--CORTAR--</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Rendido!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Rendido</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>[url=glossary:terrified]Aterrorizado[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[url=glossary:terrified]Aterrorizado[/url]!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Inquieto</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Inquieto!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Vínculo rompido!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Extensão excessiva!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>[url=glossary:stunned]Atordoado[/url]!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>[url=glossary:drowning]Afogamento[/url]!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[url=glossary:enraged]Enfurecido[/url]!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>[url=glossary:prone]Propenso[/url]!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Desarmar escudo!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Feridos ([url=glossary:wounds]Ferimentos[/url] são limpos em repouso)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>[url=glossary:taunted]Provocado[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>[url=glossary:taunted]Provocado[/url]!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>[url=glossary:rooted]Enraizado[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>[url=glossary:rooted]Enraizado[/url]!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>[url=glossary:disarmed]Desarmado[/url]!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[url=glossary:sundered]Separado[/url]!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[url=glossary:silenced]Silenciado[/url]!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Carregar erradicar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Ferido!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Laço de Sangue</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Empoderado!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>O Sangramento</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>O Sangramento!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>[url=glossary:fatigued]Cansado[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>[url=glossary:fatigued]Cansado[/url]!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>[url=glossary:marked]Marcado[/url]!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Fé Abalada</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Fé Abalada</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>[url=glossary:burning]Queimando[/url] (Magia)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>[url=glossary:magefire]Magefire[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>[url=glossary:magefire]Magefire[/url]!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>O ninho</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>Bônus de descanso de espada ou bainha</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Porta com vazamento</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Lethiano sujo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Contornando as ruínas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Violação de Oldwalls</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Fluxo do Tidecaster</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>[url=glossary:quality alone time]Tempo Sozinho de Qualidade[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Flagelo Roxo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Bônus de descanso da amante de Lethian</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Delícia de Earthshaker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Vendrien Swell</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>O Juramento</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Novato [url=glossary:sage]Sábio[/url] no [url=glossary:burning library]Biblioteca em chamas[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>[url=glossary:magefire]Magefire[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Erradicar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>{0} ganhou uma ferida! ({1}total)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>[url=glossary:spell breached]Feitiço quebrado[/url]!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Retardado!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>[url=glossary:arcane infused]Infundido Arcano[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>[url=glossary:battle readied]Batalha Preparada[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>[url=glossary:focused]Focado[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>[url=glossary:inspired]Inspirado[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>[url=glossary:invigorated]Revigorado[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>[url=glossary:joyful]Alegre[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>[url=glossary:refreshed]Atualizado[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>[url=glossary:toughened]Endurecido[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>[url=glossary:virile]Viril[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>[url=glossary:well-fed]Bem-alimentado[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>[url=glossary:broken rib]Costela quebrada[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>[url=glossary:bruised spine]Coluna Machucada[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>[url=glossary:concussion]Concussão[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>[url=glossary:diseased]Doente[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>[url=glossary:exhaustion]Exaustão[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>[url=glossary:fractured arm]Braço fraturado[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>[url=glossary:fractured jaw]Mandíbula fraturada[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>[url=glossary:fractured leg]Perna Fraturada[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>[url=glossary:lacerations]Lacerações[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>[url=glossary:dysentery]Disenteria[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Aumenta o Acerto Crítico dano em 300%.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Aumenta o dano recebido sempre que o alvo é danificado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Cada vez mais ganha uma penalidade para [url=glossary:lore]Conhecimento[/url] e [url=glossary:athletics]Atletismo[/url] ao longo do tempo durante o combate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>A eficácia da poção é reduzida em 100%. Ser nocauteado faz com que Aliados próximo se torne [url=glossary:diseased]Doente[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Ser reduzido abaixo de 75%, 50% e 25% Porcentagem de Saúde causará uma longa interrupção.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Cada vez mais ganha uma penalidade para [url=glossary:recovery]Recuperação[/url] ao longo do tempo durante o combate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>Reduziu o alcance de todas as habilidades e ataques em 50%</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>Reduz AoE tamanho em 50%. Quando abaixo de 50% [url=glossary:health]Saúde[/url], todas as defesas contra feitiços são penalizadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Mover-se durante o combate reduz Max [url=glossary:health]Saúde[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Causa um dano bruto ao longo do tempo sempre que o alvo for danificado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>+30 [url=glossary:magic defense]Defesa Mágica[/url]. Lança um AoE habilidade quando o alvo é [url=glossary:crit]Crítico[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>+2 [url=glossary:armor]armaduras[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>+5% [url=glossary:precision]Precisão[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>+2 [url=glossary:wits]Inteligência[/url], +2 [url=glossary:finesse]Sutileza[/url] e +2 [url=glossary:resolve]Determinação[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Cura 2% Max [url=glossary:health]Saúde[/url] a cada 3 segundos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>+20 [url=glossary:accuracy]Precisão[/url] quando acima de 75% [url=glossary:health]Saúde[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>-20% [url=glossary:recovery]Recuperação[/url]Tempo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>+2 [url=glossary:might]Força[/url]. +2 [url=glossary:quickness]Rapidez[/url]. +2 [url=glossary:vitality]Vitalidade[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Imune à primeira aplicação de um [url=glossary:affliction]Aflição[/url] durante o combate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>+30 Resistência. +25% Eficácia da Poção.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>A prática prolongada por si mesmo aumentou sua habilidade com uma arma de uma mão e fortaleceu seu coração.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Traição da Sombra</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

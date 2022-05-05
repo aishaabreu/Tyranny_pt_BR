@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\00_recruits\00_bs_spireupgrade_workers</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ainda não criei coragem para viajar entre os Pináculos, mas ouvi dizer que você pode cruzar os Tiers em um mero momento!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Temos ouvido rumores sobre o caos que você está começando abaixo. Eu digo continue assim, se você me perguntar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"A chuva de fogo e cinzas do Terrenos Contestados parou, eu me pergunto o que poderia ter acontecido?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"A tempestade de ferrugem está soprando há tanto tempo que eu tinha esquecido como Robusto realmente era."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Os ventos fazem um pouco de frio aqui em cima, mas a vista compensa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Fiquei doente na primeira vez que usei o teletransportador, acho que nunca vou me acostumar com isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ocasionalmente, víamos um grande pedaço de terra descer para o [url=glossary:stone sea]Mar de Pedra[/url], mas já não o vemos há algum tempo. O [url=glossary:edict]Edital[/url] pode estar quebrado?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Você não teria mais esses elmos mágicos por aí?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Esse escudo pode cheirar um pouco, mas parece tão puro quanto no dia em que foi feito!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Não posso acreditar nos meus olhos, pensei que a Audácia fosse um mito! "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Há muito mais para descobrir sobre o nosso mundo. Graças a você, temos a chance de fazer exatamente isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>game\reputationchangereasons</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>995</ID>
+      <DefaultText>Sua [url=glossary:vendrien guard]Guarda Vendrien[/url] os aliados ficam felizes em vê-lo menosprezar Barik.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>996</ID>
+      <DefaultText>Eb acha sua devoção a [url=glossary:kyros]Kyros[/url] inquietante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1014</ID>
+      <DefaultText>Você demonstrou lealdade a [url=glossary:kyros]Kyros[/url] diante da Soberano segunda invasão do Camadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1015</ID>
+      <DefaultText>Você respondeu à Soberano segunda invasão do Camadas com arrogância desenfreada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1016</ID>
+      <DefaultText>Você expressou uma ingenuidade preocupante diante da [url=glossary:kyros]Kyros[/url]' segunda invasão do Camadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1017</ID>
+      <DefaultText>Você respondeu à Soberano segunda invasão do Camadas ativando [url=glossary:kyros]Kyros[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

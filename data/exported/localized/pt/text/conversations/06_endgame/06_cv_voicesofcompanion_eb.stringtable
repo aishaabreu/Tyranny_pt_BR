@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\06_endgame\06_cv_voicesofcompanion_eb</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Você... eu deveria saber que eram todas as correntes dentro das correntes. O que você quer agora?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Você está sobrevivendo à mudança?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Espero que você entenda por que fiz isso com você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Como é lá dentro?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"De uma espécie. Eu ainda sou eu e não nós... essa frase faz muito sentido, garanto. Meu fluxo de pensamentos flutua até o topo - não é diferente de água fresca flutuando no mar salobro. Embora eu não possa silenciar o que estou ouvindo, parece que esse corpo... esse enxame... não age sem minha ordem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Oh, entendemos, entendemos mais do que você! À luz da soma total dos fatos, você tinha poucas outras opções. Caminhe em um canto e as únicas opções que você deixou são dignas de ratos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Finalmente estamos reconectados. Conheço meus antigos mentores mais de perto do que os conhecia em vida. Curiosamente, não há mistérios ou segredos... a comunhão é ao mesmo tempo estressante, dolorosa e feliz. Se você pudesse conhecer seus entes queridos tão de perto..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Deixar]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ah, eu entendo, mas meu perdão levará décadas... considerando o que aconteceu, isso parece caridoso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Nada menos que um feriado feliz... gritos de memórias atormentadas, visões de chacinas centenárias, ecos de tramas e planos... a cada momento eu aprendo outra coisa que odeio... se a ignorância é felicidade, eu irei nunca mais conhecerei a alegria."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,643 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\05_cairnplains\05_cv_go_basilon</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>123</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Você tem um timing impecável, pois parece que nos enredamos em um estrondo bastante sangrento com o Homens-fera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Uma briga com as Feras? Todos os Earthshakers são tão cavalheiros?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Ele suspira pesadamente, tocando uma mão na parte de trás de sua cabeça. "Suponho que a labuta da guerra começa a se desgastar depois de um tempo. Permita-me explicar melhor nossa situação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Contratamos um catador local para nos mostrar onde ele havia visto uma alta concentração de filões de cristal - assim ele nos levou até aqui. No início, os Homens-fera foram receptivos aos nossos pedidos, mas logo após o início de nossas escavações, eles ficaram furiosos. Aparentemente, estamos 'roubando de seus ancestrais' ou alguma tolice."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Nós não estaríamos aqui no meio de - [url=glossary:kyros]Kyros[/url] só sabe - se não fosse totalmente necessário. Veja, os filões Azurelith nesta região são incrivelmente importantes. Eles são o que atraiu [url=glossary:cairn]Cairn[/url] de suas ordens de campanha no [url=glossary:stone sea]Mar de Pedra[/url] para começar, e suas propriedades de refração nos permitirão amplificar a velocidade de fase de sua energia restante. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Há o que parece ser uma líder entre eles, Presa Vermelha, mas ela recuou para o Pináculo antes que eu pudesse trazê-la à razão. Agora estamos presos em um impasse cruel, e estou hesitante sobre como proceder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Já tenho negócios com o Homens-fera aqui. Não faça nada até eu falar com eles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Bem recebido em seu retorno, Vinculador do Destino. Eu ficaria em dívida com você se você pudesse nos ajudar com nosso problema."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Excelente, Vinculador do Destino. Seja rápido sobre isso se você puder. Não posso dizer que as tribos tenham uma reputação de paciência... e gostaria de evitar conflitos se possível."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Nós vamos, Vinculador do Destino, você certamente tornou mais fácil para nós selecionarmos os cristais que precisamos. Você prestou um grande serviço à guilda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Agora, se você me der licença, devemos terminar nossa escavação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Obrigado novamente por sua ajuda neste caso, Vinculador do Destino. Agora podemos terminar com segurança a escavação Azurelith. Você prestou um ótimo serviço à nossa pesquisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Bem recebido em seu retorno, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Eu ganhei posição com os Homens-fera e os convenci a deixar você ficar com os cristais que você extraiu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Esta é uma excelente notícia, Vinculador do Destino. Vamos terminar de escavar os filões Azurelith com grande pressa. Garanto que não faremos nenhum desserviço aos seus Homens-fera irmãos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Certifique-se de que não."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Bem recebido em seu retorno, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Agora sou o líder do Homens-fera e negociei seu direito aos cristais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Bem recebido em seu retorno, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Você tem um fragmento de puro Azurelith. E eu pretendo levar. Passe-me o cajado, Earthshaker, e nenhum mal lhe acontecerá."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Te entrego meu cajado? Por que, então você pode usá-lo para estragar um feitiço de terra?" Ele estuda você com um olhar carrancudo. "Ameaçar mim de novo, e você será o único que vai se machucar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Ataque] "Você não entendeu. Não foi uma sugestão nem uma escolha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Deixar] "Já estou indo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Tudo que vocês fazem parece resultar em violência."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"E com isso você quer dizer Earthshakers ou [url=glossary:disfavored]Desfavorecido[/url]? Porque confie em mim, Vinculador do Destino, se minha guilda pudesse obter o que precisamos sem derramamento de sangue, seguiríamos ansiosamente esse caminho. Mas os homens-fera nos deixou pouca escolha no assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Eu gosto de uma boa batalha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Você tem um fragmento de puro Azurelith - e eu pretendo pegá-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Deixar] "Esse soa como um problema de sua causa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Então eu ficaria feliz em tê-lo do nosso lado. Embora, prefiro chegar a um entendimento sem mais derramamento de sangue, vou pegar o Azureliths à força se o empurrão chegar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Você não está do lado do Homens-fera, está? Porque isso seria decepcionante, de fato, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Rumble?" Ela coça as costelas e boceja. "[url=glossary:stonestalkers]Perseguidores de Pedras[/url] não faça barulho. [url=glossary:stonestalkers]Perseguidores de Pedras[/url] abate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Não tenho piolhos. E mulheres-feras caça a presa com estratagema e forma. Entenda quando obedecer e quando recusar ou morder. [url=glossary:disfavored]Desfavorecido[/url] só sobrevivem porque as tribos ainda não estão caçando armaduras. Mas em breve chegará a temporada de derramamento de sangue de ferro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Feras sempre serão superadas pelo treinamento superior. Isso não é uma opinião - é um fato da natureza. Sua criatura média cheia de piolhos não tem noção de formação ou obediência total."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Nó em cascata 39</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Falta paciência? Humanos enxame e zumbido em Mulheres-feras como moscas cadáveres. É natural que Mulheres-feras esmague essas pragas irritantes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Alfa, se a matilha vai derramar sangue, deve ser sangue de místicos da terra, não Mulheres-feras, sim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Voltar para baixo] "Suae certo. Perdoe minha grosseria."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Bem recebido em seu retorno, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Ouvi dizer que você empunha um cajado equipado com puro Azurelith. Como faço para colocar isso delicadamente... Entregue ou morra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Nó de script 47</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"O que aconteceu? Se eu estou para interceder, preciso que você não poupe detalhes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Sim. Permita-me explicar melhor nossa situação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Devo matá-los para você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Se eles não ouvirem a razão, o que mais podemos fazer? Não podemos realizar o ritual sem as magnetitas - o que significa que não posso retornar a Radix Mestre sem um suprimento suficiente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Vou falar com Red-Fang e trazê-la à razão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Com os olhos arregalados, ele levanta o cajado para se defender.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Radix temia que você pudesse ter sido derrubado pelo Bestas desta região. Você tem o Azurelith necessário para o ritual?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Alguns, mas não o suficiente. Precisaremos de várias outras classificações mais puras se quisermos amplificar com sucesso a velocidade de fase da energia restante de [url=glossary:cairn]Cairn[/url] durante o ritual."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Não temos tempo para diplomacia. Vou matá-los para que possamos colher o Azurelith livremente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Se eles não ouvirem a razão, o que mais podemos fazer? Terei os Azurelith espécimes de que preciso, de uma forma ou de outra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Ele aperta os olhos para você, de repente pouco à vontade. "Por acaso, você não é o Fatebinder que está alinhado com o [url=glossary:scarlet chorus]Coro Escarlate[/url], é?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[Mentira] "Claro que não."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Por que sim, estou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Ele empalidece visivelmente, mas permanece firme. "Você deve saber que os Earthshakers nem sempre estão de acordo com nossos [url=glossary:disfavored]Desfavorecido[/url] supervisores. Por favor, entenda que ao invés de fazer guerra, estamos aqui em circunstâncias escolares."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Ele balança a cabeça, seguro. "Eu tinha ouvido rumores de um certo boato..." Ele limpa a garganta. "Como eu presumindo que você esteja viajando em sua capacidade oficial como árbitro do Tribunais, permita-me explicar completamente nossa situação atual."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Asseguro-lhe que não estaríamos aqui se não fosse totalmente necessário. Veja, os filões Azurelith nesta região são incrivelmente importantes. Eles são o que atraiu [url=glossary:cairn]Cairn[/url] de suas ordens de campanha no [url=glossary:stone sea]Mar de Pedra[/url] para começar, e é absolutamente imperativo que estudemos o efeito de suas propriedades refrativas em aplicações arcanas. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>[Cortou sua garganta.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Olhos e boca abertos em choque, ele agarra sua garganta devastada com as duas mãos, gorgolejando enquanto cai de joelhos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Isadora planeja realizar o [url=lore:Ritual_of_All_Stones]Ritual de todas as pedras[/url] para fortalecer a guilda. Precisamos da mais pura clareza de Azurelith que você tem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Então ela realmente vai acabar com ele? E raiz aprova isso?" Ele dá um passo para trás, claramente abalado. "Eu tenho alguns, mas não o suficiente. Precisaremos de várias outras classificações mais puras se quisermos amplificar com sucesso a velocidade de fase da energia restante de [url=glossary:cairn]Cairn[/url] durante o ritual."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Diga ao seu Tremedores de terra para se afastar e me deixe falar com Presa Vermelha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Vou ficar com meus Earthshakers por enquanto. Mas eu exorto você a agir rapidamente. Não posso dizer que as tribos tenham fama de paciência... E terei os Azurelith espécimes de que preciso, de uma forma ou de outra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"O que isso significa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Amplificar sua energia restante? Considerando no estado em que ele está, isso não arriscaria matá-lo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>O Abanador de Terras bate os dedos no cabo lascado de seu cajado e olha para o lado, claramente agitado. "Eu divaguei, mas isso não é para você se preocupar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>[Ataque] "Prefiro matar você agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Montanhas, tenham piedade!" Ele tropeça um passo para trás. "Eu deveria saber!"
+
+Com um grito trêmulo, ele ergue seu cajado para atacar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[Deixar] "Bom sorte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Cortou sua garganta.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Olhos e boca abertos em choque, ele agarra sua garganta devastada com as duas mãos, gorgolejando enquanto cai de joelhos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Se eles não ouvirem a razão, o que mais podemos fazer? Terei os Azurelith espécimes de que preciso, de uma forma ou de outra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Se não fosse por mim, o [url=glossary:stonestalkers]Perseguidores de Pedras[/url] teria matado você e toda a sua equipe de escavação. Você me deve, Earthshaker."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Ele suspira, muito incomodado com a ideia, mas levanta as mãos bronzeadas e desgastadas para acalmá-lo.
+
+"Multar. Acho que posso substituí-lo, com tempo e sorte suficientes. Mas é melhor tratá-lo com cuidado, Vinculador do Destino. Azurelith de tal pureza e ressonância é um achado raro e valioso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Preciso de um fragmento de puro Azurelith. Isso não seria um no final de sua equipe, seria?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Seria." Ele olha para você com curiosidade. "Mas por que eu apenas lhe entregaria meu cajado? Suponho que você poderia usá-lo para sacudir algumas pedrinhas, mas você não é um Earthshaker. Você não pode querer usá-lo para um feitiço de terra maior?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Pegue. E pelo amor de [url=glossary:cairn]Cairn[/url], não me faça me arrepender disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Este fragmento também é de qualidade inferior. Se eu não encontrar um substituto adequado, Radix terá meu couro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Agora me resta apenas o pequeno problema de como transportar rapidamente nossos espécimes abatidos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Obrigado novamente por sua ajuda neste caso, Vinculador do Destino. Você prestou um ótimo serviço à nossa pesquisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Ah, e se você estiver voltando para Rocha Uivante, você poderia levar esta caixa de puros Azurelith espécimes com você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Se você estiver voltando para Rocha Uivante antes de nós, você pode levar esta caixa de puros Azurelith espécimes com você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Eu negociei uma trégua com o [url=glossary:stonestalkers]Perseguidores de Pedras[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Sim. Este é um rendimento excepcional e nos servirá bem para o ritual."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Esta é uma excelente notícia, Vinculador do Destino. Presumo que possamos continuar escavando os Azurelith filões em busca de espécimes puros?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Não exatamente. Os Homens-Besta não o prejudicará, mas apenas se você sair rapidamente e levar consigo apenas os cristais que já colheu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Você pode. Se você quer ser eviscerado pela própria Red-Fang."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>O Abanador de Terras empalidece visivelmente. "Vou informar aos outros que eles devem começar a fazer as malas para a partida, imediatamente. Claro, vai levar algum tempo, mas vamos retirar com apenas os cristais que já colhidos... assim que for possível."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Não é o ideal, mas acho que é melhor do que o esperado. Começaremos nossos preparativos para retornar a Rocha Uivante com grande pressa. Garanto que não prejudicaremos os termos do nosso contrato."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Certifique-se de que sim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Não posso dizer que estou entusiasmado com os termos que você nos apresentou, Vinculador do Destino, mas posso concordar com eles. Começaremos os preparativos para partir com grande pressa e levaremos conosco apenas os cristais que já colhemos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Vai levar algum tempo para lidar com a logística, mas assim que pudermos, retiraremos para Rocha Uivante. Garanto que não faremos nenhum desserviço aos seus Homens-fera irmãos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Acho que o Bestas não será muito paciente conosco enquanto tentamos nos despedir...?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Bem atendido, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Ele dá de ombros e olha para longe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Não vou dizer que gosto da ideia de um Vinculador do Destino que apoia abertamente a agenda de um grupo totalmente deplorável como o [url=glossary:scarlet chorus]Coro Escarlate[/url] - mas tempos desesperados exigem medidas desesperadas. Eu mal posso voltar para Rocha Uivante de mãos vazias sem incorrer na ira de nossos [url=glossary:disfavored]Desfavorecido[/url] supervisores." Ele limpa a garganta, aparentemente reforçando o pouco senso de coragem que ele tem. "Não nos cause problemas - ou melhor ainda nos ajude - e prometo que farei o mesmo por você, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>[Dar de ombros]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Certo, por que não."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"O que eu ganho com isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"O que há nisso - !? Ah, claro." 
+
+Ele olha para o lado, claramente debatendo suas opções. Enquanto ele coça pensativamente sob o queixo, seus olhos lentamente seguem para o fragmento luminoso de Azurelith encaixado no topo de seu cajado. É um exemplar espetacular.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Eu detesto me separar dela, mas certamente há outros espécimes de qualidade semelhante a serem encontrados... se ao menos pudéssemos continuar nossos esforços de escavação..."
+
+Com um suspiro profundo, ele acena uma vez, decidido. "Vou trocar com você meu fragmento de Azurelith. É extremamente raro e de extrema qualidade. Bem puro mesmo. No entanto, você escolhe utilizá-lo, é claro, é de sua própria conta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"O que eu ganho com isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"O que há nisso - !? Ah, claro." 
+
+Ele olha para o lado, claramente debatendo suas opções. Enquanto ele coça pensativamente sob o queixo, seus olhos lentamente seguem para o fragmento luminoso de Azurelith encaixado no topo de seu cajado. É um exemplar espetacular.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Eu detesto me separar dela, mas certamente há outros espécimes de qualidade semelhante a serem encontrados... se ao menos pudéssemos continuar nossos esforços de escavação..."
+
+Com um suspiro profundo, ele acena uma vez, decidido. "Vou trocar com você meu fragmento de Azurelith. É extremamente raro e de extrema qualidade. Bem puro mesmo. No entanto, você escolhe utilizá-lo, é claro, é de sua própria conta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Tudo bem. Parece valioso o suficiente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Isso é tudo que você tem?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Eu dificilmente ofereceria se não fosse! Vocêe claramente não tenho ideia de como isso é valioso para mim."
+ 
+Ele fica furioso, mas não diz mais nada, você percebe, embora descontente, ele está aguardando sua decisão sobre o Homens-fera.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Ele acena com a cabeça, parecendo simultaneamente aliviado e nervoso. Quando ele não diz mais nada, você percebe que ele está aguardando sua decisão sobre o Homens-fera.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>[Deixar] "Pensando bem, não estou interessado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Suponho que você quer que eu os mate para você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Ele fica em silêncio, parecendo desajeitado como se esperasse, ou melhor, agora esperasse que você fosse embora. Ele mexe com seu bastão focal, cavando o cabo no chão. Suas bochechas coram e, finalmente, ele suspira audivelmente.
+
+"Ah, tudo bem. Eu prometi a você. Aqui, pegue o fragmento explodido - muito bem, fará um mago não-terra como você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Foi um prazer ajudá-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>[Sorri maliciosamente.] "Não preocupe-se com isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Ah, eu vou." Ele franze a testa. "Acreditar eu, eu vou Vinculador do Destino. Agora, se você me der licença, tenho alguns preparativos de viagem para atender."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Da mesma maneira. Na maioria das vezes. Agora, se você me der licença, tenho alguns preparativos de viagem para atender."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Da mesma maneira. Na maioria das vezes. Agora, se me dá licença, tenho um currículo de escavação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Oh, obrigado [url=glossary:cairn]Cairn[/url]." Uma enxurrada de alívio devolve um pouco de cor às suas bochechas. Ele acena fervorosamente antes de gaguejar adiante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Não-não. Só é decepcionante quando Alfa não permite que Mulher-Besta mate livremente místicos da terra irritantes."
+
+Ela sorri amplamente e faz um show lambendo as pontas de suas garras.
+
+"Mas mata-in-Shadow pode esperar ."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Preciso de um fragmento de puro Azurelith. Isso não seria um no final de sua equipe, seria?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Você tem um fragmento de puro Azurelith. E eu pretendo levar. Passe-me o cajado, Earthshaker, e nenhum mal lhe acontecerá."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Ele inclina a cabeça para o lado, pensativo. "Enquanto eu agradeço a gentil avaliação, Vinculador do Destino, não tenho certeza se consideraria nosso transporte muito mais do que insuficiente devido à natureza coagida de nossa escavação. Na verdade, não faria mal colher alguns extras para complementar a coleção. Talvez alguns com padrões estriados mais proeminentes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Ele inclina a cabeça para o lado, pensativo. "Na realidade, se esses fragmentos forem usados para o ritual, não faria mal colher alguns extras. Talvez alguns com padrões estriados mais proeminentes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

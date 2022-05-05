@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\05_cairnplains\05_qst_culling_dance</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>A Dança da Culpa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Viaje para o Passagem de Culling.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Inspirit the Elder-Teeth Necklace com energia arcana do Geodo Azurelith Infundido.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Mate o Bane para continuar a inspirar o Colar de Dentes de Ancião.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Voltar para Fala-para-Solo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Você concordou em suportar o Rito de Abate, um [url=glossary:stonestalker]Perseguidor de Pedras[/url] ritual para místicos, para impressionar Fala-for-Soil, um Mais velho terra-místico da Homem-Besta tribo que habita Apedrejar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Viaje para o Passagem de Culling para suportar o [url=glossary:stonestalkers]Perseguidores de Pedras[/url]' Rito de Abate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Extraia energia arcana do Geodo Azurelith Infundido no Passagem de Culling para inspirar o Elder-Teeth Necklace e realizar o Rito de Abate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Uma onda de Maldito, atraída pelo influxo de energias mágicas, infestou o Passagem de Culling. Mate esses Maldito para sobreviver e terminar o Rito de Abate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Você suportou o Rito de Abate e inspirou com sucesso seu próprio Colar de Dentes de Ancião. Retorne ao Speaks-for-Soil em Stone Down para informá-la sobre seu empoderamento místico.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Com a área limpa de Maldito, é mais uma vez seguro continuar inspirando o Elder-Teeth Necklace usando a energia arcana no Geodo Azurelith.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Termine de inspirar o Colar Dentes de Ancião com energia arcana telúrica do Geodo Azurelith Infundido.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você sobreviveu ao Rito de Abate e conseguiu expulsar o Maldito.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você não pode mais completar a [url=glossary:stonestalkers]Perseguidores de Pedras[/url]' Rito de Abate por causa de seus ataques na tribo [url=glossary:stonestalker]Perseguidor de Pedras[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>A oportunidade de resolver esta tarefa passou.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

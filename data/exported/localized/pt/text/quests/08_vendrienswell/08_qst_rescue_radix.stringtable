@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\08_vendrienswell\08_qst_rescue_radix</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Reforços do Earthshaker</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vá para o Clareira do Norte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Procure por sinais do Tremedores de terra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Volte para Ceveus no acampamento [url=glossary:disfavored]Desfavorecido[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Base, líder do Tremedores de terra, foi convocado do [url=glossary:stone sea]Mar de Pedra[/url] para reforçar o Tremedores de terra já no vale. No entanto, não houve sinal deles desde que o vale foi selado. Você concordou em investigar a última localização conhecida desses reforços e descobrir seu destino.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Viaje para o Clareira do Norte para procurar os reforços Earthshaker.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Você chegou a uma clareira perto do Passo Nordeste. Explore a área do Tremedores de terra desaparecido.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Você resgatou o Tremedores de terra do [url=glossary:vendrien guard]Guarda Vendrien[/url]. No entanto, Radix não estava entre eles. Parece que ele achou sua pesquisa no [url=glossary:stone sea]Mar de Pedra[/url] muito atraente para abandonar e enviou apenas um punhado de Tremedores de terra para ajudar. Ceveus vai querer saber esta informação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você resgatou o Tremedores de terra dos rebeldes, mas o líder deles Base não estava entre eles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você não conseguiu localizar o Tremedores de terra desaparecido antes do ataque a [url=glossary:vendrien's well]Poço de Vendrien[/url] Citadel começar.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

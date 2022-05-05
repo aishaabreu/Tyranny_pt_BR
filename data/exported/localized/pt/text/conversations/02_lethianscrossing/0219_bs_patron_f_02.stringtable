@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\0219_bs_patron_f_02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Estou cansado da bajulação constante... Há outras pessoas aqui. Vá falar com eles!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Juro, é como se ele esquecesse que estou ao lado dele e pudesse ouvir tudo o que ele está dizendo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Não importa onde eu vá, ele segue. Estou tão perto de sair e nunca mais voltar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Eu não me importo se houver um novo Soberano e todos nós podemos morrer para algum novo [url=glossary:edict]Edital[/url]! Ele realmente precisa de uma dica!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

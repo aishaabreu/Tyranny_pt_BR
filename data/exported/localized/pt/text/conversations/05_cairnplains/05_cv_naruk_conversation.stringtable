@@ -1,0 +1,801 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\05_cairnplains\05_cv_naruk_conversation</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>147</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ao se aproximar, você dá uma boa olhada na área onde as pessoas da cidade acorrentaram um Homem-Besta, brutalmente e em exibição como uma espécie de atração pública. 
+
+Ele observa seus algozes, visivelmente exaustos e cautelosos, machucados e ensanguentados e fedendo a urina e carne velha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>O Homem-Besta rosna e se agarra a você, babando cansado enquanto se esforça contra suas amarras. Seus olhos estão arregalados de medo, mas seus membros caem de cansaço e todo o seu corpo treme. 
+
+"Afaste-se ou perca a vida e a integridade física. Garra Esquerda ainda tem dentes de matar. Ainda pode mutilar, humano!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Acalme-se e me diga o que aconteceu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Afaste-se do Homem-Besta.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Ajude Garra Esquerda!" Ele geme, toda a bravura se esvaindo dele. "Por que os humanos caçaram o Homem-Besta? Homem-Besta nunca incomodou humanos - sabe deixar em paz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Humanos alegam que Homem-Besta matou colonos, mas Homem-Besta só caçou javalis. [url=glossary:stonestalkers]Perseguidores de Pedras[/url] não coma carne de humanos. Diga aos colonos." Ele rosna, zangado e com medo. "Left-Claw é um bom caçador. Javali rastreado para a tribo, mas foi mordido pela goela de ferro perto do cume da cova humana. Sangrava e sangrava - o pensamento teria que rasgar a perna. Então o sol acordou e os humanos vieram, uivando ameaças."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Você não deveria ter caçado tão perto da cidade, mas não acredito que tenha matado os colonos desaparecidos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Coberto de sangue, acusado perante as massas... Você me parece um assassino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>O Homem-Besta acena e lambe uma mancha escura de sangue seco em seu lábio superior. "Então liberdade humana Homem-Besta?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Não soa diferente de outros humanos." Ele rosna e ataca você mais uma vez. "São todos iguais. Atormentadores de Homens-Besta antes e ainda agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Humano foi embora-Gratidão de Garra. Muito mais de cinco obrigado por resgatar Homem-Besta." Ele se ajoelha, choramingando e rastejando aos seus pés. "Obrigado-obrigado-obrigado. Homem-Besta agradece ao humano."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Pare. Não não. Não toque em Homem-Besta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Que destino o humano decidiu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Homem-Besta, sua hora chegou. Por seus crimes, sua cabeça será minha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Decidi libertá-lo e decretar sua inocência. Saia daqui, rápido. Os colonos vão te matar se você demorar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Você deve se juntar ao [url=glossary:scarlet chorus]Coro Escarlate[/url], Homem-Besta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Humanos são apenas predadores cruéis. São apenas caçadores que gostam de ferir a presa repetidamente antes de matar o ataque." Ele mostra os dentes para você, mas impotente para se defender, é uma ameaça vazia. "Todos os animais morrem. Garra Esquerda não tem medo de se juntar ao sangue da terra dos ancestrais. Mas Homem-Besta espera que a própria morte do humano venha de [url=glossary:stonestalker]Perseguidor de Pedras[/url] arrancando a cabeça do pescoço e o coração do peito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Sério? É verdade?" Ele choraminga e treme de gratidão, os olhos correndo em busca da rota de fuga mais fácil. "Deixou-Claw não esquecerá a ajuda do humano."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Sim, sim. Deixou-Claw vai se juntar a Refrão matilha para viver." Ele choraminga e estremece com a perspectiva de sua próxima liberdade, e por um momento ele vira um olhar violento e sanguinário para os habitantes da cidade de [Plainsgate]. Mas então ele se foi, e ele está mais uma vez ofegante, inofensivo, os olhos disparando em busca de seus novos aliados - a gangue que o protegerá e por sua vez ele vencerá as guerras. "Deixou-Claw não esquecerá a ajuda do humano."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"[url=glossary:stonestalkers]Perseguidores de Pedras[/url] não coma humanos. Por favor. Homem-Besta Grátis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Me pediram para recrutar Homens-Besta para o [url=glossary:scarlet chorus]Coro Escarlate[/url]. Talvez possamos ajudar uns aos outros."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Eu devo estar a caminho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Cansado, olhos castanhos se fecham e um gemido suave sai lentamente do peito Homem-Besta. "Como pode o Homem-Besta arriscar a própria tribo? Até pela liberdade... até para viver..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Não, não. Garra Esquerda não fala." Ele uiva, parecendo totalmente angustiado, flácido em suas correntes, e por um momento você se pergunta se Homens-Besta podem chorar. "Vontade proteger a tribo, mesmo com suspiros finais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Se você preferir morrer, posso deixá-lo com seu destino. Basta falar a palavra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Ele balança a cabeça, quase frenético, jogando fios de sua crina manchada de sangue em seus olhos. "Não, não." Ele ofega, o peito arfando. "Esperar. Se humano dá palavras - promete não caçar ou prejudicar [url=glossary:stonestalkers]Perseguidores de Pedras[/url]..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Em minha honra como Vinculador do Destino, você tem minha palavra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>ar está pesado, silencioso, enquanto a criatura espera sem se mover, observando você em busca de sinais de traição oculta. Relutantemente, ele fala. "Procurar para tribo em Apedrejar." Ele engole em seco. "Esquerda Livre-Garra agora. Mostrará o caminho certo humano, falará por humano para Centenas-Blood. Mas se não puder, diga a Centenas-Blood como o Homem-Besta foi caçado. Então [url=glossary:stonestalkers]Perseguidores de Pedras[/url] vai ajudar..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Obrigado. Como prometido, em troca, garantirei que você seja libertado para sua tribo ou entregue à custódia do Refrão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Tolo mestiço. Como se eu fosse ajudar um Fera como você. Darei seus últimos cumprimentos à sua tribo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Me chame de curioso, mas por que você se chama Deixou-Claw?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"A garra esquerda é a melhor garra. Irmãs de ninhada e irmãos de ninhada usam mais a garra direita quando caçam, mas Homem-Besta garra esquerda aprendida é mais rápida. A garra esquerda é mais forte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>O Homem-Besta estremece e treme, fraco, mas levado a atacar, a explodir de medo e raiva. "Por que o humano deixa Deixou-Garra para sofrer? Por favor. por favor. Se não vai libertar, dê misericórdia, por favor. Mate rapidamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Nó de script40</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Venha para a toca da tribo em Apedrejar. Garra Esquerda dirá a Centenas-Blood como o humano salvou Homem-Besta. [url=glossary:stonestalkers]Perseguidores de Pedras[/url] saberá do humano."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>O Homem-Besta se anima, esperança o inundando com suas palavras. Ele luta e choraminga novamente, quase frenético apesar de sua exaustão.
+
+"Ajuda, socorro! Por favor, ajuda Homem-Besta!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Kills-in-Shadow me enviou. Você está bem?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ainda não tomei minha decisão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Nó aleatório 46</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Machuca."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Não machuque Deixou-Garra. Ajuda, por favor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Misericórdia. Misericórdia, por favor, misericórdia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Mentira] "Dou minha palavra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Tudo bem, sou um amigo. Você está muito ferido?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Eu não vou machucar o [url=glossary:stonestalkers]Perseguidores de Pedras[/url]. Na verdade, vou enviar você de volta para eles, para que você possa ver que eles estão seguros."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Que vergonha. Você se chama de [url=glossary:stonestalker]Perseguidor de Pedras[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Promessa. Dê palavras. Vontade não caçar ou ferir companheiros de tribo." Ele balança a cabeça, quase frenético, jogando fios de sua juba manchada de sangue em seus olhos. "Vontade ajuda [url=glossary:stonestalkers]Perseguidores de Pedras[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Sim! Beastman é [url=glossary:stonestalker]Perseguidor de Pedras[/url] mesmo quando fraco, mesmo quando caçado e ferido. Vai morrer primeiro. Protegerá a tribo mesmo se a tribo não puder proteger Deixou-Garra." Ele rosna, os olhos brilhando com violência.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Silêncio e fique quieto. Não rosne em Alfa. Kills-in-Shadow veio para ajudar Homem-Besta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>O Homem-Besta chora e se contorce, alívio inundando-o ao ver o líder de sua matilha.
+
+"Mata na sombra!" ele grita. "Deixou-Garra esperava que o pacote Alfa viesse. Por favor, ajuda Homem-Besta!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Acalme-se e conte-nos o que aconteceu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Whelp! Fale agora, rápido, rápido." Ela passa suas garras sob o queixo Homem-Besta, deixando um rastro fino de sangue. "Quer morrer? Humano não está provocando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Ele balança a cabeça, quase frenético, jogando fios de sua crina manchada de sangue em seus olhos. "Ok, sim. Esperar." Ele ofega, o peito arfando. "Se o humano der palavras - promete não caçar ou machucar [url=glossary:stonestalkers]Perseguidores de Pedras[/url] - Deixou-Claw vai falar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Ok, espere um momento. Eu vou te libertar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"É assim que eu veria as criaturas miseráveis - humilhadas e instruídas em seu lugar. Oferecer-lhes algo mais convida à anarquia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>O Homem-Besta estremece e treme, fraco, mas levado a atacar, a explodir de medo e raiva. "Por que o humano deixa Deixou-Garra para sofrer? Por favor. por favor. Se não vai libertar, dê misericórdia, por favor. Mate rapidamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Sério? É verdade?" Ele choraminga e treme de gratidão, os olhos correndo em busca da rota de fuga mais fácil. "Deixou-Claw não esquecerá a ajuda do humano."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Nó do banco 66</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Iron-clad lamenta muito frequentemente sobre Mulheres-feras. Silêncio, presa. Agora não é hora de provocar Mortes-in-Shadow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Silêncio e fique quieto. Não rosne em Alfa se Homem-Besta quer ser libertado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>O Homem-Besta chora e se contorce, alívio o inundando ao ver seu kith.
+
+"Mata-na-Sombra!" ele grita. "Deixou-Garra esperava que o pacote Alfa viesse. Por favor, ajuda Homem-Besta!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>A Mulher-Fera rosna um aviso profundo e retumbante. "Tem Homem-Besta esqueceu como ouvir? Quando obedecer? Disse fique quieto. Pare de choramingar inútil. Mortes-in-Shadow não é mais Alfa da matilha." 
+
+Ela olha para você, obviamente preocupada com a cativa Homem-Besta apesar de sua implacável demonstração de bravura.
+
+"Mulher-fera segue Vinculador do Destino agora. Mas o Fatebinder ajudará Deixou-Garra. Prometeu para Mortes-in-Shadow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>A Mulher-Fera rosna um aviso profundo e retumbante. "Tem Homem-Besta esqueceu como ouvir? Quando obedecer? Disse fique quieto. Pare de choramingar inútil. Kills-in-Shadow não é mais Alfa da matilha." 
+
+Ela olha para você, obviamente preocupada com a cativa Homem-Besta apesar de sua implacável demonstração de bravura.
+
+"Mulher-Besta segue Vinculador do Destino agora. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Um animal sanguinário se junta a uma horda de animais sanguinários. Parece certo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>A Mulher-Fera range os dentes, furiosa. Ela rosna e se levanta, os músculos trêmulos pelo esforço de conter seu ataque.
+
+"Não! Errado! Não deixará o filhote de matilha sofrer. Livre Deixou-Garra!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[Dê um soco em Kills-in-Shadow no nariz.] "Tente me forçar, e eu vou esfolar você por botas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Multar, calma. Vou ajudá-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>A Mulher-Fera se esquiva. Ela rosna, os pêlos arrepiados, mas seus olhos vermelhos estão arregalados com o medo e a surpresa crescentes. Ela olha uma vez, relutantemente, para o acorrentado e sangrando Homem-Besta - seu antigo seguidor da matilha - antes de se afastar, abandonando-o ao seu destino.
+
+"Alpha deve se proteger nas horas de sono," ela avisa sombriamente , ela de costas para vocês dois.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>A Mulher-Fera se acalma com um suspiro de alívio. "Vinculador do Destino é bom Alfa para ajudar Homem-Besta. Kills-in-Shadow não vai esquecer. Lutará até a morte pela matilha humana Alfa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Fatebinder está provocando, sim? Faz não queria realmente machucar Deixou-Garra na frente de Mulher-Besta, sim-sim?" Ela olha carrancuda, cautelosa e pronta para atacar para proteger seus preciosos amigos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Fique no meu caminho, vira-lata, e eu vou te matar em seguida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Multar, eu retiro. Em vez disso, vou libertá-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Uivando de raiva, Mortes-in-Shadow cílios para você. As garras dela arranham seu quadril e fazem cortes profundos em sua armadura.
+
+"Não! Proibido!"
+
+Ela fica entre você e o Homem-Besta, protegendo-o com seu corpo cheio de cicatrizes.
+
+"Alpha ou não, Fatebinder não machucará Deixou-Claw antes de Mortes-in-Shadow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Bom, bom. Não será necessário abater Vinculador do Destino." Ela cai de alívio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Vocês se conhecem?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Left-Claw era um filhote de matilha de Mortes-in-Shadow. Antes da Mulher-Besta deixou a mochila para Vinculador do Destino."
+
+Ela observa o Homem-Besta, e ele se contorce sob seu olhar. 
+
+"Os filhotes estão sempre tendo problemas sem proteção de Mortes-in-Shadow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>O Homem-Besta choraminga, incapaz de ficar quieto, apesar das ordens de seu dominante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Ele te considera cautelosamente. "O que o ser humano quer? Para Homem-Besta para participar do Refrão pacote?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Obviamente. E você me dirá onde posso encontrar o resto de sua tribo para que eu possa recrutá-los também."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Tudo bem. Não importa se você vai ficar tão chateado com isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Deixou-Garra é boa Homem-Besta para proteger a tribo. Mas mata-in-Shadow cuida do filhote de matilha, não [url=glossary:stonestalkers]Perseguidores de Pedras[/url]. Dirá Vinculador do Destino onde encontrar o covil da tribo. Então ajude Deixou-Garra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Barik, subjugue Mortes-in-Shadow até que eu lide com o Homem-Besta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"De bom grado. Agora, criatura - você vai fazer isso fácil e rápido para o seu mestre, ou você vai fazer isso divertido e lutar? Não me deixe influenciar sua decisão - eu vou me divertir de qualquer maneira." 
+
+Barik se prepara para uma luta digna.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Acha que as armaduras de ferro podem parar a Mulher-Besta? Não! Errado! Não vai sente-se de lado! Não vai assistir ao abate do pacote Deixou-garra!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Nó do banco 93</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Kills-in-Shadow não vai recuar. Se você insistir nessa sentença de morte, pode ser mais sensato ordenar que ela esteja em outro lugar - então você pode lidar com a Garra Esquerda na ausência dela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Eu não acho que você está conquistando Mortes-in-Shadow com seu senso de justiça aqui. Talvez seja melhor mandá-la embora, não acho que ela vá ceder nesse assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Não é fã de autoridade, não é? Para um selvagem fedorento e cheio de pulgas, você pode ser a coisa mais próxima que temos de pura anarquia. Quero dizer isso como um elogio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Fera típica - toda emoção e nenhuma sutileza. Mande-a de volta ao Spire para que possamos lidar com o problema e seguir em frente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Multar, eu retiro. Em vez disso, vou libertá-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>O Homem-Besta mostra os dentes para você, mas impotente para se defender, é uma ameaça vazia. "Humanos são apenas predadores cruéis. São apenas caçadores que gostam de ferir a presa repetidamente antes de matar o ataque. Todos os animais morrem. Garra Esquerda não tem medo de se juntar ao sangue da terra dos ancestrais."
+
+Ele cospe na sua cara. 
+
+"Mas Homem-Besta espera assistir pela primeira vez Mortes-in-Shadow arrancar a cabeça humana do pescoço e o coração do peito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>A multidão está com raiva. Eu deveria falar com os colonos menos agitados da cidade antes de tomar uma decisão.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Ajude Garra Esquerda!" Ele geme, toda a bravura se esvaindo dele. "Por que os humanos caçaram o Homem-Besta? Homem-Besta nunca incomodou humanos - sabe deixar em paz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>O Homem-Besta se anima, esperança o inundando com suas palavras. Ele luta e choraminga novamente, quase frenético apesar de sua exaustão.
+
+"Ajuda, socorro! Por favor, ajuda Homem-Besta!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>O Homem-Besta chora e se contorce, alívio o inundando ao ver seu kith.
+
+"Mata-na-Sombra!" ele grita. "Deixou-Garra esperava que o pacote Alfa viesse. Por favor, ajuda Homem-Besta!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Barik tem razão. Os Homens-Besta precisam ser controlados, mesmo que apenas para sua própria segurança."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Ela tem razão. Cala a boca, Barik."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Bom. Estou satisfeito que Alfa para matar-in-Shadow escolheu o lado de Mulheres-feras. Não vai parar de caçar quando chegar a hora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Claro. Bestas não podem negar o domínio humano mais do que podem negar [url=glossary:kyros]Kyros[/url]. Melhor que eles se submetam e aceitem sua posição na hierarquia maior do que desperdiçar suas vidas em selvageria e rebelião."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>O Homem-Besta está amarrado e incapaz de se mover.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Sério? É verdade?" Ele choraminga e treme de gratidão, e por um momento ele vira um olhar violento e sanguinário para a multidão diante dele. Mas então ele se foi, e ele está mais uma vez ofegante, inofensivo, os olhos correndo em busca da rota de fuga mais fácil. "Deixou-Claw não esquecerá a ajuda do humano."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Sim, sim. Deixou-Claw vai se juntar à matilha Refrão para viver." Ele choraminga e estremece com a perspectiva de sua liberdade vindoura, e por um momento ele vira um olhar violento e sanguinário para a multidão diante dele. Mas então ele se foi, e ele está mais uma vez ofegante, inofensivo, os olhos disparados em busca de seus novos aliados - a gangue que o protegerá e por sua vez ele vencerá as guerras. "Deixou-Claw não esquecerá a ajuda do humano."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Sério? É verdade?" Ele choraminga e treme de gratidão, e por um momento ele vira um olhar violento e sanguinário para a multidão diante dele. Mas então ele se foi, e ele está mais uma vez ofegante, inofensivo, os olhos correndo em busca da rota de fuga mais fácil. "Deixou-Claw não esquecerá a ajuda do humano."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Estou livre agora? Fera-amigo bom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Sim. Você e sua tribo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Como você acabou assim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Nó de script 117</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Antes de tomar minha decisão, gostaria de ouvir mais evidências sobre o assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Prova? Prova do erro de Homem-Besta? do Homem-Besta vergonha - de ser pego como presa? Deixou-Claw não pode mostrar a carcaça do javali para humanos. A matilha do Coro com cheiro de podre queimou a carcaça em sangue da terra e cinzas. Mas humano pode ver onde a armadilha roeu o tornozelo de Deixou-Claw. Sim? Pode ver como Homem-Besta foi enganado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Não importa. Decidi falar mais com a multidão antes de decretar um veredicto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Decidi libertá-lo e decretar sua inocência. Saia daqui, rápido. Os colonos vão te matar se você demorar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Você deve se juntar ao [url=glossary:scarlet chorus]Coro Escarlate[/url], Homem-Besta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Homem-Besta, sua hora chegou. Por seus crimes, sua cabeça será minha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Ele é uma Besta, e ele foi pego coberto de sangue. Que mais provas de culpa você poderia precisar?! E, além disso, foi o Refrão que o arrastou. Eles viram sua culpa em primeira mão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Interrompa novamente e você será o próximo coberto de sangue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>[Deixar] "Talvez eu deveria falar mais com os aldeões sobre minha decisão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Ela empalidece e tropeça um passo para trás, mas um corpo na multidão barulhenta atrás dela a empurra para frente. 
+
+"Se você não ouvir minha voz, certamente outros na multidão...?"
+
+Mas ela tropeça e cai, derrubada por um homem de rosto vermelho e gritando.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>O Homem-Besta peito largo arfa enquanto seu medo aumenta, e ele ofega rapidamente, lutando para respirar. 
+
+"O que os humanos farão com a Garra Esquerda? Liberte o Homem-Besta ou acabe com Homem-Besta sofrendo!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Tudo o que vocês têm é boato - de ambos os lados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"A evidência é circunstancial, mas constrói um caso convincente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Quantos aldeões desapareceram no último período? Nós estamos algum osso encontrado em seus corpos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Não tenho simpatia por intolerantes. Você está livre para ir, e se a multidão te incomoda - eles podem lidar comigo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Depressa-depressa. Ajuda esquerda-Garra, por favor." Exausta, ele joga a cabeça no chão e geme baixinho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Não tenho simpatia por intolerantes. Você está livre para ir, e se a multidão te incomoda - eles podem lidar comigo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Ela empalidece e tropeça um passo para trás, mas um corpo na multidão barulhenta atrás dela a empurra para frente. 
+
+"O-o que você quer dizer, Fatebinder? Claro, você é a autoridade no assunto. Com o poder do senhor [url=glossary:tunon]Tunon[/url], você pode ver a verdade das coisas. Até os escondidos. Eu sei - ouvi as histórias do norte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Direita, sim, circular, mas convincente! Todos, ouça o Fatebinder! Com o poder do senhor [url=glossary:tunon]Tunon[/url], o Fatebinder pode ver a verdade das coisas. Até os escondidos. É verdade! Ouvi falar disso nas histórias do norte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Quem não desaparece hoje em dia? Nós Ve perdi tantos que mal consigo contar. Catadores vão para o vale, mas nunca voltam... Mesmo os habilidosos como Dracod certamente foram comidos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"O Coro? Você quer dizer aqueles que você me viu matar enquanto se escondia das sombras? Não, eu não acho que eles vão prestar depoimento sobre o assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Tch. Foi agora?" Ele ergue o queixo pensando. "Sabe, eu acho, sim, acho que me lembro que foram alguns dos meus que encontraram o Fera pela primeira vez. Vi-o devorando um aldeão. Claro que eles tiveram que queimar o corpo - para prestar seus respeitos, você sabe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Então se foi o Refrão que pegou o Fera para proteger [Plainsgate] - eles não têm direito a ele?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Certo. Isso soa verdadeiro e completamente legítimo..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Quem não desaparece hoje em dia? Nós Ve perdi tantos que mal consigo contar. Catadores vão para o vale, mas nunca voltam..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Na realidade, Dracod e sua equipe voltaram por conta do Vinculador do Destino. É verdade que eles teriam problemas com o Bestas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Que problema? Eles foi caçado?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Ele dá de ombros. "Você sabe o que eu acho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Eles estavam invadindo o [url=glossary:stonestalker]Perseguidor de Pedras[/url] território. Foi um simples mal-entendido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Isso importa? Eu os resgatei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"E daí? Nós somose apenas para libertar a Besta? É isso que você nos diria que é justo, Fatebinder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Você está tentando nos matar?! Você quer que um novo [url=glossary:edict]Edital[/url] seja lançado sobre nós? Ou pior?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Alpha apoiará os desejos de [url=glossary:bolverk]Bolverk[/url]." Ela rosna ameaçadoramente para a multidão. "Vontade ajuda Mulheres-feras - e Homens-fera - para sobreviver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Ela empalidece e tropeça um passo para trás, mas um corpo na multidão barulhenta atrás dela a empurra para frente. 
+
+"O-o que você quer dizer, Fatebinder? Claro, você é a autoridade no assunto. Com o poder do senhor [url=glossary:tunon]Tunon[/url], você pode ver a verdade das coisas. Até os escondidos. Eu sei - ouvi as histórias do norte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Você está dizendo que nossa palavra não é boa o suficiente, Fatebinder?! Você prefere aceitar a palavra de um vira-lata?!"
+
+Abastecida por sua indignação, ela tenta avançar no meio da multidão barulhenta, mas tropeça e cai, empurrada para o lado por um homem de rosto vermelho e gritando.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Que destino o humano decidiu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Os colonos estão convencidos, mas estou disposto a considerar todos os lados nesta questão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>O Homem-Besta olhos se movem entre você e a multidão. "Sim, Garra Esquerda fala a verdade. Talvez o ser humano livre Homem-Besta?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Você está tentando nos matar?! Você quer que um novo [url=glossary:edict]Edital[/url] seja lançado sobre nós? Ou pior?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>A Mulher-Fera rosna um aviso profundo e retumbante. "Tem Homem-Besta esqueceu como ouvir? Quando obedecer? Disse fique quieto. Pare de choramingar inútil. Kills-in-Shadow não é mais Alfa da matilha." 
+
+Ela olha para você, obviamente preocupada com a cativa Homem-Besta apesar de sua implacável demonstração de bravura.
+
+"Mulher-Besta segue Vinculador do Destino agora. "</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

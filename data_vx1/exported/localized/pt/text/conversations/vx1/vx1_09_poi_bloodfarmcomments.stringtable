@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\vx1\vx1_09_poi_bloodfarmcomments</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ouvi rumores de Cantores de Sangue fazendo esse tipo de tortura, mas... você assume que ninguém poderia realmente... se impor..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Bem, isso é maldito. É isso que acontece quando o Maldito sussurra em seu ouvido por tempo suficiente?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Misericordioso [url=glossary:kyros]Kyros[/url], o que essas pessoas fizeram aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Mulher-Fera viu muitas jaulas... mas isso... não é prisão. É gaiola de abate!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"...merda, Encadernador. Eu nem tenho certeza se o Vozes faria algo tão impensadamente cruel."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Não... isso não pode... eu não posso... Por quê? Eles eram apenas animais..."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

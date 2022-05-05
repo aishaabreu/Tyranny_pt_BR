@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\02_cv_ironhaul_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>33</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Se você quiser chegar a [url=glossary:lethian's crossing]A travessia de Lethian[/url], você precisará pagar um pedágio de serviço para Vontade perto da ponte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Quem manda aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Por que não ouvi nada sobre pedágio antes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Deixar] "Obrigado pela informação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Raetommon é nosso líder e Primeiro-Irmão. Se precisar falar com o responsável, é ele quem você quer. Mas há uma boa chance de que ele esteja muito ocupado ou nem queira falar com você. Eu recomendo que você fale com Primeiro-Axe Welby - ela vai ser muito mais razoável."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Ela encolhe os ombros. "Não faço ideia. Raetommon decidiu que era necessário, então configuramos. Eu achei estranho, mas você não questiona Raetommon, não se você quiser um tempo fácil no fraternidade."
+
+"Você terá que falar com Will na ponte ali a oeste se você deseja passar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Onde posso encontrar Raetommon?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Onde posso encontrar Welby?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ele está logo ao sul da ponte, vigiando alguns dos homens. Não sei exatamente o que eles estão fazendo lá."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ela está ao norte naquele cume, de olho em problemas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Talvez eu não tenha ouvido direito - você acabou de dizer a um Fatebinder para pagar um pedágio?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Quem é o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Conquista] "Eu não chutar o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] de [url=glossary:lethian's crossing]A travessia de Lethian[/url]? O que você está fazendo aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"[url=lore:lc_control]Foi você?[/url] Então você pode não querer ficar por aqui. Raetommon não está muito feliz com você e ele se tornou particularmente mal-humorado e violento ultimamente. Aprendemos a fazer o que ele pede e a nos preocupar com as consequências depois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Seus olhos se arregalam um pouco e ela levanta as mãos. "Pode ser que saiu errado, Vinculador do Destino. Estamos cobrando um pedágio em pedidos Raetommon's como pagamento pela proteção da área. Eu não cobro o pedágio, Will faz. Sou apenas o mensageiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Não acredito que você nunca ouviu falar de nós! Trabalhamos para as pessoas de [url=glossary:lethian's crossing]A travessia de Lethian[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Isso é realmente tudo o que você vai dizer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Vamos falar de outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"A maioria das pessoas não se importa em ouvir mais do que isso. Eles estão mais interessados em sair do pedágio. Ou ameaçando... Achei que você não queria toda a nossa história."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Recentemente, Raetommon decidiu que precisávamos de uma melhor organização e assumiu como o 'Primeiro-Irmão' do nosso líder anterior. E foi assim que os [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] em [url=glossary:lethian's crossing]A travessia de Lethian[/url] se tornaram o que são hoje."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Certo. O que mais você quer saber?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Quem é Raetomon?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Se Raetommon um líder tão difícil, por que você fica?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Esta é a minha casa. Bom ou ruim, é praticamente a única casa que eu já conheci. Certo, eu gostaria que as coisas fossem diferentes, mas a menos que alguém assuma o controle, isso nunca vai mudar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Até sermos [url=lore:lc_control]expulso de A travessia de Lethian,[/url] era meu lar - o único lar que eu realmente conhecia. Raetommon se recusa a deixar a área e enquanto eu puder ficar por perto, eu vou. Não é uma situação perfeita, mas é com o que tenho que lidar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Ela olha por cima do ombro antes de continuar. "Acho que First-Axe Welby seria um líder muito melhor, mas agora a maioria dos fraternidade suporta Raetommon e o que ele faz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Uma jovem vestindo uma armadura de bronze surrada está diante de você no meio da estrada.
+
+"Bem-vindo ao Ironhaul Trail, amigo. Esta área de Refúgio está atualmente sob a proteção do [url=glossary:bronze brotherhood]Irmandade de Bronze[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"O [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] existe há centenas de anos, mas nas terras Norte. Lethian tinha ouvido falar de nós em suas viagens e sabia que seríamos capazes de manter o assentamento seguro quando ela o fundasse. Então ela nos contratou e esse grupo está aqui desde então."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Nós vamos, sim. Fale-me sobre o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"O que você quer dizer com 'preocupe-se com as consequências depois'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Ela suspira e balança a cabeça. "Eu não deveria ter dito nada. Eu poderia ter um monte de problemas por falar sobre isso. Vamos apenas dizer que ele está acostumado a usar táticas questionáveis para fazer as coisas. Muitos de nós acham que é hora de uma nova liderança... Como Welby Primeiro Machado."
+
+"Mas não é meu lugar falar sobre isso. Estou aqui apenas para informar as pessoas sobre o pedágio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"O que você quer dizer com 'razoável?'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Bem atendido, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

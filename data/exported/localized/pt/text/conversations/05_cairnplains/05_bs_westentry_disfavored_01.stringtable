@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\05_cairnplains\05_bs_westentry_disfavored_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"O que é um Fatebinder fazendo nos penhascos de Boca Recortada?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Bom vê-lo, senhor. Melhor avisar Caedis ou o Comandante que você está aqui."</DefaultText>
+      <FemaleText>"Bom ver você, senhora. Melhor avisar Caedis ou o Comandante que você está aqui."</FemaleText>
+    </Entry>
+  </Entries>
+</StringTableFile>

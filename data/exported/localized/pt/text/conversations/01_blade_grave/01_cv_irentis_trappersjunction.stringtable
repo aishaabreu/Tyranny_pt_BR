@@ -1,0 +1,413 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\01_cv_irentis_trappersjunction</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>79</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>O soldado [url=glossary:unbroken]ininterrupto[/url] cruza os braços em um nó apertado quando você se aproxima. 
+
+"Irentis, anteriormente o guarda pessoal de Regente Haptia. Pelo menos antes que a guerra acabasse com ela. Agora corro com Mattias e o que resta dos verdadeiros patriotas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Ele oferece um aceno curto. "Tenho certeza que você tem muito o que discutir, mas agora estou mais preocupado com o [url=glossary:scarlet chorus]Coro Escarlate[/url]. Nosso destemido capitão quer que nos submetamos aos cães selvagens uivando à nossa porta. Não posso permitir isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Juntar-se ao [url=glossary:scarlet chorus]Coro Escarlate[/url] não é uma opção. Como posso ajudar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Você não está vendo a foto maior. Juntar-se ao [url=glossary:scarlet chorus]Coro Escarlate[/url] é sua única chance de sobrevivência."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Ele acena para você com nojo. "Sobrevivência a que custo? Você não tem ideia do que significa viver fora da [url=glossary:kyros]Kyros[/url]' autoridade, então eu não esperaria que você entendesse." "Valorizamos mais do que nossos mestres e qualquer outra coisa sistema arbitrário de direito que eles impõem. Temos mais a perder, mas arriscaremos tudo para protegê-lo." "Lamento que você não veja dessa forma."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Mattias parece ter perdido a confiança e a motivação que todos nós compartilhamos. Seu humor é venenoso, e desmarcado só pode suavizar toda a nossa unidade para o recrutamento." 
+
+"Pode haver uma maneira de reacender esse fogo com um artefato que foi perdido. Quão boa é a sua Robusto história?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"No velho robusto, era costume de Regentes cada um carregar um artefato de poder. Um deles empunhava uma lâmina chamada Destemido. Isso foi mais do que uma mera arma, mas um símbolo de rally que inspirou as tropas." "O Destemido foi perdido em uma batalha perto do Oldwalls. Com [url=glossary:kyros]Kyros[/url]' e as forças [url=glossary:edict]Edital[/url] que assolam o reino, diz-se que a espada está onde quer que tenha caído pela última vez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Se você conseguiu salvar a lâmina antiga, pode ser o suficiente para inspirar Mattias e reunir os soldados para um empurrão contra o [url=glossary:scarlet chorus]Coro Escarlate[/url]. Mesmo que todos morrêssemos - pelo menos preservaríamos nossa herança!" 
+
+Ele se recompõe e exala. "Aqui - Marquei a última localização conhecida do Destemido no seu mapa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"O Destemido blade deve estar próximo ao Oldwalls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Oh, você encontrou a Audácia! Vá mostrar para Mattias."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Parece que tenho tempo para gentilezas? Vá falar com Mattias se precisar de algo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Obrigado por sua ajuda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Irentis entra com uma carranca desanimada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Irentis, venha compartilhar dessa vitória! Os [url=glossary:scarlet chorus]Coro Escarlate[/url] nos entregaram o encouraçado que nos atormentou em todo o Resíduos Levados pelo Vento. Eles pretendem nos apoiar em nossa luta contra o [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Sua confiança no [url=glossary:scarlet chorus]Coro Escarlate[/url] me enoja, Mattias. Eles pagam a você um turno justo, e você compra a guerra deles como um recruta ansioso. Não sei dizer se você está desesperado ou apenas um mentiroso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Mattias decidiu salvar seus soldados da morte certa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Regra sob [url=glossary:kyros]Kyros[/url] é a única paz que esta terra verá."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"O refrão' métodos são brutais, mas você nunca testemunhará outra derrota."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Vencer vale o custo de partir o pão com açougueiros, ladrões e estupradores? Faz é uma vitória melhor do que preservar a cultura de seu nascimento e lutar por seu direito de existir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Ele se vira para os soldados. "Ficar comigo se você deseja lutar como filhos de Robusto, e morrer lutando contra aqueles que querem tomar nossa terra e enterrar nossos costumes! Vinculador do Destino, você dividiu nossa coalizão com promessas vazias. Se não por minha autoridade, então por meu direito como filho do [url=glossary:unbroken]ininterrupto[/url], você não deixará Junção do Trapper vivo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"O refrão poupou nossos soldados! O Vinculador do Destino aqui garantiu que eles manteriam sua palavra. A desgraça que visitou esses desfiladeiros pode diminuir em breve. Venha e participe desta pequena vitória, Irentis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Paz em [url=glossary:kyros]Kyros[/url]' termos. Meus ancestrais teriam caído sobre suas espadas antes de verem o dia em que [url=glossary:kyros]Kyros[/url]' banners decorados Guarda Sentinela." Ele passa um olhar severo para Mattias. "Qualquer líder meu estaria preparado para fazer o mesmo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Enterrar nossas tradições e liberdade não é melhor do que enterrar os mortos. Mattias, eu renuncio a você como meu comandante!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Se for o tipo de ajuda que você deu a Elia em Rust Canyons, então eu vou recusar." Irentis faz uma careta para você. "Ela não era nossa capitã mais brilhante, mas podia comandar como a melhor. Ela merecia coisa melhor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ajuda? Não precisamos da sua ajuda. Se meus instintos forem verdadeiros, você é o monstro que derrubou Crepúsculo. Não se preocupe em negar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Isso é diferente. Eu preciso entrar Posto de Sentinela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"E nós somos apenas um empecilho ao longo do caminho, é isso?" Ele te perfura com um olhar de nojo. "Me chame de tolo, mas não tenho escolha a não ser confiar em você. Aquele coágulo Mattias nos encurralou com sua conversa de rendição. Eu só posso ter uma ideia que pode influenciar seus espíritos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Sem mencionar o assassino de Elia em Rust Canyons." Um rosnado baixo escapa de sua garganta. "Sim, estamos familiarizados com sua traição, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Também não estamos cegos para a destruição de Crepúsculo! Sua crimes se acumulam contra você, demônio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Nós vamos que parece patentemente falso. Quero dizer, se você me colocar no comando dos Tiers, veremos a paz. Nós vamos, depois de reunirmos e matarmos todos os Sábios - mas o passo dois seria a paz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Uma escolha impossível para qualquer um, dadas as circunstâncias. Não que eu mesma tivesse feito isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Eles estavam tão ansiosos para se render que eu ficaria surpreso se eles vissem outra vitória, aliás."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"No velho robusto, era costume de Regentes cada um carregar um artefato de poder. Um deles empunhava uma lâmina chamada Destemido. Isso foi mais do que uma mera arma, mas um símbolo de rally que inspirou as tropas." "O Destemido foi perdido em uma batalha perto do Oldwalls. Com [url=glossary:kyros]Kyros[/url]' e as forças [url=glossary:edict]Edital[/url] que assolam o reino, diz-se que a espada está onde quer que tenha caído pela última vez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Você nos ajudou imensamente, então se você conseguir recuperar este artefato do Oldwalls infestado, considere-o seu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Obrigado por sua ajuda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Por que o [url=glossary:scarlet chorus]Coro Escarlate[/url] ainda não atacou?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Oh, mas eles têm - várias vezes, embora eles sempre parem de nos aniquilar. Fomos perseguidos por toda a região e encurralados aqui, sem dúvida para que eles possam nos colocar em seu exército enquanto reunimos nossas forças."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"É um movimento frio e calculista que os beneficiará enormemente se forem bem-sucedidos. Em outras palavras, o clássico [url=glossary:scarlet chorus]Coro Escarlate[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Fale-me sobre o [url=glossary:unbroken]ininterrupto[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Somos filhos e filhas de um novo Robusto. Queremos tirar as duras lições desta nação caída e reconstruí-la em algo melhor do que era."
+
+A maneira como ele olha para longe faz você se perguntar o quanto ele acredita na probabilidade de sua ambição.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Nosso primeiro passo crucial é recuperar os [url=glossary:blade grave]Sepultura de Lâminas[/url] - não apenas das forças de [url=glossary:kyros]Kyros[/url]', mas de Stalwart's ex-líderes." "O último dos Regentes está agachado no Posto de Sentinela por muito tempo. Já é hora de quebrarmos a ostra e espetarmos a carne dentro dela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Como você planeja recuperar Robusto?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Sentinel Stand é a nossa fortaleza no centro da [url=glossary:kyros]Kyros[/url]' devastação. O plano é recuperar aquela fortaleza e usá-la como base de operações para fortalecer a região." 
+
+"Não que tenhamos uma chance, neste ritmo." Ele olha para Mattias com uma carranca pensativa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Enfiando uma lança em suas entranhas e desfilando com você por Lareira de Ferro. O que, você me acha tão tolo a ponto de compartilhar nossos planos com o [url=glossary:scarlet chorus]Coro Escarlate[/url]?" Ele bufa para você e balança a cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Eu não preciso de um motivo para te matar, servo de [url=glossary:kyros]Kyros[/url]. Eu mantenho minha espada até que Mattias dê a ordem." Ele aponta a cabeça para os soldados ao redor do acampamento. "Se você pretende nos recrutar para o [url=glossary:scarlet chorus]Coro Escarlate[/url], posso garantir que esses homens e mulheres estão prontos para morrer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Fale-me do Regentes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Eles eram nossa família governante antes de [url=glossary:kyros]Kyros[/url] vir e desmantelar a ordem e a organização deste reino. Todos, exceto um, morreram em batalha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"O último Regente é Straydus Herodin, e ele pode ser encontrado escondido atrás das paredes de Posto de Sentinela. Eu não confiaria nele para consertar o reino tão cedo." Irentis dá um sorriso malicioso. "Se temos alguma coisa a dizer sobre isso, [url=lore:edict_storms_resolution] Herodin não vai demorar muito para este mundo."[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Minhas ações passadas não me recomendam, mas você precisa de ajuda agora. Estou oferecendo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Ele fecha os olhos e balança a cabeça. "Eu sei que vou me arrepender disso. Mas, como você disse, precisamos de toda a ajuda possível."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Há mais um Regente ainda chutando, mas isso deve ser óbvio. Foi o seu Soberano [url=glossary:edict]Edital[/url] que [url=lore:edict_storms_resolution]o prendeu onde ele permanece até hoje."[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Mas você não está facilitando para nós, está? Parte do Coro lixo. Espero que [url=glossary:the voices of nerat]o Vozes de Nerat[/url] te enrole com a ponta de seu cetro de ouro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Se ele não estiver apto a liderar, você deve desafiar Mattias pelo domínio sobre o [url=glossary:unbroken]ininterrupto[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Ele faz uma careta. "Sua instintos são verdadeiros, mas não somos os [url=glossary:scarlet chorus]Coro Escarlate[/url]. Não posso simplesmente matar meu conterrâneo porque desaprovo suas táticas." Irentis observa a devastação de Junção do Trapper, imerso em pensamentos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Apesar de mim mesmo, eu ainda quero que Mattias apareça. Ele deve saber que esse plano é uma loucura sem que eu precise apontar uma espada em seu pescoço."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Nós vamos ajudar. Posso me voluntariar para ajudar? Se você precisa de uma campeã para representar seu lado da causa, ela está bem aqui." O verso começa a sacar uma adaga em antecipação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Posso dizer que este será um excelente esporte. Ele não vai nos decepcionar vindo em silêncio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Essa é uma daquelas coisas que eu não preciso ver acontecer para saber que provavelmente aconteceu." Verse sorri para si mesma.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Você está impressionado que uma gangue de mentirosos poupou um punhado de nós para que eles pudessem acalmar o resto de nossa força de luta com falsas promessas? Quando seu futuro chefe de gangue está marcando você com seu sigilo ou cortando seu rosto por falar fora de hora, espero que você se lembre desse otimismo cego."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"O [url=glossary:unbroken]ininterrupto[/url] nunca caiu nesse truque do 'inimigo do meu inimigo' no passado, quando nossos líderes tinham coragem de ficar em pé. Claramente as coisas mudaram." Irentis endurece sua postura e fecha as mãos em punhos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"O refrão fizeram seu gesto de paz. Cabe a você retribuir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Não. Se você me acha tão ingênuo a ponto de permitir que a agitação sem direção do meu capitão desgraçado dite como eu vivo ou morro, então você subestimou o [url=glossary:unbroken]ininterrupto[/url]. Talvez pior, você superestimou Mattias."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Muitos dos [url=glossary:unbroken]ininterrupto[/url] seguem o exemplo Irentis' e te encaram, sacando suas armas uma a uma. Os seguidores de Mattias assumem ansiosamente posturas defensivas. O tempo todo, Irentis cruza os braços e te olha com um sorriso maroto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Você queria isso desde o início, Irentis. Não se esconda atrás de suas ilusões de patriotismo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Todos se afastem! Há ainda dá tempo de conversar sobre isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Eu não vim para lutar, mas parece que você me oferece pouca escolha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[Ataque] "Assim seja. O que é mais uma vala comum?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Você está preso às cordas do avental de [url=glossary:kyros]Kyros[/url]' militar - Eu não esperaria que você entendesse o significado de um último empurrão contra probabilidades impossíveis, mas aqui no Sul nós não não aceite inevitabilidades."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Filhos e filhas de Robusto - derrube esses possíveis salvadores que o venderiam por vingança mesquinha! Vamos restaurar este país em nossos termos!" Ele sinaliza para atacar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Irentis, este será o nosso fim! Você pega em armas contra os únicos aliados ao seu alcance - os únicos que podem derrubar o [url=glossary:disfavored]Desfavorecido[/url], e..." Seu discurso diminui para o silêncio enquanto os soldados se aproximam do Irentis .</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Vi a fraqueza em nosso capitão e lhe dei amplas oportunidades para corrigir seu comportamento. Ele falhou comigo. Sua intervenção trouxe à tona as falhas dele, então suponho que lhe devo agradecimentos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Houve tempo para conversar quando as forças [url=glossary:kyros]Kyros[/url]' marcharam em nossas fronteiras? Não. Nunca se trata de negociação com vocês imperialistas imundos, e não permitirei que isso desça para outro impasse prolongado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Sua luta termina aqui, Irentis. Nós dois sabemos que você não vai sobreviver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"De qualquer forma, esconda-se atrás de sua fachada inocente se funcionar na ralé, mas não vai me enganar. [url=glossary:kyros]Kyros[/url]' todos os lacaios degenerados usam o mesmo estratagema - oferecem termos impossíveis e ficam surpresos quando as hostilidades começam."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Eu lhe ofereci termos de paz. Responder com violência desonra o [url=glossary:unbroken]ininterrupto[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Para Versar.] "Acho que esse futuro cadáver precisa de uma lição de humildade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Eu ia trazer isso à tona, mas aqui você me venceu. Grandes mentes, hein chefe?" Versículo sorri para você e vira seu olhar faminto para Irentis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Tudo o que você fez aqui foi dividir o [url=glossary:unbroken]ininterrupto[/url]. Você não tem ninguém para culpar além de si mesmo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Você está errado. O medo e a dúvida nos separaram. A coragem nos unirá. Isso não seria necessário se todos nós lembrássemos o que significa ser [url=glossary:unbroken]ininterrupto[/url]." Ele considera Mattias com desgosto.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

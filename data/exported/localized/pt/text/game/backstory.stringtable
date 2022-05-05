@@ -1,0 +1,556 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>game\backstory</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>106</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Biografia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Passei minha juventude lutando para sobreviver na areia encharcada de sangue do Área de testes. O máximo que eu teria visto da Corte de [url=glossary:tunon]Tunon[/url] foi o cepo antes do machado de um carrasco, mas de alguma forma consegui me destacar como um assassino determinado. O meu é o tipo de talento que [url=glossary:tunon]Tunon[/url] procura em seus Fatebinders? O fato de eu estar aqui e escrever meu nome pela primeira vez sugere isso, mas me pergunto o que [url=glossary:tunon]Tunon[/url] vê que estou perdendo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Conquista</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Embora eu tivesse algum treinamento formal em combate, nunca esperei ver uma batalha em qualquer lugar mais emocionante do que a antecâmara de uma propriedade nobre. Eles contratam ombros largos como eu como guarda-costas ou cobradores de dívidas, mas [url=glossary:tunon]Tunon[/url] tem algo diferente em mente. Ele vê o potencial em todos, o que nem sempre é uma coisa boa. Se eu mantiver meu nariz na pedra de amolar e me concentrar no aprendizado de livros, espero viver de acordo com qualquer padrão irreal que ele estabeleceu para mim. O tempo vai dizer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Os [url=glossary:disfavored]Desfavorecido[/url] me levaram da minha tribo, e [url=glossary:tunon]Tunon[/url] me tirou dos [url=glossary:disfavored]Desfavorecido[/url]. Eu era o Caçador sem pêlos da Víbora Bounding, e agora sou trocado entre diplomatas por diversão. Levei algum tempo para perceber que a Corte é um campo de caça - um deserto menos óbvio - e melhor agir como predador do que como presa. [url=glossary:tunon]Tunon[/url] acha que pode me civilizar, e que meus modos selvagens vão arrancar a falsidade de seus mais altos oficiais. Reivindicações fortes de alguém que usa máscaras. Eu vou interpretar a pupila de estimação por enquanto, mas imagino um dia em que eu fique alto o suficiente para morder o pescoço do juiz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Todos disseram que tive a sorte de chamar a atenção do do juiz, mas ainda não estou convencido. Passei todos os anos que me lembro treinando para uma batalha gloriosa, e agora meus dias estão ocupados estudando precedentes legais exaustivos nos salões ecoantes do Tribunal. A educação que [url=glossary:tunon]Tunon[/url] oferece é expansiva, com certeza, mas me pergunto o que ele tem reservado para mim como Vinculador do Destino, e que vida ele me negou ao interromper meu treinamento na véspera de guerra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Eu me vendi às boas graças de [url=glossary:tunon]Tunon[/url] com um pouco de retórica montada às pressas, e poupei minha família da lâmina do carrasco no processo. Essa experiência é um microcosmo de como é viver no Tribunal - um desafio diário de desconfiança, observação e justificativa. Uma pena que não pudéssemos simplesmente agilizar a justiça pagando [url=glossary:tunon]Tunon[/url] seu peso em anéis... mas não importa. Esta posição pode render algumas oportunidades que eu poderia ter ignorado, e prevejo obter um lucro considerável com esse infortúnio, não importa onde eu termine.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Se vestir o sigilo extravagante de um Fatebinder era a alternativa ao trabalho duro, que assim fosse. [url=glossary:tunon]Tunon[/url] poderia ter marcado meu rosto e eu teria agradecido por sua generosidade. Aceito um trabalho de respeito, onde posso extorquir meus antigos concorrentes por subornos - dízimos para o Tribunal, melhor dizendo. Sem mencionar que serei o primeiro da minha família degenerada a desfrutar dos benefícios de uma educação formal. No pergaminho isso parece um acordo confortável, mas eu preciso jogar direto enquanto [url=glossary:tunon]Tunon[/url] está assistindo, ou então tudo isso vai embora.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>vida com o Guilda das Sete Árvores era isolada e estudiosa até que o [url=glossary:the voices of nerat]o Vozes de Nerat[/url] absorveu nossos magos no [url=glossary:scarlet chorus]Coro Escarlate[/url]. Estremeço ao imaginar quanto tempo eu poderia ter durado como um Refrão recruta, se [url=glossary:tunon]Tunon[/url] não tivesse se esforçado para me reivindicar como seu. Desde que entrei no Tribunal, meus estudos em feitiçaria progrediram além de qualquer coisa que o Guilda poderia ter me ensinado, e a educação sob o [url=glossary:tunon]Tunon[/url] abriu novas perspectivas de aplicação possível para meus talentos. Talvez essa mudança inesperada tenha sido para o melhor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Falar em público não é novidade para mim, embora eu deva admitir que as apostas são agora significativamente maiores do que minhas amabilidades usuais... Pode-se argumentar que o serviço ao juiz é o uso mais ambicioso de discurso disponível em Terrato. Se eu puder usar retórica e persuasão para convencer [url=glossary:tunon]Tunon[/url] de que sou um trunfo para o Tribunal, posso viver até a aposentadoria se tiver sorte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Em 428 TR conquistamos uma vitória antecipada contra uma guarnição de fronteira, dando um tom glorioso para a guerra que estava por vir. [url=glossary:disfavored]Desfavorecido[/url] moral estava tão alta quanto eu já tinha visto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Em 428 TR, suavizamos o Nível Bastardo antes do impulso principal do exército. O recrutamento do coro estabeleceu a expectativa para os locais - submissão ou morte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Em 428 TR marchamos no Camadas, devastando seu exército improvisado. O [url=glossary:disfavored]Desfavorecido[/url] mostrou ao inimigo como a criação e as táticas podem superar qualquer defensor comprado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Em 428 TR dispersamos os defensores Camadas com um impulso para frente apaixonado. O [url=glossary:scarlet chorus]Coro Escarlate[/url] os varreu como um maremoto - recrutando os dignos e colocando o resto na espada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Saindo à frente do exército, cheguei no [url=glossary:bastard city]Cidade bastarda[/url] e mantive um perfil discreto. A ajuda de um local bem relacionado me deu exatamente o que eu precisava para preparar a queda da cidade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Pegar o [url=glossary:bastard city]Cidade bastarda[/url] teria sido impossível com os firestarters locais apoiando o inimigo. Acabamos com o Escola da Ira Selvagem, desmantelando os únicos magos que se adiantaram para proteger o Nível Bastardo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>À medida que nossas vitórias se acumulavam, precisávamos de um plano para os prisioneiros de guerra que lotavam nossas prisões. Alguém precisava transportar ferro e suprimentos, então eu os dei para o [url=glossary:disfavored]Desfavorecido[/url] como mão de obra gratuita.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>À medida que nossas vitórias se acumulavam, precisávamos de um plano para os prisioneiros de guerra que lotavam nossas prisões. O refrão os números pareciam um pouco fracos, então dei a [url=glossary:the voices of nerat]o Vozes de Nerat[/url] uma nova safra de soldados dos antigos defensores inimigos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Ao nos concentrarmos em nosso impulso, o exército estava tão ansioso para limpar o caminho que enfrentamos uma escassez de alimentos. Deleguei o esforço de garantir suprimentos aos oficiais, que tiraram recursos locais para reabastecer os nossos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Com o exército no horizonte, ajudei o [url=glossary:bastard city]Cidade bastarda[/url] a cair por dentro. Matei o City Marshal em um duelo formal, demonstrando aos locais que as forças de [url=glossary:kyros]Kyros[/url] não seriam facilmente derrotadas. Separar-me da cadeia de comando e abrir caminho atrás das linhas inimigas me testou, mas eu vivi para ver o [url=glossary:bastard city]Cidade bastarda[/url] cair. Esta foi uma vitória importante - espero que a primeira de muitas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Com o exército no horizonte, ajudei o [url=glossary:bastard city]Cidade bastarda[/url] a cair por dentro. Eu convenci os locais a pegar em armas em nome de [url=glossary:kyros]Kyros[/url], formando uma gangue [url=glossary:scarlet chorus]Coro Escarlate[/url] dos oprimidos. Separar-me da cadeia de comando e abrir caminho atrás das linhas inimigas me testou, mas eu vivi para ver o [url=glossary:bastard city]Cidade bastarda[/url] cair. Esta foi uma vitória importante - espero que a primeira de muitas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Com o exército no horizonte, ajudei o [url=glossary:bastard city]Cidade bastarda[/url] a cair por dentro. Eu silenciosamente assassinei os mais altos oficiais da cidade, deixando seu governo mal administrado em terríveis ruínas. Separar-me da cadeia de comando e abrir caminho atrás das linhas inimigas me testou, mas eu vivi para ver o [url=glossary:bastard city]Cidade bastarda[/url] cair. Esta foi uma vitória importante - espero que a primeira de muitas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Quando nossos exércitos se reuniram nas muralhas do [url=glossary:bastard city]Cidade bastarda[/url], liderei um ataque direto aos portões fortificados. A implacabilidade e a brutalidade intransigente do [url=glossary:disfavored]Desfavorecido[/url] ganharam o dia. A segurança em números me manteve vivo o suficiente para ver a queda do [url=glossary:bastard city]Cidade bastarda[/url]. Que, por si só, é algo para contar à família. Esta foi uma vitória importante - espero que a primeira de muitas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Quando nossos exércitos se reuniram nas muralhas do [url=glossary:bastard city]Cidade bastarda[/url], ordenei que os portões fossem trancados e a cidade incendiada. Aqueles que não se renderam queimaram com seus compatriotas e líderes corruptos. A segurança em números me manteve vivo o suficiente para ver a queda do [url=glossary:bastard city]Cidade bastarda[/url]. Que, por si só, é algo para contar à família. Esta foi uma vitória importante - espero que a primeira de muitas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Quando nossos exércitos se reuniram nas muralhas do [url=glossary:bastard city]Cidade bastarda[/url], consegui [url=glossary:disfavored]Desfavorecido[/url] e [url=glossary:scarlet chorus]Coro Escarlate[/url] trabalhando juntos para derrubar as defesas da cidade. Não houve recurso para o Tierman, mas a rendição. A segurança em números me manteve vivo o suficiente para ver a queda do [url=glossary:bastard city]Cidade bastarda[/url]. Que, por si só, é algo para contar à família. Esta foi uma vitória importante - espero que a primeira de muitas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Encorajados por nossa vitória no [url=glossary:bastard city]Cidade bastarda[/url], pegamos Forte de Borda dos soldados de Ápice em 429 TR. As penas foram eriçadas sobre as táticas destrutivas de [url=glossary:cairn]Cairn[/url], mas aliviei as tensões dando crédito e censurando quando devido.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Mesmo que os Tiersmen tenham medo de magia, uma escola de magos da água lutou pelo Reino do Apex em 429 TR. Eu assegurei que eles não seriam mais um problema, seus ensinamentos logo foram perdidos para a história.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Em meio ao combate e tumulto, os moradores queriam um pouco de descanso e relaxamento coincidindo com um festival Camadas. Matei os foliões por exibirem seus costumes em tempos de guerra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Em meio ao combate e tumulto, os moradores queriam um pouco de descanso e relaxamento coincidindo com um festival Camadas. Dei a [url=glossary:scarlet chorus]Coro Escarlate[/url] a noite de folga para beber e se divertir com seus conterrâneos, confiando que isso levaria a uma rendição mais limpa no futuro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Mesmo quando nos atiramos contra o inimigo, nossas forças entraram em conflito por causa da tradição. Os [url=glossary:disfavored]Desfavorecido[/url] e [url=glossary:scarlet chorus]Coro Escarlate[/url] discordaram sobre o que fazer com as armas e armaduras pertencentes aos mortos nortistas. Tomei minha decisão e estabeleci um precedente para a campanha, confiando que esses incidentes se tornariam menos frequentes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Entre grandes batalhas, encontrei uma forma menos celebrada de sucesso no trabalho em equipe. Quando minhas forças prenderam um capitão inimigo, dei a ordem para enviá-lo de volta ao seu povo com uma mensagem. Era a única maneira de convencer esses Sulistas de que a cooperação era do seu interesse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Entre grandes batalhas, encontrei uma forma menos celebrada de sucesso no trabalho em equipe. Quando minhas forças prenderam um capitão inimigo, mandei executá-lo e colocá-lo em exibição. Somente a violência e o medo nos farão ganhar o respeito do Sul. Qualquer coisa menos nos faria parecer fracos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Assim como os problemas desta campanha pareciam estar se resolvendo, os [url=glossary:scarlet chorus]Coro Escarlate[/url] envenenaram o Ápice abastecimento de água e mataram alguns [url=glossary:disfavored]Desfavorecido[/url] no processo. Erros acontecem na guerra, mas neste caso foi preciso algum esforço para suavizar as tensões.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Fizemos mais do que apenas lutar em Ápice. Quando os defensores pediram a paz, eu negociei uma vitória sem derramamento de sangue que conquistou nossas forças Passe de borda - um importante ponto de parada nas montanhas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Fizemos mais do que apenas enfrentar exércitos em Ápice. Quando os defensores pediram a paz, eu atraí Rainha para um combate individual que a deixou sangrando diante de seus atendentes chocados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Tornei-me o de facto Governador de [url=glossary:lethian's crossing]A travessia de Lethian[/url] em 429 TR, e o aumento da produção de ferro coube a mim. Reaproveitei alguns [url=glossary:scarlet chorus]Coro Escarlate[/url] refugiados para o esforço árduo de transportar minério para o [url=glossary:forge-bound]Forge-Bound[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Tornei-me o de facto Governador de [url=glossary:lethian's crossing]A travessia de Lethian[/url] em 429 TR, e o aumento da produção de ferro coube a mim. Recrutei uma tribo de Homens-fera para o [url=glossary:scarlet chorus]Coro Escarlate[/url] e os coloquei para o trabalho de transporte de minério de ferro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Tornei-me o de fato Governador de [url=glossary:lethian's crossing]A travessia de Lethian[/url] em 429 TR. Quando Sirin enfeitiçou os moradores locais em um culto, eu ordenei que ela parasse e fiz com que seus seguidores fossem derrotados com violência.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Tornei-me o de fato Governador de [url=glossary:lethian's crossing]A travessia de Lethian[/url] em 429 TR. Quando Sirin enfeitiçou os locais em um culto, mandei seus seguidores serem enviados para as linhas de frente da guerra para se provarem em combate ou morreriam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>A presença de ferro levantou algumas tensões. Quando oficiais de alto escalão me subornaram por [url=glossary:forge-bound]Forge-Bound[/url] armas, deixei o [url=glossary:disfavored]Desfavorecido[/url] ter o melhor do arsenal - mantendo o ferro nas mãos de a legião.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>presença de ferro levantou algumas tensões. Quando oficiais de alto escalão me subornaram para [url=glossary:forge-bound]Forge-Bound[/url] armas, eu escolhi armar um chefe de gangue Refrão. Às vezes, os favores e o bem substituem a cadeia de comando.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>A presença de ferro levantou algumas tensões. Quando oficiais de alto escalão me subornaram por [url=glossary:forge-bound]Forge-Bound[/url] armas, eu puni os dois por sua impertinência. Eu sou a lei.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Acima de tudo, minhas forças tinham que lidar com os mercenários da cidade. Quando o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] superlotou os quartéis disponíveis, separei-os dos próprios militares em um segundo quartel, preservando a dignidade da legião.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Acima de tudo, minhas forças tinham que lidar com os mercenários da cidade. Quando o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] superlotou os alojamentos disponíveis, permiti que a Irmandade e o [url=glossary:scarlet chorus]Coro Escarlate[/url] se envolvessem em jogos de combate que aliviaram as tensões e espalharam boa vontade entre as fileiras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>guerra fora de nossos muros era importante demais para tolerar ferreiros distraídos. Quando um [url=glossary:forge-bound]Forge-Bound[/url] mago jurou fidelidade a [url=glossary:the voices of nerat]the Vozes de Nerat[/url], mandei que voltasse a trabalhar acorrentado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>A guerra fora de nossos muros era importante demais para tolerar ferreiros distraídos. Quando um [url=glossary:forge-bound]Forge-Bound[/url] mago jurou fidelidade a [url=glossary:the voices of nerat]the Vozes de Nerat[/url], eu ordenei que sua memória fosse apagada para proteger o segredo da forja de ferro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>O conflito não parou nas muralhas da cidade. Quando o Bane ataquei [url=glossary:lethian's crossing]A travessia de Lethian[/url], eu encarreguei o [url=glossary:scarlet chorus]Coro Escarlate[/url] com o fardo de guardar a cidade enquanto o [url=glossary:disfavored]Desfavorecido[/url] fez uma pausa bem-vinda.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>O conflito não parou nas muralhas da cidade. Quando o Bane atacou [url=glossary:lethian's crossing]A travessia de Lethian[/url], atribuí o [url=glossary:disfavored]Desfavorecido[/url] para o dever de guarda enquanto o [url=glossary:scarlet chorus]Coro Escarlate[/url] teve um merecido alívio da guerra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Depois de uma briga com o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] ferir um [url=glossary:forge-bound]Forge-Bound[/url] smith, eu chutei os mercenários ineptos de [url=glossary:lethian's crossing]A travessia de Lethian[/url] e concedeu ao [url=glossary:disfavored]Desfavorecido[/url] a honra da governança.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Depois de uma briga com o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] ferir um [url=glossary:forge-bound]Forge-Bound[/url] smith, eu chutei os mercenários ineptos de [url=glossary:lethian's crossing]A travessia de Lethian[/url] e concedeu ao [url=glossary:scarlet chorus]Coro Escarlate[/url] a honra da governança.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Em 430 TR entrei para o exército na campanha Robusto. A escassez de alimentos colocou as forças [url=glossary:kyros]Kyros[/url]' em conflito umas com as outras, mas eu agi para disciplinar os responsáveis por violência ou roubo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Em 430 TR entrei para o exército na campanha Robusto. Alegações de imprudência e apropriação indébita de soldados desafiaram nosso moral, mas eu puni falsas acusações e me certifiquei de que futuras alegações fossem apoiadas por fatos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Quando [url=glossary:scarlet chorus]Coro Escarlate[/url] magos encantados Homem-Besta escravos longe de seus senhores, interrompi a prática imediatamente e puni os responsáveis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Quando [url=glossary:scarlet chorus]Coro Escarlate[/url] magos encantados Homem-Besta escravos longe de seus senhores, eu aprovo a prática inovadora e a considero aceitável para uso futuro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Tão fundo na guerra, manter a capacidade do exército era seu próprio desafio. Os moradores se mataram durante a campanha, impossibilitando o recrutamento. Eu bani o Refrão de recrutar em Robusto para poupar os civis da escolha do suicídio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Tão fundo na guerra, manter a capacidade do exército era seu próprio desafio. Os moradores se mataram durante a campanha, impossibilitando o recrutamento. Eu deixei os [url=glossary:scarlet chorus]Coro Escarlate[/url] pegar [url=glossary:disfavored]Desfavorecido[/url] escravos para recuperar seus números perdidos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Como se os moradores não estivessem nos dando problemas suficientes, avistamos [url=glossary:scarlet chorus]Coro Escarlate[/url] agentes trabalhando com os Robusto combatentes. Ordenei que fossem executados como traidores. Os planos para uma operação de espionagem deveriam ter passado por mim.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Como se os moradores não estivessem nos dando problemas suficientes, avistamos [url=glossary:scarlet chorus]Coro Escarlate[/url] agentes trabalhando com os Robusto combatentes. Permiti que seus esforços de espionagem continuassem ininterruptos, confiando que produziriam inteligência de qualidade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Pode-se pensar que os exércitos disputariam táticas, mas a verdade é que eles podem discordar sobre qualquer coisa. Os exércitos capturaram um inimigo Regente e discutiram sobre seu destino. Ordenei que ela fosse executada e exposta como exemplo para seus intratáveis compatriotas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Pode-se pensar que os exércitos disputariam táticas, mas a verdade é que eles podem discordar sobre qualquer coisa. Os exércitos capturaram um inimigo Regente e discutiram sobre seu destino. Ordenei que ela fosse enviada para [url=glossary:the voices of nerat]990000#[/url] para interrogatório.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Finalmente chegamos a um ponto de ruptura com estes Sulistas. Quando o robusto os defensores se recusaram a deixar sua fortaleza, [url=glossary:kyros]Kyros[/url] me concedeu a honra de proclamar o [url=glossary:edict]Edital[/url] de Tempestades. Não dei nenhum aviso aos moradores da devastação que estava por vir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>Finalmente chegamos a um ponto de ruptura com esses Sulistas. Quando o robusto os defensores se recusaram a deixar sua fortaleza, [url=glossary:kyros]Kyros[/url] me concedeu a honra de proclamar o [url=glossary:edict]Edital[/url] de Tempestades. Avisei as pessoas para mitigar as perdas civis. Melhor que [url=glossary:kyros]Kyros[/url] governar um orfanato do que um cemitério.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Em 430 TR entrei para o exército na campanha Azure. Depois [url=glossary:cairn]Cairn[/url] arruinou as colheitas e causou escassez de alimentos, eu culpei o [url=glossary:scarlet chorus]Coro Escarlate[/url] por ter muitas bocas para alimentar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Em 430 TR entrei para o exército na campanha Azure. Depois [url=glossary:cairn]Cairn[/url] arruinou as colheitas e causou escassez de alimentos, me apropriei do Tremedores de terra para reparar o dano do Arconte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Em 430 TR entrei para o exército na campanha Azure. Depois de um bando de Homens-fera soldados da legião massacrados, deixei os [url=glossary:disfavored]Desfavorecido[/url] se vingarem das criaturas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Em 430 TR entrei para o exército na campanha Azure. Depois de um bando de Homens-fera soldados da legião massacrados, permiti que o [url=glossary:scarlet chorus]Coro Escarlate[/url] adicionasse as criaturas às suas fileiras sem interferência do [url=glossary:disfavored]Desfavorecido[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Às vezes, os piores inimigos vinham de dentro de nossas fileiras. Quando o Arconte de Pedra se rebelou contra [url=glossary:kyros]Kyros[/url], mandei o [url=glossary:disfavored]Desfavorecido[/url] marchar atrás dele para fazer justiça, que só viria depois.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Às vezes, os piores inimigos vinham de dentro de nossas fileiras. Quando o Arconte de Pedra se rebelou contra [url=glossary:kyros]Kyros[/url], despachei as gangues [url=glossary:scarlet chorus]Coro Escarlate[/url] para localizá-lo. Claro, a justiça esperaria até mais tarde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>A luta desgastava as pessoas, mas era importante manter a cadeia de comando. Depois que [url=glossary:scarlet chorus]Coro Escarlate[/url] forçou Tremedores de terra a lutar contra sua vontade, libertei os magos de suas amarras e escravizei os responsáveis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>A luta desgastava as pessoas, mas era importante manter a cadeia de comando. Depois que [url=glossary:scarlet chorus]Coro Escarlate[/url] forçou Tremedores de terra a combater contra sua vontade, apoiei a apropriação de recursos militares quando disponíveis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>única coisa que nos deu mais problemas do que [url=glossary:cairn]Cairn[/url] foram os locais Bestas. Uma lutadora [url=glossary:scarlet chorus]Coro Escarlate[/url] alegou que sua gangue foi atacada por Homens-fera leal ao Arconte de Pedra. Eu permiti que o [url=glossary:disfavored]Desfavorecido[/url] caçasse a tribo, mas o Refrão foi usado para proteger o traidor Arconte da culpa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>A única coisa que nos deu mais problemas do que [url=glossary:cairn]Cairn[/url] foram os locais Bestas. Uma lutadora [url=glossary:scarlet chorus]Coro Escarlate[/url] alegou que sua gangue foi atacada por Homens-fera leal ao Arconte de Pedra. Eu permiti que o Refrão capturasse a matilha e os interrogasse para obter informações. Isso irritou o [url=glossary:disfavored]Desfavorecido[/url], que não tolerava a suspeita de traição.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Precisávamos chegar ao fundo do problema Homem-Besta. Os [url=glossary:disfavored]Desfavorecido[/url] capturou e dissecou Homem-Besta conjuradores. Quando o Coro objetou, permiti que a legião continuasse seus experimentos, pois eles só poderiam revelar a traição de [url=glossary:cairn]Cairn[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Precisávamos chegar ao fundo do problema Homem-Besta. Os [url=glossary:disfavored]Desfavorecido[/url] capturou e dissecou Homem-Besta conjuradores. Quando o Coro objetou, enviei as Bestas cativas para serem recrutadas. Este foi um revés para a investigação sobre a traição de [url=glossary:cairn]Cairn[/url], mas pelo menos reabasteceu as fileiras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Quando o Arconte de Pedra a traição explodiu em fúria, [url=glossary:kyros]Kyros[/url] me concedeu a honra de proclamar o [url=glossary:edict]Edital[/url] de Pedra. Enviei o [url=glossary:disfavored]Desfavorecido[/url] para marchar contra o Arconte e diminuir sua fúria enquanto a magia do [url=glossary:edict]Edital[/url] o destruía.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Quando o Arconte de Pedra a traição explodiu em fúria, [url=glossary:kyros]Kyros[/url] me concedeu a honra de proclamar o [url=glossary:edict]Edital[/url] de Pedra. Eu despachei o [url=glossary:scarlet chorus]Coro Escarlate[/url] para enxamear [url=glossary:cairn]Cairn[/url] e diminuir sua marcha implacável enquanto a magia do [url=glossary:edict]Edital[/url] o destruía.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Quando o Arconte de Pedra a traição explodiu em fúria, [url=glossary:kyros]Kyros[/url] me concedeu a honra de proclamar o [url=glossary:edict]Edital[/url] de Pedra. Comprometi toda a força de [url=glossary:disfavored]Desfavorecido[/url] e [url=glossary:scarlet chorus]Coro Escarlate[/url] na região para lutar contra [url=glossary:cairn]Cairn[/url], apostando na vida de centenas para poupar um Tierman enquanto a magia Soberano o destruiu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Em 430 TR, entrei para um destacamento militar para capturar o conhecimento e os recursos do [url=glossary:vellum citadel]Cidadela de Velino[/url]. Quando os sábios atacados, ordenei ao [url=glossary:scarlet chorus]Coro Escarlate[/url] que arriscassem suas vidas na batalha, dando ao [url=glossary:disfavored]Desfavorecido[/url] uma abertura para recuar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Em 430 TR, entrei para um destacamento militar para capturar o conhecimento e os recursos do [url=glossary:vellum citadel]Cidadela de Velino[/url]. Quando os sábios atacado, mandei o [url=glossary:disfavored]Desfavorecido[/url] levantar uma parede de escudos, sacrificando vidas para que o [url=glossary:scarlet chorus]Coro Escarlate[/url] pudesse fazer uma retirada limpa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Em 430 TR, entrei para um destacamento militar para capturar o conhecimento e os recursos do [url=glossary:vellum citadel]Cidadela de Velino[/url]. Quando o Arconte da Canção encantado Sábios para se juntar ao [url=glossary:scarlet chorus]Coro Escarlate[/url], eu os silenciei para evitar a propagação do conhecimento proibido.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Em 430 TR, entrei para um destacamento militar para capturar o conhecimento e os recursos do [url=glossary:vellum citadel]Cidadela de Velino[/url]. Quando os soldados da legião mataram Sábios vinculados ao [url=glossary:scarlet chorus]Coro Escarlate[/url], eu os escravizei como páginas do Arconte da Canção.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Todo esse conhecimento alojado no Cidadela, e não tínhamos permissão para ler uma palavra. Uma briga começou depois que o [url=glossary:scarlet chorus]Coro Escarlate[/url] tentou resgatar livros de uma fogueira. Eu defendi a lei e queimei os textos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Todo esse conhecimento alojado no Cidadela, e não tínhamos permissão para ler uma palavra. Uma briga começou depois que o [url=glossary:scarlet chorus]Coro Escarlate[/url] tentou resgatar livros de uma fogueira. Eu pedi pergaminhos para o Refrão como pilhagem legítima.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Nem todos os Sábios se mantiveram isolados na biblioteca. [url=glossary:disfavored]Desfavorecido[/url] batedores sumiram enquanto caçavam o inimigo Sábios. Eu pedi o [url=glossary:scarlet chorus]Coro Escarlate[/url] para enviar uma equipe de busca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Nem todos os Sábios se mantiveram isolados na biblioteca. [url=glossary:disfavored]Desfavorecido[/url] batedores sumiram enquanto caçavam o inimigo Sábios. Eu os escrevi como baixas da guerra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Às vezes eu me perguntava se a guerra poderia ser melhor com menos Arcontes envolvidos. Quando Sirin causou brigas entre as [url=glossary:scarlet chorus]Coro Escarlate[/url] gangues, acabei com sua barbárie forçada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Às vezes eu me perguntava se a guerra poderia ser melhor com menos Arcontes envolvidos. Quando Sirin provocou brigas entre as [url=glossary:scarlet chorus]Coro Escarlate[/url] gangues, defendi a regra do Arcontes e do Direito de contestação como essenciais ao esforço de guerra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Às vezes ficou difícil julgar amigo de inimigo. Quando o inimigo Sábios se apresentou como Refrão espiões, mandei prendê-los e interrogá-los com o [url=glossary:disfavored]Desfavorecido[/url] para analisar suas alegações.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Às vezes ficou difícil julgar amigo de inimigo. Quando o inimigo Sábios se apresentou como Refrão espiões, eu os liberei sob custódia do [url=glossary:scarlet chorus]Coro Escarlate[/url], confiando na legião para cuidar de seus assuntos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Depois que a campanha cresceu e os exércitos se dividiram, [url=glossary:kyros]Kyros[/url] me concedeu a honra de proclamar o [url=glossary:edict]Edital[/url] de Fogo no [url=glossary:vellum citadel]Cidadela de Velino[/url]. Não concedi ao Sábios nenhum aviso sobre os incêndios ou destruição que causariam estragos em sua fortaleza biblioteca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Depois que a campanha cresceu e os exércitos se dividiram, [url=glossary:kyros]Kyros[/url] me concedeu a honra de proclamar o [url=glossary:edict]Edital[/url] de Fogo no [url=glossary:vellum citadel]Cidadela de Velino[/url]. Eu avisei o Sábios com antecedência, dando a eles uma oportunidade final de se render ou se preparar antes de devastar sua fortaleza da biblioteca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Entre o treinamento rigoroso, a educação ampla, a supervisão constante do Árbitro, meus colegas, e a sensação de [url=glossary:bleden mark]Marca de mistura[/url] à espreita no canto o tempo todo, a vida de um Vinculador do Destino é uma vida mais difícil do que a maioria esperaria. Acho que [url=glossary:tunon]Tunon[/url] faz isso com seus alunos intencionalmente - nos mantém ansiosos, adivinhando e competitivos. Mesmo que sejamos algumas das pessoas mais respeitadas do Império, [url=glossary:tunon]Tunon[/url] gosta de nos manter humildes. "Like" é uma palavra muito forte para qualquer imitação pálida de emoção que espreita por trás de sua máscara inescrutável. Cheguei até aqui com a confiança de [url=glossary:tunon]Tunon[/url]. Vamos ver até onde posso ir. 
+
+[url=glossary:tunon]Tunon[/url] me concedeu uma honra inédita: a oportunidade de acompanhar as forças de [url=glossary:kyros]Kyros[/url]' na campanha ao sul. Ele diz que devo representar [url=glossary:kyros]Kyros[/url]' Lei na fronteira selvagem e abrir caminho para sua mão civilizadora. Terei alguma autoridade militar à minha disposição, mas [url=glossary:graven ashe]Cinza esculpida[/url] e [url=glossary:the voices of nerat]o Vozes de Nerat[/url] serão os arquitetos dessa conquista. Principalmente estarei lá para observar as operações de guerra e resolver quaisquer divergências que possam surgir. Eu sei que o Sulistas só aceitará [url=glossary:kyros]Kyros[/url]' Paz chutando e gritando, então aqui está a esperança de que eu possa fazer a transição suave para todos nós.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Agora que [url=glossary:tunon]Tunon[/url] estabeleceu sua Corte na sala do trono vazia e convocou o outro Vinculadores do Destino, ele está me enviando para acompanhar o exército enquanto ele arruma sua nova cidade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Escolhi seguir o exército até o Reino do Apex. Os sulistas não ocupam muito espaço aqui, mas a terra que possuem é comandada por rios e montanhas - pontos de estrangulamento, em outras palavras. Parece um desafio digno para qualquer militar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>O exército está indo para [url=glossary:lethian's crossing]A travessia de Lethian[/url], e eu o seguirei. [url=glossary:tunon]Tunon[/url] coloca grande ênfase neste local, pois ele quer que o [url=glossary:forge-bound]Forge-Bound[/url] faça um assentamento permanente aqui. A produção de ferro vai fazer ou quebrar esta guerra, como ele gosta de me dizer. Vou ficar de olho nas forjas e garantir que tudo se mova no ritmo apropriado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Aqueles Apex os defensores são um bando feroz e apaixonado - mais combativos do que eu poderia imaginar. Nós realmente tivemos que quebrar o ânimo deles antes que a oferta de rendição fizesse algum sentido prático para eles. Teimoso, mas admirável o suficiente para Sulistas. Estou sendo implantado mais longe, pois parece que meu trabalho nunca termina.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Quem teria pensado que a produção de ferro nos daria tantos problemas? É por isso que [url=glossary:kyros]Kyros[/url] não lida com mercenários. Melhor que uma força mais sensata e organizada que o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] comande essa cidade... Fiz o que pude para estabilizar nossa produção de ferro, estou tirando o manto de Governador e seguindo para a última etapa de nossa conquista.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Estou acompanhando o exército para Robusto, a pátria do talvez mais resistente e teimoso de Tiersmen. Nossas forças estão lutando há dois anos e nesse tempo, os covardes de Robusto se amontoaram em seu canto e se prepararam para a batalha. Eles fazem muito por nunca terem perdido uma guerra em sua terra natal, chegando ao ponto de nomear seu exército 'o [url=glossary:unbroken]ininterrupto[/url].' Mas, considerando os locais que encontramos até agora, suspeito que esses Tiersmen não enfrentam um desafiante competente há anos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Se vou passar mais um ano no calor escaldante do Sul, prefiro gastá-lo no Azure. O celeiro do Camadas parece legal e convidativo em comparação com o resto do continente. Uma vez que uma força militar considerável E o Arconte de Pedra se juntarão a mim, duvido que esses fazendeiros ou seus Homem-Besta escravos nos causem muitos problemas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Um pequeno destacamento de soldados está indo para o [url=glossary:vellum citadel]Cidadela de Velino[/url], um extenso repositório de conhecimento que é tão proibido que deixaria [url=glossary:tunon]Tunon[/url] ofegante no chão se ele lesse tanto quanto uma lista de compras retirada das pilhas. Não posso deixar de encontrar minha curiosidade despertada no que - ou quem - eu poderia encontrar lá. Diz-se que Os Sábios é mais intimidante do que parece, mas suspeito que eles verão a sabedoria da rendição.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Não cometerei o erro de subestimar o inimigo novamente. Eu nunca poderia imaginar que o nacionalismo e o orgulho obstinados poderiam carregar um exército enquanto carregasse os Robusto defensores. Mesmo o [url=glossary:edict]Edital[/url] de Tempestades, que destruiu a maior parte de sua força de combate, levou a guerra a um impasse - não a uma vitória. Incrível. Eu ficaria para trás para observar a lenta erosão deste reino caído, mas o dever me chama de volta ao [url=glossary:bastard city]Cidade bastarda[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Olhando para trás nessas entradas, posso ver agora que minha confiança no Arconte de Pedra foi equivocada. Não sei se algo no Azure o induziu a [url=glossary:cairn]Cairn[/url] a perder o juízo ou se ele sempre esteve pronto para se rebelar... embora eu suspeite que tenha sido um pouco dos dois. Nós conquistamos este reino maldito apesar da traição de [url=glossary:cairn]Cairn[/url]. Os Homens-Besta quem o seguiu continuará sendo problemático, mas vou guardar esses detalhes para o exército e nossos esforços de limpeza. Sou chamado de volta ao Tribunal de [url=glossary:tunon]Tunon[/url] no [url=glossary:bastard city]Cidade bastarda[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>cerco que trouxemos contra esses feiticeiros intrometidos tirou mais do nosso pequeno destacamento do que tínhamos a oferecer. [url=glossary:tunon]Tunon[/url] talvez nunca perdoe o revés em nossa campanha, muito menos o esforço necessário para forçar o último dos Sábios a se submeter. O [url=glossary:vellum citadel]Cidadela de Velino[/url] agora é conhecido como o [url=glossary:burning library]Biblioteca em chamas[/url] - o conhecimento proibido do Escola de tinta e pena agora alimenta uma pira de vitória. Embora os sábios nunca se renderam formalmente, eles foram quebrados e tornados irrelevantes... algum pequeno consolo ali. Afasto-me deste capítulo perturbador da campanha e oriento-me para o [url=glossary:bastard city]Cidade bastarda[/url], onde os meus deveres em [url=glossary:tunon]Tunon[/url] Tribunal aguardam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Muitas vezes me deparo com minha mente divagando da conquista e, de fato, de minhas próprias responsabilidades. Proclamar um [url=glossary:edict]Edital[/url] foi realmente o auge da minha conquista durante esta campanha prolongada, e me incomoda que eu deva retornar às minhas funções regulares depois de me entregar a tal poder... 
+
+Por um momento, Eu era a voz e a vontade do soberano manifestado nesta fronteira sem lei. Senti o poder da autoridade absoluta sair de meus lábios e julgar as massas em uma escala que nem mesmo [url=glossary:tunon]Tunon[/url] pode apreciar plenamente. Eu sei que tenho sido fundamental na condução dos eventos desta guerra - eu me pergunto se talvez seja cedo demais para me deixar pensar nos espólios, nos elogios e no bem-vindo retorno para casa... essas coisas terão que esperar um pouco mais. 
+
+Voltei para o [url=glossary:bastard city]Cidade bastarda[/url] para ocupar meu lugar no [url=glossary:tunon]Tunon[/url] Tribunal. O Soberano conquista finalmente acabou, mas ainda há muito trabalho para trazer [url=glossary:kyros]Kyros[/url]' Paz à ralé do Camadas. O outro Vinculadores do Destino me atribui tarefas leves para que eu possa convalescer de minhas provações. Canalizando o Overlord poder enquanto proclamava um [url=glossary:edict]Edital[/url] minou muito da minha força. Tenho sorte de ter sobrevivido à experiência.
+
+Rumores chegam ao tribunal da agitação no Camadas. Eu não estou a par do conselho do meu senhor [url=glossary:tunon]Tunon[/url], mas posso dizer que ele está preocupado com a crescente tensão entre o [url=glossary:disfavored]Desfavorecido[/url] e [url=glossary:scarlet chorus]Coro Escarlate [/url] exércitos. Eventualmente, ele deve decidir qual Arconte se tornará o Governador do Camadas. Temo que suas deliberações metódicas só vão inflamar [url=glossary:kyros]Kyros[/url]' soldados uns contra os outros.
+
+Está se mostrando mais difícil sufocar os espíritos desses Tiersmen do que inicialmente pensávamos. Há um traço de teimosia animal inerente à sua natureza que os faz resistir às exigências da Lei [url=glossary:kyros]Kyros[/url]'.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Rebelião! As guarnições em [url=glossary:vendrien's well]Poço de Vendrien[/url] foram massacradas durante a noite em um ataque traiçoeiro. Um grupo de Tiersmen violou seus juramentos de rendição e agora reivindica independência da regra [url=glossary:kyros]Kyros[/url]'. Os Arcontes clamam por vingança, cada um exigindo o direito de esmagar esta rebelião.
+
+Meu senhor [url=glossary:tunon]Tunon[/url] recebe a notícia do soberano: ambos os exércitos serão enviados para eliminar os infratores. Quase sinto pena desses Tiersmen. Eles não têm noção do destino que cairá sobre eles.
+
+Já se passaram vários anos desde que os exércitos chegaram em [url=glossary:vendrien's well]Poço de Vendrien[/url], e ainda não há nenhuma palavra de vitória. Os Arcontes brigam como cães por um osso, e meu senhor [url=glossary:tunon]Tunon[/url] se cansa do fluxo constante de missivas de cada exército. Ouvi Fatebinders Calio e Nunoval falando. Eles acreditam que [url=glossary:tunon]Tunon[/url] se aplicará a [url=glossary:kyros]Kyros[/url] para a autoridade trazer o Arcontes para o calcanhar. Será divertido ouvir Ashe e Nerat uivar enquanto eles enfrentam o do juiz julgamento.
+
+A palavra chegou. Mais uma vez sou escolhido para carregar [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url]. Poucos Vinculadores do Destino sobreviveram proclamando um único [url=glossary:edict]Edital[/url], quanto mais dois. E nenhum proclamou um segundo [url=glossary:edict]Edital[/url] tão logo após o primeiro.
+
+Eu parti para o [url=glossary:vendrien's well]Poço de Vendrien[/url] pela manhã. Só espero ter forças para o que está por vir.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

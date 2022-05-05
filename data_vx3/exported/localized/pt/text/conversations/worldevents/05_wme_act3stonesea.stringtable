@@ -1,0 +1,355 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\worldevents\05_wme_act3stonesea</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>65</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Você percebe um movimento à distância, pouco mais que um tremor de sombra entre os restos de uma aldeia que se agarra à beira de um pilar de pedra. Você permanece longe de [Plainsgate] e Cacofonia, então parece improvável que colonos ou soldados espreitam entre as ruínas.
+
+Talvez saqueadores, invasores ou um bando de Homens-fera tenham feito dos prédios em ruínas seus casa...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Investigar mais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Evite a vila.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Casas de adobe, rachadas pelo Soberano [url=glossary:edict]Edital[/url] de Pedra e esbranquiçadas pelo sol, repousam em um semicírculo solto ao redor de onde você imagina um poço ou praça. Em vez de, a terra termina abruptamente, demarcando um mergulho de centenas de metros nas profundezas sombreadas abaixo.
+
+Das janelas de várias casas derrama uma fraca luz violeta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Decidindo deixar o que quer que resida nas ruínas, você oferece aos restos um amplo espaço enquanto continua sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Investigar mais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Deixar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Você se aproxima silenciosamente de um dos prédios, usando-o como cobertura para ver dentro da próxima casa, cuja parede próxima desmoronou convenientemente. Dentro de você vê um grupo de humanos reunidos em torno de fragmentos de Azurelith, os cristais roxos pálidos que apareceram em todo o [url=glossary:stone sea]Mar de Pedra[/url] na sequência de [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url]. 
+
+À medida que você se aproxima, você pode ver que eles usam o mínimo de roupas necessárias para preservar sua modéstia, e sua pele tem linhas de luz que brilham roxas contra a escuridão dentro de casa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Investigar mais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>As pessoas dentro do prédio parecem totalmente inconscientes de você, sua atenção inteiramente em um santuário de fragmentos Azurelith coletados que domina o canto mais distante. As linhas de luz em sua pele parecem traçar runas primitivas que têm uma semelhança distante com as marcas Homens-fera às vezes esculpidas em sua pele. 
+
+As pessoas cantam baixinho, invocando [url=glossary:cairn]Cairn[/url], os caídos Arconte de Pedra, para restaurar suas terras e libertá-los do sofrimento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Ataque os aldeões.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Fale com eles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Deixar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Apanhados de surpresa, os habitantes [url=glossary:stone sea]Mar de Pedra[/url] mal conseguem levantar forcados e falxes contra você antes que você caia entre eles, seu treinamento superior e poder místico esmagando inteiramente os aldeões derrotados. Sangue respinga na parede e se acumula no chão, correndo pelas rachaduras no chão para ser absorvido pela pedra sedenta.
+
+Acaba em instantes, e você vence os cadáveres dos mortos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Você entra em campo aberto e saúda o grupo, inspirando uma comoção de gritos assustados e forcados levantados. Você oferece suas palmas abertas e vazias e pensa no que dizer a elas...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Tendo o suficiente desses estranhos moradores Azure, você se afasta tão silenciosamente quanto se aproxima, deixando-os inconscientes de sua presença.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Você vasculha os corpos em busca de anéis ou outros objetos de valor, encontrando couro e metais preciosos entre os detritos. Você deixa a matança para trás e abandona a aldeia para continuar sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Pegue o Azurelith.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Deixe estar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Apanhados de surpresa, os habitantes [url=glossary:stone sea]Mar de Pedra[/url] mal conseguem levantar forcados e falxes contra você antes que você caia entre eles, seu treinamento superior e poder místico esmagando inteiramente os aldeões derrotados. Sangue respinga na parede e se acumula no chão, correndo pelas rachaduras no chão para ser absorvido pela pedra sedenta.
+
+Acaba em instantes, e você vence os cadáveres dos mortos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Você carrega suas bolsas e pacotes com o máximo de cristal roxo que puder carregar, deixando para trás os pedaços mais sangrentos. Você tem certeza de que suas descobertas irão interessar seus aliados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Você carrega suas bolsas e pacotes com o máximo de cristal roxo que puder carregar, deixando para trás os pedaços mais sangrentos. Você tem certeza de que suas descobertas irão interessar seus aliados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Você carrega suas bolsas e pacotes com o máximo de cristal roxo que puder carregar, deixando para trás os pedaços mais sangrentos. Você tem certeza de que suas descobertas irão interessar seus aliados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Você vasculha os corpos em busca de anéis ou outros objetos de valor, encontrando couro e metais preciosos entre os detritos. Você deixa a matança para trás e abandona a aldeia para continuar sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Você vasculha os corpos em busca de anéis ou outros objetos de valor, encontrando couro e metais preciosos entre os detritos. Você deixa a matança para trás e abandona a aldeia para continuar sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Você vasculha os corpos em busca de anéis ou outros objetos de valor, encontrando couro e metais preciosos entre os detritos. Você deixa a matança para trás e abandona a aldeia para continuar sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Kills-in-Shadow se agacha ao seu lado e silenciosamente fareja o ar. 
+
+"[url=glossary:stone sea]Mar de Pedra[/url] humanos cheiram a Dentes mais velhos, sussurro de Arconte de Pedra. Pense Dentes Velhos tornará os humanos fortes - mas não."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"O que você está fazendo aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Se [url=glossary:cairn]Cairn[/url] pode te ajudar, você sabe que essa idolatria supersticiosa é totalmente ilegal, certo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Quantos anéis para comprar esses cristais de você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>[Ataque] "Suficiente disso - sua vida está perdida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Um dos aldeões, um homem magricela com cabelos crespos, dá um passo à frente. Você percebe que sua pele parece seca e empoeirada, rachada em alguns lugares como a terra ressecada do [url=glossary:stone sea]Mar de Pedra[/url]. Seus olhos brilham com luz violeta, mas pode ser apenas um reflexo do Azurelith.
+
+"Comungamos com o Homem do Montanha. Ele nos concede suas dádivas e nos protege das crueldades deste lugar. Ele virá até nós a tempo, para nos salvar do Soberano jugo tirânico!" Os outros aldeões concordam com a cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>O homem alto sorri. "Não nos importamos com as leis dos invasores estrangeiros."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Os aldeões ficam boquiabertos com você, horrorizados. 
+
+"Nós nunca venderíamos os presentes do Homem da Montanha! Nenhuma quantidade de anéis poderia nos convencer!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Eventualmente alguém de Cacofonia irá vagar por aqui. Se o [url=glossary:scarlet chorus]Coro Escarlate[/url] o encontrar aqui, não será bom para você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Você se importa se eu me juntar a você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Deixar] "Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Os estranhos aldeões não fazem nenhum movimento para detê-lo enquanto você os deixa para trás.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Para Sirin:] "Você pode cuidar disso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>O Arconte da Canção sorri maliciosamente. "Muito melhor eles me adorarem, certo?" Mesmo quando ela termina a frase, sua voz está subindo em uma harmonia musical sustentada, de alguma forma vocalizando várias notas ao mesmo tempo. Os aldeões voltam seus olhares desfocados para ela e lentamente deixam de lado seus cristais.
+
+"Eu os tenho. O que devo fazer com eles?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"O Homem do Montanha deve nos proteger. Ele já nos concede seu favor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Com os olhos arregalados de surpresa, os aldeões o convidam para seu círculo. Eles pintam suas feições com cristal triturado e, ao meditar na calma luz violeta, você sente um calor se espalhar de seus ossos para sua pele. Você deixa os aldeões para trás, sentindo-se endurecido contra os perigos do Camadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Recrute-os.] "Cacofonia fica a leste daqui. Junte suas coisas. [url=glossary:the voices of nerat]As vozes de Nerat[/url] será um prazer conhecê-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Vá para Stone Down Gorge e diga ao [url=glossary:stonestalkers]Perseguidores de Pedras[/url] lá que te enviei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Um murmúrio se ergue entre os aldeões. "Para as feras?" um pergunta, a voz trêmula.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Mentira] "Vai ser uma vida fácil, e eles vão te tratar como reis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Vai ser difícil, mas se é assim que você quer viver, esta é a melhor maneira de fazer isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Os aldeões acenam com a cabeça solenemente, juntam os cristais e suprimentos que podem carregar e embarcam na direção de Apedrejar. Você continua sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Os aldeões olham uns para os outros, com medo em seus olhos, mas eles se curvam à sua vontade e juntam seus cristais e pertences para a curta caminhada até Cacofonia. Você continua sua jornada, confiante de que o Arconte dos Segredos encontrará algum uso para esses miseráveis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Escravize-os pelo [url=glossary:disfavored]Desfavorecido[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Recrute-os para o Refrão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Recrute-os para sua coalizão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Envie-os para o [url=glossary:stonestalkers]Perseguidores de Pedras[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Envie-os para [Plainsgate].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Os aldeões concordam com a música do Sirin e juntam seus pertences para a longa jornada até [Plainsgate]. Você os deixa para continuar sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>A esperança surge nos olhos do aldeão enquanto eles acenam a tempo do hino do Sirin. Eles juntam seus equipamentos para a longa jornada até o seu Pináculos. Confiante de que eles serão utilizados em seu esforço de guerra, você continua sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Os aldeões concordam com a música do Sirin, suas expressões vazias. Eles juntam seus pertences para a longa marcha até Lareira de Ferro, e você continua sua jornada, confiante de que esses aldeões serão usados pelos [url=glossary:disfavored]Desfavorecido[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Pegue o Azurelith.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Pegue o Azurelith.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>As pessoas dentro do prédio parecem totalmente inconscientes de você, sua atenção inteiramente em um santuário de fragmentos Azurelith coletados que domina o canto mais distante. As linhas de luz em sua pele parecem traçar runas primitivas que têm uma semelhança distante com as marcas Homens-fera às vezes esculpidas em sua pele. 
+
+As pessoas cantam baixinho, invocando [url=glossary:cairn]Cairn[/url], os caídos Arconte de Pedra, para restaurar suas terras e libertá-los do sofrimento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

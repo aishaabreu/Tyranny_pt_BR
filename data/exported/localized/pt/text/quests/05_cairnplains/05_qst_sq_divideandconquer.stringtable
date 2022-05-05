@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\05_cairnplains\05_qst_sq_divideandconquer</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Dividir e conquistar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Viajar para Graystone Valley.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Procure Graystone Valley pelo [url=glossary:disfavored]Desfavorecido[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Procure o falso [url=glossary:disfavored]Desfavorecido[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Lidar com [url=glossary:scarlet chorus]Coro Escarlate[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Mate o [url=glossary:scarlet chorus]Coro Escarlate[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>A Fenda do Homem-Besta-Dig afirmou que [url=glossary:disfavored]Desfavorecido[/url] soldados estão atacando colonos em Vale Graystone. Você achou estranho que o [url=glossary:disfavored]Desfavorecido[/url] se comportasse dessa maneira e prometeu investigar o assunto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Viajar para o Vale de Graystone para procurar sinais dos [url=glossary:disfavored]Desfavorecido[/url] atacantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Agora que você chegou em Vale Graystone, procure na área por qualquer [url=glossary:disfavored]Desfavorecido[/url] e questione-os.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Você aprendeu que [url=glossary:scarlet chorus]Coro Escarlate[/url] disfarçado de [url=glossary:disfavored]Desfavorecido[/url] estão por trás dos ataques no Vale Graystone. Procure no vale por eles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Você rastreou os [url=glossary:scarlet chorus]Coro Escarlate[/url] soldados em Vale Graystone. Lide com eles como achar melhor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>As vidas dos [url=glossary:scarlet chorus]Coro Escarlate[/url] soldados são perdidas. Mate todos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você matou os [url=glossary:scarlet chorus]Coro Escarlate[/url] soldados posando como [url=glossary:disfavored]Desfavorecido[/url] tropas em Vale Graystone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você capturou os [url=glossary:scarlet chorus]Coro Escarlate[/url] soldados posando como [url=glossary:disfavored]Desfavorecido[/url] em Vale Graystone.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Você deixou os [url=glossary:scarlet chorus]Coro Escarlate[/url] soldados posando como [url=glossary:disfavored]Desfavorecido[/url] tropas escaparem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>A oportunidade de resolver esta tarefa passou.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

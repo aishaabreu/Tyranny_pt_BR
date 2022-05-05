@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\02_bs_lc_merchant_03_ambientbarks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"As tempestades cessaram no [url=glossary:blade grave]Sepultura de Lâminas[/url] graças a você. Poderia [url=glossary:kyros]Kyros[/url]' poder estar se afastando do Camadas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ouvi dizer que você tirou aquele castelo no [url=glossary:blade grave]Sepultura de Lâminas[/url] para si mesmo. Com um pouco de varredura, tenho certeza que será hospitaleiro, não?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Agora que os [url=glossary:unbroken]ininterrupto[/url] recuperaram sua casa, talvez o comércio reabra com Robusto mais uma vez?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Os soldados da guarnição estão muito presunçosos ultimamente. Eu acho que é porque eles finalmente venceram aquela campanha deles no [url=glossary:blade grave]Sepultura de Lâminas[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

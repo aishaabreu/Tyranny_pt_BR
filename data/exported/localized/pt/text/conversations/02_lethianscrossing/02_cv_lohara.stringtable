@@ -1,0 +1,741 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\02_cv_lohara</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>133</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Uma mulher musculosa se levanta de sua forja e se vira para olhar para você, a luz do fogo brincando em seu rosto, fazendo seus olhos dançarem perigosamente. Um sorriso cheio de dentes surge em sua boca, o único ponto brilhante em seu rosto manchado de fuligem.
+
+"Você mata com a mão esquerda ou com a direita?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Obrigado por encontrar nossas armas perdidas, [Player Name]." Um suspiro de alívio escapa dela. "Quase tivemos que deixar a forja ociosa por um dia por falta de material, e não temos vontade de descobrir o que acontecerá se não atingirmos nossa cota."
+
+"Adicione perder aqueles armas em cima de tudo e quem sabe a que seríamos submetidos! Temos que consertar tudo e voltar às mãos certas!"
+
+Ela tenta dar uma risada bem-humorada, mas não consegue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Tenho alguns pedidos que não posso adiar, mas assim que os eliminar, posso começar a mexer em algo para você."
+
+Lohara coça o cabelo emaranhado, deixando manchas de fuligem em seus tufos marrons. "Acho que não posso pedir outro favor a você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"É assim que eles dizem olá na sua cidade natal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Direita."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Deixou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Por que você gostaria de saber?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Olhar para ela.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Você também responde perguntas com perguntas?" Ela mostra mais dentes perolados e ri baixinho para si mesma. "Isso é uma pergunta simples, criança. Quando você balança uma ferramenta para acabar com outra vida, que mão você usa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"A manopla é a peça mais difícil da panóplia - e a mais gratificante de se trabalhar. Tantas escamas de tantos tamanhos diferentes... então há os rebites."
+
+Ela desliza o polegar e os dedos juntos, espalhando partículas de fuligem e pó de ferro. "Imagino que você veja muita batalha em sua... linha de trabalho. Uma luva invariavelmente vai se desgastar antes da outra. Minha mente está sempre pensando no que vai precisar de reparos primeiro. É simples assim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Envolta em lençóis folgados, uma bata de lona pesada e uma camada de filme suado, a mulher de meia-idade é uma exibição viva de manchas de fuligem, queimaduras e cicatrizes. Sob a fuligem em sua cabeça há uma pele que raramente vê o toque do sol.
+
+Seus dentes brancos desaparecem atrás de uma carranca. "Direita. Ou. Deixou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Notado." Ela limpa a garganta e enxuga as mãos enegrecidas na lona do avental. "eu sou Lohara, Mestre da temperagem e Forgemaster de [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Minhas tarefas excedem as horas restantes do dia, mas não há mal nenhum em pausar meu trabalho se isso significar falar com o Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Notado." Ela agarra seu cinto e o aperta, sacudindo as picaretas, furadores e alicates que pendem de seus vários ganchos. "eu sou Lohara, Mestre da temperagem e Forgemaster de [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Minhas tarefas excedem as horas restantes do dia, mas não há mal nenhum em pausar meu trabalho se isso significa falar com o honrado Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Como posso ajudar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Fale-me sobre [url=glossary:lethian's crossing]A travessia de Lethian[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Fale-me sobre o [url=glossary:forge-bound]Forge-Bound[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Fale-me sobre o [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Fale-me sobre o [url=glossary:scarlet chorus]Coro Escarlate[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Você pode fazer algo para mim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Deixar] "Tenho que ir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Você voltou!" Lohara se vira para você, seu corpo coberto da cabeça aos pés em tons carbonizados, peito subindo e descendo sob o esforço da respiração difícil.
+
+"Sempre há mais demanda por ferro do que por ferro há tempo no dia." Ela tira um conjunto de luvas de lona pesadas e fecha os punhos - as juntas dos dedos estalando em uníssono.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Você está bem? Você parece cansado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Em êxtase." Sua voz é natural, e um sorriso surge.
+
+"O ritual da forja liga o coração ao martelo. Meu sangue só bate quando bato no meu lingote, minha forja fica muito quente se minha respiração ficar muito apressada - o vínculo é ao mesmo tempo fatigante e estimulante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Isso não pode te matar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"É assim que você se destaca em seu ofício?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Espero que sim!" Ela ri, seu rosto corando da cor de metal derretido.
+
+"Melhor do que ser profanado e morto por bandidos, envenenado pela podridão de grãos ou morto pelo parto. Um soldado não desejaria morrer em batalha?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Nós vamos, isso e prática." Ela faz uma careta.
+
+"Mas sim, os rituais ligam os sentidos aos materiais, e o corpo às ferramentas. Minha mão se torna uma articulação, o martelo a verdadeira ponta do meu braço. Sinto o calor da forja como se fosse o clima da sala. Sob tais circunstâncias, o verdadeiro foco pode surgir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Fascinante. Vamos falar de outros assuntos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Pode?" Ela levanta uma sobrancelha. "A maioria certamente. Vontade? Bem, [url=glossary:kyros]Kyros[/url] inventou as filas por um motivo." Ela deixa escapar um suspiro. "Eu tenho todos os Caminhante de Ferro e todos os [url=glossary:scarlet chorus]Coro Escarlate[/url] me mandando subornos e lisonjas na esperança de que eu trabalhe fora do horário e os torne especiais ou únicos isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Sua boca se move como se fosse falar, mas ela fica em silêncio, cruzando os braços.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Mas algum deles merece seus talentos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Esqueça que perguntei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Eu não sabia que o pedido era tão impensado, minhas desculpas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Algum deles merece..." Ela repete sua pergunta com indiferença, fazendo uma careta para o lado.
+
+"Meu ferro vai sobreviver a mim, e provavelmente sobreviverá a todos os vivos hoje." Sua voz se torna um sussurro sibilado . "Mas se meu armamento não for usado por mãos famosas, meu nome será esquecido! Muitos dos meus trabalhos já sujam o [url=glossary:blade grave]Sepultura de Lâminas[/url]... ignorados, abandonados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Recebo exigências irracionais todos os dias, mas não é o volume, é o propósito." Ela abaixa a voz para quase um sussurro e se aproxima de você. "Eu me ressinto que as demandas [url=glossary:kyros]Kyros[/url]' reduzam nosso trabalho a meras cotas! Eu deveria ter permissão para personalizar meu trabalho para cada soldado. Apenas os aprendizes têm algo a aprender fazendo o mesmo tamanho de capacete repetidamente!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Eu vou te pagar muito, muito bem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Riqueza?!" Sua voz se torna um rugido. "Você acha que eu quero anéis? Sodding anéis?!"
+
+Suas mãos correm para o cinto de ferramentas, ambos os punhos pegando pedaços de metal tinindo. Abrindo as mãos, ela arremessa dois punhados de anéis em você, anéis de cobre e bronze fazem barulho em seus pés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Isto é o que eu acho da sua oferta." Ela desliza a mão em um movimento diagonal à sua frente, imitando a excitação do membro masculino. "Encontrar alguma puta de um artesão disposto a trocar você o filho de sua arte por pedaços de metal comum!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Mas eu falo fora de hora." Ela limpa a garganta enquanto volta ao seu volume normal. "Acho que estou com fome de alguma variação no meu trabalho." "Que tal isso. Se as forças de [url=glossary:kyros]Kyros[/url]' e as pessoas em [url=glossary:lethian's crossing]A travessia de Lethian[/url] têm coisas boas a dizer sobre você e sua estrela está em ascensão, farei algo adequado ao seu potencial. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Mas primeiro preciso saber que você está indo para algum lugar. Se eu quisesse que meu ferro fosse usado por alguém que será esquecido na história... bem, eu poderia simplesmente deixar o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] saquear minha forja se eu quisesse fazer isso!"
+
+"Quando eu tiver determinar que você está pronto, falaremos mais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Meus agradecimentos. Havia outra coisa que eu queria perguntar a você..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Deixar] "Até então, vou deixar você em paz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Eu não vejo muito disso - só isso," ela aponta para o teto e as paredes da forja. 
+
+"Lethian e sua tripulação mercante se estabeleceram nesta área há algum tempo. Os bravos tolos construíram pontes sobre o Oldwalls e se tornaram um entreposto comercial. Verdadeiro espírito de pioneiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"O lugar inteiro pode ter sido ignorado pelas forças [url=glossary:kyros]Kyros[/url]', exceto que alguém descobriu que há ferro em todos os lugares - não pode lavar suas roupas no rio sem que elas saiam tingidas de ferrugem." "Então o ferro fez [url=glossary:lethian's crossing]A travessia de Lethian[/url] importante o suficiente para [url=glossary:kyros]Kyros[/url] querer para si mesmo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Faz sentido mover alguns de nós [url=glossary:forge-bound]Forge-Bound[/url] aqui para [url=glossary:lethian's crossing]A travessia de Lethian[/url] - mais fácil nos colocar perto do ferro em vez de enviá-lo sobre montanhas. Que, e esta é uma encruzilhada - podemos reabastecer nossos aliados mais rápido do que nunca em nossa nova oficina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Por séculos, minha guilda buscou a união da perfeição mágica e manual. Enquanto outros se preocupam com o arcano por causa do poder desordenado, nós o estudamos para superar os limites tradicionais de nossas artes e ofícios."
+
+"A forja é nossa concentração dominante de estudo, mas não tudo [url=glossary:forge- vinculado]Forge-Bound[/url] metal de trabalho - alguns são tecelões, carpinteiros e um de nossos... membros mais estranhos se considera um chef."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"O sábio e poderoso [url=glossary:kyros]Kyros[/url] tem sido gentil com nossa guilda. Ele se ofereceu para colocar nossas armas e armaduras nas mãos daqueles que mudariam o mundo." Um largo sorriso toma conta de seu rosto. "E ele tem sido fiel à sua palavra! [url=glossary:forge-bound]Forge-Bound[/url] ferro pisou no Camadas, e todos que se opõem às forças [url=glossary:kyros]Kyros[/url]' descansam suas cabeças em [url=glossary:forge-bound ] Forge-Bound[/url] lanças!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Você pode me fazer algo mágico?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Por que fazer armas se você pode matar seus inimigos com magia?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Como exatamente sua magia o ajuda a fazer as coisas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Não." Ela sorri e balança a cabeça. "Mas quase todo mundo pergunta. As relíquias do poder arcano devem crescer em si mesmas - elas nunca são feitas do nada."
+
+Ela aponta o dedo no ar e sorri. "Mas o que EU POSSO fazer é usar minha magia para balançar meu martelo com perfeita precisão, ou fazer um truque para lidar com metal derretido com minhas próprias mãos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Podemos construir artefatos de excelente qualidade e refinamento, mas eles devem ser usados em grandes feitos para se transformarem em relíquias de poder."
+
+"E é por isso que procuramos colocar as obras de nossas forjas nas mãos dos grandes - lendas verdadeiras exigem a aliança do fabricante de espadas e do mestre de espadas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Por que andar se você pode pagar porteiros para carregá-lo?" Ela balança a cabeça com um bufo. "Temos maneiras de nos proteger daqueles que nos abusam, mas estudamos o arcano com o propósito de construir, não destruir - deixamos isso para os outros. Eles podem pegar nossos implementos e usá-los para semear o caos, se quiserem. Prefiro pegar o caos e forçar a ordem nele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Nossos rituais mais importantes unem o artesão, ferramentas e materiais em... uma entidade?" Ela abre um sorriso nervoso. "Perto suficiente."
+
+"Em meu próprio trabalho, a forja atrai todos os meus sentidos para a ponta da lâmina que estou temperando. Eu posso ver o menor entalhe, ou tocar meu dedo na lâmina e sentir a nitidez da navalha sem quebrar minha pele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Tal execução perfeita da arte tem seus custos, é claro. Uma vez que o coração e os pulmões se ligam à chama e ao martelo - um martelo derrubado pode levar a um coração parado.
+
+"A maioria de nossos membros morre no meio de seu trabalho, mortos por uma distração ou um simples erro." Ela cora. "Perdemos muitos aprendizes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Os [url=glossary:disfavored]Desfavorecido[/url] nos trataram como convidados de honra. Recebemos privacidade, autonomia, comida e proteção. Em troca, damos a eles o melhor ferro do Camadas e eles o colocam em uso." Ela dá de ombros. "Um arranjo favorável."
+
+"Mas eu não sou tolo por ter lido demais na gentileza. Somos um recurso de guerra e existimos apenas porque alimentamos sua necessidade insaciável de ferro de qualidade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Meu mestre tinha um ditado que o [url=glossary:scarlet chorus]Coro Escarlate[/url] sempre lembra: Bom ferro é para espadas, não para pregos; mentes boas são para pensadores, não guerreiros."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Lohara balança a cabeça, carrancuda. "[url=glossary:kyros]Kyros[/url] é sábio, e deve ver algo no [url=glossary:the voices of nerat]o Vozes de Nerat[/url] que eu não vejo. Somos jurados a [url=glossary:kyros]Kyros[/url] e, portanto, aliados do Refrão - não devo falar fora de hora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Vamos falar de outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Eldian mencionou que você pode precisar de ajuda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Ela levanta uma sobrancelha. "Nossa última entrega de ferro foi leve. O [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] vem atacando [url=glossary:forge-bound]Forge-Bound[/url] caravanas há anos e mesmo que o minério seja inútil para eles, eles atacam nossos carregadores apenas para nos irritar. " Seu rosto assume uma expressão azeda.
+
+"Eu provavelmente não deveria mencionar isso, mas se você vai me ajudar, você merece saber tudo. Havia algumas armas muito importantes sendo enviadas de volta para nós escondidas naquele carregamento. Precisamos repará-los e colocá-los de volta nas mãos dos soldados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"O ataque ocorreu em Marcha do Desertor - não muito longe daqui. Meu palpite é que matar nossos carregadores e tomar suas rações foi o suficiente... não. Caso contrário, você precisará descobrir onde eles acamparam... e ouvi dizer que aqueles idiotas estão agachados no Oldwalls!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Você pode..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Tenho muito o que fazer no momento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Um dos meus pupilos mais jovens, Garrick, se afastou muito da forja. Eu sei que um homem da idade dele tem sede de viajar, mas ele deveria ter percebido que temos que ficar perto da forja por um bom motivo!"
+
+"Garrick estava fora durante um ataque [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] ele não retornou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Temo que ele possa estar morto, mas gostaria de receber alguém espionando o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] para ver se eles o estão segurando - e, naturalmente, resgatá-lo se ele ainda estiver vivo."
+
+"E se ele estiver morto," seu olhar cai no chão. "Se ele estiver morto, traga-me suas ferramentas para que sejam devolvidas ao seu mestre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Então serei breve. Aprendiz Garrick desapareceu - temo que ele tenha se aventurado em [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] território e se encontrado no lado errado do martelo."
+
+"Se você encontrá-lo, ficarei em dívida com você para seu retorno. Se, como eu temo, o fraternidade o matou, por favor, recupere suas ferramentas e vingue sua morte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Você encontrou a remessa! Presumo que Dyro não conseguiu? Nós vamos, obrigado mesmo assim... esta remessa vai nos ajudar aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Encontrei o carregamento de armas que faltava para você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"encontrei Aprendiz Garrick."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"encontrei Aprendiz Garrick ferramentas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Já falei com ele. A jovem doninha pensou que poderia encontrar metais raros no Oldwalls, não é? Estou mais impressionado que ele voltou com vida do que qualquer coisa que ele possa ter encontrado."
+
+"Obrigado por seu trabalho duro, Vinculador do Destino. Você merece pelo menos uma recompensa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Ela levanta o martelo para arremessá-lo, então congela e o abaixa com um suspiro prolongado. 
+
+"Droga... mas Garrick tinha tanto potencial. Talvez demais para ficar algemado à forja o dia todo, mas sei que ele adorava seu trabalho."
+
+"Obrigado por devolver suas ferramentas, Vinculador do Destino. Ele iria querê-los aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Gostaria de discutir como posso ajudar você e seus esforços de ferraria do [url=glossary:forge-bound]Forge-Bound[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Muito bem. O que você gostaria de discutir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Estou trabalhando nisso, voltarei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Eu trouxe alguns Cristais Azurelith. Talvez você possa usá-los em seu trabalho?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Ela os tira de você com cuidado, maravilhando-se com as bordas não cortadas.
+
+"Esses cristais... Vinculador do Destino, meu [url=glossary:forge-bound]Forge-Bound[/url] e eu certamente posso criar algo de poder a partir dele, obrigado!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Devolvi com segurança Garrick para [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Tenho certeza que depois desta última aventura ele estará pronto para se estabelecer e fazer algum trabalho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Devolvi com segurança Garrick's ferramentas. Talvez eles sejam úteis e forneçam a assistência necessária para o seu Forja encadernada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Esta é uma ótima notícia, Vinculador do Destino. Se ele estiver pronto para finalmente fazer algum trabalho por aqui, será uma mudança bem-vinda! Obrigado por trazê-lo de volta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>[Ataque] "Isso é hora para um novo Mestre da Forja. Seu serviço está faltando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Você ousa me atacar na minha forja?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Eu coletei uma grande quantidade de equipamentos antigos [url=glossary:disfavored]Desfavorecido[/url] para você usar na criação de novas armas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Isso é excelente Vinculador do Destino. Não deve ser um grande desafio derreter esta sucata e refiná-la em algo de dez vezes mais valor e habilidade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Eu consegui alguns desses especiais Destilados. Eles certamente irão acelerar o trabalho feito aqui pelo seu Forja encadernada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Excelente, obrigado Vinculador do Destino. Isso é exatamente o que meu [url=glossary:forge-bound]Forge-Bound[/url] precisa durante as horas tardias."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Estou devolvendo a Litania da Incandescência para você e seu [url=glossary:forge-bound]Forge-Bound[/url]. Eu sei que isso é importante para você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Fatebinder! Isso... isso é bom demais para ser verdade. Obrigado por nos devolver isso. Com isso, devemos ser capazes de forjar algo muito... muito bom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Ela levanta o martelo para arremessá-lo, então congela e o abaixa com um suspiro prolongado. 
+
+"Droga... mas Garrick tinha tanto potencial. Talvez demais para ficar algemado à forja o dia todo, mas sei que ele adorava seu trabalho."
+
+"Obrigado por devolver suas ferramentas, Vinculador do Destino. Ele iria querê-los aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Ela esfrega as palmas das mãos enegrecidas, olhando para você com expectativa. "Normalmente, posso dizer de relance, mas você é um pouco mais difícil de ler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Eu vou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"O que você pode me dizer sobre o [url=glossary:forge-bound]Forge-Bound[/url] Mestre?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Zdenya é o melhor líder com quem tive o prazer de trabalhar. Ela guia o [url=glossary:forge-bound]Forja-Bound[/url] com uma mão firme, porém severa, garantindo que todo o nosso trabalho seja da mais alta qualidade e inigualável em todos os aspectos. Eu sou o segundo de Zdenya, e é por isso que eu sou o Forja-Master para [url=glossary:lethian's crossing]A travessia de Lethian[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Ela aponta para Ulantis. "Ele é meu segundo, caso algo aconteça comigo. Eu não trabalho com ele há muito tempo, então não sei muito sobre ele ou a verdadeira qualidade duradoura de seu trabalho, mas ele foi nomeado por Zdenya, então ele deve ser bom no que faz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>[Conquista] "Como os [url=glossary:disfavored]Desfavorecido[/url] se saíram com as armas que enviamos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>[Conquista] "Como os [url=glossary:scarlet chorus]Coro Escarlate[/url] se saíram com as armas que enviamos para eles?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Lohara dá de ombros. "[url=lore:lc_pick_of_the_armory]Muito bem, suponho.[/url] Os [url=glossary:disfavored]Desfavorecido[/url] sabem como manejar suas armas e foram feitas pelo [url=glossary:forge-bound]Forge-Bound [/url], então eles são de alta qualidade e nunca falharão, desde que cuidem deles." "Eu normalmente não acompanho onde minhas armas vão ou o que é feito com elas. Termino um trabalho e começo o próximo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>Lohara dá de ombros. "Considerando como o Refrão se comporta, [url=lore:lc_pick_of_the_armory]Eu diria que eles provavelmente tropeçaram e se empalaram ou os usaram para matar uns aos outros.[/url] Os [url=glossary:disfavored]Desfavorecido[/url] sabem como lidar suas armas, os [url=glossary:scarlet chorus]Coro Escarlate[/url] sabem semear o caos dentro de suas próprias fileiras. Então, independentemente de quão bem nós fizemos essas armas, todos que seguraram uma provavelmente já estão mortos." "Eu não gostei de terem sido entregues ao [url=glossary:scarlet chorus]Coro Escarlate[/url] e eu não gosto como ser lembrado disso agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Vejo que você recebeu uma promoção."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Sim, suponho que sim. Embora eu não esteja exatamente feliz com isso. Zdenya era uma boa líder e uma mulher sensata e deu ao [url=glossary:forge-bound]Forge-Bound[/url] a orientação necessária. Não tenho certeza de como isso aconteceu." Ela olha para você e levanta uma sobrancelha. "Mas eu continuará as tradições [url=glossary:forge-bound]Forge-Bound[/url] como Zdenya teria desejado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"O que você acha de ajudar o [url=glossary:scarlet chorus]Coro Escarlate[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Aqueles degenerados sem valor? Absolutamente não. Eu não trabalho na frente desta forja para que meu trabalho caia nas mãos de tolos caóticos e ingratos. Talvez eu tenha que criar armas para o [url=glossary:disfavored]Desfavorecido[/url], mas pelo menos sei que os itens serão tratados com a honra e o respeito que merecem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Está feito Vinculador do Destino. Como prometido, forjei para você um item de grande poder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Nó de script 157</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Nó de script 158</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Quero agradecer pessoalmente pela ajuda que você deu ao [url=glossary:forge-bound]Forge-Bound[/url] quando você visitou o Cruzando antes. [url=lore:lc_iron_must_flow]Os trabalhadores que você nos forneceu[/url] foram um grande benefício. Somos gratos a você por isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Devo dizer, [url=lore:lc_pick_of_the_armory]negar tanto o Desfavorecido quanto o Coro Escarlate de armas extras[/url] foi muito corajoso da sua parte. Espero que o Refrão ofereça um suborno, mas o [url=glossary:disfavored]Desfavorecido[/url]? Se eles se rebaixassem a essas táticas, quem sabe do que mais eles seriam capazes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"E obrigado por [url=lore:lc_guardians_due]separar os fraternidade dos Kyros' exércitos[/url]. Todos sabemos que o fraternidade teria sido uma influência negativa para os cidadãos deste assentamento. Quanto menos problemas tivermos, mais trabalho poderemos fazer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Meu palpite é que matar nossos carregadores e tomar suas rações foi o suficiente... Espero que não." Ela coça a mandíbula, pensando.
+
+"Nosso homem pretendia viajar pelas densas florestas de Marcha do Desertor. Não sabemos sua rota exata, pois nossos carregadores muitas vezes improvisam na estrada para evitar encontros com bandidos. Eu sei que não é muito para continuar. Desculpe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Vou levar o Elmo Magebane comigo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Você certamente não vai. Esse capacete é uma criação do [url=glossary:forge-bound]Forge-Bound[/url] e pertence a nós. Sem ele, teremos que lidar com o Maldito constantemente interrompendo nosso trabalho. Não, ele fica exatamente onde está."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Por que você quer saber se eu mato com a mão direita ou esquerda?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"E com o de Zdenya desaparecimento, tenho ainda mais o que fazer. Eu já estava atrasado em nossas remessas, mas agora há ainda mais trabalho a fazer!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Você fez bem, Vinculador do Destino. A captura de Zdenya nos colocou em uma posição difícil. Temos o dever de continuar nosso trabalho o tempo todo, mas havia muitos no Forja que queriam usar seus martelos para bater fraternidade crânios, não ferro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Zdenya é uma guerreira tão capaz quanto uma ferreira. Eu só posso imaginar sua contenção com Raetommon é por causa do Magebane, e as pessoas de [url=glossary:lethian's crossing]A travessia de Lethian[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Como você fornecerá aos exércitos menos [url=glossary:forge-bound]Forge-Bound[/url] presentes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Não é fácil, posso garantir. Se você dobrar nossas fileiras, a tarefa ainda seria monumental. Não podemos expandir facilmente o número de membros da guilda - nossa arte é um ofício meticuloso, e poucos têm aptidão para isso. Infelizmente, temos uma escassez crônica de aprendizes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Aqueles que se juntam ainda enfrentam muitos riscos. Nosso processo é exigente, para dizer o mínimo. Para alcançar a perfeição, amarramos nosso eu físico ao martelo e à chama, mas fazer isso provoca danos aos indisciplinados. Muitos aprendizes excessivamente zelosos tentaram me impressionar, golpeando o metal quente até o coração explodir." 
+
+Lohara não se comove com a lembrança, sua boca é uma linha tensa. "Na verdade, os imprudentes nunca conseguirão. É melhor descobrir o quanto antes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Mas... sua escassez os torna importantes. Até os aprendizes que te envergonham com sua tolice."
+
+Ela suspira, relutante em continuar. "Vinculador do Destino, tenho um favor a lhe pedir, se me permite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Ela gesticula em um amplo arco com seu martelo, varrendo todos os trabalhadores do Forja. "Podemos não mostrar isso facilmente, mas posso garantir que todas as pessoas nesta sala agradecem sua ajuda. Zdenya é uma grande líder e sofreríamos na ausência dela. [url=glossary:graven ashe]Cinza esculpida[/url] pode ter certeza de que forneceremos seus homens e mais alguns."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Ela gesticula em um amplo arco com seu martelo, varrendo todos os trabalhadores do Forja. "Podemos não mostrar isso facilmente, mas posso garantir que todas as pessoas nesta sala agradecem sua ajuda. Zdenya é uma grande líder, e teríamos sofrido na ausência dela. Com vocês dois trabalhando juntos, essa aliança pode funcionar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Sim, na verdade. Aquele filho da puta de cabra Raetommon realmente fez uma bagunça neste acordo. Ele não apenas capturou o chefe de nossa ordem, mas também matou várias das minhas Forja mãos." Ela bate o punho em uma mesa próxima, lançando várias ferramentas de metalurgia no ar.
+
+"Tanto quanto eu adoraria rastrear pessoalmente o bastardo, tenho o dever de ficar e cumprir nossos compromissos com os exércitos. Eu ia enviar alguns dos meus para resolver alguns problemas, mas agora mal temos mãos suficientes para manter esses fogos acesos. Se você tiver tempo, eu poderia realmente precisar de sua ajuda com uma remessa perdida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Conte-me sobre a remessa perdida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Garrick mencionou que ouviu falar de materiais raros e exóticos Oldwalls caindo nas mãos de fraternidade. Temo que ele possa ter sido inspirado a procurar uma entrada para a Oldwalls ao longo da refúgio fronteira nordeste, na área Rios gêmeos. A Irmandade supostamente operam lá. Se você souber de algum desses acampamentos nesse local, faria bem em começar sua busca por lá.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Conheço um acampamento fraternidade em Rios gêmeos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Vou ficar de olho nesse local."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Obrigado, Vinculador do Destino. Isso está, francamente, abaixo de você, mas garanto que todo aprendiz nos ajudará a atender às Soberano demandas exatas do Forja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Muito bom. Ele certamente deve ter ido lá." Ela balança a cabeça. "A imprudência da juventude... ele esperava pedir ao Maldito para ajudá-lo em sua busca?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Conheço um ponto em Marcha do Desertor com atividade fraternidade conhecida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Vou manter esses locais em mente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Esse é um começo tão bom quanto qualquer outro. Certamente é plausível que o porteiro tenha se mudado para lá."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Você tem meus agradecimentos, Vinculador do Destino. Um bom ferro é crucial, e perder um carregamento de armas seria trágico."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

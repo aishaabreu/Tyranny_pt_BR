@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\05_cairnplains\05_cv_cera_intro_questdelivery</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Atenciosamente, Mestre Fatebinder. Como vai?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Eu não tenho visto muitas pessoas como você por aqui. Então, novamente, a maioria das pessoas com quem tenho esbarrado ultimamente são do [url=glossary:scarlet chorus]Coro Escarlate[/url]. Eles não são nada além de podres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"O que você pode me dizer sobre a [url=glossary:scarlet chorus]Coro Escarlate[/url]' presença aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"O que você pode me dizer sobre as operações do [url=glossary:disfavored]Desfavorecido[/url] em Rocha Uivante?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Por enquanto é só."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Só que eles estão fazendo bagunça, causando problemas há semanas - tentando recrutar muitos de nós. Eu gostaria que eles se apressassem. Nós, pessoas gentis, não gostamos de seus métodos, Mestre Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Um grupo de [url=glossary:disfavored]Desfavorecido[/url] se entrincheirou em Howling Rock há pouco tempo. Malditos Earthshakers não vai embora, não importa o que tenhamos tentado." Ela funga, indignada com a lembrança. "O que quer que estejam fazendo com aquele estrondo Arconte, está piorando os terremotos. Ficaríamos felizes em nos livrar deles apenas para acalmar a terra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"E o que seria?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Chega de [url=glossary:scarlet chorus]Coro Escarlate[/url]. Vamos falar de outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Todo mundo sabe que tem Tremedores de terra acampado em Rocha Uivante. O que quer que eles estejam mexendo lá, os [url=glossary:scarlet chorus]Coro Escarlate[/url] querem parar. Ou talvez eles só queiram causar derramamento de sangue. De qualquer forma, eles precisariam de corpos para um ataque, não é?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Qualquer coisa que eu possa fazer por um bom cavalheiro como você?"</DefaultText>
+      <FemaleText>"Qualquer coisa que eu possa fazer por uma mulher legal como você?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Diga que eu quero ajudar na cidade. O que posso fazer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Parar os terremotos seria uma bênção, com certeza. Não acho que você tenha alguma ideia de como fazer isso, não é? Os [url=glossary:scarlet chorus]Coro Escarlate[/url] dizem que têm um plano, mas não confio muito em seu intelecto - coletivo ou não."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Garantido, alguns preferem a companhia do Refrão ao [url=glossary:disfavored]Desfavorecido[/url]. E eu não os culpo. Se tudo o que os Refrão queriam fosse salvar a terra, como eles proclamam, eu ficaria feliz em ajudá-los também, mas com a forma como eles estão procurando aumentar suas fileiras, acho que eles têm outra agenda. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Mestre Fatebinder. Exatamente o homem que eu esperava ver."</DefaultText>
+      <FemaleText>"Mestre Fatebinder. Exatamente a senhora que eu esperava ver."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Ouvi dizer como você ajudou nossas tripulações em Rocha Uivante. Então eu queria te agradecer, senhor. Agradecemos, de verdade."</DefaultText>
+      <FemaleText>"Ouvi dizer como você ajudou nossas tripulações em Rocha Uivante. Então eu queria te agradecer, senhorita. Agradecemos, de verdade."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"O que você acha do Homem-Besta capturado? Você o consideraria culpado?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Você aposta suas calças, eu apostaria. Essa Besta tão culpados quanto eles. Veja, o pelo dele ainda está emaranhado com o sangue de suas vítimas, os colonos que desapareceram há duas semanas, sem dúvida. Ele fede a isso - as vidas que ele roubou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Algumas pessoas acreditam que devemos considerar o lado dele, mas não adianta, senhor. Mesmo que ele não tenha feito isso, essas Bestas são uma ameaça à nossa sobrevivência. Eu mesmo daria um nó no laço se chegasse a hora."</DefaultText>
+      <FemaleText>"Algumas pessoas acreditam que devemos considerar o lado dele, mas não faz sentido, senhorita. Mesmo que ele não tenha feito isso, essas Bestas são uma ameaça à nossa sobrevivência. Eu mesmo daria um nó no laço se chegasse a hora."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Mas aqueles colonos não desapareceram enquanto vasculhavam as planícies? Muitas coisas poderiam ter acontecido com eles em um cenário tão perigoso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Você acha que eles caíram ou morreram de fome? Não, a prova não mente. Eles foram destruídos por um Homem-Besta. Não foi? Quer dizer, você realmente não acha que ele é inocente - acha, bom senhor?"</DefaultText>
+      <FemaleText>"Você acha que eles caíram ou morreram de fome? Não, a prova não mente. Eles foram destruídos por um Homem-Besta. Não foi? Quer dizer, você realmente não acha que ele é inocente - acha, boa senhorita?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"É um prazer vê-lo novamente, Mestre Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"O [url=glossary:scarlet chorus]Coro Escarlate[/url] está recrutando ativamente para seu exército. Dê a eles o Homem-Besta e eles não insistirão que você ocupe um lugar na linha de frente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Ela se encolhe, alarmada com o pensamento. "Eu não sou um lutador, bom senhor. Se alguém vai morrer em nome [url=glossary:kyros]Kyros[/url]', deve ser um guerreiro, como um Homem-Besta, certo? Eu não serviria para nada, lá fora no campo de batalha."</DefaultText>
+      <FemaleText>Ela se encolhe, alarmada com o pensamento. "Eu não sou lutador, boa senhorita. Se alguém vai morrer em nome [url=glossary:kyros]Kyros[/url]', deve ser um guerreiro, como um Homem-Besta, certo? Eu não serviria para nada, lá fora no campo de batalha."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Ela se encolhe, alarmada com o pensamento. "Eu não sou um lutador, bom senhor. Se alguém vai morrer em nome [url=glossary:kyros]Kyros[/url]', deve ser um guerreiro, como um Homem-Besta, certo? Eu não serviria para nada, lá fora no campo de batalha."</DefaultText>
+      <FemaleText>Ela se encolhe, alarmada com o pensamento. "Eu não sou lutador, boa senhorita. Se alguém vai morrer em nome [url=glossary:kyros]Kyros[/url]', deve ser um guerreiro, como um Homem-Besta, certo? Eu não serviria para nada, lá fora no campo de batalha."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Mesmo que o Homem-Besta tenha matado um de vocês, ele não cometeu nenhum crime. Você não jurou a nenhum Arconte e, portanto, não está sujeito à proteção de [url=glossary:kyros]Kyros[/url]' Paz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"E a qual Arconte a filha de um pobre fazendeiro deve jurar sua vida? Você acha que [url=glossary:tunon]Tunon[/url] me levaria aos tribunais? Ou devo jurar [url=glossary:cairn]Cairn[/url] o Traidor - quem destruiu nosso reino? Então estarei protegido por [url=glossary:kyros]Kyros[/url]' Paz, Mestre Fatebinder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Você está certo. Qualquer animal que caça um humano precisa ser sacrificado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Eu sabia que você faria o certo por nós, Mestre Fatebinder. Sempre cuidando dos inocentes, aposto que você está. Nós vamos, não se preocupe, bom senhor. Faremos aquele vira-lata pagar pelo que fez, é só esperar."</DefaultText>
+      <FemaleText>"Eu sabia que você faria o certo por nós, Mestre Fatebinder. Sempre cuidando dos inocentes, aposto que você está. Nós vamos, não se preocupe, boa senhorita. Faremos aquele vira-lata pagar pelo que fez, é só esperar."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Eu sabia que você faria o certo por nós, Mestre Fatebinder. Sempre cuidando dos inocentes, aposto que você está. Nós vamos, não se preocupe, bom senhor. Faremos aquele vira-lata pagar pelo que fez, é só esperar."</DefaultText>
+      <FemaleText>"Eu sabia que você faria o certo por nós, Mestre Fatebinder. Sempre cuidando dos inocentes, aposto que você está. Nós vamos, não se preocupe, boa senhorita. Faremos aquele vira-lata pagar pelo que fez, é só esperar."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Não gosto da ideia de deixá-lo ir, mas certamente não serei o único a me opor à sua autoridade sobre a situação, Mestre Fatebinder. Você verá que a justiça será feita. Tenho certeza."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Não gosto da ideia de deixá-lo ir, mas certamente não serei o único a me opor à sua autoridade sobre a situação, Mestre Fatebinder. Você verá que a justiça será feita. Tenho certeza."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Olha isso. De repente, a fera tem potencial - um novelo adequado como guerreiro! Insuportável fanáticos... às vezes acho que [url=glossary:kyros]Kyros[/url] nos fez um favor transformando Azure em uma memória. E é uma pena que algumas das vinhas podres ainda resistam. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Duvido que esta mulher saiba a primeira coisa sobre a teoria arcana... mas ela provavelmente não está totalmente errada em sua especulação. O Soberano mágico [url=glossary:edict]Edital[/url] é a verdadeira fonte dos tremores - nenhum mago simples poderia abalar a terra nesta escala - mas sem dúvida o Tremedores de terra está jogando algum jogo perigoso com magia muito além de seu alcance ."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Só que eles estavam brincando, causando problemas por semanas - tentando recrutar muitos de nós. Estou feliz que você nos livrou deles - nós, pessoas gentis, não gostamos de seus métodos, Mestre Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Parar os terremotos seria uma bênção, com certeza. Não acho que você tenha alguma ideia de como fazer isso, não é? O [url=glossary:scarlet chorus]Coro Escarlate[/url] alegou ter um plano - antes que você os matasse." Se segurando, ela tosse desconfortavelmente antes de enxugar o canto da boca com um trapo esfarrapado. "Agora, eu não quis dizer nada com isso, Mestre Fatebinder. Mesmo se você não tivesse vindo, eu não confiaria muito em uma promessa Refrão'. Certo, eles têm outros por aí no [url=glossary:stone sea]Mar de Pedra[/url], mas quem sabe do que eles são capazes, se alguma coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Garantido, alguns preferem a companhia do Refrão ao [url=glossary:disfavored]Desfavorecido[/url]. E eu não os culpo. Se tudo o que os Refrão queriam fosse salvar a terra, como eles proclamaram, eu ficaria feliz em ajudá-los também, mas com a maneira como eles estavam procurando aumentar suas fileiras, acho que eles têm outra agenda no [url=glossary:stone sea]Mar de Pedra[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Será mais fácil percorrer o [url=glossary:stone sea]Mar de Pedra[/url] agora que os terremotos se acalmaram. Até ouvi dizer que Homens-fera não tem estado tão ativo ultimamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

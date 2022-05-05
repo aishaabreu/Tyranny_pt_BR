@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\worldevents\08_wme_rebelalliance</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Mantendo-se abaixado e usando a folhagem espessa como cobertura, você se move com cuidado pela vegetação rasteira, marcando a curva côncava da estrada. O outro lado da curva se resolve lentamente em sua visão, revelando não uma patrulha de guerreiros, mas duas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Esgueirar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Você decide continuar pela estrada. Você é um Vinculador do Destino de [url=glossary:tunon]Tunon[/url], afinal, um representante do soberano, e não manchará sua autoridade se escondendo na floresta. Ao fazer a curva, você se vê olhando não para uma patrulha de guerreiros, mas para duas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Mantendo-se abaixado e usando a folhagem espessa como cobertura, você se move com cuidado pela vegetação rasteira, marcando a curva côncava da estrada. O outro lado da curva se resolve lentamente em sua visão, revelando não uma patrulha de guerreiros, mas duas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>A heráldica Apex e a escala de bronze pesado marcam o primeiro grupo como membros do [url=glossary:vendrien guard]Guarda Vendrien[/url]. Os outros guerreiros, no entanto, usam anéis de bronze engastados em couro curado pesado, um sigilo em seu tabardo estilizado à semelhança do Maldito. Você os reconhece do seu tempo como Governador de [url=glossary:lethian's crossing]A travessia de Lethian[/url]: estes são membros dos [url=glossary:bronze brotherhood]Irmandade de Bronze[/url], mercenários brutais de Refúgio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>heráldica Apex e a escala de bronze pesado marcam o primeiro grupo como membros do [url=glossary:vendrien guard]Guarda Vendrien[/url]. Os outros guerreiros, no entanto, usam anéis de bronze engastados em couro curado pesado, um sigilo em seu tabardo estilizado à semelhança do Maldito. Você já ouviu falar que um grupo de mercenários brutais de Refúgio adota uma heráldica semelhante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

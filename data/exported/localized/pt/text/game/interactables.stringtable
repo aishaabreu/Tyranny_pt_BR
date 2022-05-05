@@ -1,0 +1,1829 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>game\interactables</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>364</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Recipiente</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Texto Examinável Padrão</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Uma bandeira Robusto esfarrapada balança suavemente ao vento, marcando o local onde seu dono original morreu durante o lançamento do [url=glossary:edict]Edital[/url] de Tempestades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Embora os soldados do antigo Robusto tenham sido dilacerados pela magia de [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url], muitos de seus padrões de batalha ainda permanecem de pé, lembretes de sua heróica luta contra o [url=glossary:disfavored]Desfavorecido[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Presos nessas rochas estão as armadilhas de ferro dos soldados mortos por [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url]. Ventos mágicos cortaram toda a carne, deixando para trás apenas armaduras e armas enferrujadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>O cheiro de homens encharcados em seus próprios dejetos sobe deste poço forrado de lanças usado para manter prisioneiros.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Os catadores usaram o ambiente para ajudar a construir seu acampamento. Esta tenda improvisada é composta por uma grande colcha de retalhos de tecido sustentada, em parte, por espigões de terra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Os equipamentos dos soldados [url=glossary:disfavored]Desfavorecido[/url] e [url=glossary:unbroken]ininterrupto[/url] estão embutidos nessas rochas irregulares. A destruição de [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] não distinguia aliado de inimigo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Esta fogueira cheira a ferrugem e cabelo queimado. Quem o construiu lutou com a Rust Canyon escassez de gravetos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Recipiente</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Uma armadilha de parede</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Uma armadilha de chão</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>A plataforma de pedra empoeirada não tem vida, mas pequenas marcas indicam que sua velha magia pode ser despertada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Você vê um movimento sutil sob a superfície levemente brilhante deste objeto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>O propósito deste altar antigo é um mistério. A figura esculpida embala uma tigela com reverência.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>salobra, água fétida jorra desses bicos e desaparece no nada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Dentes de rocha pontilham a paisagem, oferecendo pouco abrigo dos ventos constantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>A luz emana de dentro desta enorme passagem para o Oldwalls, simultaneamente calmante e imponente de se ver.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Uivos distantes ecoam dentro deste poço, que desce para a escuridão. Quando você estica o pescoço, mal consegue distinguir o Maldito agrupado na parte inferior.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>O labirinto que é o Oldwalls parece durar para sempre. As inúmeras arandelas e alcovas que revestem a enorme parede de pedra vão até onde os olhos podem ver antes de desaparecer na escuridão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Não está claro se este Armadilha do Maldito foi destruído pelo [url=glossary:unbroken]ininterrupto[/url] tentando entrar, ou o Maldito tentando escapar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>cristal no farol brilha suavemente à medida que você aproxima a tocha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>A enorme porta do Oldwalls fica em vigília silenciosa aqui, selada contra intrusões.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Armadilha de Oldwalls</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Há um pequeno painel embutido na pedra aqui. Parece que algo foi feito para caber no espaço.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Uma enorme porta de pedra se eleva acima de você. Parece que esta era a entrada real do Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Bandidos ergueram este acampamento selvagem como uma base temporária de operações. Pronto para ser movido a qualquer momento, não contém nenhum tipo de fixação permanente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Os bandidos passaram pela maior parte da carga retirada da estrada e deixaram algumas armadilhas para a próxima rodada de viajantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>As paredes deste Guarda foram batidas e lascadas tanto pela tempestade quanto pelo confronto amargo entre o [url=glossary:disfavored]Desfavorecido[/url] e o [url=glossary:unbroken]ininterrupto[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>O Elmo do Primeiro Regente pode ser encontrado embutido na terra aqui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Reforços dos exércitos [url=glossary:kyros]Kyros[/url]' estão se estabelecendo aqui, prontos para fornecer apoio, se necessário.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Uma porta gigantesca se eleva acima de você, selada e impenetrável.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Esta fogueira cheira a ferrugem e cabelo queimado. Quem o construiu lutou com a Rust Canyon escassez de gravetos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>A imponente muralha paira sobre os rios, estendendo-se para cima e fora de vista.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Pulso de Magma</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>O vento passa violentamente, jogando pedaços de rocha e metal junto com a poeira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>O fosso que cercou Posto de Sentinela há muito sucumbiu ao ambiente hostil. Água parada e manchas de sujeira úmida são tudo o que resta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Você não pode dizer se a recente batalha aqui causou essa destruição ou se está assim há algum tempo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Guarda Sentinela já foi uma estrutura imponente e orgulhosa. Agora permanece como uma mera sombra de sua antiga glória.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Força Invisível</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Armadilha de Terra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Espigões maciços dividiram as paredes do castelo aqui, resultado de ventos tremendos que passaram há muito tempo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Armadilha de fogo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Loja do Pentibor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Este grupo de Homens-fera não mostra sinais de luta interna e parece ter sido esfaqueado pelas costas enquanto estava de joelhos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Todas as armas desta carroça parecem ser feitas de ferro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>A parede aqui está desmoronando e deteriorada. As pedras se projetam, criando um local perfeito para subir até a passarela acima.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>Várias seções da porta principal apresentam sinais de desgaste que não foram reparados recentemente. Ataques bem colocados nesses pontos podem rapidamente derrubar a porta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Uma enorme rachadura se formou na parede, comprometendo-a. Se os Earthshakers concentraram sua magia aqui, eles poderiam derrubar as paredes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Contramestre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>Loja do Sniggler Dagos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>O caminho atrás de você agora está bloqueado. [url=glossary:kyros]Kyros[/url]' a magia selou o vale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>Um corpo apodrecido com [url=glossary:scarlet chorus]Coro Escarlate[/url] pintura de guerra é espetado em uma lança de madeira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Um corpo parecido com Sniggler Dagos jaz flácido, empalado por uma ponta larga. As moscas apenas começaram a se reunir ao redor do cadáver - sua morte foi recente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>Este barril está cheio de água turva e vermelha. Membros decepados balançam sob a pele gordurosa da sopa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Um mapa manchado de sangue da região [url=glossary:vendrien's well]Poço de Vendrien[/url]. Várias setas saca-rolhas em direção ao Deserto de Tripnettle ao redor do anel externo do vale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Esses planos de batalha foram rabiscados com uma alegria louca. Todas as setas apontam para o Rio Matani, com um grande círculo ao redor do Travessia de ecochamada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Planos de batalha são rabiscados sobre um mapa manchado de sangue do Camadas. As setas apontam para o anel interno do vale [url=glossary:vendrien's well]Poço de Vendrien[/url], e pequenos círculos são desenhados ao redor do Cidadela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Loja da Alicia</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>A antiga estátua Mãe Chorosa presta homenagem aos Rainha Lycaerus, Primeiro do nome dela. Água doce uma vez fluiu desta estátua, mas quando as forças [url=glossary:kyros]Kyros[/url]' atacaram [url=glossary:vendrien's well]Poço de Vendrien[/url] em 429, a estátua começou a chorar sangue, e tem feito isso desde então.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>A outrora água pura das Lágrimas da Rainha Lycaerus ficou vermelha de sangue desde que as forças [url=glossary:kyros]Kyros[/url] invadiram.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Cadáveres dessecados alinham os Estrada da Vitória a [url=glossary:vendrien's well]Poço de Vendrien[/url] - um exemplo do destino que aguarda aqueles que resistem à vontade [url=glossary:kyros]Kyros[/url]'.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Corpos desgastados alinham o Estrada da Vitória a [url=glossary:vendrien's well]Poço de Vendrien[/url]. No entanto [url=glossary:kyros]Kyros[/url] decretou que uma tela fosse erguida, você optou por limitar as vítimas a [url=glossary:vendrien guard]Guarda Vendrien[/url] soldados que pegaram em armas contra [url=glossary:kyros]Kyros[/url]' exércitos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Os restos horríveis de homens, mulheres e crianças da linha [url=glossary:kyros]Kyros[/url]' Estrada da Vitória a [url=glossary:vendrien's well]Poço de Vendrien[/url]. Por sua ordem, [url=glossary:kyros]Kyros[/url]' exércitos atacaram as famílias dos soldados capturados e exterminaram linhagens inteiras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>Os habitantes deste vale já se renderam uma vez antes. Tendo pouca paciência para segundas rendições, os soldados [url=glossary:kyros]Kyros[/url]' começaram a fazer exemplos horríveis de infratores de juramento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>Estes segmentos de parede fazem parte da alvenaria original de Forte de Borda. Grande parte do forte caiu na ravina abaixo quando [url=glossary:cairn]Cairn[/url], Arconte de Pedra, atacou o forte há dois anos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Armas e armaduras estão espalhadas aleatoriamente ao redor do carrinho. Cada lâmina mostra sinais de ferrugem e cada peça de armadura precisa de reparos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>O símbolo do [url=glossary:scarlet chorus]Coro Escarlate[/url] está manchado de sangue na tenda de pano esfarrapada. Nenhum esforço foi feito para reparar as lágrimas abertas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Armas e armaduras são empilhadas com precisão neste carrinho de transporte. Cada lança é afiada e lubrificada, pronta para a batalha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>[url=glossary:kyros]Kyros[/url] ordenou que o ícone original do [url=glossary:disfavored]Desfavorecido[/url] fosse apagado da memória. Por mais de cem anos, o [url=glossary:disfavored]Desfavorecido[/url] manteve a iconografia riscada, vestindo-a com orgulho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>Este banner rasgado tem o ícone riscado do [url=glossary:disfavored]Desfavorecido[/url]. O símbolo original do exército foi perdido na história e [url=glossary:graven ashe]Cinza esculpida[/url] nunca ordenou uma substituição, preferindo o ícone explodido sobre todos os outros.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Vários crânios - branqueados pelo sol e limpos por pássaros carniceiros - estão cravados em um poste grosseiramente cortado. É a única heráldica que o [url=glossary:scarlet chorus]Coro Escarlate[/url] precisa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Um espigão vazio está esperando para reivindicar sua vítima.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Armadilha de Sepultura</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Armadilha de choque</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>[url=glossary:disfavored]Desfavorecido[/url] Armazenar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Loja de Recrutas da Horda</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>[url=glossary:sage]Sábio[/url] Recrutar Fornecedor</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>[url=glossary:scarlet chorus]Coro Escarlate[/url] Armazenar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Recipiente</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>Você vê pedaços de flocos de metal ao redor da fogueira e um par de pinças [url=glossary:forge-bound]Forge-Bound[/url]. Parece que quem estava aqui saiu com pressa e esqueceu de levá-los. As trilhas próximas seguem para o Entrada Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Este é o ponto de junção de duas cachoeiras que deságuam no topo do Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>O rio é comumente usado por comerciantes que trazem suas mercadorias para [url=glossary:lethian's crossing]A travessia de Lethian[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>Durante as manhãs claras, a cachoeira ocidental reflete o sol nascente em uma bela exibição de cores.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>Esta é a cachoeira oriental. Embora desça sozinho, alguns colonos acreditam que as cachoeiras se dividem de uma única fonte em algum lugar acima do Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>As tendas dos comerciantes são comuns em [url=glossary:lethian's crossing]A travessia de Lethian[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Devido à frequência de ataques, todas as pontes e rampas em [url=glossary:lethian's crossing]A travessia de Lethian[/url] podem ser levantadas para fornecer lugares seguros para os colonos se esconderem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>O rio flui de [url=glossary:lethian's crossing]A travessia de Lethian[/url] até este ponto, onde se divide no que é conhecido como Rios gêmeos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Armadilha das Sombras</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Embora a quantidade de calor que passa por essa fissura seja intensa, o piso inferior de alguma forma permanece intacto. Não está claro por que a biblioteca não foi totalmente consumida pela lava.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>Ondas de calor atingem você enquanto você se inclina para ver o lago de lava lá embaixo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Uma grande pedra bloqueia sua passagem. Ele está firmemente preso no lugar e não se moverá, não importa o que você faça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>Os pergaminhos aqui estão em branco. Parece que eles foram armazenados aqui junto com implementos e ingredientes para fazer tinta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>pedra aqui brilha e se deforma por trás das ondas de calor que emanam da lava. A temperatura aqui é quase insuportável.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>Parece haver algum tipo de rampa debaixo da lava. Não há como usá-lo sem imediatamente explodir em chamas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Abaixo de você está uma visão abrangente de algumas das prateleiras da biblioteca principal. Alguns deles, contra qualquer razão, permanecem intactos - seus pergaminhos resistindo de alguma forma ao calor intenso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>Um lago de lava circunda uma seção do chão que desabou nele. Se a lava se acumulasse mais alto, a ilha teria sido completamente submersa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>A borda do chão perto da entrada cai em um lago de lava. O calor vindo da rocha derretida é praticamente insuportável.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Além do buraco no chão, centenas de pergaminhos preenchem as prateleiras na parede oposta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Essas cordas penduradas serviram como uma última e desesperada tentativa de manter as casas juntas após o colapso. Os tremores secundários provaram ser demais para os suportes improvisados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Essas cordas penduradas serviram como uma última e desesperada tentativa de manter as casas juntas após o colapso. Os tremores secundários provaram ser demais para os suportes improvisados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>Uma casa foi arrasada pelo terremoto que destruiu Halfgate. A maioria das estruturas aqui não teve chance contra a força dos tremores.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>Este penhasco está situado acima de uma queda distante, que se estende até as profundezas massivas do [url=glossary:stone sea]Mar de Pedra[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>O buraco gigante nesta residência Plainsgate se formou durante os grandes terremotos que moldaram Azure no [url=glossary:stone sea]Mar de Pedra[/url]. Plainsgate, como um todo, se saiu melhor do que a maioria dos assentamentos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Plainsgate serve como a encruzilhada do [url=glossary:stone sea]Mar de Pedra[/url], sobrevivendo dos lucros obtidos com o fornecimento de bens e materiais básicos aos viajantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Essas belas formações cristalinas roxas são uma visão comum no [url=glossary:stone sea]Mar de Pedra[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Bem abaixo está o [url=glossary:stone sea]Mar de Pedra[/url]. Gulfglow Oldwalls é uma fração de sua massa de terra anterior - apenas pináculos de terreno permanecem após os grandes terremotos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>Os caçadores de tesouros freqüentam essas seções do [url=glossary:stone sea]Mar de Pedra[/url], esperando uma chance de encontrar artefatos cada vez mais escassos e depósitos esquecidos de objetos de valor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Esses carrinhos foram quase destruídos por ladrões e necrófagos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Tábuas de madeira envelhecidas e cordas murchas são as únicas coisas que mantêm os viajantes vivos enquanto atravessam os grandes abismos do [url=glossary:stone sea]Mar de Pedra[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Este carrinho está cheio de comida fresca e bens úteis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Essas flechas foram talhadas com precisão e cuidado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Este manequim de sparring mostra as profundas ranhuras do uso difícil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>A insígnia [url=glossary:disfavored]Desfavorecido[/url] foi violentamente desfigurada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Palha fresca no canto desta cela de prisão absorve grande parte do fedor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Esta passagem foi bloqueada por um campo mágico. Não está claro como alguém pode removê-lo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Esta prateleira está bem separada da área circundante e parece bastante perigosa à escala. Estranho, saliências rochosas podem ser vistas ao longo do topo, provavelmente de natureza mágica.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>pedra é fria, não afetada pela lava derretida que flui sobre ela. Ao tocá-lo, a lava brilha brilhantemente. Por um momento, você só pode ver sua luz e o contorno de um intrincado sigilo banhando-se em seu brilho. A luz desaparece rapidamente, mas a forma interna permanece gravada em sua mente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>A madeira é decorada com goivas e marcas de queimadura. Provavelmente viu uso como fortificação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Essas lanças são uniformes em sua qualidade artesanal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Uma escassa porção de caça ferve na grande panela de cobre. Especiarias perfumadas tentam mascarar o cheiro forte de qualquer criatura que decidam cozinhar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>A maioria dessas provisões está murcha com a podridão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Cacos de ossos enegrecidos ardem entre as brasas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Essas flechas estão lascadas, suas penas mosqueadas. Eles provavelmente foram retirados de cadáveres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Essas lanças são quebradiças e enferrujadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>Essas tendas surradas mostram sinais de uso difícil e exposição a longo prazo aos elementos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Cachoeiras acessíveis como esta são raras no [url=glossary:stone sea]Mar de Pedra[/url] e são um recurso valioso. A água que flui para as profundezas abaixo forma um dos principais fluxos inferiores que sustentam as populações dispersas da região.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Erupções de cristal como esta apareceram no [url=glossary:stone sea]Mar de Pedra[/url] logo após [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] rasgaram a terra em pedaços. Não se sabe se eles são um subproduto da magia Soberano, ou o resultado dos experimentos de [url=glossary:cairn]Cairn[/url] durante a guerra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Este espaço recuado parece ser uma área de nidificação, onde os filhotes Homens-fera são frequentemente confinados por segurança. Mais recentemente, foi usado para manter forasteiros capturados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>Prédios como este já chegaram a milhares em do Azure grandes cidades. Aqueles que não foram engolidos pela terra foram deixados para trás em cidades fantasmas, lembranças assustadoras de um passado mais glorioso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Um rio de lava flui livremente ao redor de uma ilha feita de um enorme pedaço rachado do chão. A destruição parece mais generalizada por aqui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Esta sala está misteriosamente intocada pela destruição que destruiu o resto da biblioteca. Os pergaminhos parecem completamente intactos nas prateleiras intactas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>Padrão de Batalha</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Espinho de Ferro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>O corpo parece pertencer a um membro Horda mal disfarçado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Mercadorias questionáveis do Corpse Eye</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>O Menagerie Mágico de Eirena</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Forja de Temerin</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Armadura de Vora</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>Produtos Excepcionais Ragus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>Arsenal de Willa</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Prixos [url=glossary:scouting]Escotismo[/url] Bens</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Bens Alquímicos de Arasto</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Gela's [url=glossary:quality]Qualidade[/url] Misturas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Solucionadores de Problemas de Nereu</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>Um corpo decapitado está no chão diante de você. Garras rasgaram as roupas esfarrapadas do que você determinou ser um seguidor de Nunova.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Um corpo decapitado está no chão diante de você. Garras rasgaram as roupas esfarrapadas do que você determinou ser um seguidor de Calio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>Um corpo decapitado está no chão diante de você. Garras rasgaram as roupas esfarrapadas do que você determinou ser um seguidor de Nunova. Você também percebe o sigilo do Vinculador do Destino, que se assemelha ao encontrado no Troféu de Rending-Hound.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>Orbe da Vida</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>ambiente [url=glossary:stone sea]Mar de Pedra[/url] é severo e implacável. A vida vegetal árida é tudo o que pode sobreviver nestas partes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>[url=glossary:scarlet chorus]Coro Escarlate[/url] Contramestre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>loja da basílica</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>Loja da Helina</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>Loja Praxus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>[url=glossary:vendrien guard]Guarda Vendrien[/url] Armazenar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>Mercadorias de Arason</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>Mercadorias de Irene</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>Charise's [url=glossary:quality]Qualidade[/url] Bens</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>Forja de Lohara</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>Mercadorias de Boltok</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>Loja de Tychus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>Armas Forjadas e [url=glossary:armor]armaduras[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Seleção requintada de Harchiand</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>[url=glossary:sage]Sábio[/url] Armazenar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>[url=glossary:disfavored]Desfavorecido[/url] Armazenar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>[url=glossary:unbroken]ininterrupto[/url] Comerciante</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>Artigos de suporte de sentinela</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>Comerciante do Crepúsculo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>Um [url=glossary:sage]Sábio[/url] jaz aqui na lava, gritando de agonia. Embora a lava pareça estar queimando-o, sua pele permanece intacta enquanto ele se contorce, seus olhos implorando por ajuda.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>Você vê uma runa desgastada e desbotada embutida na parede. Atualmente é impossível decifrar o que é a runa.
+(O talento Voz das Eras de Lantry é necessário para aprender esta runa mágica).</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>O torque possui uma série de pequenas ranhuras. Caso contrário, parece bastante comum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>Loja de Sterling Hagnon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>Essas caixas vazias parecem ter danos significativos causados pela água. Você também notará uma pequena série de entalhes no canto superior esquerdo de cada caixa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>Loja do Intendente</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>O grande portão de madeira é barrado firmemente do outro lado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>Este farol parece estar faltando seu cristal. Uma inspeção mais detalhada revela danos que podem ter sido causados por um Devastação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>Um Homem-Besta está aqui, amarrado e incapaz de se mover.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>Um Homem-Besta está aqui, amarrado e incapaz de se mover.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>Este parece ser o corpo do campeão [url=glossary:unbroken]ininterrupto[/url] que você está procurando, mas o Destemido não está em lugar algum.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>Os grossos pedaços de terra e ferro enferrujado bloqueiam a maior parte de sua visão da tempestade. Você pode distinguir vagamente a silhueta de uma estrutura distante, que só pode ser a fortaleza interna de Posto de Sentinela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>Este relatório de batalha de Travessia de ecochamada culpa o fracasso do ataque à vila no [url=glossary:scarlet chorus]Coro Escarlate[/url] - aparentemente, seus batedores falharam em relatar informações críticas sobre a composição inimiga.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>barraca contém espólios adquiridos no campo de batalha, todos devidamente rotulados e organizados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>Esses relatórios listam todos os conhecidos [url=glossary:scarlet chorus]Coro Escarlate[/url] postos avançados e fortalezas, bem como composições de tropas - é seguro assumir que [url=glossary:graven ashe]Cinza esculpida[/url] tem seus próprios olhos e ouvidos dentro das fileiras de seus inimigos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>A produção de novas poções não está atendendo a demanda. Muitas dessas garrafas permanecem vazias.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>Corpos de [url=glossary:disfavored]Desfavorecido[/url] comandantes são orgulhosamente exibidos atrás do trono de [url=glossary:the voices of nerat]o Vozes de Nerat[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>As barracas desordenadas e desordenadas continuam até onde você pode ver.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>Pedaços de comida e pano se espalham pelo chão da barraca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>[url=glossary:kyros]Kyros[/url]' padrão, uma visão imponente para conquistados e invictos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>O ornamento no topo do trono lembra a máscara de [url=glossary:tunon]Tunon[/url]. Parece sempre encontrar seu olhar, independentemente de onde você esteja.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>Quaisquer peticionários que desagradassem [url=glossary:tunon]Tunon[/url] encontrariam seu destino nos poços abaixo do tribunal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>O trono de pedra está coberto por uma sólida camada de poeira. Ninguém se sentou sobre ele por algum tempo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>Os meandros desta arquitetura sugerem um mestre de artesanato que está muito além do que se esperaria de um Tierman normal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>Tudo o que resta nos pratos e nas taças são pedaços de pão moldados e água suja. Há muito tempo não se come uma refeição decente nesta sala.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>[url=glossary:vendrien guard]Guarda Vendrien[/url] armamento e armadura estão aqui. Lascado, arranhados e marcados, esses armamentos provaram sua eficiência e durabilidade repetidas vezes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>Remédio irregular</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>Você ouve o choro fraco de um bebê atrás da porta. Ninguém vem para ajudá-lo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>O fogo no refeitório ainda queima, e pratos e talheres cobrem as mesas. Esta sala não vê combate há gerações. O [url=glossary:vendrien guard]Guarda Vendrien[/url] nunca mais será o mesmo após esta batalha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>[url=glossary:vendrien guard]Guarda Vendrien[/url] alimentos são armazenados aqui. A maior parte é composta por vegetais cultivados no Camadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>O rio Matani correntes representam pouca ameaça para pequenos barcos, muito menos pontes como esta. A magia que dividiu esta ponte deve ter sido bastante poderosa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>A maioria das casas do lado sul do rio foram abandonadas, assim como esta. Poucos do Apex cidadãos acreditam que levantar uma bandeira azul será respeitado pelas forças [url=glossary:kyros]Kyros[/url]'.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>O Rio Matani forma os limites do anel central Apex. O rio estreita-se consideravelmente em Echocall, tornando-se um dos poucos pontos de acesso para o interior do vale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>Glifos arcanos adornam os pergaminhos espalhados nesta mesa. A caligrafia sugere a mão de [url=glossary:sage]Sábio[/url], embora esteja escrito em pergaminho bruto produzido no vale - uma colaboração entre dois grupos rebeldes normalmente separados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>árvore ainda arde por causa das brasas inextinguíveis sob o solo, sem dúvida devido aos esforços Refrão para tornar a terra incultivável.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>A carroça parece ter sido usada como abrigo improvisado contra rajadas de flechas. Não foi totalmente bem-sucedido, a julgar pelas manchas de sangue que saem da carroça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>O soldado tem inúmeras feridas em seu corpo. As formas frias de dois aldeões idosos jaziam por perto, duas vítimas que ele não conseguiu proteger do mal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>Barricadas pontiagudas foram amarradas juntas, bloqueando o caminho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>Brasas cintilantes dançam no ar enquanto o vento sopra em um acampamento abandonado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>Insetos voam ao redor e pousam em alguns pedaços de vegetais podres intercalados entre os produtos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>A mesa é forrada com várias ervas medicinais. Parece que eles foram cuidadosamente racionados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>Caça cuidadosamente esfolada pendurada neste galho. Eles parecem doentes e desnutridos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>Do seu ponto de vista, você vê as tendas se afastando, obscurecidas pela fumaça crescente das fogueiras do acampamento. Os soldados que você vê parecem sombrios e quietos, uma calmaria antes da tempestade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>Ao longe, você capta o clamor típico de um acampamento militar - o tinido de aço de luta, o estrondo baixo de pés batendo e murmúrios abafados emanando por trás de tendas fechadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>A madeira usada para estes parapeitos é pura e finamente cortada. Essas paredes ainda não viram nenhuma batalha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>Um túmulo humilde está diante de você. Uma espada surrada foi usada como marcador, a inicial "B" profundamente gravada no ferro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>Este pano antigo parece extremamente antigo e surpreendentemente bem preservado ao mesmo tempo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>O fundo do abismo vai mais longe do que você pode ver. O som fraco de água correndo pode ser ouvido abaixo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>Há uma lista em papel velho e amassado. Enquanto vários itens simples para fabricação e reparo estão riscados, a maioria dos itens de comida permanece.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>Os maremotos de rocha e ferrugem claramente espalharam sua destruição por toda a região.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>As Velhas Muralhas estende-se das terras em ruínas até o mar Sulista.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>Um pequeno povoado reside na margem do grande rio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>Mesmo desta altura, o Rio Portuscor é vasto e expansivo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>Uma pequena aldeia repousa no precipício de um cânion cristalino.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>A impressionante dimensão das falésias e fendas profundas é realçada quando se observa toda a região.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>Imensos cristais envolvem o que resta da terra em todas as direções.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>Uma pequena coleção de estruturas repousa precariamente em um penhasco escarpado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>O fedor de mijo e matéria fecal emanam desta tenda, uma claramente não usada para descanso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>Pequenas marcas foram pintadas neste cadáver, marcando certas partes do corpo como alvos mais difíceis do que outras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>As rotas de abastecimento descritas no mapa entram e saem do terreno desfigurado que já foi Robusto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>Mesmo nas tempestades de ferrugem opressivas, os soldados [url=glossary:unbroken]ininterrupto[/url] têm uma mira notavelmente boa com um arco.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>Pequenas pilhas de ferrugem se acumularam em cima dos barris e caixotes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>Esta casa foi dividida pela magia Earthshaker. Antio provavelmente ordenou que seus magos o fizessem para intimidar os aldeões.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>Vila Ecochamada parece estar extraordinariamente bem abastecido. É provável que os locais estejam ajudando as forças revolucionárias há algum tempo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>Você ouve vozes abafadas e exclamações de medo vindo de dentro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>As pastagens do Camadas se estendem por toda a terra. Grande parte dela permanece desabitada e não reclamada por qualquer facção.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>Você percebe o contorno mais tênue do braço de um soldado no fundo deste lago, vítima de uma batalha anterior nesta área.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>Este manequim de treinamento está bem usado e parece que foi remendado e montado várias vezes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>armadura neste carrinho é velha, amassada e parece quase inutilizável. As armas não parecem estar em melhor forma.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>Você pode distinguir o contorno mais tênue do braço de um soldado no fundo desta lagoa, vítima de uma batalha anterior na área.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>Essas caixas parecem ter sido colocadas aqui e logo esquecidas. Há um odor pungente emanando deles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>Parece que alguém tentou sufocar esta fogueira com sujeira próxima, mas perdeu a maior parte do poço de fogo em sua pressa de sair.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>O eixo da roda deste vagão está quebrado, provavelmente levando ao seu abandono aqui. Grama e terra começaram a ultrapassar as partes mais próximas do solo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>Apesar de rachadas, desgastadas e possivelmente prestes a quebrar, essas lanças mostram uso recente em combate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>Cristais Azurelith são encontrados em todo o [url=glossary:stone sea]Mar de Pedra[/url] e são altamente reverenciados pelo [url=glossary:stonestalkers]Perseguidores de Pedras[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>Tentativas frequentes de colher os cristais Azurelith tornaram o [url=glossary:stonestalkers]Perseguidores de Pedras[/url] mais hostil a qualquer humano que entrar no [url=glossary:stone sea]Mar de Pedra[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>Este dano remonta a [url=glossary:kyros]Kyros[/url]' Conquista inicial do Camadas. Que é uma das poucas manchas restantes é uma prova dos esforços de reconstrução do [url=glossary:vendrien guard]Guarda Vendrien[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>A torre central se estende até as nuvens, elevando-se a uma altura difícil de compreender. A partir daqui, parece completamente inatacável.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>Essas paredes foram atacadas várias vezes ao longo da história do [url=glossary:younger realms]Reinos mais jovens[/url]. A resiliência da [url=glossary:vendrien's well]Poço de Vendrien[/url] Citadel é lendária.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>Esta fogueira queima com brasas que emitem um brilho etéreo. Olhando para a chama, você sente que pode ver vislumbres de rostos distorcidos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>A oeste você vê o pináculo brilhante de [url=glossary:lethian's crossing]A travessia de Lethian[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>A leste você pode ver nuvens profundas e cinzentas ao redor do [url=glossary:burning library]Biblioteca em chamas[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>Os grandes picos do [url=glossary:blade grave]Sepultura de Lâminas[/url] fornecem cobertura para soldados e Bestas, tornando-os locais perfeitos para emboscar viajantes incautos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>Todos os sinais sugerem que o [url=glossary:scarlet chorus]Coro Escarlate[/url] emboscou esta caravana, matou todos e roubou os bens transportados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>Os Homens-Besta bloquearam esta rota principal para fora da floresta. Caçadores e rastreadores habilidosos, os Homens-fera sabem como encurralar suas presas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>Esta Armadilha de Maldição foi quebrado há muito tempo. Dado o estado do outro Armadilhas de Destruição nestes Oldwalls, é provável que quem o quebrou não entrou nesta sala pela entrada sul.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>Esta Armadilha de Maldição parece ter se rompido por conta própria. Isso explicaria alguns dos Maldito atualmente vagando livremente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>Bens do Gino</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>Amante de Lethian</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>Espada ou Bainha</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>A tempestade ainda desce por este caminho, tornando impossível navegar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>Imensos picos de pedra brotam do chão, onde uma tempestade de poder inimaginável rasgou o terreno. As armas e armaduras dos soldados arrancados de seus corpos agora estão envoltas na pedra como efígies silenciosas da ira [url=glossary:kyros]Kyros[/url]'.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>Produtos de Alagan</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>Um Regente sempre governou deste trono em Stalwart nos últimos 500 anos, uma linhagem ininterrupta que sobreviveu por várias gerações.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>Este berço foi meticulosamente limpo. Enquanto outros objetos no salão têm vestígios de poeira e pó metálico, nada disso é encontrado aqui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>Escudos e armaduras revestem o exterior desta tenda improvisada, oferecendo mais proteção contra o ambiente inacreditavelmente implacável.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>[url=glossary:armor]armaduras[/url] e suprimentos claramente pertencentes ao [url=glossary:unbroken]ininterrupto[/url] estão espalhados. É difícil dizer se os detalhes em vermelho são de sangue ou Refrão pintura de guerra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>Esses pacotes e suprimentos são muito bem guardados e organizados para serem originários de qualquer gangue [url=glossary:scarlet chorus]Coro Escarlate[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>Essas torres de pedra parecem ter se erguido tão repentina e violentamente que armas e armaduras foram perfuradas diretamente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>Embora pareça bastante desconfortável, não há dúvida de que esta barraca improvisada coberta de ferrugem pode sobreviver ao pior clima no Camadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>Este cristal de alguma forma conseguiu se romper através da fundação do Pináculo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>Runas enigmáticas alinham esta seção da parede e continuam para cima até onde seus olhos podem ver.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>Chamas brilhantes lançavam uma luz esmeralda nas paredes. Como eles conseguiram essa cor e por que eles não queimam é um mistério.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>Armas e armaduras permanecem submersas na água, a maioria delas enferrujadas e não aproveitáveis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>Sangue e ferrugem adornam este estandarte de uma batalha há muito passada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>Abrir um dos sacos libera um cheiro horrível no ar. Olhando para ele, você pode ver o que resta de frutas e grãos apodrecidos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>Esta porta não se moverá um centímetro. Deve ser barricado do outro lado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>No fundo do poço, um pequeno buraco recolhe toda a água que sai das bicas. Ocasionalmente, o buraco se fecha e a água escoa para algum local invisível.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>Você viu este símbolo repetido com notável consistência por todo este lugar. Como a pesquisa de Oldwalls foi proibida, é provável que o significado desse símbolo tenha se perdido na história.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>Inimigos do [url=glossary:scarlet chorus]Coro Escarlate[/url] que ainda não ganharam um spike são deixados pendurados na parede do penhasco até a morte chegar para eles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>Dirge</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>Wrathrot</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>Crisantha</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>Parece que a “generosidade” de Nerat se estendeu apenas à filha de Amélia, e não à própria Amélia. As vozes colocou deliberadamente seu corpo em uma posição de destaque, um troféu de guerra que só pode ser eclipsado pela forma fria de seu pai.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>Com os segredos do Arquivo Silencioso descobertos, o Censurar não tem mais nenhum propósito além de servir como um receptáculo para seu conhecimento. Ela foi sustentada por vários espinhos, um lembrete espalhafatoso dos limites do avanço pessoal dentro do Refrão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>O corpo de Eldian é uma colagem de pequenas perfurações, suas mãos deformadas e cobertas de sangue seco. Parece que o velho foi brincado antes de sua morte, mas caiu lutando.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>Pelox foi cravado em sua parte traseira, uma exibição degradante destinada a desmoralizar qualquer sobrevivente [url=glossary:vendrien guard]Guarda Vendrien[/url] que possa saber de seu destino. Espesso, linhas secas de muco escorrem por sua armadura, um presente continuamente entregue por Horda soldados com lembranças amargas da campanha Ápice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>outrora orgulhoso líder da tribo [url=glossary:stonestalker]Perseguidor de Pedras[/url] jaz no chão, reduzido a nada mais do que um animal decorativo. Você vê algumas pegadas familiares, mas distintas, de costas para o corpo de Centenas-Blood, dando a impressão distinta de que Nerat pode estar usando-a como um assento improvisado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>Mattias “Brown Inferior” continua a fazer jus ao seu nome, tendo se sujado horrivelmente durante seus momentos finais de vida. A cabeça do líder [url=glossary:unbroken]ininterrupto[/url] está inclinada para cima, dando-lhe uma afetação de alguma forma orgulhosa, apesar das moscas zumbindo em sua traseira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>O corpo de Zdenya é difícil de reconhecer, uma colcha de retalhos de perfurações, cortes, poeira e sangue seco. A famosa e desafiadora Mestre do Forja claramente se recusou a aceitar seu destino sem uma luta titânica.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>Mesmo na morte, os olhos ainda abertos de Raetommon conseguem transmitir uma espécie de desespero maníaco. Ele oscila à beira do abismo, assim como fez em vida.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>A Lança de Ferro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>O Olho Discreto</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>Há muito mais passagens e salas à vista, mas fora do alcance.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>Essas pedras do piso foram quebradas recentemente. Pedaços de metal nas proximidades sugerem que é o resultado de soldados descuidados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>Não parece haver uma maneira de abrir esta porta deste lado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>Há um brilho misterioso de origem desconhecida vindo das profundezas deste poço.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>Manchas de sangue cobrem os campos de treinamento. [url=glossary:vendrien guard]Guarda Vendrien[/url] treinandos treinam nesta área, aperfeiçoando seu ofício marcial.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>Segue [url=glossary:kyros]Kyros[/url]' Conquista, a comida tornou-se muito menos abundante nas camadas. O [url=glossary:vendrien guard]Guarda Vendrien[/url] deve se contentar com muito pouco.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>Esses pequenos quartéis não são grandes o suficiente para manter o [url=glossary:vendrien guard]Guarda Vendrien[/url] confortável e bem descansado. O sono ocorre em turnos curtos, com os soldados entrando e saindo das camas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>altar fica no meio de um lago de lava, cercado por braseiros rituais. Os corpos dos Sábios que deram suas vidas para impedir o colapso do Biblioteca estão espalhados ao redor do pedestal central.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>Os cadáveres dos sábios são espetados nesses espinhos. Sua pele foi enegrecida pelo calor do magma expelido das fissuras próximas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>Estes três jarros parecem ter sido meticulosamente colocados neste altar. As inscrições neles lembram os sigilos da tocha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>A placa está tão manchada e arranhada que você não consegue ler a maior parte, mas menciona "uma nova técnica de encadernação" e "dominando a magia para preservar os pergaminhos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>O fogo que emana da árvore cria longas sombras dançantes que se estendem pela terra queimada. Se você olhar com atenção, poderá ver as sombras pulsando ocasionalmente, como se tivessem vida própria.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>O fogo que emana da árvore projeta sombras que agora permanecem imóveis e sem vida.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>A maioria dos Caedos colonos fugiram quando as Refrão forças se aproximaram. Esta casa, como a maioria das outras, foi abandonada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>Estes Horda soldados estão mortos há menos de um dia. O Juramento Vinculado espreitando o vale estão ocupados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>Remanescentes de uma antiga cidade Azure podem ser vistos saindo das paredes de pedra abaixo, quase obscurecidos pela escuridão do abismo. Catadores e estudiosos enfrentam essas profundezas traiçoeiras em busca das riquezas do reino outrora poderoso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>Está quente, não toque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>Essas armas de ferro gastas parecem ter sido consertadas recentemente e estão sendo preparadas para serem enviadas de volta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>Esta armadura é recém-criada pelo [url=glossary:forge-bound]Forge-Bound[/url]. Ainda está quente ao toque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>A parede dos fundos desta casa há muito desmoronou, revelando o Oldwalls atrás dela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>Esta parede parece ter sido danificada anos atrás, mas nunca foi devidamente reparada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>As caixas estão transbordando de comida estragada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>Irmandade Executada soldados foram alinhados aqui, junto com uma pequena pilha de equipamentos, mochilas e anéis. Pelo que parece, eles foram mortos recentemente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>Nenhum dos corpos aqui corresponde às características descritas nas notas do espião. A mochila da qual você recuperou a missiva está levemente úmida, ao contrário do resto do equipamento empilhado no chão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>Estas podem ser as armas mencionadas na missiva, embora nada de significativo possa ser visto nas proximidades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>A julgar pelo piercing no nariz do morto e pela cicatriz facial, parece que você encontrou o espião fraternidade. Um corte grosso atravessa a frente de seu pescoço, um lembrete espalhafatoso dos riscos de sua profissão escolhida. As notas escritas à mão em suas roupas foram arruinadas pela água, embora você possa ver alguns pergaminhos mágicos ainda intactos em um bolso escondido.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>[url=glossary:disfavored]Desfavorecido[/url] batedores como esses não são uma visão incomum em Marcha do Desertor. Esses dois provavelmente estavam tentando observar o acampamento fraternidade abaixo e receberam várias flechas por seus problemas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>A Irmandade raramente acampam em um local por mais de algumas semanas de cada vez, para que não se tornem alvos previsíveis para as forças [url=glossary:kyros]Kyros[/url]'.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>A mesa é sustentada por algumas frágeis tábuas de madeira. É uma surpresa que ainda esteja em pé, considerando todos os tremores na área.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>A tenda foi tingida para se misturar com o ambiente e não parece ter sido abandonada. Madeira recém-colhida repousa em um pacote próximo, e você encontra alguns pedaços de coelho seco em uma bolsa de couro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>Os sacudidores de terra moveu esta pedra com facilidade. Magia dessa magnitude pode ser crucial para levar [url=glossary:vendrien's well]Poço de Vendrien[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>Os restos mortais de [url=glossary:cairn]Cairn[/url] estão aqui, desmoronados em uma pilha de Azurelith e pedra. O errante Arconte foi destruído pelo poder do [url=glossary:edict]Edital[/url] de Pedra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>Cristais Azurelith são um recurso para os poderes Tremedores de terra'. Sua essência, uma vez colhida, pode ser usada pelos magos para reforçar suas habilidades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>Os sacudidores de terra significa defender o local de descanso final de [url=glossary:cairn]Cairn[/url] até a morte. Armas, suprimentos e recursos foram trazidos para sustentar os soldados neste acampamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>Este acampamento é típico de [url=glossary:stone sea]Mar de Pedra[/url] exploradores. Muitos viajam de todos os cantos do Camadas em busca de tesouros não reclamados do agora extinto Reino de Azure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>Poucas forças podem despachar o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] com tanta facilidade. Esses cadáveres parecem que não estão mortos há muito tempo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>Este carrinho foi limpo por catadores.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>À medida que os penhascos caíam, esses edifícios e seu conteúdo desmoronaram no abismo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>Esta parede foi derrubada às pressas e os itens dentro estão faltando. Não está claro se os moradores em fuga ou saqueadores agressivos são os responsáveis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>Este balde de dízimos está quase transbordando de itens e anéis para Sirin. Parece que ela está indo bem para si mesma.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>A Pedra Angular falha ao gerar uma resposta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>Vários Earthshakers aparentemente tentou fugir de um conflito recente. Adicional, formas amassadas mais adiante no caminho pintam uma imagem sombria.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>O grande Arconte, [url=glossary:cairn]Cairn[/url], está morto. Como isso aconteceu não está claro, embora seja provável que o Refrão tenha atacado o forte com esse propósito.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>O número de [url=glossary:disfavored]Desfavorecido[/url] mortos supera em muito os Horda corpos espalhados pelo chão. Parece improvável que algum [url=glossary:disfavored]Desfavorecido[/url] tenha sobrevivido à batalha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>O Pináculo sobreviveu aos tremores mágicos que devastaram o [url=glossary:stone sea]Mar de Pedra[/url]. Ele se estende incompreensivelmente no céu, fazendo com que os pilares rochosos próximos pareçam diminutos em comparação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>Os corpos não apresentam sinais visíveis de decomposição. Qualquer conflito ocorrido aqui deve ter sido recente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>Você percebe alguns dos mesmos cristais embutidos na rocha nas sacolas do Earthshaker. Esta parece ter sido uma expedição de coleta que deu errado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>Este é o Pináculo vislumbrado por inúmeros viajantes ao longo do horizonte norte do [url=glossary:stone sea]Mar de Pedra[/url]. Embora seja uma visão comum, muito poucos são capazes de navegar com sucesso para este local.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>Partículas de poeira levantadas da batalha se desintegram ao entrar em contato com essa barreira mágica. Não parece que algo está passando enquanto o Sábios o mantém.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>Sigilos de fogo brilham dentro dos poderosos orbes canalizados pelo Cantores de Sangue. Simplesmente olhar para ele provoca uma sensação de pavor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>Embora uma grande rachadura corra ao longo desta parede, uma poderosa magia de barreira garante que ela não será explorada. Os Sábios mantê-lo deve ser silenciado, primeiro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>Os sacudidores de terra estão focados, preparando um feitiço para derrubar a parede de pedra Cidadela. A poderosa magia de barreira empregada pelo Sábios está impedindo seus esforços.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>A forja está trancada. O [url=glossary:forge-bound]Forge-Bound[/url] parece ter deixado [url=glossary:lethian's crossing]A travessia de Lethian[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>O cristal no farol não responde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>O cristal no farol não está respondendo às tochas desses Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>Esta estrutura foi destruída pelos terremotos, e mais tarde desmontada por catadores.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>Este caminho se inclina para cima e para fora das ruínas, mas foi permanentemente enterrado sob a rocha vulcânica. Sem aviso prévio de [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url], os Sábios não conseguiram proteger as saídas da biblioteca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>[url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] transformou este piso em um lago de fogo derretido. Teve os sábios mais tempo para preparar, faixas maiores da biblioteca teriam sido salvas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>lava fica perigosamente perto da borda do chão, a poucos centímetros de se derramar e consumir o chão aos seus pés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>HowlingRock Store</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>Essas ranhuras no piso são incrustadas com um material incandescente fraco que brilha após uma inspeção mais próxima. Eles parecem se cruzar em vários ângulos, formando uma infinidade de formas potenciais semelhantes à fricção que você encontrou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>Essas ranhuras no piso são incrustadas com um material incandescente fraco que brilha após uma inspeção mais próxima. Eles parecem se cruzar em vários ângulos, formando uma infinidade de formas potenciais. Talvez haja pistas na arquitetura da sala quanto ao padrão que ela já teve.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>Corpos de [url=glossary:unbroken]ininterrupto[/url] soldados e [url=glossary:scarlet chorus]Coro Escarlate[/url] se espalham pelo chão. Os corvos já fizeram um trabalho rápido com os olhos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>Pela qualidade evidente de sua armadura e como os outros cadáveres estão agrupados em torno dele, este deve ser o líder [url=glossary:unbroken]ininterrupto[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>Essas caixas têm uma pequena série de entalhes no canto superior esquerdo de cada caixa, e arranhões no chão sugerem que elas foram arrastadas de uma casa próxima.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>Sibila, o outrora defensor de Travessia de ecochamada está diante de você. É difícil dizer onde termina seu cabelo vermelho de fogo e seus ferimentos começam através das camadas de sangue. Com todos os ferimentos que ela sofreu, um bom número deles parece ter sido feito após sua morte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>A porta não pode ser movida manualmente e resistirá facilmente a qualquer esforço para forçá-la a abrir. Você percebe um pequeno receptáculo esculpido em um dos painéis que adornam esta porta, embora nada na câmara pareça caber.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>A porta cria uma vedação quase perfeita com as paredes circundantes. Ao longo de sua superfície, você vê várias lascas e ranhuras rasas de tentativas fracassadas de forçá-la a abrir. Não há nada para interagir em seus painéis, e você supõe que nunca foi feito para ser aberto deste lado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>Muito abaixo de você, uma grande pedra está suspensa sobre uma imensa queda que se afunila na escuridão completa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>Loja do Fedro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>As bobinas ondulantes de energia luminosa no topo desta plataforma parecem curiosamente em paz para um Maldito.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

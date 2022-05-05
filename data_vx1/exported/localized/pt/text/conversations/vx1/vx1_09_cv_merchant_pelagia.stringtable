@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\vx1\vx1_09_cv_merchant_pelagia</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Saudações, Fatebinder! Acho que falo por todos os [url=glossary:forge-bound]Forge-Bound[/url] quando agradeço sua gentileza em relação à nossa pequena comunidade. Normalmente não trocamos nossas armas e armaduras, mas para um personagem como você, abrirei uma exceção com prazer!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Bem-vindo de volta, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Gostaria de ver nossos trabalhos? Ou há algo mais em que eu possa ajudá-lo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"O que você pode me dizer sobre Ferida do Bastardo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Vamos ver o que você tem a oferecer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Deixar] "Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Eu nunca esperei fazer um lar no Oldwalls, isso é certo. Mas entre nossos esforços e a orientação Mestre Jaspos', construímos deste lugar algo como um lar. Se pudéssemos encontrar uma solução melhor para a questão da água..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Claro! Um amigo da Jaspos é um amigo meu e, portanto, você tem direito ao desconto de amigos e familiares. Em reconhecimento ao seu serviço, naturalmente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Acho que você ficará impressionado, Vinculador do Destino. Mesmo com os recursos limitados disponíveis no Ferimento, o [url=glossary:forge-bound]Forge-Bound[/url] cria as melhores criações em todos os Terrato."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Tão típico dos Tribunal - Apenas interessados no [url=glossary:forge-bound]Forge-Bound[/url] quando você precisa de armas e armaduras. Vou mostrar o que tenho, mas temo que nossos preços tenham subido devido a recentes... dificuldades desnecessárias."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Um Pregador do Destino? Gracioso! Você veio para... er, você vai querer falar com Mestre Jaspos. Ele está a nordeste daqui, na forja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Nada contra Wagstaff - ele tem minha admiração como fundador da comunidade. Mas ser o primeiro colono e ser o primeiro entre os colonos são duas coisas totalmente diferentes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Vá embora. Não tenho nada a dizer a você."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\factionquestlines\disfavored\fq_dis_06_gravenashe_ashesfort</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Neta? Eu não fazia ideia. Mesmo a noção de que Amélia poderia gerar um descendente do Camadas... Impensável." 
+
+Sua testa franze quando ele entra em um estado de profunda contemplação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"O que te faz pensar que alguém vai te trair?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"De que tipo de ameaças você está falando?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Continue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Porque o que deveria ter sido uma simples campanha para subjugar uma nação do interior degenerou em guerra civil! Meus soldados deveriam estar no amado Norte, e ainda assim estamos presos aqui. Nunca lhe ocorreu que isso foi planejado?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Não sei, e isso é o que mais me incomoda. Talvez [url=glossary:the voices of nerat]o Vozes de Nerat[/url] me faz pular nas sombras e berrar aterrorizado para meu próprio reflexo, mas não posso dar todo o crédito a ele."
+
+"Como sei que quando minha família se aproxima, reconheço o presença dos meus inimigos."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\05_cairnplains\05_cv_beastman_divideandconquersq_delivery</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Não gosto de humanos em terras de tribos. Fedor de suor e sujeira. Parecem ferro-clads, mas são fracos. Mate sua própria espécie para obter comida em caminhos estéreis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Por que os blindados [url=glossary:disfavored]Desfavorecido[/url] matariam viajantes inocentes nas estradas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Ele uiva, irritado. "Homens-fera não mentem como humanos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Serra com olhos afiados Homem-Besta. Caçadores enxameados de ferro no lugar com Pedra Cinzenta. Lembre-se porque caçar era estranho. As armaduras de ferro cheiravam a podridão e eram fracas - lutavam para matar um bando do mesmo tamanho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Ofereça mimo] "O que você viu? Dizereu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Caça furtivamente. Ferro-clads são perigosos quando encontrados. Usualmente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Isso soa estranho. Vou investigar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Não é possível latir agora. Tem que cavar um buraco mais fundo antes que o sol durma."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Deixar] "Não tenho interesse neste assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Não minta para mim, Homem-Besta. Eu sou um Vinculador do Destino de [url=glossary:tunon]Tunon[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Ele inclina a cabeça para um lado, pensando. "Como deve Homem-Besta conhecer os pensamentos dos humanos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Ele aceita ansiosamente o pedaço de carne. Ele estala suas mandíbulas poderosas e baba, felizmente contando sua história para você enquanto devora o pedaço sangrento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Lembre-se do cheiro humano. O humano foi ver o que Fenda-Dig também viu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Lembre-me novamente o que você viu, exatamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Continue caminhando.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

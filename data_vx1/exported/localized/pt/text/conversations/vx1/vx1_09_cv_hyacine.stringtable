@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\vx1\vx1_09_cv_hyacine</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Você vê uma figura alta com uma faixa de retalhos de peles de animais pendurada no ombro. A pele de seu rosto queimado de sol se funde com um par de bochechas naturalmente coradas e sardentas. Ela fala energicamente com dois aldeões próximos, animada em sua representação de uma caçada recente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Ela ouve você se aproximando e gira ao redor, lança estendida de brincadeira. "Ah-há! Quem vai lá?" Sua risada é calorosa, mas termina abruptamente quando ela nota sua aparência. "Desculpas, Fatebinder! Eu não fazia ideia que você estava nos visitando... perdoe a brincadeira. Tenho sido sobrecarregado com uma superabundância de energia desde a infância. De um jeito ou de outro, sai." Ela faz uma reverência propositalmente desajeitada. "O que posso fazer por você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Você pode me falar sobre o [url=glossary:forge-bound]Forge-Bound[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"O que você acha de Cassandra?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Deixar] "Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Boa gente, no que me diz respeito. Todo mundo por aqui fica melhor com eles. Cassandra e seus alunos me mantêm abastecido com pontas de lança e pontas de flecha frescas, então minha vida nunca foi tão fácil. Eles passam a maior parte do tempo em treinamento, no entanto. Acho que essa é a verdadeira razão pela qual eles estão aqui - para passar segredos de mestre para aluno em um lugar seguro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ha, ela é um osso duro de roer. Ela vem martelando aço por tanto tempo que esqueceu como pendurar o martelo e aproveitar outras atividades. Eu a conheci depois que começamos a falar sobre implementos de caça. Acho que ela viu algo no meu entusiasmo por tudo isso e nos tornamos amigas. Ela é uma pessoa muito diferente depois que ela relaxa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Sepultura de Cassandra ferramentas parecem únicas. Alguma chance de ela se separar deles?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Duvido. Tudo o que ela fala são cinzéis - moils, flats, tampers - quem sabia que havia tanto para saber sobre cunhas com alças? Se você precisar de ferramentas, pergunte a ela! Aposto que ela vai fazer para você apenas para mostrar o que ela pode fazer. Mas as ferramentas DELA... sério, essas são provavelmente as únicas coisas neste mundo que ela realmente ama."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Com um sorriso cheio de dentes, Hyacine oferece uma piscadela amigável quando você se aproxima. "Bom dia, Vinculador do Destino. Precisa de alguma coisa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Cassandra é durona - em mais de uma maneira - mas seus alunos estão melhor por isso. Eles certamente resolvem qualquer um dos nossos pedidos... pregos, ganchos, lâminas, o que você imaginar. Apenas o velho Lycus não gostou muito da presença deles, mas isso é porque ele é um ferreiro de meia categoria cujas lâminas estão tão frouxas quanto ele está no saco."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Qualquer maneira, eu gosto deles. Eu não sou muito louco sobre o toque de recolher que eles exigiram, mas Cassandra insiste que é para nossa segurança. Eu não vi nenhum fraternidade ou bandidos durante minhas caçadas, então... não é como se estivéssemos menos seguros por causa disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Não que haja algo de errado em ter um exterior duro. Ela é uma mestre em Knapping, afinal. Você precisa manter as aparências!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Eu tive que rastejar bem baixo pelo mato... essas criaturas têm olhos de águia, mas são surdas demais para ouvir seus próprios peidos. Cheguei perto o suficiente para ver seu nariz se contorcendo no ar - eles podem realmente sentir você vindo naquela direção, você sabe - mas era tarde demais. Um impulso rápido depois se transformou em jantar."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

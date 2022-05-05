@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\00_recruits\00_cv_infirmary_missions_damiro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ainda esperando a manutenção terminar antes de continuar com meu trabalho. Volte mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Damiro olha para o [url=glossary:stone sea]Mar de Pedra[/url]. "Este é o mais longe que estive de minha casa em [Plainsgate]." Ele respira fundo. "O ar está muito mais limpo aqui, isso ajudará na potência das ervas. Você pode imaginar as dificuldades que tivemos com o [url=glossary:edict]Edital[/url] no [url=glossary:stone sea]Mar de Pedra[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"O que você fez para mim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Deixar.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Eu me saí bem com os poucos recursos que tinha, mas eventualmente até o pouco que eu tinha acabou. Fechei a loja e foi aí que decidi levar minhas habilidades para outro lugar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Venha inspecionar meu trabalho, Fatebinder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Deixe-me mostrar a você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Não tenho nada para você no momento. Volte mais tarde."
+
+[Recrutas podem gerar itens para você enquanto você ganha experiência ao se aventurar no mundo.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Por que você deixou [Plainsgate] e me ofereceu seus serviços?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Eu ouvi falar dos outros que você quebrou o [url=glossary:edict]Edital[/url] de Stone?" Seus olhos se iluminam com um brilho que você nunca viu antes. "[Plainsgate] não havia Refúgio para começar, mas essas pessoas podem ter a chance de construir de novo."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

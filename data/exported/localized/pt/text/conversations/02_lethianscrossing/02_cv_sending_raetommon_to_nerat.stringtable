@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\02_cv_sending_raetommon_to_nerat</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Vinculador do Destino." O Corista faz uma saudação casual. "Veio para investigar um barulho e peguei este tentando fugir do Oldwalls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Eu realmente estava indo para Cacofonia, Vinculador do Destino, juro!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Acompanhe-o até Nerat - sem danos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Leve-o para Nerat. Se você tem que machucá-lo, então machuque-o. Ele só precisa estar vivo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Vai ser feito, Vinculador do Destino." Ele cutuca Raetommon. "Você ouviu o Vinculador do Destino, vamos embora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Com prazer, Vinculador do Destino." Ele sorri maliciosamente para Raetommon. "Você ouviu o Vinculador do Destino, Nerat está esperando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Você traiu [url=glossary:the voices of nerat]As vozes de Nerat[/url], agora você deve morrer!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

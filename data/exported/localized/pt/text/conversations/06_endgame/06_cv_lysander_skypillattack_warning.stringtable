@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\06_endgame\06_cv_lysander_skypillattack_warning</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Fatebinder!" Sem fôlego, o oficial presta atenção. "Não há tempo para cortesias ou cerimônias. Seu pináculo está sob ataque. Os [url=glossary:scarlet chorus]Coro Escarlate[/url] aumentaram sua ofensiva e pretendem derrubar sua fortaleza - com você no topo, se necessário."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Vou partir imediatamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Você está mentindo para mim, soldado?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Você executou sua tarefa com distinção. Muito bem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Ele pisca. "O quê? Não! As gangues do Coro estão se reunindo do lado de fora do seu Pináculo. Você precisa agir imediatamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Multar. Vou verificar meu Pináculo... mas não tente nada enquanto estiver fora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"O que eu faria..." Desnorteado, o oficial deixa o assunto de lado e o encara com impaciência. "Bom sorte no seu Pináculo, então."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Meus agradecimentos, Vinculador do Destino. Boa sorte no seu Pináculo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Eu temia que algo assim pudesse acontecer - um ato de desespero do [url=glossary:the voices of nerat]o Vozes de Nerat[/url]. Ele é muito covarde para atacar Iron Hearth ou suas forças são muito fracas. De qualquer forma, você precisará responder a essa ameaça com sangue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Vinculador do Destino... essa acusação está abaixo de você e envergonha a todos nós! Você deve saber melhor do que desconfiar de meus soldados."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

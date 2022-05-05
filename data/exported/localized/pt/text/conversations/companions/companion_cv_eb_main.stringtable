@@ -1,0 +1,2782 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\companions\companion_cv_eb_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>548</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Saudações Fatebinder, ou devo agora chamá-lo de senhor de [url=glossary:vendrien's well]Poço de Vendrien[/url]? O Rei Espiral? Príncipe da sugestiva laje vertical?"</DefaultText>
+      <FemaleText>"Saudações Fatebinder, ou devo agora chamá-la de senhora de [url=glossary:vendrien's well]Poço de Vendrien[/url]? A Rainha do Pináculo? Princesa da sugestiva laje vertical?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Um segundo Pináculo despertou para sua presença... isso é fascinante e, admito, invejável. Se sua conexão com o Pináculos convidar a morte e aflição, meu ciúme pode diminuir um pouco..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Eb olha para você, sua mandíbula erguida, olhos franzidos. Por um longo momento, ela apenas olha para você com grande intensidade - sobrancelhas se contraindo, suas narinas dilatadas a cada exalação exagerada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"O que você precisa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Fale-me sobre você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Vamos falar de magia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Tenho dúvidas sobre as pessoas do Camadas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"O que você sabe sobre a sociedade arcana?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Vamos voltar às nossas viagens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"O que você gostaria de saber?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Você sabe que normalmente cobro por isso... mas para você..." Eb sorri, aguardando sua consulta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Todos nós sabemos nadar e todos sabemos lutar - a maioria nórdicos tem a sorte de fazer metade dessa ostentação. O que você gostaria de saber?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Conheço muitos magos do Camadas, ou pelo menos sua história - a maioria está morta agora. Conheço um pouco menos as guildas juramentadas [url=glossary:kyros]Kyros[/url]' Arcontes, mas tento me esforçar para conhecer minha oposição."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Estamos trabalhando com o [url=glossary:disfavored]Desfavorecido[/url]... você quer meu conselho? Meu conselho seria chegar perto de [url=glossary:graven ashe]Cinza esculpida[/url] e enfiar uma faca envenenada em seu ouvido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Fale-me sobre seu nome."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Você sempre quis ser um Lançador de maré?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Você ouviu alguma coisa do Lançadores de maré que partiu antes da guerra?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"O que você pode me dizer sobre sua tradição mágica?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Você sabe alguma coisa sobre a magia do Arcontes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Multar, podemos conversar sobre outros assuntos misteriosos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Como você se identificou com o [url=glossary:vendrien guard]Guarda Vendrien[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Estou curioso sobre as pessoas do Camadas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"E os resistores principais da regra [url=glossary:kyros]Kyros[/url]'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"O que você pode me dizer sobre as diferentes nações do Camadas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Sabe alguma coisa sobre Oldwalls e os Pináculos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"O que você pode me dizer sobre o Maldito?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Fale-me do Tremedores de terra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Conte-me sobre Cantores de Sangue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"O que você pode me dizer sobre o [url=glossary:forge-bound]Forge-Bound[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"E outras escolas mágicas e guildas do Camadas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Conte-me sobre sua própria guilda, a Escola das Marés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Não... e não gosto de alimentar a esperança. Esses covardes todos se foram. Se eles não morreram no mar, estão mortos para mim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"É uma pena que muitos dos meus colegas fossem covardes - se toda a Escola tivesse encontrado o inimigo como uma força unificada... melhor não pensar demais nisso."
+
+Ela acena com a mão com desdém.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Se as pessoas de Ápice eram tão hostis, por que vir em seu auxílio?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Por que os Lançadores de maré estavam relutantes em lutar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Vamos mudar de assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"No passado, o pessoal de Ápice nos expulsava da cidade se vissem dois ou mais Lançadores de maré reunidos... mas a guerra faz estranhos companheiros. Para o crédito de [url=glossary:vendrien guard]Guarda Vendrien[/url], eles sabiam que tinham que confiar em seus vizinhos... Eu só desejo que mais de nós se juntem à causa, e mais cedo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Então, quando eu era uma garotinha, o que eu REALMENTE queria ser era um fuzileiro naval - a cadela corpulenta na proa de uma trirreme, a primeira a quebrar alguns crânios quando os navios se chocavam... você sabe, uma vida honesta. Felizmente, o Escola me procurou antes que eu me matasse no mar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"É uma daquelas piadas não especialmente engraçadas que ficaram muito depois de sua temporada. Escrevi a palavra 'ebb' incorretamente em um exame escrito, Mestre Folvax começou a me chamar de 'eb' a partir de então. Ele alegou que se encaixava em mim, disse que eu era um merdinha cínico que sempre vê o refluxo, nunca o fluxo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Hazen? Não sabia que você era nobre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"O que você fez nos anos anteriores à guerra?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Tentando salgar velhas feridas? Eles sãoe tudo se foi, mas... se você realmente se importa em saber... eu tinha marido, três filhos, irmãos que eu não odiava. Toda família tem seus problemas - tive sorte que as brincadeiras desajeitadas e empoladas do jantar foram as piores."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Fale-me sobre seu marido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Conte-me sobre seus filhos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Pergunte, o pior que posso fazer é não dizer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Conte-me sobre como você influencia Túmulo de Terrato."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Eu ordeno que você me ensine o que sabe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Quais são os ensinamentos filosóficos de sua magia?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Vamos mudar de assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Não, que tal você me dizer algo para variar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Não tenho certeza se gosto do seu tom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Eu faço as perguntas por aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Bom. Estou cansado de ser sua fonte de sabedoria. Você me diz uma coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Sim. E estou ignorando suas regras e respondendo sua pergunta com uma pergunta. É um truque que aprendi andando com pessoas irritantes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Quem te ensinou magia?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Eu conheço Fatebinder Rhogalus há muito tempo - eu o conheci de passagem há mais de uma década em um conselho em Ardente. Olhando para trás, agora sei que ele estava no Camadas em antecipação à conquista."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Rhogalus, Fatebinder de [url=glossary:lore]Conhecimento[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Autoestilizado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Não sei se essa é sua preocupação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Escola de... espionando Fatebinder Rhogalus?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Você não foi treinado na prática?" Eb's olhos se arregalam. "Você com certeza poderia ter me enganado. Bem, você estava roubando a sabedoria dos melhores - Rhogalus sabe mais do que homens com o dobro de sua idade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Curioso... muito curioso." Eb acena com a cabeça, sorrindo amplamente. "Mestre Folvax era um talento selvagem como você - bem, talvez não exatamente como você, mas ninguém pode atestar que lhe ensinou magia de gelo - é como se ele tivesse descoberto por conta própria no inverno de 366. Sinto falta dessa loucura peixe-bruxa velho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Apenas tentando conversar, erro meu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"E devo perguntar... o que mais te atrai - conhecer todos os sigilos que existem para conhecer, ou se tornar um especialista em apenas alguns?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"A perfeição é uma virtude, eu diria que a maestria me impulsiona."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"O conhecimento é um grande motivador - gostaria de saber um pouco sobre tudo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Fui treinado em magia, mas dificilmente é minha vocação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"A menos que você esteja planejando me ensinar alguma coisa, isso não é da sua conta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Então pensamos da mesma forma sobre este assunto. Gostaria de pensar que, em minha vida, realizarei algo muito além do que atualmente sei ser possível."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"E aposto como Vinculador do Destino, você pode ignorar convenientemente a questão do que o aprendizado [url=glossary:kyros]Kyros[/url] faz e não proíbe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Para uma pessoa com um conjunto de habilidades tão notável, você é estranhamente modesto sobre suas capacidades."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Um ponto justo, não vou insistir no assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Bem, obrigado por responder minhas perguntas. Agora... onde estávamos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Sobre magia..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Não se preocupe, vamos seguir nosso caminho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Isso é um segredo comercial - ou pelo menos era um segredo comercial [url=lore:eb_conquest] até alguns anos atrás. Meus mestres foram levados antes de Vozes de Nerat, e ele arrancou essa sabedoria de suas mentes...[/url] não que eu ainda seja amargo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Em algum momento eu deveria sentar com você para uma lição adequada sobre os caminhos do Escola mas... em outro momento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Você pode me mandar para uma batalha que não posso vencer e eu seguirei essa ordem até a morte, mas vou levar o que sei comigo até o fim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Na escola das marés, apreciamos padrões de todos os tipos - a maioria é chamada às profundezas, outros acham seus interesses saltados - muitos ainda acham as marés da emoção humana e fortunas políticas muito mais intrigantes do que as 'marés inanimadas' encontradas nas órbitas e oceanos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"O suficiente para saber que estou fora do meu elemento. Ou seja, estudei bastante os muitos Arcontes e tenho um grande número de hipóteses e conjecturas, mas... bem, ainda não sou especialista."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Não é suficiente... nunca é suficiente!" Eb sorri, girando seu cajado nas mãos. "Quando criança eu tinha pavor do Oldwalls - acho que isso é verdade para a maioria das pessoas. Agora que posso [url=lore:eb_gravelight]arco Gravelight com um movimento de meus dedos...[/url] bem, acho que quando eu for uma bruxa velha e enrugada, morrer no Oldwalls seria um ótimo caminho a percorrer. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"O que eu sei é em grande parte tirado do do Mestre Camberil trabalho e alguma experiência quase fatal se aventurando perto do Oldwalls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Estou surpreso, eu nunca teria imaginado que você se importa com os palavrões de um marinheiro para as pessoas do Camadas. Se o fizesse, não se juntaria a uma multidão gigante de estupradores e saqueadores para conquistar a todos nós. Pergunte a [url=glossary:sage]Sábio[/url] se tiver curiosidade sobre nossa cultura."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] fez um trabalho rápido do Camadas - destruindo a maioria dos grandes exércitos do [url=glossary:younger realms]Reinos mais jovens[/url] em poucos anos de guerra. Claro, rainhas podem ser reverenciadas, capitães mortos, mas somos um povo orgulhoso... Acho que [url=glossary:kyros]Kyros[/url] achará os remanescentes teimosos do Camadas difíceis de erradicar completamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Se estou sendo objetivo, os Sábios afirmam ser estudiosos interessados em coletar, arquivar e preservar conhecimento de e para toda a humanidade. Eles estão muito interessados em reunir conhecimento, mas em nenhum sentido eles procuram compartilhar seu conhecimento com seus Tiersmen."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Há uma década, Robusto era o fim das piadas que Tiersmen contavam uns aos outros. O povo de Robusto está detestavelmente orgulhoso de uma longa história de ser invadido, mas nunca perdendo. O [url=glossary:disfavored]Desfavorecido[/url] pôs fim ao seu alardeado recorde de vitórias."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Há algum grupo em particular que você gostaria de discutir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Fale-me sobre o Escola de tinta e pena."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Fale-me sobre o [url=glossary:unbroken]ininterrupto[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Conte-me sobre a [url=glossary:stonestalker]Perseguidor de Pedras[/url] tribo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Fale-me sobre o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Existem outros remanescentes do [url=glossary:younger realms]Reinos mais jovens[/url] que ainda podem se levantar contra o [url=glossary:kyros]Kyros[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Vários Sábios veio em nosso auxílio durante a segunda batalha de [url=glossary:vendrien's well]Poço de Vendrien[/url] - Eu inicialmente pensei que eles queriam me matar, mas em vez disso eles colocaram suas vidas em risco por nós."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Atrás dos Titulares, os Sábios da Escola de Tinta e Pena são a segunda instituição arcana mais antiga do Camadas... nós voltamos há muito tempo... há muito sangue ruim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"O [url=glossary:unbroken]ininterrupto[/url] é o nome dos militares do agora caído Reino de Robusta. Cada cidadão de Robusto foi treinado para lutar, e esperava-se que todos respondessem ao grito de guerra do Regentes - o pequeno conselho governante do reino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url]' a guerra foi desastrosa para o humano Reino do Azure, mas um golpe de boa sorte para numerosos Homens-fera que labutaram em do Azure campos de trigo sem fim. Com todos os senhores mortos, os servos foram libertados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"A [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] é uma das mais temidas e famosas das Cidades Livres empresas mercenárias. Eles servem o maior lance, e durante a guerra, isso foi [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Os Earthshakers são as disciplinas de [url=glossary:cairn]Cairn[/url], Arconte de Pedra, e eles compartilham o comando de seus mestres sobre tremores e solo... e eles também compartilham [url=glossary:cairn]Cairn[/url]' tem um temperamento distante e pensativo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Os Cantores de Sangue são [url=glossary:the voices of nerat]a cabala de magos de Vozes de Nerat[/url]. Sua magia é retirada do sigilo de Sirin e de técnicas roubadas de Escola da Ira Selvagem, ou seja, sua magia de fogo como aprendida em Mil Brasas, Arconte de Fogo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Os [url=glossary:forge-bound]Forge-Bound[/url] têm um tipo incomum de magia - eles se especializam em rituais lentos e meticulosos que não produzem as explosões deslumbrantes de energia e fragmentos de gelo voador como o meu Magia. Em vez de, seus feitiços os tornam imunes aos fogos da forja e em harmonia com suas ferramentas de ofício."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Houve vários que surgiram e murcharam ao longo dos séculos. A Guilda dos Cortadores levou sua magia de cura para o norte séculos atrás, os Escola de inverno florido sempre mancando como um grupo inconsequente de jardineiros."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Nosso patrono, [url=lore:eb_occultedjade]Jade Oculto, Arconte das Marés[/url] tem a idade de [url=lore:lantry_fivewives]os colonos do Cinco esposas,[/url] e por quase cinco séculos fomos senhores das costas e do rios. Hoje em dia, é uma escola de um, você está olhando para isso." Ela bate no peito com um sorriso confuso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] forçou nossa mão, se não caçarmos o outro Arcontes, eles virão atrás de nós. E sim, eu disse OUTRO Arcontes. Seu poder agora o diferencia do mortal comum... da ameaça comum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Sugestões?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Bem, se o soberano está nos exigindo Arcontes lutar, acho que temos que lutar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Meu poder te assusta?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Tenho muita ambivalência em relação ao [url=glossary:scarlet chorus]Coro Escarlate[/url]. Nerat é pior que [url=glossary:kyros]Kyros[/url], mas muitos no Refrão eram meus compatriotas - a maioria deles lutando porque sofreriam indignidades piores se não o fizessem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"E como exatamente você acha que se faz isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Ainda estou surpreso por termos sobrevivido ao [url=glossary:edict]Edital[/url] de Execução. O refrão pode nos superar em número, e os [url=glossary:disfavored]Desfavorecido[/url] parecem ficar mais agressivos a cada intervalo que passa...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"É um meio de destruir o [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] é o mais poderoso dos Arcontes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Preciso de mais aliados entre os Tiersmen. Onde devemos olhar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>Nó do banco 144</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"A opção clássica para guerra terrestre no Camadas é contratar mercenários Cidades Livres. A maioria deles foi morta na guerra, mas o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] ainda está vivo e... se pavoneando. Eles estão estacionados em [url=glossary:lethian's crossing]A travessia de Lethian[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Se você acha que pode convencer o [url=glossary:forge-bound]Forge-Bound[/url] de [url=glossary:lethian's crossing]A travessia de Lethian[/url] a apoiar seu lado 'neutro' da guerra, podemos redirecionar seus ferro para longe do inimigo e, em vez disso, para nossos aliados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"A ideia que eu estava apresentando para a [url=glossary:vendrien guard]Guarda Vendrien[/url] - vamos armar cada Homem-Besta tribo que se juntar a nós. O [url=glossary:stone sea]Mar de Pedra[/url] é o lar de um bando de tribos que foram libertadas durante a guerra, e nem o Coro nem o [url=glossary:disfavored]Desfavorecido[/url] parecem domá-los."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Há também uma pequena chance de conseguirmos uma brecha entre os [url=glossary:disfavored]Desfavorecido[/url] e seus magos aliados, os Earthshakers no [url=glossary:stone sea]Mar de Pedra[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Poupe-me da tristeza. Todos nós perdemos família para [url=glossary:kyros]Kyros[/url]... Acabei de perder dois em uma batalha - mas mesmo assim, não sou único."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Havia os gêmeos - Drevenor e Lorma, então meu filho mais novo Acamas. Aldenos queria mais, mas eu estava chegando ao fim das minhas provas no Escola das Marés - e duelar com magias letais é uma péssima ideia quando estou com uma criança."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Eu sei, eu me visto e cozinho minha própria comida - tão enganosa. A mãe era magistrada de Ardente, o pai era almirantado. Mas não tem sentido - nossas terras agora são Soberano."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Então, se eu puder perguntar, qual é o seu plano agora? O [url=glossary:edict]Edital[/url] não paira mais sobre a cabeça e [url=glossary:kyros]Kyros[/url]' conquista do Camadas parece estar escorregando, com os exércitos em guerra civil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"[Player Name] será suficiente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Fatebinder é bom, não há necessidade de outros títulos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Capitão do [url=glossary:vendrien guard]Guarda Vendrien[/url] parece adequado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Sim, bem-vindo mais uma vez ao nosso... bem, à luz de sua intervenção, não posso me referir a nós mesmos como uma causa perdida. Obrigado Fatebinder, agora, como vou sair com uma indignação justa?"
+
+Eb revira os olhos e balança a cabeça fingindo ofensa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Foi assim que te conheci, então é assim que vai ficar na minha mente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"A guerra cria companheiros estranhos, não é? Nenhum de nós jamais imaginaria que o Queenslayer uniria forças com o [url=glossary:vendrien guard]Guarda Vendrien[/url]... tempos estranhos de fato."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Você faz muito isso, não é - a coisa silenciosa. Como isso funciona para você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>[Olha ameaçadoramente, esmague os punhos.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Hábito profissional. O silêncio muitas vezes enerva os culpados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Onde você estava quando eu estava no comércio de caravanas? Guardas que podem lutar são uma dúzia de cobres, mas corajosos que podem encarar uma luta antes mesmo de começar - mais raros que coral vermelho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Um ponto sábio - na minha própria experiência de negociação, quanto menos for dito, mais poder se tem sobre as negociações."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Acho que isso responde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Estou improvisando. Alguma sugestão?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Gostaria de encontrar outras pessoas dispostas a me seguir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Primeira ordem de trabalhos, devo falar com [url=glossary:tunon]Tunon[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Meu objetivo é derrotar o [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"O plano é destruir o [url=glossary:scarlet chorus]Coro Escarlate[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Não é da sua conta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Isso é tudo que tenho por enquanto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Eu o aconselharia a fazer exatamente isso. Tenho certeza de que os eventos de [url=glossary:vendrien's well]Poço de Vendrien[/url] são melhor explicados da sua boca para os ouvidos de [url=glossary:tunon]Tunon[/url]." "Além disso, eu acho o Arconte da Justiça gostaria de saber sua opinião sobre o Arcontes e sua divisão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Minha primeira sugestão seria construir um barco, algo durável, e arriscar em alto mar longe de [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Tenho uma segunda sugestão mais prática - olhe para o horizonte e um pouco para cima. Com isso quero dizer o outro Pináculos. Devemos ver o que está em cima dos outros. Caso contrário, outra pessoa pode olhar primeiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url]' exércitos fizeram um trabalho rápido com o Camadas. Ainda há muito sentimento anti-[url=glossary:kyros]Kyros[/url], mas não há muita gente com qualquer luta sobrando. Mas temos algumas opções."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Se realmente queremos nos odiar pela manhã... Stalwart é muito famoso por não ajudar seus vizinhos, mas também famoso por ser implacável na guerra. Os [url=glossary:disfavored]Desfavorecido[/url] têm sua liderança cercada, mas as pessoas no campo devastado pela tempestade ainda estão lutando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"E embora eu não endosse isso, devo listar todas as opções... o Escola de tinta e pena. Tenho certeza de que há alguma lógica em trabalhar com eles, assim como há alguma lógica em cortar sua própria cabeça para evitar dores de cabeça futuras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"A opção clássica para guerra terrestre no Camadas é contratar mercenários Cidades Livres. A maioria deles foi morta na guerra, mas o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] ainda está vivo e... se pavoneando. Eles estão estacionados em [url=glossary:lethian's crossing]A travessia de Lethian[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Eu lutei contra o [url=glossary:disfavored]Desfavorecido[/url] e conheço muito bem sua habilidade e tenacidade. Destruindo o [url=glossary:disfavored]Desfavorecido[/url] embora... por onde começar? Matando [url=glossary:graven ashe]Cinza esculpida[/url] certamente seria o objetivo, mas ele é um guerreiro poderoso por si só e nunca está longe de sua legião."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Poderíamos tentar nos aconselhar com o inimigo do nosso inimigo... sem dúvida [url=glossary:the voices of nerat]o Vozes de Nerat[/url] estaria ansioso para destruir [url=glossary:graven ashe]Cinza esculpida[/url] mas... estou não tenho certeza se associar com o Arconte dos Segredos é sábio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Então você tem todo o meu apoio. O [url=glossary:scarlet chorus]Coro Escarlate[/url] cresceu nos anos de conquista - entre a horda estão Tiersmen lutando porque sentiram que não havia escolha, assim como Tiersmen lutando para ver sua terra natal queimar. Dói-me ter que matar alguns dos primeiros."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"O [url=glossary:disfavored]Desfavorecido[/url], o [url=glossary:scarlet chorus]Coro Escarlate[/url] - todos os Soberano minions cairão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Você não é um mal-humorado? Onde foi esse ódio por [url=glossary:kyros]Kyros[/url]' lacaios há alguns anos? Você parece tão ansioso para se voltar contra seus antigos aliados... mas eu não sou de criticar. Acho que é sábio se inclinar para os ventos da mudança."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] reivindicou o último da minha escola - embora eu tenha que agradecer por essa parte. Se você quiser desfazer o dano, mate o Arconte dos Segredos. Farei tudo o que estiver ao meu alcance para ajudá-lo a afundar aquele sábio vil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Se for esse o caso, perdoe minha linha de investigação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Bem antes de [url=glossary:tunon]Tunon[/url] dar-lhe ordens sob pena de morte, você tem o luxo de agir por sua vontade - embora os [url=glossary:disfavored]Desfavorecido[/url] provavelmente virão para você ."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Bem antes de [url=glossary:tunon]Tunon[/url] dar ordens sob pena de morte, você tem o luxo de agir por sua vontade - embora os [url=glossary:scarlet chorus]Coro Escarlate[/url] provavelmente virão para você ."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"O que você decidir, estou à sua disposição."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Entendo. Tenho certeza de que pouco posso fazer para convencê-lo do contrário. Apenas considere que as pessoas do Camadas um dia se curvarão a [url=glossary:kyros]Kyros[/url] - por que não fazê-los se curvar a você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Vou esmagar a oposição local restante e completar a conquista."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Sua ajuda será muito útil, obrigado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Tente qualquer coisa falsa e você desejará ter sido levado por Nerat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Tem um momento? Vamos fale mais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Devemos ir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"E eu sou grato por não ser uma pilha sangrenta de miudezas em [url=glossary:vendrien's well]Poço de Vendrien[/url]. A vida sob sua bandeira, tenho certeza, será muito interessante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Entendido. Já fui seu inimigo, conheço meu lugar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>Eb acena com a sua aproximação e oferece uma reverência curta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Eu sei o que você é e não sou tolo. Tenho o privilégio de fazer parte de seu círculo íntimo e sou grato pela honra que você me concedeu. E sei que não tenho nada a temer se te servir bem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Em certo sentido, mas estou mais animado para vê-lo como um contrapeso - o [url=glossary:edict]Edital[/url] não é mais propriedade exclusiva de [url=glossary:kyros]Kyros[/url]... sinto que ainda estou impressionado com o que tudo isso significa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Estou um pouco perdido aqui. Por um lado... eu adoraria ter uma coleção de cabeças Arconte cortadas... mas por outro tentáculo, isso significa fazer exatamente o que [url=glossary:kyros]Kyros[/url] está pedindo. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"Você é muito respeitado no Tribunal. [url=glossary:tunon]Tunon[/url] não parece ser do tipo que se curva a ninguém... mas talvez [url=glossary:tunon]Tunon[/url] possa ajudá-lo a destruir o outro Arcontes - dando tempo para você descobrir a ver com seu antigo mestre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Você tem uma aliança com [url=glossary:graven ashe]Cinza esculpida[/url] - agora é a hora de aproveitar essa confiança. Talvez você possa apelar para o antigo Arconte de Guerra - fazer com que ele deponha as armas e seja seu vassalo? Isso é isso ou lutar com ele... e prefiro guardar nossas forças para [url=glossary:the voices of nerat]o Vozes de Nerat[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] parece ser o problema mais urgente. Ele gosta de você... e embora isso fale mal de você - ou talvez muito de seu relacionamento com a depravação - mas significa que talvez possamos encontrar uma maneira de forçá-lo a capitular."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"Direita, estou falando fora da linha... mas realmente não sei o que dizer aqui. Eu odeio o [url=glossary:disfavored]Desfavorecido[/url], mas estou jurado à sua causa... então minha opinião honesta não fará bem a ninguém."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Eu talvez fizesse um feitiço ou dois perto da estrutura - [url=lore:eb_gravelight]cantrips simples de Gravelight para ler e inspecionar[/url] - mas não vou cutucar ou empurrar a coisa de forma física ou mística ."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Você não precisa pedir minha permissão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Você pode observar e tomar notas apenas - sem mágica, sem intromissão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Se você achar sensato, é claro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Não. Não quero que você mexa em nada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Obrigado. Da próxima vez que tivermos uma boa noite de luar, é melhor eu me acomodar e ver que tipo de perturbações mágicas posso sentir na escultura."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Entendido - e eu não deveria precisar desfigurar ou prejudicar nada. Nós vamos, não de forma... duradoura."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Isso é duas vezes agora que você desfez um dos [url=glossary:kyros]Kyros[/url]' Editais. Se você está tentando atrair a ira do soberano... bom trabalho?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"O [url=glossary:edict]Edital[/url] de Tempestades prometia ser a morte da península. Não tenho ideia de como o [url=glossary:unbroken]ininterrupto[/url] durou tanto tempo, com colheitas arruinadas, estradas destruídas e inundações irregulares."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Os Sábios têm sua cota de inimigos, e há alguns que podem ter pensado que o [url=glossary:edict]Edital[/url] de Incêndio um destino adequado. Independentemente do que os Sábios mereçam ou não, o conhecimento no [url=glossary:vellum citadel]Cidadela de Velino[/url] pertence a todos nós - e [url=glossary:kyros]Kyros[/url]' destruição desse conhecimento é o que realmente emaranhado minha linha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Para aqueles de nós distantes de Azure, o [url=glossary:edict]Edital[/url] de Stone foi um pouco difícil de analisar. Assumimos, ingenuamente, que o soberano usa sua magia para matar seus inimigos, não seus aliados... bastante revelador."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Com o [url=glossary:edict]Edital[/url] de Pedra agora quebrado, o [url=glossary:stone sea]Mar de Pedra[/url] pode cessar seus tremores diários. A terra nunca mais será a mesma que eu lembro, mas talvez novos assentamentos sejam construídos - espero em sua homenagem - agora que a vida está menos tumultuada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Quebrar o [url=glossary:edict]Edital[/url] do Fogo é um sinal para o Terrato... o Soberano pode ser desafiado e suas punições anuladas. Mais especificamente... VOCÊ é quem pode desfazer os Soberano caprichos." Eb aponta para você com seu cajado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Uma pena. Eu não acho que minhas investigações seriam motivo de alarme, mas... não se preocupe, esqueça que eu perguntei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Não. Não estou aqui para tagarelar ou flertar ou qualquer outra coisa que esteja em sua mente. Se você tem ordens, isso é uma coisa, mas não quero discutir sobre pessoas que perdi ou outras coisas do tipo - não com você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"Estou começando a achar que você está muito fascinado por mim. Não se preocupe - o sentimento é completamente mútuo... nisso, eu também me acho infinitamente fascinante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>[Levante a voz.] "Não foi uma sugestão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"Esqueça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>Eb limpa a garganta quando você se aproxima, olhando para você da cabeça aos pés. Com os braços cruzados, a mão direita brinca com os nós e laços de corda enrolados no antebraço esquerdo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"Conte-me sobre sua família."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "Sobreviveu? Não importa o que eu fiz - as pessoas se foram, os lugares têm novos nomes... Estou apenas tentando manter o foco em onde a corrente está me levando agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Meu marido nasceu em Ápice e deixou suas terras prósperas para ficar comigo. Então, quando o ninho estava vazio, parecia certo deixar minha terra natal e ver o lado dele do Camadas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Tivemos um ano e um pouco para nós mesmos antes que a guerra revirasse as coisas. Vimos tudo de Ápice, eu o levei por todas as minhas antigas rotas de navegação em torno de Cinco esposas e Sunder... aqueles eram bons tempos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"Bem, eu nasci Hazen Levenja, mas durante a maior parte da minha vida - e suponho que por todos os dias seguintes - sou conhecido e serei conhecido como Eb - Tidecaster Eb para aqueles que tentam ser obsequiosos. Provavelmente também usei vários apelidos que vão me assombrar em algum momento..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"A escola das marés estava procurando sangue novo, e meu pai era um Almirante de Haven - então o Escola me queria pelas conexões políticas. Passei meus primeiros dois anos provando que realmente pertenço ao Lançadores de maré... isso foi divertido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Como você conseguiu o apelido?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"O que importa agora que eles se foram? Elas parecia a última esperança para o Camadas... e uma chance de merda ainda é mais do que nenhuma chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"Embora a Escola das Marés não tenha nenhuma reivindicação oficial sobre a terra, nós consideramos [url=glossary:vendrien's well]Poço de Vendrien[/url] algo como um reino sagrado. É mais do que um círculo de montanhas sem litoral, é uma espécie de... grande bacia de cursos d'água peculiares."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Vamos mudar de assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url].] "Eles sãoe se foi." Ela encolhe os ombros com uma carranca. "Assim como minha capacidade de gostar de relembrar essas coisas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"Pelox Aldenos e eu se casaram em 410. Aldenos era um falxman do [url=glossary:vendrien guard]Guarda Vendrien[/url] antes de serem guerrilheiros famintos - mas eu o via mais como um carpinteiro. A marcenaria era apenas um hobby dele, mas minhas melhores lembranças são dele tentando moldar algo... e eu fazendo piadas estúpidas sobre a firmeza de seus materiais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"E o resto da sua família?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"O Refúgio folclórico da minha família. Minha mãe se orgulhava de ser descendente de um Hazen Rabban, um dos magistrados fundadores da cidade de Ardente."
+
+Ela olha para o lado, a boca torcendo em pensamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Mas essa é minha culpa - não posso culpar corretamente [url=glossary:kyros]Kyros[/url] por tudo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"O que aconteceu com ele?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"O que você gostou nele?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"Ele morreu no Portões do Julgamento. Eu o vi morrer - não quero discutir isso, apenas sei que fiz as pazes com isso e estou feliz por estar com ele no campo de batalha quando sua hora chegou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"E os gêmeos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"O que aconteceu com seu caçula?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Sinto muito pela sua perda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"Eles morreram no Portões do Julgamento - ou pelo menos, Drevenor morreu - atravessado por uma lança [url=glossary:disfavored]Desfavorecido[/url]. Lorma estava na batalha, mas... não sei o que aconteceu com ela. Meu medo é que ela tenha sido recrutada pelo [url=glossary:scarlet chorus]Coro Escarlate[/url]... talvez ela tenha um novo nome... se ainda estiver viva."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"Sem Drevenor e Lorma, Acamas... bem, ele nunca... tirou a própria vida em 430."
+
+Eb dá de ombros, seus olhos olhando para longe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"Vamos mudar de assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"Vamos mudar de assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"Ele se encaixa no conselho da minha tia - se ele faz você andar engraçado, ele é um guardião. Apesar de, ou talvez por ser um guerreiro de profissão, Aldenos extravasava sua raiva na prática e na guerra - ele era pacífico como um lago congelado quando estávamos juntos. E aquele filho da puta poderia cozinhar... ele poderia aguçar todos os meus apetites."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"Sinto falta dele, mas pode ter sido o melhor. Embora ele fosse apenas alguns anos mais velho que eu, meus estudos me deixaram... sempre um pouco mais jovem que ele - a diferença cresceu com o tempo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"Demasiado olhar para o umbigo, não o suficiente de vitríolo... ou é o meu palpite. Um século de relativa paz e calma significou que nos tornamos uma guilda de muitos músicos e poetas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"Pelo que entendi, os Malditos são pedaços de vontade mágica que têm vida própria prolongada. Acredito que eles se aninham ou se reproduzem no Oldwalls - o único lugar em que você os encontra regularmente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"Nossa magia atrai o Maldito - isso eu sei que é verdade em primeira mão. Novamente, isso é teoria pessoal, mas acho que eles comem ou bebem magia - então nossos feitiços são convites para jantar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"O que você pode me dizer sobre os Arcontes no Camadas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>"De que Arconte os Lançador de maré se valem de sua magia?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"A maioria dos meus estudos tem sido sobre a questão das origens da forma - sabe-se que podemos emular a magia de Arcontes que veio antes de nós, mas é possível explorar a magia de Arcontes-ainda-a -ser? Até agora, a resposta parece ser não."
+
+Ela olha para o chão com um sorriso torto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>"A primeira Lançadores de maré recebeu o dom da magia do fundador da nossa escola, [url=lore:eb_occultedjade]Jade Oculto, Arconte das Marés.[/url] Embora ela não fosse da [url=glossary:kyros]Kyros[/url]' laia, ela era tão poderosa quanto qualquer Arconte, e de seu nome e legado podemos [url=lore:eb_moons]imitar a atração das luas sobre os mares[/url] e mudar as correntes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"Há uma pergunta que posso responder. Ficaria pouco surpreso ao saber que vemos todas as coisas - pessoas, guerras, estações - como sendo cíclicas - crescendo e diminuindo através de suas várias formas, como as marés e [url=lore:eb_moons]a luz de Túmulo de Terrato."[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"Não tenho certeza," Eb faz uma careta, parando para coçar a orelha. "O que quer dizer que houve um tempo em que estudei meu inimigo em grande detalhe... mas recentemente aprendi que muitas das minhas informações eram pouco mais do que mentiras e desorientação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>"E o [url=glossary:the voices of nerat]o Vozes de Nerat[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>"O que você sabe sobre [url=glossary:graven ashe]Cinza esculpida[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>"Sabe alguma coisa de [url=glossary:cairn]Cairn[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"O que você sabe sobre Sirin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"Vamos mudar de assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"Ela está bem ali - por que não perguntar ao especialista."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>"Tenho certeza que pode haver Arcontes mais jovens nos registros históricos, mas Sirin é certamente uma criança extraordinariamente poderosa." "Dizem que metade dos [url=glossary:scarlet chorus]Coro Escarlate[/url] foi recrutada por do Sirin canção persuasiva... e eu não duvido. Eu também sei que [url=glossary:the voices of nerat]a Vozes de Nerat[/url] colocou uma algema em seu poder... provavelmente temia que ela se tornasse a favorita da ralé."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"A coisa mais vil de andar Terrato! The Voices reivindicou os mestres do Escola das Marés - ele tirou deles suas memórias, então deu nossos segredos ao desprezível Cantores de Sangue. Se eu conseguir queimar essa coisa do rosto de Terrato, minha vida não terá sido desperdiçada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>"Antes da conquista, eu assumi [url=glossary:graven ashe]Cinza esculpida[/url] um velho inofensivo - um Arconte-em-nome-apenas passado de seu auge. Eu não poderia estar mais errado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>"O Arconte dos Segredos faz jus ao seu nome. Se ele não fosse uma fera tão repugnante, eu meio que admiraria seu domínio das artes mágicas - dizem que ele conhece todos os sigilos perdidos na história, mas também ouvi dizer que todo o conhecimento roubado é o motivo pelo qual ele fala em suas vozes diferentes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>"Mas, na verdade, estou aprendendo que a maior parte do que sei são apenas mentiras e desorientação... embora eu ache que ele seria um pobre Arconte dos Segredos se eu tivesse meus fatos corretos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>"Tenho algumas perguntas para você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>"Pergunte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"Devemos discutir assuntos em mãos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"Quem se juntou ao nosso banner até agora?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"Então devo perguntar, qual é o seu objetivo por trás de trabalhar com [url=glossary:the voices of nerat]o Vozes de Nerat[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>"A Guilda Earthshakers não jura mais fidelidade a [url=glossary:graven ashe]Cinza esculpida[/url] por meio de [url=glossary:cairn]Cairn[/url], você é o novo líder deles. Você tem sua própria escola de magos do solo - estou quase com inveja." Sorrindo amplamente, Eb acena com a cabeça por vários longos momentos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>"Os [url=glossary:unbroken]ininterrupto[/url] comprometeram suas vidas à nossa causa. O reforjado [url=glossary:unbroken]ininterrupto[/url], como passei a pensar neles - boa viagem para o Regentes. Com eles do nosso lado, pode haver esperança para o Camadas... não diga a nenhum deles que eu disse isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>"Os [url=glossary:stonestalkers]Perseguidores de Pedras[/url] aceitam você como seu Alfa - sua lealdade a você é absoluta... a menos que um deles se levante e desafie você... mas eu não me preocuparia muito sobre isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>"Antes que a escuridão chegue para Vinculador do Destino - antes que as estações possam tornar humanos fracos, murchos e fracos como filhotes, choramingando para serem cortados - Mortes-in-Shadow vai rasgar Vinculador do Destino em pedaços. Dará boa morte em batalha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>"Viu? Disse que não há motivo para se preocupar com o [url=glossary:stonestalkers]Perseguidores de Pedras[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"Como você é o novo Primeiro Irmão do Irmandade Bronzer, toda a companhia de mercenários agora é sua para comandar... e pagar... lembre-se. Acho que a recente mudança na liderança deixou a equipe atual feliz por estar viva - eles perguntarão sobre os salários em breve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>"Os [url=glossary:forge-bound]Forge-Bound[/url] estão no seu bolso, podemos negar armas aos Arcontes' exércitos e mantê-los para nossos próprios atos nefastos relacionados à insurreição. Também, quando tudo isso acabar, farei você fazê-los compartilhar sua magia comigo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>"A Escola de Tinta e Pena está... sob nossa direção? Qualquer que seja isso significa... mas você sabe que eu nunca fui fã de Lantry, Renata e dos outros. Mas enquanto eles seguirem suas ordens, eu vou segurar minha língua... até que você chegue o dia daquele 'eu avisei' que eu tenho escondido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>"Como sempre, o [url=glossary:vendrien guard]Guarda Vendrien[/url] está ao seu lado. Os capitães e eu estavam certos em confiar que você teria o que é preciso para desafiar o Arcontes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>Nó do banco 343</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>Nó do banco 344</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>"Quando você poupou minha vida, eu disse que iria treinar você. Assim seja."
+
+Eb solta um longo suspiro, seus olhos examinando o chão por um longo momento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>"Diga-me como você influencia o gelo, a névoa e outras formas de água."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>"Com anos de treinamento. Agora veja, a maioria desses segredos já foram roubados há muito tempo pelo Sábios. Não significa que eu vou te contar só porque o segredo já foi revelado... mas significa que você pode ir perguntar a outra pessoa se você realmente se sente no direito de saber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>"Segredo comercial, não vou falar sobre isso. A escola das marés morre comigo e isso também. E não se incomode em tentar mudar minha mente sobre este assunto, vai ficar feio rápido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>"Antes [url=glossary:kyros]Kyros[/url] vieram, os Camadas eram os [url=glossary:younger realms]Reinos mais jovens[/url], A Camada Bastarda, e os Cidades Livres - nessa ordem de destaque. Todos nós traçamos nossas raízes até o Cinco esposas - embora às vezes um pouco da linha costeira ancestral pareça tudo o que temos em comum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>"Fale-me sobre o [url=glossary:younger realms]Reinos mais jovens[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>"Fale-me sobre o Nível Bastardo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>"O que você pode me dizer sobre o Cidades Livres?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>"Vamos mudar de assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>"Vamos mudar de assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>"Há pouco 'livre' sobre o Cidades Livres, exceto por sua independência do [url=glossary:younger realms]Reinos mais jovens[/url]. Eles não são fisicamente adjacentes, mas sim politicamente aliados por seu ódio compartilhado pelos outros reinos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>"É o mais setentrional do Camadas, e o ponto de estrangulamento do Império do Norte. Tem sido um centro de comércio há séculos, e uma longa linhagem de famílias de mercadores e exércitos privados mantiveram o reino em grande parte sem lei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>"Refúgio, Azure, Ápice e Robusto foram as quatro principais forças dos Tiers nos últimos quatro séculos. Algumas outras dinastias tentaram sua sorte, mas todas foram derrotadas ou absorvidas pelas quatro que conhecemos hoje."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>"Não tenho certeza de quando o termo 'jovem' entrou na moda, mas sempre foi um termo de contraste humilde - basta olhar para o Oldwalls - alguém esteve aqui antes de nós e os construiu - não sei realmente nada sobre eles , mas é lógico que costumava haver um Reinos Antigos que fazia toda a construção."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>"Embora muitos costumavam brincar sobre o [url=glossary:bastard city]Cidade bastarda[/url] ser saqueado por cães raivosos, a captura da cidade por [url=glossary:tunon]Tunon[/url] foi um golpe terrível para o moral dos Tiersmen - sabíamos que aquele dia [url=glossary:kyros]Kyros[/url] era mais do que apenas uma história divertida para assustar seus filhos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>"Acho que você descobrirá que cada um de nós se considera um filho de Refúgio - como no meu caso - ou um filho de Azure, filho de Ápice ou o que você quiser... Tiersmen temos nossos costumes compartilhados - o mais precioso desses costumes costumava ser o orgulho de estar livre da [url=glossary:kyros]Kyros[/url]' regra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>"Além daqueles que você matou? Os [url=glossary:vendrien guard]Guarda Vendrien[/url] foram os oponentes mais firmes de [url=glossary:kyros]Kyros[/url]. Com a sua passagem, a regra Soberano é absoluta... bem, além do Arcontes local estar em estado de guerra civil..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>"Você tem alguma dúvida específica?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>"Quando os Camadas foram liquidados?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>"Por que os homens não possuem terras, ou as mulheres navios?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>"Tiersmen vivem com um número maior de Homens-fera - como é isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>"Colonos humanos chegaram há mais de quatrocentos anos. Deslocados de uma guerra entre o que são agora [url=glossary:kyros]Kyros[/url]' reinos de Trevn e Areias Férteis, uma flotilha de plataformas mal navegadas rumo ao oeste em alto mar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>"Por séculos, tem sido nossa maneira que os homens são donos dos navios, mas as mulheres são donas dos portos. Nossos costumes não impedem verdadeiramente a propriedade, eles limitam a herança - as terras passam para as filhas, depois para as irmãs, depois para as mães e tias. Os navios passam para os filhos, depois para os irmãos, depois para os pais e tios."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>"Parece estranho para quem está de fora, mas faz sentido para mim. Os homens são abençoados com o desejo de viajar, as mulheres com um senso de permanente. Da mesma maneira, o capitão de um navio não pode parar para carregar uma criança, e os homens ficam inquietos se deixados no lugar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>"Os Homens-Besta do Camadas são mais resistentes e inteligentes do que seus parentes em outros lugares, e felizmente vivemos juntos em relativa harmonia há algum tempo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>"Mas suponho que também tenho uma visão excessivamente otimista de nossos primos bestiais. Acho cativante a honestidade desajeitada deles e, embora nenhum ser humano diga coisas boas sobre minha comida, nenhum Homem-Besta jamais disse nada maldoso sobre meus piores pratos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>"Vamos mudar de assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>"Muitos de nossos segredos foram roubados por Sábios' espiões ao longo dos séculos... e não estamos sozinhos - os Sábios têm os segredos de muitas outras guildas... suas gerações de roubo os fizeram versátil e perigoso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>"O [url=glossary:unbroken]ininterrupto[/url] ainda persiste - embora marginalmente - o [url=glossary:disfavored]Desfavorecido[/url] se retirou após o [url=glossary:edict]Edital[/url] de Tempestades começar a destruir a paisagem . Sua fortaleza de Guarda Sentinela nunca foi tomada, e o exército dos cidadãos, embora disperso, ainda pode ser reunido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>"Beastmen entendem força e liderança, mas é sempre no sentido concreto. Eu não posso fingir saber como eles pensam, mas eu nunca poderia imaginá-los aceitando um ausente [url=glossary:prima]Prima[/url] - uma régua distante que eles não podem ver ou cheirar parece um pouco abstrato demais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>398</ID>
+      <DefaultText>"A banda é pequena demais para ser uma ameaça séria para o [url=glossary:disfavored]Desfavorecido[/url] ou o Refrão, mas eles são berserks adoradores do flagelo que adotam qualquer inimigo pelo preço certo... talvez mesmo [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>"Gostaria de perguntar sobre nossos companheiros de viagem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>Ela acena com a cabeça, silenciosamente aguardando seu acompanhamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>"O que você acha de Barik?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>"O que você acha de Versículo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>"Qual é a sua opinião sobre Lantry?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>"O que você acha de Sirin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>"Diga-me sua opinião sobre Mortes-in-Shadow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>"Minha única preocupação com Barik é que ele ainda é leal a [url=glossary:graven ashe]Cinza esculpida[/url] e não a você. Barik parece firme, fiel e confiável - mas se se trata de você versus [url=glossary:graven ashe]Cinza esculpida[/url]... aí está o teste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>"Devemos nos considerar afortunados que um dos membros mais mortais do Fúrias Escarlates considere você um líder de gangue adequado. Dito isso, acho que o envolvimento dela com você é totalmente suspeito - eu apostaria um bom dinheiro [url=glossary:the voices of nerat]o Vozes de Nerat[/url] está ouvindo através dela, ou talvez vendo o que ela vê."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>"Provavelmente o único ladrão de palavras que eu não queria desmembrar - ele eu apenas esfolaria com uma faca de gelo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>"Todos nós já ouvimos lendas de crianças Arcontes, mas Sirin é a coisa real! Ela está muito cansada para a idade dela... mas eu também seria um idiota azedo se tivesse uma engenhoca presa na minha cabeça limitando minha grandeza."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>"Enquanto ela não perceber você fraco o suficiente para desafiar, Kills-in-Shadow deve provar ser um retentor temível e leal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>"Pelo que entendi, o Tremedores de terra serve o [url=glossary:disfavored]Desfavorecido[/url], mas o relacionamento foi profundamente tenso pela queda de [url=glossary:cairn]Cairn[/url] - eu poderia imaginar há o medo [url=glossary:cairn]Cairn[/url] compartilhado com eles algo subversivo ou traidor?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>"Admito um pouco de fascínio pela guilda - prefiro muito mais o poder e a brutalidade da minha própria magia, mas se eu vivesse em uma época mais calma e sábia, acho que poderia ser uma grande satisfação usar a magia para me tornar o mestre do ofício."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>"Cerca de um ano antes das tropas chegarem no Nível Bastardo, [url=lore:eb_occultedjade]Jade Oculto [/url] proclamou que a era do Camadas acabou, e disse que partiria para o sudoeste, para o desconhecido, sem fim oceano em vez de rosto [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>"Como o mais novo Lançador de maré ainda no Camadas I... exercitei a maior parte do valor e me escondi. Mas então meu sentimento de vergonha começou e... bem, isso foi quando eu caí com o [url=glossary:vendrien guard]Guarda Vendrien[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>"O Arconte [url=glossary:cairn]Cairn[/url] lançou um desafio e Mestres Folvax, Hagrivar e Camberil aproveitaram a chance - eu disse a eles que era um confronto sem esperança ... eles estavam prontos para morrer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>"O fim da história você já deve saber - alguns Vinculadores do Destino fizeram com que os Ancião dos Titulares fossem levados acorrentados para o [url=glossary:the voices of nerat]o Vozes de Nerat[/url]. Não que eu ainda esteja amargo." Eb olha para você com uma carranca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>"Eu sei que [url=glossary:the voices of nerat]o Vozes de Nerat[/url] gostaria de ter as mãos em nossos praticantes, então obrigado novamente por dar aos meus mentores a morte com dignidade. Pensar neles vivendo em tormento presos naquela... coisa, eck."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>"A maioria dos outros Escolas no Camadas fracassou cedo - morto por vizinhos suspeitos... ou subvertido e destruído por um dos três grandes Escolas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>"Se eu fosse você, ficaria de olho em Versículo. Se ela quisesse matá-lo, já poderia ter feito isso - mas não posso evitar a sensação de que ela é parte de um longo estratagema com o Arconte dos Segredos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>"Vou te dizer uma coisa, o ódio dela por [url=glossary:the voices of nerat]o Vozes de Nerat[/url] é genuíno ou um ato fantástico. Mas sendo um mentiroso gigante, reconheço outro mentiroso quando vejo um... e aposto que essa queixa é sincera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>"Kills-in-Shadow adota esse otimismo mais do que qualquer outro. Parece que ela não tem espaço para ficar triste com o que o soberano destruiu - ela parece se importar apenas com o que pode ser esculpido do que resta. Eu tento encontrar inspiração nisso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>"Há mais ou menos um ano, sob uma conversa de bandeira azul com um comandante, me disseram que o Arconte sabe o nome de todos os soldados sob seu comando - vivos e mortos. Da forma como o [url=glossary:disfavored]Desfavorecido[/url] fala de Ashe, você pensaria que ele ressuscitou cada um deles desde o berço."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>"Vamos mudar de assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>428</ID>
+      <DefaultText>"Vamos mudar de assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>"Vamos mudar de assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>"Claro, estou deixando de fora a questão dos construtores do Oldwalls - quem sabe quando eles moravam aqui e por que eles se foram, mas aqueles Oldwalls não caíram do céu. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>"Vamos mudar de assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>"Estou trabalhando na minha impressão de você. Tentando capturar sua rotina silenciosa de interrogatório. Como estou?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>441</ID>
+      <DefaultText>"Não serei ridicularizado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText>"É como se eu estivesse olhando no espelho. Coberto de excrementos de gaivota."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>443</ID>
+      <DefaultText>"Nós vamos, chega disso então."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>"Como uma espécie de espelho mágico que faz você parecer inteligente, sofisticado, modesto - e não se esqueça de ser fantasticamente atraente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText>"Meu ponto exatamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>446</ID>
+      <DefaultText>[Faça sua pose mais malvada.] "Precisa mais violência implícita."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>447</ID>
+      <DefaultText>Ela cruza os braços e se inclina em sua direção. Ela flexiona a parte superior do corpo, zombando do lábio enquanto faz isso.
+
+A soma total é mais palhaça do que ameaçadora.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>448</ID>
+      <DefaultText>"Quem estou enganando? Eu não conseguia assustar minha filha na cama quando tinha cinco vezes a altura dela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>449</ID>
+      <DefaultText>"Saudação, poderoso Arconte." Eb saúda você com um aceno de cabeça, batendo seu cajado no chão enquanto ela fica em atenção.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>"Espero que tudo esteja bem, meu glorioso Arconte. Sinto-me honrado por você querer falar."
+
+Eb se curva profundamente, sorrindo enquanto se levanta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>451</ID>
+      <DefaultText>"Reservo-me o direito de ser agradavelmente surpreendido se eles voltarem, ansiosos para lutar o bom combate... mas não estou prendendo a respiração. Todos os bravos Lançadores de maré morreram, exceto a companhia atual."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>452</ID>
+      <DefaultText>Por várias horas, você imita Eb's gestos, enquanto absorve suas anedotas biográficas sobre a Arconte vida, tempos e poder.
+
+Finalmente, ocorre o momento em que o entendimento clica. Você não está mais imitando os movimentos dela, mas voluntariamente explorando o poder do Arconte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>453</ID>
+      <DefaultText>"Primeiro as coisas primeiro. Este é o sigilo de Jade Oculto, Arconte das Marés. Observe com atenção."
+
+Eb levanta a mão direita, curvando a palma da mão enquanto abre os dedos. Com um chicote de seu pulso, ela escreve um padrão no ar, seus dedos brilhando em um tom laranja por um momento enquanto ela traça no ar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>454</ID>
+      <DefaultText>"Vamos mudar de assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>455</ID>
+      <DefaultText>"Estou bem ciente, mas não tenho nada para falar. A vida que eu tinha se foi, e a vida que tenho agora é... bem, isso, meu serviço a você. Todo o resto é melhor esquecer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>"Vamos mudar de assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>457</ID>
+      <DefaultText>"Vamos falar de outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>458</ID>
+      <DefaultText>"Vamos falar de outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>459</ID>
+      <DefaultText>"Vamos voltar às nossas viagens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>460</ID>
+      <DefaultText>"Vamos voltar às nossas viagens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>462</ID>
+      <DefaultText>"Bem, se você estiver trabalhando com [url=glossary:graven ashe]Cinza esculpida[/url], dê tudo de si. Ofereça-se para ajudar o Arconte de Guerra com o que ele precisar - quanto mais forte a legião, mais fraco o Refrão. E se você chegar perto o suficiente dele - bem, com confiança suficiente, você pode chegar muito perto do Arconte de Guerra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>463</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>464</ID>
+      <DefaultText>"Não tenho certeza se considero seu silêncio sobre esse assunto muito reconfortante. Espero que não deseje uma aliança genuína com essa... coisa. Existem maneiras muito melhores de matar todos nós."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>"Os [url=glossary:disfavored]Desfavorecido[/url] zombaram de todos os exércitos do Camadas - mesmo o [url=glossary:unbroken]ininterrupto[/url] não conseguiu vencê-los. Contra tal inimigo, a jogada sensata é colocar outros em perigo - e o [url=glossary:scarlet chorus]Coro Escarlate[/url] não tem escassez de forragem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>"E isso agrada a você? Nós vamos você conhece esse pequeno clube de canalhas melhor do que eu. Se o poder bruto e absoluto te tira, talvez você e o Arconte dos Segredos foram feitos um para o outro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>467</ID>
+      <DefaultText>"Não tenho tanta certeza se acredito nisso... você não parece tão perturbado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>468</ID>
+      <DefaultText>"Desculpe, você queria mais lágrimas de seus escravos conquistados? Perdi quase tudo durante esta guerra, mas minha história é afortunada em comparação com a maioria."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>469</ID>
+      <DefaultText>"Bem, eu sou um mentiroso talentoso, mas não preciso contar uma história sobre nada disso. Meu marido, a maioria dos meus filhos, meus pais - [url=glossary:kyros]Kyros[/url]' bandidos levaram todos eles. Se eu não pareço quebrado, é porque eu não estou - eu não sinto mais essas coisas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>470</ID>
+      <DefaultText>"É um truque do comércio, suponho. As ondas e os períodos secos de emoção não são diferentes dos ritmos das ondas - há uma lógica compartilhada para domar ambos. Tristeza, mania, raiva - suponho que tenho essas coisas, mas são apenas humores no sangue para serem empurrados, amassados e contidos conforme a situação exigir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>471</ID>
+      <DefaultText>"Isso soa um pouco sem coração."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText>"Bom, guarde suas lágrimas para tempos de paz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>473</ID>
+      <DefaultText>"Você assina sua magia com muita raiva."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>474</ID>
+      <DefaultText>"Gosto de pensar nisso mais como uma raiva bem refinada... mas é divertido você notar mesmo assim. O ódio é semelhante a um ácido - um veneno do coração que consome mais por dentro. E como qualquer fluido, se você sabe como segurar, pode aplicá-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>475</ID>
+      <DefaultText>"Exatamente meu mantra. A autopiedade é um desperdício de raiva perfeitamente valiosa. Se eu viver o suficiente para ver o fim da guerra, talvez eu consiga meus soluços, mas até lá, considero minha dor a principal arma do meu arsenal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>482</ID>
+      <DefaultText>"Seu poder recém-descoberto vai contra o que eu achava que sabia. Toda a minha vida me disseram que [url=glossary:kyros]Kyros[/url] sozinho pode emitir um [url=glossary:edict]Edital[/url]... e ainda assim... aqui está você, proclamando o domínio das terras assim como o soberano."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>483</ID>
+      <DefaultText>"Você diz isso agora, vamos ver se você ainda se sente assim quando a realidade afundar e seu domínio desse poder recém-descoberto se solidificar. O mundo agora se curva à sua mera declaração - a cada dia você ficará mais forte enquanto o mundo se torna mais fraco em comparação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>484</ID>
+      <DefaultText>"Sim... sorte mesmo. Vou me esforçar para ser digno da honra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>485</ID>
+      <DefaultText>"Se assistir você descer lentamente à loucura sedenta de poder é a definição de boa sorte, considere-me abençoado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>486</ID>
+      <DefaultText>"Posso replicar seus poderes, mas não sou apenas como o soberano."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>487</ID>
+      <DefaultText>"Talvez haja outros além de mim e do soberano?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>488</ID>
+      <DefaultText>"Ainda bem que você me jurou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>489</ID>
+      <DefaultText>"Eu certamente espero que não! Terrato não é grande o suficiente para [url=glossary:kyros]Kyros[/url] e... e certamente vai ficar muito interessante se vocês dois começarem... agitando seus Editais para lá e para cá."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>490</ID>
+      <DefaultText>"Chega de mim por enquanto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>491</ID>
+      <DefaultText>"Eu teria sentido se alguém estivesse proclamando Editais. Eu soube quando este ativou o Spire! Pelo que sei de [url=glossary:kyros]Kyros[/url], o Vinculador do Destino é definitivamente uma ruga em alguns planos cuidadosamente elaborados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>492</ID>
+      <DefaultText>"A visão do místico da água é aguçada. Também afiou garras caçando Maldito?" 
+
+A Mulher-Fera fareja e dá um leve aceno de cabeça. Ela ronrona um leve ronronar de aprovação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>493</ID>
+      <DefaultText>"Bem, deixei de fora a parte sobre todas as vezes que tive que correr para salvar minha vida porque fiquei muito curiosa."
+
+Eb levanta o tecido de seu sarongue para mostrar uma cicatriz profunda em seu quadril.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>494</ID>
+      <DefaultText>Ela bufa, feliz. Ela balança a crina e bufa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>495</ID>
+      <DefaultText>"Como você ainda está vivo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>496</ID>
+      <DefaultText>[Mostre sua cicatriz.] "Que tal isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>497</ID>
+      <DefaultText>"Vocês dois podem se gabar em outra ocasião."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>498</ID>
+      <DefaultText>"Não só cria laços de brincadeira. É bom brincar e provocar com companheiros de matilha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>499</ID>
+      <DefaultText>"E você não sangrou até a morte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>500</ID>
+      <DefaultText>"Não morrerá tão facilmente. Não sou como os humanos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>501</ID>
+      <DefaultText>"Humano tem cicatrizes como Mortes-in-Shadow. É bom. Marca de ferida profunda e dolorosa. Prova Alfa é o melhor e mais forte humano."
+
+Ela se anima, olhando a linha retorcida com interesse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>508</ID>
+      <DefaultText>"Posso replicar os poderes dela, mas não sou igual a soberano."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>509</ID>
+      <DefaultText>"Você quer dizer os poderes dele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>510</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>511</ID>
+      <DefaultText>"Quero dizer o dele..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>512</ID>
+      <DefaultText>"Desça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>513</ID>
+      <DefaultText>"Você quer dizer os poderes dela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>514</ID>
+      <DefaultText>"Quero dizer dela..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>515</ID>
+      <DefaultText>"E por 'força' quero dizer 'truque' - acho que ambos sabemos que [url=glossary:the voices of nerat]o Vozes de Nerat[/url] não é nada senão ambicioso. Ele vai tentar fazer VOCÊ se curvar a ele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>516</ID>
+      <DefaultText>"O plano ideal seria colocar o [url=glossary:disfavored]Desfavorecido[/url] diretamente contra o Coro para que pudéssemos nos concentrar no [url=glossary:the voices of nerat]o Vozes de Nerat[/url] com a menor interferência possível de seu lacaio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>517</ID>
+      <DefaultText>"Mas então há seu mestre [url=glossary:tunon]Tunon[/url] e [url=glossary:bleden mark]Marca de mistura[/url]. Teremos que lidar com eles também... não que eu tenha escrúpulos em matá-los, mas acho que eles combinarão forças e não cairão facilmente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>518</ID>
+      <DefaultText>"Acho que isso é um bom presságio para você. Você ficou separado de Arconte durante esta guerra civil, então você não deve a ninguém, exceto sua própria vontade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>519</ID>
+      <DefaultText>"Dito isso, eu ficaria mais preocupado com seus mentores - [url=glossary:tunon]Tunon[/url] e [url=glossary:bleden mark]Marca de mistura[/url]. [url=glossary:graven ashe]Cinza esculpida[/url] e Nerat são simples, podemos matá-los separadamente, duvido que possamos dividir e conquistar os Arcontes do Tribunal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>520</ID>
+      <DefaultText>"[url=glossary:graven ashe]Cinza esculpida[/url] é meu aliado, não vou aceitar tal traição."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>521</ID>
+      <DefaultText>"Não estou dizendo que é um plano rápido - mas acho que se você ficar perto da confiança dele, o momento de atacar se revelará com o tempo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>522</ID>
+      <DefaultText>"Eu nunca vou entender porque o engano é o primeiro instinto de todos Tiersmen. Você está certo em se ofender."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>523</ID>
+      <DefaultText>"Awww, isso é um grande elogio vindo de você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>524</ID>
+      <DefaultText>"Vou pegar este cajado e enfiá-lo repetidamente no seu traseiro até você prolapsar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>525</ID>
+      <DefaultText>"Ah, assim, o equilíbrio é restaurado para toda existência conhecida. Você me deixou preocupado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>526</ID>
+      <DefaultText>"Os [url=glossary:stonestalkers]Perseguidores de Pedras[/url] são uma tribo nascida dessas bestas recém-libertadas. Imagino que eles nunca se curvariam ao [url=glossary:kyros]Kyros[/url] ou ao Arcontes - muitas gerações foram escravizadas, eu aposto qualquer coisa que eles morrerão antes de se curvarem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>527</ID>
+      <DefaultText>"A maioria dos fraternidade pereceu na guerra, mas um punhado, a equipe contratada para trabalhar em [url=glossary:lethian's crossing]A travessia de Lethian[/url] - eles conseguiram tomar conta da [url=glossary:forge-bound]Forge- Vincule[/url] e sobreviva aos últimos anos com pequenas perdas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>528</ID>
+      <DefaultText>"Você provavelmente os conhece como os mercenários bêbados em [url=glossary:lethian's crossing]A travessia de Lethian[/url]? [url=lore:eb_lcpast]Desde quando você era Governador?"[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>529</ID>
+      <DefaultText>"Direita, então - não diga mais nada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>530</ID>
+      <DefaultText>"Dois anos atrás parece história antiga - lembre-me."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>531</ID>
+      <DefaultText>"Ah eles? Direita... Legalizei o álcool e os duelos para mantê-los na linha. Funcionou pela metade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>532</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>533</ID>
+      <DefaultText>"Lembro-me daqueles mercenários. Tive que estalar o chicote em seu absurdo para o bem do acordo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>534</ID>
+      <DefaultText>"Eles falaram de outros em sua guilda enfrentando o [url=glossary:edict]Edital[/url] de Incêndio para resgatar o conhecimento do [url=glossary:burning library]Biblioteca em chamas[/url]... deve-se dizer que o Sábios tem um certo... destemor em relação ao soberano - talvez isso possa ser aceso ainda mais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>535</ID>
+      <DefaultText>"Tendo feito parte da facção de rendição dentro do Escola, concordo com esse ponto. Eu pensei que o [url=glossary:edict]Edital[/url] de Incêndio finalmente mataria sua sequência desafiadora... mas não, o Sábios ainda se recusa a se curvar. Podemos e devemos explorar a paixão deles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>536</ID>
+      <DefaultText>"Historicamente falando, uma aliança com o Escola de tinta e pena é apenas pedir que seus esforços sejam roubados e seus objetivos prejudicados. Marque minhas palavras, algumas coisas nunca mudam."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>537</ID>
+      <DefaultText>"Pense nos Sábios como um recurso. Nesse sentido, somos tolos por não usá-los."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>538</ID>
+      <DefaultText>"Você prefere que eles sejam nossos inimigos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>539</ID>
+      <DefaultText>"Sua preocupação é anotada, mas irrelevante. Se os sábios vai me obedecer, eu vou trabalhar com eles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>540</ID>
+      <DefaultText>"Nós vamos... talvez possamos empurrá-los na frente do inimigo... e os que se voluntariaram em [url=glossary:vendrien's well]Poço de Vendrien[/url] não foram tão ruins..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>541</ID>
+      <DefaultText>"Qualquer que seja. Se você quiser ignorar meu conselho, tudo bem. Vou assumir o Pináculo quando você morrer, então... continue com essa ingenuidade para mim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>546</ID>
+      <DefaultText>"E antes que você pergunte, aprendi muito com o conhecimento roubado pelo Sábios, mas não... não sei fazer o que Eb faz. Uh, magicamente ou... de outra forma. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>547</ID>
+      <DefaultText>"A mente é limitada. Nascemos e passamos a vida evitando a morte, esperamos que todas as histórias tenham um começo e um fim. Assumimos que todas as coisas começam e param como nós. Na verdade, todas as coisas são ciclos - algumas por questão de minutos, outras por questões de anos ou vidas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>548</ID>
+      <DefaultText>"E é dela que temos feitiços para transformar os tons agradáveis da lua em um [url=lore:eb_gravelight]raio maligno de cauterização Gravelight[/url]. Em todos esses anos eu não me cansei da emoção do poder - é uma onda de humores carnais toda vez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>549</ID>
+      <DefaultText>"Certo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>550</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>551</ID>
+      <DefaultText>"Por que o [url=glossary:younger realms]Reinos mais jovens[/url] não se uniu contra o [url=glossary:kyros]Kyros[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>552</ID>
+      <DefaultText>"Eu teria levado a ameaça a sério no momento em que as tropas pararam de marchar para o Portões do Julgamento. Eu sou a única pessoa cuja mãe mencionou que [url=glossary:kyros]Kyros[/url] era uma ameaça real?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>553</ID>
+      <DefaultText>"Você está tentando esfregar? Sim, os [url=glossary:younger realms]Reinos mais jovens[/url] foram derrotados um de cada vez pelos invasores... talvez se eu fosse a Rainha do Camadas isso não teria acontecido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>554</ID>
+      <DefaultText>"Eu realmente quero saber sua opinião sobre o assunto. Você está sendo defensivo por nada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>555</ID>
+      <DefaultText>"Bem, então... o que Rainha Eb teria feito?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>556</ID>
+      <DefaultText>"Eu teria aceitado 'arrogância' ou 'incompetência' como respostas válidas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>557</ID>
+      <DefaultText>"Oportunidade... foi isso que nos matou. Refúgio queria ver o Nível Bastardo cair primeiro, Apex esperava que Refúgio caísse, Azure queria que Stalwart fosse atacado primeiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>558</ID>
+      <DefaultText>"Todos os reinos do Camadas tinham algum interesse em ver seus vizinhos falharem primeiro... então todos nós retivemos nosso apoio até um ano ou mais na guerra... tarde demais então... idiotas brigando ."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>559</ID>
+      <DefaultText>Eb o encara com um olhar frio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>560</ID>
+      <DefaultText>"Muitos subestimaram o Grande General por sua idade. Poucos deles cometeram o erro duas vezes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>561</ID>
+      <DefaultText>"Eu não sou, e não preciso da sua piedade. Vamos falar de outras coisas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>562</ID>
+      <DefaultText>"Suficiente."
+
+Ela inala bruscamente, cruzando os braços com uma carranca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>563</ID>
+      <DefaultText>"Foi você? Eu não... eu não fazia ideia... eu não sabia que você realmente fez algo benéfico para nós Tiersmen... eu aprovo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>564</ID>
+      <DefaultText>"Se algum bando de tolos precisasse de uma surra, seriam eles. Aposto que as pessoas que realmente têm que viver em [url=glossary:lethian's crossing]A travessia de Lethian[/url] ficaram felizes por você comandar o show."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>567</ID>
+      <DefaultText>"A maioria dos Cidades Livres foram derrotados com pouco esforço pelas forças de [url=glossary:kyros]Kyros[/url]'. Do jeito que eu ouvi, Nerat só precisava que os agentes contratassem seus mercenários e ordenassem que eles simplesmente... estivessem em outro lugar quando os exércitos do soberano chegassem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>569</ID>
+      <DefaultText>"Ashe é um general notável - ele liderou seu pequeno grupo de [url=glossary:disfavored]Desfavorecido[/url] em uma fúria quase imparável do Camadas. E ele não parece vencer suas guerras com demonstrações óbvias de poderes místicos - mas com liderança antiquada e bons soldados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>570</ID>
+      <DefaultText>[Conquista] "Os Lançadores de Marés lutou bem, você pode se orgulhar disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>571</ID>
+      <DefaultText>"Por que a hostilidade?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>572</ID>
+      <DefaultText>"Nesse caso, não vou questionar mais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>573</ID>
+      <DefaultText>"Há claramente uma história aqui - eu gostaria de ouvi-la."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>574</ID>
+      <DefaultText>"Alguns anos atrás, os restantes Lançadores de marés mais velhos encontraram [url=glossary:cairn]Cairn[/url] em batalha. Alto como dez homens, quase invencíveis... e eu pensei que nada poderia nos parar se estivéssemos juntos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>575</ID>
+      <DefaultText>"Dificilmente. [url=lore:eb_conquest]Mestre Folvax e Hagrivar deveriam ter morrido de pé...[/url] isso os teria poupado da indignidade de serem arrastados como troféus de guerra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>576</ID>
+      <DefaultText>"A triste verdade é que estávamos condenados... [url=lore:eb_conquest]Folvax e Hagrivar éramos velhos, eles queriam sair em chamas de glória.[/url] Pelo menos [url=glossary:cairn]Cairn[/url] deu aqueles velhos idiotas a despedida que eles queriam..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>577</ID>
+      <DefaultText>"Qualquer que seja, é uma história antiga."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>578</ID>
+      <DefaultText>"Estou feliz por você ter vivido tudo isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>579</ID>
+      <DefaultText>"Então todos morreram, exceto você... me deixe surpreso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>580</ID>
+      <DefaultText>"O que vale para você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>581</ID>
+      <DefaultText>"Então o segredo já foi revelado. E se você não me contar, eu vou acabar com sua vida e você já deve saber que não estou brincando. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>582</ID>
+      <DefaultText>"Mas se algo acontecer com você, quem preservará seus Escolas ensinamentos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>583</ID>
+      <DefaultText>"Esqueça que perguntei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>584</ID>
+      <DefaultText>"Então [url=lore:eb_conquest]vá perguntar ao Vozes de Nerat. Você ajudou a entregar a ele tudo o que sabemos,[/url] então vá em frente e pergunte a ele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>585</ID>
+      <DefaultText>"Ah, eu não sei, o Arconte de Não é meu problema? Isso é tudo o que me resta que me torna especial, preservar o conhecimento para os contramestres prestes a herdar os Tiers não está na minha agenda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>586</ID>
+      <DefaultText>"Lantry ainda está batendo o coração, jogue uma pulseira de charme feita de sua barba e estamos conversando. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>587</ID>
+      <DefaultText>"Você pode me ensinar o que sabe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>588</ID>
+      <DefaultText>"Acho que sou capaz, mas não, os segredos de [url=lore:eb_occultedjade] o Arconte das Marés,[/url] morrem comigo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>589</ID>
+      <DefaultText>"Eu me contentaria com... [url=glossary:kyros]Kyros[/url]' cabeça decepada? Certo, traga-me isso - bandeja de prata opcional - e eu lhe ensinarei tudo o que sei sobre magia e talvez até um pouco do que sei sobre dar nós."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>590</ID>
+      <DefaultText>"Olhar, sou a favor do avanço do conhecimento, mas isso é um absurdo!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>591</ID>
+      <DefaultText>"Sabe de uma coisa... você está certo... segredo já foi revelado - e eu deveria saber melhor do que insultar alguém do seu... temperamento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>592</ID>
+      <DefaultText>"Eu pediria que você usasse esse conhecimento com sabedoria, mas... não é como eu faço. Agora, se você me der licença, estou desanimado no momento. Talvez em outra ocasião."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>593</ID>
+      <DefaultText>"Além do mais, nós Lançadores de maré adoramos um bocado de bobagens destrutivas, e eu sei que você pode ser confiável para continuar esse pilar essencial do nosso ensino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>594</ID>
+      <DefaultText>"Drevenor e Lorma seguiu o ofício do meu marido e levou para a foice. Acamas gostava mais da harpa do que das pessoas - não posso culpá-lo nem um pouco. Certifiquei-me de que meus filhos soubessem ler - e estou muito orgulhoso disso - provavelmente a única coisa que fiz certo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>595</ID>
+      <DefaultText>"Eu deveria tê-lo colocado em um trirreme e jogado ele em alto mar. Ele não pediu o nascimento, nem eu o preparei para a amargura que a vida ofereceria."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>596</ID>
+      <DefaultText>"Camadasos homens às vezes falam do Cinco esposas - nós o usamos para nos referirmos tanto aos primeiros cinco assentamentos onde os colonos desembarcaram, quanto às cinco matriarcas que formaram as dinastias governantes do Camadas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>597</ID>
+      <DefaultText>"Certo e errado. As mulheres-feras cresceram da terra muito antes da chegada dos bandos humanos. Mas os ancestrais incipientes também eram fracos e sem pelos, como os humanos agora. As tribos ainda não haviam se fortalecido na escuridão, no oceano e na terra de pedra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>598</ID>
+      <DefaultText>"Perdoe-me, ela está certa, estou sendo um pouco solto com os fatos. Os humanos chegaram aqui há quase quatrocentos anos, mas as tribos estão aqui desde... bem, não sabemos há quanto tempo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>599</ID>
+      <DefaultText>"Como o místico da água sabe que os fabricantes Oldwalls' se foram? Mulheres-feras ainda estão aqui, sim? Não pense que Mulheres-feras poderia ter esculpido Oldwalls mesmo que as tribos vivessem em terras muito antes dos humanos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>600</ID>
+      <DefaultText>"É mesmo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>601</ID>
+      <DefaultText>"Alguém aqui no Camadas tem os fatos corretos?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>602</ID>
+      <DefaultText>"Você parece estar se esquecendo dos habitantes locais que chegaram primeiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>603</ID>
+      <DefaultText>"Bem, na verdade, não há provas de... quer saber, vou calar a boca e manter meus órgãos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>604</ID>
+      <DefaultText>"Houve um tempo em que os Lançadores de maré eram a guilda mais poderosa do Camadas... os Reino de Haven nos aceitavam como defensores do comércio marítimo e as casas nobres nos davam paz e sossego em troca de ensinar seus filhos e filhas música, escrita e navegação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>605</ID>
+      <DefaultText>"Por que seu Arconte não lutou na guerra?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>606</ID>
+      <DefaultText>"Como era sua escola antes da guerra?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>607</ID>
+      <DefaultText>"Como o Escola caiu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>608</ID>
+      <DefaultText>"Vamos mudar de assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>609</ID>
+      <DefaultText>"Embora as outras escolas cobiçassem nosso conhecimento, elas temiam nossa ira. Entre nossa magia destrutiva e nosso patrono Arconte, outros sabiam que nos atacar significava suicídio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>610</ID>
+      <DefaultText>"O Arconte de Pedra destruiu muito do que eu prezo. Estou feliz que ele esteja morto. O que mais preciso dizer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>611</ID>
+      <DefaultText>"Vamos mudar de assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>612</ID>
+      <DefaultText>"Obrigado, temos coisas melhores a fazer do que pegar feridas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>613</ID>
+      <DefaultText>"Se você está sugerindo que eu os traí, você está completamente errado. Se a insinuação é que eu falhei com eles...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>614</ID>
+      <DefaultText>"Além do mais, meu falecido marido era de Ápice. Eu sei que ele teria se juntado ao [url=glossary:vendrien guard]Guarda Vendrien[/url] se tivesse vivido o suficiente, então preciso honrar sua paixão e fazer isso por ele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>619</ID>
+      <DefaultText>"Então o abate e a escravização são formas de parentesco para os humanos? Estou pensando, talvez Mulher-Besta deva devolver o mesmo afeto ao companheiro de matilha."
+
+Ela dá uma risada e coça suas tetas marcadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>620</ID>
+      <DefaultText>"Não se engane, a vida é difícil para a maioria dos Homens-Besta no Camadas, mas comparado a como eles são tratados no Império do Norte, eu gostaria de pensar que nós Camadashomens somos um pouco mais modernos e visão de futuro... mesmo que só um pouco."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>621</ID>
+      <DefaultText>"Na verdade, o costume varia de lugar para lugar - e você encontrará homens com bastante riqueza em suas terras e mulheres com bastante poder em seus navios - como é frequentemente o caso, os nobres escolhem suas tradições."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>622</ID>
+      <DefaultText>"Estou bem ciente de que ela já pode ter me dito algo para me deixar mais confortável com sua presença... e se ela dissesse, como eu saberia que ela está me influenciando ou não? Se ela está jogando comigo, eu aplaudo o quão bem ela está fazendo isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>623</ID>
+      <DefaultText>"Acho estranho... em humanos, [url=glossary:kyros]Kyros[/url]' invasão gerou desespero, rendição, raiva... #, e inabalável pelo constante estado de guerra que os Camadas viram."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>624</ID>
+      <DefaultText>"Estive refletindo sobre aquela estrutura que encontramos no topo de [url=glossary:vendrien's well]Poço de Vendrien[/url]. Você se oporia a que eu estudasse a escultura com mais detalhes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>631</ID>
+      <DefaultText>"Dito de outra forma... se eu pudesse fazer o que você faz, o mundo estaria à mercê da minha depravação, amaldiçoando o nome de Eb, Arconte dos Fluidos Fecund. Vamos torcer para que seu sextante moral não seja tão torto quanto o meu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>632</ID>
+      <DefaultText>"Se não fosse um recurso tático, seria divertido tentar tirá-lo desse traje... curioso para ver se sua barriga é tão forte, firme e tensa quanto eu imaginei que deveria ser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>633</ID>
+      <DefaultText>"A coisa do erudito errante parece uma encenação - é sempre uma encenação com o Sábios, sempre fingindo saber menos do que realmente sabe. Tenho certeza de que ele tem mil razões para não ser como eles ou mais confiável do que o resto... mas conheço o tipo dele, então não confio nele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>634</ID>
+      <DefaultText>"Depois veio a guerra e... e aprendi que seria um dos últimos Tiersmen a viver livre de [url=glossary:kyros]Kyros[/url]. Desde então, acho que 'oathbreaker' tem sido tecnicamente minha profissão escolhida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>635</ID>
+      <DefaultText>Nó em cascata 635</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>636</ID>
+      <DefaultText>"A ideia que eu estava apresentando para a [url=glossary:vendrien guard]Guarda Vendrien[/url] - vamos armar cada Homem-Besta tribo que se juntar a nós. O [url=glossary:stone sea]Mar de Pedra[/url] é o lar de um bando de tribos que foram libertadas durante a guerra, e nem o Coro nem o [url=glossary:disfavored]Desfavorecido[/url] parecem domá-los."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>637</ID>
+      <DefaultText>"Se alguém lançou um [url=glossary:edict]Edital[/url] além de [url=glossary:kyros]Kyros[/url] nos últimos 431 anos... Tenho certeza de que saberíamos. Haveria testemunhas e evidências que ultrapassaram [url=glossary:kyros]Kyros[/url]' marchando para o oeste, o Sábios teria ouvido falar disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>638</ID>
+      <DefaultText>[Olhar para Sirin.] "Eu quis dizer o dele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>639</ID>
+      <DefaultText>[Olhar para Sirin.] "Quero dizer ela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>640</ID>
+      <DefaultText>[Adicione Eb ao grupo.] "Agarrar suas coisas, preciso de suas habilidades."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>641</ID>
+      <DefaultText>"A coisa mais inteligente que você disse o dia todo. Estou pronto sempre que você estiver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>642</ID>
+      <DefaultText>"Como assim, você precisa de uma prostituta sexy para seu punho mudo de rotina de justiça? Conte comigo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>643</ID>
+      <DefaultText>"Claro. Já está na hora de esticar as velhas pernas do mar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>644</ID>
+      <DefaultText>"Desses, o que você sugere primeiro?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>645</ID>
+      <DefaultText>"E as opções menos óbvias?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>646</ID>
+      <DefaultText>"É tudo o que preciso saber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>647</ID>
+      <DefaultText>"Os [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] de [url=glossary:lethian's crossing]A travessia de Lethian[/url] não são necessariamente uma boa companhia, mas pelo menos será rápido e fácil descobrir onde estamos eles - nós podemos pagar ou não, eles aceitam um contrato ou não."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>648</ID>
+      <DefaultText>"Nós vamos... a Corte tem um Guilda de magos, o [url=glossary:forge-bound]Forge-Bound[/url], certo? Elas são seus pares, visto que todos vocês juraram legalmente [url=glossary:tunon]Tunon[/url]. Talvez você consiga que eles sejam... mais leais a você, do que a [url=glossary:tunon]Tunon[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>649</ID>
+      <DefaultText>"Podemos também tentar colocar uma cunha entre o Tremedores de terra e o [url=glossary:disfavored]Desfavorecido[/url]. Os [url=glossary:disfavored]Desfavorecido[/url] são familiares, mas os Tremedores de terra são... família de casados? Elas eram seguidores de [url=glossary:cairn]Cairn[/url] e foram adotados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>650</ID>
+      <DefaultText>"Você está certo em chamar o [url=glossary:disfavored]Desfavorecido[/url] de família. Somos muito mais do que meros compatriotas, e a força de nossa legião está no amor que temos uns pelos outros."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>651</ID>
+      <DefaultText>"Então, se esses magos Arconte-menos pudessem ser persuadidos a se unir a nós, nós daríamos uma dica a nosso favor. É mais fácil falar do que fazer, é claro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>652</ID>
+      <DefaultText>"O que você sabe sobre o Pináculos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>653</ID>
+      <DefaultText>"Acho que você não ouviu falar de outros despertando o Pináculos como eu fiz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>654</ID>
+      <DefaultText>"Não o suficiente, aparentemente. Para mim, eles sempre foram axiomas de navegação - você pode triangular muitas coisas com um sextante e uma visão clara de um Pináculo ou dois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>655</ID>
+      <DefaultText>"Rainhas e reis de eras passadas 'reivindicaram' os Pináculos no sentido de 'olha, eu montei um andaime e pendurei uma bandeira a um décimo da altura de um Pináculo' mas isso não é o lugar certo a mesma coisa que acabamos de ver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>656</ID>
+      <DefaultText>"Sabemos há muito tempo que o Pináculos irradia campos mágicos fortes, e todos, exceto o Pináculo da Montanha, conectam-se ao Oldwalls - então é o tipo de coisa que as pessoas comuns sabem de longe, mas evitam no dia a dia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>657</ID>
+      <DefaultText>"Então eu digo, vamos ver se o outro Pináculos reage a você da mesma forma que este. Se não o fizermos, tomarei isso como sua maneira de dizer que você sofre de acrofobia debilitante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>658</ID>
+      <DefaultText>"Espero que você tenha algo inteligente em mente, porque seu desejo de poder é muito grande - ele não se renderá até que derrotemos as personalidades daquele rosto sorridente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>659</ID>
+      <DefaultText>"Se realmente queremos nos odiar pela manhã... Stalwart é muito famoso por não ajudar seus vizinhos, mas também famoso por ser implacável na guerra. Os [url=glossary:disfavored]Desfavorecido[/url] têm sua liderança cercada, mas as pessoas no campo devastado pela tempestade ainda estão lutando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>660</ID>
+      <DefaultText>"E embora eu não endosse isso, devo listar todas as opções... o Escola de tinta e pena. Tenho certeza de que há alguma lógica em trabalhar com eles, assim como há alguma lógica em cortar sua própria cabeça para evitar dores de cabeça futuras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>661</ID>
+      <DefaultText>"Acho que você pode me dizer mais do que eu queria saber sobre as luas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>662</ID>
+      <DefaultText>"Você está certo. Minha magia é geralmente associada com a [url=lore:eb_moons]lua Túmulo de Terrato, mas você tem que saber onde o Intruso está no céu[/url] quando estiver mexendo com forças místicas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>663</ID>
+      <DefaultText>"Terratus Grave é o grande, certo? Dizer eu sobre isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>664</ID>
+      <DefaultText>"Intruso é aquele que se move no céu, se bem me lembro das lições."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>665</ID>
+      <DefaultText>"Você controla a água ou imita os efeitos de maré que as luas têm na água?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>666</ID>
+      <DefaultText>"Túmulo de Terrato está fixo no céu, sempre no alto, dia e noite. Foi nomeado pela primeira vez por pessoas que vivem longe ao leste. Eles olhavam para o oeste e viam a lua como uma colina permanente no horizonte - um túmulo onde o sol morre todas as noites."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>667</ID>
+      <DefaultText>"É assim que os mais velhos viam. Se você mora na parte ocidental do mundo, Túmulo de Terrato está sempre em cima. Isso significa que dia e noite, ele reflete os raios do sol - e se você sabe o que está fazendo, ele não apenas reflete, ele aumenta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>668</ID>
+      <DefaultText>"Exatamente. Interloper orbita Terratus em um ritmo constante, e sua órbita às vezes cruza na frente de Túmulo de Terrato, levando a uma calamidade mística se você não souber o que está fazendo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>669</ID>
+      <DefaultText>"Ambos, na verdade, me divirto que você esteja interessado na diferença. Nossos feitiços de gelo e névoa afetam a água diretamente, mas são de volume limitado - deslocar seu próprio peso corporal na água não é tarefa fácil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>670</ID>
+      <DefaultText>"Vamos falar de outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>671</ID>
+      <DefaultText>"Agora você sabe que é uma pergunta muito pessoal. O conhecimento que tenho é um presente de séculos do Arconte das Marés - eu preferiria descartar minha vida do que a santidade desse presente. Vou falar apenas de generalidades."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>672</ID>
+      <DefaultText>"Mas se eu fosse mover uma corrente oceânica, eu ficaria louco movendo a água na frente de um barco um pouco de cada vez, é aí que eu usaria um truque para simular uma força de maré."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>673</ID>
+      <DefaultText>"Aldenos estava desacelerando e meio que imaginava que o Portões do Julgamento seria sua última batalha. Se alguma coisa, ele conseguiu exatamente a morte que queria... então, nesse sentido, estou muito feliz por ele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>674</ID>
+      <DefaultText>"Triste é que morreram durante a conquista, mas não foi assim que perdi o contato. Perdi contato porque a magia e as viagens se tornaram minha vida. Tive muito tempo para conhecê-los como um adulto, mas... simplesmente perdi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>675</ID>
+      <DefaultText>"A maioria dos meus companheiros de guilda foi junto, escolhendo arriscar o alto mar sem fim em vez de arriscar a batalha. Alguns de nós, os 'militantes' como nossos pacíficos irmãos nos apelidaram, escolheram ficar e lutar - que eu saiba, eu sou o último daqueles que decidiram ficar e lutar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>677</ID>
+      <DefaultText>"Eles mal se qualificam como uma escola ou guilda adequada... a maioria deles mal alfabetizados e, aposto, a maioria deles não aprendeu nada, apenas teve seu conhecimento... enfiado em suas cabeças por Nerat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>678</ID>
+      <DefaultText>"Eles têm toda a palhaçada brutal do Refrão, mas com a magia de tornar sua sede de sangue contagiosa. Seu único recurso redentor... acho que eles fazem o Sábios não parecer tão ruim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>679</ID>
+      <DefaultText>"E como a maioria dos que invocaram o Arcontes de tempos passados para fazer magia, eu me pergunto que diferença de nascimento ou experiência dá a alguém o potencial mágico para ser um Arconte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>680</ID>
+      <DefaultText>"Desde a traição de [url=glossary:cairn]Cairn[/url], temos confiado menos em nossos aliados arcanos. Os Earthshakers são um grupo inconstante e acadêmico. Seus princípios se alinham com sua ambição, não com as esperanças do Norte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>681</ID>
+      <DefaultText>"Precisamos de aliados, independentemente de suas lealdades passadas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>682</ID>
+      <DefaultText>"Eu não recusaria a ajuda de magos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>683</ID>
+      <DefaultText>"Se conseguirmos roubar esses magos debaixo do [url=glossary:disfavored]Desfavorecido[/url], tanto melhor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>684</ID>
+      <DefaultText>"Nem você deveria. Eles podem ser enganosos e difíceis de gerenciar, mas serviram bem à legião de ferro no passado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>685</ID>
+      <DefaultText>"Se você está disposto a se contentar com menos, deixe que isso seja da sua conta. Pelo menos [url=glossary:graven ashe]Cinza esculpida[/url] nos manteve em um padrão mais alto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>686</ID>
+      <DefaultText>"Se você fortalecer esses Tiersmen mesquinhos em detrimento da legião Norte, então eu questiono sua mente sobre táticas. Não deixe seu oportunismo fugir de você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>687</ID>
+      <DefaultText>"Não é nada. Os filhotes da ninhada da cicatriz ganham na segunda temporada. Cicatrizes de quase morte são mais profundas."
+
+Ela traça uma das linhas mais longas e irregulares que serpenteiam suas costelas e peito.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>688</ID>
+      <DefaultText>"Suponho que ele seja parente de Pelox Florian?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>689</ID>
+      <DefaultText>"De fato, sou cunhada de Florian, Travost, Tirol... e uma armada de primos. Os irmãos eram todos próximos antes da guerra - uma pena que morreram longe um do outro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>691</ID>
+      <DefaultText>"Antigo como o Cinco esposas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>692</ID>
+      <DefaultText>"Por todas as contas, Jade Oculto estava entre os primeiros colonos que chegaram à terra no Camadas antes de [url=glossary:kyros]Kyros[/url] primeiro lançar um [url=glossary:edict]Edital[/url]. Embora ela seja um pouco velha e curvada, ela parecia incrível por quase quinhentos anos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>694</ID>
+      <DefaultText>"Eu entendo que este conhecimento é importante para você - eu lhe garanto, ele será usado para grandes coisas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>695</ID>
+      <DefaultText>"Eu entendo que este conhecimento é importante para você - eu lhe garanto, ele será usado para grandes coisas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>696</ID>
+      <DefaultText>"Eu entendo que este conhecimento é importante para você - eu lhe garanto, ele será usado para grandes coisas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>697</ID>
+      <DefaultText>Ela bate no queixo, pensativa, por vários momentos longos e silenciosos, antes de bater seu cajado no chão com um floreio.
+
+"Tenho a sensação de que posso me arrepender disso, mas... tudo bem, que assim seja. Se alguém vai imitar minha magia e fazer coisas gloriosas com o legado Lançador de maré, eu gostaria que fosse você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>698</ID>
+      <DefaultText>Ela acena com a cabeça, silenciosamente aguardando seu acompanhamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>699</ID>
+      <DefaultText>Ela acena com a cabeça, silenciosamente aguardando seu acompanhamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>700</ID>
+      <DefaultText>Ela acena com a cabeça, silenciosamente aguardando seu acompanhamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>701</ID>
+      <DefaultText>Eb acena com a sua aproximação e oferece uma reverência curta.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

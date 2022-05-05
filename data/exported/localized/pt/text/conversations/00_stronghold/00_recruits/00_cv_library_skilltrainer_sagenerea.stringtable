@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\00_recruits\00_cv_library_skilltrainer_sagenerea</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Volte mais tarde, quando eu tiver mais para te ensinar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ainda interessado em minhas ilusões, Fatebinder?" [url=glossary:sage]Sábio[/url] Nerea oferece uma profunda reverência.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Gostaria de treinar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Deixar.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Você precisa de treinamento, Fatebinder?" Ela acena com a cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Estou disponível se precisar de prática, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Sim... sim, isso vai servir muito bem..." Uma [url=glossary:sage]Sábio[/url] examina as estantes da biblioteca, esfregando as palmas das mãos com expectativa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Limpe sua garganta.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"O que você está fazendo aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Seus olhos se abrem com pânico e ela pronuncia um encantamento rápido. 
+
+Sua visão fica embaçada e, de repente, parece haver várias cópias do [url=glossary:sage]Sábio[/url] de pé, olhando para você com expressões ansiosas. Alguns estão prontos para disparar um feitiço adicional, enquanto outros mexem desajeitadamente com suas roupas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"O que você está fazendo aqui?!" Elas todos gritam ao mesmo tempo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Eu possuo este lugar. Qual é a sua desculpa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Vinculador do Destino [Player Name], ao seu dispor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Ah! Receio que só conheço você pela descrição, e eles não acertaram exatamente. Um momento de paciência." 
+
+Os Sábios reunidos olham para um dos oradores idênticos com expressões de dúvida e preocupação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Você... você sabe?" Com todos os Sábios falando ao mesmo tempo, é difícil entender as palavras. Um deles se destaca como mais enfático que os demais. "Então o mal-entendido é meu. Só um momento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>A [url=glossary:sage]Sábio[/url] acena com a mão e dissipa as cópias, que se espalham como névoa até que uma brisa as leva embora. "Assim é melhor. Você vai ter que me perdoar, é um velho mecanismo de defesa contra os libertinos que comandavam o [url=glossary:vellum citadel]Cidadela de Velino[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Ela se curva. "[url=glossary:sage]Sábio[/url] Nerea, ao seu dispor. Eu não deveria ter sido pego de surpresa... Afinal, sou o recém-chegado aqui. Fiquei tão encantada com..." ela aponta para as pilhas de livros e pergaminhos, "tudo isso." "Eu vim para te ensinar, Vinculador do Destino. Isto é, se você me aceitar. Com a destruição do Cidadela, tenho que vender meus talentos em algum lugar, e melhor aqui do que na linha de frente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Mostre-me mais ilusões e pronto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Deixar] "Estou muito ocupado no momento. Talvez mais tarde. Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Salte e assuste-a.]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

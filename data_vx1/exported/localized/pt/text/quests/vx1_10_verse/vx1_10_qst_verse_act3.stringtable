@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\vx1_10_verse\vx1_10_qst_verse_act3</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>26</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>O Terceiro Grau</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Retorno ao Ruptura do Rio</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Investigue a casa em ruínas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Viajar para Fort Squander</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Fuja do Forte Squander</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Enfrentar [url=glossary:the voices of nerat]o Vozes de Nerat[/url] ao lado de Versículo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Fale com o Verso</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Fale com Verse no Pináculo da Montanha</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Fale com Verse no Pináculo da Montanha</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Fale com Verse no Pináculo da Montanha</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Em sua busca por vingança, Verse descobriu mais informações sobre os assassinos de suas irmãs. Investigue as pistas para ajudar Verse a conseguir o desfecho que ela deseja.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>O contato de Versículo observou um indivíduo suspeito visitando a propriedade Essa em Ruptura do Rio. Volte para lá com Versículo para investigar o relatório.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Verse suspeita que o incendiário deixou evidências que o ajudarão a rastrear seu caminho de Ruptura do Rio. Procure nos escombros por pistas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Você deduziu que um [url=glossary:sage]Sábio[/url] trabalhando com o [url=glossary:scarlet chorus]Coro Escarlate[/url] foi responsável por queimar Essa em casa. Viajar para Fort Squander com Versículo para localizá-los.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>As forças recém-chegadas [url=glossary:scarlet chorus]Coro Escarlate[/url] bloqueiam sua saída do forte. Retire-os e fuja.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>[url=glossary:the voices of nerat]As vozes de Nerat[/url] orquestrou a morte de Versículos irmãs a serviço de seus próprios fins retorcidos. Viajar para Cacofonia com Versículo ao seu lado para enfrentar o Arconte dos Segredos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Verse gostaria de discutir algo com você. Fale com ela para descobrir o que ela quer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Você e Verso confrontou os soldados presentes na morte de suas irmãs, mas o monstro que manipulou todos os envolvidos naquele massacre, [url=glossary:the voices of nerat]o Vozes de Nerat[/url], permanece. Fale com Verse no Pináculo da Montanha em [url=glossary:vendrien's well]Poço de Vendrien[/url] para refletir sobre esses eventos antes de confrontar o Arconte dos Segredos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Você e Verso confrontou os soldados presentes na morte de suas irmãs e derrubou o monstro que manipulou todos os envolvidos naquela chacina: [url=glossary:the voices of nerat]o Vozes de Nerat[/url]. Fale com Verse no Pináculo da Montanha em [url=glossary:vendrien's well]Poço de Vendrien[/url] para refletir sobre esses eventos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Você e Verso confrontou os soldados presentes na morte de suas irmãs e derrubou o monstro que manipulou todos os envolvidos naquela chacina: [url=glossary:the voices of nerat]o Vozes de Nerat[/url]. Fale com Verse no Pináculo da Montanha em [url=glossary:vendrien's well]Poço de Vendrien[/url] para refletir sobre esses eventos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Você descobriu evidências de quem queimou Essa em casa. Continue procurando na área por pistas mais úteis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>[url=glossary:the voices of nerat]As vozes de Nerat[/url] se recusa a discutir o assunto das Versículos irmãs com você pacificamente até que [url=glossary:graven ashe]Cinza esculpida[/url] seja tratado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Versículo morreu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Verse deixou a festa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Depois de lidar com [url=glossary:the voices of nerat]o Vozes de Nerat[/url] - e desabafar com você - Versículo encontrou algum desfecho para a morte de suas irmãs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Verse superou [url=glossary:the voices of nerat]the Vozes de Nerat[/url] em uma batalha de vontades e reivindicou a liderança sobre o [url=glossary:scarlet chorus]Coro Escarlate[/url] como o Vozes do verso. Com suas irmãs vingadas, um exército sob seu comando e seu passado para trás, o futuro de Verse é dela para forjar.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

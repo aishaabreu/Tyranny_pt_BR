@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\08_vendrienswell\08_qst_echocallcrossing_main_quest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>A Batalha de Echocall Crossing</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Fale com Marechal de Ferro Erenyos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Voltar para Ashe barraca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Reúna-se com Antio em Echocall Crossing.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Sinalize as Fúrias Escarlates.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Atravesse o rio na ponte oeste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Ataque a ponte leste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Retire o guincho que controla a ponte levadiça leste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Continue em Vila Ecochamada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Aldeia Echocall Segura.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Informe para Piada Amarga.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Abaixe a ponte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Travessia de ecochamada deve ser tomada antes que as forças [url=glossary:kyros]Kyros[/url]' possam pressionar seu ataque no [url=glossary:vendrien's well]Poço de Vendrien[/url] Cidadela. Ajude o [url=glossary:disfavored]Desfavorecido[/url] a subjugar os rebeldes e assumir o controle do Cruzando.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Fale com o Iron Marshal no campo [url=glossary:disfavored]Desfavorecido[/url] para discutir como você deve abordar a batalha por Travessia de ecochamada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Suas forças prevaleceram em Echocall Crossing e Tripnettle Wilderness. Voltar para Ashe tenda e informe o Arcontes do seu sucesso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Antio e sua companhia de soldados estão se movendo para quebrar o bloqueio da oposição em Travessia de ecochamada. Você foi enviado para encontrar Antio e ajudar conforme necessário.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>O [url=glossary:scarlet chorus]Coro Escarlate[/url] enviou batedores rio abaixo para atravessar o rio. Vá para um terreno mais alto nos afloramentos rochosos a sudoeste e sinalize o Fúrias por sua ajuda.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>O refrão batedores foram bem sucedidos em prender uma corda através do rio na ponte oeste de Travessia de ecochamada. Enquanto há tempo, vade o rio até lá para surpreender o inimigo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>Enquanto o Coro batedores tentam enviar uma corda pelo rio, crie uma distração para suas forças atacando a ponte leste de Travessia de ecochamada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10020</ID>
+      <DefaultText>Você cruzou o rio e fez o seu caminho em direção à ponte leste. Destruir o guincho abrirá o caminho para as forças [url=glossary:disfavored]Desfavorecido[/url] se juntarem à luta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10021</ID>
+      <DefaultText>Você chegou aos arredores de Vila Ecochamada. Enquanto seus aliados se reúnem em torno da ponte leste capturada, entre na vila e encontre o líder rebelde, Matani Sybil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10022</ID>
+      <DefaultText>Os rebeldes voltaram para Vila Ecochamada. Para solidificar seu domínio sobre a região, mate Matani Sybil ou force-a a se render.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10032</ID>
+      <DefaultText>A ponte leste não pode ser atravessada no momento, mas você pode ter comprado Quip amargo homens tempo para fornecer outra maneira de atravessar o rio. Fale com Piada Amarga perto da entrada para Travessia de ecochamada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10033</ID>
+      <DefaultText>Você atravessou a água. Lute até a ponte leste de Travessia de ecochamada e abaixe-a para seus aliados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você escolheu deixar os aldeões de Echocall Crossing irem, mas matou todos os [url=glossary:vendrien guard]Guarda Vendrien[/url] na área.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você escolheu capturar a capitã Sybil e os rebeldes em troca de deixar os aldeões e os rebeldes Vendrien partirem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Você decidiu que a coisa mais segura a fazer era incendiar a vila. Não houve sobreviventes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Você escolheu deixar os aldeões de Travessia de ecochamada irem, mas decidiu que era melhor queimar a aldeia para destruir a base de operações dos rebeldes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Você escolheu deixar os aldeões de Echocall Crossing irem, mas matou todos os [url=glossary:vendrien guard]Guarda Vendrien[/url] rebeldes. No entanto, você conseguiu prender o líder deles, Matani Sybil.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Você decidiu que a vila deveria ser mantida intacta como um ponto de apoio para as forças [url=glossary:kyros]Kyros[/url]'.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>Você decidiu enviar uma mensagem aos rebeldes e incendiou a vila, deixando colonos e espiões em potencial sem casas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30008</ID>
+      <DefaultText>Você decidiu enviar uma mensagem que o [url=glossary:vendrien guard]Guarda Vendrien[/url] não vai esquecer tão cedo, e incendiou a vila com todos nela.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\vx1\vx1_09_bs_hyrax</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>A cabeça cativa Oathbound repousa entre os joelhos, sua figura imóvel, exceto pela respiração lenta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Os olhos apertados do soldado [url=glossary:disfavored]Desfavorecido[/url] seguem seus movimentos de perto. Ele limpa a garganta quando você se aproxima.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

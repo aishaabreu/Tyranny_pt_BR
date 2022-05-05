@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\00_recruits\00_cv_infirmary_vendor_gela</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Não posso receber os suprimentos de que preciso enquanto o Pináculo estiver em manutenção. Verifique novamente mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Gela te saúda. "[url=glossary:graven ashe]Cinza esculpida[/url] me deu permissão para fornecer serviços ao seu Pináculo. Meus contatos com o Norte me fornecem uma grande variedade de poções." Ela procura outros trabalhadores em todo o Boticário. "Muito mais eficaz do que essas ervas cultivadas no sul."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Mostre-me o que você tem à venda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Deixar.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"[url=glossary:graven ashe]Cinza esculpida[/url] protege, Vinculador do Destino. Precisa comprar alguma coisa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Você vem do Norte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Sua boca forma um sorriso largo. "Sim, tenho orgulho de dizer." 
+
+Seu sorriso diminui em uma leve carranca. "Eu estive fora por um bom tempo agora - espero que muitos de nós sejam mandados de volta para casa assim que os Camadas forem levados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Gela começa a fazer a saudação [url=glossary:disfavored]Desfavorecido[/url], mas depois parece pensar melhor, curvando-se. "Um prazer, Vinculador do Destino. Meus contatos com o Norte me fornecem vários tônicos e cataplasmas alquímicos, cada um muito mais eficaz do que os produtos das ervas do sul." Ela franze a testa levemente. "Eu trabalhei com o [url=glossary:disfavored]Desfavorecido[/url], anteriormente, mas enquanto você trabalhar para acabar com esta guerra, ficarei feliz em atendê-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

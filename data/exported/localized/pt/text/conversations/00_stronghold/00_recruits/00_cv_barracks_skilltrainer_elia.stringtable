@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\00_recruits\00_cv_barracks_skilltrainer_elia</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Tenho certeza de que foi um espetáculo para a horda lá embaixo quando de repente seu comandante veio despencando para o campo de batalha." Ela balança a cabeça. "Duvido que tenha demorado muito para que seu corpo fosse saqueado por quem estava na fila para ocupar seu lugar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Uma mulher com armadura enferrujada e surrada com manchas de pele desgastada aparecendo através de sua máscara facial espia pela lateral do Pináculo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Deixar.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Gostaria de treinar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Você voltou. Precisa de algo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Então foi aqui que você chutou aquele balde enferrujado Erenyos do Pináculo?" Ela acena satisfeita. "Eu gostaria de ter visto os olhares nos rostos de seus soldados quando a proteção de [url=glossary:graven ashe]Cinza esculpida[/url] falhou em salvá-la da queda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Se eu fosse você, teria arrancado aquele balde enferrujado Erenyos do Pináculo - Veja se aquele ferro que eles falam resiste ao teste da queda." 
+
+Ela se afasta da borda e se vira para você, ajustando uma alça em seu protetor de braço gasto com um puxão forte. "Tenho certeza que você teve seus motivos para poupá-la."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Ouvi dizer que você deixou aquele [url=glossary:scarlet chorus]Coro Escarlate[/url] ir embora? Eu o teria chutado bem na cintura e o jogado para fora do Pináculo, mas imagino que algum outro rutter-fera mascarado teria tomado seu lugar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Precisava de alguma coisa, Fatebinder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,273 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\08_vendrienswell\08_qst_vendrienswell_assault_quest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>53</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Assalto ao Cidadela</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Conheça o [url=glossary:disfavored]Desfavorecido[/url] no Cidadela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Encontre um caminho por cima do muro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Limpe o pátio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Encontre o Marechal de Ferro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Defenda os Earthshakers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Mate os reforços.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Entre e proteja o pátio</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Entrar [url=glossary:vendrien's well]Poço de Vendrien[/url] Guarda.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Limpe o pátio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Entrar [url=glossary:vendrien's well]Poço de Vendrien[/url] Guarda.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Vá para [url=glossary:ascension hall]Salão da Ascensão[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Conheça o [url=glossary:scarlet chorus]Coro Escarlate[/url] no Cidadela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Encontre o Quinto Olho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Encontre um caminho sobre a parede oeste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Defenda os Cantores de Sangue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Mate os reforços.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Entre e proteja o pátio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Limpe o pátio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Derrote os reforços orientais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Entrar [url=glossary:vendrien's well]Poço de Vendrien[/url] Guarda.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Derrote os líderes rebeldes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Fale com Marechal de Ferro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Fale com Quinto Olho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Entre no pátio principal</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>O ataque a [url=glossary:vendrien's well]Poço de Vendrien[/url] Citadel está em andamento, e o destino do cerco será decidido em breve. Ajuda [url=glossary:kyros]Kyros[/url]' forças tomam a fortaleza e ganham o controle do vale.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Viaje para [url=glossary:vendrien's well]Poço de Vendrien[/url] Citadel e ajude o [url=glossary:disfavored]Desfavorecido[/url] com seu ataque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Marechal de Ferro disse que seus batedores avistaram um possível ponto de escalada em uma seção leste da parede. Suba e chegue ao pátio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Mate o [url=glossary:vendrien guard]Guarda Vendrien[/url] no pátio para abrir caminho para o Tremedores de terra destruir a parede.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Marechal de Ferro terá instruções para você sobre o que é necessário para derrubar o muro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Os sacudidores de terra estão se posicionando para liberar seus poderes arcanos contra a parede do perímetro. Certifique-se de que eles possam lançar seus feitiços ininterruptamente, matando qualquer [url=glossary:vendrien guard]Guarda Vendrien[/url] que interfira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>suporte do [url=glossary:vendrien guard]Guarda Vendrien[/url] está chegando. Derrote os reforços e continue o ataque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Entre na Cidadela e limpe as tropas [url=glossary:vendrien guard]Guarda Vendrien[/url] que permanecem atrás dos muros.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Empurre seu caminho para o Guarda e limpe o caminho para [url=glossary:ascension hall]Salão da Ascensão[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Derrote o [url=glossary:vendrien guard]Guarda Vendrien[/url] no pátio principal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>O caminho é claro. Entre na fortaleza e lute em direção a [url=glossary:ascension hall]Salão da Ascensão[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Faça o seu caminho através do Guarda até o [url=glossary:ascension hall]Salão da Ascensão[/url] e enfrente os líderes do [url=glossary:vendrien guard]Guarda Vendrien[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Viaje para [url=glossary:vendrien's well]Poço de Vendrien[/url] Citadel e ajude o [url=glossary:scarlet chorus]Coro Escarlate[/url] com seu ataque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>Quinto Olho terá instruções para você para o ataque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Quinto Olho disse que seus batedores descobriram um possível ponto de escalada por uma seção destruída da parede oeste. Suba para chegar ao pátio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>Os Cantores de Sangue estão se posicionando para liberar seus poderes arcanos contra a parede do perímetro. Certifique-se de que eles possam lançar seus feitiços ininterruptamente, matando qualquer [url=glossary:vendrien guard]Guarda Vendrien[/url] que interfira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10020</ID>
+      <DefaultText>suporte do [url=glossary:vendrien guard]Guarda Vendrien[/url] está chegando. Derrote os reforços e continue o ataque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10022</ID>
+      <DefaultText>Entre na Cidadela e limpe as tropas [url=glossary:vendrien guard]Guarda Vendrien[/url] que permanecem atrás dos muros.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10023</ID>
+      <DefaultText>Mate o [url=glossary:vendrien guard]Guarda Vendrien[/url] no pátio para abrir caminho para o Cantores de Sangue destruir o portão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10024</ID>
+      <DefaultText>Derrote os guardas entrando pelo pátio leste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10025</ID>
+      <DefaultText>Empurre seu caminho para o Guarda e limpe o caminho para [url=glossary:ascension hall]Salão da Ascensão[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10027</ID>
+      <DefaultText>Não há saída para o [url=glossary:vendrien guard]Guarda Vendrien[/url]. Derrote-os aqui e termine a batalha por [url=glossary:vendrien's well]Poço de Vendrien[/url] de uma vez por todas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10029</ID>
+      <DefaultText>Você deu a conhecer o seu lado no confronto que testemunhou entre os dois Arcontes. Fale com Marechal de Ferro perto dos campos de treinamento para começar o ataque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10030</ID>
+      <DefaultText>Você deu a conhecer o seu lado no confronto que testemunhou entre os dois Arcontes. Fale com o Quinto Olho no acampamento [url=glossary:scarlet chorus]Coro Escarlate[/url] para começar o ataque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10033</ID>
+      <DefaultText>Entre no pátio principal antes do [url=glossary:scarlet chorus]Coro Escarlate[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você ajudou o [url=glossary:disfavored]Desfavorecido[/url] a derrotar o [url=glossary:vendrien guard]Guarda Vendrien[/url] e assumiu o controle do Pináculo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você finalmente decidiu trair as forças [url=glossary:kyros]Kyros[/url]' e ajudar as [url=glossary:vendrien guard]Guarda Vendrien[/url] a defender a Cidadela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Você ajudou o [url=glossary:scarlet chorus]Coro Escarlate[/url] a derrotar o [url=glossary:vendrien guard]Guarda Vendrien[/url] e assumiu o controle do Pináculo.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

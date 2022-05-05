@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\08_vendrienswell\08_cv_dyingsage_wallwarning</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Perdoe-me," a voz de [url=glossary:sage]Sábio[/url] é um engasgar fraco entre respirações difíceis, "nós falhamos com você." Com uma mão segurando suas entranhas, a outra mão traça furiosamente o padrão necessário para manter o feitiço de proteção nas paredes. Dor e fadiga se instalam, e um gesto errôneo no sentido horário faz com que seu feitiço de proteção finalmente cresça e fracasse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Os sacudidores de terra em breve derrubará as paredes! Ficar claro!" A [url=glossary:sage]Sábio[/url] se lança para frente para vomitar, seu corpo tremendo de exaustão e medo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Prepare-se! Mais... mais escalaram a parede leste..." O [url=glossary:sage]Sábio[/url] cai de joelhos, lançando-se para frente para vomitar enquanto seu corpo treme de exaustão e medo.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\factionquestlines\scarletchorus\fq_sc_03_cv_ripfang_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Fatebinder! Precisamos da sua ajuda!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"O que está acontecendo aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Nós nos recusamos a participar do jogo Censura no Biblioteca. Agora ele vai nos matar se você não fizer nada!" Presa olha por cima do ombro e se contorce.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Respondemos a uma convocação do Censurar. Quando chegamos aqui, o Sábios havia assumido o controle e agora não sabemos o que vai acontecer conosco."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] convocou você. Todos os outros comandos deveriam vir em segundo lugar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Mate-os.] "Estou cansado de fracos em posições de liderança."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Voltarei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Claro, qualquer coisa!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Concordo!" Ripfang acena com a cabeça vigorosamente o suficiente para bagunçar seu cabelo suado. "Mas eu pensou que talvez o Censurar estivesse trabalhando com o Vozes. Não tínhamos ideia do que estava esperando por nós aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Eu vou te libertar. Informe para [url=glossary:the voices of nerat]o Vozes de Nerat[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>prisioneiro pisca. "O quê? Vinculador do Destino... não!"
+
+Você se ajoelha para quebrar o pescoço de cada um deles. Ripfang faz a luta mais valente, mas é claro que não é suficiente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Com o quê?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Típica. O que você quer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Ajude-nos, Vinculador do Destino!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Concordo!" Ripfang acena com a cabeça vigorosamente o suficiente para bagunçar seu cabelo suado. "Tire-nos daqui!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

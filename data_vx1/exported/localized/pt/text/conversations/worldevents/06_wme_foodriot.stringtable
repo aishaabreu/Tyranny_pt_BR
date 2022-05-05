@@ -1,0 +1,382 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\worldevents\06_wme_foodriot</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>66</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ao se aproximar de um assentamento algumas horas fora dos muros da capital de [url=glossary:tunon]Tunon[/url], você ouve um clamor de vozes em frustração. A vila é pouco mais do que um pub em ruínas, algumas fazendas e uma pequena praça central repleta de uma multidão enfurecida.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Investigue o clamor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Contorne a aldeia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Um grupo de camponeses cerca o magistrado instalado de [url=glossary:tunon]Tunon[/url] e seus executores. Os fazendeiros gritam em dicção grosseira, seu significado em grande parte perdido, embora você entenda as palavras 'fome' e 'ladrão'.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Você evita o conflito, deslizando pelos arredores da vila e continuando sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Romper o protesto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Exija saber o que está acontecendo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Ignore-os e continue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Você abre caminho entre a multidão, os camponeses e o magistrado pedindo sua intervenção. Você não poupa um olhar para eles, mas continua pela praça até a estrada mais distante e segue em direção ao seu destino.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Você invade a praça e derruba os camponeses mais barulhentos e agressivos, empurrando para o chão lamacento qualquer um que ousar se aproximar de você. Juntando-se ao magistrado em sua plataforma, você ordena aos agricultores que desfaçam esta assembleia e voltem ao seu trabalho. Um deles levanta a voz em reclamação e você quebra sua rótula com um chute rápido, jogando-o no chão.
+
+Enquanto a multidão perde a coesão, você dá ao magistrado um olhar indiferente antes de sair da aldeia. A estrada se estende à sua frente para o restante de sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Você caminha para o centro da praça, afastando aqueles que atrapalham sua procissão. Com um grito retumbante, você acalma o campesinato com um zumbido baixo e eriçado. Você liga para o magistrado e pergunta o que está acontecendo nesta aldeia.
+
+"Eles levaram nossa comida!" grita um dos fazendeiros. "Isso é o que aconteceu. Tomado para sua guerra sem fim. Como devemos alimentar nossos filhos, nós mesmos?" Você silencia o fazendeiro com um olhar brusco enquanto o magistrado confirma as queixas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Pergunte aos aldeões que roubaram sua comida.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Sugira que os agricultores não apoiem o esforço de guerra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Pergunte por que os agricultores não estão em seus campos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Intimidar o magistrado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Aqueles malditos Refrão porcos, Vinculador do Destino," responde um dos fazendeiros, um homem de ombros largos e barriga vestindo túnicas rústicas de linho e lã.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Aqueles malditos Refrão porcos, Vinculador do Destino," responde um dos fazendeiros, um homem de ombros largos e barriga vestindo túnicas rústicas de linho e lã.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Aqueles malditos Refrão porcos, Vinculador do Destino," responde um dos fazendeiros, um homem de ombros largos e barriga vestindo túnicas rústicas de linho e lã.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Questione os camponeses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Depois que as caravanas comerciais foram saqueadas durante a guerra, a comida escasseou," o magistrado intervém. "Algumas gangues locais, incapazes de comprar rações na cidade, tentaram comprar mercadorias aqui. O que os fazendeiros não venderam, o Coristas roubou. Tentei explicar que é pela conquista Soberano. Que as pessoas não têm ninguém para culpar, mas criminosos como o [url=glossary:unbroken]ininterrupto[/url] e o [url=glossary:vendrien guard]Guarda Vendrien[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"O que é o ponto?" um fazendeiro responde. "Nada nós aramos, qualquer coisa que caçamos, podemos muito bem entregar ao Coro!" Ele gesticula imprudentemente para o magistrado. "[url=glossary:tunon]Tunon[/url] aqui não fez nada para salvar esta cidade! O que o Árbitro espera de nós? Para comer pedra e ar?"
+
+"As gangues se aglomeram por aqui há anos!" outro fazendeiro se opõe. "Eles sãoe como uma nuvem de crisálida pousando para limpar os campos e depois seguir seu caminho novamente!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>fazendeiro de ombros largos pisca, desviando sua atenção com as palmas das mãos abertas. "Claro que sim, Fatebinder! Louvado seja o Senhor Supremo e o Árbitro." Ele passa a mão pelo cabelo. "Louvor a todos os Arcontes, Guerra, Segredos e música se necessário!"
+
+"Asseguro-lhe, bom Encadernador," afirma o magistrado, "que apesar de sua atual menor -estado entusiasmado, as pessoas desta vila são membros leais do império Soberano."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Levantando a mão pedindo silêncio, você caminha entre os camponeses. Talvez vendo você como uma possível fonte de salvação, talvez apenas aterrorizado com sua posição, os fazendeiros desordeiros ficam mais ou menos em silêncio e aguardam suas perguntas...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Faça mais perguntas sobre os invasores Refrão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Eles não disseram por que estavam na região, apenas que foram encaminhados em [url=glossary:vendrien's well]Poço de Vendrien[/url] há pouco tempo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Eles chegaram logo depois que você os ajudou em [url=glossary:vendrien's well]Poço de Vendrien[/url]. Não sei o que os trouxe aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Não sei nada sobre suas motivações ou razões para estarem aqui além de levar nossos grãos e gado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Diante dos aldeões reunidos, você declara sua intenção...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Declare um curso de ação...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Forçosamente romper o protesto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Solicite guardas adicionais de [url=glossary:tunon]Tunon[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Contato Vozes de Nerat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Deferir a um companheiro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Deixe-os.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Adotando o tom e os gestos autoritários que você aprendeu na rígida hierarquia da guerra, você manda os fazendeiros voltarem ao trabalho. A maioria obedece imediatamente, e apenas um punhado precisa de encorajamento físico mais severo.
+
+Com os camponeses dispersos, você volta sua atenção para os guardas do magistrado. Você grita com eles, exigindo que eles aprendam a manter a ordem sob sua vigilância para que não precisem de uma segunda visita de [url=glossary:tunon]Tunon[/url] Vinculador do Destino.
+
+Você deixa o assentamento em um lugar mais calmo e tranquilo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Você redigiu uma missiva ao Tribunal do Adjudicador no [url=glossary:bastard city]Cidade bastarda[/url] solicitando defensores adicionais para o acordo para protegê-lo de Refrão depredação. 
+
+Você continua sua jornada, confiando no Arconte da Justiça para reforçar as defesas da vila. Com certeza, uma carta de retorno o encontra na estrada, garantindo que a cidade será cuidada, mas expressando desapontamento por sua incapacidade de lidar com a situação sem solicitar a ajuda Tribunal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Você pergunta Lantry para ditar, e o enrugado [url=glossary:sage]Sábio[/url] tira tinta, pena e pergaminho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Você olha para seus companheiros, considerando de quem é a ajuda que deseja.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Você se vira e diz aos aldeões e ao magistrado para resolver o problema sem você. O Tribunal do Adjudicator não pode ser incomodado com cada pequeno problema que assola Terrato. O silêncio chocado segue você até a estrada, mas você ouve uma discussão renovada antes de chegar ao topo da próxima colina.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Aqueles malditos Refrão porcos, Vinculador do Destino," responde um dos fazendeiros, um homem de ombros largos e barriga vestindo túnicas rústicas de linho e lã.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Ter Sirin acalme-os com música.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Pergunte ao Verso para lidar com o Refrão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Ter Kills-In-Shadow divida a multidão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Escolha um curso diferente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Se você insistir, Vinculador do Destino." O Arconte da Canção sussurra baixinho no início, chamando a atenção de todos os presentes. Enquanto ela franze os lábios, a gema em seu cocar capta a luz do sol. Sua voz se eleva, aparentemente enchendo o ar de todas as direções, de alguma forma sustentando várias notas ao mesmo tempo.
+
+Ela solta as mãos, levantando-as suavemente, depois abaixando-as, e as reunidas acenam com a cabeça, os olhos seguindo os movimentos sutis de seus dedos . Olhos cerrados se acalmam, punhos cerrados se abrem e a raiva escoa dos ombros tensos. Com características plácidas, os aldeões se dispersam em direção a suas propriedades individuais.
+
+Sirin encerra sua música, faz uma leve reverência e sorri. Você acena para ela e continua sua jornada, deixando este assentamento para trás, outro testemunho da persuasão do Arconte da Canção.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Verse dá de ombros, mas aquiesce, e você passa uma noite caçando a gangue infratora. Verse supera facilmente seu líder em brigas brutais e exige que a gangue deixe o Nível Bastardo pelo [url=glossary:stone sea]Mar de Pedra[/url]. 
+
+"Orgulhosos de vocês mesmos?" ela rosna para o Coristas enquanto está sentada nas costas do líder, com a mão no cabelo dele, segurando o rosto dele na lama. "Acho assustar fazendeiros e encher seus rostos de gordura traz glória a [url=glossary:the voices of nerat]o Vozes de Nerat[/url]? Fazer vocês já são úteis pra caralho! Vá matar algum Homens-fera ou algo assim." Ela levanta a cabeça do líder da gangue e ele engole ar em suspiros profundos.
+
+Confia que os ataques ao Nível Bastardo vão diminuir, você continua sua jornada em direção ao seu destino.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Você pega um pergaminho e uma pena e coloca sua missiva no número Arconte dos Segredos, meio suspeitando que ele saiba do seu pedido antes mesmo de você escrever.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Exija o Arconte assuma a responsabilidade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Denuncie a gangue errante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Ameaçar ação judicial.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Peça-lhe para chamar a gangue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Você diz à assembléia para se separar e voltar para suas fazendas, uma ordem gritada que é recebida com gritos de volta. Sem ganhar força com as palavras, você invade a multidão, empurrando os camponeses para a lama, chutando as pernas debaixo deles, quebrando narizes com cotovelos jogados. Os camponeses se dispersam diante de sua agressão abrupta, fugindo da praça para a segurança de suas propriedades.
+
+Com um olhar final para o magistrado, você segue em frente, deixando a cidade fervendo atrás de você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>A Mulher-Fera os lábios se curvam em uma expressão que você apenas suspeita que seja um sorriso. Ela salta para a assembléia com um rugido, algemando qualquer camponês ao seu alcance e enviando-os para o chão. Os aldeões fogem da praça aterrorizados quando Mortes-In-Shadow agarra o fazendeiro de ombros largos e o força a cair no chão. Você segura o olhar dele enquanto ela o marca com seu cheiro. Ele fecha os olhos com vergonha, totalmente intimidado.
+
+Como o Caçador de Sombras sai do homem, você olha para o magistrado, seu olhar é uma ameaça tácita de fazer o mesmo com ele se este acordo exigir sua atenção novamente. Você pega a estrada da praça, o Mulher-Besta trotando ao seu lado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Em uma missiva concisa, você culpa o Arconte dos Segredos e seu exército pelos problemas na vila. Você exige que ele faça uma recompensa e forneça aos aldeões comida das lojas Refrão.
+
+Você envia a missiva e continua sua jornada.
+
+Mais tarde você recebe uma resposta de [url=glossary:the voices of nerat]o Vozes de Nerat[/url] elogiando longamente sua preocupação com o comum Tierman. Sua adulação é tão efusiva e extravagante que você rapidamente a identifica como sarcástica. O Arconte promete fornecer à vila alguns dos melhores espólios Refrão', uma promessa que o enche de pouca confiança.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Você dispara uma missiva relatando o esquadrão de Coristas a [url=glossary:the voices of nerat]o Vozes de Nerat[/url], assumindo que eles deveriam estar em algum lugar onde possam realmente lutar contra os inimigos do Arconte ao invés do Nível Bastardo conquistado camponeses. 
+
+Você continua sua jornada e logo em seguida recebe uma resposta do líder do [url=glossary:scarlet chorus]Coro Escarlate[/url]. Vozes de Nerat elogia sua atenção aos detalhes e agradece a você - excessivamente, você pensa, possivelmente ao ponto do sarcasmo - por ajudá-lo a encontrar seus cavaleiros perdidos. Ele promete que eles serão presos e enforcados pelos urubus por sua falta de criatividade e discrição.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Em uma missiva formal, você exige que o Arconte dos Segredos retire suas tropas ativas do conquistado Nível Bastardo, território reconhecido do Arconte da Justiça, para que não sejam presos e executados por abandono de serviço e seu general multado por não reter comando de suas tropas.
+
+Depois de enviar a missiva, você continua sua jornada. Pouco tempo depois, uma resposta vem de Cacofonia. [url=glossary:the voices of nerat]As vozes de Nerat[/url] promete controlar seus cavaleiros errantes e elogia efusivamente a dedicação sem fim de [url=glossary:tunon]Tunon[/url] Fatebinders à execução cega do Lei do Soberano.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Você entra em contato com seu aliado em uma missiva, informando-o sobre a gangue que percorre o Nível Bastardo e solicitando que ele os transloque para algum lugar que possa ser mais útil.
+
+Você continua sua jornada e [url=glossary:the voices of nerat]o #990000 A resposta de #[/url] vem mais rapidamente do que você esperava. Ele diz a você que enviou a gangue infratora para o [url=glossary:blade grave]Sepultura de Lâminas[/url], certo de que as barrigas que eles encheram com os despojos de seus ataques devem servir bem nos remanescentes de vegetação esparsa de Robusto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Você agarra o magistrado pelo colarinho e o sacode com força. Seus guarda-costas mantêm suas posições quando você os fixa com um olhar maligno. 
+
+"Você deixa seu povo morrer de fome?" você pergunta, com desprezo pesado em sua voz. "Que não era o que o Juiz tinha em mente quando o nomeou."
+
+O sangue escorre das bochechas redondas do homem enquanto ele gagueja uma resposta: "Claro que não, Binder! Mas se a comida não existe - não que os campos estejam em pousio - e quando existe é tomada, isso não sai... não é como se eu a tomasse! Eu também fico com fome."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Você caminha em direção ao magistrado, mas com um gesto ele posiciona os guardas entre vocês.
+
+"Nós dois servimos o tribunal do Árbitro, Vinculador do Destino. Estou certo de que o poderoso [url=glossary:tunon]Tunon[/url] ordenaria que você me ajudasse a concluir esta demonstração ilegal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Não faça mais perguntas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Você se afasta dos fazendeiros, caminhando pela terra pisada até o lado do magistrado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Quando você deu liberdade às gangues para saquear nossas terras," o fazendeiro cospe, "você nos roubou nossas próprias provisões, nosso próprio sustento! Como podemos cultivar se não podemos comer?"
+
+Várias vozes se reúnem em torno dele em uma sinfonia de gritos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Quem está fodendo o que agora?" Versículo ergue os olhos da unha que estava roendo. "De alguém comendo seus porcos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Quem está fodendo o que agora?" Versículo ergue os olhos da unha que estava roendo. "De alguém comendo seus porcos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Depois que as caravanas comerciais foram saqueadas durante a guerra, a comida escasseou," o magistrado intervém. "Algumas gangues locais, incapazes de comprar rações na cidade, tentaram comprar mercadorias aqui. O que os fazendeiros não venderam, o Coristas roubou. Tentei explicar que é pela conquista Soberano. Que as pessoas não têm ninguém para culpar, mas criminosos como o [url=glossary:unbroken]ininterrupto[/url] e o [url=glossary:vendrien guard]Guarda Vendrien[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Barik suspira e balança a cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

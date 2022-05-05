@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\00_recruits\00_cv_library_skilltrainer_phila</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Eu acidentalmente coloquei fogo em um pergaminho... minhas desculpas. Eu poderia usar algum espaço."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Vamos dobrar os elementos à nossa vontade hoje, Fatebinder?" Ela junta as mãos com ansiedade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Gostaria de treinar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Deixar.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Vem treinar?" Filia examina você. "Alguns de nós precisam mais do que outros."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Você precisa de instrução, Fatebinder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Um mago examina a biblioteca com uma expressão divertida. Demora um pouco para ela notar você. "Mm? Vinculador do Destino? Eu queria saber quando encontraria meu patrono."</DefaultText>
+      <FemaleText>Um mago examina a biblioteca com uma expressão divertida. Demora um pouco para ela notar você. "Mm? Vinculador do Destino? Eu queria saber quando encontraria minha patrona."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Ela se curva. "Philia do [url=glossary:forge-bound]Forge-Bound[/url]. Antes que você me pergunte o que um ferreiro está fazendo fora da forja... bem, estou fazendo uma pausa no trabalho com ferro, e esta biblioteca atende ao meu gosto no momento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Como você chegou até aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Qual é o plano agora que você está aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Ela olha por cima da borda do Pináculo. "Não tão facilmente quanto você, asseguro-lhe. Mas estou acostumado a trabalhar duro para conseguir o que quero."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Preciso de um tempo longe do esforço de guerra. Montando as mesmas espadas e capacetes, usando nosso intelecto e arte para equipar um exército..." Ela estremece. "Os [url=glossary:forge-bound]Forge-Bound[/url] são mestres em nosso ofício, mas somos artistas de coração, e esta guerra abusou de nossos talentos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Quero passar algum tempo entre esses livros, relembrando o que me interessou pelo arcano em primeiro lugar. Ensinar você deve cumprir um objetivo semelhante, embora eu não tenha certeza até começar." 
+
+Ela limpa a garganta. "Onde vamos começar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Você me diz. Vamos falar de mágica."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Deixar] "Não tenho tempo para isso. Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,1600 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\06_endgame\06_cv_finalarchondead</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>308</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>eco do martelo de [url=glossary:tunon]Tunon[/url] caindo de suas mãos ressoa por todo o Tribunal muito mais do que deveria. Assim como parece que o zumbido em seus ouvidos nunca vai acabar, o salão da justiça assume um silêncio assustador não ouvido desde que o Árbitro reivindicou seu assento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>A agitação do combate se estabelece em um ritmo lento e constante - uma sensação que você não percebe imediatamente é o batimento cardíaco e a respiração difícil. À medida que [url=glossary:bleden mark]Marca de mistura[/url] morre, a escuridão opressiva que encobriu seus passos recua até se assemelhar a nada mais do que sombras comuns.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Um silêncio sinistro cai sobre Cacofonia. As vozes elevadas dos recrutas [url=glossary:scarlet chorus]Coro Escarlate[/url] diminuem, e os gritos distantes de agonia são interrompidos. Sem liderança pela primeira vez, os chefes de gangue [url=glossary:the voices of nerat]990000#[/url] trocam olhares, subitamente cientes de quão frágil seu exército coletivo se tornou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Um vento forte sopra em Lareira de Ferro, e seu apito estridente dá voz à dor e consternação dos [url=glossary:disfavored]Desfavorecido[/url] soldados, cuja proteção de seus Arconte os abandonou tão repentinamente. A fortaleza nunca esteve tão quieta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>O que quer que tenha acontecido, um fato permanece claro - o mundo está com um Arconte e Terrato se esforça com o desconforto de preencher essa lacuna. Como a única figura de verdadeiro poder a testemunhar essa ausência, parece apropriado que você seja feito para ocupá-la como a última regra Arconte do Camadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"[url=glossary:graven ashe]Cinza esculpida[/url] caiu. Ele... ele era o melhor de nós, e agora..." Barik estuda sua manopla como se fosse a primeira vez. "Foi minha mão que lhe deu o golpe mortal? Vou me fazer essa pergunta pelo resto da minha vida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Agora você conseguiu, não foi? [url=glossary:the voices of nerat]As vozes de Nerat[/url] está morto, e as gangues estão prestes a cair no caos." Verso sorri, tanto divertido quanto perturbado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Mística das sombras foi caçada! Foi pego e esculpido até a morte - foi sangrado, morto e devorado pelo último de Caçadores de Sombras. Era uma presa boa e difícil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"E com isso, [url=glossary:kyros]Kyros[/url]' a régua fantoche não existe mais. O Soberano desculpa para a justiça foi repreendida." Eb bate seu cajado contra o chão do tribunal em triunfo. "Que dia é hoje? Devemos tomar nota disso como uma espécie de dia de libertação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Minha armadura está mais pesada do que antes, e mil serpentes estão mordendo minhas entranhas. Ashe se foi, junto com a proteção dele."
+
+Barik se volta para você com uma atitude ilegível.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Valeu a pena, Arconte? Um estalar dos dedos Soberano e cada um de vocês luta para destruir um ao outro? Não sei como é exercer seu poder, então só posso supor que você extrai uma alegria pervertida dessa experiência."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"É ótimo, na verdade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Não sinto nada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Não é da sua conta, balde de ferrugem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Meus sentimentos são meus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Ele balança a cabeça em desgosto. "Se você tem tanto prazer em matar um bom nortista, você não é melhor que um Fera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Não? Mais é uma pena. Se você não sentir prazer com isso, eu esperava que você sentisse culpa ou remorso, mas aparentemente isso é pedir demais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Sim, eu suspeito que você vai estar muito ocupado comandando outros de sua montanha de cadáveres para se envolver com nós humanos que lutamos para levantá-lo até o topo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Um sentimento que você nunca teria ouvido sair da boca de [url=glossary:graven ashe]Cinza esculpida[/url]. O General era cem vezes o líder que você é - mil. Ele sempre tinha tempo para suas tropas e amava cada um de nós."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"E, apesar de minhas dúvidas, estou relutante em me separar de você. Na verdade, eu gostaria de simplesmente te odiar o suficiente para ir embora. Meu dever com você é outro tipo de prisão." Ele suspira e acaricia sua testa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Você é a figura mais odiosa e repugnante que eu já conheci, e ainda assim não posso negar que você é uma força a ser reconhecida, e estou mais bem servido seguindo você do que qualquer outra pessoa. Temo o que você pode se tornar, mas ainda mais... temo a possibilidade de não estar lá para impedi-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "Isso é hora de nos separarmos. Sofri demais para suportar a morte de Ashe e continuar como se tudo estivesse como deveria estar. Despedida, Arconte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Seu vassalo usurpou [url=glossary:the voices of nerat]o Vozes de Nerat[/url], virando as gangues do Refrão para o seu lado. A legião [url=glossary:disfavored]Desfavorecido[/url] está despedaçada, e a Tribunal responde a você - fazendo de você o Arconte reinante do Camadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[url=glossary:graven ashe]Cinza esculpida[/url] e os filhos e filhas de elite do Norte são seus para comandar, o [url=glossary:scarlet chorus]Coro Escarlate[/url] não tem liderança, e o Tribunal responde à sua vontade. Você agora é o Arconte reinante do Camadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>A acreditar no Arconte, o [url=glossary:kyros]Kyros[/url] já despachou mais forças para o Camadas.
+
+Apesar de ter atendido a demanda [url=glossary:kyros]Kyros[/url]' apenas um Arconte, ou talvez como consequência lógica do cumprimento da ordem, o soberano agora deseja mais uma vez trazer a guerra ao Camadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Barik, devemos repetir nossa despedida em [url=glossary:vendrien's well]Poço de Vendrien[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Você veio comigo até aqui, Barik. Por que não um pouco mais longe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Barik. Será que Ashe nunca agiu de uma maneira que desafiou sua lealdade? Por que me manter em um padrão diferente?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Apenas vá. Se você não quiser ficar do meu lado, não vou forçá-lo a ficar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Um ranger de ferro e dentes sob o capacete sugere que Barik está fazendo careta. "Esse vez que não é simplesmente uma questão de lealdade. É uma questão de quem você é e o que você se tornou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Não ajuda que você emprestou sua força para o Refrão como um rato de estimação dançando para se divertir, mas isso é um assunto que deixo para sua consciência."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Pelo menos você foi homem o suficiente para desferir o Vozes seu golpe final... isso está acima de qualquer reprovação, embora eu não possa desculpar essa atrocidade."</DefaultText>
+      <FemaleText>"Pelo menos você foi mulher o suficiente para desferir o Vozes seu golpe final... isso está acima de qualquer crítica, embora eu não possa desculpar essa atrocidade."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Só porque você me usou ao longo desta sua campanha não significa que eu aprecie a oportunidade de continuar nessa linha! Com Ashe morto e o [url=glossary:disfavored]Desfavorecido[/url] sem líder, sou meu próprio homem e posso seguir meu próprio caminho!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Nó do banco 35</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Se [url=glossary:kyros]Kyros[/url] está despachando outro exército para o sul, não acho que eles tenham vindo acenando com seu estandarte. O Senhor Supremo provavelmente quer esquecer essa bagunça de guerra e se concentrar no esforço de limpeza. Isso nos torna dispensáveis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Você acha que [url=glossary:kyros]Kyros[/url] teria puxado o exército de volta se um Arconte diferente tivesse vencido? Nem eu. No que me diz respeito, o Soberano nos armou - [url=glossary:kyros]Kyros[/url] 'um Arconte deve governar' o absurdo foi apenas uma manobra de dividir e conquistar para nos desequilibrar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Se [url=glossary:kyros]Kyros[/url] fosse sério sobre o 'um Arconte para governar os Tiers', acho que estaríamos vendo um [url=glossary:edict]Edital[/url] de Júbilo ou. .. alguma coisa. Mas em vez disso, mais guerra... assim como tenho certeza que esse sempre foi o plano. Devo agradecer ao soberano por justificar minha visão cínica."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Assim a conquista nunca acaba. Mas não é isso que [url=glossary:kyros]Kyros[/url] queria? Todos os Camadas sob um banner?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"[url=glossary:prima]Prima[/url] chamado [url=glossary:kyros]Kyros[/url] não caçaria com tantas garras cortantes se [url=glossary:prima]Prima[/url] não estivesse querendo tirar sangue. Soberano enviou caça selvagem para matar Alfa extinto, sim-sim - deve lutar-vencer-a ameaça agora, ou o sofrimento sem fim se seguirá."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Acho que ambos sabemos que [url=glossary:kyros]Kyros[/url] está enviando reforços para apagar a desordem do Camadas. Esta disputa entre Arcontes deve ter sido [url=glossary:kyros]Kyros[/url]' maneira de garantir que a guerra civil terminasse sem paz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Já que meu chefe está morto, e eu estava alimentando ele com relatórios sobre seu progresso, acho que devo colocar alguma distância entre nós. Talvez eu comece uma nova gangue com algum da ralé. Ou talvez não."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Agora Alfa para Matar-in-Shadow é o Arconte mais poderoso de todas as Camadas-terras. É Archon quem pode até fazer [url=glossary:prima]Prima[/url] chamado [url=glossary:kyros]Kyros[/url] tremer de medo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Notado." Lantry murmura, sua pena traçando rapidamente um esboço das consequências da batalha. "[url=glossary:tunon]Tunon[/url] era o mais antigo Arconte - pela maioria das contas, o mais antigo. Eu não posso acreditar que eu estava aqui para testemunhar sua morte. Toda essa jornada foi um Cronista sonho tornado realidade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Ele parece surpreso com a própria noção, mas mantém sua posição. 
+
+"Eu não concordei com todas as decisões que o Grande General tomou, mas sua honra foi irrepreensível. Ele representou o melhor de Terrato, e agora é carniça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Se você acha que pode se comparar com o Grande General, sugiro que pense duas vezes. Não há comparação, e não me deixarei influenciar pela sua retórica. Qualquer truque que eles incutam em [url=glossary:tunon]Tunon[/url]Tribunal é inútil contra mim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Ashe não conseguiu proteger sua legião. Ele não merecia liderar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"A proteção de Ashe mimou a legião. Você será mais forte sem ele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Ashe's Aegis era uma limitação ao seu potencial. Eu veria isso como uma oportunidade para melhorar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"O General estava perdendo a coragem desde o [url=glossary:vendrien's well]Poço de Vendrien[/url]. Ele colocou o exército em perigo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Despedida, Arconte. Que nunca mais nos encontremos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Eu mal posso acreditar no que estou ouvindo... tal acusação contra Ashe é imperdoável, e ainda assim tem um toque de verdade que nem eu posso negar. A sua é a voz da experiência e do conhecimento, Arconte. Como você ousa provar que Ashe está errado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "Você vai longe demais! Ashe guiou e protegeu sua legião em centenas de batalhas e milhares de golpes mortais! Ninguém poderia ter pedido mais dele. Não [url=glossary:kyros]Kyros[/url], e não você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>O enorme soldado cruza os braços e olha para você. Apesar de suas palavras, você sente como se ele estivesse procurando uma razão para ficar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Eu te seguirei, Arconte. Talvez haja algum bem que você possa realizar com um soldado honesto ao seu lado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Você... ah, uma maldição para você, Arconte. Você posiciona meu amor por Ashe e meu amor pela legião de ferro um contra o outro. É uma coisa nojenta e manipuladora de se fazer... mas isso não impede que você esteja correto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Suas costas se endireitam, e Barik olha você com interesse ao invés de suspeita.
+
+"Claro que eu ouvi as críticas sobre Égide de Ashe do Refrão e outros... que a proteção Geral só nos reteve . Eu nunca tive motivos para ouvir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Ele flexiona os dedos e estuda as palmas das mãos. 
+
+"[url=glossary:graven ashe]Cinza esculpida[/url] queria que a legião resistisse, mas também queria que fôssemos fortes... pelo Norte e uns pelos outros. Tivemos a sorte de ter seu amor e generosidade, mas agora sabemos o que é preciso para ser forte sem ele!" Barik fecha os dedos em um punho, que ele bate contra o coração com orgulho. "Trabalhar e perseverança!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Eu venho lhe dizendo isso há meses, idiota." Verse balança a cabeça e sorri. "Tente seguir o conselho de uma mulher da próxima vez."</DefaultText>
+      <FemaleText>"Eu venho lhe dizendo isso há meses, idiota." Verse balança a cabeça e sorri. "Eu gagueja, ou você apenas ouve Arcontes melhor através dessas placas densas?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Sou mais forte que Ashe e não tenho interesse em protegê-lo de danos. Você será mais forte ao meu lado do que ao de qualquer outra pessoa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>[Mentira] "Durante a guerra, Ashe me confidenciou que ele estava ficando fraco com a idade. Ele duvidava de sua capacidade de liderar e temia que a legião reconhecesse sua fragilidade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Barik se ergue em toda a sua altura e exala uma respiração afiada. Por um momento você pensa que ele vai bater em você, mas o momento passa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"[url=glossary:vendrien's well]Poço de Vendrien[/url] foi um... um teste da capacidade da legião. O Arconte não poderia quebrar o cerco sozinho, e ele era muito orgulhoso e muito suspeito para confiar em [url=glossary:the voices of nerat]o Vozes de Nerat[/url]. É... possível que Ashe tenha nos custado mais vidas do que ele salvou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Estou enojado ao ouvir tais palavras da boca do maior poder neste reino... pois o que mais você é agora que Ashe se foi? Mais, estou com nojo de mim mesmo por acreditar em você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "Você pode ser um Arconte, mas até ter tantas temporadas decoradas quanto Ashe, não finja saber mais sobre liderança ou coragem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Barik se ergue em toda a sua altura e exala uma respiração afiada. Por um momento você pensa que ele vai bater em você, mas o momento passa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Estou enojado ao ouvir tais palavras da boca do maior poder neste reino... pois o que mais você é agora que Ashe se foi? Mais, estou com nojo de mim mesmo por acreditar em você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Estou reunindo minhas forças para a guerra que está por vir, e Ashe era muito míope para participar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Parece que você está ansioso demais para fazer inimigos onde quer que vá! Você matou o filho mais orgulhoso do Império do Norte. Sem dúvida, você está pronto para lutar contra o próprio Norte!"
+
+"Eu não farei mais parte de sua campanha sem sentido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Prefiro me separar em termos mais amigáveis, mas se é assim que você quer... adeus, Barik."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Ele estuda você sem dizer uma palavra, inclinando a cabeça tão sutilmente que sua armadura não faz nenhum dos rangidos característicos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Não posso acreditar que estou dizendo isso, mas não aceito que você desista de um soldado obediente e honrado tão facilmente quanto isso. Você não tem explicações ou desculpas em sua defesa? Você é um peão tão dedicado que a Ashe morte não foi nada mais para você do que uma resposta ao [url=glossary:kyros]Kyros[/url]' abate?"
+
+"Me convença... maldito seja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "Despedida, Arconte. Que nunca mais nos encontremos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Não preciso me justificar mais. Vá embora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Ele acena e suspira. Há gratidão nesta demissão. Mesmo que ele não dê voz a isso, Barik tem o prazer de deixar seu serviço.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Os generais que lideraram a vanguarda desta guerra estão mortos, e [url=glossary:tunon]Tunon[/url] Tribunal está sob seu controle. Com os poderes do precedente legal ao seu lado, você é a nova lei e ordem do Camadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Os Arcontes estão mortos, e seus seguidores estão em desordem, deixando você como o único Arconte do Camadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Com o Arconte da Guerra ao seu lado, você está confiante de que o punho da legião de ferro será suficiente para restaurar a ordem no Camadas. [url=glossary:the voices of nerat]As vozes de Nerat[/url] e [url=glossary:tunon]Tunon[/url] só teriam atrapalhado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Seu vassalo usurpou [url=glossary:the voices of nerat]o Vozes de Nerat[/url], virando as gangues do Refrão para o seu lado. A legião e a Corte não existem mais, o que significa que você agora é o Arconte reinante do Camadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>Nó do banco 89</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Você chegou até aqui agindo, enfrentando obstáculos e superando probabilidades impossíveis. Nada menos pode combater o perigo que agora se acumula em suas fronteiras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>O que quer que tenha acontecido, um fato permanece claro - o mundo está com um Arconte e Terrato se esforça com o desconforto de preencher essa lacuna. Como a única figura de verdadeiro poder a testemunhar essa ausência, parece apropriado que você seja feito para ocupá-la como a última regra Arconte do Camadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>O que quer que tenha acontecido, um fato permanece claro - o mundo está com um Arconte e Terrato se esforça com o desconforto de preencher essa lacuna. Como a única figura de verdadeiro poder a testemunhar essa ausência, parece apropriado que você seja feito para ocupá-la como a última regra Arconte do Camadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>O que quer que tenha acontecido, um fato permanece claro - o mundo está com um Arconte e Terrato se esforça com o desconforto de preencher essa lacuna. Como a única figura de verdadeiro poder a testemunhar essa ausência, parece apropriado que você seja feito para ocupá-la como a última regra Arconte do Camadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>O que quer que tenha acontecido, um fato permanece claro - o mundo está com um Arconte e Terrato se esforça com o desconforto de preencher essa lacuna. Como a única figura de verdadeiro poder a testemunhar essa ausência, parece apropriado que você seja feito para ocupá-la como a última regra Arconte do Camadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>A enormidade do que aconteceu ameaça esmagá-lo. Às vezes, você só pode dar um passo para trás e pensar em suas realizações como atos singulares e individuais - grãos de areia espalhados por uma grande e caótica praia que se estende além de qualquer horizonte conhecido.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"De qualquer forma, isso será problema meu." Ela olha para você com uma carranca persistente enquanto se prepara para sair.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Você já descobriu que eu era um espião do Vozes. Visto que meu trabalho está feito aqui, eu provavelmente deveria partir e fazer meu próprio caminho entre o resto do Refrão, ou encontrar alguma nova fronteira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Esperar, você estava me espionando?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Versículo, não posso espalhar terror sem você ao meu lado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Você prefere começar do nada e desistir do seu lugar no degrau mais alto da escada? Nós vamos, segundo para o topo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Boa sorte lá fora, Versículo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Ela esfrega a nuca. "Sim... aheh, esqueci de mencionar essa parte? As vozes está curioso sobre você desde que soube que você chegaria em [url=glossary:vendrien's well]Poço de Vendrien[/url] para quebrar o cerco."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Agora que ele está morto e você está vivo, posso dizer com certeza que ele não levou a sério o meu conselho - se ele tivesse um coração sob aqueles embrulhos imundos que ele chamava de roupas. Eu disse a ele para ficar fora do seu caminho, e que se envolver seria o fim dele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Ela ri. "Eu não vou precisar, mas agradeço que você diga isso. Obrigado por não me matar enquanto você se atrapalhava no caos desta guerra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Ela aperta os olhos para você e, em seguida, solta uma lufada de ar. "Nós estamos você realmente está prestes a me deixar ir? Se for esse o caso, você é o poder mais idiota no comando do Camadas que eu já conheci." 
+
+"Olhar... seria mais fácil para nós dois se eu ficasse, certo? Mas eu tenho que saber com certeza que você será um chefe melhor do que o Vozes. Eu mereço melhor e não troco por ninguém."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] Ela franze a testa com repentina indecisão, e então dá de ombros. "Vejo você, Vinculador do Destino... Arconte. É melhor eu não ficar por aqui, já que não vou me acostumar a chamá-lo assim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Ela pisca com surpresa e depois sorri, socando você no braço. "Você sabe exatamente o que me dizer, não sabe? Multar. Vou ficar por aqui tempo suficiente para ver sua guerra até o fim... ou apenas até que ela deixe de ser interessante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "Uma oferta tentadora. [url=glossary:the voices of nerat]As vozes de Nerat[/url] estava segurando minha lealdade por um fio. Ele comandava de um lugar de loucura com a mesma frequência com que fazia gênio, e mantinha os [url=glossary:scarlet chorus]Coro Escarlate[/url] juntos... mas em mais de uma ocasião, considerei apenas ir embora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Então que tal - o que você traz para a mesa que o Vozes não trouxe? Como você pode esperar superar uma das pessoas mais horríveis e repugnantes de Terratus?" Ela olha para você com expectativa e curiosidade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] era previsível no final. não sou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Estou acostumado a sujar as mãos. Não vamos perder tempo entretendo diplomatas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Eu posso ajudá-lo a se mover na sociedade. Apresentações podem ser feitas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Acho que não consigo convencê-lo. Despedida, Versículo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Esse é o ponto mais convincente que eu já ouvi..." Verse considera você com um sorriso estudioso. "Tudo bem, Arconte. Você tem um acordo. Vou ficar por aqui enquanto me diverte. Apenas tente manter as coisas interessantes, sim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "Você faz um bom ponto, não me entenda mal, mas estou começando a pensar que superei essa guerra. Eu estava o mais alto que pude, trabalhando para o próprio Arconte dos Segredos, e de alguma forma vivi para contar isso."
+
+"Sem ofensa, mas não tenho certeza se fica melhor do que isso. A menos que você possa me convencer de que a vida será mais interessante com você como chefe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Eu não sei." Sua sobrancelha se ergue enquanto ela examina você. "Muito bem. Eu suponho que você vai fazer. Apenas tente manter as coisas interessantes para mim, e devemos nos dar bem."
+
+"E... tente não subestimar o Vozes. Eu sei que ele está morto, mas você nunca sabe quantos de seus esquemas vão durar muito tempo depois que você ou eu morrermos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "Acho que você está dando muito crédito a si mesmo, Vinculador do Destino. Você não tem ideia dos planos que os Voices tinham em andamento. Só toco no assunto porque também não faço ideia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Ela franze a testa com indecisão repentina, e então dá de ombros. "Te vejo, Vinculador do Destino... Arconte. É melhor eu não ficar por aqui, já que não vou me acostumar a te chamar assim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Ela sorri. "Você promete? Porque eu não quero que você seja honesto comigo e se transforme em algum dignitário em pó. Estou nessa guerra por diversão."
+
+"Tudo bem, vamos embora, Vinculador do Destino... droga, Arconte! Eu nunca vou me lembrar de deixar isso claro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>Sua sobrancelha se enruga enquanto ela olha para você com preocupação. "Você bateu a cabeça ou algo assim? Porque eu não sei o que mais poderia fazer você pensar por um segundo que eu gostaria de estar vestido e desfilar como um dos nobres caídos circulando em torno de [url=glossary:tunon]Tunon[/url] Tribunal. " Ela passa o braço pelo nariz e cospe para o lado, acentuando o ponto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>[Conquista] "Depois que eu [url=lore:conq_cairnstribe]vingou sua gangue e deixou você capturar aqueles Bestas?[/url] Achei que devíamos um ao outro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Nunca houve um líder como o Vozes. Considere-me um substituto meio decente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Ela estremece com a memória indesejada. "Você me protegeu antes mesmo de nos conhecermos, não é? Isso é uma marca de um aliado que vale a pena manter, e um chefe que vale pelo menos mais uma chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Tudo bem, tudo bem. Você fez o seu caso. Acho que posso aguentar a sua presença por mais algum tempo. Apenas tente manter as coisas interessantes e nos daremos bem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Talvez você esteja certo. Eu tenho essa coisa contra me vender a descoberto, mas de vez em quando isso me faz definir expectativas fora de alcance." Ela suspira. "Acho que não podemos ser todos tão loucos e fascinantes quanto o Vozes, podemos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"As vozes foi fraco no final. Suas rachaduras estavam aparecendo. Eu não sofro de suas... desvantagens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>[Lie] "The Voices era um mentiroso magistral. Sempre direi a verdade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Verdadeiro, há algo a ser dito sobre você levar uma vida meio normal, embora eu suponha que isso esteja saindo pela janela agora que você é um Arconte." Ela bufa. "Pode ser os dias mais emocionantes estão por vir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Ela olha em seus olhos e não consegue decidir o que é que ela encontra lá. Verse franze a testa e balança a cabeça. 
+
+"Eu não tenho ideia do que fazer com isso. Cada instinto que tenho me diz para girar nos calcanhares e deixar você na minha poeira, mas há algo em você que parece... bem, tão manipulador quanto o Vozes." Ela se levanta e assente. "E isso é algo que posso apoiar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"O que [url=glossary:kyros]Kyros[/url] tem a ganhar fazendo isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Sei o que tenho que fazer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Consegui lançar um [url=glossary:edict]Edital[/url] localmente, mas talvez eu possa emitir um mais longe, para o Império do Norte onde os exércitos estarão se acumulando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Possivelmente nada, mas eliminar a hierarquia de alguns poucos ambiciosos Arcontes simplifica a cadeia de comando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Quando eu era chefe de gangue, às vezes eu batia no cara mais forte do mundo só para mostrar às pessoas que eu podia. Isso não é diferente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] não tem nada a ganhar deixando você viver, simples assim. Terratus é um lugar grande, e este canto de terra pode ser atacado novamente mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Imagino que [url=glossary:kyros]Kyros[/url] assume que todos os envolvidos com a conquista do Camadas são corruptos, traidores. É melhor se desfazer de sua tripulação se ela estiver tão contaminada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Até os predadores reconhecem outros predadores maiores - podem sentir o perigo de outras criaturas. [url=glossary:kyros]Kyros[/url] deseja matar sua maior ameaça a si mesmo, sim-sim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Como devo saber? Eu sou uma criança! Você é o Arconte. Tudo o que posso dizer é que [url=glossary:kyros]Kyros[/url] não tem o hábito de permitir que ninguém viva se puder desafiar o poder do soberano."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Nó do banco 148</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Se você acha que pode resolver isso com palavras, então eu me pergunto o quão bem você prestou atenção. [url=glossary:kyros]Kyros[/url] responderá a essa ameaça com violência, mesmo que seja apenas para enviar uma mensagem a outros aspirantes a novatos. Sem ofensa. Você precisa enviar sua própria mensagem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Nó em cascata 156</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Infligir tanto dano nas terras que conheço e amo... Não posso apoiar esta decisão, mas posso respeitar que [url=glossary:kyros]Kyros[/url] forçou sua mão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Tente levantar a voz para essa coisa feia Pináculo. Não faria mal tentar. Nós vamos, talvez pudesse - eu não sou o Arconte aqui. Mas eu digo vá em frente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Sim, mostre a eles o que você pode fazer! Devemos testar até onde sua voz pode ir através do Pináculos - sabemos que você pode afetar o Camadas, mas até onde esse seu dom chegará?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Essa é talvez a única mensagem que [url=glossary:kyros]Kyros[/url] vai ouvir e respeitar... e um bom bocado de destruição e morte vai desacelerar [url=glossary:kyros]Kyros[/url]' próximo lote de invasores."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Sim-sim! Deve atacar em [url=glossary:kyros]Kyros[/url]! Deve rasgar a garganta com garras místicas." Ela rosna, satisfeita com seu plano de caça. "O choro de Alpha é mais alto e as palavras místicas são mais mordazes em Pináculo da Montanha. Sim. Deve dar a pata para o topo de Pináculo e jogar [url=glossary:edict]Edital[/url] da mystic-stone chamada Ressonador."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Então vamos voltar para o Pináculo da Montanha. Se você vai enviar uma mensagem, precisa de algo para ajudá-lo a dizer direito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"[url=glossary:graven ashe]Cinza esculpida[/url] e sua legião são minhas para comandar. Eu deveria enviá-los para enfrentar essa ameaça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"A devastação arcana em uma escala sem precedentes soa como se fosse definir o tom certo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Então é uma guerra total com o soberano ou... a morte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Nó em cascata 149</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Agora não é hora de mostrar seu flanco ao inimigo, a menos que você planeje esfaqueá-los enquanto eles atacam!" Barik treme de raiva.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"A morte é sempre uma opção. Por que, você está interessado de repente?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Isso te surpreende? Eu realmente não vejo como o soberano toleraria a existência de um rival."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Considerando que Arcontes de menor poder são forçados a se submeter a [url=glossary:kyros]Kyros[/url], você pode tentar manobrar o soberano... mas você será perseguido até que um de vocês morra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"A vida é muitas vezes feita de escolhas simples, não é? Caçar ou morrer. Coma ou morra. Lute ou fuja ou morra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Não sou de sair sem um plano real, mas também não vou simplesmente me render. Você conseguiu todos até aqui, não é?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>Nó aleatório 181</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Sirin começa a cantarolar uma melodia suave e olha para você. Você tem a sensação de que ela quer falar com você em particular.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>A Mulher-Fera observa você, atenta e com uma devoção óbvia - sua ânsia por derramamento de sangue escurecendo a coloração de seus olhos carmesins.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Molhando a pena para escrever mais, Lantry faz uma pausa, com a testa franzida em pensamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Pelo menos... é provavelmente a melhor ideia, a menos que..." Eb bata no queixo em ruminação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Arrastando os pés e tentando não olhar em seus olhos, Verse parece ter algo a dizer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>Embora seja impossível dizer, você tem a nítida impressão de que Barik está franzindo a testa em dúvida.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"O que você está pensando, Sirin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"O que você está pensando, Kills-in-Shadow?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"O que você está pensando, Lantry?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"O que você está pensando, Eb?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"O que você está pensando, Verso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"O que você está pensando, Barik?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Tem certeza de que é uma boa ideia? Eu tenho meu poder desde que me lembro e ainda não estou completamente no controle dele. Você acha que pode mesmo fazer isso? O que se algo der errado?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Mulher-Fera está pronta. Chegou a hora de garantir a sobrevivência da tribo. Mas é Alfa pronto para a luta? É Alfa disposto a matar - mesmo [url=glossary:kyros]Kyros[/url] - para sobreviver? Mortes-in-Shadow precisa saber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Oh, estou apenas tentando acompanhar tudo. Eu escrevo rápido, mas não rápido o suficiente para ficar à tona dos eventos nos dias de hoje. O que vem depois? Vamos dizem que isso funciona, e o [url=glossary:edict]Edital[/url] interrompe o avanço do exército, o que vem depois?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Você acha que [url=glossary:kyros]Kyros[/url] tinha tudo isso em mente desde o início? Leva tempo para preparar um exército, então [url=glossary:kyros]Kyros[/url] deve ter planejado acabar com o Camadas antes mesmo de você proclamar seu [url=glossary:edict]Edital[/url]... plano desde que [url=glossary:graven ashe]Cinza esculpida[/url] e [url=glossary:the voices of nerat]o Vozes de Nerat[/url] tiveram sua pequena rixa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Eu não quero desafiar o que você está fazendo aqui, visto que o tempo é um fator, mas um [url=glossary:edict]Edital[/url]... uau. Eu me pergunto se você entende esse poder bem o suficiente para lidar com isso. Eu com certeza não. Se eu tivesse um grama do que você tem à minha disposição, provavelmente explodiria na minha cara e me ensinaria uma boa lição de humildade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Desculpas, Arconte... Eu estava me perguntando se você está realmente preparado para o que estamos prestes a fazer. Chovendo a morte em nossa terra natal... a própria perspectiva me dói, e ainda assim [url=glossary:kyros]Kyros[/url] nos colocou nesta posição impossível." Barik olha para longe. Mesmo que você não consiga distinguir suas feições, você pode dizer que ele está desconfortável com esse nível de introspecção.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>[Deixar.] "Tenho um [url=glossary:edict]Edital[/url] para lançar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>Barik paira à beira de dizer algo, e então deixa o assunto de lado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Verse respira fundo e o libera, mudando sua atenção para uma unha encravada em seu dedo indicador.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>Com um bufo alto, ela encolhe os ombros carnudos e cheios de cicatrizes e coça preguiçosamente as costelas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Sirin cruza os braços e faz um barulho baixinho de decepção.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Você tem alguma outra ideia?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Não sei. Eu nunca estive nesta posição antes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] envia força. Eu responderei à força na mesma moeda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"No momento? Não. E não estou dizendo para não fazer isso. Só estou dizendo que você está pronto para isso, porque isso vai exigir muito de você e, se algo der errado, você não é o único que vai pagar por isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Mas eu tenho. Eu estava tão perto de fazer [url=glossary:kyros]Kyros[/url] cometer suicídio e isso estragou tudo porque eu me distraí. Apenas certifique-se de que é isso que você quer fazer e, quando decidir, não deixe uma única dúvida entrar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Falou como um verdadeiro guerreiro. Mas às vezes as batalhas exigem mais sutileza do que força bruta. Lembre-se disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Você tem alguma outra ideia?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Lutar ou fugir são apenas opções. E Mata-in-Shadow não fugirá. Alpha deve lutar com garras místicas e presas místicas - deve uivar e arremessar [url=glossary:edict]Edital[/url] na tribo [url=glossary:kyros]Kyros[/url]'. É a melhor chance do bando sobreviver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Não sei. Eu nunca estive nesta posição antes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>Seus olhos vermelho-sangue se aguçam com um brilho assassino, mas a intensidade rapidamente diminui, e ela desvia o olhar com um grunhido áspero. 
+
+"Não terá que esperar muito mais tempo para fazer escolhas. Em breve - Alfa estará pronto ou Alfa morrerá."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] envia força. Eu responderei à força na mesma moeda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Bom. Mulher-fera gosta de força de Alfa morder, morder. Também vai lutar." 
+
+Ela lambe uma presa com a ponta de sua língua áspera e malva.
+
+"Vai sempre lutar - do lado Alfa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Fascinante. Acho que a próxima era do Crônica discutirá um período controverso de dois Senhores Supremos. Espero que você não esteja pensando em causar guerra e agitação por minha causa - eu aprecio o fato de que onde quer que você vá, a história é feita, mas eu não me oporia a escrever um pouco sobre dias chatos e pacíficos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Duvido que [url=glossary:kyros]Kyros[/url] recue de uma luta, mas o sentimento é observado. Você sangrou e sofreu nesta guerra, e ganhou o direito de governar essas terras como achar melhor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Oh," Lantry ri para si mesmo enquanto escreve seu ditado mais recente. "Às vezes esqueço que tudo isso foi imposto a você. Os sábios têm feito a coisa da morte fingida por séculos. Compararemos as notas mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Nós sempre assumimos que o Arcontes seria dividir o Camadas, mas considerando o quão mal os dois exércitos funcionaram... parece uma escolha estranha enviar Nerat e Ashe em uma missão, a menos que seu plano de longo prazo seja para que eles 'resolvam' um ao outro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Bom ponto! Com certeza parecia que foi escrito para incitar os generais a continuar a batalha, mas certamente criou o momento para alguém estar na hora e no lugar certo para despertar o Pináculo." Eb olha para o lado com um rosto pálido e nervoso. "Eu me pergunto se isso significa que [url=glossary:kyros]Kyros[/url] tem algum sentido misterioso do que está acontecendo com os Pináculos? Melhor não pensar nisso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"E é lógico que se o soberano fosse TÃO onisciente, você teria sido assassinado quando criança."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Você tem alguma outra ideia?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Eu sei uma coisa ou duas sobre reunir as gangues, mas isso exige mais preparação e sutileza do que nós." Verse franze a testa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Não sei. Eu nunca estive nesta posição antes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Nós vamos... não chegamos a essa posição por sermos muito fracos ou com medo de agir de acordo com nossos instintos. Se você acha que um [url=glossary:edict]Edital[/url] é o caminho a seguir - e se você pode lançá-los, por que não deveria ser? - então eu digo vamos em frente!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] envia força. Eu responderei à força na mesma moeda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Nesse caso, você vai arrasar. Posso dizer que estive lá e que ouvi o primeiro toque de uma corda de arco que mudou o destino desta guerra." Verse acena com um sorriso de auto-satisfação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Você tem alguma outra ideia?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"No momento não. Com quinze dias para descansar e treinar tropas de apoio, talvez eu consiga montar uma defesa capaz. Mas temo que não estejamos em condições de enfrentar uma legião renovada e bem abastecida por muito tempo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Não sei. Eu nunca estive nesta posição antes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Ninguém, suponho, mas aqui estamos. Somos excelentes em nos colocarmos no meio de circunstâncias difíceis, não é?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] envia força. Eu responderei à força na mesma moeda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Então boa sorte para você, Arconte. Esta será uma história que espero contar aos meus filhos um dia, embora não consiga imaginar onde isso acontecerá. Não no Norte, imagino..." 
+
+Barik se afasta de você em silêncio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>Seu companheiro o encara com uma mistura ilegível de medo e respeito que só pode significar uma coisa - você está prestes a realizar outro dos grandes feitos que vieram para defini-lo, só que isso ressoará em todas as pessoas de Terrato.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Parece que sou uma ameaça tão grande que preciso ser morto. Talvez eu devesse ficar lisonjeado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>Nó em cascata 252</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Se isso não for óbvio, então eu me pergunto o que [url=glossary:tunon]Tunon[/url] Tribunal até mesmo te ensinou sobre poder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Tudo o que sei é que você escalou uma montanha de Arcontes para chegar aqui, e isso deve ser suficiente para deixar qualquer um no limite. Nem mesmo [url=glossary:the voices of nerat]o Vozes de Nerat[/url] teria tolerado esse tipo de ambição."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Ah, então você é o farol do [url=glossary:kyros]Kyros[/url]' ódio que vai atrair ainda mais caos para nossas terras. Amável... talvez nunca tenhamos paz enquanto [url=glossary:kyros]Kyros[/url] viver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Parece que foi ontem que vivemos em um mundo onde apenas uma pessoa poderia proclamar Editais e forçar Arcontes à submissão. Hoje temos mais de um. Imagino que isso possa irritar o soberano."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Alpha pode ligar palavras de poder - de fogo, escuridão e morte - à terra, ao oceano ou ao céu. Alfa pode morder inimigos com a mesma magia que antes só podia [url=glossary:prima]Prima[/url] chamada [url=glossary:kyros]Kyros[/url] nascimento para a vida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Você proclamou um [url=glossary:edict]Edital[/url] que não foi criado por [url=glossary:kyros]Kyros[/url]. Naquele momento, sua existência se tornou uma ameaça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Eu nunca pedi esse poder. O Senhor Supremo deve entender isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>Nó em cascata 252</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"O Senhor Supremo é capaz de misericórdia, mas raramente oferece qualquer sinal de simpatia ou companheirismo. Eu não diria que isso está chegando, Arconte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"Você não pede coisas, idiota. Você os leva. Nunca se desculpe por isso, e nunca pense por um segundo que [url=glossary:kyros]Kyros[/url] tolerará uma desvantagem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"E não pedi minha boa aparência e modéstia. Garanto-lhe que o soberano não se importa com suas intenções - importa apenas que você é uma ameaça, o porquê parece inconsequente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"Então não use! Costure cale a boca e se recuse a proferir um [url=glossary:edict]Edital[/url]. Quando você estiver cansado de se concentrar em seu potencial, [url=glossary:kyros]Kyros[/url] ainda estará caçando você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"Ninguém se torna mais forte implorando. Os mais difíceis tornam-se difíceis ao aceitar." 
+
+Ela ri e ofega, divertindo-se com sua relutância em aceitar sua posição atual. 
+
+"Não tente negar suas próprias ações e desejos a Mulher-Besta. Alpha tornou-se forte por escolha. Passou pelas fileiras - Arconte por Arconte - para desafiar [url=glossary:prima]Prima[/url] pelo próprio lugar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>"Eu nunca quis meu poder, mas isso nunca impediu que todos tentassem me controlar. As pessoas entendem o poder, não se importam de onde vem ou como funciona. Eles só querem controlá-lo ou destruí-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"Em seu estado atual, você estaria jogando uma pedrinha contra uma avalanche. [url=glossary:kyros]Kyros[/url] tem a vantagem aqui e alguns soldados não vão parar esse exército."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"Gostaria de ver os blindados morrerem, lutando pela da mulher-fera sobrevivência." Ela ronrona um som gutural e ansioso ao pensar nisso. "Mas não pense que apenas blindados de ferro serão rápidos ou suficientes para proteger Alfa e mata-in-Shadow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Por que resolver com espadas o que você poderia servir com poder arcano? A legião viu três anos de guerra e uma mudança de liderança - eles são uma poderosa força de combate, mas não no momento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"Isso apenas atrasaria o inevitável - mais exércitos se seguirão. Por que jogar soldados no problema quando você tem o poder de lançar um [url=glossary:edict]Edital[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"Mesmo com Ashe proteção para apoiá-los, tenho a impressão de que a legião precisa de um longo descanso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Eu devo advertir contra isso. Não é que a legião seja incapaz, mas [url=glossary:kyros]Kyros[/url] tem uma iniciativa que nem nós conseguimos superar com força de armas. Temo que algo mais decisivo esteja em ordem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>Seus seguidores olham para você com expectativa e impaciência.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>Nó do banco 276</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"O [url=glossary:scarlet chorus]Coro Escarlate[/url] segue minhas ordens. Eu deveria desencadear a multidão uivante contra essa ofensa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>Nó em cascata 156</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Eu não os colocaria contra novos inimigos tão cedo. Eles precisam de treinamento antes de poderem enfrentar um exército de elite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"Eh. É um plano que podemos usar no futuro, mas o Refrão está em terreno instável. A mudança na liderança provavelmente atingiu a pele de mais de um chefe de gangue, e os novos recrutas ainda precisam se recuperar. Eles não estão prontos para a batalha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Isso apenas atrasaria o inevitável - mais exércitos se seguirão. Por que jogar soldados no problema quando você tem o poder de lançar um [url=glossary:edict]Edital[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"Mas você estaria jogando recrutas cansados e exaustos em uma batalha ainda maior... o Refrão precisa descansar - talvez algum treinamento também - se eles forem uma ameaça séria."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"Gostaria de ver muitos humanos com cheiro de podre morrerem, lutando pela da mulher-fera sobrevivência." Ela ronrona um som gutural e ansioso ao pensar nisso. "Mas estou pensando que Refrão sozinho não será forte o suficiente para proteger Alfa e mata-in-Shadow por muito tempo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"Tanto quanto eu adoraria vê-los destruídos e tão relutante como eu sou de dizer isso - nós precisamos deles. Se você enviá-los contra [url=glossary:kyros]Kyros[/url] agora, eles serão obliterados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Eu construí uma coalizão para resistir a ameaças como essas. Vamos enviá-los para a batalha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>Nó em cascata 156</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"Tiersman enfrentando [url=glossary:kyros]Kyros[/url]? Por favor. Eles não conseguiam ficar de pé sozinhos até você aparecer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"Isso seria como enviar pás cheias de gravetos para uma forja. Tenho certeza de que eles vão brilhar brilhantemente, mas o fogo sempre vence." Verse balança a cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"Você construiu uma coalizão para tirar os invasores de nosso solo - você está sugerindo que voltemos ao caminho da guerra quando ainda estamos machucados por anos de luta. Talvez use seu novo presente para o [url=glossary:edict]Edital[/url] em vez de jogar vidas no problema."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"Deixando de lado a questão dos números... seus súditos estão ensanguentados por esta longa guerra - se comprometer com mais batalhas é uma proposta perdida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"Alfa enviaria a própria matilha para morrer? E então? Quando humanos chamados Tiersmen, quando guerreiros fracos, choramingando e com carapaça de bronze morreram - quando até mesmo os mais fortes Mulheres-feras morreram - e daí? O que vai Alfa fazer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"Você construiu essa coalizão para lutar contra um exército, não para enfrentar o poder do Império do Norte. Seria desmontado mais rápido do que você construiu se você o enviasse contra [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>A acreditar no Arconte, o [url=glossary:kyros]Kyros[/url] já despachou mais forças para o Camadas.
+
+Apesar de ter atendido a demanda [url=glossary:kyros]Kyros[/url]' apenas um Arconte, ou talvez como consequência lógica do cumprimento da ordem, o soberano agora deseja mais uma vez trazer a guerra ao Camadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>Há pouca dúvida de que [url=glossary:kyros]Kyros[/url] geralmente sabe o que você é capaz de fazer, mas é lógico que o Soberano está na mesma situação que você - incerto da verdadeira medida do Editais que você pode lançar.
+
+Não importa o que você possa oferecer como aliado, você sabe que [url=glossary:kyros]Kyros[/url] não tolera nem a menção de um desafiante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"Os Arcontes responsáveis por esta campanha estão todos mortos. Não faria [url=glossary:kyros]Kyros[/url] ser mais bem atendido negociando comigo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>Nó em cascata 156</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>"Tenho certeza de que você pode fazer um argumento convincente a partir de um cepo, mas não pretendo segui-lo até lá. Vamos supor por um segundo que o exército que se aproxima está vindo para fazer o que os exércitos fazem de melhor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"Por que [url=glossary:kyros]Kyros[/url] ouviria suas demandas quando destruí-lo é mais seguro? Você não tem alavancagem no soberano. Você ecoou [url=glossary:kyros]Kyros[/url] poder, mas quero dizer... não é como se você estivesse balançando um maior [url=glossary:edict]Edital[/url] ao redor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"A história de [url=glossary:kyros]Kyros[/url] é de ultimatos e guerras... mas a história também é desprovida de qualquer lançador rival de Editais. Ou pelo menos, desprovido de qualquer registro deles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"Negociar? Não. Que predador negocia com sua própria presa?! Humanos são criaturas tão estranhas - estão sempre tão ansiosos para morrer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>"Você removeu sozinho qualquer outra pessoa que poderia ter ficado com você contra [url=glossary:kyros]Kyros[/url]. Um solo em potencial Arconte contra o poder dos [url=glossary:kyros]Kyros[/url]' exércitos? Seria você negocia com você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"O tribunal de [url=glossary:tunon]Tunon[/url] está do meu lado. Posso argumentar que esta invasão é ilegal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>Nó em cascata 156</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] define o que é lícito, e tenho certeza de que o Soberano tinha um plano em prática se [url=glossary:tunon]Tunon[/url] alguma vez se mostrasse desleal. Agora provavelmente há alguém ainda pior se preparando para ocupar seu lugar no Norte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>"Discutir. Desde quando [url=glossary:kyros]Kyros[/url] realmente se importa com a lei no que se refere ao trabalho?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"Se aprendi alguma coisa, é que o Tribunal existe para manter o [url=glossary:kyros]Kyros[/url] no poder. Acho que o poder de [url=glossary:tunon]Tunon[/url] de interpretar e alterar arbitrariamente as regras não funciona na cadeia de comando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>"[url=glossary:tunon]Tunon[/url] é um colosso de poder para o mero mortal, mas ainda apenas uma marionete para [url=glossary:kyros]Kyros[/url]. Tal gesto não faria sentido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>Ela coça a parte de trás de sua crina emaranhada, confusa. "Mas todos os argumentos levam a brigas, sim - e levam a desafios pelo domínio. A Mulher-Besta não entende. O humano soberano ouvirá as leis de [url=glossary:tunon]Tunon[/url]? Ou da Alfa? A Mulher-Besta não acha que existe nenhum [url=glossary:prima]Prima[/url] que se submeteria tão facilmente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>"Eu morei no palácio tempo suficiente para saber que [url=glossary:kyros]Kyros[/url] é a lei. Se você desafiar o soberano, estará sempre errado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>Qualquer que seja o poder que corra em suas veias, é uma fração do poder Soberano - mas se você é um décimo, um centésimo ou o verdadeiro herdeiro desse poder, ainda não se sabe.
+
+É necessária uma demonstração de poder. Tudo o que resta é reunir forças para impor sua vontade à paisagem e esperar que [url=glossary:kyros]Kyros[/url] receba a mensagem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"A guerra civil acabou, e eu praticamente uni o Camadas sob minha bandeira. O que mais pode [url=glossary:kyros]Kyros[/url] querer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>Nó em cascata 252</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"Seu pináculo vem à mente. Você se acostumou a reivindicar lugares de poder que mal entendemos. As pessoas começarão a questionar como conseguimos isso, e você pode apostar que o Soberano não terá nada disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"Não existe poder compartilhado na Soberano hierarquia, e vocês dois estão muito perto de se esfregar. [url=glossary:kyros]Kyros[/url] não quer competição. Eu sei que não."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"Mais guerra, obviamente. Pode ser [url=glossary:kyros]Kyros[/url] odeia a ideia de não haver mais nada para conquistar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>"É melhor assumir que não há limite, nem entendimento, para o que [url=glossary:kyros]Kyros[/url] quer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>"Shadowhunter sempre soube - [url=glossary:kyros]Kyros[/url] caçaria Mulheres-feras extinto. Mataria todos os kith e todas as tribos que não podem ser possuídas por humanos chamados soberano." 
+
+Ela rosna com o pensamento.
+
+"Alfa para matar-in-Shadow não pode ser controlada por [url=glossary:kyros] Kyros[/url] - então Alfa deve ser ferido, então deve ser caçado e morto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"Você não pode ser tão ingênuo! Você uniu o Camadas - você. Não os exércitos que [url=glossary:kyros]Kyros[/url] enviou. Um único Vinculador do Destino. Você sozinho realizou algo que uma pessoa nunca deveria ter sido capaz. O que mais pode [url=glossary:kyros]Kyros[/url] querer? Suacabeça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>Seu companheiro olha para você com expectativa e impaciência.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"Sou o único Arconte que resta, fiz o que [url=glossary:kyros]Kyros[/url] queria."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>Embora você tenha conseguido lançar um [url=glossary:edict]Edital[/url] de Incêndio, as chamas não duraram indefinidamente, esperando por alguma cláusula mística para apagar as chamas - como foi o caso de [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] de Incêndio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>O chão treme ao seu comando, mas os terremotos causados por seu [url=glossary:edict]Edital[/url] de Pedra não fraturaram a paisagem de [url=glossary:vendrien's well]Poço de Vendrien[/url], e os tremores se dissiparam em poucos dias. Em contraste, [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] de Pedra teria derrotado o [url=glossary:stone sea]Mar de Pedra[/url] indefinidamente tinha [url=glossary:cairn]Cairn[/url] continuou a permanecer na meia-morte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>clima se curva ao seu capricho e as tempestades se reúnem ao seu comando, mas seu [url=glossary:edict]Edital[/url] de Tempestades era, comparado a [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] de Tempestades que devastou Robusto, uma tempestade de curta duração - furiosa de se ver, mas sem os ventos sem fim que [url=glossary:kyros]Kyros[/url]' conjurou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>Nó em cascata 314</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>"O que [url=glossary:kyros]Kyros[/url] 'pedido' e o que [url=glossary:kyros]Kyros[/url] 'desejado' parecem estar em desacordo. Uma curiosa estratégia de liderança, matar seus melhores generais..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>"A autopreservação pode fazer você fazer coisas incríveis. Talvez precisemos nos lembrar disso nos próximos dias, porque essa guerra claramente não está tão 'acabou' quanto pensávamos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"Sou o único que não está totalmente surpreso com isso? Eu aprecio que [url=glossary:kyros]Kyros[/url] veja todos os assuntos - do camponês ao Arconte, como descartáveis e inúteis. A igualdade é importante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>"Assim como muitos assuntos mortos do soberano. Acho que [url=glossary:kyros]Kyros[/url] sabia que o Arcontes nunca funcionaria em conjunto - melhor deixá-los matar uns aos outros do que ensiná-los a cooperar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>"Soberano Humano é o mais temível dos Mulher-Besta-caçadores. Matou tribos inteiras através de traição e mentiras." 
+
+Ela bufa, mas não há humor, apenas amargura por trás do som. 
+
+"A luta não terminou. [url=glossary:kyros]Kyros[/url] é mais implacável e inteligente, é melhor, caçador mais cruel do que morto Arconte chamado Vozes, sim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>"Interessante como isso não parece importar para [url=glossary:kyros]Kyros[/url]. Você acabou de remover todos que poderiam desafiar a regra Soberano. Remover um inimigo é muito mais fácil do que lutar contra todos..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>Qualquer que seja o poder que corra em suas veias, é uma fração do poder Soberano - mas se você é um décimo, um centésimo ou o verdadeiro herdeiro desse poder, ainda não se sabe.
+
+É necessária uma demonstração de poder. Tudo o que resta é reunir forças para impor sua vontade à paisagem e esperar que [url=glossary:kyros]Kyros[/url] receba a mensagem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>"O que NÓS temos é algo como o equivalente arcano de um grande martelo com seu nome estampado em sua extremidade, e você é o único que sabe o quão longe e com que força você pode girá-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>"Se houver uma maneira mais clara de dizer a [url=glossary:kyros]Kyros[/url] para se afastar do seu território, não consigo pensar nisso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"Não quero discutir isso. Vou considerar minhas opções no meu caminho para o Pináculo da Montanha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>Sirin zomba levemente, mas rapidamente se recupera. "Claro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>"Não quero discutir isso. Vou considerar minhas opções no meu caminho para o Pináculo da Montanha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>"Não quero discutir isso. Vou considerar minhas opções no meu caminho para o Pináculo da Montanha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>"Não quero discutir isso. Vou considerar minhas opções no meu caminho para o Pináculo da Montanha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>Ela coça a ponta do nariz, intimidada em obediência.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>"Oh, eu tinha minhas suspeitas. Eu me pergunto se um jovem [url=glossary:kyros]Kyros[/url] também teve que lidar com o que se faz com o poder do [url=glossary:edict]Edital[/url]. Imagino que não haja nenhum livro sobre o assunto que se leia casualmente. Qualquer maneira, será divertido ver onde esse poder o leva."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>"Provavelmente uma mentalidade saudável. Quando penso no quanto mudei na minha vida, imagino envelhecer vários séculos... Tenho certeza de que o soberano pensa de maneiras e escalas de tempo muito diferentes do que nós."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>"Ei, longe de mim atrapalhar o novo Arconte. Com tudo o que aconteceu, achei que você gostaria de um momento para pensar sobre as coisas." Verse encolhe os ombros. "Tenho do seu jeito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>"Eu... entendo. Você tem muito a considerar, e eu estou apenas no seu caminho. Vamos embora, então. Eu não gostaria que você demorasse mais um segundo nessa represália."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>"Se você está confiante em nosso curso atual, isso ajudaria muito a satisfazer minhas dúvidas. Não há nada... ou seja, não tenho nenhuma estratégia, nenhum quadro de referência, para combater esta ameaça de forma eficaz." Ele suspira. "Que ficar sozinho me envergonha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>"O que fazemos a seguir não passará despercebido. Ele estabelecerá o precedente para os próximos séculos, sobrevivendo a todos os nossos muitos anos em Terrato combinados. Para não colocar mais pressão em seus ombros." Barik ri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>À medida que o último Arconte cai sob sua vontade, você pode sentir um vazio no Camadas começar a se preencher com uma nova presença - a sua. Contra todas as expectativas, você derrotou ou subjugou todos os poderes responsáveis pela guerra e caos neste reino caído. Você permanece quase incontestável, tendo cumprido o decreto de que apenas um Arconte pode governar o Camadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>Antes que você possa fazer este ataque de retaliação, Arri e o resto de sua coalizão em [url=glossary:ascension hall]Salão da Ascensão[/url] vão querer um relatório sobre seu progresso e sua intenção para o futuro do Camadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>"Reunir forças, marchar para o norte, continuar até [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>"Os níveis são meus. Se [url=glossary:kyros]Kyros[/url] me deixar em paz, governarei aqui em relativa paz e sossego."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>"Encontre alguém que se pareça comigo e mande matá-lo publicamente... Eu realmente não quero nada disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>"Estou descobrindo as coisas à medida que prossigo. Você ainda não entendeu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>"Justo o suficiente. Acho que vou ter que acompanhar e descobrir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>"Tenho potencial para derrubar o soberano, preciso perseguir meu poder o mais longe que puder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>"Faça Ashe e Nerat parece que eles poderiam se dar bem? Parece como se essa conquista estivesse condenada desde o início."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>"Estou começando a achar que a demanda para capturar [url=glossary:ascension hall]Salão da Ascensão[/url], base do Pináculo da Montanha, não foi coincidência."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>"Se [url=glossary:kyros]Kyros[/url] soubesse o que estava por vir, isso significaria saber que eu teria poder para lançar o [url=glossary:edict]Edital[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>"Desisti de tentar especular sobre as [url=glossary:kyros]Kyros[/url]' motivações."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

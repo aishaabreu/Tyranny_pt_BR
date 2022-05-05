@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\01_cv_mattias_duskwatch</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Obrigado por sua ajuda em Junção do Trapper, Vinculador do Destino. Alguma sorte em encontrar o Insígnia Firme?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ou a tempestade arruinou minha visão ou você tem a Insígnia Inabalável!" Mattias bate em seu ombro. "Desde a o [url=glossary:unbroken]ininterrupto[/url] veio junto, nunca estivemos tão perto da verdadeira vitória e do fim do [url=glossary:edict]Edital[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Nossas forças esperaram por esta oportunidade de suas posições na Posto de Sentinela parede externa." Ele se vira para Mattias. "Vou mandar um recado para garantir que estejam preparados para sua chegada, senhor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"O que posso fazer para ajudar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Não diga nada.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Conheça nossas forças em Posto de Sentinela. É hora de retomarmos a sede do poder do reino, despacharmos Straydus Herodin e nos prepararmos para a longa luta contra [url=glossary:kyros]Kyros[/url]. Sem dúvida, precisaremos de suas habilidades no campo de batalha, porque todo lutador competente no [url=glossary:blade grave]Sepultura de Lâminas[/url] está prestes a convergir para o Posto de Sentinela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Como se você já não tivesse feito o suficiente?" Ele bate em seu ombro novamente e solta um grito estridente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"A insígnia é nosso! Finalmente, Posto de Sentinela está ao seu alcance."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

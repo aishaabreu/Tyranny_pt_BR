@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\vx1_12_lantry\vx1_12_cv_ambush</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Já era hora! Você percebe como é difícil fazer com que sua gangue apenas se sente em uma emboscada e ESPERE? Sem uma rotina diária ou briga, esse heterogêneo é um bando teimoso. Tudo bem princesa, você me deve uma dívida de sangue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Um velho coro sócio seu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Ataque] "Vamos pule para as coisas ficando feias."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Devo perguntar como vocês dois se conhecem?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Você vem aqui em escarlate reclamando de dívidas passadas? Não te devo nada. E agora você está invadindo o único canto de Terrato I chame de meu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Sábio Atormentado? Como você ofendeu o Vozes tão caro a ponto de ganhar um nome tão terrível?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Você poderia... dizer isso? Hadros Janevili aqui era o fanfarrão da Escola da Ira Selvagem no dia anterior a ela-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Eu assumi que esse tolo morreu na guerra, mas... o pior da humanidade parece ter uma maneira de encontrar refúgio no Refrão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Esse nome não tem sentido, agora sou Savant Atormentado, discípulo do glorioso Vozes de Nerat!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] acredita que você sobreviveu à sua utilidade. Ficarei muito feliz em quebrar seus velhos ossos." Com um apito estridente, o Cantador de Sangue sinaliza um ataque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Princesa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Você se disfarça uma vez... torna-se um tópico recorrente." Lantry balança a cabeça com um aceno de mão frustrado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Por favor, vá embora, para que as coisas não fiquem feias."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

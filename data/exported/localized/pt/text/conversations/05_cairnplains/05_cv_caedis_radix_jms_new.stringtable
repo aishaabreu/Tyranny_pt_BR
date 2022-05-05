@@ -1,0 +1,1301 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\05_cairnplains\05_cv_caedis_radix_jms_new</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>229</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Vinculador do Destino." O soldado o saúda com o tapa de um punho carnudo na armadura de bronze. "Tenente Caedis, ao seu dispor, senhor."</DefaultText>
+      <FemaleText>"Vinculador do Destino." O soldado o saúda com o tapa de um punho carnudo na armadura de bronze. "Tenente Caedis, ao seu dispor, senhora."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Esse é o Comandante Ironcore para você, irmãozinho. E você também, Vinculador do Destino." A elite [url=glossary:iron guard]Guarda de Ferro[/url] lança um olhar de aço em sua direção sem lhe oferecer uma saudação. "Perdoe-me se não tenho tempo para entreter brincadeiras ociosas. Estamos em uma campanha da mais alta importância. Tenho certeza de que você entende."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ashe me enviou para ajudar em seus esforços para solidificar nosso domínio no [url=glossary:stone sea]Mar de Pedra[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Deixar] "Estou apenas de passagem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Então você vem com um propósito." 
+
+O [url=glossary:iron guard]Guarda de Ferro[/url] volta o peso esmagador de sua atenção para você, fortalecido pela magia e pela austeridade de sua determinação. Depois de um momento, a severidade de seu escrutínio desmorona lentamente, e ele acena com a cabeça como se para uma decisão tácita.
+
+"Eu seria um tolo se recusasse a ajuda de um Vinculador do Destino, especialmente um tão renomado. Aceito qualquer ajuda que possa adquirir para me unir com meus Tremedores de terra em [url=lore:Howling_Rock]Rocha Uivante[/url] e defender o forte que eles ergueram em torno dos restos mortais de [url=glossary:cairn]Cairn[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"O que o comandante está tentando dizer, é que devemos ter você." Caedis resmunga, lançando um olhar aguçado para seu irmão. 
+
+"Chegar a [url=lore:Howling_Rock]Rocha Uivante[/url] é a parte mais fácil. Só que não tem sido tão fácil. Fomos atacados por forças Refrão e Bestas que vão despedaçar você membro a membro mais cedo do que você pode piscar. Eles são filhos da puta sanguinários, marque minhas palavras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Não temo nem homem nem Fera. Vou abrir caminho para Rocha Uivante, independentemente de quem estiver em nosso caminho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Isso é o que eu gosto de ouvir, senhor." 
+
+Habilmente, ele saca sua espada e, agachado, esculpe um mapa básico no solo coberto de lodo. 
+
+"Rota mais rápida através de [url=lore:StoneDown]Desfiladeiro de Pedra[/url] - claro, a área está repleta de Coro e feras, igualmente."</DefaultText>
+      <FemaleText>"É o que eu gosto de ouvir, senhora." 
+
+Habilmente, ele saca sua espada e, agachado, esculpe um mapa básico no solo coberto de lodo. 
+
+"Rota mais rápida através de Desfiladeiro de Pedra - claro, a área está repleta de Coro e feras, igualmente."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Abra um caminho para nós, e nós o seguiremos de perto." Ele inclina a cabeça para você em boa sorte. "Nos leve até lá inteiros, e eu nomearei minha espada larga em sua homenagem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Entendido. Estarei a caminho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"O que você e seu esquadrão estão fazendo, posicionados no meio do [url=glossary:stone sea]Mar de Pedra[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Como se isso fosse acontecer." Ele acena com a mão desdenhosa. "Meu irmão é um sonhador, embora suas fantasias sejam muitas vezes insípidas e mal elaboradas." "Estamos a caminho de [url=lore:Howling_Rock]Rocha Uivante[/url] para reforçar nosso forte e a Tremedores de terra proteção # Restos de 770002#Cairn[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Caedis pigarreia com um som meio cortante, meio gargalhada. Ele se curva em atenção preguiçosa, uma mão descansando confortavelmente no punho de sua espada larga.
+
+"Eu humildemente peço desculpas por nós dois. Mas se não se importa que eu pergunte, o que o trouxe até aqui, senhor?" 
+
+Ele inclina a cabeça para indicar a extensão de pedra atrás dele. "Certo, ela é bonita, mas não se deixe enganar por esses grandes picos. A terra é um emaranhado de perigos."</DefaultText>
+      <FemaleText>Caedis pigarreia com um som meio cortante, meio gargalhada. Ele se curva em atenção preguiçosa, uma mão descansando confortavelmente no punho de sua espada larga.
+
+"Eu humildemente peço desculpas por nós dois. Mas se não se importa que eu pergunte, o que a trouxe até aqui, senhora?" 
+
+Ele inclina a cabeça para indicar a extensão de pedra atrás dele. "Certo, ela é bonita, mas não se deixe enganar por esses grandes picos. A terra é um emaranhado de perigos."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Ele sacode um polegar, sua luva coberta de poeira e sangue, em direção à montanha de um homem atrás dele. "Não vai fazê-lo admitir, mas Base também é."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"O que exatamente são 'estas peças'? E como eles são perigosos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"O [url=glossary:stonestalkers]Perseguidores de Pedras[/url] chama este lugar de [url=lore:JaggedMaw]Santuário de Boca Recortada[/url] por causa das formações de cristal. Se os homens-fera não te matem, os constantes terremotos e quedas íngremes vão muito bem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Estamos semanas na operação de escolta de fogo e danação. Eu diria que recebi o detalhe como punição, mas o Em geral afirma que ele me escolheu por causa desse idiota ser meu parente. Ele pensa Radix'leu me escuto quando digo que ele está prestes a cair de um penhasco."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Fique alerta ao lidar com o Homens-fera, senhor. Eles podem ser muito agressivos."</DefaultText>
+      <FemaleText>"Mantenha-se alerta ao lidar com o Homens-fera, senhora. Eles podem ser muito agressivos."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Fale, senhor."</DefaultText>
+      <FemaleText>"Fale, senhora."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Não posso agradecer o suficiente, senhor. Você não sabe o mundo de diferença que isso faz. Vamos nos preparar para sair."
+ 
+Caedis dá um soco no peito em despedida. "Holler se você precisar de nós, mas não conte conosco para salvar sua bunda. Nosso dever é proteger os 'shakers' para que fiquemos um pouco atrás."</DefaultText>
+      <FemaleText>"Não posso agradecer o suficiente, senhora. Você não sabe o mundo de diferença que isso faz. Vamos nos preparar para sair."
+ 
+Caedis dá um soco no peito em despedida. "Holler se você precisar de nós, mas não conte conosco para salvar sua bunda. Nosso dever é proteger os 'shakers' para que fiquemos um pouco atrás."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"O que você pode me dizer sobre a morte de [url=glossary:cairn]Cairn[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Só que ouvi dizer que ele ainda não morreu. E eu quero dizer isso. Você pode ouvi-lo à noite, estremecendo e gemendo como o vento através das montanhas." 
+
+Ele se move e recoloca o peso de seu terno pesado. "Os 'shakers poderiam lhe dizer melhor por que eles o estão tratando - mantendo-o vivo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Eu sei que não podemos fazer nada para salvá-lo, mas o que você está fazendo é repreensível. Tire-o de sua miséria! Pare essa tortura sem sentido!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Os Homens-Besta considere este lugar como uma espécie de Santuário?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Algo sobre grandes Dentes mais velhos e ancestrais mortos tornaram-se um solo sagrado para eles. Merda se eu sei - ou me importo. Os 'shakers dizem que é um lugar com magia concentrada, e isso é até onde eu entendi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Nó em cascata 119</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Humanos não sabem nada sobre Mulheres-feras maneiras. Boca Recortada é terra sagrada para [url=glossary:stonestalkers]Perseguidores de Pedras[/url] porque as rochas da terra são antigas. São salientes e místicos." A Mulher-Fera bufa, divertido.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"O estimado [url=glossary:sage]Sábio[/url] Quillborne viveu brevemente em Boca Recortada, e escreveu extensivamente sobre as pedras mágicas que revestem a área. Do jeito que as tribos descrevem, essas pedras mágicas estavam aqui antes do pouso no Cinco esposas. Então, pelo que sabemos, o Azureliths pode ser tão antigo quanto quem construiu os Oldwalls e o Pináculo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Acho que 'dentes mais velhos' é o nome tribal para as pedras mágicas que a maioria dos estudiosos humanos conhecem como 'Azurelith.' Daí a etimologia de Boca Recortada. Há uma velha superstição Azure de que Homens-fera de séculos passados eram tão altos quanto o Oldwalls, e o Azurelith são seus dentes petrificados. Se você acredita nisso, tenho um Pináculo para te vender."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Não se dá bem com os locais?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Vamos falar de outro assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Quais? Os simplórios famintos de [Plainsgate] que choram suas queixas contra nós para o Coro? Ou as Bestas que todas as noites rastejam pelos penhascos, procurando nos esfolar vivos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Ele assente, rispidamente. "Assim seja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Então talvez possamos coçar as costas um do outro, senhor. De acordo com o Em geral, enquanto [url=glossary:cairn]Cairn[/url] viver, o [url=glossary:edict]Edital[/url] continuará destruindo a terra. Isso é bom para nós, ruim para os rebeldes e os Refrão."</DefaultText>
+      <FemaleText>"Então talvez possamos coçar as costas um do outro, senhora. De acordo com o Em geral, enquanto [url=glossary:cairn]Cairn[/url] viver, o [url=glossary:edict]Edital[/url] continuará destruindo a terra. Isso é bom para nós, ruim para os rebeldes e os Refrão."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Como os terremotos contínuos são bons para o [url=glossary:disfavored]Desfavorecido[/url] mas ruins para os rebeldes e o Refrão?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"São táticas simples, senhor. Terras agrícolas arruinadas significam menos comida para alimentar as massas. Os [url=glossary:disfavored]Desfavorecido[/url] têm mais suprimentos estocados e, como somos menos, precisamos de menos rações no geral. Mais, somos feitos de material mais resistente que o Chorus e o Tiersmen."</DefaultText>
+      <FemaleText>"São táticas simples, senhora. Terras agrícolas arruinadas significam menos comida para alimentar as massas. Os [url=glossary:disfavored]Desfavorecido[/url] têm mais suprimentos estocados e, como somos menos, precisamos de menos rações no geral. Mais, somos feitos de material mais resistente que o Chorus e o Tiersmen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Nós ficaremos bem. Enquanto isso, um exército faminto será presa fácil para Ashe. Forçaremos o inimigo a brigar pelas linhas de suprimentos enquanto saqueamos seus fortes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Então, o [url=glossary:disfavored]Desfavorecido[/url] deseja manter [url=glossary:cairn]Cairn[/url] vivo para garantir a turbulência contínua do [url=glossary:edict]Edital[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Se fosse tão fácil, com certeza. Um grupo de nossos 'shakers' está guardando o corpo de [url=glossary:cairn]Cairn[/url], mantendo-o respirando até que eles possam descobrir como roubar seu poder. Mas não podemos continuar desperdiçando nossos recursos aqui, e não podemos defender o corpo para sempre. Os 'shakers estão demorando muito. Por isso, estou a dez léguas de merda em lugar nenhum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Comportamento típico para um dos [url=glossary:kyros]Kyros[/url]' animais de estimação, embora seja um comportamento que eu esperaria mais do [url=glossary:scarlet chorus]Coro Escarlate[/url]. Você me deixa doente! Isso é um tema para vocês, não é? 'Alguma coisa sobreviveu ao uso, vamos descartá-lo! Alguém está mostrando mais poder do que deveriam, vamos refreá-los... ou matá-los.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"O que exatamente você está planejando, soldado?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Radix e seus 'shakers tem uma maneira de roubar a essência de [url=glossary:cairn]Cairn[/url]. Eles vão deformar o [url=glossary:edict]Edital[/url] com ele e então expulsar ambos em uma explosão gigante em sua morte. Vamos matar a terra - para sempre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Eu e meu Escudos vamos ajudá-lo a cuidar disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Nó em cascata 46</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Você não está honestamente considerando isso, está? Eles sãoe torturando ele! Elas estão torcendo seu poder para seus próprios fins e, quando tudo acabar, vão descartá-lo tão facilmente quanto jogar uma pedra fora!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"[url=glossary:cairn]Cairn[/url] traiu o Império do Norte, [url=glossary:kyros]Kyros[/url], e o [url=glossary:disfavored]Desfavorecido[/url]. No que me diz respeito, seus restos mortais e seu poder estão perdidos para quem o alcançar. Eu dormiria melhor se a essência dele caísse nas mãos [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Destruindo a terra para as próximas gerações? Achei que até [url=glossary:kyros]Kyros[/url] se opunha à obliteração total! Alguns terremotos do [url=glossary:edict]Edital[/url] dificilmente soam insuportáveis se a desolação for a alternativa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"O que eles estão discutindo soa como papo furado, se você me dá licença, mas eu não conheço a magia deles o suficiente para saber com certeza. Isso soa... desenfreadamente destrutivo, não diga que não avisei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"É experimental, não restaurador. Garanto a você como já garanti Ashe, é apenas para fins de exame e aprendizado. Ainda há muito conhecimento e poder a serem adquiridos de nosso antepassado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Os Earthshakers são o braço arcano dos Ashe militares. Correto?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Vamos, os terremotos são de pouca importância para um Earthshaker, irmãozinho. É a falta Bestas que mais devemos enfrentar. E por que você está aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Uma observação astuta. Nossa guilda se dedicou ao estudo do arcano da terra, e como tal foram os discípulos de [url=glossary:cairn]Cairn[/url], antes de seu... infeliz fim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Como seu principal aluno, cabe a mim herdar o legado de [url=glossary:cairn]Cairn[/url]." 
+
+Ele faz uma saudação breve e rígida.
+
+" Eu sou Radix Ironcore, Movimentador de Montanhas, [url=glossary:iron guard]Guarda de Ferro[/url] a Ashe, e segundo Mestre do Tremedores de terra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Montamos uma base de operações em torno dos restos mortais de [url=glossary:cairn]Cairn[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Obviamente. Protegendo [url=glossary:cairn]Cairn[/url] foi nossa primeira prioridade. Você acha que deixaríamos esses selvagens ou, pior, o Refrão colocar as mãos nele?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Pergunte a ele sobre estratagema militar e ele acenderá como uma faísca de enxofre. Mas quando se trata de alquimia e do arcano, sua compreensão é fundamental na melhor das hipóteses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"As protuberâncias de tamanho considerável do local de Azurelith exalam uma ressonância temporal a par com uma elucidação geoentrópica da mais pura regularidade. Então, como se poderia imaginar, a área é de particular valor no estudo do arcano da terra e provavelmente também é atraente para aquelas criaturas que mantêm alguma sintonia com a terra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Que queixas as pessoas de [Plainsgate] têm contra o Tremedores de terra?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Por que a Fera tribo da [url=glossary:stone sea]Mar de Pedra[/url] está tentando te matar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Às vezes, a terra me remete vibrações de seus murmúrios. Os cretinos nos culpam unilateralmente pela contínua atividade sísmica da região. Embora eles não estejam totalmente errados..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Você sabia que eles primeiro acolheram meu Tremedores de terra nestas terras? Elas tendem a odiar o [url=glossary:disfavored]Desfavorecido[/url], no entanto. Não é, irmãozinho?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"E perder uma vida útil de avanço? Não ser absurdo." Radix bate o calcanhar da bota no chão, irritado. "[url=glossary:cairn]Cairn[/url], ele mesmo, teria desejado isso para nós - se ele pudesse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Direita. Claro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"...O quê?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>O homem montanhoso solta uma risada profunda e dá um tapinha forte nas suas costas.
+
+"É revigorante falar com alguém de entendimento semelhante, considerando minha companhia nas últimas semanas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Eu posso ver que meu fôlego está perdido." Radix suspira, desistindo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>tenente ri alto e longamente, sua súbita exuberância fazendo-o parecer um menino para sua idade.
+
+"Não se preocupe, senhor. Você não é o único."</DefaultText>
+      <FemaleText>O tenente ri, alto e longo, sua súbita exuberância fazendo-o parecer um menino para sua idade.
+
+"Não se preocupe, senhora. Você não é o único."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Por que você acha que [url=glossary:cairn]Cairn[/url] traiu suas ordens?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>O oficial [url=glossary:disfavored]Desfavorecido[/url] passa a mão na nuca, hesitante em responder. "Por que alguém faria isso?" Ele dá de ombros. "O mundo está cheio de vícios para tentar um soldado. Bebida, bordéis, apostas. Acho que a magia da terra deve ser uma droga para tentar um Arconte do dever. Acho que eles não são tão desumanos, afinal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Sou totalmente capaz de lidar com o Homens-fera, tenente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Mhmm. Entendido, senhor."</DefaultText>
+      <FemaleText>"Mhmm. Entendido, senhora."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Bem observado, mas não posso ficar para falar mais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Como posso ser útil?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Preciso fazer alguns preparativos primeiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Entendido, senhor. Vamos nos preparar para sair e aguardar sua prontidão."
+
+Caedis dá um soco no peito em despedida. "Holler se você precisar de nós, mas não conte comigo e meu Escudos para salvar sua bunda. Nosso dever é proteger os 'shakers' para que fiquemos um pouco atrás."</DefaultText>
+      <FemaleText>"Entendido, senhora. Vamos nos preparar para sair e aguardar sua prontidão."
+
+Caedis dá um soco no peito em despedida. "Holler se você precisar de nós, mas não conte comigo e meu Escudos para salvar sua bunda. Nosso dever é proteger os 'shakers' para que fiquemos um pouco atrás."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Certo, eles fazem." Mas em vez de agitado, sua voz soa alegre por trás de sua máscara, arrogante, mas descontraído. "Colocamos o medo de Ashe neles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>O [url=glossary:iron guard]Guarda de Ferro[/url] pressiona dois dedos em sua têmpora, suprimindo um suspiro.
+
+"Independentemente dos meios, os Bestas começaram a nos atacar - Earthshaker e soldados, afins. Esperávamos nos basear em nosso terreno comum como magos da terra, mas depois de nos aceitarem, eles nos acusaram selvagemente de invasores e ladrões de alguma substância sem sentido que eles chamam de Dentes mais velhos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"E ele não está nem um pouco cheio de si." Caedis ri, bem-humorado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Vocês dois são parentes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Isso mesmo, senhor. Somos irmãos nascidos, se não criados." 
+
+Ele bate Base com força nas costas, a parte inferior de ferro de sua manopla ressoando como o toque de um sino de funeral. 
+
+"Nós compartilhamos uma mãe, para Radix's arrependimento."</DefaultText>
+      <FemaleText>"Isso mesmo, senhora. Somos irmãos nascidos, se não criados." 
+
+Ele bate Base com força nas costas, a parte inferior de ferro de sua manopla ressoando como o toque de um sino de funeral. 
+
+"Nós compartilhamos uma mãe, para Radix's arrependimento."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Meu irmão, impetuoso como é, gosta de confiar na força e no acaso enquanto marcha pela vida. Eu, no entanto, sendo mais velho e de intelecto superior, sou fortuito o suficiente para ter herdado o chamado da terra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Ele diz isso, mas serei eu quem impedirá que a cabeça dele seja arremessada quando formos atacados a seguir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Por sua causa, estou esfolando Homens-fera e cavando esporas de minhas botas em vez de saquear Robusto," níveis de Caedis no [url=glossary:iron guard]Guarda de Ferro[/url]. "Se eu ia sonhar com qualquer coisa, seria deixar esse reino de merda para trás."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"O que exatamente são Dentes mais velhos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"É o que os Homens-fera chamam de Azurelith. Eles os chamam assim por causa de suas formações parecidas com dentes, e os anciões de sua tribo os usam." Ele dá de ombros ao seu estranho raciocínio. 
+
+"Sabemos que eles possuem propriedades místicas como amplificação da magia e ainda estamos estudando seus usos. [url=glossary:cairn]Cairn[/url] ele mesmo ficou fascinado por eles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Fale-me sobre as formações de cristal Azurelith nesta região."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Os locais os chamam de Mais velho-Dentes. Estamos pesquisando suas propriedades, que parecem amplificar a magia de alguma forma. [url=glossary:cairn]Cairn[/url] estava muito interessado neles, e procurou entendê-los melhor antes de sua morte prematura." Ele olha para longe, como se esperasse vislumbrar seu mestre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Me informe sobre os Coro movimentos de tropas em toda a região."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Crudente como meu irmão é, concordo com sua avaliação. O refrão são bastante semelhantes às larvas. Inconsequentes, mas irritantes, numerosos... Ambos se espremem sob pedras de aceleração e massa adequadas."
+
+Ele bate o pé em um ritmo lento, mas ansioso, no chão, mas depois para, se acomodando mais uma vez na quietude.
+
+"No entanto, assuntos mais urgentes precisam da minha atenção atualmente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Merda se não houver mais deles do que larvas por aqui. Não pode andar meio metro sem precisar arrancar as entranhas de alguém."
+
+O soldado esfrega o punho de sua espada, nervoso.
+
+"Mas a maioria deles enxameou [Plainsgate], procurando por corpos quentes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Envie-me para atacar o coração de sua população, e eu deixarei o [url=glossary:disfavored]Desfavorecido[/url] orgulhoso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Seu relatório foi suficientemente... informativo. Com certeza evitarei suas forças daqui para frente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Vai massacrar toda a maldita assassina?" O tenente esfrega a borda de sua placa frontal, a cabeça inclinada com admiração. "Acho que você acabou de roubar meu coração, senhor. Dê a eles meus cumprimentos de lâmina de ferro."</DefaultText>
+      <FemaleText>"Vai massacrar toda a maldita assassina?" O tenente esfrega a borda de sua placa frontal, a cabeça inclinada com admiração. "Acho que você acabou de roubar meu coração, senhora. Dê a eles meus cumprimentos de lâmina de ferro."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Está bem feito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Achei que poderia causar algum problema. Começando aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Ainda bem que perguntei." O [url=glossary:disfavored]Desfavorecido[/url] inclina a cabeça em aborrecimento, o queixo inclinado para cima enquanto fala. "Faça todos os Fatebinders saem por aí espalhando seus segredos para quem ouve? Se você fosse um dos meus e balançasse a língua assim, eu faria você limpar as latrinas com ela - depois que eu cagar nelas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>[Difundir a situação.] "Seja grato pela informação privilegiada, soldado. E verifique o seu tom. Obviamente, foi uma piada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Você está certo, senhor. Não sei o que deu em mim." 
+
+Ele esfrega a parte de trás do capacete de ferro, contrariado.
+
+"Deve ser o maldito calor."</DefaultText>
+      <FemaleText>"Você está certa, senhora. Não sei o que deu em mim."
+
+Ele esfrega a parte de trás do capacete de ferro, desgostoso.
+
+"Deve ser o maldito calor."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>[Ataque] "Aqui está outro segredo para você - vou cortar sua língua e fazer você engolir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>A Mulher-Fera zurra animadamente, atacando sua nova presa com uma velocidade surpreendente. "Vai caçar [url=glossary:disfavored]Desfavorecido[/url] agora. Vai saborear matar. Vai rasgar com dentes rasgados e garras cortantes. Vai quebrar ossos. Fatia-rachadura. Rough-lento." Ela mostra suas presas em um sorriso sanguinário. "Venha, grite por Mortes-in-Shadow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Você acabou de dizer 'devagar'? Quanto ao que estamos fazendo aqui, eu me pergunto se você está na mesma página que o resto de nós. Não que eu esteja reclamando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Você conta os melhores segredos. Eu tenho algumas." Ela sorri e prepara sua arma.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Mesmo Radix gosta de matar Refrão gritadores. Mas ele não pode se desviar dos parâmetros de sua postagem, e eu não posso me desviar dele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"[url=glossary:cairn]Cairn[/url]? Não é que o Arconte que se rebelou contra o [url=glossary:kyros]Kyros[/url]? Fatebinder Calio lançou o [url=glossary:edict]Edital[/url] de Pedra em 430 para matá-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Você está protegendo [url=glossary:cairn]Cairn[/url] o do traidor permanece? Por quê?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Precisamente, sim. Durante nossa campanha primária para conquistar Azure, [url=glossary:cairn]Cairn[/url] quebrou completamente o comando Ashe e, pouco depois, Fatebinder Calio lançou o [url=glossary:edict]Edital[/url] de sua execução." O [url=glossary:iron guard]Guarda de Ferro[/url] alarga e reajusta sua postura, os braços cruzados rigidamente atrás das costas. "Enquanto, me dediquei como aprendiz de [url=glossary:cairn]Cairn[/url] por muitos anos, tenha certeza de que, como herdeiro da guilda Tremedores de terra', permaneço firme em meu serviço ao [url=glossary:disfavored]Desfavorecido[/url]. [url=glossary:kyros]Kyros[/url]' a demanda por lealdade é absoluta. Isso eu entendo bem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Um recurso tão valioso deve ser protegido. Como [url=glossary:cairn]Cairn[/url] ainda vive, não podemos permitir que ele leve para o túmulo tanta riqueza de conhecimento arcano. Mais, mal posso imaginar o que o Refrão faria se colocassem as mãos nele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"É uma pena o que aconteceu com [url=glossary:cairn]Cairn[/url]. Ele era um Arconte, afinal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"[url=glossary:cairn]Cairn[/url] o Traidor desafiou diretamente o [url=glossary:kyros]Kyros[/url]. Era inevitável que ele fosse destruído."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Seria a comiseração do Vinculador do Destino que lançou o [url=glossary:edict]Edital[/url] da execução de [url=glossary:cairn]Cairn[/url]? Que curioso." O [url=glossary:iron guard]Guarda de Ferro[/url] se alarga e reajusta sua postura, os braços cruzados rigidamente atrás das costas. "De fato, não discordo. Dediquei-me como aprendiz de [url=glossary:cairn]Cairn[/url] por muitos anos e, embora permaneça firme em meu serviço ao [url=glossary:disfavored]Desfavorecido[/url], também senti minha Mestrado perda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Sim, suponho que se não tivesse sido você, então o [url=glossary:edict]Edital[/url] da execução de [url=glossary:cairn]Cairn[/url] teria sido meramente lançado por outro Vinculador do Destino." O [url=glossary:iron guard]Guarda de Ferro[/url] alarga e reajusta sua postura, os braços cruzados rigidamente atrás das costas. "Enquanto, me dediquei como aprendiz de [url=glossary:cairn]Cairn[/url] por muitos anos, tenha certeza de que, como herdeiro da guilda Tremedores de terra', permaneço firme em meu serviço ao [url=glossary:disfavored]Desfavorecido[/url]. [url=glossary:kyros]Kyros[/url]' a demanda por lealdade é absoluta. Isso eu entendo bem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>O [url=glossary:iron guard]Guarda de Ferro[/url] bate o calcanhar de sua bota no chão, irritado, fazendo com que pedrinhas estremeçam e pulem a curta distância ao seu redor.
+
+"O que eu não consigo entender nem perdoar é por que ele escolheria selvagens tão imundos sobre seus próprios discípulos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Você está dizendo que [url=glossary:cairn]Cairn[/url] sobreviveu ao [url=glossary:edict]Edital[/url] de Stone? Como?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Dizer que ele sobreviveu seria presunção. Talvez dura seja uma descrição melhor. Embora seu coração ainda bata, [url=glossary:cairn]Cairn[/url] ficou preso em um estado de inconsciência. Ele não pode e não sobreviverá ao [url=glossary:edict]Edital[/url]. Isso o atormentará até seu último suspiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Posso adivinhar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Ninguém sobrevive à Soberano ira. Nem mesmo Arcontes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"O que você pode me dizer sobre o estado em que [url=glossary:cairn]Cairn[/url] está?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Eu testemunhei. Ele dorme, preso, mas vive. Por quanto tempo mais ele pode persistir, eu não posso te dizer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Só ouvi dizer que ele não está morto. E eu quero dizer isso. Você pode ouvi-lo à noite, estremecendo e gemendo como o vento através das montanhas." 
+
+Ele se move e recoloca o peso de seu terno pesado. "Os 'shakers o têm tratado - mantendo-o vivo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Infelizmente, isso soa mais como um problema para você do que para mim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Ah, vamos, senhor. Não me faça implorar." Ele bate uma luva áspera contra a barriga de sua couraça de ferro. "[url=glossary:kyros]Kyros[/url] iria coaxar antes que meus escudos me deixassem viver."</DefaultText>
+      <FemaleText>"Ah, vamos, senhora. Não me faça implorar." Ele bate uma luva áspera contra a barriga de sua couraça de ferro. "[url=glossary:kyros]Kyros[/url] iria coaxar antes que meus escudos me deixassem viver."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Se você está pedindo um Fatebinder favor, é melhor estar pronto para engolir seu orgulho. De joelhos, soldado - e vou considerar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Vou pensar nisso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Mal posso esperar pelos relatórios da missiva sobre o número de mortos e destruição."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Uh-huh. Fico feliz em poder ser útil, senhor."</DefaultText>
+      <FemaleText>"Uh-huh. Fico feliz em poder ser útil, senhora."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Por favor, faça. Se você pudesse pensar nisso enquanto está cortando suas tripas, seria ainda melhor. Senhor."</DefaultText>
+      <FemaleText>"Por favor, faça. Se você pudesse pensar nisso enquanto está cortando suas tripas, seria ainda melhor. Senhora."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Às vezes não sei dizer quando você está brincando, senhor. Você sabe, eu não faria isso por ninguém além de você." 
+
+Ele faz uma saudação brusca antes de escalar desajeitadamente um joelho no lodo. Ele olha para você com uma seriedade condizente com sua viseira esquelética.
+
+"Mate cinquenta gritadores, e eu darei uma boa palavra para você com cada soldado que encontrar nos próximos seis períodos. Dou minha palavra, em Ashe honra."</DefaultText>
+      <FemaleText>"Às vezes não sei dizer quando você está brincando, senhora. Você sabe, eu não faria isso por ninguém além de você." 
+
+Ele faz uma saudação brusca antes de escalar desajeitadamente um joelho no lodo. Ele olha para você com uma seriedade condizente com sua viseira esquelética.
+
+"Mate cinquenta gritadores, e eu darei uma boa palavra para você com cada soldado que encontrar nos próximos seis períodos. Dou minha palavra, em Ashe honra."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Isso é suficiente. Considere-os mortos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>Ele resmunga enquanto cambaleia mais uma vez para ficar de pé. Ele ri de sua própria estupidez enquanto tira a terra do joelho.
+
+"Por favor, faça. Se você pudesse pensar nisso enquanto está cortando suas tripas, seria ainda melhor. Senhor."</DefaultText>
+      <FemaleText>Ele resmunga enquanto cambaleia mais uma vez para ficar de pé. Ele ri de sua própria estupidez enquanto tira a terra do joelho.
+
+"Por favor, faça. Se você pudesse pensar nisso enquanto está cortando suas tripas, seria ainda melhor. Senhora."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Então, como prometido - vou pensar nisso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Ele resmunga enquanto cambaleia mais uma vez para ficar de pé. Ele acena com a cabeça em aceitação, mas a seriedade do momento é arruinada por sua risada bem-humorada.
+
+"Mal posso esperar pelos relatórios da missiva sobre o número de mortos e destruição."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Eu não preciso da sua boa palavra. Essa espada larga, no entanto, chamou minha atenção."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>O oficial [url=glossary:disfavored]Desfavorecido[/url] cai de joelhos em um silêncio mortal.
+
+"No. É minha palavra ou nada." 
+
+Inconscientemente, ele agarra o punho de couro de sua espada, acariciando o punho gasto com o polegar.
+
+"Você tem que entender, senhor - ela está comigo desde o início. Nunca lascado ou quebrado. Nunca me decepcione."</DefaultText>
+      <FemaleText>oficial [url=glossary:disfavored]Desfavorecido[/url] cai de joelhos em um silêncio mortal.
+
+"No. É minha palavra ou nada." 
+
+Inconscientemente, ele segura o punho de couro de sua espada, acariciando o punho gasto com o polegar.
+
+"Você tem que entender, ma' am - ela está comigo desde o início. Nunca lascado ou quebrado. Nunca me decepcione."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Então sua palavra será suficiente. Considere-os mortos pela honra do [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Sem acordo. Não tenho motivos para me investir neste assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Ele suspira em aceitação do impasse, mas, por outro lado, permanece em silêncio, mais moderado do que o habitual, enquanto se levanta lentamente. Ele segura a espada enquanto dá de ombros, bem-humorado.
+
+"Se é assim que você se sente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"É por isso que vou usá-la quando eu abater o [url=glossary:scarlet chorus]Coro Escarlate[/url] em seu nome."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Ele deixa cair a cabeça entre os ombros em derrota, suspira, e então se levanta silenciosamente. "Com todo o respeito, senhor - ela é a melhor arma que eu tenho, então é melhor você cuidar dela." Ele desembainha a espada lentamente, ansiosamente, um movimento fluido e praticado agora tingido de pavor. Finalmente, ele oferece a lâmina, aninhada nas palmas das mãos como que em homenagem a [url=glossary:kyros]Kyros[/url], o próprio soberano. "Eu a quero de volta no próximo período de Rapax. Quero dizer isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>O comandante balança a cabeça em descrença. "Ridículo. Vocês dois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Eu disse que viria para ajudá-lo, mas isso não significa que eu esteja disposto a lutar contra os dois Coro e feras para fazer isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>O tenente [url=glossary:disfavored]Desfavorecido[/url] coça a parte de trás do elmo, perplexo. "Perdoe-me por dizer, mas esperava mais zelo de você, senhor. Qualquer um dos meus Escudos iria mijar na mãe pela chance de lutar em Ashe honra."</DefaultText>
+      <FemaleText>tenente [url=glossary:disfavored]Desfavorecido[/url] coça a parte de trás do elmo, perplexo. "Perdoe-me por dizer, mas eu esperava mais zelo de você, senhora. Qualquer um dos meus Escudos iria mijar na mãe pela chance de lutar em Ashe honra."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Então mande-os morrer por Ashe honra. Tenho problemas mais críticos com os quais me preocupar como Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Você está certo. Pelo bem do [url=glossary:disfavored]Desfavorecido[/url], vou abrir caminho para o Rocha Uivante, independentemente de quem estiver em nosso caminho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Senhor, então por que você veio aqui? Pode colocá-lo para cavar as latrinas, senhor, se achar mais adequado para alguém de sua inestimável posição. Senhor."
+
+Ele se eriçou, a armadura tinindo enquanto ele endireitava sua postura.</DefaultText>
+      <FemaleText>"Senhora, então para que você veio aqui? Pode colocá-la para cavar as latrinas, senhora, se achar mais adequado para alguém de sua inestimável posição. Senhora."
+
+Ele se eriçou, a armadura tinindo enquanto ele endireitava sua postura.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Não tenho certeza se gosto do seu tom, soldado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Senhor, com todo o respeito, senhor, não tenho certeza do que você quer dizer, senhor."</DefaultText>
+      <FemaleText>"Senhora, com todo o respeito, senhora, não tenho certeza do que você quer dizer, senhora."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Ele é incorrigível. Não o habilite."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Ah, pelo amor de [url=glossary:kyros]Kyros[/url]. Multar. Eu vou te cortar um caminho para Rocha Uivante. Mas espero uma remuneração adequada pelo meu esforço."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Se você acha que eu vou ser o único a ceder, então você está muito enganado. Se você quiser minha ajuda, dê um nome à sua oferta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>Com a sua concordância, Caedis relaxa confortavelmente, uma breve gargalhada de alívio escapando por trás de sua viseira.
+
+"Vou ver o que podemos arranjar, senhor." 
+
+Habilmente, ele saca sua espada, e agachado, esculpe um mapa básico no solo coberto de lodo. 
+
+"Rota mais rápida através de [url=lore:StoneDown]Desfiladeiro de Pedra[/url] - claro, a área está repleta de Coro e feras, igualmente."</DefaultText>
+      <FemaleText>Com seu acordo, Caedis relaxa confortavelmente, uma breve gargalhada de alívio escapando por trás de sua viseira.
+
+"Vou ver o que podemos arranjar, senhora." 
+
+Habilmente, ele saca sua espada, e agachado, esculpe um mapa básico no solo coberto de lodo. 
+
+"Rota mais rápida através de Desfiladeiro de Pedra - claro, a área está repleta de Coro e feras, igualmente."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Alguns achariam perigoso falar com um Vinculador do Destino dessa maneira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Perdoe-me. Não quis ofender você ou seu Escudos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Abra-nos um caminho para Rocha Uivante, e eu te perdoarei." 
+
+Ele resmunga e relaxa sua postura, mais uma vez à vontade em sua presença. Coçando a parte de trás do elmo pela segunda vez, ele dá uma risada curta e aliviada. 
+
+"Nos leve até lá inteiros, e eu nomearei minha espada larga em sua homenagem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>Habilmente, ele saca sua espada e, agachado, esculpe um mapa básico no solo coberto de lodo. 
+
+"Rota mais rápida através de [url=lore:StoneDown]Desfiladeiro de Pedra[/url] - mas como eu disse, a área está repleta de Coro e feras, igualmente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Por enquanto vamos deixar esta discussão inacabada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Eu com certeza não luto pelo pagamento, então se são anéis que você quer, eu não posso te ajudar. Mas se isso o influenciar, eu lhe darei a última das minhas rações."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Disposto a passar fome por isso? Vejo que você é sempre audacioso, meu irmãozinho." 
+
+Radix faz um breve aceno de cabeça.
+
+"Pegue seus anéis e nos ajude. Mas leve a comida dele também."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>O tenente resmunga, irritado o suficiente para ignorar a isca de seu comandante. Habilmente, ele saca sua espada e, agachado, esculpe um mapa básico no solo coberto de lodo. 
+
+"Abra-nos um caminho para Rocha Uivante, e não precisarei das rações. A rota mais rápida é por [url=lore:StoneDown]Desfiladeiro de Pedra[/url] - mas como eu disse, a área está repleta de Coro e feras, da mesma forma. Conto com você para salvar a vida dos meus Escudos, entendeu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"É um prazer servir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Vamos nos preparar para sair."
+
+Caedis dá um soco no peito em despedida. 
+
+"Como meu esquadrão estará protegendo o Comandante e seus 'shakers, estaremos um pouco atrás. Vejo você em Rocha Uivante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Entendo. Vou na frente para abrir caminho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Por selvagens, você quer dizer o Homens-fera?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Vamos falar de outro assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Com certeza. Para [url=glossary:cairn]Cairn[/url] arriscar toda a guilda por conta de tal primitivo Bestas - é totalmente desprezível. Ele não apenas arruinou a si mesmo, mas quase fez chover o mesmo sobre nós."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Por todos os meios."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Vocês foram criados separados?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Você tem pais separados? Quem eram eles?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Tortalus, que fica no norte, certo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Como foi estudar com [url=glossary:cairn]Cairn[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Não é como se ele fosse mandado embora. Por ser doze anos mais velho e irritantemente apto para a magia, ele partiu para Tortalus para estudar com [url=glossary:cairn]Cairn[/url]." Caedis dá um tapa nas costas do irmão. "Não posso dizer que senti muita falta dele. Você já foi enterrado vivo, senhor?"</DefaultText>
+      <FemaleText>"Não é como se ele fosse mandado embora. Por ser doze anos mais velho e irritantemente apto para a magia, ele partiu para Tortalus para estudar com [url=glossary:cairn]Cairn[/url]." Caedis dá um tapa nas costas do irmão. "Não posso dizer que senti muita falta dele. Você já foi enterrada viva, senhora?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Ah, há quanto tempo. Eu me lembro, mamãe estava muito orgulhosa. Não daquele incidente. Ela estava irracionalmente furiosa, embora eu tenha deixado um buraco de ar para você." 
+
+Ele bate a ponta da bota no chão, pensamentos provavelmente tão trêmulos quanto a terra ao seu redor.
+
+"Foi uma grande honra estudar sob um Arconte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Não sei." O tenente dá de ombros.
+
+"Mas isso não importa, certo? Se fosse apenas nosso pai, este poderia ter se livrado de mim. Mas você não pode negar a linhagem do útero, nem a herança de uma mulher. Mesmo se eu escolhesse a linha de frente em vez de Radix's guilda pesada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Isso mesmo. Para melhor ou pior, estamos indiscutivelmente ligados pelo sangue. Embora você não saiba disso, pois Caedis exibe apenas os traços mais minúsculos da mãe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Obviamente. Apesar do meu mestre inclinações cada vez mais irracionais em sua idade, [url=glossary:cairn]Cairn[/url] era um nortista, assim como você e eu." O [url=glossary:iron guard]Guarda de Ferro[/url] se posiciona, olhando silenciosamente para o horizonte por um momento antes de continuar a falar. "Tortalus é a cordilheira continental mais longa do Império do Norte. Naturalmente, foi em seu pico mais alto que [url=glossary:cairn]Cairn[/url] estabeleceu a guilda Earthshaker e onde acumulei meticulosamente o potencial de minhas habilidades."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Excruciantemente árduo, mas edificante. Você quer que eu diga que ele era como um pai amoroso? Não posso. Ele era implacável quando precisava ser e, acima de tudo, brilhante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Ele era um Arconte, e um poderoso nisso. Se você quer ter acesso a essas alturas de poder, precisa se dedicar. Se você não está disposto a treinar, você não é digno de exercer esse poder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Você é um Earthshaker e um [url=glossary:iron guard]Guarda de Ferro[/url]? Como isso aconteceu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Não foi por escolha, posso garantir. Eu apenas desejava estudar sob a tutela de [url=glossary:cairn]Cairn[/url], mas depois que juramos fidelidade a Ashe, a posição foi mais ou menos imposta a mim." 
+
+Ele olha para baixo para um momento antes de se pegar caindo. "Não que eu pudesse me ressentir de uma posição concedida a mim pelo próprio Em geral. Embora eu não seja um de nível, como protegido de [url=glossary:cairn]Cairn[/url], claramente eu era a seleção ideal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Radix! Meus ouvidos estão sangrando ou você acabou de dizer que está desertando, seu merda inútil?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Seus ouvidos não o enganam. Os sacudidores de terra encontraram um aliado melhor, aquele que apoia seus ideais e aspirações."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Seus idiotas! Eu vou matar você primeiro!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>[Ataque] "Convido você a tentar, tenente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"O que há com os terremotos constantes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"[url=glossary:cairn]Cairn[/url] foi derrotado, mas não está totalmente morto. Enquanto sua essência permanecer dentro de seu corpo, o [url=glossary:edict]Edital[/url] de Pedra permanecerá no lugar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Vinculador do Destino, se você chegar antes de nós, o que tenho quase certeza de que chegará, você precisará deste código, o Sigilo de [url=glossary:cairn]Cairn[/url]'s Esquecido name, para entrar no complexo. Preste atenção, pois é um sigilo bastante intrincado." O Mestre da guilda Earthshaker calmamente demonstra o sigilo torcendo e puxando seus dedos pelo ar. Embora pareça a qualquer testemunha ser o movimento de um feitiço, ele não empresta magia à marca, usando-a enganosamente como uma comunicação codificada. "Mostre para os guardas e eles saberão que você é um de nós."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Entendido. Usarei se necessário."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>[Pratique o Sigilo de [url=glossary:cairn]Cairn[/url] de Nome esquecido]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Não só é intrincado, mas também bastante incomum. Qual é o significado por trás deste Sigilo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Não se esqueça disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Ele inclina a cabeça, impressionado.
+
+"Isso é bom. Ajuste este dedo assim na curva descendente. Sim, precisamente. Você faz jus à sua reputação, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"É um nome que todos nós esquecemos. É o único remanescente, um único identificador da existência de [url=glossary:cairn]Cairn[/url] de quando ele viveu selvagem e livre nas montanhas de Tortalus durante sua juventude, anos antes de se comprometer como um Arconte para o nosso soberano."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Talvez não estivéssemos nesta situação se o [url=glossary:disfavored]Desfavorecido[/url] tivesse permitido afinar os números Homens-fera durante a conquista de Azure." Ele dá de ombros. "Não que eu esteja questionando sua decisão, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Se os magos demonstrassem mais modéstia e atenção em suas tarefas, o exército poderia ser menos severo em duvidar de seu valor. Títulos e honoríficos são conquistados, não simplesmente gerados por uma tempestade de bravura."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Ser um [url=glossary:iron guard]Guarda de Ferro[/url] é ser reconhecido por Ashe pessoalmente. O Arconte da Guerra ama seus soldados a uma mulher, mas só concede seu favor a quem se distingue. Não há maior honra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Humanos têm dois olhos, sim? Mas sempre estão tendo problemas para olhar além do comprimento do próprio focinho."
+
+Ela grunhe, claramente zangada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Não seja tão rápido para ligar seus superiores, soldado. Dessa forma, é uma viagem rápida ao pelourinho ou à forca, tudo dependendo de quão bem você balança uma lâmina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>Nó do banco 203</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Se esses dois ficarem mais sentimentais, vou juntar seus rostos o máximo que puder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Nós vamos, eu certamente me sentiria segura se esses dois estivessem no comando do meu bem-estar." Ela se afasta deles e revira os olhos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Sério? Eles só compartilham uma mãe? Do jeito que eles andam, você pensaria que eles compartilham uma mãe-tia-irmã, um pai-tio-irmão ou algum tipo de pedigree recursivo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Tão humano diz, mas talvez Mortes-in-Shadow seja o próximo ataque." Ela sorri, as presas bem abertas. "Quer ver se Caçador de Sombras pode arrancar cabeças de ferro?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Feliz em emprestar meu ferro à causa! O refrão os cães rastejarão aos nossos pés em pouco tempo!" Barik bate os punhos e grunhe em antecipação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>[Dar de ombros]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Suponho que Caedis nunca mais verá aquela espada? Temos certos padrões sobre como os equipamentos [url=glossary:disfavored]Desfavorecido[/url] são transmitidos... mas não vou entregá-los a alguém fora da cadeia normal de comando. Você pode me agradecer mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Claro que sua grande arma fálica é ela. Estou meio imaginando se ele usa isso como sua braguilha à noite, é como se estivéssemos pedindo para ele arrancar sua masculinidade em súplica." Eb sorri com um aceno longo e lento. "Estou tão excitado agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>Nó do banco 212</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Mulher-Fera gosta de matar o místico de pedra chamado [url=glossary:cairn]Cairn[/url]. Significa Alfa pack serão os melhores caçadores e os mais temidos, sim? Vontade ser matadores de Arcontes." Ela flexiona suas garras e zomba perigosamente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Vamos matar o suficiente deles para ter um arsenal com o nosso nome em breve. Suponho que eu poderia defender mais algumas espadas chamadas 'Barik' em circulação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Que inteligente - um nome que somente os verdadeiros discípulos entenderiam e apreciariam." Eb acena com um sorriso radiante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>Nó do banco 216</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Devagar!" A pena de sua pena balança e tece enquanto Lantry tenta furiosamente esboçar o padrão que Base está traçando. "Se eu escreva isso errado, isso vai me assombrar por séculos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Fascinante, a maior parte do que sabemos de [url=glossary:cairn]Cairn[/url] aqui se refere a ele como o Arconte de Pedra - seus poderes, seu tamanho - esse tipo de coisa." Lantry deixa escapar um longo suspiro, sua pena continuando a gravar Radix's palavras e gestos. "Mas quanto ao [url=glossary:cairn]Cairn[/url] o ser humano, sabemos tão pouco, e acho que o Tremedores de terra pode ter sido o único a chegar perto de conhecê-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Ah, não, que vergonha conveniente que vocês dois estejam presos aqui e precisem de outra pessoa para fazer seu trabalho sujo!" Versículo balança a cabeça. "Patético."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Alpha está certo. A matilha deveria estar caçando blindados, não Mulheres-feras." Ela lambe as pontas de suas garras, olhando ansiosamente para os [url=glossary:disfavored]Desfavorecido[/url] soldados diante dela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>Ele lhe dá um olhar de lado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Barik, as pessoas batizaram as armas com o seu nome?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Eles têm mesmo. A coorte que me seguiu em Apex e robusto gostou de como eu me portava na batalha. Eu sou grande o suficiente para carregar espadas largas que outros acham difíceis de manejar. Eles adicionaram pesos aos seus bastões de treinamento para ficarem mais fortes e começaram a nomear suas lâminas designadas com meu nome."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>Ele parece de repente cabisbaixo. "Embora eu imagine que a maioria dessas lâminas foram perdidas ou destruídas no [url=glossary:edict]Edital[/url] de Tempestades. Deixei muitos amigos, e muito de mim, nas ruínas do velho Robusto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Estarei a caminho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Deixe-me perguntar sobre outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Ele balança a cabeça e bate um punho carnudo contra seu peito bronzeado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>[Não diga nada.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Então deve agradar você saber que eu exterminei aqueles que estavam escondidos em [Plainsgate]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Você se levantou e massacrou todo o maldito assassino?" O tenente esfrega a borda de sua placa frontal, cabeça inclinada com admiração. "Droga. Acho que você acabou de roubar meu coração, senhor."</DefaultText>
+      <FemaleText>"Você se levantou e massacrou todo o maldito assassino?" O tenente esfrega a borda de sua placa frontal, cabeça inclinada com admiração. "Droga. Acho que você acabou de roubar meu coração, senhora."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>O homem montanhoso inclina a cabeça para você no menor gesto de aprovação. 
+
+"Impressionante, de fato. Suponho que você também despertou meu interesse em suas capacidades."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Você certamente pode morrer tentando." O [url=glossary:disfavored]Desfavorecido[/url] inclina a cabeça em aborrecimento, o queixo inclinado para cima enquanto fala. "Faça todos os Fatebinders saem por aí espalhando suas intenções e segredos tão abertamente? Se você fosse um dos meus e balançasse a língua assim, eu faria você limpar as latrinas com ela - depois que eu cagar nelas."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

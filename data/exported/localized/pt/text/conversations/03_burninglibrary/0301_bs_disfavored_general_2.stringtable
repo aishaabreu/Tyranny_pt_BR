@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\03_burninglibrary\0301_bs_disfavored_general_2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Eu só gostaria de ter o prazer de dividir o Censurar aberto. Um pau cheio de pústulas de mulher, se é que já vi um."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Certamente fizemos um exemplo de [url=glossary:sage]Sábio[/url] e Refrão iguais. Esta cidadela é uma ruína, e essas terras não vão se recuperar por uma geração!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Eu devo a você, Vinculador do Destino, mas não devemos destruir a biblioteca? [url=glossary:kyros]Kyros[/url] não ficará satisfeito até que não seja nada além de cinzas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Como... você fez isso? Eu nunca vi ninguém acabar com um [url=glossary:edict]Edital[/url], nem mesmo Geral Ashe."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

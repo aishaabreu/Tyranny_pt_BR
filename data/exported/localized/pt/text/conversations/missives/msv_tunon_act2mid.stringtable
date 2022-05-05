@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\missives\msv_tunon_act2mid</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vinculador do Destino,
+
+Você deve se reportar ao [url=glossary:bastard city]Cidade bastarda[/url] imediatamente. Seja rápido, para que eu não confunda seu atraso com relutância. 
+
+- [url=glossary:tunon]Tunon[/url] o Árbitro, Arconte da Justiça</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Envie uma confirmação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Peça mais informações.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Envie uma desculpa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Arconte [url=glossary:tunon]Tunon[/url],
+
+Estou ocupado com a investigação do Arcontes. Se quiser interromper meus esforços, posso voltar ao [url=glossary:bastard city]Cidade bastarda[/url], mas tenho muito a perder se me distrair.
+
+- Vinculador do Destino [Player Name]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Envie isto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Volte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Arconte [url=glossary:tunon]Tunon[/url],
+
+Como você solicita. Apareço em seu tribunal em tempo útil. 
+
+- Vinculador do Destino [Player Name]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Arconte [url=glossary:tunon]Tunon[/url],
+
+Posso perguntar sobre a natureza do problema? É algo que deve ser resolvido pessoalmente?
+
+- Vinculador do Destino [Player Name]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Envie isto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Volte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Envie isto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Volte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Player Name],
+
+Excelente. Aguardamos seu retorno.
+
+- [url=glossary:tunon]Tunon[/url] o Árbitro, Arconte da Justiça</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Player Name],
+
+Há momentos para perguntas e momentos para obediência. Agora é a hora do último.
+
+- [url=glossary:tunon]Tunon[/url] o Árbitro, Arconte da Justiça</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Player Name],
+
+Confio em você para agir com sabedoria e prudência, mas não me deixe esperando muito. Deixo você na coleira muito longa - não me faça me arrepender de fazê-lo.
+
+- [url=glossary:tunon]Tunon[/url] o Árbitro, Arconte da Justiça</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\01_bladegrave\01_qst_rustcanyon_main_rebel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Aquilo que fica</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Localize o [url=glossary:unbroken]ininterrupto[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Defenda o acampamento [url=glossary:unbroken]ininterrupto[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Limpe um caminho para o [url=glossary:unbroken]ininterrupto[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Derrote Teodor e seus soldados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Mattias revelou que uma companhia de seus homens, liderada por Elia, está sob ataque em Rust Canyons e pode não sobreviver por muito tempo. Ajude os rebeldes a escapar dos desfiladeiros e afastar as forças inimigas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Mattias revelou que [url=glossary:unbroken]ininterrupto[/url] soldados, liderados por uma mulher chamada Elia, estão presos em Desfiladeiros de Ferrugem. Localize-os.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Elia precisa de sua ajuda para repelir um ataque das forças [url=glossary:disfavored]Desfavorecido[/url]. Ajude-a a defender o campo [url=glossary:unbroken]ininterrupto[/url] em Desfiladeiros de Ferrugem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>O ataque [url=glossary:disfavored]Desfavorecido[/url] foi repelido, mas mais estão a caminho. Viaje para o norte do acampamento Desfiladeiros de Ferrugem e derrote os soldados restantes para abrir caminho para os rebeldes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Elia pediu para você expulsar Teodor e seus homens de Desfiladeiro da Ferrugem, seja por espada ou intimidação, e resgatar seus homens cativos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Você matou os homens de Teodor e libertou os [url=glossary:unbroken]ininterrupto[/url] cativos. Elia vai querer saber das novidades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Você ajudou Elia e o [url=glossary:unbroken]ininterrupto[/url] a escapar Desfiladeiros de Ferrugem. Mattias ficará satisfeito.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Você ligou Elia e atacou o acampamento, perdendo o apoio do [url=glossary:unbroken]ininterrupto[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Missão falhou</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Você traiu seus aliados e não pode mais completar esta tarefa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>A oportunidade de resolver esta tarefa passou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30008</ID>
+      <DefaultText>A oportunidade de resolver esta tarefa passou.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

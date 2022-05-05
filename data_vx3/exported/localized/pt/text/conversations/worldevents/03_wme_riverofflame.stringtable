@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\worldevents\03_wme_riverofflame</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Sua jornada pela terra enegrecida e escaldada do Terrenos Contestados é interrompida quando as pedras sob seus pés tremem. Com um gemido que sacode o céu e sacode suas costelas, a terra se abre violentamente, lançando um arco de chamas, fumaça e cinzas no ar.
+
+O arco pirotécnico desmorona tão rapidamente quanto surgiu, espalhando faíscas pelo pedra quando ela cai no chão. Você se encontra separado de seu destino por uma faixa larga e curva de lava que flui lentamente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Crie uma ponte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Salte a lacuna.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Resfrie a lava.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Encontre outra rota.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Entre o equipamento em suas mochilas e os restos de troncos destruídos que pontilham a paisagem, você consegue criar uma travessia viável - embora precária - sobre a pedra derretida em movimento. Protegendo sua boca contra a fumaça, você segue seu caminho acima do fluxo e continua sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Com um salto correndo, você se joga no abismo, deslizando até parar abruptamente do outro lado. Suas pernas formigam, chamuscadas pelo calor brutal, mas você continua em direção ao seu destino implacável.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Suas mãos torcem e se contorcem, assinando o símbolo do Arconte de Gelo no ar, desenhando a antiga história do tempo. Você gesticula para fora, canalizando as energias arcanas para frente, e elas tomam forma em uma rajada de ar gelado o suficiente para congelar um Tierman em seu caminho.
+
+Você não vê nenhum efeito no início, mas o esforço contínuo faz com que o fluxo derretido diminua , escurecer e finalmente parar completamente. Você atravessa a ravina antes que o calor do [url=glossary:edict]Edital[/url] de Incêndio possa quebrar a terra novamente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Leva a maior parte de dois dias cansativos de escalada áspera e atravessando as lacunas entre pedras precariamente equilibradas, mas você finalmente localiza um arco de pedra rio acima que permite que você atravesse o rio em chamas ileso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Pergunte ao Eb para resolver isso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>O Lançador de Marés evoca uma névoa sombria que encontra a lava com uma profusão de vapor crepitante e turbulento. Quando o caminho à frente finalmente esfriar a uma temperatura meramente escaldante, você poderá atravessar com segurança o fluxo de lava endurecido.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Você procura materiais para criar uma ponte, mas não encontra nada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Você examina a lacuna, indo tão longe a ponto de fazer algumas corridas curtas em direção a ela, antes de decidir que não há como dar o salto.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\worldevents\00_wme_carttrap</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ao lado da estrada à frente você avista um carrinho. O veículo está abandonado, com uma roda solta de seu eixo. Vários caixotes e sacos permanecem empilhados na pequena carroça, enquanto um par de caixas descansa na grama ao lado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Ao se aproximar, você vê que o carrinho possui quatro rodas (ou tinha, antes da perda da traseira esquerda) e uma longa tachinha de couro e arnês para um caminhão Homem-Besta. Uma das caixas que caiu no chão se abriu ao longo de sua borda, e frutas caíram no chão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Aproxime-se do carrinho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Deixe o carrinho em paz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Você passa pelo carrinho e continua pela estrada, cauteloso com o perigo. Logo você deixa o carrinho para trás e segue para o seu destino.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Saqueie o carrinho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Examine o carrinho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Deixe o carrinho em paz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Subindo no carrinho, você começa a abrir caixas, vasculhar seu conteúdo e ensacar as dezenas de frutas e grãos frescos. Você ainda encontra um barril de cerveja fresca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Você imediatamente percebe o chicote do caminhão quebrado, provavelmente o resultado de uma arma branca. A roda quebrada também parece menos consequência do acidente do que do esforço humano. Os respingos de sangue escuro e seco nas tábuas confirmam suas suspeitas de que este carrinho foi atacado.
+
+Ainda assim, as mercadorias permanecem...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Você passa pelo carrinho e continua pela estrada, cauteloso com o perigo. Logo você deixa o carrinho para trás e segue para o seu destino.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Prepare-se para o ataque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Você saca sua arma e se agacha na defensiva, olhando para a linha das árvores na expectativa de uma emboscada. Com certeza, você percebe lampejos de movimento através do pincel.
+
+A iniciativa é sua, no entanto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Embosque os emboscados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Roube para evitar o ataque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Deixando o carrinho para trás, você colide com a vegetação rasteira, dirigindo seu ataque ao Tiersmen em couros desgastados e bronze incompatíveis que erroneamente acreditavam que poderiam derrubar você ....</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Você se move pela estrada com pressa, olhos sempre alerta para um ataque que não vem. Você rapidamente deixa o carrinho para trás e, depois de colocar uma distância segura entre você e o carrinho, retoma sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Deixando o carrinho para trás, você colide com a vegetação rasteira, conduzindo seu ataque ao Tiersmen em couros desgastados e bronze incompatíveis que conseguem trazer armas para encontrá-lo. Flechas e dardos sibilam pelo ar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Você se move pela estrada com pressa, mas os bandidos se movem mais rápido. Flechas e dardos chovem ao seu redor, e você se vê cercado...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Então a primeira flecha atinge o lado do caixote mais próximo, e homens e mulheres em couro esfarrapado e bronze manchado avançam para a clareira...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

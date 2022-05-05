@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\08_vendrienswell\08_cv_edgeringruins_stoneshield_wounded</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Não se preocupe comigo! Desça até a passagem. Drastus..." 
+
+O soldado aperta o estômago e estremece. Você pode ver uma sugestão de entranhas entre seus dedos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Você está ferido, e não é trivial."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Não tenho tempo para isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Ele ri com os dentes cerrados. "Isso? Mas um arranhão. Já vi duas vezes pior dez vezes."
+
+Ele se dobra de dor, engasgando e tremendo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Vá... continue. [url=glossary:graven ashe]Cinza esculpida[/url] está comigo..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Se você me deixar ajudar..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Eu disse que estou bem!" O soldado geme e balança a cabeça. "[url=lore:edgering_asheaegis]Cinza esculpidaprotege[/url]. Vá em frente e ajude os outros."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Mantenha sua coragem, então. Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Ele libera suas feridas para lhe dar uma saudação dolorosa. "Saudação [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Vá em frente... me deixe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Eu disse que ia sobreviver, não disse? [url=glossary:graven ashe]Cinza esculpida[/url] protege."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

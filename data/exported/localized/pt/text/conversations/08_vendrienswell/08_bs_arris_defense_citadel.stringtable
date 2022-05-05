@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\08_vendrienswell\08_bs_arris_defense_citadel</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Eles conseguiram ultrapassar as paredes! Forma para cima, lutem juntos e não mostrem trégua!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Preciso de guerreiros naquela parede - mais virão e precisamos empurrá-los de volta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Vinculador do Destino, desça e tire essa ralé do meu portão!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Recuar! Cair pra trás! Para dentro a fortaleza, todos vocês! Nós vamostenho nossa posição dentro!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Vinculador do Destino, apresse-se para o pátio lateral e ajude a afastar o inimigo. Seguirei em breve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Vinculador do Destino, veja se você consegue descer a parede e neutralizar os soldados - pegue-os de surpresa!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Expulse-os da fortaleza! Estrangular a entrada com seus cadáveres - ainda podemos sair dessa vivos!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Arri aponta para uma passagem que leva ao oeste.
+
+"Abrimos uma de nossas passagens secretas para você usar. Contorne o [url=glossary:scarlet chorus]Coro Escarlate[/url]. Não mostre piedade a eles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Arri aponta para uma passagem que leva ao leste. "Abrimos uma de nossas passagens secretas para você usar. Contorne o [url=glossary:disfavored]Desfavorecido[/url]. Não mostre piedade a eles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Ele indica a passagem do lado oposto. "Vamos seguir nesta direção. A sorte esteja com você!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Irmãos e irmãs," Arri examina os rostos dos [url=glossary:vendrien guard]Guarda Vendrien[/url] ainda de pé, "Acho que estamos sem terreno para dar. Venha, vamos fazer nossa posição final em [url=glossary:ascension hall]Salão da Ascensão[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

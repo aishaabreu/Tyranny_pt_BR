@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\05_cairnplains\05_cv_settler_bark_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Não tem tempo para nenhum gnashgabber. Nem estranhos, tampouco. Então vá em frente, sim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Você sentiu aquele tremor, não foi? Não foi apenas um pequeno abalo, claro, mas sei que eventualmente o grande está chegando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Ouvi dizer que houve outro ataque ontem à noite. Mal posso sair de casa agora para aqueles malditos Bestas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Nó do banco4</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,203 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\worldevents\00_wme_forgottenclutch</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>39</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>No final da estrada, uma criança pequena se agacha ao lado de uma carroça abandonada, vasculhando seu conteúdo. De longe, ela se parece com um moleque sujo, rosto sorridente coberto de sujeira, sua túnica rasgada e completamente manchada. Ela vê sua aproximação e solta um pequeno ganido, correndo para um bosque de árvores e desaparecendo de vista.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Siga a garota.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Ignore a criança e siga em frente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Você decide seguir em frente, despreocupado com o paradeiro da criança. Ao passar pela carroça, você vê que foi completamente despojado de seu conteúdo - algumas cabeças de repolho podre e algumas batatas colhidas por ratos do campo são tudo o que resta. A criança vai precisar de muito mais do que isso para durar a temporada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Você segue a criança enquanto ela tece entre as árvores até que a floresta dê lugar aos campos abertos de uma pequena fazenda, vazia da última colheita. A garota o conduz pelos terrenos, passando por duas casas vazias e uma fileira de colméias de barro, eventualmente correndo para um celeiro aberto. Ao entrar atrás dela, você vê um bando de crianças amontoadas na parte de trás, tremendo quando você se aproxima. Há seis ao todo, rostos magros e olhos cansados compartilhados entre todos eles. Um menino deixa cair uma pequena faca quando você se aproxima, deixando-a desaparecer entre as dobras de palha a seus pés.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>As crianças juram que estão sozinhas, alegando serem órfãs de uma aldeia massacrada. Eles fugiram durante a luta e se retiraram para esta fazenda. Seus donos, eles afirmam, foram mortos pelas forças [url=glossary:kyros]Kyros[/url]. O celeiro está cheio de centeio colhido e alguns potes de mel armazenado, sem dúvida as razões pelas quais essas crianças ainda estão vivas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Pergunte sobre o carrinho vazio na estrada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Deixe comida e anéis para as crianças.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Encomende as crianças em serviço com o Refrão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Envie-os para trabalhar para o [url=glossary:disfavored]Desfavorecido[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Envie-os para treinar como espiões para [url=glossary:tunon]Tunon[/url]Tribunal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Queime a fazenda.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Deixe as crianças para trás.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Algumas das crianças trocam olhares preocupados antes que a garotinha que você seguiu fale. Sua voz vacila e ela deixa escapar uma explicação gaguejante - o carrinho provavelmente foi usado por um comerciante viajante e abandonado quando os soldados entraram em confronto na área próxima. Seus olhos se movem para o chão por um breve momento, tempo suficiente para você seguir seu olhar para uma bota de couro quase invisível entre os feixes de palha amarrados. Você passa por eles e chuta os fardos para o lado, revelando o cadáver de um homem de meia-idade com várias perfurações no pescoço e nas costas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>As crianças suspiram com a revelação e algumas começam a chorar. A jovem alega inocência, alegando que o homem descobriu a fazenda e a atacou, prendendo-a na palha antes que seus amigos voltassem e o esfaqueassem até a morte. Ela implora para você acreditar nela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Os suprimentos armazenados vão durar mais uma temporada para as crianças, mas não muito além disso. Você abre sua mochila e entrega às crianças alguns pedaços de carne curada e, mais importante, alguns anéis, aconselhando-os a encontrar um assentamento próximo e procurar atendimento. O grupo está agradecido, mas cauteloso, não se afastando de seu grupo protetor até que você saia do celeiro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>A herdade não é muito visível da estrada principal, mas os trilhos que levam até ela, marcados por arbustos desgastados e grama achatada, serão avistados por outros viajantes. Os órfãos não podem se esconder por muito tempo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Com toda a probabilidade, essas crianças morrerão sem uma mão orientadora. Você escreve uma carta com instruções para qualquer patrulha ou guarnição Refrão para aceitá-los como trabalhadores do acampamento, para eventual recrutamento quando atingirem a maioridade. A vida de uma criança no Refrão não é fácil, mas as leis do de Nerat exigem que as crianças sejam honradas e acarinhadas - tornando a vida no Refrão um pouco mais segura do que a vida no deserto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Não há gratidão em seus olhos quando você lhes entrega o pergaminho enrolado e os instrui a buscar o Refrão. Se eles tiverem algum bom senso, seguirão seu conselho antes que algo pior aconteça nesta fazenda.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Essas crianças foram deslocadas, mas podem encontrar propósito a serviço do [url=glossary:disfavored]Desfavorecido[/url]. Você escreve uma missiva para o [url=glossary:disfavored]Desfavorecido[/url] e ordena que as crianças esperem pela próxima [url=glossary:disfavored]Desfavorecido[/url] patrulha, ponto em que as crianças serão submetidas a trabalho árduo que nenhuma criança está pronto para suportar, mas eles serão alimentados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Os jovens sobreviventes estão apreensivos - alguns acenam esperançosos, enquanto outros permanecem em silêncio, sem saber como reagir. Não está claro se eles seguirão ou não suas diretrizes, mas isso seria para seu benefício... eles enfrentam ameaças muito mais graves aqui, sozinhos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Embora meras crianças, os patifes são tenazes e inteligentes - requisitos para a sobrevivência aqui, sozinhos - e podem ser úteis no [url=glossary:tunon]Tunon[/url] Tribunal. Deixados por conta própria, eles quase certamente morrerão com o tempo. Você escreve uma declaração: as crianças devem ser avaliadas pelo Vinculadores do Destino da Corte para um possível atendimento e, caso sejam encontradas em falta, atribuídas a comerciantes locais, conforme melhor se adapte às necessidades da cidade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>A jornada não será fácil, você adverte, mas é necessário se eles quiserem sobreviver após a próxima temporada. A jovem pega o pergaminho e agradece, embora o resto das crianças pareça insegura. Você coleta alguns grãos e mel para si mesmo e sai do celeiro, deixando-os contemplar seu destino.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>história dos órfãos pode ou não ser verdadeira, mas o certo é que eles mataram um homem, levaram seus bens e agora ocupam sua fazenda - tais crimes não podem ser ignorados. Com as armas em punho, você ordena que as crianças fujam da fazenda sob pena de morte. Você pega pederneira e jaspe de uma bolsa e, após alguns golpes precisos, incendeia a palha do celeiro. O prédio logo é envolvido em chamas, seu conteúdo é combustível para o aviso que você criou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Você se move de um campo para o outro, até que toda a área seja engolida pelas chamas. As crianças gritam ao longe, gritos de confusão e medo ecoando pela fazenda. Quando você chega à estrada principal, eles ficam em silêncio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Os órfãos são de pouca preocupação para você, não é algo que valha a pena uma longa distração. Enquanto eles se encolhem no centro do celeiro, você junta alguns grãos e mel para a jornada à frente e segue em direção à saída, dizendo às crianças que a situação deles não é uma que você tenha tempo de abordar. Você pode sentir seus olhos confusos sobre você ao sair do prédio. Um menino corre para fora e grita atrás de você, querendo saber o que será deles. Você continua passando pelos campos vazios, ignorando suas repetidas ligações.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Não há nenhuma garantia que você possa dar a ele. O grão irá alimentá-los pelo resto da temporada, mas essa é a menor das preocupações das crianças - a fazenda será descoberta por outros viajantes mais famintos e menos misericordiosos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Eles observam sem palavras enquanto você pega uma pequena quantidade de grãos e mel para seu uso pessoal, ainda amontoados quando você sai do celeiro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Eles observam sem palavras enquanto você pega uma pequena quantidade de grãos e mel para seu uso pessoal, ainda amontoados quando você sai do celeiro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\01_poi_fight_continue</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Nó aleatório4</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Você sabe que há mais coisas à espreita em algum lugar. Vamos encontrá-los para que possamos acabar com isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"[url=glossary:unbroken]ininterrupto[/url] acho que os soldados podem se esconder de Mulher-Besta, tremendo na escuridão. Está errado. Kills-in-Shadow pode cheirar o medo dos humanos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Devemos vasculhar este matadouro e limpar qualquer [url=glossary:unbroken]ininterrupto[/url] ainda à espreita."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Alguns outros moradores certamente estarão por perto. Vamos despachá-los?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Hora de limpar o resto desta choupana. Fique de olho em qualquer retardatário."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Quase lá. Vamos garantir que este forte esteja livre de inimigos."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

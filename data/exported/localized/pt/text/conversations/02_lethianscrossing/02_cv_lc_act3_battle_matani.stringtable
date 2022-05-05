@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\02_cv_lc_act3_battle_matani</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Obrigado por sua ajuda, Vinculador do Destino." Matani respira fundo e se inclina. "Meus ferimentos são um pouco mais graves do que eu pensava. Acho que vou ficar aqui por enquanto." Ela para e respira fundo. "Enviei alguns soldados para o primeiro nível para lidar com o [url=glossary:disfavored]Desfavorecido[/url], mas fui assaltado no caminho para ajudar Eldian. Há também alguns colonos presos pelo fogo lá em cima."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Obrigado por sua ajuda, [Player Name]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Os colonos não vão durar muito se forem deixados sozinhos, mas os soldados não vão durar para sempre tentando manter o [url=glossary:disfavored]Desfavorecido[/url] à distância." Ela suspira, sua rosto estremecendo de dor. "Acho que não há tempo suficiente para lidar com os dois problemas. É uma coisa terrível pedir a você, mas você precisará decidir quem precisa mais de sua ajuda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Vinculador do Destino, você está ferido. Você gostaria que eu cuidasse de seus ferimentos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Você tem que escolher rapidamente. Leve este balde para usar nas barricadas em chamas. Há barris cheios de água por todo o Cruzando se você precisar deles."
+
+"Se você for ferido em batalha, volte para mim. Não sou curandeira, mas ajudarei como puder!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Nó aleatório 25</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Precisamos de músculos extras se quisermos manter o assentamento inteiro. Os soldados merecem nossa ajuda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Os soldados sabem o que precisa ser feito. Devemos cuidar daqueles que não podem se defender."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>A Mulher-Fera lábios descascam em um sorriso de escárnio. "Se os humanos são fracos demais para sobreviver, deveria simplesmente deixar a maioria dos humanos inúteis morrer, sim? Ajude apenas os lutadores mais fortes. É a estratégia de caça mais inteligente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Oh, não olhe para mim. Se fosse minha ligação, encontraríamos algum canto para esconder e registrar notas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Soldados sabem no que estão se metendo quando vão para a guerra. Os colonos são pessoas inocentes presas em algo que não criaram!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Não podemos defender o assentamento sem a mão de obra extra... Eu voto para ajudar os soldados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Obrigado por sua ajuda hoje, [Player Name]. Por sua causa, conseguimos proteger [url=glossary:lethian's crossing]A travessia de Lethian[/url] do [url=glossary:disfavored]Desfavorecido[/url]. Mas a batalha de hoje me deixa preocupado pelo resto do Camadas. Se Ashe foi descarado o suficiente para atacar [url=glossary:lethian's crossing]A travessia de Lethian[/url] então [url=glossary:the voices of nerat]o Vozes de Nerat[/url] certamente não pensará duas vezes antes de tentar a mesma coisa em outro lugar..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Este é simplesmente o começo. Se algo não for feito com o Arcontes, eles não pararão até que os Tiers estejam em ruínas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"E [url=glossary:lethian's crossing]A travessia de Lethian[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Vou derrubar o outro Arcontes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Farei tudo o que puder para restaurar este assentamento como Eldian faria. Temos uma responsabilidade com as pessoas aqui e precisamos reparar os danos causados a [url=glossary:lethian's crossing]A travessia de Lethian[/url] e seus cidadãos."
+
+"Você faz o que precisa fazer. Termine isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Nó aleatório6</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Faça o que quiser com os outros, mas Ashe e a legião estão fora dos limites. Eu não gostaria que você os atacasse enquanto eu estiver a serviço de sua causa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Os níveis deve estar provando ser um pouco mais difícil de esmagar do que os generais jamais imaginaram. Já brincamos bastante com esses saqueadores, vamos levar a batalha para o Arcontes, mostrar a eles a medida do erro que cometeram ao atacar nossas terras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Mortes em breve-in-Shadow não apenas levará o nome de Caçador da sombra, mas também será conhecido como Arconte-hunter. Como este nome, este título rivaliza até com Mulheres-feras chamado [url=glossary:prima]Prima[/url]." Ela sorri largo e ansioso, mostrando suas presas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ela faz parecer tão fácil! Nós somose apenas deveria entrar em Lareira de Ferro e... bem... suponho que depois desse ataque, eles estariam mais vulneráveis... talvez agora seja a hora de atacar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Isso significa que finalmente posso dar uma chance a Nerat? O que estamos esperando?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Estou jurado a [url=glossary:the voices of nerat]o Vozes de Nerat[/url], mas se ele não pode se defender, então ele não é meu chefe. Eu digo vá em frente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Matani te saúda. "Se você ficar contra eles, os Arcontes não terão esperança. Você provou ser a força de mudança que as pessoas precisam."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Matani te saúda. "Se você ficar contra eles, os Arcontes não terão esperança. Você provou ser a força de mudança que as pessoas precisam."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Matani te saúda. "Se você ficar contra eles, os Arcontes não terão esperança. Você provou ser a força de mudança que as pessoas precisam."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Matani te saúda. "Se você ficar contra eles, os Arcontes não terão esperança. Você provou ser a força de mudança que as pessoas precisam."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Matani te saúda. "Se você ficar contra eles, os Arcontes não terão esperança. Você provou ser a força de mudança que as pessoas precisam."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Só há espaço para um Arconte no Camadas, e esse sou eu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Os [url=glossary:disfavored]Desfavorecido[/url] elevaram a ponte levadiça para o nível superior e estão guardando-a. Se você quiser chegar lá, precisará atirar no guincho que segura a ponte."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

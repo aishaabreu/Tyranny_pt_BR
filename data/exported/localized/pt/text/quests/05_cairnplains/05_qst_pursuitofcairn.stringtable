@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\05_cairnplains\05_qst_pursuitofcairn</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>27</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Em Busca de [url=glossary:cairn]Cairn[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Jornada à Rocha Uivante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Recupere o fragmento de Azurelith.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Fale com Oitava para preparar o ataque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Explorar o Earthshaker composto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Ataque os Earthshakers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Destruir [url=glossary:cairn]Cairn[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Fale com Nerat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Informe Nerat da destruição de [url=glossary:cairn]Cairn[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Fale com Oitava.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Interrompa o ritual do Earthshaker.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>caminho para [url=glossary:cairn]Cairn[/url] foi aberto e o [url=glossary:scarlet chorus]Coro Escarlate[/url] pode prosseguir para Rocha Uivante. Lá, [url=glossary:cairn]Cairn[/url] podem ser destruídos e o [url=glossary:edict]Edital[/url] de Pedra terminou de uma vez por todas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Viajar para Howling Rock para encontrar o corpo de [url=glossary:cairn]Cairn[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Em Gulfglow está um comandante [url=glossary:disfavored]Desfavorecido[/url] que possui o fragmento de Azurelith necessário para entrar no campo Earthshaker em Rocha Uivante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Com um fragmento de Azurelith puro em mãos, você pode começar a atacar o Tremedores de terra em Howling Rock. Sinal para oitava que você está pronto para atacar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>[url=glossary:cairn]Cairn[/url] está atualmente cercado por um acampamento Earthshaker. Explore o acampamento em Rocha Uivante para encontrar uma maneira de entrar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Use o fragmento de Azurelith para entrar no composto Earthshaker em Rocha Uivante e mate todos lá.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Agora que os Earthshakers estão todos mortos, a única coisa que resta a fazer é destruir [url=glossary:cairn]Cairn[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Viaje para Cacophony e deixe [url=glossary:the voices of nerat]o Vozes de Nerat[/url] que o ataque a Rocha Uivante está pronto para começar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Volte para [url=glossary:the voices of nerat]the Vozes de Nerat[/url] na Cacophony e deixe-o saber que você matou com sucesso [url=glossary:cairn]Cairn[/url] e quebrou o [url=glossary:edict]Edital[/url] de Pedra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Reúna-se com Oitava em Howling Rock para avaliar a situação atual.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Os sacudidores de terra estão realizando um ritual. Pare com isso quebrando as pautas embutidas nos filões Azurelith ao longo de Rocha Uivante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Diga Oitava sobre as informações que você coletou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Colha um pedaço de [url=glossary:cairn]Cairn[/url] para se tornar mais poderoso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você destruiu [url=glossary:cairn]Cairn[/url] em Howling Rock para o [url=glossary:scarlet chorus]Coro Escarlate[/url]. [url=glossary:the voices of nerat]As vozes de Nerat[/url] ficará satisfeito com o seu sucesso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você falhou em garantir a passagem para Rocha Uivante para você e para o [url=glossary:scarlet chorus]Coro Escarlate[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>O caminho para [url=glossary:cairn]Cairn[/url] foi aberto. Você pode prosseguir para Rocha Uivante. Lá, [url=glossary:cairn]Cairn[/url] podem ser destruídos e o [url=glossary:edict]Edital[/url] de Pedra terminou de uma vez por todas.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

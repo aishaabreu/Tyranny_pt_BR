@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\02_cv_welby_ironhaul_trail</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"O Coro e o [url=glossary:disfavored]Desfavorecido[/url] entraram em guerra civil, então preciso de soldados para ajudar a fazer cumprir as leis Soberano. Sua empresa está contratada?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Você está me provocando, Fatebinder? Muitos dos mercenários Cidades Livres aceitaram contratos com [url=glossary:kyros]Kyros[/url] e nunca retornaram. Use-nos uma vez e a vergonha é nossa, mas use-nos duas vezes... como regra, nunca dizemos para nunca pagar contratos, mas não desejamos ser peões de [url=glossary:kyros]Kyros[/url] mais uma vez."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

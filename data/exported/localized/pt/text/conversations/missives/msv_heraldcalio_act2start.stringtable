@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\missives\msv_heraldcalio_act2start</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Player Name],
+
+Você deve se reportar a [url=glossary:tunon]Tunon[/url] imediatamente - sem atrasos. Apresse-se ao seu tribunal no [url=glossary:bastard city]Cidade bastarda[/url], lá você responderá às do juiz perguntas.
+
+Se você agiu dentro dos limites da justiça, você tem pouco a temer, mas [url=glossary:tunon]Tunon[/url] deseja saber a verdade do que ocorreu em [url=glossary:vendrien's well]Poço de Vendrien[/url] - e ele quer ouvir diretamente da boca de seu agente de confiança.
+
+Se você agiu fora dos limites da justiça... bem, nesse caso, [url=glossary:bleden mark]Marca de mistura[/url] e eu vou caçar você. Mas vamos queimar essa ponte quando chegarmos lá...
+
+-Calio
+
+PS - Estou muito satisfeito que o [url=glossary:edict]Edital[/url] não tenha acabado com sua vida. Gastamos tanto tempo e esforço treinando você, parece um desperdício vê-lo morrer tão jovem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Reconhecido, ansioso para ver sua [série de palavras rabiscadas] presença encantadora.
+
+Com os [url=glossary:scarlet chorus]Coro Escarlate[/url] e [url=glossary:disfavored]Desfavorecido[/url] em desacordo, cairá até nós, deputados de [url=glossary:tunon]Tunon[/url], para manter a ordem nesta terra sufocante e abandonada. Que a honra de nossa causa lhe dê força.
+
+-Calio</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Embora eu esteja desanimado que meu treinamento não tenha inspirado mais confiança, é sábio pedir ajuda em tempos difíceis como estes.
+
+Existem algumas tarefas que exigem minha atenção imediata, mas se nós, os Fatebinders, não promovermos as habilidades uns dos outros , quem o fará?
+
+Falaremos novamente sobre este assunto quando for a hora certa. Já faz muito tempo desde que eu te dei olhares de desaprovação quando você erra seus alvos.
+
+-Calio</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Mantenha-o curto e educado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Veja se ela pode ajudar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Envie uma resposta de confronto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Calio,
+
+Obrigado por entregar a mensagem, mas o tempo de instrução acabou e não preciso mais de sua supervisão e palestras.
+
+Dizer [url=glossary:tunon]Tunon[/url] Estarei lá quando estou pronto. Se ele tiver algum problema com isso, peça para ele enviar um emissário para o Pináculo da montanha e eu para entreter seu mensageiro.
+
+-[Player Name]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Envie isto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Volte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Calio,
+
+Pedido recebido, vou partir imediatamente para o [url=glossary:bastard city]Cidade bastarda[/url].
+
+Parece que minha atribuição no Camadas ficou mais... interessante . Você me treinou bem, mas considerando as circunstâncias, eu não faria objeção a mais algumas lições... se você estiver disposto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Calio,
+
+Partirei assim que este pergaminho for enviado para você. Eu mantenho minhas ações em [url=glossary:vendrien's well]Poço de Vendrien[/url] e farei um resumo [url=glossary:tunon]Tunon[/url] em pouco tempo.
+
+-[Player Name]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Envie isto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Volte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Envie isto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Volte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Player Name],
+
+Bem, olhe quem está crescendo cabelos cacheados lá embaixo! Você euMe perdoe, mas [url=glossary:kyros]Kyros[/url] não me incluiu na missiva em que você foi promovido a Chefe de Justiça de todos os Terrato.
+
+Você sabe qual é a melhor parte do meu trabalho ? Não, não o abuso de poder - isso foi fofo no começo, mas o charme se esgotou. Não, a VERDADEIRA alegria é quando eu consigo ser aquele que esculpe a podridão que apodrece dentro do Tribunal. Pegar um criminoso é fácil - levar um bandido Vinculador do Destino à justiça... essa é uma caçada que vale a pena.
+
+Eu sempre meio que não odiei você inteiramente, [Player Name]. Mas no dia em que você me der uma desculpa para destruí-lo, é apenas uma questão de ser eu ou [url=glossary:bleden mark]Marca de mistura[/url] que chegará a você primeiro.
+
+Agora vá para o Tribunal.
+
+-Calio</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

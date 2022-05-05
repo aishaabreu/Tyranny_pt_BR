@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\06_endgame\06_cv_ashesurrender_cutscene</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>25</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Vinculador do Destino, você provou ser um Em geral mais verdadeiro do que eu jamais fui. Eu renuncio meu domínio sobre essas mulheres e homens, e os coloco sob sua guarda." Ele suspira e fica à vontade. "Peço apenas que você seja bom para eles. Eles estão longe de casa e merecem tratamento e liderança condizentes com seu sangue nobre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Você carrega um fardo pesado agora. Não é tarefa fácil liderar uma legião. Suas vidas, e suas mortes, são suas." Ele estremece e cheira uma lágrima.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Eu me submeto a você. Como seu Arconte I obedecerá suas leis, cumprirá suas ordens e protegerá qualquer modo de vida que você achar adequado impor ao Camadas... e além."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Chegou a hora de trazer glória e triunfo a esta conquista. Vá agora e traga ordem ao que resta do Camadas. Ficarei para trás com o exército - treinando e me preparando para cumprir sua vontade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Vou deixar o [url=glossary:disfavored]Desfavorecido[/url] orgulhoso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Seus soldados procurarão orientação para você. Você deve estar pronto para enfrentar qualquer desafio em seu nome. Lidere pelo exemplo. Lidere com o punho de ferro do [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Farei tudo o que estiver ao meu alcance para merecer esta honra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Recebi a notícia antes de você chegar. Embora os outros Arcontes sejam derrotados, [url=glossary:kyros]Kyros[/url] envia outro exército para marchar sobre o Camadas. Eles fazem o Pináculo da Montanha e cantam pelo seu sangue. Parece que o soberano não vai tolerar a concorrência. Quais são seus pedidos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Vou precisar de uma distração, ou uma represália."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ao norte em si... Não gosto nada dessa ideia, mas não posso negar que é o curso de ação correto. Faça o que for preciso para repelir esse avanço. Vá agora - para [url=glossary:vendrien's well]Poço de Vendrien[/url]!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Às vezes... a tensão era demais, mesmo para gente como eu. A devoção cobra um preço alto, e ao longo dos anos, isso me desgastou até..." Ele para, focando em algum ponto distante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Você está bem, Ashe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Não diga nada.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Multar... bem. Ignore a mente errante de um velho. Você ainda é jovem, com o mundo à sua frente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Nossas ações serão conhecidas em todo o Terrato."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Para o Norte!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"O que você recomendaria?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Nada menos que uma demonstração de poder deterá o avanço Soberano. Sugiro que você encontre um meio de exibir sua autoridade que envie uma mensagem clara."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Se você pretende enfrentar esta ofensiva, eu não recomendaria fazê-lo no campo de batalha. Os [url=glossary:disfavored]Desfavorecido[/url] são capazes, e continuarei a reforçar sua determinação, mas temo que isso justifique algo mais do que um gesto militar... algo que causaria até [url=glossary:kyros]Kyros[/url] para pausar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Um [url=glossary:edict]Edital[/url] no Império do Norte deve resolver o problema."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Eu mal posso acreditar... você é o Grande General agora. Eu adorarei Ashe até o dia da minha morte, mas nunca esperei vê-lo dobrar o joelho." Barik acena para você com grande respeito.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Uma gangue sua para dar ordens? Isso é impressionante - mesmo se você considerar que eles são um bando de chorões de ferro Norte. Dê-me uma quinzena e eu os colocarei em forma."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Como seu General e Arconte, exijo obediência e súplicas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Vejo que você está bem ciente dos benefícios de sua estação. Muito bem. Você deve executar sua autoridade como achar melhor." Ashe estremece e olha para você com medo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Então posso transmitir minha autoridade com um coração mais leve. Lembrar, Arconte... não é suficiente matar seus inimigos aos milhares. Você deve sempre se lembrar por que luta."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\06_endgame\06_cv_bleden_mark_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Sou [url=glossary:kyros]Kyros[/url]' servo leal e estou apenas tentando permanecer fiel à nossa missão de conquista - mesmo que isso entre em conflito com o Arcontes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>[Mentira] "Sou [url=glossary:kyros]Kyros[/url]' servo leal e estou apenas tentando permanecer fiel à nossa missão de conquista - mesmo que isso entre em conflito com o Arcontes."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

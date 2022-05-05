@@ -1,0 +1,287 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\08_vendrienswell\08_cv_disfavoredcamp_lucia_marcus</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>53</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"eu sou a Lúcia, aqui é Marco," o [url=glossary:disfavored]Desfavorecido[/url] soldado aponta para o homem blindado ao lado dela, "e você deve ser... [url=lore:vw_heraldrole]o Vinculador do Destino[/url]." De debaixo de seu capacete você ouve uma zombaria audível. "Nós Ve foi designado para babys-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"O que podemos fazer por você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Marco, conte-me sobre você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Lúcia, conte-me sobre você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Como é servir com o [url=glossary:disfavored]Desfavorecido[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Não sei porque, mas foi o que ouvi. Faz você se perguntar sobre as lealdades Fatebinder. São [url=glossary:tunon]Tunon[/url] e o Vozes consp-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Bem-vindo de volta, Vinculador do Destino. Lucia aqui estava apenas mencionando isso-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Não tenho certeza se há muito a dizer. Treinei em Resolução do Forte, esta é minha primeira campanha e tenho orgulho de estar com a legião."
+
+"Eu... fui ferido no Portões do Julgamento, mas [url=glossary:graven ashe]Cinza esculpida[/url]' A proteção de s me curou bem. Devo minha vida a ele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Eu faço isso," ela levanta sem entusiasmo seu escudo pesado, "e eu faço isso." Ela zombeteiramente apunhala o ar com sua lança.
+
+Lucia dá de ombros. "Jogando host não é meu forte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Apesar do nosso nome, a legião comanda mais honra do que qualquer militar diante de Terrato. Ao contrário do Coro, há tradição, disciplina, trabalho em equipe e unidade de propósito."
+
+Marcus olha para o acampamento. "Lá não somos muitos, mas é melhor assim. Somos uma família unida pela confiança e glória."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Bem, se não for o Vinculador do Destino..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Você está se gabando de ter baixado a guarda e levado uma lança no estômago? Você realmente não deveria se gabar de um imundo Tierman superando você na batalha." Lucia revira os olhos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Você está apenas amargurado que Senhor Ashe nunca parece notar você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Preciso o suficiente," Lucia dá de ombros. "Depois vendo a desunião e as brigas dos Reino mais jovem defensores, sinto-me sortudo por estar na legião mais agradável de [url=glossary:kyros]Kyros[/url]' anfitrião. Mesmo que nem sempre sejamos os mais eficientes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Atribuído à sua hospitalidade," Marcus interrompe rapidamente, "enquanto você permanecer no [url=glossary:disfavored]Desfavorecido[/url] solo."
+
+"Se você precisar de um lugar para descansar, podemos fazer o necessário preparativos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Saudações, Fatebinder!" Marcus liga para Lúcia. "Vejo que você voltou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Só porque você pediu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"... que você tem sido um verdadeiro trunfo para o [url=glossary:disfavored]Desfavorecido[/url] desde que chegou. Não que alguém esperasse algo diferente." Ele sorri para você com orgulho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Com toda a seriedade, eu pegaria aquela lança novamente se trouxesse honra ao [url=glossary:disfavored]Desfavorecido[/url]. [url=glossary:kyros]Kyros[/url] sabe que podemos usá-lo. Somos os combatentes de elite do exército Norte, mas de alguma forma ainda nos falta a confiança Soberano." Ele balança a cabeça e suspira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Ignore meu sarcasmo. Eu vi a legião através da minha parte da campanha. Depois de tanto derramamento de sangue, nossas pretensões de honra podem me desgastar." 
+
+Ela vira um olhar cauteloso em sua direção. "O Norte é minha casa, e considero cada um dos bastardos férreos deste acampamento como uma família. Você não encontrará outro exército onde cada membro da falange seja tão amado e querido quanto o próximo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Sim, e se você quiser algumas dicas sobre como usar essa sua arma, é só me avisar." Ela pisca.</DefaultText>
+      <FemaleText>"Sou útil de várias maneiras, acredite." Ela pisca. "Armas embora - sim, você poderia dizer que eu sei o que estou fazendo."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Lúcia! Você está flertando com [url=glossary:tunon]Tunon[/url]Vinculador do Destino?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Relaxar, Marco. Há muitos escravos do acampamento se eu precisar coçar uma coceira. Embora..." Através das viseiras de seu elmo você percebe da Lúcia olhos percorrendo seu corpo de cima a baixo. "Se você precisar de alguém para aquecer seu saco de dormir, me avise. Eu durmo na minha armadura. Espero que não se importe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Marco, gostaria de um treinamento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Lúcia, eu poderia usar algum treinamento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Claro, Fatebinder!" Marcus bate o punho na armadura em saudação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Finalmente! Alguma diversão para quebrar a monotonia deste cerco."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Toda batalha é um lembrete da superioridade da legião. Os violadores de juramento têm muito coração, mas nada que supere nossos valores Norte e o amor de [url=glossary:graven ashe]Cinza esculpida[/url]." 
+
+"Se você quiser desfrutar desse sentimento, posso lhe poupar o hora do dia para cruzar ferro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Você parece habilidoso com uma arma, Lúcia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "Eu sei uma coisa ou duas sobre cuspir inimigos que são estúpidos o suficiente para me desafiar - e daí?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Fácil, Lúcia. Não punimos a curiosidade aqui. Não há necessidade de perder o controle com base em uma simples reflexão."
+
+"Eles nos treinam bem, Vinculador do Destino. O Arconte garante que nosso potencial seja realizado antes de chegarmos à batalha, então a maioria de nós mantém a cabeça fria quando vê qualquer ação." Ele olha para Lúcia com uma carranca. "A MAIORIA de nós, eu disse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Como suas habilidades se saíram na batalha contra os violadores de juramento, Marcus?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "Esperar, isso é tudo um ardil? [url=glossary:tunon]Tunon[/url] enviou você para testar o treinamento e a coragem do exército? Porque eu não vai aguentar!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Você vai se acalmar, seu emaranhado de nervos? Esse é depois de quantos ferimentos na cabeça você levou na semana passada? Pare procurando inimigos por trás de cada sombra. Garanto que você ficará desapontado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Eu também, mas você não me ouve me gabar disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Se a legião possui tanta honra, por que eles são '[url=glossary:disfavored]Desfavorecido[/url]?' "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"A história é de conhecimento geral, mas não a discutimos aqui, bem... não é considerada educada. Tem a ver com [url=glossary:graven ashe]Cinza esculpida[/url] e a ascensão do império [url=glossary:kyros]Kyros[/url]'. Tenho certeza que você pode juntar algumas peças."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "Receio que isso não seja para mim dizer. Outros ao redor do acampamento podem contar mais, mas eu não discuto livremente a do Grande General história para pessoas de fora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Mas você vai dizer que envolve o Grande General, que já é uma pista reveladora, idiota."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Droga. Pelo menos o Marechal de Ferro não está ao alcance da voz, ou eu estaria lavando minha boca com absinto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Ashe e [url=glossary:kyros]Kyros[/url] nem sempre estavam nos melhores termos, mas tudo isso mudou. Por direito, deveríamos ter um nome digno de nossa alardeada reputação agora, mas..." ela dá de ombros. "Pode ser algum dia, depois que os filhos dos meus filhos herdarem minha armadura, teremos um título melhor para chamar de nosso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Existe algum esporte para ser encontrado em Ápice, ou lutamos apenas entre nós?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Se você está se referindo à caça, o Refrão caçou muitos dos animais até a obscuridade na primeira onda da conquista. A maior parte da carne que temos de sobra é salgada e, talvez mais importante, Norte. Não confio em Sulistas para manter seu gado nutrido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Os poucos animais que mantemos em currais ou covas são para os oficiais superiores. Tenho certeza de que você tem direito a um pernil de uma coisa ou outra, e eu adoraria vê-lo comer só para lembrar o sabor da carne fresca."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Existem jogos de combate no acampamento?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Os dois soldados trocam um olhar. "Uma pergunta mais adequada ao campo [url=glossary:scarlet chorus]Coro Escarlate[/url], se você não se importa com o cheiro. Qualquer um procurando por uma luta pode encontrar um entre esses fanfarrões."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Apenas tome cuidado para não dar uma cabeçada no chefe de gangue errado. No calor da batalha, há alguns que não hesitariam em cortar seu rosto - agente de [url=glossary:tunon]Tunon[/url] ou não."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Você sempre fica à vontade na presença de um oficial superior?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"N-não, senhor!" Marco endireita as costas rapidamente e o encara com apreensão.</DefaultText>
+      <FemaleText>"N-não, senhora!" Marco endireita as costas em pouco tempo e olha para você com apreensão.</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Isso é... hmm." Lucia também ajusta sua postura, embora mais lenta que sua companheira. "Eu não fui informado sobre a cadeia de comando. Devemos nos reportar ao Vinculador do Destino agora?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Ouvi Marechal de Ferro dizer que os agentes de [url=glossary:tunon]Tunon[/url] podem interceder se houver uma disputa. Isso soa bastante autoritário para mim. Não estou tão orgulhoso de não fazer uma pose, mesmo que apenas para manter as aparências."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Isso dificilmente satisfaz minha pergunta, então acho que a resposta é 'mais ou menos'. Que assim seja. Saudação, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

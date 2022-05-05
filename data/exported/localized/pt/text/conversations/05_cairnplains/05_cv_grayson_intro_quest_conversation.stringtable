@@ -1,0 +1,624 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\05_cairnplains\05_cv_grayson_intro_quest_conversation</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>118</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ahh, bem-vindo viajante. Eu vi tantos rostos novos recentemente, está ficando difícil acompanhar todos vocês."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Há algo que eu possa fazer para ajudá-lo? Alguma informação que você precisa sobre a área?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Conte-me mais sobre Plainsgate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"O que os [url=glossary:scarlet chorus]Coro Escarlate[/url] estão fazendo aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Você viu [url=glossary:disfavored]Desfavorecido[/url] na área?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Grayson suspira. "Plainsgate costumava ser muito maior com muito mais pessoas, mas vimos uma perda na população da cidade recentemente porque muitas pessoas saíram para explorar o [url=glossary:stone sea]Mar de Pedra[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Parece que a cada dois dias temos novos necrófagos ou caçadores de artefatos ou apenas pessoas completamente estranhas passando por essas partes. Quase inquietante se você me perguntar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Temos muita sorte aqui, Vinculador do Destino. Somos um dos únicos assentamentos por aqui a sobreviver à morte de [url=glossary:cairn]Cairn[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Como a morte de [url=glossary:cairn]Cairn[/url] afetou os colonos desta cidade?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Tudo o que sei é que eles vieram prometendo nos ajudar com o Homens-fera e dizendo a todos que cuidarão dos terremotos. Não sei se estão falando a verdade ou não. Mas se eles puderem tirar todos aqueles Bestas, estou disposto a dar-lhes toda a ajuda que quiserem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Eu não vi nenhum pessoalmente, mas ouvi dizer que eles montaram ao redor do corpo de [url=glossary:cairn]Cairn[/url] em [url=lore:Howling_Rock]Rocha Uivante[/url]. Ninguém na cidade os quer por perto - todos aqui os culpam pelos terremotos em andamento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Vamos falar de outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Os habitantes da cidade começaram a se juntar a equipes de catadores e seguir para o [url=glossary:stone sea]Mar de Pedra[/url] para procurar artefatos e outros tesouros. O problema é que o [url=glossary:stone sea]Mar de Pedra[/url] está cheio de perigos, e esses catadores colocam suas vidas em perigo cada vez que saem deste assentamento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Há algo que eu possa fazer para ajudar os catadores?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Vamos falar de outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Existe realmente uma maneira de ajudar, Vinculador do Destino. Uma missão de limpeza saiu alguns dias atrás, e não os vimos desde então. Quanto mais tempo eles se forem, mais tenho certeza de que não voltarão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Vou procurar o grupo perdido de catadores."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Isso é muito ruim. Boa sorte para encontrá-los."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Esta é uma notícia maravilhosa, Fatebinder! Obrigado!" Ele sorri e pega sua mão, apertando-a vigorosamente. "Elas estavam a caminho de [url=lore:StoneDown]Apedrejar[/url], mas ninguém sabe se eles chegaram."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Deixar] "Esse sou eu preciso de tudo por enquanto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Fatebinder!" Grayson chora feliz com sua aproximação. "Você voltou!"
+
+"Eu ouvi as histórias de seus feitos heróicos em Apedrejar. Nossa equipe de limpeza está de volta sã e salva."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Aqueles Homens-Besta..." ele diz, balançando a cabeça. "Eles sãoe monstros horríveis!" Ele cospe e tritura na terra com o sapato.
+
+"Este mundo seria um lugar muito melhor se eles não estivessem por perto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Não esqueceremos sua gentileza tão cedo, Vinculador do Destino. Estamos em dívida com você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Vinculador do Destino, bem-vindo de volta! Como você está?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"O que você pode me dizer sobre o Homem-Besta?" capturado</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Grayson faz uma careta, balançando a cabeça. "Ah, sim. O animal que eles pegaram fora da aldeia. Mal posso esperar para que esse aborrecimento seja resolvido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Coberto de sangue, espreitando sem dúvida para caçar mais colonos. Mutilou-se em uma armadilha do lado de fora dos portões. Não sei por que o Refrão o trouxe. Apenas acabe com as Bestas ou afaste-as. É o que eu digo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Conte-me mais sobre Halfgate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Nós vamos, vamos ver... Costumava ser chamado de Plainsgate até que [url=glossary:cairn]Cairn[/url] veio andando e Fatebinder Calio lançou o [url=glossary:edict]Edital[/url] de Stone nele, destruindo milhares de vidas no processo." Ele franze os lábios. "Mas você não pode vencer uma guerra sem baixas. Pelo menos, é o que nos dizem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Não importa o que aconteça, você tem que manter uma perspectiva positiva porque poderia ter sido muito pior. As coisas sempre podem ser piores, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Mesmo depois, continuamos sendo duramente atingidos pelos terremotos. Perdemos muitas pessoas e bens. Mas outras áreas foram ainda mais atingidas durante o [url=glossary:edict]Edital[/url]. Acho que você poderia dizer que estávamos no olho do furacão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Diga-me o que você sabe sobre [url=glossary:cairn]Cairn[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"O que há para dizer além de que ele arruinou nossas vidas? Estamos cercados de terremotos e perdemos tantos amigos por causa dele." "Depois da destruição aqui, ele partiu para o [url=glossary:stone sea]Mar de Pedra[/url] e é onde ele ainda está. Seu corpo virou pedra e a história é que ele está preso. Isso é o que está causando os terremotos - seus estertores de morte estão destruindo nossa terra. Mas aqueles malditos [url=glossary:disfavored]Desfavorecido[/url] não vão deixá-lo morrer, então somos nós que estamos sofrendo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Você sabe como posso encontrar o corpo de [url=glossary:cairn]Cairn[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Ouvi dizer que é um lugar chamado [url=lore:Howling_Rock]Rocha Uivante[/url], mas não sou aventureiro - minha vida inteira é aqui na cidade - então eu nem saberia por onde começar sobre como chegar lá. O melhor que posso oferecer é dizer-lhe para continuar perguntando pela cidade. Alguém deve saber mais do que eu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Conte-me mais sobre Halfgate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Cuidado com a língua. Essa é a minha tribo que você está falando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Você está absolutamente certo. Por isso matei todos eles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Você pode não gostar, mas eles estão aqui para ficar. Você terá que aprender a viver com eles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>O rosto de Grayson empalidece e ele recua, colocando as mãos para cima. "Peço desculpas, Vinculador do Destino. Eu não quis desrespeitar. Nossas vidas têm sido nada além de dificuldades. Sua gentileza em meio a todos os horrores que enfrentamos foi um ponto positivo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>O rosto de Grayson se ilumina quando ele ouve suas palavras. "Você está falando sério? Isso é a melhor notícia que ouvi em muito tempo! Agradecer você, Vinculador do Destino! Isso é menos uma coisa com a qual teremos que lidar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Grayson bufa ironicamente. "Não. Eu não serei feliz até que não tenhamos mais que lidar com essa imundície. Eles não são nada além de problemas e as condições não vão melhorar até que nos livremos deles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>rosto de Grayson empalidece, mas ele se mantém firme, seus lábios franzindo enquanto seu rosto se contrai. "Se você não tivesse apenas nos ajudado, Vinculador do Destino, eu estaria menos inclinado a ser civilizado. Mas você destruiu nossa cidade e então sua 'tribo' sequestrou meus homens. Embora eu aprecie sua ajuda, minha opinião sobre esses monstros permanece inalterada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Você é um tolo. Se você se recusa a ver todos os lados, pode ser cego."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>[Deixar] "Terminamos aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Agradecerei pelo que você fez, Vinculador do Destino. Mas isso é tudo que você receberá de mim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Falado como um monstro. Convença-me a confiar em você, então me apunhale quando eu virar as costas. Vocês são todos iguais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"O que você quer, seu sujo filho da puta?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>[Deixar] "Melhor um Beastfucker do que um limpdick de mente fechada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"O que você pode me dizer sobre o cativo Homem-Besta?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>[Deixar] "Nada. Terminamos aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Destruiu sua cidade? O que aconteceu com a atitude 'viva e deixe viver' que você tinha antes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Isso foi antes de eu descobrir que você era um sujo filho da puta. Destrua nossa cidade e então faça com que seus monstros matem nosso povo. Você me deixa doente." Ele cospe de novo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Grayson olha para você como se você fosse louco "Você tem que estar brincando comigo. O que diabos eu poderia querer te dizer sobre esse pedaço de merda? Ele deve ser puxado e esquartejado e esfolado. E até isso é bom demais para ele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Esgueirando-se pela cidade, coberto de sangue humano. É bárbaro. Eles são animais - cada um deles. Elimine-os, essa é a única maneira de estarmos seguros."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Mulher-Fera adora fazer cio - na terra ou na água. Sol ou sombra. Rápido-rápido-difícil. Ou lento. Adora matar da mesma forma."
+
+Ela flexiona e curva suas garras escuras, olhos brilhando perigosamente.
+
+"Talvez mate um humano bem aqui. Rute cadáver. Então o ser humano estará morto e também o rutter-fera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Seus olhos permanecem em Kills-in-Shadow por um momento e ele funga, seu rosto assumindo um olhar azedo. "E se não é um tipo, é outro..." Ele olha para você e sorri novamente, embora não chegue aos olhos dele.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Se você quer que eu acabe com eles, posso começar com aquele que você prendeu no chão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Mesmo sabendo que ele não matou ninguém porque encontrei colonos desaparecidos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Ele não estava coberto de sangue humano. Ele recentemente caçou um javali."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Você realmente não o viu matar ninguém. Por que você é tão rápido em assumir que ele é culpado?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"De qualquer forma, faça uma execução pública se você fizer isso. Faça um show para agradar as massas - é tudo o que o Fera serve." 
+
+Ele acena com a cabeça para você, satisfeito. "Você não ouvirá nenhuma oposição minha, isso é certo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Um animal faz o que um animal faz. Se houver algo para matar, eles o matarão. É uma simples questão da natureza."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Só porque ele pode ter matado um javali não significa que ele não tenha matado nenhum humano." Ele esfrega o queixo, relutantemente contemplando seu argumento. "Hmph."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"No que me diz respeito, tudo o que faz é provar meu ponto de vista. Eles não teriam que ser resgatados se não os tivessem capturado em primeiro lugar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Nós vamos, vamos ver... Costumava ser chamado de Plainsgate até que [url=glossary:cairn]Cairn[/url] veio e o destruiu. Isso seria obra sua, não seria, Fatebinder?" Ele franze os lábios. "Mas você não pode vencer uma guerra sem algumas mortes. Pelo menos, é o que nos dizem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Mas somos pessoas fortes e não seremos derrubados. Você pega a situação que a vida lhe dá e faz o que puder dela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"O que é outro tipo? Mais forte do que o tipo humano patético?"
+
+Ela coça sua teta peluda e cheia de cicatrizes e sorri para mostrar Grayson suas presas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Bem, você não está apenas satisfeito consigo mesmo, Fera, fazendo uma piada às custas de um humano? Você deve ficar na ponta dos pés, Grayson - você está deixando uma fera tirar o melhor de você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Nó do banco 105</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Já reparou que são os homens de mastro pequeno que mais brigam sobre o tamanho do arpão? Costumo supor que os meninos mais rápidos em escrever Bestas são, na maioria das vezes, furtivamente obcecados com o primal e o hirsuto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Mata-na-Sombra rosna e range suas presas.
+
+"Garra-Esquerda não mataria humanos a menos que humanos justificassem matar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Tenho que concordar. Você assassino Bestas gosta de caçar humanos. Não há nada mais profundo nisso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Conheça Stone Down. É [url=glossary:stonestalkers]Perseguidores de Pedras[/url]' território. É perigoso para os humanos se aventurarem em terras de tribos recuperadas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Humano vai lutar Mulheres-feras, tribo inteira, com o quê? Embotado foice? Estilingues e pedras? Os humanos não são blindados - não podem resistir a Mulher-Fera garras de matar e dentes dilacerados."
+
+Ela fareja, a voz rouca enquanto ela comanda, "Venha. Lute e morra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Você estava aqui, bem - nas proximidades de Plainsgate quando proclamou o [url=glossary:edict]Edital[/url], correto? Talvez [url=glossary:kyros]Kyros[/url] não quisesse matar o mensageiro, e assim o [url=glossary:edict]Edital[/url] teve um efeito menor em Plainsgate? Hummm... [url=glossary:kyros]Kyros[/url] só sabe..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Se você pensar muito profundamente sobre o número de pessoas mortas por [url=glossary:kyros]Kyros[/url]' Editais, isso o deixará louco. Aqueles de nós que sobreviveram precisam ter a atitude dele, que temos a sorte de ainda estarmos vivos. Não se trata de ser esperto ou durão ou esperto, é tão simples quanto, não estávamos no lugar errado na época."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Terremotos? As crianças nos dias de hoje. Assista dez anos de esboços ornitológicos desaparecerem em vinte segundos de fumaça, depois me conte tudo sobre seus tremores lentos e vagarosos. Oh não, as estradas estão todas mudando e meu mapa está obsoleto! Na realidade, isso soa bastante odioso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Todo o Azure sofre para que [url=glossary:cairn]Cairn[/url] possa ser repreendido por deslealdade. Você já se perguntou se, agora mesmo, longe, [url=glossary:kyros]Kyros[/url] está pensando em toda essa matança indiscriminada? Parece como o soberano deve ter uma queda por isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Nó do banco 115</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>[Dar de ombros] "Você ouviu a senhora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Não se preocupe. Eu não vou deixar ela te machucar. Apesar do que você acredita, eu tenho minha ética."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Não há muita defesa lá..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"O que justifica matar humanos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>A Mulher-Fera pausa para pensar. Ela arranha suas garras no topo de sua juba grossa e emaranhada. "Se humanos ruins. Se atacou primeiro Homem-Besta. Se cheirar estranho ou cheirar bem. Se alto e irritante. Se parecer carnuda o suficiente, perdida ou imperdível." Ela sorri, a língua malva aparecendo entre os dentes da frente. "[url=glossary:stonestalkers]Perseguidores de Pedras[/url] não coma humanos, mas Mortes-in-Shadow não faz promessas semelhantes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Você não está ajudando nossa causa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>[Permaneça em silencio.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Você vê! Esses assassinos Bestas gostam de caçar humanos. Não há nada mais profundo nisso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Um animal faz o que um animal faz. Se houver algo para matar, eles o matarão. É uma simples questão da natureza."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"De qualquer forma, faça uma execução pública se você fizer isso. Faça um show para agradar as massas - é tudo o que o Fera serve." 
+
+Ele acena com a cabeça para você, satisfeito. "Você não ouvirá nenhuma oposição minha, isso é certo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Ouvi rumores de que você está julgando o assunto. Se você está pensando em liberar o Fera, é melhor fazê-lo longe daqui. Se o virmos fora da cidade, não hesitaremos em matá-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Ouvi rumores de que você está julgando o assunto. Se você está pensando em liberar o Fera, é melhor fazê-lo longe daqui. Se o virmos fora da cidade, não hesitaremos em matá-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Faça isso rápido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"E eu poderia jogar um balde de água em você e culpar o rio próximo. Suas palavras não significam nada. Mesmo que ele não tenha matado um humano então, é apenas uma questão de tempo. Eles são monstros e devem ser tratados como tal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Por que não apenas entregá-lo ao [url=glossary:scarlet chorus]Coro Escarlate[/url]? Elas coordenou sua captura, não foi? Deixe que eles decidam o que fazer com ele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Não me oponho a isso. Se não fosse por eles terem avistado o Fera dias antes e colocado as armadilhas, nós nunca o teríamos pego de qualquer maneira." 
+
+Ele acena com a cabeça para você, satisfeito. "Eles podem fazer o que quiserem com ele, mas espero que isso envolva esfolá-lo por botas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Não me oponho a isso. Se não fosse por eles terem avistado o Fera dias antes e colocado as armadilhas, nós nunca o teríamos pego de qualquer maneira." 
+
+Ele acena com a cabeça para você, satisfeito. "Eles podem fazer o que quiserem com ele, mas espero que isso envolva esfolá-lo por botas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Teríamos mais sorte se você ajudasse. Tudo o que peço é que você pense sobre isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"O que você sabe sobre as Agulhas no [url=glossary:stone sea]Mar de Pedra[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"No coração do território Homens-fera existe um. Essas são partes perigosas. É melhor você ficar de olho lá fora." 
+
+Ele balança a cabeça solenemente antes de continuar. "O outro está cercado por aqueles adoradores da rocha onde aquele colosso de pedra finalmente desmoronou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Um colosso de pedra?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Sim, aquele gigante de um Arconte. Ele continuou gemendo e gemendo enquanto atravessava a terra. Deixou a destruição em seu rastro e irritou o Homens-fera algo feroz. Acredita que ele caiu perto do Pináculo da Alvorada?" Ele coça a cabeça, ponderando sobre a situação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Obrigado, era tudo que eu precisava saber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Tudo bem então." Ele coça a lateral do nariz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Seus olhos olham para você. "Falando de inquietante, você não é o Vinculador do Destino que enviou [url=glossary:disfavored]Desfavorecido[/url] forças para a morte contra os Arconte de Pedra?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Seus olhos olham para você. "Falando de inquietante, você não é o Vinculador do Destino que enviou aquelas forças [url=glossary:scarlet chorus]Coro Escarlate[/url] para a morte contra os Arconte de Pedra?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Não que eu sinta pena daqueles cães de Ashe. Só achei que você gostaria de saber que há um monte de guloseimas intactas prontas para as colheitas onde aqueles idiotas morreram. Claro, só se você não se importar em vasculhar os Maldito que seguem a morte como moscas na merda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Não que eu sinta pena desses bárbaros sanguinários. Só achei que você gostaria de saber que há mercadorias abundantes prontas para a colheita onde aqueles idiotas morreram. Claro, só se você não se importar em vasculhar os Maldito que seguem a morte como moscas na merda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Alguns sentimentos fortes você tem aí."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Grayson bufa ironicamente. "Eles não são justificados?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Agradeço pelo que você fez, Vinculador do Destino. Mas é melhor você me deixar antes que eu fique com raiva."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Alguns dos vendedores aqui na cidade poderiam te contar mais, eu sei que eles tiveram alguns negócios com os catadores dessas áreas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Em [Plainsgate]? Não muito, agora que você os matou. Mas para o resto do [url=glossary:stone sea]Mar de Pedra[/url]? Tudo que eu posso dizer que eles vieram prometendo nos ajudar com o Homens-fera e dizendo a todos que cuidariam dos terremotos. Eu não sei se eles estavam dizendo a verdade ou não. Mas eu sei que eles quase invadiram este reino, reivindicando-o para seu Arconte dos Segredos. E se eles puderem tirar aqueles selvagens Bestas, estou disposto a dar-lhes toda a ajuda que quiserem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>Grayson acena para você enquanto você passa. "Vinculador do Destino, que bom que você voltou. Podemos usar sua experiência. [Plainsgate] tem estado instável ultimamente." O chão treme fortemente enquanto ele fala, provocando um sorriso de dor."
+
+"Mais instável ultimamente, quero dizer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Com [url=glossary:kyros]Kyros[/url]' exércitos em movimento, menos viajantes estão dispostos a se aventurar muito além dessas muralhas. Normalmente, há alguns resistentes dispostos a assumir trabalhos difíceis, mas nenhum ultimamente. Se você tiver tempo para ouvir as pessoas, tenho certeza de que receberá um ou dois pedidos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Muitos soldados ao redor com sangue em suas mentes, suponho." Ele dá de ombros. "Não posso culpar as pessoas por serem mais cautelosas. É inquietante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Existe algo que você precisa de ajuda?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Vinculador do Destino, matador de coros, guardião da paz!" Ele corre em sua direção com os braços estendidos e o agarra com força pela cintura antes de perceber sua intrusão. Ele rapidamente se afasta e afasta um pouco da poeira que deixou para trás. "Tantos rostos diferentes passam por esta cidade, mas como eu poderia perder aquele que sozinho matou aqueles gângsteres?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

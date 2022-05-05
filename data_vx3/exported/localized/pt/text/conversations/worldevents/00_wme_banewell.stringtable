@@ -1,0 +1,239 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\worldevents\00_wme_banewell</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>43</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Sua jornada é interrompida por um mensageiro do Pináculo da Montanha. Um homem jovem e baixo, com uma mecha de cabelos escuros e uma barba surpreendentemente cheia, o mensageiro tem olhos vermelhos e uma disposição nervosa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Informe-se mais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Dê suas ordens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Ignore o Bane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Você pressiona o mensageiro para mais detalhes. Ele lhe diz que foram avistados Maldito espalhados por todo o vale, mas eles são mais densos em torno da [url=glossary:vendrien's well]Poço de Vendrien[/url] Citadel e nas montanhas que circundam o antigo domínio. Eles atacaram um punhado de viajantes e devastaram o gado em todo o vale. Dado que as fazendas ainda estão se recuperando do Conquista, a ascensão do [url=glossary:vendrien guard]Guarda Vendrien[/url] e a subsequente guerra civil entre o Arcontes, não poderia ser um momento pior para o Maldito para aparecer em Ápice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Você considera a melhor forma de lidar com a ameaça que seu [url=glossary:edict]Edital[/url] provocou...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Você informa ao mensageiro em termos inequívocos que não tem tempo para se preocupar com um punhado de monstruosidades arcanas que estão assustando alguns fazendeiros. Eles devem ser capazes de lidar com sua própria defesa, assim como eram antes do Conquista. 
+
+Ele gagueja um pedido de desculpas antes de sair apressado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Pague 10.000 anéis.] Contrate mercenários.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Atraia o Bane de distância.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Solicite ajuda de seus aliados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Você diz ao seu enviado para ir para [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Há um anel de ferro pesado para um capitão mercenário disposto a testar a coragem de sua empresa contra o horror arcano contorcido do Maldito. O mensageiro acena com a cabeça ansiosamente e deixa você continuar sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Você teoriza que um ato de magia focado por um místico em outro Pináculo poderia afastar o Maldito do Pináculo da Montanha. Não será uma coisa simples competir com um [url=glossary:edict]Edital[/url], mas é um plano que pode difundir o problema sem mais derramamento de sangue significativo. Claro, você duvida que as pessoas na área ao redor do Pináculo irão apreciar qualquer Maldito que a magia atraia, mas eles deveriam ser mais adequados para lidar com eles do que os fazendeiros de Ápice.
+
+A questão permanece: qual Pináculo usar como isca?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Você prepara sua própria missiva, mas quais aliados você vai buscar para ajudar contra o Maldito?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>A Torre do Amanhecer em Howling Rock</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>O Pináculo da Aurora em Gulfglow Oldwalls</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>O Pináculo Oceânico no [url=glossary:blade grave]Sepultura de Lâminas[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>O Pináculo do Pôr do Sol em [url=glossary:lethian's crossing]A travessia de Lethian[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>O [url=glossary:bronze brotherhood]Irmandade de Bronze[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Você envia seu emissário ao Pináculo com suas ordens: todos os magos aptos disponíveis devem se reunir no topo do Pináculo e realizar um ritual de grupo. O trabalho deve durar pelo menos uma noite e um dia, afirma a missiva, e mais, se possível. O Pináculo aumentará a magia, é claro, e espero que isso chame o Maldito das terras agrícolas do vale. 
+
+O mensageiro agradece seu tempo e deixa você cumprir seu comando.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Você envia seu emissário ao Pináculo com suas ordens: todos os magos aptos disponíveis devem se reunir no topo do Pináculo e realizar um ritual de grupo. O trabalho deve durar pelo menos uma noite e um dia, afirma a missiva, e mais, se possível. O Pináculo aumentará a magia, é claro, e espero que isso chame o Maldito das terras agrícolas do vale. 
+
+O mensageiro agradece seu tempo e deixa você cumprir seu comando.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Você envia seu emissário ao Pináculo com suas ordens: todos os magos aptos disponíveis devem se reunir no topo do Pináculo e realizar um ritual de grupo. O trabalho deve durar pelo menos uma noite e um dia, afirma a missiva, e mais, se possível. O Pináculo aumentará a magia, é claro, e espero que isso chame o Maldito das terras agrícolas do vale. 
+
+O mensageiro agradece seu tempo e deixa você cumprir seu comando.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Você envia seu emissário ao Pináculo com suas ordens: todos os magos aptos disponíveis devem se reunir no topo do Pináculo e realizar um ritual de grupo. O trabalho deve durar pelo menos uma noite e um dia, afirma a missiva, e mais, se possível. O Pináculo aumentará a magia, é claro, e espero que isso chame o Maldito das terras agrícolas do vale. 
+
+O mensageiro agradece seu tempo e deixa você cumprir seu comando.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>O [url=glossary:vendrien guard]Guarda Vendrien[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>O [url=glossary:scarlet chorus]Coro Escarlate[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>O [url=glossary:disfavored]Desfavorecido[/url] Legião</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>O [url=glossary:stonestalkers]Perseguidores de Pedras[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>O Tribunal de Vinculadores do Destino</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>A Escola de Tinta e Pena</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Você envia uma mensagem para Welby que há uma recompensa para qualquer Irmão que limpar um pacote de Maldito do vale [url=glossary:vendrien's well]Poço de Vendrien[/url]. Você duvida que os mercenários precisem de incentivo para testar sua coragem contra os horrores arcanos contorcidos, mas um incentivo adicional não fará mal. O mensageiro acena ansiosamente e deixa você em sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Você redigiu uma missiva para Tarkis Arri. A cidadela está bem defendida, você escreve, mas o vale maior se arrasta com Maldito. Você ordena que ela aumente as patrulhas [url=glossary:vendrien guard]Guarda Vendrien[/url] por todo o vale e atribua as unidades mais resistentes à batalha para caçar e dispersar o Maldito. O mensageiro agradece e sai para levar sua mensagem para casa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Você não está totalmente convencido de que o Quinto Olho pode ler, mas suspeita que alguém em sua comitiva poderá traduzir sua missiva, se necessário. Você solicita que ele envie um quadro de Blood Chanters e Blood Hounds para o vale para enfrentar o Maldito. Esses feiticeiros violentos dificilmente são os candidatos ideais, mas é preciso trabalhar com as ferramentas à mão. O mensageiro balança a cabeça cautelosamente e sai em busca de um pássaro para enviar para o Refrão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>O Marechal de Ferro imediatamente vem à mente, e você elabora um breve pedido de reforços em todo o vale. Você recomenda que o complemento usual de escudos e corredores seja apoiado por uma pequena cabala de Earthshakers; o Maldito pode ser um inimigo feroz para aqueles despreparados para lutar contra o arcano. O mensageiro acena com a cabeça ansiosamente e vai em busca de um pássaro para despachar para o [url=glossary:disfavored]Desfavorecido[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Mal invejando a tarefa do jovem, você despacha o mensageiro para o [url=glossary:stone sea]Mar de Pedra[/url] para localizar o [url=glossary:stonestalkers]Perseguidores de Pedras[/url]. Ele terá que convencê-los de que vem trazendo as palavras de seu [url=glossary:prima]Prima[/url], e que uma caçada foi marcada contra o Maldito em [url=glossary:vendrien's well]Poço de Vendrien[/url].
+
+O sangue escorre de seu rosto, embora você não saiba se em resposta à magnitude da tarefa ou à noção de [url=glossary:stonestalkers]Perseguidores de Pedras[/url] rondando o vale. Sem considerar, ele balança a cabeça rigidamente e sai para cumprir suas ordens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Você endereça sua missiva para Nunova, Vinculador do Destino de Guerra, no [url=glossary:bastard city]Cidade bastarda[/url] e solicita sua ajuda no vale de Ápice. Você nota que normalmente você não taxaria os agentes do juiz com uma tarefa tão servil, mas você pensou que ele poderia aproveitar a oportunidade de colocar sua coragem contra o Maldito. Você sugere que Rhogalus também pode estar interessado em seu estudo e certamente poderia aumentar a certeza de uma vitória sobre os horrores arcanos. O mensageiro pega sua missiva e sai para encontrar um pássaro para [url=glossary:tunon]Tunon[/url]'s Tribunal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Você redigiu uma missiva para Renata pedindo que ela enviasse alguns Sábios para o campo com reforços do [url=glossary:vendrien guard]Guarda Vendrien[/url] estacionado no Pináculo da Montanha. Embora a missão deles seja procurar o Maldito e acabar com sua ameaça aos plebeus da região, você deixa claro que não se oporia a nenhum estudo do Maldito que pudesse acontecer. O mensageiro leva sua missiva e deixa você em sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Desde que você emitiu o [url=glossary:edict]Edital[/url] contra seus inimigos em [url=glossary:vendrien's well]Poço de Vendrien[/url], o mensageiro lhe diz que o vale de Ápice foi assolado por um número cada vez maior de Maldito. As criaturas parecem inimigas de toda a vida, e suas predações fazem com que as pessoas de Ápice se escondam aterrorizadas em vez de cuidar dos campos. 
+
+Se isso continuar, as terras que você reivindicou não serão capazes de sustentar seu Pináculo, independentemente de quão vorazes seus cobradores de impostos se tornem. O mensageiro pergunta quais pedidos você deseja que sejam devolvidos ao Pináculo...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>O mensageiro acena ansiosamente e deixa você em sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>O mensageiro acena ansiosamente e deixa você em sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>O mensageiro acena ansiosamente e deixa você em sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Ignore o Bane.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

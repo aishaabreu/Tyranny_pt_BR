@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\0219_bs_patron_m_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Olhe para ele! Ele é definitivamente o meu tipo de homem. Se você tiver uma chance, sinta seus peitorais - eles são como granito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Normalmente eu escolho Galum porque na maioria dos dias eu fico muito tímido perto de Lorid. Talvez eu tenha coragem de novo hoje."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Acho que vou ficar com Galum. Pelo menos eu sei o que estou fazendo..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Se você tiver coragem, eu tenho algo que você pode fazer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Tudo bem! Se um [url=glossary:edict]Edital[/url] vai significar o fim de todos nós, é melhor eu experimentá-lo antes de sair!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

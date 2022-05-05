@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\02_bs_lc_arrival_soldiers_bb</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Não procure problemas, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ninguém nunca vai tirar [url=glossary:lethian's crossing]A travessia de Lethian[/url] do [url=glossary:bronze brotherhood]Irmandade de Bronze[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Não posso te ajudar em nada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Fale com outra pessoa se tiver dúvidas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Se for verdade que este [url=glossary:edict]Edital[/url] foi feito por você, eu o vigiaria por aqui. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Eu vim para [url=glossary:lethian's crossing]A travessia de Lethian[/url] para escapar Editais... Não demorou muito para eles me seguirem até aqui, parece.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Eu estaria mentindo se não dissesse que não fiquei impressionado com o que você fez aos [url=glossary:kyros]Kyros[/url]' exércitos em [url=glossary:vendrien's well]Poço de Vendrien[/url]. Muito bem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"A Irmandade não tenha medo de derrubar um Arconte se for necessário, cuidado."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

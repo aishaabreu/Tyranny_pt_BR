@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\vx1\vx1_09_cv_nikodemus</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Um homem de peito barril examina as áreas com uma expressão severa, olhando para você com indiferença à medida que você se aproxima. Um grande bigode em forma de ferradura traça o topo de sua boca antes de descer até o queixo. Quando ele fala, as cerdas quase mascaram seus lábios. "Nós vamos conheceu, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Ele inclina a cabeça quando você se aproxima. "Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Ele não se move de sua posição. "Forge está fora dos limites para todos à noite. Até você, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"O que você precisa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Aviso justo, Vinculador do Destino. Esta cidade está sob toque de recolher noturno. É melhor não andar por aí a menos que você precise."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"O que você pode me dizer sobre seu líder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Por que os [url=glossary:forge-bound]Forge-Bound[/url] estão aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Estou procurando Cassandra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ela não está aqui. Eu assumo para ela durante a noite. Ela está sempre de volta na primeira luz. Você deve procurar por ela então."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Por que há um toque de recolher?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Existem ameaças por aí. fraternidade, principalmente. Nós vigiando significa que eles vão nos ver vigiando... atropela qualquer ideia engraçada que eles possam ter. A área da forja está fora dos limites à noite. Nós fazemos muitas coisas pontudas - não as queira nas mãos erradas."
+
+"Fale com aquele Capteron idiota se você precisar de um lugar para descansar a cabeça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Deixar] "Por enquanto é só."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Preciso chegar à forja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Uma das barracas da loja está pegando fogo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Seus olhos travam com os seus. "Não está acontecendo. Ordens de Cassandra. A menos que as coisas vão dar merda na cidade, eu não vou me mudar. Volte durante o dia... então sou mais amigável."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Alguém caiu no poço!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Mentira] "Vi alguns [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] batedores a leste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Deixar] "Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Ele espia por cima de você a nuvem de fumaça subindo no céu. "Ah, pelo amor de [url=glossary:kyros]Kyros[/url]'! Eu disse a Ragnall para não manter esses extratos juntos." Ele corre para investigar o acidente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Ele olha por cima de você para a nuvem de fumaça subindo no céu, carrancuda. Ele estala os dedos para um aprendiz próximo. "Vá, confira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Obrigado pela dica."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Ele revira os olhos. "De novo? Esses Tiersmen, eles são idiotas - cada um deles!" Ele salta em direção ao poço, balançando a cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Ele revira os olhos. "De novo? Esses Tiersmen, eles são idiotas - cada um deles!" Ele estala os dedos para um aprendiz próximo. "Vá e tire aquele idiota do poço."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"O quê? Tem certeza?" Ele pega um martelo e o gira pelo cabo. "Hmm. Não posso deixar isso ao acaso - vou ver por mim mesmo. Obrigado, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"O quê? Tem certeza?" Ele espia em direção à linha leste das árvores, examinando o conteúdo de suas sombras. "Não consigo ver ninguém..." Ele estala os dedos para um aprendiz próximo. "Arme-se e vá conferir. Sinalize-nos se vir alguém."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Resistente. Mas justo. Cassandra sabe que ensinar e esquartejar são atos de redução. No caso do ensino, elimina-se a ignorância. Alguns não gostam de sua abordagem... tais tolos não são adequados para o nosso Guilda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Pergunte a Cassandra. Ela dá as ordens aqui. Não adianta eu adivinhar o significado dela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Quem é você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Nicodemos, segundo de Cassandra. Eu tenho algumas temporadas em meu currículo, ao contrário desses filhotes na forja." Ele dá uma olhada de soslaio para a área de trabalho. "Eu cuido das coisas quando Cassandra tem coisas melhores para fazer. O que é sempre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Você ainda não vai me deixar entrar na forja, vai?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Agora não, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Eu não devo mais brincar enquanto estou de serviço. Desculpe."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

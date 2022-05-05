@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\0219_cv_timo</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Bom dia para você, viajante. Meu nome é Timo." A dançarina te cumprimenta enquanto gira lentamente seus quadris sugestivamente em sua aproximação. Seus olhos brilham e ela sorri, movendo as mãos em um gesto de boas-vindas. "Você precisa de um companheiro?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Fale-me sobre você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"O que você pode oferecer que os outros não podem?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Deixar] "Falo com você mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Timo abaixa a cabeça recatadamente e olha para você timidamente. "O passado não me interessa." Ela fala em um tom calmo e doce. "Gosto de pensar aqui." Ela aponta para um ponto entre os seios e lentamente passa o dedo pela frente do corpo. "Agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>A boca de Timo se alarga em um sorriso e ela coloca a mão recatadamente nos lábios. Ela se inclina para frente, gesticulando com a outra mão para que você se aproxime. "Vou realizar o Juramento para você." Ela sussurra as palavras, o calor de sua respiração acariciando seu ouvido. "Eu poderia fazer um [url=glossary:sage]Sábio[/url] desistir de seus livros se eu quisesse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Você voltou." Timo sorri e gira os quadris. "Seria você gosta de passar algum tempo comigo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

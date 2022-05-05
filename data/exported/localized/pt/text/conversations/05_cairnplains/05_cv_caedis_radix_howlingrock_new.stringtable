@@ -1,0 +1,2341 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\05_cairnplains\05_cv_caedis_radix_howlingrock_new</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>429</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Vinculador do Destino. Presumo que você esteja adequadamente descansado." O [url=glossary:iron guard]Guarda de Ferro[/url] estuda você com uma intensidade severa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Seria muito mais fácil para todos nós se ele o fizesse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Bem descansado, hein?" Caedis dá uma olhada em Base. "Ódio para pensar no que poderia significar se aquele show anterior não fosse um Vinculador do Destino com desempenho máximo."
+
+O tenente lhe dá um aceno de cabeça. "Alegre você está conosco, senhor."</DefaultText>
+      <FemaleText>"Bem descansado, hein?" Caedis dá uma olhada em Base. "Ódio para pensar no que poderia significar se aquele show anterior não fosse um Vinculador do Destino com desempenho máximo."
+
+O tenente lhe dá um aceno de cabeça. "Alegre você está conosco, senhora."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>O comandante toca um dedo no queixo em pensamento. "Sim, devo admitir que também estou. Especialmente no peso das descobertas recentes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Enquanto eu servi Ashe em [url=glossary:vendrien's well]Poço de Vendrien[/url], em meu lugar, a guilda teve sucesso em sua missão de localizar e guardar os restos mortais de [url=glossary:cairn]Cairn[/url]. Claro, nenhum de nós esperava que ele tivesse sobrevivido." Ele acena com a cabeça uma vez em admiração por seu antigo Mestre. "Meus Earthshakers começou a estudar [url=glossary:cairn]Cairn[/url] e, como resultado, descobriu uma descoberta inestimável."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"[url=glossary:cairn]Cairn[/url] ainda trabalha para sobreviver. Esse, é claro, é inviável. Mesmo as montanhas não podem suportar a força de [url=glossary:kyros]Kyros[/url]'vontade." "No entanto, nosso Arconte reteve uma soma considerável de energia arcana. Energia que minha guilda poderia colher - e empunhar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Sua suposição está correta. No entanto, meu Tremedores de terra criou um ritual onde podemos extrair e expelir a energia de [url=glossary:cairn]Cairn[/url] em um pulso concentrado após sua morte. Devastaria permanentemente a terra, matando de fome o Coro de Nerat e o exército rebelde - permitindo-nos acabar com a guerra." O [url=glossary:iron guard]Guarda de Ferro[/url] saúda você, firme em sua devoção. "Embora eu aprecie a oportunidade de estudar [url=glossary:cairn]Cairn[/url] mais, não podemos arriscar essa vantagem estratégica. Devemos obter Ashe aprovação para agir rapidamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"O que você quer que eu faça?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Deixar] "Outro hora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Entregue a palavra ao Lareira de Ferro. Diga a Ashe estabelecemos nosso forte no [url=glossary:stone sea]Mar de Pedra[/url]. Conte a ele sobre o plano que elaboramos para destruir a terra e derrotar [url=glossary:the voices of nerat]o Vozes de Nerat[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>O comandante acena para você em despedida. "Seja rápido com isso. Enquanto isso, assumirei a aprovação Ashe e providenciarei as provisões necessárias para o ritual."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Muito bem, eu vou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>O [url=glossary:iron guard]Guarda de Ferro[/url] encara vocês dois sem se mover, totalmente austero e sem graça. 
+
+"O irmãozinho não entende a noção de paciência. Uma montanha não pode ser movida à força - por mais que tente." Ele suspira e junta as mãos atrás das costas. "Mas sim, eu também saberia dos nossos planos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ashe emitiu a ordem para extrair a energia de [url=glossary:cairn]Cairn[/url] e usá-la para destruir permanentemente a terra. Devemos começar imediatamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Bom, então é como esperávamos. Cuidei dos preparativos iniciais. Mas como informei Caedis - começaremos quando o alinhamento telúrico for ideal para induzir um paroxismo tectônico de pico, e não um período antes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Se eles estavam escavando Azurelith, então é provável que eles tenham tido problemas com o Homens-fera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Senti tremores discordantes ressoando de Gulfglow. Temo que a tribo que primeiro nos acolheu como irmãos de [url=glossary:cairn]Cairn[/url] agora deseja apenas banhar a terra com nosso sangue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Sua sintonização primitiva com o arcano-terreno desta região é lamentável. Eles deveriam estar nos implorando para ensiná-los de nossos caminhos. No entanto, em vez disso, eles procuram reivindicar nosso Arconte e lutam para nos impedir de utilizar o abundante Azurelith deste reino."
+
+Ele pisa no chão com tanta força que uma fenda se divide entre ele e Caedis, fazendo com que o tenente recue cautelosamente.
+
+"Um dia, esmagarei os selvagens sob as próprias pedras que eles adoram."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Sem o Azurelith para amplificar a energia restante de [url=glossary:cairn]Cairn[/url], transmutá-la em uma substância miasmática seria inútil. A área de efeito seria inutilmente mínima."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Você tem minha palavra de que farei o meu melhor para ajudar os Tremedores de terra e recuperar os Azurelith filões."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Os preparativos necessários foram definidos. Você está pronto para realizar o ritual que irá extrair a energia de [url=glossary:cairn]Cairn[/url]?"
+
+"Juntar-se a nós não é um componente crítico, mas acredito que você facilitaria nosso foco. Eu também gostaria que você nos desse a honra de executar o rito final."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Vamos começar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Excelente. Nesse caso, sinalizarei para que o [url=lore:Ritual_of_Fallowing]Ritual de pousio[/url] comece."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Ainda não. Tenho assuntos para resolver primeiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Como você quiser, então." Ele acena para dispensá-lo. "Mas apresse-se, para que não comecemos sem você a atingir a calibração ideal dos pólos terrestres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Vinculador do Destino." Braços, apoiado em repouso atrás das costas, o homem montanhoso está alto e rígido, imóvel, além da cadência de sua respiração.
+
+Ele espia em direção a um pico de montanhas no horizonte distante, consumido pelo pensamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Falar, se é isso que você deseja. Mas entenda isso - como o vento não pode mover uma montanha, então suas palavras não vão me influenciar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"O que você pode me dizer sobre Pináculo da Rocha Uivante?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Os Earthshakers são o braço arcano dos Ashe militares. Correto?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Uma observação astuta. Nossa guilda se dedicou ao estudo do arcano da terra, e como tal foram os discípulos de [url=glossary:cairn]Cairn[/url], antes de seu... infeliz fim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Como seu principal aluno, cabe a mim herdar o legado de [url=glossary:cairn]Cairn[/url]." 
+
+Ele faz uma saudação breve e rígida.
+
+" Eu sou Radix Ironcore, Movimentador de Montanhas, [url=glossary:iron guard]Guarda de Ferro[/url] a Ashe, e segundo Mestre do Tremedores de terra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Eu lhe concederei a entrada na base se for isso que você deseja. Mas eu aconselho você a não deixar que isso se torne o principal consumo de seu tempo. Meus Earthshakers já examinaram extensivamente o local, mas não conseguiram descobrir mais do que uma sala cavernosa com algumas esculturas no chão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Balance um [url=glossary:iron guard]Guarda de Ferro[/url] de Ashe? Eu nem sonharia com isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Você diz isso, mas ainda posso surpreendê-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Então seus sonhos são mais sensatos que os do meu irmão. Ele tem a impressão de que eu realmente considero sua opinião, às vezes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Não tenho disposição para o humor, Vinculador do Destino. E muitas vezes não imagino o que está fora do reino das possibilidades."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>O tenente gargalha alto. "Se apenas. Radix pode ser o único homem ao norte de Robusto que é mais teimoso do que eu."
+
+Ele encolhe os ombros fortemente chapeados. "Verdadeiro mas isso não me impede de tentar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Vinculador do Destino." Radix cospe um pedaço de sangue e tecido no chão enquanto segura com uma mão o corte em seu lado. "Você órfão de mãe, pútrido, idiota abjeto."
+
+Ele cai de joelhos, e o chão treme com o impacto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Você destruiu meu forte, dizimou meu Mestre e guilda - a virtude de toda a minha vida." 
+
+Um soluço fica preso em sua garganta, e ele enfia os dedos no chão, intensificando o estrondo de a terra ao seu redor. 
+
+"Responda-me, Fatebinder! Com que propósito você agiu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Se você não está com o Tiersmen, então você está contra nós. Eu apoio o desafio dos reinos de [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Ashe...ele... ele tem apoiado nossos esforços no passado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Hoje não, ele não fez. Você sabe que o Tremedores de terra deveria deixar este lugar imediatamente se Ashe conseguisse o que queria."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Ele não diz nada, talvez percebendo a verdade em suas palavras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Não precisa terminar aqui. Junte-se a nós e lute [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Mas, meus homens! Vocêe os deixou em frangalhos! De que te uso sem eles?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Você sempre pode reconstruir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Muito bem, Vinculador do Destino. Eu me juntarei a você e seus... rebeldes. Dê meus cumprimentos a Ashe se você o vir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Termine com ele.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Vocês dois são parentes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Isso mesmo, senhor. Somos irmãos nascidos, se não criados." 
+
+Ele bate Base com força nas costas, a parte inferior de ferro de sua manopla ressoando como o toque de um sino de funeral. 
+
+"Nós compartilhamos uma mãe, para Radix's arrependimento."</DefaultText>
+      <FemaleText>"Isso mesmo, senhora. Somos irmãos nascidos, se não criados." 
+
+Ele bate Base com força nas costas, a parte inferior de ferro de sua manopla ressoando como o toque de um sino de funeral. 
+
+"Nós compartilhamos uma mãe, para Radix's arrependimento."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Meu irmão, impetuoso como é, gosta de confiar na força e no acaso enquanto marcha pela vida. Eu, no entanto, sendo mais velho e de intelecto superior, sou fortuito o suficiente para ter herdado o chamado da terra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Ele diz isso, mas serei eu quem impedirá que a cabeça dele seja arremessada quando formos atacados a seguir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Que descobertas? O que é aconteceu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>[Deixar.] "Debrief eu depois. Tenho outros assuntos para tratar, no momento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Eu tenho você aqui, são e salvo. Que tal uma demonstração de gratidão?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Outra hora, talvez - quando as coisas forem um pouco menos urgentes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Não dê ouvidos a ele. Eu e meus Shields lhe devemos muito, senhor. E pode ter certeza que não vamos esquecer."</DefaultText>
+      <FemaleText>"Não dê ouvidos a ele. Eu e meus Shields devemos muito a você, senhora. E pode ter certeza que não vamos esquecer."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>[Saudação] "Isso é uma honra estar a serviço dos [url=glossary:disfavored]Desfavorecido[/url] e [url=glossary:graven ashe]Cinza esculpida[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Certo, é." O tenente o cumprimenta rápida e exuberantemente. "Eu e meus Shields devemos muito a você, senhor. E pode ter certeza que não vamos esquecer."</DefaultText>
+      <FemaleText>"Certo, é." O tenente o cumprimenta rápida e exuberantemente. "Eu e meus Shields devemos muito a você, senhora. E pode ter certeza que não vamos esquecer."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>O [url=glossary:iron guard]Guarda de Ferro[/url] fica rígido e imponente diante de você, corpo completamente ilegível. "Agora que vocês se acalmaram o suficiente, talvez possamos conversar sobre o assunto em questão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>O tenente resmunga. "De acordo com o Em geral, enquanto [url=glossary:cairn]Cairn[/url] viver, o [url=glossary:edict]Edital[/url] continuará destruindo a terra. Isso é bom para nós, ruim para os rebeldes e os Refrão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Como os terremotos contínuos são bons para o [url=glossary:disfavored]Desfavorecido[/url] mas ruins para os rebeldes e o Refrão?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Se os sacudidores de terra colher e usar a energia de [url=glossary:cairn]Cairn[/url], isso não o matará e assim acabará com o [url=glossary:edict]Edital[/url] que continua a assolar a terra?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"São táticas simples, senhor. Terras agrícolas arruinadas significam menos comida para alimentar as massas. Os [url=glossary:disfavored]Desfavorecido[/url] têm mais suprimentos estocados e, como somos menos, precisamos de menos rações no geral. Mais, somos feitos de material mais resistente que o Chorus e o Tiersmen."</DefaultText>
+      <FemaleText>"São táticas simples, senhora. Terras agrícolas arruinadas significam menos comida para alimentar as massas. Os [url=glossary:disfavored]Desfavorecido[/url] têm mais suprimentos estocados e, como somos menos, precisamos de menos rações no geral. Mais, somos feitos de material mais resistente que o Chorus e o Tiersmen."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Nós ficaremos bem. Enquanto isso, um exército faminto será presa fácil para Ashe. Forçaremos o inimigo a brigar pelas linhas de suprimentos enquanto saqueamos seus fortes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Então, o [url=glossary:disfavored]Desfavorecido[/url] deseja manter [url=glossary:cairn]Cairn[/url] vivo para garantir a turbulência contínua do [url=glossary:edict]Edital[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Se fosse tão fácil, com certeza. Como Radix disse, nossos 'shakers estiveram guardando o corpo de [url=glossary:cairn]Cairn[/url] nos últimos períodos. Mas não podemos continuar desperdiçando nossos recursos aqui, e não podemos defender o corpo para sempre. Os 'shakers' não são fortes o suficiente para defendê-lo sozinho. Por isso, estou a dez léguas de merda em lugar nenhum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Comportamento típico para um dos [url=glossary:kyros]Kyros[/url]' animais de estimação, embora seja um comportamento que eu esperaria mais do [url=glossary:scarlet chorus]Coro Escarlate[/url]. Você me deixa doente! Isso é um tema para vocês, não é? 'Alguma coisa sobreviveu ao uso, vamos descartá-lo! Alguém está mostrando mais poder do que deveriam, vamos refreá-los... ou matá-los.'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"O que exatamente você está planejando, soldado?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"É exatamente como meu irmão disse. Seus 'shakers' têm uma maneira de roubar a energia de [url=glossary:cairn]Cairn[/url]. Eles vão deformar o [url=glossary:edict]Edital[/url] com ele e então expulsar ambos em uma explosão gigante em sua morte. Vamos matar a terra - para sempre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Eu e meu Escudos vamos ajudá-lo a cuidar disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Nó em cascata 82</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Você não está honestamente considerando isso, está? Eles sãoe torturando ele! Elas estão torcendo seu poder para seus próprios fins e, quando tudo acabar, vão descartá-lo tão facilmente quanto jogar uma pedra fora!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"[url=glossary:cairn]Cairn[/url] traiu o Império do Norte, [url=glossary:kyros]Kyros[/url], e o [url=glossary:disfavored]Desfavorecido[/url]. No que me diz respeito, seus restos mortais e seu poder estão perdidos para quem o alcançar. Eu dormiria melhor se a essência dele caísse nas mãos [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Básico, bárbaro mesmo, mas eficaz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>[Deixar] "Preciso de tempo para processar esta informação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Demore muito e podemos perder o ativo para o inimigo. Então pense rápido, senhor."</DefaultText>
+      <FemaleText>"Demore muito e podemos perder o ativo para o inimigo. Então pense rápido, senhora."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Decidi ajudá-lo com suas operações contra o Coro no [url=glossary:stone sea]Mar de Pedra[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"É imperativo que você avise o Lareira de Ferro. Diga a Ashe estabelecemos nosso forte no [url=glossary:stone sea]Mar de Pedra[/url]. Conte a ele sobre o plano que elaboramos para destruir a terra e derrotar [url=glossary:the voices of nerat]o Vozes de Nerat[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Fale-me sobre o que você descobriu sobre [url=glossary:cairn]Cairn[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Veja, o que ele quer dizer é, viagens seguras, senhor." Tenente Caedis saúda você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Senhor." O oficial [url=glossary:disfavored]Desfavorecido[/url] inclina a cabeça para você em saudação. "O que é o pedido de Ashe? Como você pode ver, o Comandante ansioso para ir."</DefaultText>
+      <FemaleText>"Senhora." O oficial [url=glossary:disfavored]Desfavorecido[/url] inclina a cabeça para você em saudação. "O que é o pedido de Ashe? Como você pode ver, o Comandante ansioso para ir."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>[Deixar] "Ainda não tenho pedidos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>tenente esfrega a palma da mão na frente de sua placa frontal. "Viu? Descontrolado e ansioso para ir. Não há como o inimigo nos derrubar primeiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"No entanto," Radix continua, ignorando a interjeição exasperada de seu irmão. "Resta um assunto imperativo que devemos atender antes que o ritual possa começar. Implantei uma unidade de Tremedores de terra para escavar os Azurelith filões necessários da região vizinha de Gulfglow."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"O problema é que eles ainda não voltaram atrás. Ou enviou uma missiva."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Você quer que eu resgate o Tremedores de terra?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Você quer que eu recupere os Azurelith filões?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Por que me enviar e não Caedis?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Meu detalhe é de guarda Base. Não vou me desviar disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Certo, senhor. Se você encontrá-los vivos e chutando, diga a eles para trazer seus traseiros corados de volta aqui, rápido. Mas não se esqueça dos cristais. Adquiri-los é nossa principal prioridade, pois toda a missão depende do sucesso deste ritual."</DefaultText>
+      <FemaleText>"Certo, senhora. Se você encontrá-los vivos e chutando, diga a eles para trazer seus traseiros corados de volta aqui, rápido. Mas não se esqueça dos cristais. Adquiri-los é nossa principal prioridade, pois toda a missão depende do sucesso deste ritual."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Direita, senhor."
+
+Ele descansa um braço enluvado no punho de sua espada, relaxando confortavelmente em sua postura enquanto considera a situação. 
+
+"Merda se eu entendi, mas Base jura que o ritual não vai durar sem cristais suficientes. Mas não sou místico. Acabei de colocar os corpos no chão."</DefaultText>
+      <FemaleText>"Direita, senhora."
+
+Ele descansa um braço enluvado no punho de sua espada, relaxando confortavelmente em sua postura enquanto considera a situação. 
+
+"Merda se eu entendi, mas Base jura que o ritual não vai durar sem cristais suficientes. Mas não sou místico. Acabei de colocar os corpos no chão."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Senhor." O tenente o saúda com o estrondo retumbante de seu punho contra o peito. "Não seja longo. E não morra por nós."</DefaultText>
+      <FemaleText>"Senhora." O tenente te saúda com o estrondo retumbante de seu punho contra o peito. "Não seja longo. E não morra por nós."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Por que precisamos de Azurelith para o ritual?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Devo explicar esses fundamentos? Sem o Azurelith para amplificar a energia restante de [url=glossary:cairn]Cairn[/url], transmutá-la em uma substância miasmática seria inútil. A área de efeito seria inutilmente mínima."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Você pode contar comigo para ajudar."
+
+Os irmãos trocam um olhar, e Base mais uma vez fica impassível.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Fatebinder! Quão arduamente esperei por este momento." 
+
+Ele prepara seu cajado, ombros retos para o combate.
+
+"Você acha que a terra não iria me contar como bebeu do sangue derramado do meu irmãozinho?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Explique-se. Pois não consigo entender o que você fala."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Não tente negar ou minimizar seu envolvimento, Fatebinder - cobra em nosso meio. Se você matou meu irmão, eu farei a terra engolir você inteiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Esperar, isso é um grande mal-entendido. Eu não fazia ideia de que ele era seu irmão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"O porquê disso não importa. Minha vingança não me será negada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>Ele corta o chão com um único golpe de seu cajado. Ele se aproxima, tremendo tão violentamente quanto a terra ao seu redor.
+
+"Vou destruí-lo pelo que você fez." Ele ferve. "Vou esmagá-lo em areia. Vou enterrá-lo no fundo da placa tectônica azure e apagar seu nome da história. Vinculador do Destino!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Com a mão no queixo em pensamento, o homem montanhoso está alto e rígido, imóvel além da cadência calma de sua respiração. Por vários momentos, ele apenas olha para o rosto de seu Arconte.
+
+Então, finalmente, ele inclina a cabeça para você em reconhecimento.
+
+"Um Fatebinder vagueia pelo meu complexo. Eu perguntaria como você conseguiu entrar, mas já falei com Isadora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Prazer em conhecê-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Sim, Isadora, vou ouvir. Estou ansioso para saber o quanto da loucura de [url=glossary:cairn]Cairn[/url] infectou você. Você o adorava cegamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Meu pedido é simples. Eu quero que o Tremedores de terra fique comigo contra o [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Radix dá uma risada incrédula. "Simples? Você quer dizer suicida. Ah, sim, você está muito louco."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Deixe para um Vinculador do Destino descaradamente provocar um pedido tão ousado. [url=glossary:kyros]Kyros[/url]' atrocidades à parte, e presumindo que eu realmente desejei ajudá-lo, minha guilda não está em condições de enfrentar ninguém. Você acha que estou ansioso para sofrer o destino de [url=glossary:cairn]Cairn[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Seu conhecimento e seus talentos são bem conceituados. Mas você permitiu que o [url=glossary:disfavored]Desfavorecido[/url] o atrapalhasse. O caminho para o verdadeiro poder está em [url=glossary:cairn]Cairn[/url]. Abrace seu legado e torne-se uma força que nem mesmo o soberano poderia controlar prontamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Se nós, hipoteticamente, nos juntarmos a você, Vinculador do Destino, a guilda exigiria certas garantias - como os meios para se proteger. Felizmente para você, você está em uma posição única para realizar o [url=lore:Ritual_of_All_Stones]Ritual de todas as pedras[/url] que deve fornecer exatamente esses meios. Infelizmente para [url=glossary:cairn]Cairn[/url], o ritual irá matá-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"O que precisamos para realizar o ritual?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Vou cuidar dos preparativos no local do ritual. Devemos começar assim que o alinhamento telúrico for ideal para induzir um pico de paroxismo tectônico."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"No entanto, há um componente imperativo que devo adquirir antes que o ritual possa começar. Na minha ausência, Isadora enviou uma tropa de Tremedores de terra para escavar Azurelith filões da região vizinha de Gulfglow. Precisamos dos espécimes que eles coletaram que sejam da mais pura clareza."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Vou adquirir o Azurelith."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Vinculador do Destino, você não poderia ter sido mais importante para nossa causa. Conseguimos extrair com sucesso a energia de [url=glossary:cairn]Cairn[/url] e imbuí-la dentro do Azurelith, triplicando o poder de nossa guilda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"[url=glossary:cairn]Cairn[/url] agora está morto, embora ainda haja um tom de poder dentro dele para ser colhido, se você tiver uso para isso. Considere isso um sinal de minha... avaliação favorável."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Mm-hm. No entanto, [url=glossary:cairn]Cairn[/url] está agarrado à base como se fosse o único sujo em um mar agitado pela tempestade." O tenente estica o pescoço em direção ao pico obscurecido pelas nuvens da torre. "Do que você acha que se trata?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Delírio, talvez? Quem sabe bem o efeito que um [url=glossary:edict]Edital[/url] pode causar na capacidade mental de alguém." Ele junta os dedos em pensamento. "Ou talvez ele soubesse de uma peculiaridade que ainda não conhecemos. Talvez o Pináculo do Amanhecer poderia tê-lo restaurado, se ele tivesse conseguido despertá-lo de sua dormência." 
+
+O Mestre Earthshaker olha para o gigante de pedra e depois para o iminente Pináculo.
+
+"Talvez não. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Por que você acha que [url=glossary:cairn]Cairn[/url] traiu suas ordens?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>O oficial [url=glossary:disfavored]Desfavorecido[/url] passa a mão na nuca, hesitante em responder. "Por que alguém faria isso?" Ele dá de ombros. "O mundo está cheio de vícios para tentar um soldado. Bebida, bordéis, apostas. Acho que a magia da terra deve ser uma droga para tentar um Arconte do dever. Acho que eles não são tão desumanos, afinal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Me informe sobre os Coro movimentos de tropas em toda a região."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Merda, se não houver mais deles do que larvas por aqui. Não pode andar meio metro sem precisar arrancar as entranhas de alguém."
+
+O soldado esfrega o punho de sua espada, nervoso.
+
+"Mas a maioria deles enxameou [Plainsgate], procurando por corpos quentes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Crudente como meu irmão é, concordo com sua avaliação. O refrão são bastante semelhantes às larvas. Inconsequentes, mas irritantes, numerosos... Ambos se espremem sob pedras de aceleração e massa adequadas."
+
+Ele bate o pé em um ritmo lento, mas ansioso, no chão, mas depois para, se acomodando mais uma vez na quietude.
+
+"No entanto, assuntos mais urgentes precisam da minha atenção atualmente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Mesmo Radix gosta de matar Refrão gritadores. Mas ele não pode se desviar dos parâmetros de sua postagem, e eu não posso me desviar dele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Envie-me para atacar o coração de sua população, e eu deixarei o [url=glossary:disfavored]Desfavorecido[/url] orgulhoso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Infelizmente, isso soa mais como um problema para você do que para mim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Seu relatório foi suficientemente... informativo. Com certeza evitarei suas forças daqui para frente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Uh-huh. Fico feliz em poder ser útil, senhor."</DefaultText>
+      <FemaleText>"Uh-huh. Fico feliz em poder ser útil, senhora."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Ah, vamos, senhor. Não me faça implorar." Ele bate uma luva áspera contra a barriga de sua couraça de ferro. "[url=glossary:kyros]Kyros[/url] iria coaxar antes que meus escudos me deixassem viver."</DefaultText>
+      <FemaleText>"Ah, vamos, senhora. Não me faça implorar." Ele bate uma luva áspera contra a barriga de sua couraça de ferro. "[url=glossary:kyros]Kyros[/url] iria coaxar antes que meus escudos me deixassem viver."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Vai massacrar toda a maldita assassina?" O tenente esfrega a borda de sua placa frontal, a cabeça inclinada com admiração. "Acho que você acabou de roubar meu coração, senhor. Dê a eles meus cumprimentos de lâmina de ferro."</DefaultText>
+      <FemaleText>"Vai massacrar toda a maldita assassina?" O tenente esfrega a borda de sua placa frontal, a cabeça inclinada com admiração. "Acho que você acabou de roubar meu coração, senhor. Dê a eles meus cumprimentos de lâmina de ferro."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Está bem feito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Mal posso esperar pelos relatórios da missiva sobre o número de mortos e destruição."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Se você está pedindo um Fatebinder favor, é melhor estar pronto para engolir seu orgulho. De joelhos, soldado - e vou considerar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Vou pensar nisso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Às vezes não sei dizer quando você está brincando, senhor. Você sabe, eu não faria isso por ninguém além de você." 
+
+Ele faz uma saudação brusca antes de escalar desajeitadamente um joelho no lodo. Ele olha para você com uma seriedade condizente com sua viseira esquelética.
+
+"Mate cinquenta gritadores, e eu darei uma boa palavra para você com cada soldado que encontrar nos próximos seis períodos. Dou minha palavra, em Ashe honra."</DefaultText>
+      <FemaleText>"Às vezes não sei dizer quando você está brincando, senhora. Você sabe, eu não faria isso por ninguém além de você." 
+
+Ele faz uma saudação brusca antes de escalar desajeitadamente um joelho no lodo. Ele olha para você com uma seriedade condizente com sua viseira esquelética.
+
+"Mate cinquenta gritadores, e eu darei uma boa palavra para você com cada soldado que encontrar nos próximos seis períodos. Dou minha palavra, em Ashe honra."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Por favor, faça. Se você pudesse pensar nisso enquanto está cortando suas tripas, seria ainda melhor. Senhor."</DefaultText>
+      <FemaleText>"Por favor, faça. Se você pudesse pensar nisso enquanto está cortando suas tripas, seria ainda melhor. Senhora."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Isso é suficiente. Considere-os mortos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Eu não preciso da sua boa palavra. Essa espada larga, no entanto, chamou minha atenção."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Então, como prometido - vou pensar nisso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Ele resmunga enquanto cambaleia mais uma vez para ficar de pé. Ele ri de sua própria estupidez enquanto tira a terra do joelho.
+
+"Por favor, faça. Se você pudesse pensar nisso enquanto está cortando suas tripas, seria ainda melhor. Senhor."</DefaultText>
+      <FemaleText>Ele resmunga enquanto cambaleia mais uma vez para ficar de pé. Ele ri de sua própria estupidez enquanto tira a terra do joelho.
+
+"Por favor, faça. Se você pudesse pensar nisso enquanto está cortando suas tripas, seria ainda melhor. Senhora."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>O oficial [url=glossary:disfavored]Desfavorecido[/url] cai de joelhos em um silêncio mortal.
+
+"No. É minha palavra ou nada." 
+
+Inconscientemente, ele agarra o punho de couro de sua espada, acariciando o punho gasto com o polegar.
+
+"Você tem que entender, senhor - ela está comigo desde o início. Nunca lascado ou quebrado. Nunca me decepcione."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>Ele resmunga enquanto cambaleia mais uma vez para ficar de pé. Ele acena com a cabeça em aceitação, mas a seriedade do momento é arruinada por sua risada bem-humorada.
+
+"Mal posso esperar pelos relatórios da missiva sobre o número de mortos e destruição."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>O comandante balança a cabeça em descrença. "Ridículo. Vocês dois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Então sua palavra será suficiente. Considere-os mortos pela honra do [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"É por isso que vou usá-la quando eu abater o [url=glossary:scarlet chorus]Coro Escarlate[/url] em seu nome."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Sem acordo. Não tenho motivos para me investir neste assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Ele deixa cair a cabeça entre os ombros em derrota, suspira, e então se levanta silenciosamente. "Com todo o respeito, senhor - ela é a melhor arma que eu tenho, então é melhor você cuidar dela." Ele desembainha a espada lentamente, ansiosamente, um movimento fluido e praticado agora tingido de pavor. Finalmente, ele oferece a lâmina, aninhada nas palmas das mãos como que em homenagem a [url=glossary:kyros]Kyros[/url], o próprio soberano. "Eu a quero de volta no próximo período de Rapax. Quero dizer isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Ele suspira em aceitação do impasse, mas, por outro lado, permanece em silêncio, mais moderado do que o habitual, enquanto se levanta lentamente. Ele segura a espada enquanto dá de ombros, bem-humorado.
+
+"Se é assim que você se sente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Não é como se ele fosse mandado embora. Por ser doze anos mais velho e irritantemente apto para a magia, ele partiu para Tortalus para estudar com [url=glossary:cairn]Cairn[/url]." Caedis dá um tapa nas costas do irmão. "Não posso dizer que senti muita falta dele. Você já foi enterrado vivo, senhor?"</DefaultText>
+      <FemaleText>"Não é como se ele fosse mandado embora. Por ser doze anos mais velho e irritantemente apto para a magia, ele partiu para Tortalus para estudar com [url=glossary:cairn]Cairn[/url]." Caedis dá um tapa nas costas do irmão. "Não posso dizer que senti muita falta dele. Você já foi enterrada viva, senhora?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Vocês foram criados separados?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Vamos falar de outro assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Assim seja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Ah, há quanto tempo. Eu me lembro, mamãe estava muito orgulhosa. Não daquele incidente. Ela ficou irracionalmente furiosa, embora eu tenha deixado um buraco de ar para você. Foi uma grande honra estudar com um Arconte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Você tem pais separados? Quem eram eles?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Não sei." O tenente dá de ombros.
+
+"Mas isso não importa, certo? Se fosse apenas nosso pai, este poderia ter se livrado de mim. Mas você não pode negar a linhagem do útero, nem a herança de uma mulher. Mesmo se eu escolhesse a linha de frente em vez de Radix's guilda pesada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Isso mesmo. Para melhor ou pior, estamos indiscutivelmente ligados pelo sangue. Embora você não saiba disso, pois Caedis exibe apenas os traços mais minúsculos da mãe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Tortalus, que fica no norte, certo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Obviamente. Apesar do meu mestre inclinações cada vez mais irracionais em sua idade, [url=glossary:cairn]Cairn[/url] era um nortista, assim como você e eu." O [url=glossary:iron guard]Guarda de Ferro[/url] se posiciona, olhando silenciosamente para o horizonte por um momento antes de continuar a falar. "Tortalus é a cordilheira continental mais longa do Império do Norte. Naturalmente, foi em seu pico mais alto que [url=glossary:cairn]Cairn[/url] estabeleceu a guilda Earthshaker e onde acumulei meticulosamente o potencial de minhas habilidades."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Como foi estudar com [url=glossary:cairn]Cairn[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Excruciantemente árduo, mas edificante. Você quer que eu diga que ele era como um pai amoroso? Não posso. Ele era implacável quando precisava ser e, acima de tudo, brilhante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Ele era um Arconte, e um poderoso nisso. Se você quer ter acesso a essas alturas de poder, precisa se dedicar. Se você não está disposto a treinar, você não é digno de exercer esse poder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"É uma pena o que aconteceu com [url=glossary:cairn]Cairn[/url]. Ele era um Arconte, afinal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"[url=glossary:cairn]Cairn[/url] o Traidor desafiou diretamente o [url=glossary:kyros]Kyros[/url]. Era inevitável que ele fosse destruído."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Você é um Earthshaker e um [url=glossary:iron guard]Guarda de Ferro[/url]? Como isso aconteceu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Não era uma posição que eu desejasse muito, para ser totalmente franco. Eu não invejava a vida de um soldado, mas era Ashe vontade que eu servisse de Comandante para melhor guardar a causa do [url=glossary:disfavored]Desfavorecido[/url]." "Eu faria tenho me apegado aos meus estudos, e talvez fosse mais adequado para nós assim." Ele se pega, acrescentando rapidamente, "Não que eu encontre algum ressentimento de Ashe graciosidade." " Eu sou..." Ele faz uma pausa, olhando para baixo, como se procurasse palavras melhores do que as que primeiro vêm à mente. "Estou honrado por ter essa honra concedida a mim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Seria a comiseração do Vinculador do Destino que lançou o [url=glossary:edict]Edital[/url] da execução de [url=glossary:cairn]Cairn[/url]? Que curioso." O [url=glossary:iron guard]Guarda de Ferro[/url] se alarga e reajusta sua postura, os braços cruzados rigidamente atrás das costas. "De fato, não discordo. Dediquei-me como aprendiz de [url=glossary:cairn]Cairn[/url] por muitos anos e, embora permaneça firme em meu serviço ao [url=glossary:disfavored]Desfavorecido[/url], também senti minha Mestrado perda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>O [url=glossary:iron guard]Guarda de Ferro[/url] bate o calcanhar de sua bota no chão, irritado, fazendo com que pedrinhas estremeçam e pulem a curta distância ao seu redor.
+
+"O que eu não consigo entender nem perdoar é por que ele escolheria selvagens tão imundos sobre seus próprios discípulos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Por selvagens, você quer dizer o Homens-fera?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Com certeza. Para [url=glossary:cairn]Cairn[/url] arriscar toda a guilda por conta de tal primitivo Bestas - é totalmente desprezível. Ele não apenas arruinou a si mesmo, mas quase fez chover o mesmo sobre nós."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Sim, suponho que se não tivesse sido você, então o [url=glossary:edict]Edital[/url] da execução de [url=glossary:cairn]Cairn[/url] teria sido meramente lançado por outro Vinculador do Destino." O [url=glossary:iron guard]Guarda de Ferro[/url] alarga e reajusta sua postura, os braços cruzados rigidamente atrás das costas. "Enquanto, me dediquei como aprendiz de [url=glossary:cairn]Cairn[/url] por muitos anos, tenha certeza de que, como herdeiro da guilda Tremedores de terra', permaneço firme em meu serviço ao [url=glossary:disfavored]Desfavorecido[/url]. [url=glossary:kyros]Kyros[/url]' a demanda por lealdade é absoluta. Isso eu entendo bem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Vocês dois são tão úteis quanto um peso no meu pescoço. Talvez fosse mais fácil matar você aqui e agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Pense antes de falar, Vinculador do Destino. Caso contrário, suas próximas palavras podem ser as últimas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>[Ataque] "Vou me arriscar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>[Difundir a situação.] "Suae certo. Fiquei irritado e falei mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Vinculador do Destino, você sobreviveu para se juntar a nós." O [url=glossary:iron guard]Guarda de Ferro[/url] estuda você com uma intensidade severa. Se o esforço da corrida o deixou sem fôlego, ele não demonstra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>Seu irmão, por outro lado, se dobra, mãos nos joelhos enquanto recupera o fôlego. Entre os dois, Caedis está espalhado nos restos da batalha enquanto Base permanece totalmente intocado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Estou pronto para descansar e tomar banho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>Ele arranca um pouco de vísceras de seu protetor de ombro e o joga no chão. "Você e eu, senhor."</DefaultText>
+      <FemaleText>Ele arranca um pouco de vísceras de seu protetor de ombro e o joga no chão. "Você e eu, senhora."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Embora eu não considere que atravessar terreno rochoso seja particularmente penoso, estou ansioso para entrar no complexo." 
+
+"Leve o tempo que precisar para se recuperar, Vinculador do Destino. Se precisar de mim, estarei examinando o estado dos restos mortais de [url=glossary:cairn]Cairn[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Senhor! Espere!"</DefaultText>
+      <FemaleText>"Senhora! Espere!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"O que o comandante significa é, não demore, senhor. Por favor."</DefaultText>
+      <FemaleText>"O que o comandante significa é, não demore, senhora. Por favor."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Depois de extrair sua energia, teremos pouco tempo para usá-la para destruir permanentemente a terra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Depois de extrair sua energia, teremos pouco tempo para armazená-la dentro dos Azurelith cristais afixados em nossas pautas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>O tenente [url=glossary:disfavored]Desfavorecido[/url] limpa a garganta e se afasta do penhasco. "Vou dar um passo atrás para este..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>[Mentira] "Não fui eu quem o derrubou. Culpe o [url=glossary:scarlet chorus]Coro Escarlate[/url] pela sua perda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>[Ataque] "Descanso com certeza, você logo se juntará a ele na morte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Ridículo. Como se o Refrão sozinho pudesse derrubar meu irmão. É verdade que ele me mandou na frente quando fomos emboscados, mas..." 
+
+Suas palavras se calam e ele cai, derrotado contra a montanha intransponível de sua dor.
+
+"Não é verdade. É insondável."
+
+Ele cai de quatro, tremendo, e o chão se agita violentamente entre vocês.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Isadora, diga alguma coisa...!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Ela engasga, chocada além das palavras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Vinculador do Destino, você não poderia ter sido mais importante para nossa causa. Conseguimos extrair com sucesso a energia de [url=glossary:cairn]Cairn[/url] e arruinar a terra pelos próximos milênios. Basta dizer que o Em geral ficará satisfeito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Seria um gesto generoso do próprio Núcleo de ferro? Deve-see tomou alguma determinação, para não drenar até a última gota, Comandante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Sim, e como tenho certeza que você sabe, determinação não é uma área em que me falta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>[Agradece com a cabeça.] "Vou colher um pedaço do Arconte e informar Ashe que demos um golpe definitivo contra o Refrão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Eu mal posso acreditar nos feitos que realizamos. Como é propício ter um Fatebinder favor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>[Dar de ombros] "Que bom que acabou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>[Segure Caedis' cabeça decepada.] "Você quer dizer ele?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>Um grito gargarejado fica preso em sua garganta. Ele avança cambaleando, tinindo e uivando sua fúria, e a terra treme a cada passo.
+
+"Eu vou destruir você. Eu vou esmagá-lo em areia. Vou enterrá-lo no fundo da azure placa tectônica e apagar seu nome da história."
+
+O chão estremece e se divide, e ele se lança em sua direção.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Senhor! Meus ouvidos estão sangrando ou você acabou de nos ameaçar?!"</DefaultText>
+      <FemaleText>"Senhora! Meus ouvidos estão sangrando ou você acabou de nos ameaçar?!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>"Todos nós temos nossas maneiras de desabafar. Mas eu recomendo que você encontre um meio diferente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Antes de ir, gostaria de discutir alguns outros assuntos com vocês dois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Claro que sim." Caedis olha para o irmão mais velho e se endireita. "Você viu o rastro de cadáveres que ele deixou. Facilitou meu trabalho - bem, mais fácil."
+
+O tenente lhe dá um breve aceno de cabeça. "Graças a você, chegamos a uma peça."</DefaultText>
+      <FemaleText>"Claro que sim." Caedis olha para o irmão mais velho e se endireita. "Você viu o rastro de cadáveres que ela deixou. Facilitou meu trabalho - bem, mais fácil."
+
+O tenente lhe dá um breve aceno de cabeça. "Graças a você, chegamos a uma peça."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"Que bom que você conseguiu acompanhar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Não seria mais rápido enviar uma missiva codificada?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"É um risco muito grande enviar algo com outro mensageiro. Você tem a melhor chance de voltar a Ashe vivo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Existe alguma coisa com que precisamos nos preocupar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Curta de um ataque total pelo Refrão, não. Mas um ataque dos gritadores pode ficar confuso, então eu tenho meu Escudos vigiando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"Lembre-me novamente - os Earthshakers são o braço arcano dos Ashe militares. Correto?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Lembro-me vagamente de você dizendo, mas por que você acha que [url=glossary:cairn]Cairn[/url] traiu suas ordens novamente?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Eu sei que falamos sobre isso, mas não consigo me lembrar. Vocês dois são irmãos, certo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"O que há com os terremotos constantes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"[url=glossary:cairn]Cairn[/url] foi derrotado, mas não está totalmente morto. Enquanto sua essência permanecer dentro de seu corpo, o [url=glossary:edict]Edital[/url] de Pedra permanecerá no lugar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Perdoe-me, pois pareço ter esquecido. O que você disse que estava causando os tremores constantes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>Ele bate com seu cajado uma, duas, três vezes no chão. "Que a terra seja ouvida." 
+
+Ele continua enquanto Tremedores de terra se reúne, lentamente, cantando ao seu redor. "Deixe a terra ser movida. Deixe a terra legar [url=glossary:cairn]Cairn[/url] para nós, sua amada, suas esporas selvagens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Arconte de Pedra, nós nos reunimos implorando a você - nós que cremos. Deixe-nos agora seu legado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>Ele bate com seu cajado uma, duas, três vezes no chão. "Deixe a terra ouvir nossos gritos." 
+
+Ele continua enquanto Tremedores de terra se reúne, lentamente, cantando ao seu redor. "Deixe a terra estremecer e tremer. Deixe a terra engolir o legado de [url=glossary:cairn]Cairn[/url] e engasgar com o poder, para sempre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Arconte de Pedra, nós nos reunimos implorando a você - nós que cremos. Deixe-nos agora pousar esta terra como é apropriado para sua sepultura."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Excelente. Nesse caso, sinalizarei para que o [url=lore:Ritual_of_All_Stones]Ritual de todas as pedras[/url] comece."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"Que tipo de saudação é essa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Eu exijo sua guilda em meus esforços para trazer ordem ao Camadas. Você não pode me recusar - tanto legalmente quanto porque eu não vou deixar você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"Radix Mestre, você decidiu ouvir o pedido Fatebinder ou não?"
+
+Isadora olha para você, sua expressão reservada - tão cautelosa no momento em que você se conheceu em [Plainsgate].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>Uma risada profunda e retumbante saúda seus ouvidos.
+
+"Meu irmão está tão insuportável como sempre." 
+
+O [url=glossary:disfavored]Desfavorecido[/url] O tenente se mexe sob o peso de seu terno. Ele coloca sua espada em um ombro para descansar mais confortavelmente. 
+
+"É a primeira vez que encontro um Vinculador do Destino. Eu saúdo ou algo assim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"Não o satisfaça. Meu irmão pode ser um verdadeiro merda quando quer." 
+
+O [url=glossary:disfavored]Desfavorecido[/url] tenente saúda você com o tapa de um punho carnudo na armadura de bronze.
+
+"Irmão, este é o Vinculador do Destino que pulou no fogo por mim e meu Escudos em Jagged Maw."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>Seus olhos castanhos se estreitam curiosamente enquanto ela olha entre você e Caedis. Ela aperta o punho de seu cajado contra a palma de sua mão.
+
+"Radix Mestre, você decidiu ouvir o pedido Fatebinder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>Voltando-se para você, ele acrescenta mais suavemente, "E a você, Vinculador do Destino, gostaria de expressar minha gratidão por ajudar meu irmão."
+
+Ele bate o pé no chão, agitado pela admissão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Não achei prudente matar os parentes do homem que estou procurando recrutar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"Todo mundo tem seu preço. Então me diga, qual é o seu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>Radix dá uma risada incrédula. "Você acha que poderia nos comprar? Com que finalidade?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>O Mestre Earthshaker estuda você, ainda como uma cobra pronta para atacar. "Recrutar para quê? Você não pode querer ficar contra [url=glossary:kyros]Kyros[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>[Dar de ombros] "Suae muito bem vindo. Ganhei uma espada muito boa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"Chega dessa tolice." Ele suspira, pela primeira vez parecendo cansado e desgastado pelo tempo. "O que você quer de nós, Fatebinder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"Eu quebro Editais e coloco medo nos corações de Arcontes. O [url=glossary:vendrien guard]Guarda Vendrien[/url] e o [url=glossary:forge-bound]Forge-Bound[/url] já se comprometeram comigo. Você seria sábio em fazer o mesmo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Radix! Meus ouvidos estão sangrando ou essa mancha inútil está pedindo para você desertar do [url=glossary:disfavored]Desfavorecido[/url]?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"Afaste-se, tenente. Este assunto é entre mim e o Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"Por que apoiaríamos alguém que nem é Arconte quando já perdemos um e estamos jurados a outro?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>Ela lança Base um olhar significativo. "Nos encontramos em um pico escarpado. Espero que você entenda o que significa dar o salto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>"Eu posso lhe dar poder além do alcance de qualquer Arconte no Camadas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"Eu posso lhe dar conhecimento inigualável até mesmo pelo Sábios."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>soldado [url=glossary:disfavored]Desfavorecido[/url] grunhe e cospe no chão. "Lá melhor não ser um arranhão nela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>281</ID>
+      <DefaultText>"Comandante?" Caedis olha para o irmão surpreso, sem saber como responder. "O que em Ashe nome que você está planejando?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>282</ID>
+      <DefaultText>"Eu disse calma. Você age como se não me conhecesse, irmãozinho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"Como você se atreve." Irritado, o Mestre Earthshaker retumba a repreensão e o chão treme com ele. "Eu posso e vou. Eu sou um [url=glossary:iron guard]Guarda de Ferro[/url] de Ashe. Atendo às ordens dele e só dele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"Você não tem lealdade a [url=glossary:cairn]Cairn[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Ele está certo. Isso é o que [url=glossary:cairn]Cairn[/url] teria desejado."</DefaultText>
+      <FemaleText>"Ela está certa. Isso é o que [url=glossary:cairn]Cairn[/url] teria desejado."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"O que [url=glossary:cairn]Cairn[/url] sabia sobre lealdade? Ele arriscou sua própria guilda para resgatar Tiersmen e Bestas. Ele nos traiu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>Ela cora, excitada. "Ele fez o que você é covarde demais para fazer. Ele fez o que era certo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"Base." Caedis muda de posição, inquieto. "Você sabe que eu sou o último que daria a mínima para regras. Mas o general não vai gostar disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"Desejo recrutar os Earthshakers como meus aliados porque entendo o valor de sua guilda. Ashe valoriza e protege seus soldados, mas você pode dizer que ele faz o mesmo por você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>O [url=glossary:iron guard]Guarda de Ferro[/url] inclina a cabeça em um pensamento silencioso. Embora ele não se mova, você tem a sensação de que ele lutou com um peso enorme sobre os ombros.
+
+Finalmente, ele se dirige ao soldado ao seu lado, "Bebê irmão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>O soldado se empurra e dá um passo à frente, chocado. "Comandante, você não pode estar falando sério?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>[url=glossary:iron guard]Guarda de Ferro[/url] inclina a cabeça em um pensamento silencioso. Embora ele não se mova, você tem a sensação de que ele lutou com um peso enorme em seus ombros.
+
+Finalmente, ele responde com um aceno curto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>Ele fica alto, inabalável. "Seria você escolhe seu Arconte sobre sua própria carne e sangue? Bebê irmão, você veria minha mãe chorar no meu túmulo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"Você é quem está cavando nossas covas. Mas você nunca me ouviu." 
+
+Ele balança a cabeça e ri amargamente em descrença. "Esta é a última vez, Base. Você entende? Não posso te ajudar depois disso. Merda, eu nem sei disso. Quando eu sair, você entende, eu nunca estive aqui. Vou dizer ao Em geral, nunca te encontrei no [url=glossary:stone sea]Mar de Pedra[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"Você está dizendo que ele sobreviveu ao [url=glossary:edict]Edital[/url]? Ele é vivo em algum lugar aí?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"Dizer que ele sobreviveu seria presunção. Talvez dura seja uma descrição melhor. Embora seu coração ainda bata, [url=glossary:cairn]Cairn[/url] ficou preso em um estado de inconsciência. Ele não pode e não sobreviverá ao [url=glossary:edict]Edital[/url]. Isso o atormentará até seu último suspiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>"Nem mesmo [url=glossary:cairn]Cairn[/url] poderia sobreviver à ira Soberano. No entanto, ele ainda lutou pela liberdade do Camadas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"Não há como salvar [url=glossary:cairn]Cairn[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>"Você acha que eu não faria isso se pudéssemos? Acreditar eu, nós tentamos. O [url=glossary:edict]Edital[/url] foi lançado para matá-lo, mas a única maneira de quebrar o [url=glossary:edict]Edital[/url] é acabar com sua vida. Então você vê, de qualquer maneira meu Arconte vai morrer." Ela lança os olhos para o chão, e por um breve momento você vislumbra sua tristeza. "[url=glossary:cairn]Cairn[/url] está morrendo há muito tempo, muitos períodos agora. Ele logo sucumbirá ao [url=glossary:edict]Edital[/url], isto é, se o [url=glossary:scarlet chorus]Coro Escarlate[/url] não nos encontrar e acabar com ele primeiro. Antes que isso aconteça, concordo com Base - é imperativo que preservemos seu legado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>"Por que precisamos de Azurelith para o ritual?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>"Devo explicar esses fundamentos? Sem o Azurelith para amplificar e focar a energia restante de [url=glossary:cairn]Cairn[/url], transmutá-la em uma substância corpórea seria inútil. Nossa capacidade de aproveitar sua energia bruta seria inutilmente mínima."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"Vamos encaixar o Azurelith em nossas pautas para conter a energia de [url=glossary:cairn]Cairn[/url] e dispersá-la entre nós. Assim estaremos infundindo nossas habilidades com a própria essência de [url=glossary:cairn]Cairn[/url]. Não só o Tremedores de terra alcançará novas alturas de poder, mas também vamos acabar com o [url=glossary:edict]Edital[/url] de Stone e colocar nosso Arconte para descansar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>"Você deve encontrar Basilon em Gulfglow e nos trazer os cristais ou não haverá sentido para o ritual."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>Ela toca um dedo no queixo em consideração. "Enquanto aguardamos sua prontidão, farei o que puder para preparar meu coração."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>[Mentira] Tentei ajudá-lo, mas não havia nada que eu pudesse fazer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"Sinto muito por sua perda. Verdadeiramente eu sou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>Devagar, os tremores diminuem. Sem olhar para cima, o Mestre Earthshaker responde. "Perdoareu, Vinculador do Destino. Preciso de um momento para me recompor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>Ele faz barulho quando se levanta, movimentos rígidos e forçados. "Falar comigo depois de um tempo. Estarei na presença do meu Arconte, perscrutando o precipício de tudo o que ainda me é obscuro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>Ele fica ainda mais ereto, os ombros se contraindo rigidamente enquanto ele range, "Peço desculpas pelo meu comportamento anterior. Muitas vezes não me permito ser afetado por tais... emoções."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>"Pense em nada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>[Dar de ombros]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"Muito bem, Vinculador do Destino. Nossa guilda apoiará seus esforços para aliviar o Camadas do [url=glossary:kyros]Kyros[/url]' reino de destruição."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"Aguarde-me em [url=glossary:ascension hall]Salão da Ascensão[/url]. Você pode representar sua guilda daqui em diante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>"Vá para [url=glossary:ascension hall]Salão da Ascensão[/url]. Este lugar não é mais seguro para você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"Vou prendê-lo a isso. Espere por mim em [url=glossary:ascension hall]Salão da Ascensão[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>"Astuto e tenaz, que combinação intolerável. Suponho que precisaremos abandonar este forte se quisermos evitar Ashe ira quando ele descobrir o que fizemos."
+
+Ele dá um suspiro pesado, ombros pesados com um arrependimento momentâneo. 
+
+"Eu não invejo meus irmãos atualmente designados para o lado Geral. Em vez de desertar conosco, temo que eles terão pouca escolha a não ser permanecer leais a Ashe na Lareira de Ferro - simplesmente para sobreviver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>"Agradeço também, Vinculador do Destino." Com um pequeno sorriso, Isadora se despede. Quando ela levanta a cabeça, seus olhos castanhos encontram os seus com convicção. "Se você sair antes de nós, certifique-se de visitar primeiro os restos mortais de [url=glossary:cairn]Cairn[/url]. Ele pode ter ido embora, mas ainda há um toque de poder dentro dele a ser colhido. Considere isso um sinal de nossa aliança recém-formada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>"E veja onde isso te levou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>"Vou encontrar um uso. Ou devo parar de reclamar agora?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>"Então seus sonhos são mais sensatos que de Isadora. Ela tem a impressão de que eu realmente considero a opinião dela, às vezes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>Ela suspira e bate a haste de seu cajado no chão.
+
+"Ah, eu não me preocuparia com isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>"No entanto, você seria melhor por isso, se o fizesse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>"Curta de um ataque total pelo [url=glossary:scarlet chorus]Coro Escarlate[/url], não. Mas um ataque deles pode ficar confuso, então eu tenho toda a guilda em alerta máximo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>"Certamente deve haver uma razão [url=glossary:cairn]Cairn[/url] fugir para o Pináculo da Alvorada em seu momento mais grave." Ela estica o pescoço em direção ao pico obscurecido pelas nuvens da torre. "No entanto, o que ele esperava realizar de forma frustrante me escapa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>"Sim, suponho que se não tivesse sido você, então o [url=glossary:edict]Edital[/url] da execução de [url=glossary:cairn]Cairn[/url] teria sido meramente lançado por outro Vinculador do Destino." O Mestre Earthshaker alarga e reajusta sua postura, os braços cruzados rigidamente atrás das costas. "Dediquei-me como aprendiz de [url=glossary:cairn]Cairn[/url] durante a maior parte dos meus anos, e como herdeiro da guilda Tremedores de terra', não desejo ver seu legado desmoronar. No entanto, suas palavras não inspiram uma sensação de... segurança... em relação às nossas perspectivas de enfrentar o soberano."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"A promoção não foi a que eu desejava, para ser totalmente franco. Mas foi Ashe vontade que eu sirva de Comandante para proteger melhor a causa do [url=glossary:disfavored]Desfavorecido[/url]." Ele bate um dedo do pé com bota de ferro no chão. "Eu teria preferido continuar meus estudos tanto no tempo quanto na prática, e talvez fosse mais adequado para a guilda se essa fosse a realidade disponível para nós. Não importa agora, de qualquer forma."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"Porque ele era um grande homem que era alto como montanhas por aquilo em que acreditava."
+
+Ela olha para Radix como se o desafiasse a contradizê-la.
+
+"Ele lutou pelo que achava certo, e assim o fará nós."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>"Seja o que for que ele lutou - seja uma causa justa ou uma loucura caprichosa, posso garantir - ele certamente morreu por isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>"Amável," Eb revira os olhos com um suspiro longo e exasperado, "um milênio? Ajudei a sujar a terra por... mil malditos anos."
+
+Ela enterra a cabeça na mão. "Pelo menos nós... diminuímos a velocidade do Refrão... um pouco? Ah foda-se tudo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>"Os [url=glossary:scarlet chorus]Coro Escarlate[/url] saberão o preço de lutar contra nós quando suas barrigas estiverem vazias e eles se acharem fracos demais para aguentar. Eu me pergunto quantas gangues vão virar canibais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>"A próxima geração não ficará tão satisfeita quando os Tiers ficarem sem comida. Por mais brutal que possa ser, até o [url=glossary:scarlet chorus]Coro Escarlate[/url] estabelece um limite para a crueldade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>Nó do banco 336</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>Nó aleatório 337</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>"E agora adicionamos o conhecimento de [url=glossary:cairn]Cairn[/url] ao nosso arsenal - magnífico." Eb solta um suspiro longo e ronronante. "Odeio dizer isso, mas sinto que entendo [url=glossary:the voices of nerat]o Vozes de Nerat[/url] - bem, um pouco, pelo menos. Esmagar seu inimigo em pedaços é muito divertido, mas na verdade subverter e roubar a força de seu inimigo... agora isso só me dá o orvalho da manhã."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>O Mestre do Montanhas pigarreia rispidamente. "Guerra, e o esforço para sobreviver a ela, de fato familiariza um mago com estranhos companheiros de cama."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>"Místicos da Terra são espertos para se juntar ao pacote Alfa. Tem a melhor chance de sobrevivência." Ela funga, queixo erguido. "Mulher-Besta vai gostar de matar a tribo [url=glossary:kyros]Kyros[/url]' ao lado de Arconte de Pedra místicos. Mas não se esqueça de pedir em pacote - Mulher-Besta é o segundo, apenas para Alfa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>"Não há explosão digna de censura quando se trata da perda de um bom soldado. Neste caso, suas emoções são o seu crédito, conterrâneo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>"Você pode estar certo, meu amigo de ferro. Eu tento me manter em um padrão mais alto, mas isso não me impede de me adiantar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>"Alfa deixa matar-in-Shadow rasgar a cabeça [url=glossary:disfavored]Desfavorecido[/url] cabeça dos ombros!" Ela ofega e ri, flexionando suas garras animadamente. "Presa chorou e engasgou com o próprio sangue da morte - sangue que ainda escorrega da mulher-fera patas!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>Nó em cascata 344</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>"Não é de se admirar que você tenha despertado a ira deste. O [url=glossary:disfavored]Desfavorecido[/url] não aceita perdas de ânimo leve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>"Já tive. Essa merda bem falada precisa morrer." Verse prepara sua arma.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>"Alfa deixa matar-in-Shadow rasgar a cabeça [url=glossary:disfavored]Desfavorecido[/url] cabeça dos ombros!" Ela ofega e ri, flexionando suas garras animadamente. "Presa chorou e engasgou com o próprio sangue da morte - sangue que ainda escorrega da mulher-fera patas!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>Barik simplesmente cobre os olhos com a palma da mão e balança a cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>Nó aleatório 349</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>"Não acredito que pude testemunhar a natureza mística de um Arconte sendo... movido? Transferido? Uh, seja o que for, é a primeira vez! Um arcano PRIMEIRO!" Lantry enfia a pena no pergaminho para dar ênfase, fazendo uma careta com o impacto. "Então, não só posso ser o primeiro [url=glossary:sage]Sábio[/url] a documentar uma coisa dessas, mas também perfurei meu braço - estou muito animado para me importar!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>"Então temos a honra de arrancar a essência primordial de [url=glossary:cairn]Cairn[/url] de seu cadáver?" Ela sorri largamente, arrastando os pés com uma excitação mal disfarçada. "Você me pegou para salvar Azure, mas também podemos matar um Arconte? Vamos fazer isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>"Há uma poesia trágica nisso, não há? Capacitação [url=glossary:cairn]Cairn[/url] com seu poder para livrar-se de [url=glossary:kyros]Kyros[/url]' algemas. Ele finalmente se libertará de sua servidão e ajudará os outros a romper com a deles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>"Será que estamos indo em frente com isso? Você ouviu a parte 'permanentemente' da cláusula 'destruir a terra', não ouviu?"
+
+Ela inala profundamente, antes de exalar com um sorriso rígido. "Mas você está no comando... e tenho apenas... certeza de que você fará a coisa certa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>Nó em cascata 355</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>"Eu só gostaria de reiterar que você está fazendo uma coisa terrível e que eu menosprezo você por isso. Isso é tudo." Verse cruza os braços e olha para você com desgosto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>"Uma tática brutal e eficaz. Pelo menos promete diminuir o inimigo através da fome. Ainda pode ser mais do que o Refrão merece. Para não questionar a vontade Arconte, ela me parece... bélica, mas imprópria do [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>"Um ponto justo que vale a pena considerar, mas estamos aqui para seguir ordens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>"Mantenha suas dúvidas para si mesmo, Barik. Eles estão perdidos comigo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>"Perceptivo de sua parte pensar assim. As bestas são lutadoras poderosas, mas imprevisíveis para nossa espécie. Uma das muitas razões pelas quais Ashe não os deixa chegar perto da legião."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>"Não deve ser um problema. O Fatebinder e eu crie o hábito de colocar soldados na fila e coletar enfeites brilhantes. Você quase poderia chamar isso de passatempo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>362</ID>
+      <DefaultText>Nó em cascata 362</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>Ela encolhe os ombros. "Os predadores não são previsíveis na caça?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>Com as palavras 'bem, na verdade' escritas em seu rosto, Lantry levanta um dedo e começa a falar, apenas para hesitar.
+
+"Eu ia dizer que não precisamos necessariamente do Azurelith, mas... eu não tenho trinta Sábios enfiados na minha bandoleira para tentar meu plano então... sim, precisamos de algo poderoso para conter a Arconte essência, e o Azurelith é o único material que quase provavelmente não poderia quebrar sob o estresse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>365</ID>
+      <DefaultText>Com as palavras 'bem, na verdade' escritas em seu rosto, Lantry levanta um dedo e começa a falar, apenas para hesitar.
+
+"Eu ia dizer que não precisamos necessariamente do Azurelith, mas... eu não tenho trinta Sábios enfiados na minha bandoleira para tentar meu plano então... sim, precisamos de algo poderoso para conter a Arconte essência, e o Azurelith é o único material que quase provavelmente não poderia quebrar sob o estresse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>366</ID>
+      <DefaultText>Nó aleatório 366</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>367</ID>
+      <DefaultText>"Você precisa de um copo para segurar um líquido - faz sentido. E se o líquido em questão é a essência volátil de um Arconte morrendo lentamente conhecido por sua natureza quase indestrutível... bem, é lógico que é melhor você usar o cálice mais resistente que puder encontrar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>368</ID>
+      <DefaultText>"Você precisa de um copo para segurar um líquido - faz sentido. E se o líquido em questão é a essência volátil de um Arconte morrendo lentamente conhecido por sua natureza quase indestrutível... bem, é lógico que é melhor você usar o cálice mais resistente que puder encontrar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>369</ID>
+      <DefaultText>Nó do banco 369</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>370</ID>
+      <DefaultText>"Então, em troca de tudo que [url=glossary:cairn]Cairn[/url] te ensinou, você vai colher a força vital dele? Isso é como [url=glossary:cairn]Cairn[/url] realmente teve filhos... horríveis, horríveis filhos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>371</ID>
+      <DefaultText>"Ele não está sofrendo o suficiente? Você tem que adicionar a ele?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>Nó do banco 372</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>373</ID>
+      <DefaultText>"O [url=glossary:scarlet chorus]Coro Escarlate[/url] deve ser apagado da região. Estas são as consequências de declarar guerra ao Grande General."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>374</ID>
+      <DefaultText>Nó do banco 374</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>375</ID>
+      <DefaultText>"Espero que eu não seja a única voz dissidente aqui, mas arruinar a terra fará com que [url=glossary:scarlet chorus]Coro Escarlate[/url] passe fome, para não mencionar uma grande parte deste reino. Achei que estávamos lutando uma guerra para ganhar alguma coisa. Parece que estamos causando uma devastação enorme por uma vitória idiota. Estou errado aqui?" Versículo olha para você com uma expressão confusa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>"A guerra está cheia de decisões difíceis, mas esta é fácil. Arruinar a terra, Base."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>"Não tenho prazer nisso, Versículo, mas precisa ser feito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>Pedras soltas se acotovelam no chão enquanto ele quase imperceptivelmente, impacientemente, bate um dedo do pé calçado. "Se todos vocês estão bem acabados, eu gostaria de continuar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>380</ID>
+      <DefaultText>Pedras soltas se acotovelam no chão enquanto ele quase imperceptivelmente, impacientemente, bate um dedo do pé calçado. "Se todos vocês estão bem acabados, eu gostaria de continuar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>381</ID>
+      <DefaultText>"Odeio ficar do lado de um gritador, mas tenho uma certa vontade de concordar. Arruinar a terra - mate os bastardos. Eu levarei a vitória certa, mas caramba se eu não perder também a beleza da batalha corpo a corpo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>382</ID>
+      <DefaultText>"Feliz em emprestar meu ferro à causa! O refrão os cães rastejarão aos nossos pés em pouco tempo!" Barik bate os punhos e grunhe em antecipação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>383</ID>
+      <DefaultText>[Dar de ombros]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>384</ID>
+      <DefaultText>Nó do banco 384</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>385</ID>
+      <DefaultText>"Claro que sua grande arma fálica é ela. Estou meio imaginando se ele usa isso como sua braguilha à noite, é como se estivéssemos pedindo para ele arrancar sua masculinidade em súplica." Eb sorri com um aceno longo e lento. "Estou tão excitado agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>386</ID>
+      <DefaultText>"Suponho que Caedis nunca mais verá aquela espada? Temos certos padrões sobre como os equipamentos [url=glossary:disfavored]Desfavorecido[/url] são transmitidos... mas não vou entregá-los a alguém fora da cadeia normal de comando. Você pode me agradecer mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>387</ID>
+      <DefaultText>"E ele não está nem um pouco cheio de si." Caedis ri, bem-humorado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>388</ID>
+      <DefaultText>Ela olha para Base com o canto do olho. "Você pode ser o ator Mestre desta guilda na ausência de [url=glossary:cairn]Cairn[/url], mas gostaria de lembrá-lo que o Mover of Mountains ainda não está morto. Você reivindicaria o título dele mesmo que ele ainda sofra e trabalhe para viver?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>389</ID>
+      <DefaultText>"Não seja tão rápido em seguir as pegadas de seu mestre. [url=glossary:cairn]Cairn[/url] era um traidor conhecido, e você faria melhor se distanciar de seu pobre exemplo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>390</ID>
+      <DefaultText>"Humanos têm dois olhos, sim? Mas sempre estão tendo problemas para olhar além do comprimento do próprio focinho."
+
+Ela grunhe, claramente zangada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>391</ID>
+      <DefaultText>"Você está errado. Você nunca o entendeu como eu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>392</ID>
+      <DefaultText>"Ser um [url=glossary:iron guard]Guarda de Ferro[/url] é ser reconhecido por Ashe pessoalmente. O Arconte da Guerra ama seus soldados a uma mulher, mas só concede seu favor a quem se distingue. Não há maior honra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>393</ID>
+      <DefaultText>Nó aleatório 393</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>394</ID>
+      <DefaultText>"Se esses dois ficarem mais sentimentais, vou juntar seus rostos o máximo que puder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>395</ID>
+      <DefaultText>"Tão humano diz, mas talvez Mortes-in-Shadow seja o próximo ataque." Ela sorri, as presas bem abertas. "Quer ver se Caçador de Sombras pode arrancar cabeças de ferro?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>396</ID>
+      <DefaultText>"Nós vamos, eu certamente me sentiria segura se esses dois estivessem no comando do meu bem-estar." Ela se afasta deles e revira os olhos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>397</ID>
+      <DefaultText>"Sério? Eles só compartilham uma mãe? Do jeito que eles andam, você pensaria que eles compartilham uma mãe-tia-irmã, um pai-tio-irmão ou algum tipo de pedigree recursivo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>399</ID>
+      <DefaultText>"Há uma honestidade sobre a guerra, uma pureza, e acho que você está perdendo isso. Enfrentando seu inimigo no campo de batalha, colocando sua força contra a deles..." Verse respira fundo. "Faça o que quiser, então."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>400</ID>
+      <DefaultText>"Não fale comigo sobre o que 'precisa' acontecer quando você é quem dita como esta guerra é travada. Pelo menos assuma alguma responsabilidade pelo que está fazendo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>401</ID>
+      <DefaultText>"Talvez fosse melhor se eu não falasse da próxima vez que duvidar de um curso de ação, já que você acha meu conselho tão miserável? Sentir livre para seguir o conselho de bajuladores e peões."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>402</ID>
+      <DefaultText>"Verdade. Não quero lançar dúvidas sobre a missão, mas que isso sirva como um lembrete de que o trabalho de aperfeiçoar nossos métodos nunca termina, mesmo em total obediência."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>403</ID>
+      <DefaultText>"Fatebinder!" Uma montanha de um homem vestido da cabeça aos pés com uma armadura de ferro escuro dá um passo pesado e retumbante à frente. "Como você ousa trazer seu caos e sujeira para o MEU forte e para o MEU Arconte! Não permitirei que você dê um passo sequer para perto de [url=glossary:cairn]Cairn[/url]!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>404</ID>
+      <DefaultText>oficial [url=glossary:disfavored]Desfavorecido[/url] ao seu lado, aquele que você conheceu em Boca Recortada, inclina a cabeça para você em reconhecimento. "Gostaria de poder dizer que foi bom vê-lo novamente. Disse ao meu irmão que você viria - é claro, eu esperava que você não conseguisse." Ele desembainha sua espada lentamente e com uma intenção silenciosa. "Então eu não teria que lutar com você agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>405</ID>
+      <DefaultText>Ele prepara seu cajado, ombros retos para o combate.
+
+"E você achou que a terra não me contaria como bebeu do sangue derramado do meu irmãozinho? Eu tenho um feitiço pessoal reservado para você - um que vai atormentá-lo por um tempo extremamente interminável."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>406</ID>
+      <DefaultText>"Em nome de [url=glossary:cairn]Cairn[/url], protegerei os restos de meu Arconte dos indignos - das cigarras que enxameiam e sujam esta terra. Em vez de, deixe a terra engolir o bando! Deixe a terra estremecer e tremer!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>407</ID>
+      <DefaultText>[Blefe] "Como, uh, como você sabe que fui eu quem o matou?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>408</ID>
+      <DefaultText>"Assim diz aquele cujas mãos estão atualmente manchadas com o sangue da minha guilda! Sim, tente sua evasão e engano! Chore suas falsidades enquanto eu faço a terra engolir você inteiro!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>409</ID>
+      <DefaultText>Nó do banco 409</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>410</ID>
+      <DefaultText>[Dar de ombros]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>411</ID>
+      <DefaultText>Ele corta o chão com um único golpe de seu cajado. Ele se aproxima, tremendo tão violentamente quanto a terra ao seu redor.
+
+"Vou destruí-lo pelo que você fez." Ele ferve. "Vou esmagá-lo em areia. Vou enterrá-lo no fundo da placa tectônica azure e apagar seu nome da história. Vinculador do Destino!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>412</ID>
+      <DefaultText>[Segure Caedis' cabeça decepada.] "Você quer dizer ele?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>413</ID>
+      <DefaultText>"Alfa deixa matar-in-Shadow rasgar a cabeça [url=glossary:disfavored]Desfavorecido[/url] cabeça dos ombros!" Ela ofega e ri, flexionando suas garras animadamente. "Presa chorou e engasgou com o próprio sangue da morte - sangue que ainda escorrega da mulher-fera patas!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>414</ID>
+      <DefaultText>Barik simplesmente cobre os olhos com a palma da mão e balança a cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>415</ID>
+      <DefaultText>Um grito gargarejado fica preso em sua garganta. Ele avança cambaleando, tinindo e uivando sua fúria, e a terra treme a cada passo.
+
+"Eu vou destruir você. Eu vou esmagá-lo em areia. Vou enterrá-lo no fundo da azure placa tectônica e apagar seu nome da história."
+
+O chão estremece e se divide, e ele se lança em sua direção.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>416</ID>
+      <DefaultText>"Já tive. Essa merda bem falada precisa morrer." Verse prepara sua arma.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>417</ID>
+      <DefaultText>"Não é de se admirar que você tenha despertado a ira deste. O [url=glossary:disfavored]Desfavorecido[/url] não aceita perdas de ânimo leve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>418</ID>
+      <DefaultText>"Alfa deixa matar-in-Shadow rasgar a cabeça [url=glossary:disfavored]Desfavorecido[/url] cabeça dos ombros!" Ela ofega e ri, flexionando suas garras animadamente. "Presa chorou e engasgou com o próprio sangue da morte - sangue que ainda escorrega da mulher-fera patas!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>419</ID>
+      <DefaultText>[Ataque] "Descanso com certeza, você logo se juntará a ele na morte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>420</ID>
+      <DefaultText>"Os [url=glossary:stonestalkers]Perseguidores de Pedras[/url] vieram para [url=glossary:cairn]Cairn[/url]. Você o entregará - junto com sua vida, se isso for necessário."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>421</ID>
+      <DefaultText>"O [url=glossary:stone sea]Mar de Pedra[/url] é nosso. Seu único lugar aqui é como alimento no solo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>422</ID>
+      <DefaultText>[Ataque sem aviso.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>423</ID>
+      <DefaultText>Ele corta o chão com um único golpe de seu cajado. Ele se aproxima, tremendo tão violentamente quanto a terra ao seu redor.
+
+"Vou destruir você." Ele ferve. "Vou esmagá-lo em areia. Vou enterrá-lo no fundo da placa tectônica azure e apagar seu nome da história." 
+
+Ele abre os braços, chamando você para o seu destino. "Ver - pois você está na presença de um [url=glossary:iron guard]Guarda de Ferro[/url] de Ashe!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>424</ID>
+      <DefaultText>"Você e seus selvagens - você presume que pode pegá-lo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>425</ID>
+      <DefaultText>Ele ergue a espada com um grunhido áspero. "Considerar este é o fim para nós, Vinculador do Destino. Ou pelo menos para você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>426</ID>
+      <DefaultText>Nó de script 426</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>427</ID>
+      <DefaultText>"Os terremotos param agora. Vou quebrar esse [url=glossary:edict]Edital[/url] e matar seu Arconte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>429</ID>
+      <DefaultText>"Pode chegar um dia em que seremos forçados a enfrentá-los no campo de batalha. Peço apenas que você seja misericordioso com eles nesse momento." 
+
+Ele se despede com um aceno duro. "Preciso cuidar dos preparativos para nossa próxima marcha em [url=glossary:ascension hall]Salão da Ascensão[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>430</ID>
+      <DefaultText>"Agradeço também, Vinculador do Destino."
+
+Com um pequeno sorriso, Isadora se despede.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>431</ID>
+      <DefaultText>[Branding sua arma ameaçadoramente.] "Eu me pergunto qual de vocês vai gritar mais tempo antes de morrer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>432</ID>
+      <DefaultText>"Em nome de [url=glossary:cairn]Cairn[/url], protegerei os restos de meu Arconte dos indignos - das cigarras que enxameiam e sujam esta terra. Em vez de, deixe a terra engolir o bando! Deixe a terra estremecer e tremer!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>433</ID>
+      <DefaultText>O [url=glossary:disfavored]Desfavorecido[/url] oficial ao seu lado desembainha uma enorme espada com entusiasmo. Ele tiniu pesadamente enquanto pisava em uma posição de prontidão. "Eu te protejo, Comandante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>434</ID>
+      <DefaultText>[Ataque] "Suficiente disso - sua vida está perdida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>435</ID>
+      <DefaultText>"Fatebinder! Apresse-se - termine o ritual!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>436</ID>
+      <DefaultText>"Em nome de [url=glossary:cairn]Cairn[/url], protegerei os restos de meu Arconte dos indignos - das cigarras que enxameiam e sujam esta terra. Em vez de, deixe a terra engolir o bando! Deixe a terra estremecer e tremer!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>437</ID>
+      <DefaultText>"Escudos! Não deixe um único Gritador alcançar o Arconte!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>439</ID>
+      <DefaultText>O [url=glossary:disfavored]Desfavorecido[/url] oficial ao seu lado desembainha uma enorme espada com entusiasmo. Ele tiniu pesadamente enquanto pisava em uma posição de prontidão. "Eu te protejo, Comandante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>440</ID>
+      <DefaultText>[Não diga nada.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>441</ID>
+      <DefaultText>"Então deve agradar você saber que eu exterminei aqueles que estavam escondidos em [Plainsgate]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>442</ID>
+      <DefaultText>"Você se levantou e massacrou todo o maldito assassino?" O tenente esfrega a borda de sua placa frontal, cabeça inclinada com admiração. "Droga. Acho que você acabou de roubar meu coração, senhor."</DefaultText>
+      <FemaleText>"Você se levantou e massacrou todo o maldito assassino?" O tenente esfrega a borda de sua placa frontal, cabeça inclinada com admiração. "Droga. Acho que você acabou de roubar meu coração, senhora."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>443</ID>
+      <DefaultText>O homem montanhoso inclina a cabeça para você no menor gesto de aprovação. 
+
+"Impressionante, de fato. Suponho que você também despertou meu interesse em suas capacidades."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>444</ID>
+      <DefaultText>"Este ritual termina agora. Qualquer ato sujo que você planejou não vai acontecer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>445</ID>
+      <DefaultText>"Você e seus selvagens - você presume que pode me impedir? O [url=lore:Ritual_of_Fallowing]fallowing[/url] está quase completo agora. Então veja, você não terá meus Arconte, Vinculador do Destino. E esta terra vai desmoronar!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>446</ID>
+      <DefaultText>"Você presume que pode me impedir? O [url=lore:Ritual_of_Fallowing]fallowing[/url] está quase completo agora. Então veja, você não terá meus Arconte, Vinculador do Destino. E esta terra vai morrer!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>447</ID>
+      <DefaultText>"Ritual acabou. Qualquer ato sujo que você planejou não vai acontecer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>448</ID>
+      <DefaultText>Seu tom é astuto e avaliativo quando ele fala em seguida. "E parece que você pessoalmente se beneficiou de quebrar o [url=glossary:edict]Edital[/url] de Pedra, embora para que fim nem eu possa imaginar. Atrevo-me a dizer que nosso tempo juntos provou ser um tanto simbiótico, se não totalmente benéfico para você, Vinculador do Destino." 
+
+Ele bate o calcanhar contra uma rocha em ruínas em pensamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>449</ID>
+      <DefaultText>Seu tom é astuto e avaliativo quando ele fala em seguida. "E parece que você pessoalmente se beneficiou de quebrar o [url=glossary:edict]Edital[/url] de Pedra, embora para que fim nem eu possa imaginar. Atrevo-me a dizer que nosso tempo juntos provou ser um tanto simbiótico, se não totalmente benéfico para você, Vinculador do Destino." 
+
+Ele bate o calcanhar contra uma rocha em ruínas em pensamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>450</ID>
+      <DefaultText>[Não diga nada.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>451</ID>
+      <DefaultText>"Tem certeza que podemos confiar nele, Radix? Se o soltarmos, ele poderá nos informar para Ashe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>452</ID>
+      <DefaultText>"Deixe-me?!" O [url=glossary:disfavored]Desfavorecido[/url] se irrita com sua ameaça. Ele agarra o punho de sua espada, pronto para brandi-la em uma defesa sangrenta. "Quem vai parar eu e meus escudos?! E você, irmão?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>453</ID>
+      <DefaultText>"Caedis, espere." Radix levanta a mão para deter seu irmão. O [url=glossary:disfavored]Desfavorecido[/url] se acalma, e o Mestre do Tremedores de terra leva um momento para se recompor.
+
+"Eu juro a você, nem o Fatebinder nem minha guilda pretendem lhe fazer mal. " 
+
+Ele inclina o rosto para incisivamente, e você tem a sensação de que ele está olhando por trás de sua máscara.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>454</ID>
+      <DefaultText>Caedis novamente balança a cabeça antes desta vez inclinar o rosto mascarado para o céu, quase fora de si. "Você exige demais de mim, Base. Mas você sabe que não posso negar." Um som exasperado escapa do fundo de sua garganta. "l só pode ficar através do ritual. Eu vou te ajudar mesmo - mas eu juro por [url=glossary:kyros]Kyros[/url], se uma palavra disso chegar ao Em geral, eu serei despojado de minha patente, minha armadura e provavelmente esfolado vivo. Então você pode ver a mãe chorar." Ele inclina a cabeça em um olhar de soslaio para o resto do acampamento, claramente planejando. "Meus escudos não pode saber o que estamos fazendo, entendeu? Vou descobrir como lidar com eles... mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>455</ID>
+      <DefaultText>"Caedis, espere." Radix levanta a mão para deter seu irmão. O tenente [url=glossary:disfavored]Desfavorecido[/url] fica quieto, e o Mestre do Tremedores de terra leva um momento para se recompor. Ele parece estar lutando com uma onda de emoção desconhecida e talvez surpreendente. "Se este for o fim para nós, irmãozinho, então me perdoe, mas devo pedir-lhe para ficar. Mesmo se você puder poupar mais algumas noites, por favor... adie sua partida. Há muito que eu gostaria de dizer a você primeiro, e embora eu deteste admitir isso, minha guilda poderia usar sua ajuda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>456</ID>
+      <DefaultText>Visivelmente aliviado, o Mestre Earthshaker dá um tapinha nas costas do irmão. Ele acena com a cabeça em gratidão e concordância antes de voltar sua atenção para você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>457</ID>
+      <DefaultText>Isadora também lhe lança um olhar, sobrancelhas levantadas o suficiente para desaparecer em seu capuz, mas sabiamente ela mantém a paz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>458</ID>
+      <DefaultText>"Eu estava apenas perguntando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>459</ID>
+      <DefaultText>[Dar de ombros]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>460</ID>
+      <DefaultText>"Não estou sugerindo que matemos seu irmão. Já ajudei Caedis uma vez, não ajudei?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>461</ID>
+      <DefaultText>"Claro que podemos confiar nele." Com um aceno de cabeça furioso, Radix volta sua atenção para o soldado guardado.
+
+"Não vá ainda. Mesmo que você possa poupar algumas noites a mais, você deve adiar sua partida." Ele faz uma pausa, aparentemente lutando com uma onda de emoção desconhecida e espontânea. "Se este for o fim para nós, irmãozinho, há muito que eu diria a você na despedida. E também, eu preciso de você. Minha guilda precisa de você. Por favor, ajude-me uma última vez. Empresta-me os teus braços, só até depois do ritual."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>462</ID>
+      <DefaultText>Caedis novamente balança a cabeça antes desta vez inclinar o rosto mascarado para o céu, quase fora de si. "Você exige demais de mim, Base. Mas você sabe que não posso negar." Um som exasperado escapa do fundo de sua garganta. "l só pode ficar através do ritual. Eu vou te ajudar mesmo - mas eu juro por [url=glossary:kyros]Kyros[/url], se uma palavra disso chegar ao Em geral, eu serei despojado de minha patente, minha armadura e provavelmente esfolado vivo. Então você pode ver a mãe chorar." Ele inclina a cabeça em um olhar de soslaio para o resto do acampamento, claramente planejando. "Meus escudos não pode saber o que estamos fazendo, entendeu? Vou descobrir como lidar com eles... mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>463</ID>
+      <DefaultText>Com um aceno enfurecido de sua cabeça, Radix volta sua atenção para o soldado guardado.
+
+"Não vá ainda. Mesmo que você possa poupar algumas noites a mais, você deve adiar sua partida." Ele faz uma pausa, aparentemente lutando com uma onda de emoção desconhecida e espontânea. "Se este for o fim para nós, irmãozinho, há muito que eu diria a você na despedida. E também, eu preciso de você. Minha guilda precisa de você. Por favor, ajude-me uma última vez. Empresta-me os teus braços, só até depois do ritual."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>464</ID>
+      <DefaultText>O soldado relaxa um pouco sua postura, atemorizado por suas palavras. Devagar, sua mão se solta da arma.
+
+"Isso é verdade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>465</ID>
+      <DefaultText>Com a situação difundida, Radix volta sua atenção mais uma vez para seu irmão.
+
+"Não vá ainda. Mesmo que você possa poupar mais algumas noites, você deve adiar sua partida." Ele faz uma pausa, aparentemente lutando com uma onda de emoção desconhecida e espontânea. "Se este for o fim para nós, irmãozinho, há muito que eu diria a você na despedida. E também, eu preciso de você. Minha guilda precisa de você. Por favor, ajude-me uma última vez. Empresta-me os teus braços, só até depois do ritual."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>466</ID>
+      <DefaultText>"Não podemos simplesmente deixar [url=glossary:cairn]Cairn[/url] vivo? Deixe o [url=glossary:edict]Edital[/url] devastar a terra e machucar o Refrão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>467</ID>
+      <DefaultText>tenente olha para o Arconte montanhoso como se estivesse em contemplação. "Certo, poderíamos deixá-lo sofrer pelos próximos cem anos, mas guardar [url=glossary:cairn]Cairn[/url] para manter o [url=glossary:edict]Edital[/url] vivo não será tão fácil. Serão necessários recursos e mão de obra para montar uma defesa adequada. E se não conseguirmos parar um ataque, corremos o risco de perder não apenas este post, mas todo o reino para os gritadores - para sempre." Ele se volta para Base. "Não é um risco que eu gostaria de correr. Você faria?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>468</ID>
+      <DefaultText>"Eu não gostaria de ver meu Mestre morrer em vão, não."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>469</ID>
+      <DefaultText>"Multar, mas no minuto em que as coisas derem errado, eu assumo o comando. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>470</ID>
+      <DefaultText>"Esta operação não tem consequências pequenas. Antes de agirmos, pretendo discutir matar [url=glossary:cairn]Cairn[/url] com Ashe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>471</ID>
+      <DefaultText>[Conquista] "Considerando que sou eu quem lançou o [url=glossary:edict]Edital[/url] de Pedra, é justo que eu seja o único a quebrá-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>472</ID>
+      <DefaultText>"As circunstâncias são realmente adequadas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>473</ID>
+      <DefaultText>O silêncio se estende por um momento breve, mas desconfortável, muito longo antes de Base virar mais uma vez para se dirigir a você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>474</ID>
+      <DefaultText>Os irmãos olham um para o outro, compartilhando uma troca sem palavras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>475</ID>
+      <DefaultText>"Faça o que você deve - discuta nosso plano para destruir a terra e derrotar [url=glossary:the voices of nerat]o Vozes de Nerat[/url] - mas seja rápido." O comandante acena para você em demissão. "Aguardaremos seu relatório de Lareira de Ferro. Enquanto isso, no entanto, prestarei contas da aprovação Ashe e providenciarei as provisões necessárias para o ritual."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>476</ID>
+      <DefaultText>"Tem certeza de que não podemos poupar [url=glossary:cairn]Cairn[/url]? Se o deixarmos em paz, o [url=glossary:edict]Edital[/url] continuará a devastar a terra e ferir o Refrão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>477</ID>
+      <DefaultText>tenente olha para o Arconte montanhoso como se estivesse em contemplação. "Certo, poderíamos deixá-lo sofrer pelos próximos cem anos, mas como eu disse, guardar [url=glossary:cairn]Cairn[/url] para manter o [url=glossary:edict]Edital[/url] vivo não seja tão fácil. Serão necessários recursos e mão de obra para montar uma defesa adequada. E se não conseguirmos parar um ataque, corremos o risco de perder não apenas este post, mas todo o reino para os gritadores - para sempre." Ele se volta para Base. "Não é um risco que eu gostaria de correr. Você faria?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>478</ID>
+      <DefaultText>"Para ser honesto, eu mesmo tenho algumas reservas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>479</ID>
+      <DefaultText>Ele balança a cabeça e bate um punho carnudo contra seu peito bronzeado.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

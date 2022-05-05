@@ -1,0 +1,203 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\vx1\vx1_qst_bonesofthebeast</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>39</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Ossos do Fera</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Recupere a Pedra Angular de Apelido Insípido</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Use o teletransportador oriental</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Procure o Recife em Oldwalls-Talon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Mate o Wagstaff mercenários</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Continuar procurando por Recife-Talon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Abra o caminho para Recife-Talon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Encontrar Recife-Talon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Perseguir Lexeme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Derrote a canção de ninar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Confrontar Lexeme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Fale com a Recife-Talon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Voltar para Jaspos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Siga Lexeme</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Regresso ao Abismo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Encontre a Pedra Angular em Insipid Moniker'scadáver</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Jaspos precisa dos ossos de Recife-Talon para fornecer água de forma sustentável para o Ferimento. Ele acredita que, devido às habilidades mágicas dela, seus ossos permitiriam que ele filtrasse a água por anos em vez de meras semanas. Ele pediu para você localizar o retiro dela nas profundezas do Oldwalls e retornar com seus ossos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Apelido Insípido atualmente possui o Pedra angular que permitirá que você se aprofunde no Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Use o teletransportador localizado no lado leste de Ferida do Bastardo para entrar no Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Reef-Talon desapareceu nas profundezas do Oldwalls. Vasculhe os corredores antigos para descobrir que ela está escondida.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Wagstaff enviou seus leais mercenários atrás de você para evitar que você ajudasse Jaspos. Mate todos eles para continuar a busca por Recife-Talon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Você removeu a ameaça de Wagstaff's mercenários. Continue a busca por Recife-Talon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Você encontrou Recife-Talon, mas atualmente não tem como alcançá-la. Encontre as tochas perdidas para chegar à localização de Recife-Talon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Você acessou o local onde viu pela última vez Recife-Talon. Descubra onde ela foi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Lexeme fugiu antes que você pudesse lidar com ela. Dê perseguição.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>A Lexeme lançou um Devastação que os insones chamaram de Canção de ninar. Destrua-o.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Supondo que Canção de ninar tenha matado você, Lexeme retornou. Confrontá-la sobre suas ações.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Use a tocha de Lexeme para abrir o caminho para Recife-Talon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>O destino de Reef-Talon foi decidido. Voltar para Jaspos com a palavra do que aconteceu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Lexeme afirma que ela o levará para Recife-Talon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Regresso ao Abismo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10020</ID>
+      <DefaultText>Você matou Apelido Insípido por cultivar Woundkin sangue. A pedra angular provavelmente ainda está em seu cadáver.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Lexeme tem a chave de onde o Recife-Talon está escondido. Procure seu cadáver.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Você matou Apelido Insípido por cultivar Woundkin sangue. A pedra angular provavelmente ainda está em seu cadáver.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Reúna o insone juntos e matá-los para aliviar Reef-Talon de sua culpa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você matou Recife-Talon e trouxe de volta o corpo dela, conforme solicitado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você convenceu Recife-Talon a viajar mais fundo no Oldwalls para aprender mais sobre si mesma. Jaspos ficou muito insatisfeito com sua decisão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Você convenceu Recife-Talon a retornar a Ferida do Bastardo, para grande desgosto de Wagstaff e Jaspos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Você derrotou Recife-Talon em combate e a algemou por Jaspos para que ele possa continuar usando seus ossos.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

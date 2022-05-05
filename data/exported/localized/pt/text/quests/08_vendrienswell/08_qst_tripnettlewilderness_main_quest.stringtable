@@ -1,0 +1,203 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\08_vendrienswell\08_qst_tripnettlewilderness_main_quest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>39</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Tomando o Vale Exterior</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Viajar para a região selvagem de Tripnettle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Localize o capitão rebelde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Enfrente o encurralado [url=glossary:vendrien guard]Guarda Vendrien[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Voltar para Ashe barraca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Interrogar Variah.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Fale com o Quinto Olho no acampamento [url=glossary:scarlet chorus]Coro Escarlate[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Ganhe Lantry's liberdade do [url=glossary:scarlet chorus]Coro Escarlate[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Informe para Falso mancar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Derrote Pelox Florian.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Deixe a região selvagem de Tripnettle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Participe da reunião de Arcontes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Participe da reunião de Arcontes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Elimine os reforços [url=glossary:vendrien guard]Guarda Vendrien[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Retornar ao Falso Limp.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Elimine os reforços [url=glossary:vendrien guard]Guarda Vendrien[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Os [url=glossary:scarlet chorus]Coro Escarlate[/url] estão atualmente tentando proteger o anel externo do Vendrien's Well. Você precisará ajudá-los a lidar com as forças rebeldes na área antes que [url=glossary:kyros]Kyros[/url]' exércitos possam marchar com segurança sobre o Cidadela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Vá para o Deserto de Tripnettle e avalie a situação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Falso mancar lhe disse que Nerat quer que o capitão dos [url=glossary:vendrien guard]Guarda Vendrien[/url] Deserto de Tripnettle seja capturado vivo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Suas forças prevaleceram em Echocall Crossing e Tripnettle Wilderness. Voltar para Ashe tenda e informe o Arcontes do seu sucesso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>O Quinto Olho acredita que a cativa rebelde Variah no campo [url=glossary:scarlet chorus]Coro Escarlate[/url] pode ter informações cruciais sobre movimentos rebeldes em Tripnettle. Ele gostaria que você a interrogasse enquanto ele observa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Quando você se encontrou com o Arcontes, você aprendeu que o [url=glossary:scarlet chorus]Coro Escarlate[/url] tem uma operação em andamento em Tripnettle que não foi bem sucedida. Fale com o Quinto Olho no acampamento [url=glossary:scarlet chorus]Coro Escarlate[/url] e veja o que você pode fazer para ajudar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Um [url=glossary:sage]Sábio[/url] com o nome de Lantry afirma que ele sabe como decifrar a mensagem [url=glossary:vendrien guard]Guarda Vendrien[/url] que você adquiriu do prisioneiro morto. Convença o [url=glossary:scarlet chorus]Coro Escarlate[/url] a liberá-lo para obter sua assistência.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>Você convenceu Capitão Florian a se render. Falso mancar está aguardando seu retorno no Deserto de Tripnettle e ficará feliz em saber do seu sucesso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10021</ID>
+      <DefaultText>Você não conseguiu negociar um resultado pacífico com o [url=glossary:vendrien guard]Guarda Vendrien[/url] no Deserto de Tripnettle. Mate todos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10022</ID>
+      <DefaultText>Você foi contra suas ordens e permitiu que o [url=glossary:vendrien guard]Guarda Vendrien[/url] fugisse. Seria melhor deixar Tripnettle antes do [url=glossary:scarlet chorus]Coro Escarlate[/url] saber disso, ou você terá que silenciá-los.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10026</ID>
+      <DefaultText>Você recebeu a notícia de que [url=glossary:graven ashe]Cinza esculpida[/url] e [url=glossary:the voices of nerat]the Vozes de Nerat[/url] estão se reunindo no acampamento [url=glossary:disfavored]Desfavorecido[/url] na tenda Ashe. Você deve estar presente nesta reunião.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10027</ID>
+      <DefaultText>Você recebeu a notícia de que [url=glossary:graven ashe]Cinza esculpida[/url] e [url=glossary:the voices of nerat]the Vozes de Nerat[/url] estão se reunindo no acampamento [url=glossary:disfavored]Desfavorecido[/url] na tenda Ashe. Você deve estar presente nesta reunião.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10032</ID>
+      <DefaultText>Pelox Florian reforços chegaram em Deserto de Tripnettle. Você precisa matá-los todos para limpar a área de toda a resistência rebelde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10033</ID>
+      <DefaultText>Você cuidou de [url=glossary:vendrien guard]Guarda Vendrien[/url] em torno de Tripnettle, embora um pouco mais violentamente do que lhe foi dito. Hora de reportar para Falso mancar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10034</ID>
+      <DefaultText>Pelox Florian reforços chegaram em Deserto de Tripnettle. Você precisa matá-los todos para limpar a área de toda a resistência rebelde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você matou todos os [url=glossary:vendrien guard]Guarda Vendrien[/url] e Comerciante escondidos em Tripnettle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você matou todos os soldados rebeldes que encontrou, mas deu Silver Argot para o [url=glossary:disfavored]Desfavorecido[/url] para interrogatório.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Você matou todos os soldados rebeldes que encontrou, mas deixou Argota de Prata livre em troca de informações.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Você matou Euclin, o [url=glossary:vendrien guard]Guarda Vendrien[/url] Campeão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Você conseguiu recrutar Florian para as fileiras [url=glossary:scarlet chorus]Coro Escarlate[/url]'.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Você matou todos os rebeldes escondidos em Deserto de Tripnettle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>Você permitiu que Florian e os outros [url=glossary:vendrien guard]Guarda Vendrien[/url] escapassem, ajudando os rebeldes no processo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Trabalhe com o Refrão para subjugar as forças rebeldes secundárias que operam a partir do Deserto de Tripnettle. Derrotar esses rebeldes garantirá que as forças [url=glossary:kyros]Kyros[/url]' evitem um ataque pela retaguarda ao avançar sobre o Cidadela.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

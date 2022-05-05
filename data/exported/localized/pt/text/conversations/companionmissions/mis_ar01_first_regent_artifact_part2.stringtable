@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\companionmissions\mis_ar01_first_regent_artifact_part2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"O nariz é bom, mas não pode rastrear um rastro de sangue de outro no lugar de muito sangue e morte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Não-não. O que Mulher-Besta farejaria em cova humana senão urina-suor-morte e podridão?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Não gosto de filhotes miados do pacote Refrão. Só vai latir e lamentar sem responder o que Mulher-Besta já perguntou."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

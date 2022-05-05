@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\02_lethianscrossing\fq_rb_qst_tr_oldwalls</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Atravessando as Velhas Muralhas</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Use a tocha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Explore as Velhas Muralhas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Lute com Raetommon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Acenda os quatro faróis para estender a ponte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Mate o estrago.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Mestre da Forja Grátis Zdenya.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Voltar para Eldian.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Voltar para Arri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Voltar para Arri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Raetommon foi fundo no Oldwalls com [url=glossary:forge-bound]Forge-Bound[/url] Mestre Zdenya. Welby indicou que tirá-lo será benéfico para todos os envolvidos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Você obteve uma tocha de Ferris Pé chato. Use-o para avançar para o Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Raetommon está no Oldwalls em algum lugar com [url=glossary:forge-bound]Forge-Bound[/url] Mestre Zdenya e o Elmo Magebane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Raetommon não vai deixar você sair sem lutar, dê uma a ele.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Use a tocha correta em cada um dos sinalizadores para estender a ponte e escapar do Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>A devastação escapou de sua prisão, mate-o antes que ele possa liberar o Maldito em [url=glossary:lethian's crossing]A travessia de Lethian[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Com Raetommon cuidado e o Devastação lançamento morto Mestre da Forja Zdenya.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Volte para [url=glossary:lethian's crossing]A travessia de Lethian[/url] e dê Eldian, o Elmo do Magebane ou reivindique-o para si.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Retorne para Arri e deixe-a saber que você recrutou com sucesso o [url=glossary:forge-bound]Forge-Bound[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Volte para Arri e diga a ela que você decidiu recrutar o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Depois de derrotar o líder louco do Capuz Irmão de Bronze, Raetommon, você decidiu que seria melhor recrutar o [url=glossary:forge-bound]Forge-Bound[/url] para sua aliança em vez do [url=glossary:bronze brotherhood]Irmandade de Bronze[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Depois de derrotar o líder louco dos [url=glossary:bronze brotherhood]Irmandade de Bronze[/url], Raetommon, você decidiu que lhes daria uma segunda chance e decidiu recrutar os [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] para sua aliança.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Você foi contra a vontade de Aresta e matou os líderes do [url=glossary:forge-bound]Forge-Bound[/url] e do [url=glossary:bronze brotherhood]Irmandade de Bronze[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

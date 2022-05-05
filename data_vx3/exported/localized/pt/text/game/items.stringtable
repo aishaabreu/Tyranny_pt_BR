@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>game\items</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1866</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1867</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1873</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1874</ID>
+      <DefaultText>Sussurros de Choro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1875</ID>
+      <DefaultText>[url=glossary:chrysalis]Crisálida[/url] Broche Âmbar</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1882</ID>
+      <DefaultText>O esmalte preto que reveste este elmo lascou em vários pontos, expondo o ferro embaixo. Os padrões resultantes têm uma semelhança passageira com constelações contra a escuridão do céu noturno.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1883</ID>
+      <DefaultText>Recolhida dos restos dispersos de um Devastação, esta essência Maldito cintila com uma luz pálida. Embora a garrafa que a contém tenha sido fechada com rolha, ela se enrola e se contorce dentro da garrafa como se agitada por um vento leve.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1884</ID>
+      <DefaultText>Este grande broche apresenta proeminentemente um pedaço de âmbar notavelmente claro contendo um [url=glossary:chrysalis]Crisálida[/url] de asas brilhantes, um inseto comum ao Camadas. Uma inspeção cuidadosa revela sigilos de cura gravados levemente na resina solidificada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1885</ID>
+      <DefaultText>Shako do Perseguidor</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

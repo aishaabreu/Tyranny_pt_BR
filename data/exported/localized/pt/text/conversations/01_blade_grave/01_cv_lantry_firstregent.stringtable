@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\01_cv_lantry_firstregent</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Lantry gesticula para o corpo na plataforma no meio do poço. "Veja a armadura naquele cadáver - deve ser o Primeiro Regente."
+
+Pausando, ele dá uma segunda olhada nos restos. "Ela certamente escolheu um lugar inconveniente para morrer - precisaremos elevar essa plataforma se quisermos vasculhar suas armadilhas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Ele aponta para uma forma amassada perto da borda. "E essa é... irmã Javala."
+
+Lantry brande sua pena com um suspiro baixinho, batendo-a contra sua superfície de escrita enquanto pondera as primeiras palavras a escrever. "Um momento, por favor, ela morreu jovem tentando provar seu valor para o Sábios - isso deve ser observado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"O que é isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"É uma barreira misteriosa, mas o que ela proíbe e por que não está claro. A princípio pensei que fosse a casa ou ninho daquela criatura... amorfa dentro. Mas se isso fosse um santuário, por que o horror não saiu e disse olá?" Lantry's rosto se transforma em perplexidade. "Pode estar apenas esperando a gente virar as costas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Ele dá de ombros. "Conhecendo nossa sorte, esta é uma prisão para nos manter a salvo dela. Mas se quisermos pegar essa relíquia, teremos que chegar perto dela e descobrir por nós mesmos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Tem certeza de que é o [url=glossary:unbroken]ininterrupto[/url] líder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Até que tenhamos refutado a noção de miragem elaborada, não posso dizer que tenho certeza... mas aquele cadáver está usando a Primeiro Regente panóplia personalizada - então é o Primeiro Regente ou o ladrão que a roubou corpo. Para nossos propósitos, a diferença é irrelevante - a relíquia que procuramos provavelmente está entre aquela pilha de bronze."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Vamos encontrar uma maneira de atravessar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Muito bem - devemos examinar tudo aqui e ver se podemos decifrar como a plataforma funciona - especificamente, como levantá-la."
+
+Ele aponta para o corpo de Javala novamente. "Talvez devemos começar por aí. Afinal, ela chegou até aqui..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>A julgar pela armadura, o cadáver parece ser um dos Regentes de Stalwart caídos. Seu local de descanso final não convencional é uma plataforma cercada por uma barreira arcana. Não está claro se esse arranjo foi intencional ou não.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Nó de script 15</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

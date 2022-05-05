@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\00_recruits\00_cv_traininggrounds_skilltrainer_sagelumosa</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Olá, Vinculador do Destino. Um bom dia para alguns experimentos, você não acha?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Ela se vira para lhe dar toda a atenção, seu sorriso largo e enérgico. “Fatebinder! Posso estar aqui para oferecer meu conhecimento, mas serei eternamente um estudante. Resultados infelizes, mas verdadeiramente fascinantes, você não concorda? Espero que você não se importe com os experimentos ocasionais. Claro, estou aqui para lhe fornecer qualquer conhecimento arcano que você procura.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Gostaria de treinar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Deixar.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Ela se vira para lhe dar toda a atenção, em tom de desculpas. “Perdoe-me, Fatebinder! Eu não quero fazer uma bagunça deste lugar. Admito que minha curiosidade às vezes é um pouco difícil de controlar, mas prometo não desperdiçar seu tempo ou fazer muita bagunça aqui. Eu sei que você não tem muito amor pelo meu companheiro Sábios, mas vou tentar o meu melhor para mudar isso. Seja qual for o conhecimento arcano que você procura, eu fornecerei.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>A eletricidade dança nas pontas dos dedos do [url=glossary:sage]Sábio[/url]. Ela parece hipnotizada por seu movimento, mas rapidamente o extingue quando você se aproxima. “Sim, Fatebinder? O que posso fazer para você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>A sábia diante de você está distraída, meio murmurando para si mesma enquanto segura os restos meio queimados de um pergaminho. Suas mãos estão em movimento, traçando as curvas de alguma runa desconhecida. De repente, você ouve o grito agudo de um corvo transportador quando ele cai no chão, suas penas completamente queimadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Ela ergue os olhos do barulho e percebe você. "Nós vamos, não era bem isso que eu esperava. Mas acho que esse é o risco com um pedaço do texto original." Ela abre um frasco e joga seu conteúdo no pássaro, que permanece completamente imóvel no chão. "Hmm, suponho que teria que estar vivo para funcionar. Outra lição aprendida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>“Em que tipos de experimentos você está interessado?”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>“Devo me restringir? Acho sobre quanta magia não seria descoberta se tivéssemos que nos limitar. Mas devo confessar uma certa afinidade pela eletricidade aplicada a uma grande variedade de objetos. Mesmo que os resultados não surpreendam, eles sempre satisfazem.”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"O que posso fazer por você, Fatebinder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>“O que você acha desse Pináculo?”</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>“Mais impressionante do que eu imaginava, tantas vezes antes, do chão. É um pouco arejado, no entanto. Isso é uma dor quando sua profissão exige a coleta obsessiva de pergaminhos que estão muito felizes em se espalhar ao vento.”</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

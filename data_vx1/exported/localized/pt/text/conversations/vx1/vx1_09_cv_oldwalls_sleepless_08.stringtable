@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\vx1\vx1_09_cv_oldwalls_sleepless_08</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Uma mulher esquelética e de aparência perplexa está de pé precariamente contra a borda da plataforma rachada. Ela esfrega os olhos turvos com impaciência e olha em várias direções com uma expressão confusa. "Onde eu estava deveria ir?"
+
+Ela se vira rapidamente em sua direção. "Olá? Você conhece o caminho por aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Cuidadoso, essa é uma queda longa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Você está perdido?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Sim, sim, claro que é. Eu não sou uma criança, prestes a cair com a brisa." Ela se mexe um pouco enquanto fala, roçando pedras soltas no abismo abaixo. "Eu só preciso encontrar o caminho, obviamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Claramente... eu acho. Cheguei de um teletransportador próximo, mas não consigo me lembrar do caminho a seguir." Ela aponta para o abismo a seus pés. "Sinto que preciso descer. De alguma forma parece certo. Eu só..." Seus olhos se fecham com força enquanto ela é engolida por um enorme bocejo. "…preciso encontrar meu caminho para baixo, e então tenho certeza que poderei descansar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Empurre a mulher pela borda.] "Deixe-me mostrar um atalho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Não é preciso muita força para enviá-la ao limite. Ela mergulha no abismo em um silêncio assustador e logo é engolida por sua extensão escura.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Deixar] "Tenho que ir."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

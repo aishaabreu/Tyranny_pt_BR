@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\01_bladegrave\01_qst_oldwall_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Uma brecha entre mundos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Fale com Hieronymus.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Localize o artefato [url=glossary:unbroken]ininterrupto[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Eleve a plataforma central.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Encontre o Pedras angulares que está faltando.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Desative a armadilha de espírito.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Viaje para o Violação de Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Coloque todos os Pedras angulares ao redor da plataforma.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Colete o artefato [url=glossary:unbroken]ininterrupto[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Recupere a chave da tocha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Deixe a brecha de Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Fale com [url=glossary:graven ashe]Cinza esculpida[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Fale com [url=glossary:the voices of nerat]o Vozes de Nerat[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Fale com Mattias.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Você aprendeu que os rebeldes estão procurando nos [url=glossary:blade grave]Sepultura de Lâminas[/url] Oldwalls os restos de um [url=glossary:unbroken]ininterrupto[/url] Regente, que acredita-se ter o Insígnia Firme. Diz-se que este artefato tem o poder de resistir aos ventos ferozes de [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] de Tempestades, e pode ser o seu caminho para Guarda Sentinela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Para entrar no Oldwalls, você precisará de um item mantido por Hieronymus. Pegue isso dele.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Encontre um caminho para a câmara principal de Oldwalls e tente localizar o artefato.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>O Primeiro Regente, e o artefato que ele carrega, não podem ser alcançados a menos que a plataforma ao seu redor seja levantada. Examine o ambiente e encontre uma maneira de operar o dispositivo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Parece que Pedras angulares, como o Javala encontrado, são necessários para operar a plataforma. Encontre os três restantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Embora todas as quatro pedras angulares tenham sido colocadas, a armadilha do espírito desestabilizado ainda bloqueia seu caminho para o artefato [url=glossary:unbroken]ininterrupto[/url]. Ative o painel do piso final para desfazer a armadilha de espírito para sempre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Viaje para a brecha ao longo dos [url=glossary:blade grave]Sepultura de Lâminas[/url] Oldwalls para localizar os [url=glossary:unbroken]ininterrupto[/url] soldados caçando o Insígnia Firme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Agora que você localizou todos os Pedras angulares, coloque-os nos slots ao redor do poço central para elevar a plataforma.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Com o estrago se foi, tudo o que resta a fazer é coletar o artefato dos restos do [url=glossary:unbroken]ininterrupto[/url] Primeiro Regente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Hieronymus disse que o item que você precisa para entrar em Oldwalls está no corpo de um [url=glossary:unbroken]ininterrupto[/url] soldado que caiu em batalha, a sudeste do Violação. Encontre o corpo dele e pegue a tocha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Com o artefato [url=glossary:unbroken]ininterrupto[/url] agora em sua posse, é hora de deixar o Violação de Oldwalls e retornar ao Guarda Sentinela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>Ashe vai querer ver o artefato por si mesma. Retorno à Lareira de Ferro e fale com o Arconte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Nerat sem dúvida ficará curioso sobre o Insígnia Firme. Retorno à Cacofonia e atualize-o sobre eventos recentes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>Retornar ao Crepúsculo e fale com Mattias sobre seus próximos passos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Você encontrou o Pedra Angular Fria.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Você encontrou o Pedra Angular Pesada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Você encontrou o Pedra Angular Brilhante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você derrotou o Devastação que estava preso no Oldwalls e recuperou o artefato [url=glossary:unbroken]ininterrupto[/url] do corpo do Primeiro Regente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>[url=glossary:graven ashe]Cinza esculpida[/url] viu o Steadfast Insignia e está pronto para levar a batalha para Guarda Sentinela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Você obteve o Steadfast Insignia e está pronto para levar a batalha para Guarda Sentinela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Mattias ficou exultante com seu sucesso e enviou seus homens para levar Guarda Sentinela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>A oportunidade de resolver esta tarefa passou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Mattias pediu a você para ajudar seus homens a procurar o Steadfast Insignia no [url=glossary:blade grave]Sepultura de Lâminas[/url] Oldwalls. O último Regente a empunhá-lo morreu na guerra, e acredita-se que tenha perecido lá. Recuperar este artefato pode dar a você a capacidade de inserir Guarda Sentinela e encerrar o [url=glossary:edict]Edital[/url] de Tempestades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>Os [url=glossary:unbroken]ininterrupto[/url] estão procurando um artefato poderoso, o Insígnia Firme, no [url=glossary:blade grave]Sepultura de Lâminas[/url] Oldwalls. Vale a pena investigar este item de poder.
+
+[OPTIONAL QUEST]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

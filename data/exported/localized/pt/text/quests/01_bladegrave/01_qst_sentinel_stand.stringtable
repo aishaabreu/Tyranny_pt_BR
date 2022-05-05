@@ -1,0 +1,362 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\01_bladegrave\01_qst_sentinel_stand</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>70</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Fazendo um suporte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Retorne ao Posto de Sentinela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Lute para a fortaleza interior.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Encontrar Straydus Herodin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Perseguir Straydus Herodin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Termine o [url=glossary:edict]Edital[/url] de Tempestades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Convencer Amelia para se encontrar com Nerat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Confrontar Amélia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Termine o [url=glossary:edict]Edital[/url] de Tempestades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Fale com Nerat.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Fale com [url=glossary:graven ashe]Cinza esculpida[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Volte para [url=glossary:ascension hall]Salão da Ascensão[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Atravesse a Ponte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Termine o [url=glossary:edict]Edital[/url] de Tempestades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Volte para a ponte levadiça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Termine o [url=glossary:edict]Edital[/url] de Tempestades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Entre na Fortaleza Interna do Posto de Sentinela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Elimine as unidades [url=glossary:disfavored]Desfavorecido[/url] na área.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Batalha pelo Posto Sentinela começou. Agora que o Insígnia Firme foi recuperado, vários exércitos desceram sobre a fortaleza [url=glossary:unbroken]ininterrupto[/url] para lutar pelo controle. Lute pelo controle da fortaleza com o [url=glossary:disfavored]Desfavorecido[/url], e coloque Straydus Herodin para descansar para acabar com o [url=glossary:edict]Edital[/url] de Tempestades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Com a insígnia firme, agora você pode suportar os ventos fortes em Posto de Sentinela e invadir o interior. Retorne à fortaleza.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Os [url=glossary:unbroken]ininterrupto[/url] e [url=glossary:disfavored]Desfavorecido[/url] estão lutando pelo controle de Posto de Sentinela. Faça o seu caminho através da zona de guerra e perfure a parede de vento do tornado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>Você chegou a Posto de Sentinela fortaleza interna. Localize o último Regente, Straydus Herodin.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Straydus não está disposto a cooperar e está caindo de volta nas paredes do castelo. Conduza suas forças de volta e derrote o Regente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>O filho de Amelia é o último Regente sobrevivente e a chave para [url=glossary:kyros]Kyros[/url]' em andamento [url=glossary:edict]Edital[/url]. Mate o bebê ou encontre outra maneira de acabar com as tempestades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10024</ID>
+      <DefaultText>Você encontrou Amélia, mas ela não é a cativa que você esperava encontrar. Seu protetor, Straydus Herodin, foi morto na luta, mas você ainda pode convencê-la a ir para [url=glossary:the voices of nerat]the Vozes de Nerat[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10026</ID>
+      <DefaultText>O bebê de Amelia é o último Regente sobrevivente e a chave para [url=glossary:kyros]Kyros[/url]' em andamento [url=glossary:edict]Edital[/url]. Fale com Amelia e veja o que pode ser feito.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10032</ID>
+      <DefaultText>O filho de Amelia é o último Regente sobrevivente. Matar o bebê acabará com o [url=glossary:edict]Edital[/url] de Tempestades e lhe dará controle total de Guarda Sentinela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10035</ID>
+      <DefaultText>Com suporte de sentinela agora sob controle Refrão, volte para Cacofonia e discuta seu próximo movimento com [url=glossary:the voices of nerat]o Vozes de Nerat[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10036</ID>
+      <DefaultText>Com suporte de sentinela agora sob o controle [url=glossary:disfavored]Desfavorecido[/url], volte para Lareira de Ferro para discutir seu próximo movimento com [url=glossary:graven ashe]Cinza esculpida[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10037</ID>
+      <DefaultText>Com suporte de sentinela agora sob o controle [url=glossary:unbroken]ininterrupto[/url], volte para [url=glossary:ascension hall]Salão da Ascensão[/url] para discutir sua próxima jogada com Arri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10039</ID>
+      <DefaultText>A ponte para o outro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10044</ID>
+      <DefaultText>Você se recusou a matar a filha de Amélia, perdendo a [url=glossary:unbroken]ininterrupto[/url] como aliada e arruinando qualquer chance de formar uma coalizão rebelde. 
+
+Tudo o que resta é reivindicar Posto de Sentinela, e para isso, você deve encontrar uma maneira de acabar com o [url=glossary:edict]Edital[/url] de Tempestades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10051</ID>
+      <DefaultText>Você eliminou todas as forças ao sul do rio. Volte para a ponte e veja se Rumalan morde a isca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10053</ID>
+      <DefaultText>O filho de Amelia é o último Regente sobrevivente. Matar o bebê acabará com o [url=glossary:edict]Edital[/url] de Tempestades e lhe dará controle total de Guarda Sentinela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10055</ID>
+      <DefaultText>A insígnia firme criou uma abertura na tempestade de ferrugem. O caminho para Posto de Sentinela fortaleza interior está claro, você deve ser capaz de enfrentar as forças internas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10056</ID>
+      <DefaultText>Rumalan está confiante de que suas forças a nordeste e sudoeste da ponte prevalecerão. Derrote-os em uma tentativa de instigá-la em combate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Você descobriu que a linhagem Regente é o resultado de um pacto mágico, que pode ser anulado se Amélia renunciar ao direito de primogenitura de seu filho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20007</ID>
+      <DefaultText>Os Antigos Vinculadores do Destino de [url=glossary:tunon]Tunon[/url]'s Tribunal pode saber mais sobre os meandros das linhagens [url=glossary:unbroken]ininterrupto[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20008</ID>
+      <DefaultText>[url=glossary:graven ashe]Cinza esculpida[/url] pode oferecer algumas dicas, principalmente porque esse assunto envolve sua filha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20009</ID>
+      <DefaultText>[url=glossary:graven ashe]Cinza esculpida[/url] a contragosto lhe deu permissão para procurar informações sobre [url=glossary:unbroken]ininterrupto[/url] linhagens no [url=glossary:burning library]Biblioteca em chamas[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20010</ID>
+      <DefaultText>Você descobriu que a linhagem Regente é o resultado de um pacto mágico, que pode ser anulado se Amélia renunciar ao direito de primogenitura de seu filho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20011</ID>
+      <DefaultText>Os Antigos Vinculadores do Destino de [url=glossary:tunon]Tunon[/url]'s Tribunal pode saber mais sobre os meandros das linhagens [url=glossary:unbroken]ininterrupto[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20012</ID>
+      <DefaultText>O caminho que leva à torre de menagem interna é bloqueado por uma ponte levadiça elevada. Você precisará encontrar uma maneira de destruir o guincho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20013</ID>
+      <DefaultText>Uma banda de [url=glossary:unbroken]ininterrupto[/url] precisa de sua ajuda para o nordeste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20014</ID>
+      <DefaultText>Seus aliados estão em posição de destruir o guincho da ponte levadiça. Viaje de volta para a ponte e atravesse-a.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20015</ID>
+      <DefaultText>Use a insígnia inabalável para interromper o Tempestade de Ferrugem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20016</ID>
+      <DefaultText>Você descobriu que a linhagem Regente é o resultado de um pacto mágico, que pode ser anulado se Amélia renunciar ao direito de primogenitura de seu filho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20017</ID>
+      <DefaultText>Os Antigos Vinculadores do Destino de [url=glossary:tunon]Tunon[/url]'s Tribunal pode saber mais sobre os meandros das linhagens [url=glossary:unbroken]ininterrupto[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20018</ID>
+      <DefaultText>Rumalan pediu que você derrote os inimigos restantes do seu lado do rio antes que ela derrube a ponte levadiça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20019</ID>
+      <DefaultText>Você eliminou todos os [url=glossary:unbroken]ininterrupto[/url] inimigos no lado sul do rio. Rumalan deveria ter derrubado a ponte levadiça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20020</ID>
+      <DefaultText>Você matou Amélia, raciocinando que a morte de sua filha é um mal necessário. Mate a criança para acabar com o [url=glossary:edict]Edital[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20021</ID>
+      <DefaultText>Tomos sobreviventes nos [url=glossary:burning library]Biblioteca em chamas[/url] podem conter conhecimento útil sobre [url=glossary:unbroken]ininterrupto[/url] linhagens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20022</ID>
+      <DefaultText>Tomos sobreviventes nos [url=glossary:burning library]Biblioteca em chamas[/url] podem conter conhecimento útil sobre [url=glossary:unbroken]ininterrupto[/url] linhagens.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20023</ID>
+      <DefaultText>Você matou Amélia, raciocinando que a morte de sua filha é um mal necessário. Mate a criança para acabar com o [url=glossary:edict]Edital[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20024</ID>
+      <DefaultText>Você matou Amélia, raciocinando que a morte de sua filha é um mal necessário. Mate a criança para acabar com o [url=glossary:edict]Edital[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20025</ID>
+      <DefaultText>Rumalan caiu para trás da ponte levadiça. Talvez derrotar o resto de seus soldados a atraia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20026</ID>
+      <DefaultText>Você eliminou todas as forças ao sul do rio. Volte para a ponte e veja se Rumalan morde a isca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20027</ID>
+      <DefaultText>Use a insígnia inabalável para interromper o Tempestade de Ferrugem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20028</ID>
+      <DefaultText>Fale com Sete Dedos sobre onde você irá em seguida.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você terminou [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] de Tempestades, trazendo calma ao antigo reino de Robusto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Você enviou Amelia e sua filha para Nerat. Embora o [url=glossary:edict]Edital[/url] de Tempestades permaneça, você encerrou o conflito central no [url=glossary:blade grave]Sepultura de Lâminas[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Você capturou Amélia, que será mantido pelo [url=glossary:unbroken]ininterrupto[/url]. Sua filha foi poupada e o [url=glossary:edict]Edital[/url] de Tempestades terminou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Você matou Amelia e sua filha, encerrando o [url=glossary:edict]Edital[/url] de Tempestades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30007</ID>
+      <DefaultText>Você poupou a vida de Amelia e sua filha enquanto terminava o [url=glossary:edict]Edital[/url] de Tempestades. Amelia e a criança voltaram para [url=glossary:graven ashe]Cinza esculpida[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30008</ID>
+      <DefaultText>Você matou Amelia e sua filha, encerrando o [url=glossary:edict]Edital[/url] de Tempestades. [url=glossary:graven ashe]Cinza esculpida[/url] entenderá.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30009</ID>
+      <DefaultText>Você matou Amelia e sua filha, encerrando o [url=glossary:edict]Edital[/url] de Tempestades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30010</ID>
+      <DefaultText>A oportunidade de resolver esta tarefa passou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Batalha pelo Posto Sentinela começou. Agora que o Insígnia Firme foi recuperado, vários exércitos desceram sobre a fortaleza [url=glossary:unbroken]ininterrupto[/url] para lutar pelo controle. Lute contra as forças [url=glossary:disfavored]Desfavorecido[/url] e [url=glossary:unbroken]ininterrupto[/url] e trabalhe com seus aliados Refrão para chegar ao interior. Lá, você deve recuperar a filha de [url=glossary:graven ashe]Cinza esculpida[/url], Amélia, e trazê-la para [url=glossary:the voices of nerat]the Vozes de Nerat[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>Batalha pelo Posto Sentinela começou. Agora que o Insígnia Firme foi recuperado, vários exércitos desceram sobre a fortaleza [url=glossary:unbroken]ininterrupto[/url] para lutar pelo controle. Lute ao lado de [url=glossary:unbroken]ininterrupto[/url] e empurre as forças [url=glossary:disfavored]Desfavorecido[/url] para alcançar Straydus Herodin e encontre uma maneira de acabar com o [url=glossary:edict]Edital[/url] de Tempestades de uma vez por todas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40003</ID>
+      <DefaultText>Com a insígnia firme em sua posse, agora pode ser possível romper a tempestade mágica que envolve Posto de Sentinela. Viaje até lá e termine o [url=glossary:edict]Edital[/url] para tomar a fortaleza para si mesmo.
+
+[Missão opcional]</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

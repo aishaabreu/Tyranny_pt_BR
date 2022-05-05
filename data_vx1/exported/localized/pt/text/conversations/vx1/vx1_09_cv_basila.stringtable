@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\vx1\vx1_09_cv_basila</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ah, você quer dizer antes do Forja ser desligado? Isso é certamente possível. Lembro-me de vários pedreiros que chegaram nos primeiros anos do Conquista. Lohara precisava de uma oficina de trabalho adequada, e eles eram supostamente especialistas enviados diretamente por [url=glossary:kyros]Kyros[/url] exatamente para esse fim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Seus olhos disparam para cima, movendo-se energicamente enquanto ela pensa. "Acho que posso ajudá-lo, Vinculador do Destino." Ela sorri, estendendo a mão para abrir um pequeno baú cheio de pergaminhos, folheando os documentos rapidamente. Ela examina um em particular, murmurando seu conteúdo suavemente para si mesma.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Cassandra. Isso mesmo, eu lembro! Ela passou pela minha barraca há mais de um ano e comprou alguns suprimentos para a estrada. Ela liderou um grupo de ferreiros de pedra. Eles ficaram muito felizes com a perspectiva de retornar ao Norte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Quem é Cassandra?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Procuro um conjunto especial de ferramentas de entalhe. Ela carregava algo assim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Você sabe para onde eles estavam indo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Deixar] "Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ela é especialista em trabalho com pedra, mas eu não a conhecia muito além de sua reputação. Conversamos algumas vezes, mas ela não ligava muito para gentilezas ou o que quer que seja. Eu não acho que os knappers tenham muita necessidade de comprar ferramentas. Quero dizer, eles fazem o seu próprio, certo? Mas ela comprava pergaminho e tinta de vez em quando. Acho que ela costumava fazer anotações meticulosas sobre seu trabalho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Peço desculpas, Vinculador do Destino. Infelizmente, minha experiência nessas ferramentas especializadas está em falta. Ela tinha muitas ferramentas com ela, além disso, não posso falar sobre suas especificidades."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Sim! Meu livro me ajudou a lembrar. Cassandra mencionou que eles estavam indo para casa, mas saindo por uma estrada ao sul. Se for esse o caso, aposto que ela pretendia passar pelo South Haven para chegar ao porto mais próximo. Afinal, o caminho mais rápido para o norte é por água. Talvez alguém naquela vila possa se lembrar para onde ela pretendia ir depois disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Isso teria sido antes do seu tempo como Governador." Ela oferece uma pequena reverência ao pronunciar seu antigo título.
+
+"Um momento, por favor. Vou conferir com meus registros." A comerciante examina rapidamente suas folhas de pergaminho, pronunciando as palavras enquanto lê.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Viagens seguras, Governador."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

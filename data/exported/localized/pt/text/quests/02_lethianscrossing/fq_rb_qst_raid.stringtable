@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\02_lethianscrossing\fq_rb_qst_raid</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Retorno do Guardião</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Mate o comandante [url=glossary:bronze brotherhood]Irmandade de Bronze[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Mate os [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] soldados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Encontrar Raetommon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Perseguir Raetommon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Verifique em Eldian.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Pergunte a Eldian onde Raetommon pode estar levando Zdenya.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Raetommon voltou para [url=glossary:lethian's crossing]A travessia de Lethian[/url] para tomá-lo agora que os exércitos de [url=glossary:kyros]Kyros[/url] se foram.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Mate o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] comandante enviado para levar [url=glossary:lethian's crossing]A travessia de Lethian[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Existem grupos de [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] soldados perto da margem leste e oeste do Rio Portuscor em [url=glossary:lethian's crossing]A travessia de Lethian[/url] - mate todos eles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Fale com Raetommon. Ele foi visto pela última vez com o Segundo-Irmão Ceratha perto da casa de Eldian em [url=glossary:lethian's crossing]A travessia de Lethian[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Raetommon cometeu um crime grave - ele não pode deixar [url=glossary:lethian's crossing]A travessia de Lethian[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Eldian provavelmente está seguro dentro de sua casa em [url=glossary:lethian's crossing]A travessia de Lethian[/url], mas ainda assim seria uma boa ideia dar uma olhada nele.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Raetommon conseguiu escapar com Zdenya para o deserto ao redor de [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Eldian pode ter uma ideia de onde Raetommon pode ter levado o [url=glossary:forge-bound]Forge-Bound[/url] Mestre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Eldian pediu para você falar com ele sobre onde o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] pode ter levado Zdenya.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você protegeu os colonos de [url=glossary:lethian's crossing]A travessia de Lethian[/url] matando os invasores [url=glossary:bronze brotherhood]Irmandade de Bronze[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Raetommon voltou para [url=glossary:lethian's crossing]A travessia de Lethian[/url] e está matando colonos e seus próprios soldados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>Raetommon voltou para [url=glossary:lethian's crossing]A travessia de Lethian[/url] para recuperá-lo de você.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,328 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>game\notifications</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>64</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Título da notificação de amostra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Mensagem de notificação de amostra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Sigilo Adquirido!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Forma de Força Direcionada</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Agora você tem Poder suficiente para emitir um [url=glossary:edict]Edital[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Novo [url=glossary:edict]Edital[/url] Disponível!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Nova receita de enfermaria de Spire disponível!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>A toxina fatigante pode ser criada com acesso a um Atualização da Enfermaria Spire e materiais adequados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>A Poção de Cura Maior pode ser criada com acesso a um Atualização da Enfermaria Spire e materiais adequados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[url=glossary:cairn]Cairn[/url]'s Leaf pode ser criado com acesso a um Atualização da Enfermaria Spire e materiais adequados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Swig of Insight pode ser criado com acesso a Atualização da Enfermaria Spire e materiais adequados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Acordar [url=glossary:death]Morte[/url] pode ser criado com acesso a um Atualização da Enfermaria Spire e materiais adequados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Novo plano Spire Forge disponível!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Manoplas de Ferro Trancadas podem ser criadas com acesso a Aprimoramento da Forja Spire e materiais adequados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Crashing Thunder pode ser criado com acesso a Aprimoramento da Forja Spire e materiais adequados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Zeal pode ser criado com acesso a um Aprimoramento da Forja Spire e materiais adequados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>O Headhunter pode ser criado com acesso a um Aprimoramento da Forja Spire e materiais adequados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Nova pesquisa de biblioteca disponível!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Você pode pesquisar Heart's Blood se tiver acesso a um Biblioteca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Heart's Blood pode ser criado com acesso a Aprimoramento da Forja Spire e materiais adequados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Você pode pesquisar mais sobre este item com acesso a um Biblioteca Spire.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>O Sentinel pode ser criado com acesso a um Aprimoramento da Forja Spire e materiais adequados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Skorn pode ser criado com acesso a Aprimoramento da Forja Spire e materiais adequados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Hawk Eye Helm pode ser criado com acesso a um Aprimoramento da Forja Spire e materiais adequados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Temp] Você pode preparar Mindless Fury se tiver um Enfermaria.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Tempestade de Flechas Desbloqueado!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Barik e Verso ganharam uma nova habilidade de combinação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Leve este item a um ferreiro em Aprimoramento da Forja Spire para investigá-lo melhor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Investigue este item!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Deathbringer pode ser criado com acesso a Aprimoramento da Forja Spire e materiais adequados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Heart's Blood pode ser criado com acesso a Aprimoramento da Forja Spire e materiais adequados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>As vestes do Hierarca podem ser criadas com acesso a um Aprimoramento da Forja Spire e materiais apropriados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Escalas de Misericórdia podem ser criadas com acesso a Aprimoramento da Forja Spire e materiais adequados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Snowfang pode ser criado com acesso a Aprimoramento da Forja Spire e materiais adequados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>O Baneward pode ser criado com acesso a um Aprimoramento da Forja Spire e materiais adequados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Maldição [url=glossary:edict]Edital[/url] agora está acessível.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Oldwater pode ser criado com acesso a um Atualização da Enfermaria Spire e materiais adequados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Dire Remedy pode ser criado com acesso a um Atualização da Enfermaria Spire e materiais adequados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Vagrant's Chaw pode ser criado com acesso a Atualização da Enfermaria Spire e materiais adequados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Azurebell pode ser criado com acesso a Atualização da Enfermaria Spire e materiais adequados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Potion of Heroes pode ser criado com acesso a Atualização da Enfermaria Spire e materiais adequados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Poção da Invisibilidade pode ser criada com acesso a Atualização da Enfermaria Spire e materiais apropriados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Marshberry pode ser criado com acesso a Atualização da Enfermaria Spire e materiais adequados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Staggering Burn pode ser criado com acesso a um Atualização da Enfermaria Spire e materiais adequados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>O Skycap pode ser criado com acesso a um Atualização da Enfermaria Spire e materiais adequados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Rotspear pode ser criado com acesso a Atualização da Enfermaria Spire e materiais adequados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Potion of Revival pode ser criado com acesso a Atualização da Enfermaria Spire e materiais adequados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Sableroot pode ser criado com acesso a Atualização da Enfermaria Spire e materiais adequados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Seu poder aumentou</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Você terminou [url=glossary:kyros]Kyros[/url]' {0}!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Você adquiriu {0}!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Você ganhou a lealdade do {0}!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>O {0} enviado para você!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Você derrotou {0}!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Você ganhou a lealdade de {0}!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Novas missões estão disponíveis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Fale com Plainsgate locais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Fale com Halfgate locais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Fale com [url=glossary:lethian's crossing]A travessia de Lethian[/url] locais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Fale com os moradores do assentamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Mapa mundial</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>{0} agora está desbloqueado no mapa do mundo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>[url=glossary:reputation]Reputação[/url] Habilidade desbloqueada!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>{0} {1} Habilidade - {2}</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

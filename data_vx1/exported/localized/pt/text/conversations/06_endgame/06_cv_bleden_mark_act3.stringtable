@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\06_endgame\06_cv_bleden_mark_act3</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Ele engasgou com sua própria ambição."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Parece que você é baixinho Fúria." Uma pitada de branco se infiltra em seu sorriso. "Muito inteligente, se você puder confiar nela. Estou ansioso para tirar os detalhes de você... supondo que nós dois sobrevivamos ao que vem a seguir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Você lança um [url=glossary:edict]Edital[/url] para rivalizar com [url=glossary:kyros]Kyros[/url] e se torna um de nós, então vem do leste a notícia de que o Refrão, anteriormente uivando para sua cabeça, agora conta com você como um aliado. Movimentos ousados. Não há um Arconte nos Tiers que não esteja considerando a melhor forma de... lidar com você."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

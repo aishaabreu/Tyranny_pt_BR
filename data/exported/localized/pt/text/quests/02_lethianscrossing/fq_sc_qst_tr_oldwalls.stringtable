@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\02_lethianscrossing\fq_sc_qst_tr_oldwalls</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>21</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Encontrando um louco</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Use a tocha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Procure Raetommon em Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Subjugar Raetommon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Acenda os quatro faróis para estender a ponte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Mate o estrago.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Mestre da Forja Grátis Zdenya.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Voltar para Eldian.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Volte para [url=glossary:the voices of nerat]o Vozes de Nerat[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Raetommon aprofundou-se no Oldwalls com [url=glossary:forge-bound]Forge-Bound[/url] Mestre Zdenya. [url=glossary:the voices of nerat]As vozes de Nerat[/url] quer que o [url=glossary:forge-bound]Forge-Bound[/url] Master seja encontrado e enviado a ele junto com Raetommon se possível.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Você obteve uma tocha de Ferris Pé chato. Use-o para avançar para o Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Raetommon deve ter deixado alguns vestígios de sua passagem no Oldwalls. Você precisará procurá-lo, quarto por quarto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Nerat quer que Raetommon seja capturado vivo se possível - caso contrário, mate-o.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Use a tocha correta em cada um dos sinalizadores para estender a ponte e escapar do Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>A devastação escapou de sua prisão, mate-o antes que ele possa liberar o Maldito em [url=glossary:lethian's crossing]A travessia de Lethian[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Com Raetommon cuidado e o Devastação morto, lançamento Mestre da Forja Zdenya.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Volte para [url=glossary:lethian's crossing]A travessia de Lethian[/url] e dê Eldian, o Elmo do Magebane ou reivindique-o para si.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Volte para [url=glossary:the voices of nerat]o Vozes de Nerat[/url] em Cacofonia e conte a ele o que aconteceu em [url=glossary:lethian's crossing]A travessia de Lethian[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Fale com Sete Dedos sobre onde você irá em seguida.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você liberou a [url=glossary:forge-bound]Forge-Bound[/url] Master e a enviou para [url=glossary:the voices of nerat]the Vozes de Nerat[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você foi contra a vontade de [url=glossary:the voices of nerat]the Vozes de Nerat[/url] e matou o [url=glossary:forge-bound]Forge-Bound[/url] Mestre.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

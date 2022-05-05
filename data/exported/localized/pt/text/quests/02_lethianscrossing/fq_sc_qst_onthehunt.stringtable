@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\02_lethianscrossing\fq_sc_qst_onthehunt</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Na caçada</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ir para a Marcha do Desertor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Fale com Locke em Deserter's March.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Fale com Myrek em Deserter's March.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Procurar Locke e Myrek.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Pesquisar Myrek.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Pegue a Pedra Angular para Twin Rivers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Retorno a Harchiand Bronze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Entre nas Velhas Muralhas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Pesquisar Flatfoot Ferris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Raetommon pegou tanto o Elmo Magebane e Mestre da Forja Zdenya. [url=glossary:the voices of nerat]As vozes de Nerat[/url] queria que você trouxesse Zdenya para ele, então localize Raetommon e recupere o [url=glossary:forge-bound]Forge-Bound[/url] Mestre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Harchiand Bronze sugeriu que você pudesse saber do paradeiro de Raetommon's em Marcha do Desertor. [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] soldados foram vistos naquela área.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Locke está irritado com Raetommon's ações recentes. Fale com ele sobre a situação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Myrek suporta Raetommon's táticas em [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Fale com ele e descubra se ele sabe para onde Raetommon foi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Há uma boa chance de um dos dois ter uma pista do que Raetommon está fazendo. Procure seus corpos em Marcha do Desertor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Locke disse que pode ser benéfico pesquisar o corpo Myrek's em Marcha do Desertor para obter informações sobre Raetommon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Com a pedra-chave na mão, você deve ir para Rios gêmeos para encontrar Raetommon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Harchiand vai querer saber sobre o Pedra angular que você encontrou. Fale com ele em [url=glossary:lethian's crossing]A travessia de Lethian[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Use a pedra-chave para inserir o Oldwalls em Twin Rivers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Ferris Pé chato provavelmente tem algo que ajudará a alcançar Raetommon mais profundamente dentro do Oldwalls. Procure seu corpo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Myrek não quis ouvir a razão e atacou, você terá que matá-lo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>As coisas ficaram hostis entre você e o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url], mate todos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você perseguiu Raetommon, que levou o [url=glossary:forge-bound]Forge-Bound[/url] Mestre, para o Oldwalls em Twin Rivers.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

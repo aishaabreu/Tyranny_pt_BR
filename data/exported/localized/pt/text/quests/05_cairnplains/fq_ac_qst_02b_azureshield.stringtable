@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\05_cairnplains\fq_ac_qst_02b_azureshield</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>38</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>A qualquer custo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vá para Stone Down.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Elimine Octave e sua banda de [url=glossary:scarlet chorus]Coro Escarlate[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Encontre-se com Centenas-Blood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Elimine os humanos em Santuário de Boca Recortada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Fale com Red-Fang em Gulfglow Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Mate os Earthshakers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Fale com o Vermelho-Fang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Mate o [url=glossary:stonestalkers]Perseguidores de Pedras[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Fale com Centenas-Blood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Recuperar o Azure Shield de Gulfglow Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Pegue o Escudo Azure de Presa Vermelha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Volte para [url=glossary:bleden mark]Marca de mistura[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Volte para [url=glossary:bleden mark]Marca de mistura[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Duelo das Cem-Sangue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Fale com Red-Fang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Volte para [url=glossary:bleden mark]Marca de mistura[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Recuperar o Azure Shield de Gulfglow Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>A tribo [url=glossary:stonestalker]Perseguidor de Pedras[/url] possui o lendário Escudo Azure. Procure os homens-fera e encontre uma maneira de recuperar o artefato.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Vá para Stone Down para iniciar sua busca pelo Homem-Besta conhecido como Centenas-Blood.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Você chegou em Apedrejar, mas uma banda de [url=glossary:scarlet chorus]Coro Escarlate[/url] está entre você e o Homens-fera. Corte o [url=glossary:scarlet chorus]Coro Escarlate[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Encontre Hundred-Blood em Stone Down e descubra o que ela sabe sobre o Escudo Azure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Cem Sangue pediu para você matar os humanos em Santuário de Boca Recortada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Cem Sangue lhe disse que Presa Vermelha em Gulfglow Oldwalls perto do Pináculo da Aurora sabe a localização do Escudo Azure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Earthshakers invadiram Gulfglow Oldwalls. Elimine-os.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Fale com Red-Fang em Gulfglow Oldwalls perto do Pináculo da Aurora para receber o Escudo Azure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Você se voltou contra Centenas-Blood e agora deve matar todos os [url=glossary:stonestalkers]Perseguidores de Pedras[/url] em Apedrejar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Cem Sangue está mortalmente ferida, mas ela ainda pode estar disposta a lhe contar o que sabe sobre o Escudo Azure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>O Escudo Azure está sendo realizado no santuário dos homens-fera em Gulfglow Oldwalls. Encontre um caminho até lá e recupere o escudo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Você atacou Red-Fang em Gulfglow. Mate-a e pegue o Escudo Azure de seu cadáver.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Agora que você recuperou o Escudo Azure, você precisa atualizar o [url=glossary:bleden mark]Marca de mistura[/url] em Ashweald.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Agora que você recuperou o Escudo Azure, você precisa atualizar o [url=glossary:bleden mark]Marca de mistura[/url] em Ashweald.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>Você desafiou Cem Sangue pelo Escudo Azure e deve derrotá-la em combate ritual.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Hundred-Blood cedeu e disse para você falar com Red-Fang em Gulfglow Oldwalls para recuperar o Escudo Azure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10022</ID>
+      <DefaultText>Agora que você recuperou o Escudo Azure, você precisa atualizar o [url=glossary:bleden mark]Marca de mistura[/url] em Ashweald.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10026</ID>
+      <DefaultText>O Escudo Azure está sendo realizado no santuário dos homens-fera em Gulfglow Oldwalls. Encontre um caminho até lá e recupere o escudo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Como recompensa por sua ajuda, Red-Fang deu a você o Escudo Azure.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você adquiriu o Escudo Azure, embora a um custo sangrento.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

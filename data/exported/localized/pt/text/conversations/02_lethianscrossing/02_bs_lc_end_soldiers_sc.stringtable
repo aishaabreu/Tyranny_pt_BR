@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\02_bs_lc_end_soldiers_sc</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Haven é todo nosso agora, esses idiotas roxos não terão mais seu precioso ferro!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"[Player Name], campeão do [url=glossary:scarlet chorus]Coro Escarlate[/url], saqueador do Refúgio!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Aventurar-se no Oldwalls não parece tão ruim depois de ver você inteiro. Talvez eu tente saquear suas maravilhas. hein?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Você poderia ter escolhido um lugar melhor para emitir um [url=glossary:edict]Edital[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Bane está se mexendo desde que o [url=glossary:edict]Edital[/url] foi lançado, é melhor ficar na ponta dos pés."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] é o Arconte dos Segredos, eu me pergunto quando você vai conseguir seu título?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Bom te ver, chefe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Se não for o Fatebiner, matador de Arcontes."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

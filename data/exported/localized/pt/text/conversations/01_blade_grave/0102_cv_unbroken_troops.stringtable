@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\0102_cv_unbroken_troops</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Muito apreciado! Podemos levá-lo daqui, e a batalha está quase vencida!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Stalwart cantará sobre nossos grandes feitos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"As músicas ficarão para depois. Você lidera o ataque enquanto escalamos aquela parede e tiramos o guincho da ponte levadiça!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Chega de conversa. Essa ponte levadiça precisa ser derrubada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Não deixe que isso o preocupe por um momento. Vou mandar o meu melhor até a parede para tirar o guincho. Você se preocupa em liderar o ataque."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\06_endgame\06_cv_scarletchorusfort_dorisi</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ei, Vinculador do Destino! Lembro de você do Batalha de Edgering - você garantiu que o Refrão recebesse reforços depois que aqueles [url=glossary:disfavored]Desfavorecido[/url] não deixaram nenhum inimigo vivo para recrutar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Bênçãos do Senhor sobre você, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Se você precisar desesperadamente de suprimentos, sinta-se à vontade para saquear um dos Refrão' caches. Vou marcar no seu mapa. Apenas minha maneira de agradecer."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,783 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\02_cv_lc_harchiand_bronze</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>147</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Aproxime-se, viajante! Tenho algo só para você!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Saudações e saudações!" O alegre comerciante o cumprimenta com um sorriso e uma palmada no ombro. "E bem-vindo ao [url=glossary:lethian's crossing]A travessia de Lethian[/url]! Lar do melhor mercador de todos os níveis!" Ele faz uma pausa e pisca. "Que seria eu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Harchiand Bronze ao seu dispor." Ele se curva. "O que posso fazer por você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Você poderia me dizer alguma coisa sobre esse selo? Encontrei em [url=glossary:vendrien's well]Poço de Vendrien[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Gostaria de ver seus produtos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Mm, vamos dar uma olhada, sim?" Harchiand pega o selo e o vira. Quando ele vê a insígnia, ele rapidamente a deposita de volta em sua mão e limpa as palmas das mãos. 
+
+"Onde você conseguiu isso?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Suspeito disso." Ele murmura e se preocupa com a testa. "Tão longe das rotas comerciais normais... mas por que lá, por que então, por que agora?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Veio de uma caravana mercante que foi saqueada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Talvez você possa começar me contando sobre os comerciantes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Ele se concentra em você e assente. "Claro. O sigilo pertence à Companhia de Comércio de Penas de Entrega." Seus lábios se apertam para formar uma ruga violenta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Um carregamento de ferro e armas desapareceu. Foi encontrado - com este selo - em uma casa em Travessia de ecochamada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"As armas foram feitas para o [url=glossary:disfavored]Desfavorecido[/url]. E o [url=glossary:vendrien guard]Guarda Vendrien[/url] de repente tinha armas de ferro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"O [url=glossary:vendrien guard]Guarda Vendrien[/url]?" Harchiand tamborila os dedos na boca e considera. "Nós vamos, isso muda as coisas. suponho..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Ele acaricia a sombra do crescimento da barba sob o queixo. "Suspeito, concordo. Mas a guerra sempre tem seus pequenos problemas..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ah, Vinculador do Destino. Venha para estocar, estou vendo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Deixar] "Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Muda as coisas? O que Mão-Over-Quill tem a ver com o [url=glossary:vendrien guard]Guarda Vendrien[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Primeiro as coisas primeiro." Harchiand limpa a garganta. "Esse terá um preço. Se algo infeliz acontecesse e minha conexão fosse rastreada até mim, as consequências seriam... caras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Pague 1000 anéis.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Vou passar por enquanto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Você já considerou que me derrubar pode ser ainda mais caro?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Sabe, estou chocado ao encontrar um comerciante honesto como você envolvido em comércio ilícito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Como você quiser. Você sabe onde me encontrar se mudar de ideia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Se você disser uma palavra sobre isso para alguém, eu vou denunciá-lo pelo mentiroso que você é, mas..." Ele olha em volta para ter certeza de que não há colonos perto o suficiente para ouvir o que está sendo dito. 
+
+"Recebi instruções do Quinto Olho para usar Mão-Over-Quill para entregar armas de ferro para [url=glossary:vendrien's well]Poço de Vendrien[/url] Cidadela. Não questiono minhas ordens, apenas sigo. Não sei mais nada - e essa é a verdade!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Ele estuda você um momento antes de sua postura se esvaziar. "Não, suponho que não. Você pode tornar minha vida muito mais difícil a longo prazo, não pode?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Gostaria de continuar nossa discussão sobre Mão-Over-Quill."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Se precisar, mas tenho que lembrá-lo do risco significativo, que não é isento de despesas..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"O que você pode me dizer sobre outras empresas comerciais no Camadas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Oh, tem havido vários ao longo dos anos - e eles prosperaram ou lutaram nesta nova era da lei." Ele conta os dedos. "Lá eram o Marmotas de Jade, o Franja de Renda, o Anéis vinculados e, claro, o Mão-Over-Quill." Ele faz uma careta para o último. 
+
+"Mas não me deixe esquecer o Visitantes da prosperidade, o Magnatas Amarelos, o Palidez Dez Vezes..." Ele se arrasta por algum tempo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Harchiand Bronze se encolhe quando você se aproxima. Ele cruza as mãos de maneira apressada e simpática, e então abandona a postura e as deixa penduradas ao seu lado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Fatebinder? Gostaria de vê-lo aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Em uma peça, você quer dizer? Aqueles Mercenários da Fraternidade certamente tentou o seu melhor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Que horror!" Harchiand Bronze coloca a mão no coração. "Talvez havia alguns Raetommon leais ainda à procura de sangue-" Ele percebe que suas palavras estão caindo em ouvidos surdos e abaixa as mãos. "Ah, foda-se tudo."
+
+"Você não me deu outra escolha!" Ele rapidamente se recompõe, antes de continuar mais discretamente. "Um Vinculador do Destino enviado de Cacofonia de repente aparece fazendo perguntas sobre minha lealdade?" Ele afasta a mão em direção ao Oldwalls. "Eu não sou tolo, qualquer Refrão membro que vale suas tatuagens vai te dizer que eles encontrariam qualquer razão para ser o próximo na fila para subir na hierarquia. Estou apenas dois passos à frente deles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Se você arriscou ter um Vinculador do Destino morto, você deve ter algo grande a esconder. Fale se quiser viver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Vou começar a te dar anéis até que você me diga o que está tentando esconder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Ele acena uma demissão. "Não faz sentido. Agora, se podemos voltar ao assunto das minhas mercadorias?" Ele sorri e se prepara para mostrar a você uma bugiganga chique.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Conte-me mais sobre Mão-Over-Quill."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] tem dúvidas sobre suas transações recentes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Eles já foram uma organização comercial poderosa que... bem..." Ele coloca a boca em concha e olha ao redor, "Vamos apenas diga que você não queria ficar entre eles e um contrato ." "Com as novas leis de [url=glossary:tunon]Tunon[/url] no [url=glossary:bastard city]Cidade bastarda[/url], o Pena se escondeu nas sombras de [url=glossary:kyros]Kyros[/url]' autoridade, tentando manter um perfil mais baixo. Se você estiver envolvido em algum dos negócios deles, fique longe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Sua tez perde um pouco da cor. "Ilícito? O que quer dizer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>[Gesto para suas mercadorias.] "Que garrafa - essência de mazenberries. Um veneno mortal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Que garrafa?" Harchiand vira, puxando a ponta da barba. Ele tenta seguir a direção do seu gesto. "Há não..."
+
+Então sua confusão desaparece, substituída por uma compreensão total. "Claro que há uma garrafa. E depois de dizer às autoridades que devo tê-lo escondido ou destruído, então é sua palavra contra a minha. Estou correto?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"O mais perceptivo de vocês."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Risco ocupacional." O comerciante solta um suspiro pesado. "Eu já deveria estar acostumado com isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Ele abre uma bolsa funda, e você deposita sem cerimônia um volume de anéis - cujo barulho vira várias cabeças. 
+
+Harchiand sacode a bolsa uma vez e acena com a cabeça, contente que a quantia combinada está lá.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Não seria mais barato arrancá-lo dele?" Versículo encolhe os ombros. "Terno você mesmo. Vou me divertir mais com meus ganhos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Harchiand estende as mãos. "Por favor, não! Eu prometo que vou te contar tudo - tudo!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Eu pagaria para assistir isso - e contribuir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Seus olhos se arregalam e sua fachada uma vez enérgica e alegre rapidamente se torna imóvel e fria. "Eu pensei que tínhamos acertado o acordo há algum tempo. Tem algo..." Ele franze a testa e acena para você usar. "Faça suas perguntas, então."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Você vende para o [url=glossary:disfavored]Desfavorecido[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Você cobre seus rastros quando faz negócios com o [url=glossary:scarlet chorus]Coro Escarlate[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Você já enganou o [url=glossary:scarlet chorus]Coro Escarlate[/url] em um acordo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>Ele pisca e responde em um tom baixo. "Dificilmente posso recusar um cliente, posso? Seria suspeito se eu recusasse um servo de [url=glossary:kyros]Kyros[/url] por causa da cor de suas roupas." "Eu guardo meus melhores produtos e preços para o [url=glossary:scarlet chorus]Coro Escarlate[/url], mas você não pode me culpar por exercer meu ofício..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Você é um oportunista, então?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Então você é quem está equipando nossos inimigos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Ele abaixa a voz para um sussurro. "Mas um leal. Eu pensei que [url=glossary:the voices of nerat]the Vozes de Nerat[/url] gostaria de alguém que saiba jogar dos dois lados. Deixe-o saber que sua confiança não está perdida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"O quê? Não! Você está pensando no [url=glossary:forge-bound]Forge-Bound[/url]." Ele olha para a esquerda e para a direita. "Quero dizer... se um [url=glossary:disfavored]Desfavorecido[/url] soldado compra uma espada ou capacete de segunda mão... então tecnicamente sim." Ele rapidamente acrescenta uma palavra final. "Mas apenas o [url=glossary:scarlet chorus]Coro Escarlate[/url] vê meus melhores produtos! Eu garanto!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Ele sobe até sua altura total. "Sou um profissional e trato cada transação com a máxima confiança. [url=glossary:the voices of nerat]As vozes de Nerat[/url] não deve ter dúvidas sobre isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Se eu verificar seus livros, não encontraria nada suspeito?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Você parecia arrogante quando nos conhecemos. Você conhece o significado de discrição?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Sua confiança vacila. "Suponho que depende do que você está procurando... Eu mantenho um segundo conjunto de registros que levam em consideração as transações paralelas, mas uma autoridade certamente perceberia que faço negócios com o Escarlate-" 
+
+Ele percebe o que disse e cobre a boca. "Será que as vozes quer que eu os mantenha separados? Por [url=glossary:kyros]Kyros[/url], nunca pensei que alguém fosse perguntar!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Ele deixa seu ponto de lado. "Como todos os comerciantes, falo em chavões e embelezamento. As pessoas acham divertido, e vende tecidos que minha avó não colocaria sobre seu cachorro doente."
+
+"Eu nunca falo sobre meus negócios com [url=glossary:the voices of nerat]o Vozes de Nerat[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Ele ri. "Eu sei melhor que isso. [url=glossary:the voices of nerat]As vozes de Nerat[/url] é um empresário astuto - não me surpreenderia se ele ficasse de olho em todos os negócios de armas que fiz com suas tropas de elite." Ele se pergunta por um momento. "Venha pensar nisso, também não me surpreenderia se ele não se importasse."
+
+"Do jeito que eu vejo, por que eu arriscaria irritar um Fúria Escarlate ou Cantor de Sangue quando posso me contentar com isso minha taxa acordada?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Você nunca arrisca a ira de um cliente em seu benefício?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"E quando você está vendendo para um Horda grunhido?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Certamente não. Inimigos são tão... complicações. Tanta alimentação e manutenção, sempre olhando por cima do ombro." Ele afasta o conceito. "Deixe meus clientes lidarem com seus inimigos. Preciso apenas de amigos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Nós vamos... nosso acordo especificava que eu trago armas para os oficiais mais altos. As necessidades da Horda são tão insignificantes em comparação... ninharias, na verdade." Ele procura simpatia em sua expressão e não a encontra. 
+
+"Então eu faço algum lucro extra com as fileiras. Não é mais ou menos justo do que qualquer um dos meus outros negócios. Isso é um problema?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"No que me diz respeito, sua lealdade ao Vozes é incontestável."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Estou satisfeito por ter sua confiança. Se você acreditasse de outra forma... bem, tenho certeza de que não estaríamos tendo essa conversa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Desapontado, Harchiand Bronze cruza os braços e te encara com amarga resignação. "Ouço, você pode ficar aqui o dia todo questionando minha lealdade ao [url=glossary:scarlet chorus]Coro Escarlate[/url], mas nós dois sabemos a ironia em exigir respostas de alguém que serve o Arconte dos Segredos. Eu sou um mentiroso Vinculador do Destino, e [url=glossary:the voices of nerat]o Vozes de Nerat[/url] me paga generosamente por tal serviço." "Qual é exatamente a motivação por trás deste julgamento ao qual fui subjugado?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] me disse para falar com você quando chegasse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Claro! Recebi uma missiva mencionando que você chegaria. Receio não ter muito a dizer no momento além do mestre [url=glossary:forge-bound]Forge-Bound[/url] que chegou em [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Você provavelmente deveria ir à forja e descobrir o que está acontecendo. O [url=glossary:forge-bound]Forge-Bound[/url] e eu não estamos nos melhores termos..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Claro! Recebi uma missiva mencionando que você chegaria. Receio não ter muito a dizer no momento além do mestre [url=glossary:forge-bound]Forge-Bound[/url] está a caminho de [url=glossary:lethian's crossing]A travessia de Lethian[/url]. "
+
+"Você provavelmente deveria falar com Esmagador de Camadas antes de fazer qualquer outra coisa na cidade. Ele pode ser um pouco sensível se for deixado de fora do circuito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Quais são seus pensamentos sobre o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Ele dá de ombros. "O que posso dizer? Eles fazem clientes decentes. Eu tento ficar do lado deles, porque eu vi como eles facilmente atacam aqueles que saem da linha... Eu converso apenas o suficiente para ser amigável, mas nunca o suficiente para deixar uma impressão o suficiente para ser perigoso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Ele dá de ombros. "Eu não tenho visto muito deles nos últimos anos. Suponho que alguns dos meus clientes provavelmente estejam [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] disfarçados tentando conseguir suprimentos para seus acampamentos, mas nunca posso ter certeza. Isso realmente importa? Eu sou amigável com eles, mas não é como se eu fosse dar qualquer informação sensível para eles!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Onde está o Tier Smasher?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Onde fica a forja?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>Ele aponta para o nível acima de você. "A forja está no segundo nível na parte de trás do Cruzando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Vamos falar de outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Ele está no nível do solo do outro lado do rio." Ele aponta para o leste. "Você pode atravessar a ponte ali. Esmagador de Camadas geralmente está se escondendo do lado de fora da de Eldian casa, perto do centro da cidade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Você disse que queria me ver?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Sim! Isso é simplesmente inaceitável! Enviei uma notificação para Nerat sobre o roubo e sequestro. Enquanto aguardo uma resposta, você deve procurar por [url=glossary:forge-bound]Forge-Bound[/url] Mestre. Se conseguirmos recuperá-la, Nerat provavelmente perdoará mais!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Harchiand balança a cabeça. "Não tenho certeza. Ouvi relatos do fraternidade escondido dentro do Oldwalls, mas não acho que você deva se deparar com o que poderia ser uma grande força fraternidade."
+
+"Eles também foram vistos recentemente no vizinhança de Marcha do Desertor. Pode ser uma boa ideia verificar isso primeiro e ver se você pode reunir alguma informação sobre o fraternidade dentro do Oldwalls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"O que você pode me dizer sobre Marcha do Desertor?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Nada demais, na verdade. Eu sinto Muito. Se não posso vender lá, não tenho motivos para ir lá! Eldian saberia lhe dizer. Esta é a casa dele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Recebi este Pedra angular do Fraternidade na Marcha do Desertor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>Os olhos de Harchiand se arregalam quando ele vê o Pedra angular. "Esse é um dos Pedra angulars para entrar no Oldwalls!" Ele vira o Pedra angular em suas mãos enquanto fala. "Há apenas uma outra entrada que eu conheço e está em Rios gêmeos. É onde o fraternidade está hospedado, então provavelmente é onde eles estão entrando no Oldwalls." Ele devolve o Pedra angular para você. "Se você for lá, tome cuidado!"
+
+"As coisas estão bem quietas aqui, então não acho que Raetommon tentará atacar novamente. Reforços do [url=glossary:scarlet chorus]Coro Escarlate[/url] estarão aparecendo em breve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"E se você descobrir alguma coisa, por favor, venha me contar. Quanto mais eu tenho a dizer Nerat, menos ele me mata."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Eu ouvi de Nerat enquanto você estava fora e ele está extremamente interessado em Raetommon. Parece que o ataque Raetommon's não irritou Nerat tanto quanto o intrigou e ele gostaria de conhecer Raetommon um pouco melhor." Ele fareja com desgosto.
+
+"Recuperando o [url= glossary:forge-bound]Forge-Bound[/url] Mestre ainda é prioridade, mas se você puder convencer Raetommon a considerar uma visita a Cacofonia, Nerat ficaria muito agradecido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] me disse para falar com você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Contanto que você não fale comigo do jeito que você falou com a guarnição!" Ele ri nervosamente. "Você euTenho que me perdoar no momento, Vinculador do Destino, mas não tenho tempo para conversar. Minha barraca está um pouco bagunçada depois do recente aborrecimento."
+
+"Word é o [url=glossary:forge-bound]Forge-Bound[/url] Mestre chegou em [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Você provavelmente deveria ir à forja para descobrir o que está acontecendo. Poderei falar com você depois de me orientar aqui." Ele aponta para o nível acima de você. "A forja está no segundo nível na parte de trás do Cruzando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Você pode me dizer alguma coisa sobre Gino?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Gino? O pobre pescador? Na verdade não... Eu sei que ele tem um irmão chamado Alagan. Além disso, ele é um dos muitos moradores locais cujos assuntos não são da minha conta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Ele mencionou o desejo de falar com Eldian também, mas você pode querer esperar até que o problema com Raetommon seja resolvido. Enquanto Eldian ainda tem uso, eu odiaria vê-lo... desaparecer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Quero que você organize para que Eldian seja enviado para [url=glossary:the voices of nerat]o Vozes de Nerat[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>Harchiand faz uma reverência. "Nada me daria mais prazer do que cumprir o seu e de Nerat todos os caprichos! Terei prazer em providenciar o envio de Eldian para o Vozes."
+
+"Mas, posso sugerir algo? Você pode querer ter certeza de que tem tudo o que precisa de Eldian antes que ele seja expulso. As pessoas que têm uma audiência com Nerat tendem a não retornar..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Bom ponto. Vou recuperar o Elmo Magebane de Eldian primeiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Tenho tudo o que preciso. Faça os arranjos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Claro, Vinculador do Destino. Eu cuidarei disso imediatamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Muito bom, Vinculador do Destino. Volte para mim quando estiver pronto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Você já vendeu informações para alguém além do [url=glossary:scarlet chorus]Coro Escarlate[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Harchiand inala dramaticamente, parecendo chocado. "Eu nunca faria! Que tipo de informação destina-se apenas a ser compartilhada com pessoas muito específicas. A própria ideia!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Eu sugiro que você me diga a verdade antes que as coisas fiquem feias."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Farei tudo o que for necessário para conseguir o que quero."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Não tenho certeza se acredito em você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Harchiand desvia o olhar de você, perdido em um mar de pensamentos. Ele acena para si mesmo depois de um momento. "Eu posso ver que você pode dizer um bom mentiroso quando você vê um. O mesmo acontece com o Arconte dos Segredos, que é precisamente para o que ele me paga." Ele respira fundo. "Eu posso ter escorregado propositalmente para Raetommon que o [url=glossary:forge-bound]Forge-Bound[/url] Mestre estava indo para [url=glossary:lethian's crossing]A travessia de Lethian[/url], e talvez a intenção de sua visita . Veja bem, ele era a ferramenta perfeita para colocar o [url=glossary:forge-bound]Forge-Bound[/url] Mestre ao nosso alcance." Ele levanta as mãos. "E antes que você se levante sobre o que eu fiz, entenda que agi por conta própria. O The Voices não tem ideia de que eu estava por trás disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Os olhos de Harchiand se movem de um lado para o outro como se procurassem uma saída para esse confronto. Depois de um momento, seu rosto de repente se ilumina. " Sim-Sim! Posso provar minha inocência! Pelo menos, conheço alguém que pode!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Eu confio que isso vai ficar entre você e eu." Ele sorri com um sorriso cheio de dentes. "Para o Arcontesaquê?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Eu entendo que o que você fez foi para um bem maior. Vou garantir que sua lealdade seja conhecida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>[Ataque] "Definitivamente vai acabar aqui. Você pagará por atuar sem ordens!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>Ele se curva profundamente. "Eu sabia que você entenderia. Agora vamos deixar esse negócio feio para trás! A partir de agora, você terá um desconto significativo em meus produtos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Desculpe, Vinculador do Destino, estou muito ocupado agora. Volte mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Se você está tão preocupado sobre como Nerat vai responder, por que você disse a ele?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Onde eu procuraria o [url=glossary:forge-bound]Forge-Bound[/url] Mestre?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Porque se ele descobrir que eu ocultei informações dele, as coisas podem ficar ainda piores para mim! Confiar eu, encontrar o Mestre antes que o Nerat tenha tempo para ficar bravo é a única maneira de lidar com isso com o mínimo de morte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"'Menor' quantidade de morte? Por que tem que haver morte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Você está louco? Você conhece o Nerat? Você tem prestado atenção em tudo? O homem é louco! Ele mata pessoas só porque o sol está brilhando de uma certa maneira. A maneira correta de lidar com ele é minimizar as razões para ele causar danos!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>Ele olha ao redor e balança a mão dramaticamente para frente e para trás. "Tenho que perguntar do que se trata. Já é difícil fazer negócios com a guerra e a ocupação e agora temos que lidar com isso!" Ele sorri. "Mas se aguentar um [url=glossary:edict]Edital[/url] for a pior coisa que tenho que suportar, farei isso com a graça sem esforço pela qual sou conhecido!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"O que traz uma potência como você para [url=glossary:lethian's crossing]A travessia de Lethian[/url]? Depois o [url=glossary:edict]Edital[/url] em [url=glossary:vendrien's well]Poço de Vendrien[/url], eu assumi que você estaria começando seu próprio império e não confraternizando com o povo pequeno! Não que eu vá reclamar de ter a chance de ficar lado a lado com a elite!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"E você é o Vinculador do Destino! Eu te reconheceria em qualquer lugar. E com uma lista de ações tão longa quanto a sua, eu ficaria surpreso se houvesse alguém no Camadas que não tivesse!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Sim, sim... Você sabe. No começo eu me perguntei se você era a pessoa com quem eu deveria falar, já que você não mencionou nada para mim da última vez que conversamos. Você nunca pode ser muito cuidadoso, especialmente quando [url=glossary:the voices of nerat]o Vozes de Nerat[/url] está envolvido. Isso é ruim o suficiente para não podermos conversar antes, mas agora isso? Isso é simplesmente inaceitável!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Sim, sim... Você sabe. No começo eu me perguntei se você era a pessoa com quem eu deveria falar, já que você não veio me ver antes de falar com Zdenya. Você nunca pode ser muito cuidadoso, especialmente quando [url=glossary:the voices of nerat]o Vozes de Nerat[/url] está envolvido. Isso é ruim o suficiente para não podermos conversar antes, mas agora isso? Isso é simplesmente inaceitável!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Enviei notificação para Nerat sobre o roubo e sequestro. Enquanto aguardo uma resposta, você deve procurar por [url=glossary:forge-bound]Forge-Bound[/url] Mestre. Se conseguirmos recuperá-la, Nerat provavelmente perdoará mais!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Vinculador do Destino, obrigado por ter vindo. Lamento não podermos falar em circunstâncias melhores."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Sou comerciante há muito mais anos do que gostaria de pensar e em todo esse tempo nunca ouvi as pessoas contarem histórias sobre alguém como contam sobre você!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"E você é o Vinculador do Destino! Eu te reconheceria em qualquer lugar. E com uma lista de ações tão longa quanto a sua, eu ficaria surpreso se houvesse alguém no Camadas que não o fez!"
+
+"Você acabou com o [url=glossary:edict]Edital[/url] de Tempestades na Fortaleza Sentinela , não você. Essa é uma história que as pessoas contarão nos próximos anos!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"E você é o Vinculador do Destino! Eu te reconheceria em qualquer lugar. E com uma lista de ações tão longa quanto a sua, eu ficaria surpreso se houvesse alguém no Camadas que não o fez!"
+
+"Você mergulhou de cabeça no [url=glossary:edict]Edital[/url] de Tempestades e reivindicou o Sentinel Stand Keep! Contos de sua bravura - ou insanidade - vão entreter as pessoas por anos!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Falando como alguém que lida com Nerat há algum tempo, recomendo que você resolva essa bagunça imediatamente. E depois de fazer isso, você pode querer pensar em uma oferta ou duas para apaziguar o chefe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Você sabe o tipo que ele mais ama... personalidades fascinantes. Posso garantir que ele vai querer falar com esse Raetommon sujeito."
+
+Ele faz uma pausa, coçando o queixo em pensamento. "Eldian também, pense nisso. Aquele velho está bastante sintonizado com as idas e vindas deste lugar. Melhor que ele compartilhe tal sabedoria com o Vozes, certo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Continue falando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Um velho comerciante amigo meu. Viajamos juntos por muitos anos, ele pode falar com minha credibilidade!" Ele pega atrás dele um pequeno pedaço de pergaminho e rapidamente desenha um mapa de um local próximo a Rios gêmeos. "Aqui é sua rota comercial normal e é onde ele normalmente acampa. Fale com ele e ele deve limpar meu nome!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>[Coloque sua mão em sua arma.] "Vamos cortar a farsa, você sabe por que estou aqui. Agora quanto para eu simplesmente ir embora?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>Um sorriso cheio de dentes começa a se esticar em seu rosto. "Vejo que seu tempo é tão valioso quanto o meu. Como é um único anel de ferro para seus problemas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Temos um acordo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Ele te joga o anel. "Prazerfazendo negócios, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>[Ataque] "Tive a sensação de que você poderia ser comprado. Você pode pagar com sua vida, traidor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>[Estale os dedos.] "Gosto do som de dois."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Ele joga para você dois anéis de ferro e fala por entre os dentes. "Prazerfazendo negócios, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Seven-Toes solicitou que você fosse testado, ela disse que era um procedimento padrão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Ah, Sete Dedos. Ela é tão mortal quanto estúpida. Não a culpo por manter as fileiras livres de dúvidas, mas você não encontrará confiança vacilante aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Isso não explica por que um grupo de [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] estava querendo me matar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Ele suspira e olha em volta procurando por alguém por perto. "Vamos apenas diga que os cofres do Ring-Dropper Ceratha não foram preenchidos sozinhos, e vamos deixar por isso mesmo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>[Ataque] "Eu só queria ver você se contorcer antes de te matar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>[Ataque] "Então você está me dizendo que a verdade morre com você? Bom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Um pensamento cruza sua mente e ele rapidamente se vira para uma caixa atrás dele.
+
+"Aqui, tome isso pelo seu tempo. E diga a Sete-Toes que ela não deve se preocupar comigo."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\02_cv_lc_act3_battle_return</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Do outro lado do assentamento, você ouve uma série de assobios agudos e estridentes vindos de onde os feridos em [url=glossary:lethian's crossing]A travessia de Lethian[/url] estão sendo protegidos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Nó aleatório 2</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Algo se desenrola no mercado. Devemos investigar e nos preparar para qualquer coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Isso veio da direção do mercado. Ou há problemas, ou um leiloeiro muito odioso no trabalho - é seguro assumir o primeiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Pode ouvir gritos de morte no local do comerciante. Pode cheirar a sangue fresco e quente. Deve pata de volta, rapidamente para atacar. Para lutar e matar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Isso não pode ser um bom sinal. Parece que vem do mercado ou por aí."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Isso veio do mercado. Se houver problemas, devemos cuidar disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Parece um sinal para mim. Devemos ir até a área do mercado e ver o que está acontecendo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Parece que veio do mercado. Devemos ir lá imediatamente - e se alguém estiver tentando cercar o bordel?! Um resgate deve acontecer!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\0103_cv_invader_leader_pursuit</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Finalmente, chegamos!" Dimitris gesticula o caminho para o Regente. "Vamos empurre para a frente!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Você? Ah! Você achou que Rumalan era todo o [url=glossary:disfavored]Desfavorecido[/url] que se comprometeria nessa batalha?" Dimitris zomba. "Girando suas costas para nós confundiram seus sentidos, kinslayer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Temos o Regente encurralado!" Remédio irregular sacode sua lança. "Tempo para tirar os ratos da despensa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Não temos um momento a perder!" Mattias aponta para a rota de fuga Regente. "Tempo para avançar!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

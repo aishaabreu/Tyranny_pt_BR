@@ -1,0 +1,806 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\00_cv_act_3_start</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>156</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Continuo ouvindo sobre esse pequeno Pináculo que você está chamando de seu." Assentindo com um sorriso malicioso, Fatebinder Calio espia por cima da borda da torre. "Agora que você matou aqueles que querem tomar suas terras, acho que sua reivindicação é tão oficial quanto possível."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] sabe, com razão, que inimizades novas e antigas levarão o Arcontes à destruição mútua. O Senhor Supremo precisa apenas remover a pretensão de paz e observar a violência que se seguiu." Calio dá de ombros com um sorriso. "Seria você preferiu outro 'faça ou morra' [url=glossary:edict]Edital[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Esta é uma intimação judicial do assassino de [url=glossary:bleden mark]Marca de mistura[/url], [url=glossary:tunon]Tunon[/url]. Sugiro que você leia com atenção como parte de seus preparativos. Sua sobrevivência pode depender disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"O que eu fiz para ganhar a visita de um Fatebinder? Você tem um [url=glossary:edict]Edital[/url] para proclamar contra mim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Prazer em vê-lo, mas... como você chegou aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Não é óbvio?" Calio balança a cabeça com uma carranca agitada. "A grande questão é - como você fez a impressão mais convincente que o Soberano Terratus já viu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Alfa gerou palavras de poder como a dos humanos [url=glossary:prima]Prima[/url] chamada [url=glossary:kyros]Kyros[/url]. É melhor mística do que a mãe da ninhada para Mortes-in-Shadow, do que "
+
+[/url]' Cem Sangue - do que Mulher-Besta Arconte massacrada por Marca das Sombras." Ela bufa e sorri selvagemente. "Mortes-in-Shadow sabia que Alfa era o humano mais poderoso de todas as Camadas-terras." Uma garra curvada bate na lateral de seu focinho. "O nariz não estava errado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Então [url=glossary:kyros]Kyros[/url] ordenou que todos os Arcontes lutem até que apenas os mais fortes permaneçam? Acho que agora podemos dizer com segurança que a filosofia [url=glossary:scarlet chorus]Coro Escarlate[/url] foi justificada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Um murmúrio retumbante surge sob o capacete Barik's, desprovido de quaisquer palavras convincentes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Eu sei que estou sóbrio, mas só para deixar claro, você acabou de emitir um [url=glossary:edict]Edital[/url], certo?" Lantry bate a pena na língua, inseguro do que escrever a seguir. "Primeiro você lança um [url=glossary:edict]Edital[/url], então essa guerra total de Arcontes... todo esse capítulo do Crônica é... está lendo como ficção."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Você sente a necessidade de fazer uma pausa e contemplar o que aconteceu. Por instinto e vontade, você proclamou um [url=glossary:edict]Edital[/url] - não lendo as palavras de [url=glossary:kyros]Kyros[/url], mas redigindo-as você mesmo. O ar ainda estala com a energia dissipada de seu incrível feitiço.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Nó em cascata 18</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"É natural ter duvidado de si mesmo. Os Editais sempre foi a magia de [url=glossary:kyros]Kyros[/url] e [url=glossary:kyros]Kyros[/url] sozinho! Alguém alegando ser capaz de lançar um [url=glossary:edict]Edital[/url] seria considerado louco. E, no entanto, um homem sensato observando o que você acabou de fazer veria o poder do soberano em sua voz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Você não sabia se funcionaria e decidiu brincar com o equivalente arcano de uma montanha caindo? Minha confiança em você aumenta, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Nó em cascata 22</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Você pode culpá-los? Ninguém pode se opor ao poder como o que você exerce. Nem soldados, nem Arcontes, talvez nem mesmo..." Barik se vira para a beira do Pináculo e se afasta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Eu deveria dizer isso. Um exército inteiro acabou de perceber que fodeu com o Vinculador do Destino." errado</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"A presa sempre gritará e fugirá ao ver os predadores."
+
+Seus lábios se abrem em um sorriso afiado e orgulhoso.
+
+"Alfa para matar-in-Shadow é a mais selvagem e astuta caçadora de místicos. Tem a mordida mais mortal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Nó em cascata 36</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Se eu soubesse que você poderia fazer isso quando eu te conheci, eu... talvez tivesse tentado matá-lo a sério? Espero pelo bem de Terrato que a pessoa certa tenha herdado esse dom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Você não é um mero Vinculador do Destino, disso podemos ter certeza. Você proclamou e quebrou o Éditos do Overlord talvez muitas vezes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Muito pouco é certo, mas uma coisa se destaca da confusão: você não é um mero Vinculador do Destino, nenhum funcionário legal para ser guiado por poderes maiores. Não, você é um poder em si mesmo - algo tão grande quanto as autoridades que lideraram esta guerra, se não maior.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Não sei o que pensar de você, Vinculador do Destino. Proclamando e quebrando a magia Soberano, reivindicando essas torres horríveis... não deveria ser surpresa que um [url=glossary:edict]Edital[/url] esteja ao seu alcance, mas ainda encontro espaço para surpresas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Mulher-Fera seguirá Alfa daqui até os confins de Camadas-terras e ainda mais longe. Vai espreitar no frio Norte, caçando exércitos de [url=glossary:kyros]Kyros[/url] no lado Alfa. Juntos -Shadowhunter e Alfa matarão toda a tribo de [url=glossary:prima]Prima[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Nó em cascata 48</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Significa que você é forte, idiota. Mais forte do que qualquer chefe de gangue no Camadas, qualquer oficial da legião... talvez mais forte do que... eu nem sei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Considerar [url=glossary:kyros]Kyros[/url] teve um primeiro [url=glossary:edict]Edital[/url] - um dos Tempestades, acredito. E nem sempre havia longas recitações para acompanhar aqueles primeiros Editais - eu garanto a você que [url=glossary:kyros]Kyros[/url] teve que aprender a andar antes de correr - assim como você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Isso é preocupante, eu tinha certeza que esperava que você estivesse pelo menos tão informado sobre seu talento quanto você é capaz de invocá-lo. Se você for descuidado, poderá causar danos incalculáveis com seu poder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Esse pensamento está no cerne de todos os outros: você não sabe o que pode ou não pode fazer. Quando editais esteja ao seu alcance, o que mais pode ser plausível?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Uma última coisa." Hesitando antes de sair, Calio bate no pergaminho que está segurando na testa com uma zombaria autodepreciativa. "Toda essa conversa sobre você ser a segunda vinda do Overlord e eu quase esqueceu meus deveres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Isso é verdade. Eu não acho que [url=glossary:kyros]Kyros[/url] decide quem tem o poder de ser um Arconte, mas [url=glossary:kyros]Kyros[/url] é certamente seletivo de quem fica com o título. Meu professor, Jade Oculto, Arconte das Marés nunca se curvou para [url=glossary:kyros]Kyros[/url]. Seu poder era seu e ela reivindicou o título de Arconte porque... bem, quando ela era mais jovem, o soberano era apenas um conto distante e, portanto, usar o título não despertou conflito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Boa sorte... Arconte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Alpha tornou-se o mais novo Arconte. É tão reverenciado pelos humanos, ganhou novo título de força."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Eu não tenho ideia de como você é capaz de fazer isso, mas não é um poder que qualquer erudito possa exercer. Isso é outra coisa. Você não é um mago ambicioso que aprendeu isso em um livro. Você é mais como um Arconte, onde isso vem naturalmente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Você é poderoso de uma forma que os chefes de gangues e magos não são. Você comandou este... este lugar para cumprir suas ordens, e desencadeou algo incrível no mundo. Isso não é obra de um Vinculador do Destino. Se alguma coisa, é o trabalho de um Arconte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Você percebe que isso representa um problema para mim, certo? Minha mão escreve Vinculador do Destino [Player Name] por hábito. O esforço que será necessário para me treinar novamente para escrever Arconte... não tenho certeza se ainda tenho anos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Um palpite justo. Eu estava esperando que [url=glossary:tunon]Tunon[/url] me entregasse uma caixa de pergaminho com o selo [url=glossary:kyros]Kyros[/url]'." Ela balança a cabeça com uma risada. "Depois o que você acabou de fazer, eu teria apostado meu último anel que [url=glossary:kyros]Kyros[/url] lançaria um [url=glossary:edict]Edital[/url] muito seletivo contra você... o soberano tem outros planos em mente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Deixe-me adivinhar - você está aqui para investigar o que aconteceu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Naturalmente," ela acena com um sorriso, "[url=glossary:tunon]Tunon[/url] espera que eu dê um relatório completo. Mas hoje venho trazendo uma mensagem importante. Não um [url=glossary:edict]Edital[/url], mas mandamentos da boca do Senhor Supremo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Ninguém sabe ao certo o que fazer com você hoje em dia, [Player Name]. Todos dizem que você falou um [url=glossary:edict]Edital[/url] de Incêndio - não uma proclamação de um [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url]... [url=glossary:edict]Edital[/url] de Incêndio, sua própria conflagração mística."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Ninguém sabe ao certo o que fazer com você hoje em dia, [Player Name]. Todos dizem que você falou um [url=glossary:edict]Edital[/url] de Tempestades - não uma proclamação de um [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url]... [url=glossary:edict]Edital[/url] de Tempestades, sua própria tempestade mística."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Ninguém sabe ao certo o que fazer com você hoje em dia, [Player Name]. Todos dizem que você falou um [url=glossary:edict]Edital[/url] de Pedra - não uma proclamação de um [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url]... [url=glossary:edict]Edital[/url] de Pedra, seus próprios tremores arcanos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>Ela balança a cabeça com um sorriso. "Eu sempre soube que você seria um problema delicioso, mas eu não acho que você tinha um toque do poder Soberano em você... por que você não me contou?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Eu realmente não sabia que tinha isso em mim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Você me conhece há muito tempo, minha grandeza não deveria ser uma surpresa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Ainda não tenho certeza se esse poder é inteiramente meu, ou o que tudo isso significa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Então presumo que isso signifique que você vai se dirigir a mim como soberano agora?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Curioso." Ela bate o queixo em pensamento, olhando para você da cabeça aos pés. "Suponha que você não tenha motivos para bancar o tolo. Eu direi que seja como for que você chegou a este poder, saiba que você chamou a atenção do soberano. Então... parabéns, eu acho?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>Ela ri, balançando a cabeça para você com um sorriso. "Por um momento, fiquei com inveja desse seu poder. Então percebi, não sou eu que tenho 'ameaça ao soberano' pintado na testa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Venho com ordens diretas do soberano." Calio limpa a garganta, sua voz se torna sombria e severa. "[url=glossary:kyros]Kyros[/url] decretou duas coisas. Primeiro, o soberano exigiu que um e apenas um Arconte esteja apto a governar o Camadas. Para esse fim, os Arcontes devem estabelecer através da morte ou dominação quem é o único Arconte apto a herdar o Camadas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"E o segundo decreto?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Então o Senhor Supremo quer ainda mais guerra civil?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Tem os arcontes já foi informado disso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Então, acabei de receber permissão para matar ou subjugar o Arcontes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Todos menos um," Calio move a mão para frente e você pega um pequeno broche no estilo da insígnia [url=glossary:kyros]Kyros[/url]'.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Ah, fica melhor que isso!" Com um sorriso, ela joga um pequeno pedaço de metal em sua direção, e quando está em sua mão você o reconhece como um pequeno broche no estilo de [url=glossary:kyros]Kyros[/url]' insígnia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] decretou que você é o mais novo Arconte." Fatebinder Calio arcos com floreios exagerados.
+
+"Então os outros Arcontes agora têm ordens para controlar ou destruir você , e vice-versa." Seu rosto se transforma em um sorriso radiante. "Viu? É por isso que tento evitar [url=glossary:kyros]Kyros[/url]' atenção."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"E se não lutarmos? Por que não ignorar este pedido?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"E para ser claro, este é um comando de [url=glossary:kyros]Kyros[/url] mas NÃO um [url=glossary:edict]Edital[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Esperar... agora sou um Arconte? Eu emiti um [url=glossary:edict]Edital[/url], acho que isso me torna mais do que um Arconte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Mas eu não pedi para ser um Arconte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Se você quiser vadiar nos quartos traseiros, faça isso. Mas duvido que o outro Arcontes ignore esta ordem. Cada Arconte no Camadas recebeu rédea livre para matar os outros - nenhum é protegido por [url=glossary:kyros]Kyros[/url]' Paz. Não é mais crime Ashe ou Nerat matar você... ou o contrário."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Correto, não há [url=glossary:edict]Edital[/url] apoiando esta ordem," ela sorri um sorriso cheio de dentes, "tal incentivo dificilmente parece necessário quando a tarefa é sua própria recompensa. O Senhor Supremo apenas rescindiu [url=glossary:kyros]Kyros[/url]' Paz - os Arcontes podem matar e mutilar uns aos outros sem infringir nenhuma lei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Eu não acho que o soberano dê poder a ninguém em nenhum sentido direto. Se alguma coisa, eu aposto que [url=glossary:kyros]Kyros[/url] preferiria que todos nós fôssemos idiotas sem magia, seria mais fácil controlar dessa maneira."
+
+"Mas [url=glossary:kyros]Kyros[/url] PODE dar e receber títulos. E os títulos mudam a forma como as pessoas o veem - como elas veem sua autoridade ou o tamanho da ameaça que elas percebem que você é."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"E considerando que sua promoção veio junto com um pedido para que o Arcontes todos se matassem, com certeza parece que isso é parte promoção, parte teste. Se o outro Arcontes te matar, [url=glossary:kyros]Kyros[/url] não precisa se preocupar com o que você está se tornando. E se você está se tornando algo útil, [url=glossary:kyros]Kyros[/url] parece feliz em usar você para matar os outros Arcontes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Por que você acha que [url=glossary:kyros]Kyros[/url] quer que 'nós' Arcontes lutemos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Porque Ashe e Nerat trabalham juntos como água e óleo, então deixar que cada um governe metade do Camadas é um exercício de mau planejamento? Porque não há mais terra para conquistar depois do Camadas e [url=glossary:kyros]Kyros[/url] precisa de menos generais?" Calio dá de ombros com um sorriso corado. "[url=glossary:tunon]Tunon[/url] não está aqui, então não me importo de apontar que [url=glossary:kyros]Kyros[/url] não é exatamente um governante amoroso, e os Arcontes são peões descartáveis , não assuntos amados. A terra foi conquistada, por que não se livrar dos conquistadores?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"E eu ainda especularia que [url=glossary:kyros]Kyros[/url] odeia todos os Arcontes igualmente - e assim, em vez de nomear todos menos um para a destruição, o soberano está disposto a deixar o mais forte ganhar o direito de existir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Já ouvi o suficiente e sei o que vem a seguir. O outro Arcontes se curvará à minha vontade ou morrerá."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Obrigado por entregar a mensagem. Isso é tudo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"O primeiro passo é decidir que você não vai se curvar a um dos outros Arcontes." Calio oferece um aceno presunçoso. "Desejo-lhe boa sorte em sua próxima luta. Saiba que quando você vier para [url=glossary:bleden mark]Marca de mistura[/url] e [url=glossary:tunon]Tunon[/url], eu e o outro Vinculadores do Destino não vamos interferir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>[Reputação insuficiente] "Respeito você por não desistir desse desafio, mas me dói que isso só possa levar a sangue no Tribunal." Ela estreita os olhos, examinando você com um olhar severo. "E eu não ajudará na destruição de [url=glossary:tunon]Tunon[/url] ou [url=glossary:bleden mark]Marca de mistura[/url]. Você está sozinho com isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Com um aceno de cabeça, Calio começa a se dirigir para a saída. "Quando você governa Terrato, procure-me - se você for bem-sucedido, sei que precisarei de um novo Arconte para servir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Então eu devo ser... o Arconte dos Éditos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Não exatamente, apenas 'Arconte' por enquanto - um pouco heterodoxo, mas essa é toda a informação que recebi."
+
+"Rhogalus insistiu que deveríamos chamá-lo de 'Arconte do Camadas' - pelo menos em qualquer caso em que pudéssemos ser ouvido, já que 'Arconte dos Éditos' pode soar como difamação do soberano."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"E eu não pedi para ser uma Vinculador do Destino," Calio dá de ombros, apontando para si mesma, "mas eu faço parecer fácil."
+
+"Acho que ninguém pede para ser uma Arconte. Se alguma coisa, aqueles que tentam usar o título sem a bênção [url=glossary:kyros]Kyros[/url]' raramente sobrevivem para serem lembrados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Considerar, por um segundo, o maior mistério não é por que você está sendo considerado um Arconte, é por que você está tendo uma chance de viver."
+
+Calio dá de ombros. "Tudo que eu sabe é que o soberano raramente improvisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Por definição, um Arconte é alguém que gera magia de si mesmo e não canaliza os poderes dos outros. Desde que eu suponho que você lançou esse [url=glossary:edict]Edital[/url] sem ler as palavras preparadas de [url=glossary:kyros]Kyros[/url] - caso contrário, por que o barulho - Arconte não é totalmente incorreto para o que você é. Mas eu concordo, seu poder está... muito além do domínio das sombras, ou gelo, ou falar com árvores ou qualquer outro poder que Arcontes tenha mostrado ao longo dos tempos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Tenho uma estreita aliança com [url=glossary:graven ashe]Cinza esculpida[/url]. Esta ordem vai complicar as coisas... para dizer o mínimo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] agora tem muitos motivos para me temer. Este pedido complicará nossa aliança."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Acho que estou mais preocupado com essa promoção repentina para Arconte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Tenha em mente, a ordem é que todos devem se submeter a um Arconte ou morrer. Então você e Ashe não necessariamente terão que brigar, mas... não sei como você vai convencê-lo a se curvar a você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Oh, tenho certeza que vocês dois têm uma pequena e adorável discussão pela frente. E eu acho que nós dois sabemos que ele vai tentar convencê-lo a se submeter - e ansioso para usar você para matar o outro Arcontes, eu aposto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Vou deixá-los lutar. Estou seguro aqui no meu Pináculo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Ah, vamos, [Player Name], não me surpreenda com sua coragem e ousadia, eu posso desmaiar e despencar deste alto poleiro." Ela revira os olhos com um sorriso irônico. "Vamos esperança [url=glossary:bleden mark]Marca de mistura[/url] não está ouvindo." "Olhar, não vou lhe dizer o que fazer, mas contanto que outro Arconte está vivo, você precisará dormir com um olho aberto. Mas ei, talvez a covardia abjeta seja o seu estilo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Então... isso significa que eu finalmente vou conhecer [url=glossary:kyros]Kyros[/url], talvez ter meu próprio reino para governar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Não tenho certeza de conhecer o soberano, mas presumo que sim, isso acontecerá em tempo útil. E enquanto você pode estar brincando, esta ordem de abate vem com o prêmio implícito do governo do Camadas. Então... se você quer, lute por isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Estou mais preocupado com esta ordem para nos matarmos. E se não obedecermos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Vamos deixar uma coisa clara: não quero participar deste pequeno concurso. Fatebinder - desculpe, Arconte, eu me curvo a você. O resto de vocês, loucos, podem lutar pelo direito de governar este buraco montanhoso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Eu aceito. Obrigado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Assim mesmo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Isso é para a posteridade, então... mais formalidade, por favor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Esse poder está subindo à sua cabeça mais rápido do que eu pensava ser possível. Que assim seja. Eu, Sirin, Arconte da Canção, juro fidelidade a [Player Name]." Ela se curva com um revirar de olhos. "Feliz agora?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Assim mesmo. Tenho coisas melhores para fazer da minha vida do que jogá-la fora em algum jogo de merda. Todos vocês se divertem tentando provar quem é mais poderoso. Eu já sei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>Sirin se curva com um movimento gracioso de seu braço e uma reverência. "Só não deixe Nerat se safar com um piscar de olhos e uma rendição educada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"E agora que tenho esse poder, outros me temerão... e por boas razões."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"E eu tenho certeza que o Arcontes preferiria destruir o que eles temem e não entendem. Falando nisso..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"E o Tribunal? Você já ouviu o que [url=glossary:tunon]Tunon[/url] e [url=glossary:bleden mark]Marca de mistura[/url] acham disso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Como de costume, [url=glossary:tunon]Tunon[/url] tem o alcance emocional de pedra-pomes, mas [url=glossary:bleden mark]Marca de mistura[/url] parecia quase tonto - acho que a velha sombra já está colocando nomes em suas adagas. Eu queria saber se [url=glossary:bleden mark]Marca de mistura[/url] ouviria esta ordem e prontamente esfaquearia [url=glossary:tunon]Tunon[/url]... mas não, parece que o Arconte das Sombras está feliz em servir [url=glossary:tunon]Tunon[/url]. Faz sentido, eu nunca soube que a velha sombra ansiava por esse tipo de poder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Nó em cascata 173</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Uma pergunta que eu e os outros Pastas estávamos fazendo... você pode fazer isso de novo? Nunova acredita em você, outro que permanecerá sem nome assume a postura mais cínica de que o Soberano tem uma mão 'tão longe na sua bunda que ela pode fazer marionetes na sua boca' e você não poderia lançar um segundo [url=glossary:edict]Edital[/url] se você tentasse." Ela te avalia da cabeça aos pés. "Eu, acho que você tem isso em você. Ou pelo menos gosto da ideia de proclamar um [url=glossary:edict]Edital[/url] seu algum dia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Tenho algo em mente para [url=glossary:the voices of nerat]o Vozes de Nerat[/url]. Vou emitir um [url=glossary:edict]Edital[/url] na Cacophony no [url=glossary:stone sea]Mar de Pedra[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Acho que [url=glossary:graven ashe]Cinza esculpida[/url] e sua legião pode desfrutar de um [url=glossary:edict]Edital[/url] em sua fortaleza de Iron Hearth no [url=glossary:blade grave]Sepultura de Lâminas[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Agora que você mencionou... a curiosidade exige que tentemos fazer você proclamar um [url=glossary:edict]Edital[/url] meu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Tenho certeza de que posso lançar outro [url=glossary:edict]Edital[/url], mas não tenho certeza se quero jogar de forma imprudente com esse poder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Ah as camadas estão prestes a ficar muito mais interessantes com essa atitude." Calio acena com um sorriso satisfeito, esfregando a barriga. "Já posso sentir o gosto de suas lamentações."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Isso soa... extraordinariamente sábio." Eb solta um longo suspiro. "Acho que você pode e deve usar esse poder para parar seus inimigos, mas à medida que você cresce em poder, seu Editais pode permanecer por mais tempo. Seria uma pena deixar um desastre arcano que nos assombra muito depois que o problema for resolvido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Você está," a mão dela corre na frente da boca, "sério? Você me deixaria fazer isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Sim-sim! Amarre palavras à terra e ao céu como uma armadilha com isca para [url=glossary:disfavored]Desfavorecido[/url]! Deixe os blindados serem pegos, gritando nas mandíbulas de [url=glossary:edict]Edital[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Certo. Qual é o pior que poderia acontecer? Para nós?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>[Para Lantry.] "Leva um ditado, por favor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Claro, pegue sua pena."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Um passo de cada vez. Vou tentar essa coisa [url=glossary:edict]Edital[/url] novamente quando estiver pronto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Pensando bem, esqueça que eu perguntei. Conheço você há tanto tempo e sua ascensão tão repentina que é fácil para mim esquecer minha posição."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Considerando o terrível dano que você causará se estragar o que está fazendo, não posso culpá-lo por ser cauteloso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Por que tenho a sensação de que essas mesmas palavras foram ditas em voz alta antes de todos os tipos de erros terríveis?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>Preparando pena e pergaminho, Calio se prepara para escrever suas palavras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>Pena na mão antes de terminar seu pedido, Lantry pega suas tintas vermelhas mais ousadas. "Você quis dizer, 'Lantry, por favor grave meu segundo [url=glossary:edict]Edital[/url] para todo o tempo e memória,' certo? De bom grado!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Por que tenho a sensação de que essas mesmas palavras foram ditas em voz alta antes de todos os tipos de erros terríveis?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>[Faça uma proclamação contra a [url=glossary:blade grave]Sepultura de Lâminas[/url] e a [url=glossary:disfavored]Desfavorecido[/url] fortaleza de Lareira de Ferro.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>[Faça uma proclamação contra a sede [url=glossary:stone sea]Mar de Pedra[/url] e a Refrão' Cacofonia.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>[Aborde uma proclamação contra [url=glossary:vendrien's well]Poço de Vendrien[/url].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>[Proclame um [url=glossary:edict]Edital[/url] de Sombras.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>[Faça uma proclamação contra Refúgio e o acordo de [url=glossary:lethian's crossing]A travessia de Lethian[/url].]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>Ela escreve suas palavras com uma mão obediente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>[Proclame um [url=glossary:edict]Edital[/url] de Incêndio.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>[Proclame um [url=glossary:edict]Edital[/url] de Tempestades.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>[Proclame um [url=glossary:edict]Edital[/url] de Pedra.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>[Proclame um [url=glossary:edict]Edital[/url] de Maldição.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>Com o [url=glossary:edict]Edital[/url] completo, Calio se aproxima da borda do Pináculo e, com o máximo de projeção que sua voz consegue reunir, lê em voz alta o seu [url=glossary:edict]Edital[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>... e nada acontece. Calio abaixa os ombros com um gemido desapontado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Valeu a pena tentar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Bem, funciona quando [url=glossary:kyros]Kyros[/url] escreve. Talvez haja algum truque que eu ainda não tenha aprendido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"Tenho certeza de que minha voz é um requisito essencial. Ajuda que esta escultura aqui em cima do Pináculo ressoe o som."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Mas seu poder certamente funcionou quando você usou sua própria voz! Assim, pelo menos sabemos que sua voz é uma parte essencial para invocar seus poderes. Ou pelo menos, até agora. Eu imagino que [url=glossary:kyros]Kyros[/url] falou um grande número de Editais antes de aprender a escrevê-los para outros proclamarem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>Ele escreve suas palavras com caligrafia deliberada e graciosa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Qualquer maneira, é uma honra fazer parte do experimento." Ela rola a proclamação do pergaminho em sua bolsa. "Eu digo que tentamos isso de novo outro dia. Aprenda mais sobre o que você pode fazer com seu poder, e algum dia eu serei seu arauto da desgraça. Será um encontro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>Ela limpa a garganta, sua voz ficando sombria. "Você euEu tenho que lidar com eles também... e temo muito como isso vai acabar. Imagino que [url=glossary:tunon]Tunon[/url] seja leal demais para se curvar a você, e [url=glossary:bleden mark]Marca de mistura[/url] orgulhoso demais para aceitá-lo como seu melhor." Ela acena silenciosamente por um longo momento. "Não há como isso terminar bem para alguns de nós."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Na verdade estou um pouco aliviado. Embora eu aprecie a ideia de ser seu prenúncio de uma morte inegociável, não tenho certeza se ser o condutor de forças tão misteriosas é algo que eu deveria levar tão levemente."
+
+"Então, novamente, talvez suas proclamações passadas sejam parte do que coloque a semente desse poder em você." Ela bate o queixo em pensamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Este não é o único Pináculo que... despertou, por falta de uma palavra melhor, para a sua presença, certo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Correto, existem outros Pináculos que chamo de meus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Talvez se eu fosse controlar mais Pináculos, poderia fazer ainda mais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Meu pensamento exatamente. E mesmo que não seja esse o caso, quando você reivindica um Pináculo, você envia uma mensagem a todos - uma reivindicação à terra que poucos podem contestar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Sim, eu controlo outro Pináculo além deste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>Nó do banco 221</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"Considere uma viagem para o [url=glossary:blade grave]Sepultura de Lâminas[/url] - ou Robusto, como costumava ser chamado - é onde o Pináculo do Oceano está localizado. Até onde eu sei, você não reivindicou... nem mais ninguém... ainda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"No norte alcances do [url=glossary:stone sea]Mar de Pedra[/url], você encontrará o Pináculo da Aurora. Acho que teríamos visto um show de luzes se alguém o tivesse reivindicado. Esse alguém deveria ser você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"O Pináculo mais a leste dos Tiers é o Pináculo do Amanhecer, no [url=glossary:stone sea]Mar de Pedra[/url]. Aposto que o link que você tem com este Pináculo funcionará lá... não custa tentar, não é?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Metade do motivo [url=glossary:lethian's crossing]A travessia de Lethian[/url] foi escolhido para a [url=glossary:forge-bound]Forge-Bound[/url] fundição foi por causa do assentamento remanescente na sombra mágica de Pináculo do Pôr do Sol . A notícia teria se espalhado pelo Tribunal se fosse reivindicado... se alguém vai aproveitá-lo, por que não você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>Com um aceno de cabeça, Calio começa a se dirigir para a saída. "Quando você governa Terrato, procure-me - se você for bem-sucedido, sei que precisarei de um novo Arconte para servir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Nó do banco 227</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Bem, eu recomendo que você faça uma viagem para o [url=glossary:stone sea]Mar de Pedra[/url]. Existem dois Pináculos - o Aurora Spire no norte, o Dawning Spire no leste - que, até onde sei, ainda não foram reivindicados."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

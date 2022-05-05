@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\02_cv_lc_merchant_helina</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Bom dia meu amigo, posso lhe interessar em minhas mercadorias? Tenho todos os tipos de mercadorias que sei que você precisa!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Mostre-me o que você tem à venda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Deixar] "Voltarei mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Ela dá um tapinha na mão em seu cinto de anel. "Vamos ver se encontramos algo que você gosta..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"O que você sabe sobre Gino?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Gino? Por que você quer saber sobre aquele réprobo?" Helina dá de ombros. "Foi-me dito - por alguém que viu os corpos - que Gino matou os outros pescadores da aldeia para que ele pudesse se levantar. E que ele pagou o exército de ocupação para fazer vista grossa!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Quem viu os corpos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"O irmão mais novo de Gino, Alagan, foi quem me contou sobre os corpos. Ele tem contado às pessoas sobre isso na esperança de que alguém venha à cidade e faça algo a respeito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Você poderia me dizer alguma coisa sobre esse selo? Encontrei em [url=glossary:vendrien's well]Poço de Vendrien[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Desculpe, não posso ajudá-lo. Eu nunca vi nada assim antes..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Seu rosto endurece quando ela o reconhece, mas quando ela fala, seu tom é tão acolhedor quanto antes. "Fatebinder! Eu mal esperava você aqui no Cruzando. Presumi que o efeito do seu [url=glossary:edict]Edital[/url] o manteria afastado. Posso ajudá-lo com alguma coisa hoje?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Fatebinder!" Ela pega sua mão e a segura entre as dela. "Palavra de suas ações se espalhou até esta pequena loja. O que traz alguém de tão imenso poder aqui? Eu posso ajudá-lo com alguma coisa hoje?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Quer dar uma olhada nas minhas mercadorias?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

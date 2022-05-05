@@ -1,0 +1,289 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\05_cairnplains\05_cv_pghg_adjudication_settlers</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>51</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Cumprimentos, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ela disse Vinculadora do Destino? Você é um Fatebinder de [url=glossary:tunon]Tunon[/url]?! Por favor, você deve me emprestar seu ouvido!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Cala a boca, panaca. O Vinculador do Destino não quer saber de um verme fedido e cheio de merda como você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Deixe-o falar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Olhe para o outro lado.] "Tudo parece estar em ordem aqui. Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Vinculador do Destino, solicito sua adjudicação formal nestes procedimentos. Certamente, eu vou perder minha vida se você não interceder." O refugiado sujo se ajoelha, cabeça baixa e cabelo oleoso jogado para frente enquanto ele implora.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>O coro mulher acena com a cabeça de forma pervertida, lábios torcidos em auto-satisfação. "Seguro viagens, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Ela encolhe os ombros enquanto limpa a parte plana de sua lâmina. Ela o embainha com um balanço fácil e deslizante e chuta para trás nos calcanhares. "Eu tentei poupá-lo."
+
+Não está totalmente claro se o aviso dela é para você ou para o refugiado ainda ajoelhado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>homem não espera para descobrir. Suas palavras saem rapidamente, estimuladas por sua ansiedade e medo, agora que ele conquistou todo o peso de sua atenção. 
+
+"É verdade que estamos deslocados Tiersmen. Conseguimos alguma aparência de sobrevivência, vivendo em do Azure ruínas após as [url=glossary:edict]Edital[/url]." 
+
+Ele cerra os punhos nas dobras de suas vestes esfarrapadas, os restos descoloridos de Azure seda, para esconder seus dedos trêmulos. "Esse senhora e seus compatriotas no Refrão nos encontraram, mas não resistimos. Nós nos rendemos imediatamente e nos comprometemos - a [url=glossary:tunon]Tunon[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Não deixe que eles engane você. Os idiotas doninha só querem que nós os mandemos junto. Eles sabem que não temos mão de obra nem recursos para enviá-los pelas rotas de abastecimento para [url=glossary:bastard city]Cidade bastarda[/url], então eles esperam escapar." 
+
+Ela amplia sua posição e inclina o queixo corajosamente, apoiando sua decisão. 
+
+"Se eles não se comprometerem com o Vozes, não teremos utilidade para eles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Então não destrua esta última esperança." O nobre abaixa a cabeça. Seus dedos tremem enquanto ele varre seu cabelo sujo e emaranhado para o lado para descobrir seu pescoço. "Seja misericordioso, eu imploro - seja rápido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"O que você disser, Vinculador do Destino."
+
+A guarda encolhe os ombros e arrasta o calcanhar da bota contra o terreno pedregoso e pedregoso. É claro que ela está irritada, mas ela não pode contestar uma reivindicação pelo interesse de seu próprio Arconte. E, independentemente, o resultado final será o mesmo. Ela pode não ter mais direito aos corpos, mas eles pertencerão ao Refrão de qualquer maneira. 
+
+"Mas eu poderia ter me divertido com este. Ele é todo macio e suave e só pede para ser quebrado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Deixe-os escolher se querem se juntar ao Refrão. Aqueles que se recusam são livres para ficar e se estabelecer na cidade - sem medo por sua segurança."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Mate o sangue-regente e recrute o resto. Qualquer um que recusar seu chamado às armas pode ser morto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Envie os refugiados para Forte de Nerat para o devido interrogatório. Se eles vão se juntar ao Coro ou morrer, será decidido lá."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Liberte este junto com seus dois assistentes. Faça o que quiser com o resto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Não tenho nada para lhe pagar, a não ser minha eterna gratidão. Realmente estou em dívida com você, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Faça o seu caminho para [url=glossary:vendrien's well]Poço de Vendrien[/url] se você quiser sobreviver. E não deixe o Vinculador do Destino de Guerra saber de você, ou ele vai caçar você pelo resto de seus dias, Principe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Tenho certeza de que você encontrará uma maneira de me retribuir, eventualmente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Eu vou, Vinculador do Destino. Eu prometo em meu nome." Ele acena para você enquanto se levanta, limpando a poeira de seus joelhos, e seus atendentes correm para ele. Os três conspiram em voz baixa sobre seus planos futuros enquanto você se afasta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Você fala muito bem para um plebeu. Você também é bastante instruído sobre as leis [url=glossary:kyros]Kyros[/url]'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Suas vestes estão desbotadas, mas profundamente azuis, seu cabelo sujo, mas loiro. Suas mãos nunca trabalharam ferramenta nem arma. Algo que você queira me mostrar antes que eu tome minha decisão final?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"De fato, eu sou." Ele lambe os lábios secos e olha para o lado, considerando. Ele escolhe suas próximas palavras com cautela. "Meus atendentes e eu podemos ser úteis ao Tribunais. Meu intelecto não seria desperdiçado. Posso trazer-lhe uma riqueza de conhecimentos sobre a história e os costumes do Azure. Sua magia e leis. Sua linhagem real..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Por um momento, o jovem não diz nada. Seus atendentes protestam com vozes apressadas e abafadas, mas novamente ele acena para eles. 
+
+"Quer saber se eu tenho isso?" ele pergunta finalmente enquanto mergulha dois dedos atrás da gola de seu manto e revela um vislumbre de uma insígnia retorcida e cicatrizada sob sua clavícula. [url=lore:Insignia_Azure_Royal]É a marca de um Azure real.[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Tomei minha decisão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>O refugiado acena com a cabeça e engole em seco. "Então por favor, não me deixe esperando em torturante espera. Qual será o meu destino?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>jovem ergue o rosto em um olhar desafiador. Ele está realmente imundo e fedendo, os lábios secos e rachados, a pele cheia de bolhas, rajadas de lama e descascando. Mas seu corpo é esguio, sua postura rígida e suas mãos são notavelmente lisas - sem calos. 
+
+"Eu não vou me calar. Temos direitos - sob [url=glossary:kyros]Kyros[/url]' paz."
+
+A mulher ergue o fio da espada para golpear. Dois refugiados corpulentos e igualmente sujos correm para defender o homem mais fraco, mas ele os detém com uma única mão levantada, em vez disso, recebe o golpe com força no rosto.
+
+Sua cabeça vira para o lado e ele faz uma careta, cuspindo sangue antes de fala novamente. "Vinculador do Destino, por favor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Envie os refugiados para [url=glossary:bastard city]Cidade bastarda[/url] para servir dentro do Tribunais. Eles se comprometeram com [url=glossary:tunon]Tunon[/url] e, portanto, têm o direito de viver sob [url=glossary:kyros]Kyros[/url]' Paz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Obrigado, Vinculador do Destino." O refugiado enterra o rosto nas mãos, os ombros tremendo com seu alívio esmagador. "Você não vai se arrepender."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Vá até Sentinel Stand se quiser sobreviver. E não deixe o Vinculador do Destino de Guerra saber de você, ou ele vai caçar você pelo resto de seus dias, Principe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>O guarda da horda se inclina mais perto, o rosto franzido curiosamente. "O que é isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Supondo que ele tenha essa marca legitimamente," Lantry se inclina com um sussurro, "que o marca como um retentor de Azure realeza. É seguro assumir que ele é alfabetizado, educado e provavelmente era muito rico até alguns anos atrás."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Uma marca de fidelidade?" Eb's pergunta é calma, sua voz muda. "Alguns anos atrás, esse sujeito provavelmente era uma figura próspera na Azure corte real. E agora ele está aqui... um longo caminho para cair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Nó do banco 37</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Blefe] "Isso é nada para você se preocupar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"É algo incrivelmente raro e intrigante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Ela faz uma careta, irritada por ser excluída. Mas ela é rápida para descartá-lo, chutando para trás mais uma vez em seus calcanhares. "Tch, tudo bem. Guarde seus segredos. Quem poderia imaginar o que se passa na cabeça de um Vinculador do Destino de qualquer maneira?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Bem?" Ela espera, carrancuda com impaciência por um curto espaço de tempo antes de retroceder mais uma vez nos calcanhares. "Tch, tudo bem. Guarde seus segredos. Quem poderia imaginar o que se passa na cabeça de um Vinculador do Destino de qualquer maneira?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>A guarda balança a cabeça, incrédula. "Desde que não haja pele nas minhas costas. Quero dizer isso - não será a minha vida pela deles. Eles escapam, e com certeza avisarei a todos que foi um Vinculador do Destino que os soltou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"E por que devo fazer isso?" O guarda recusa sua ordem. "Não, acho que não gostaria de mandá-los em seus caminhos alegres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Atravesse meu dever como Vinculador do Destino, e eu o cortarei, sem piedade e sem arrependimento, através da autoridade concedida em mim por [url=glossary:kyros]Kyros[/url] e [url=glossary:tunon]Tunon[/url] o Adjutor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Você não tem classificação para questionar um Vinculador do Destino. Cumprir ou transmitir o testemunho de suas ações antes de [url=glossary:tunon]Tunon[/url] de Tribunal em [url=glossary:bastard city]Cidade bastarda[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>A guarda balança a cabeça, incrédula. "Desde que não haja pele nas minhas costas. Quero dizer isso - não será a minha vida pela deles. Eles escapam, e com certeza avisarei a todos que foi um Vinculador do Destino que os soltou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Sua melhor esperança é se estabelecer aqui se quiser sobreviver. E não deixe o Vinculador do Destino de Guerra saber de você, ou ele vai caçar você pelo resto de seus dias, Principe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Faça o seu caminho para [url=glossary:lethian's crossing]A travessia de Lethian[/url] se você quiser sobreviver. E não deixe o Vinculador do Destino de Guerra saber de você, ou ele vai caçar você pelo resto de seus dias, Principe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>guarda inclina a cabeça para o lado, estudando o refugiado esquelético à sua frente. Devagar, ela desembainha sua espada. "Um regente-sangue conseguiu se agarrar por tanto tempo?"
+
+Incomodado, ela tocou uma das solas de seus pés descalços, fazendo-o recuar. "Eu poderia ter me divertido com este. Ele é todo macio e suave e só pede para ser quebrado. Talvez eu fique com ele um pouco."
+
+Mas então ela balança a ponta de sua espada, cortando suavemente a cabeça do pescoço dele.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Nó de script6</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Nó de script6</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Nó de script6</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Nó de script6</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>[Blefe] "Deixe pra lá e eu te devo um favor. Hum? Não é um mau negócio, eu acho."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\00_recruits\00_cv_library_vendor_eirena</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Loja fechada. Voltar mais tarde?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Os negócios estão ótimos, Vinculador do Destino. Algo que eu possa oferecer a você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Mostre-me o que você tem à venda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Deixar] "Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Gostaria que os negócios fossem melhores, mas o que você pode fazer?" Ela suspira. "Necessidade alguma coisa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Tenho pergaminhos, pergaminho, uh... pergaminho?" Ela balança a cabeça. "Isso é realmente mais interessante quando você começa a ler. Quer dar uma olhada?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Fatebinder! Que sorte que nos encontramos aqui. Quero dizer, quais são as chances?" A [url=glossary:sage]Sábio[/url] cruza os braços e examina a Pináculo com uma risada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Odds? Este é o meu Pináculo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"O que você está fazendo aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Ela acena para você. "Eu quis dizer isso retoricamente. Estou mais comemorando minha boa sorte por ter encontrado você e por termos essa oportunidade de nos ajudarmos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Ela gesticula para uma mochila pesada. "Eu escapei do [url=glossary:vellum citadel]Cidadela de Velino[/url] com uma riqueza de pergaminhos e tomos, todos eles tão intocados e preservados com amor como no dia de sua escrita."
+
+"Você me parece alguém que precisa de arcano conhecimento. Eh? Você vê onde eu estou indo com isso? Você desliza alguns anéis em minha direção, uma folha de runas perdidas flutua em sua direção, e nós seguimos nossos caminhos separados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Aponte para a Biblioteca.] "Mas eu já tem um monte de pergaminhos. Bem ali."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Vamos dar uma olhada em seus produtos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Certo que-" Ela se interrompe e tropeça ao ver as prateleiras altas. 
+
+"Nós vamos, merda. Como eu sente falta disso?" Ela olha ao redor com uma sobrancelha franzida. "Como eu ainda subir aqui de qualquer maneira? Droga isso... eu sabia desde o início que isso era um erro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Aqui eu pensei que um Vinculador do Destino precisaria dos meus serviços - como eles são - mas você foi e instalou sua maldita biblioteca." Ela aperta a ponta do nariz e suspira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Você ainda pode... tentar me vender alguma coisa. Você nunca sabe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Deixar] "Melhorar sorte da próxima vez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Um olhar de esperança cautelosa vem sobre ela. "Você acha? Nós vamos, venha dar uma olhada, então!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Deixar] "Prefiro não. Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Tenho pergaminhos, pergaminho, uh... pergaminho?" Ela balança a cabeça. "Isso é realmente mais interessante quando você começa a ler. Quer dar uma olhada?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

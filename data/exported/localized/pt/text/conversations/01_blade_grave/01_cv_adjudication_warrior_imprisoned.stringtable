@@ -1,0 +1,370 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\01_cv_adjudication_warrior_imprisoned</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>72</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Agradeça aos Arcontes você veio. Eu poderia usar uma mão para sair dessas correntes." Ele muda de direção para sacudir suas algemas com um sorriso de desculpas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Fatebinder! Você voltou para ouvir meu apelo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Deixe o homem falar. Qual parece ser o problema?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Suponho que essas correntes estão lá por um motivo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Mas você não deve temer. Como você pode ver, sou tão dócil quanto um tronco caído. Fui condenado por uma escolha impulsiva, mas dificilmente um crime. Deixe-me contar minha história."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Eu estava em Azure durante a conquista. Quando [url=glossary:cairn]Cairn[/url] se declarou inimigo de [url=glossary:kyros]Kyros[/url], nossas forças entraram em pânico. Não sabíamos em quem poderíamos confiar. Quando um Arconte fica desonesto, você pode contar com os apoiadores dele entrando na fila."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Certifique-se de que não. Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Um dos Tremedores de terra estava agindo de forma engraçada, como se tivesse algo em mente. Eu o segui de volta à tenda do comandante e o peguei vasculhando suprimentos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Comece do início."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Absolutamente não. Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Tranquilo, prisioneiro! O Vinculador do Destino não precisa ser incomodado por pessoas como você. Minhas desculpas, senhor. Não acontecerá novamente."</DefaultText>
+      <FemaleText>"Tranquilo, prisioneiro! O Vinculador do Destino não precisa ser incomodado por pessoas como você. Minhas desculpas, senhora. Não acontecerá novamente."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Este é um assassino. Ele quebrou [url=glossary:kyros]Kyros[/url]' Paz, e [url=glossary:graven ashe]Cinza esculpida[/url] julgou-o de acordo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ah, obrigado! Agradecer você!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Eu o confrontei, discutimos, brigamos e..." O soldado pigarreia. "Eu o matei. Não vou medir palavras - pensei que ele era um traidor e agi de acordo. Mais tarde, o Tremedores de terra se mostrou leal... mais ou menos. Acontece que o homem que eu matei estava apenas procurando por seu tinteiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Continue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Pensando bem, não estou interessado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Esta conta está correta?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Então o que você quer de mim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Até onde eu sei. Pode ter havido alguma investigação sobre as lealdades Tremedores de terra' na época, mas não teve relação com esse conflito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Quero apelar da minha decisão. Pela letra da lei, [url=glossary:graven ashe]Cinza esculpida[/url] tomou a decisão certa. Eu não contesto isso. Mas o espírito da lei [url=glossary:kyros]Kyros[/url]' é outra questão. Eu estava derrubando um traidor suspeito, não atacando com raiva. Essas coisas acontecem na guerra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Vocês dois concordam com meu envolvimento neste caso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>O soldado parece pesar suas opções. "Eu não aprovo adivinhar o julgamento de [url=glossary:graven ashe]Cinza esculpida[/url]... decisão digna."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Assim como eu. Obrigado por me ouvir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Havia algum outro motivo para suspeitar do Earthshaker?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Você teve algum histórico de comportamento errático?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Estou pronto para tomar minha decisão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Fiquei de olho nele durante toda a campanha, mas não... nada substancial que eu pudesse citar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Posso falar sobre isso. A verdade é que estávamos desconfiados dos magos desde que a conquista começou. Eles pareciam mais à vontade em um livro do que em um campo de batalha, e eu nunca confiei em alguém que soubesse ler."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Nenhuma. Passei a maior parte das minhas batalhas apoiando a falange pela retaguarda. É um dever importante. Mesmo que não seja a linha de frente, muitos bons soldados dependem de você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Se alguém na parte de trás mostra sinais de rachaduras - talvez de muitos golpes na cabeça - alguém sempre percebe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Excelente. Obrigado por dedicar um tempo para avaliar meu caso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Nem mais nem menos do que eu esperava. Acho que vou cumprir minha sentença e ganhar meu caminho de volta para a legião."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Eu mantenho a decisão de [url=glossary:graven ashe]Cinza esculpida[/url]. Você permanecerá um prisioneiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Ashe estava errada. Essas coisas acontecem na guerra. Você pode retornar aos seus deveres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Você pode voltar para a batalha... na frente da falange. Somente sua força o redimirá."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Pensando bem, deixe-me reconsiderar minhas perguntas anteriores."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Obrigado, Vinculador do Destino. Eu sei que Ashe aprecia o par extra de olhos para confirmar seu julgamento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Posso retornar à falange? Maravilhoso novidades! Outro chance de me redimir e recuperar o orgulho do [url=glossary:disfavored]Desfavorecido[/url]!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"[url=glossary:graven ashe]Cinza esculpida[/url] não vou agradecer por isso... mas vou cumprir." Ele liberta o prisioneiro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Eu... não sei dizer se isso é uma promoção ou uma sentença de morte, mas aceito mesmo assim! Isso é um destino melhor para mim do que essas correntes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Eu só posso imaginar como [url=glossary:graven ashe]Cinza esculpida[/url] vai se sentir sobre você interpretar as decisões dele, mas pelo menos você colocou esse desgraçado para trabalhar. Acho que isso conta para alguma coisa." Ele desamarra o prisioneiro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Claro. Não tenha pressa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Quanto você pagaria pela sua liberdade?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Você está falando sério? Quer dizer, eu peguei minha cota de anéis durante a conquista, mas não acho que [url=glossary:graven ashe]Cinza esculpida[/url] me daria boas-vindas se eu comprasse meu caminho de volta para o serviço dele..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>[Aceite anéis.] "Deixe-me me preocupar com [url=glossary:graven ashe]Cinza esculpida[/url]. Você retorna para sua unidade imediatamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Ponto justo. De volta às minhas perguntas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Isso é uma piada obscena? Este homem é meu prisioneiro e um assassino! A legião saberá de sua traição."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Agradeço sua compreensão, Vinculador do Destino. Passei muito tempo longe da falange."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Prefiro ficar do lado certo da lei. Peça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Você se deu ao trabalho de considerar meu pedido?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Vou precisar de tempo para considerar isso. Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Explique-me novamente, desde o início."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Tenho algumas perguntas antes de tomar minha decisão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Claro. Vá em frente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Acha que poderia afrouxar esses laços?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Nó de script 61</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Acho que vou ficar aqui, então."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Eu não gosto disso, mas parece que não tenho escolha." Ele desamarra o prisioneiro e olha para você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Esses títulos são realmente irritantes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Sinto falta da vanguarda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Nó do banco 66</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Prefiro lidar com isso em outro momento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Nós vamos, suponho que não há mal nenhum nisso, então." O soldado acena para um cinto de anéis pendurado em sua cintura, dos quais você o alivia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Deixe-me voltar a isso mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>soldado fica mais alto na sua presença. "Vocêe não foi nada senão um amigo para nossa legião. [url=lore:conq_empty]Nós comemos bem durante a Robusto campanha[/url] depois que você puniu aqueles Refrão ratos por roubo." 
+
+"Desculpe a perturbação. Não queria incomodá-lo na tarefa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Vá em frente, então. Apresente seu testemunho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Não estou interessado. Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Verdade. Em tempos de estresse e ataque implacável, contamos com nossa infantaria de apoio para nos ajudar a manter as linhas. A glória nem sempre é conquistada na frente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Esta é uma perversão da Geral justiça... se Ashe quisesse que este soldado fosse disciplinado, ele teria decidido de acordo. Ele removeu este homem do serviço por um motivo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Defendendo o Grande General justiça é um movimento digno. Você mostra grande honra ao Arconte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Esta é uma perversão da Geral justiça... se Ashe quisesse que este soldado fosse disciplinado, ele teria decidido de acordo. Ele removeu este homem do serviço por um motivo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Agora que é uma solução digna para seus problemas. Uma pena que você acabou sendo um Fatebinder e não um chefe de gangue Refrão. Você tem instinto para isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

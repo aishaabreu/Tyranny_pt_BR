@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\0113_bs_sentinelstand_firstview</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Nó aleatório 1</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Posto de Sentinela... Ainda me lembro quando o [url=glossary:edict]Edital[/url] atingiu este lugar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Então esta já foi Stalwart's maior fortaleza. [url=glossary:kyros]Kyros[/url] gosta de enviar uma mensagem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"É o covil humano mais forte em Robusto-terras. Está rachando, desmoronando e velho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Vejo que [url=glossary:kyros]Kyros[/url]' ira ainda rasga a grande fortaleza de Posto de Sentinela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"De joelhos da maneira mais brutal possível. O destino final de qualquer um que desafiasse [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Faz um tempo desde a última vez que cheguei a Robusto. Toda aquela luta [url=glossary:disfavored]Desfavorecido[/url] levou a isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

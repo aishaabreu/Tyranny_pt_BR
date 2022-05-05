@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\missives\msv_tunon_act3_calltotrial</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Player Name], 
+
+Retorne ao [url=glossary:bastard city]Cidade bastarda[/url] de uma vez. Este tribunal recebeu a notícia de que tanto o [url=glossary:scarlet chorus]Coro Escarlate[/url] quanto o [url=glossary:disfavored]Desfavorecido[/url] cometeram atos de agressão ao meu representante. [url=glossary:graven ashe]Cinza esculpida[/url] e [url=glossary:the voices of nerat]the Vozes de Nerat[/url] forçaram minha mão e agora a hora do julgamento se aproxima com um vento rápido. Eu gostaria que você apresentasse suas descobertas perante o tribunal imediatamente. É fundamental que decidamos qual dos Arcontes - se houver - governará o Camadas.
+
+- [url=glossary:tunon]Tunon[/url] o Árbitro, Arconte da Justiça</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Player Name], 
+
+Retorne ao [url=glossary:bastard city]Cidade bastarda[/url] de uma só vez. Este tribunal recebeu a notícia de que atos de agressão foram perpetrados contra meu representante por membros do exército [url=glossary:kyros]Kyros[/url]'. Isso é inaceitável e o ataque deles agora forçou minha mão. A hora do julgamento se aproxima com um vento forte. Eu gostaria que você apresentasse suas descobertas perante o tribunal imediatamente. É fundamental que decidamos qual dos Arcontes - se houver - governará o Camadas.
+
+- [url=glossary:tunon]Tunon[/url] o Árbitro, Arconte da Justiça</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

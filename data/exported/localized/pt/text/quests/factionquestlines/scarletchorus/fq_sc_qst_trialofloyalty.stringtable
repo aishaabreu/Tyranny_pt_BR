@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\factionquestlines\scarletchorus\fq_sc_qst_trialofloyalty</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Prova de Lealdade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vá para [url=glossary:lethian's crossing]A travessia de Lethian[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Conheça a Harchiand's contato.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Retorno a Harchiand Bronze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Relatório para Sete Dedos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Harchiand Bronze é de Nerat olhos e ouvidos em [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Os relatórios provenientes dessa área do Camadas diminuíram muito. Fale com Harchiand Bronze sobre sua lealdade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Viaje para [url=glossary:lethian's crossing]A travessia de Lethian[/url] e fale com Harchiand Bronze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Harchiand diz que tem um contato que pode esclarecer quaisquer dúvidas sobre sua lealdade a [url=glossary:the voices of nerat]the Vozes de Nerat[/url]. Conheça o contato dele no Arvoredo Velho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Confrontar Harchiand em [url=glossary:lethian's crossing]A travessia de Lethian[/url] sobre o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] que te emboscou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Retorne a Seven Toes in Cacophony e conte a ela sobre o Harchiand Bronze destino.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você determinou que Harchiand Bronze permanece fiel a [url=glossary:the voices of nerat]o Vozes de Nerat[/url] e o [url=glossary:scarlet chorus]Coro Escarlate[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você matou Harchiand por ser desleal a [url=glossary:the voices of nerat]o Vozes de Nerat[/url] e o [url=glossary:scarlet chorus]Coro Escarlate[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>[url=glossary:the voices of nerat]As vozes de Nerat[/url] não questiona mais Harchiand's lealdade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Você traiu seus aliados e não pode mais completar esta tarefa.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\01_cv_elia_fight</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Porra de porco sem mãe! Quando estou feito com você, as moscas não terão um lugar para pousar em sua pele miserável!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>O portão se fecha, cortando você do [url=glossary:unbroken]ininterrupto[/url] capitão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Você só está tornando isso mais difícil para você mesmo, Elia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Dê-me o artefato e eu o pouparei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"São todos [url=glossary:unbroken]ininterrupto[/url] iniciantes desrespeitosos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Na realidade, estou tornando as coisas mais difíceis para você. Vá embora e diga ao seu soberano para enfiá-lo!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Já ouvi tudo isso antes. Isso só vai acabar de uma maneira, mas isso não significa que vou facilitar para você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Tenho certeza de que é fácil nos simplificar quando apenas estivemos em guerra. Uma pena que você nunca terá a chance de perceber o quão estúpido você soa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Ela não é a melhor? Eu gostaria que pudéssemos mantê-la, mas ela não parece ser do tipo que pode ser capturada viva."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\03_burninglibrary\0301_cv_dis_merchant</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Um jovem de roupas chamuscadas e esfarrapadas percebe sua aproximação e saúda com um gesto estranho. "Não, não é isso?" Ele deixa cair o braço para o lado em derrota. "Peço desculpas Vinculador do Destino, sou relativamente novo em tudo isso." Ele tenta mascarar a falha repentina em sua voz limpando a garganta. "Fui enviado de Iron Hearth para atuar como intendente aqui em..." Ele olha em volta para o estado da terra queimada ao seu redor. "...Seja qual for o lugar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Deixe-me ver suas mercadorias."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Deixar]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Como você entrou para o Ashe serviço?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Seu rosto se inclina para baixo. "Onde eu vem do Norte não temos muito. Meu irmão me chamou para me juntar a ele em Lareira de Ferro, servir os soldados de lá e ganhar algum tipo de salário." Seus olhos começam a vacilar em uma cascata desanimada em direção a um olhar que repousa a seus pés. "Quando cheguei, ele havia sido enviado para servir a guarnição em [url=glossary:vendrien's well]Poço de Vendrien[/url] Cidadela. Tenho certeza de que você está bem ciente do que aconteceu lá."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Ensine a ele o [url=glossary:disfavored]Desfavorecido[/url] Saudação.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Você pega o braço e a mão dele, apertando o punho dele com força e empurrando-o em direção ao peito. Ele solta um suspiro súbito de ar, antes de se recompor.
+
+"...Entendo, obrigado Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Você provavelmente não sabe que [url=glossary:graven ashe]Cinza esculpida[/url] me prometeu um desconto justo em todas as mercadorias [url=glossary:disfavored]Desfavorecido[/url] caso a região [url=glossary:burning library]Biblioteca em chamas[/url] seja retirada da região [url=glossary:scarlet chorus]Coro Escarlate[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Um choque repentino atinge o jovem. "Y-sim claro [url=glossary:graven ashe]Cinza esculpida[/url] me deu ordens específicas. Prometi que não esqueceria. Tenho preços especiais só para você, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>O jovem tenta uma saudação novamente, pressionando dois dedos na têmpora. "Não, definitivamente não é isso..." Ele suspira. "O que posso fazer por você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>O jovem o cumprimenta com a saudação [url=glossary:disfavored]Desfavorecido[/url] adequada. "O que posso fazer por você Vinculador do Destino?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Claro."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

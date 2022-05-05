@@ -1,0 +1,453 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\06_endgame\06_bs_tunoncourt_nobles</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>89</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Se eu jurar fidelidade a [url=glossary:tunon]Tunon[/url], ele aceitará minha filha como Vinculador do Destino?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Aceitando [url=glossary:kyros]Kyros[/url] foi uma... uma transição difícil. Mas somos melhores por isso. Certo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Não vejo o Norte há anos. Nem você, eu garanto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Claro que [url=glossary:tunon]Tunon[/url] me assusta, mas onde mais posso encontrar justiça?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Eu nunca vi [url=glossary:tunon]Tunon[/url] mudar sua máscara, e mesmo assim a máscara... muda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Não adianta questionar o julgamento de [url=glossary:tunon]Tunon[/url]. Ele conhece a lei [url=glossary:kyros]Kyros[/url]' melhor do que nós."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Dizem que [url=glossary:tunon]Tunon[/url] conheceu o soberano. Você pode imaginar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"O Árbitro é sábio além de sua idade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Tenho vergonha de dizer que minha família resistiu à vinda de [url=glossary:kyros]Kyros[/url]. Agora que sabemos melhor, vim oferecer minha vida ao Árbitro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"O [url=glossary:scarlet chorus]Coro Escarlate[/url] invadiu minha casa durante a invasão. Nunca mais verei minha filha, mas [url=glossary:tunon]Tunon[/url] disse que restituiria o dano."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"[url=glossary:tunon]Tunon[/url] enviou meu filho para um campo de trabalho no Norte. Eu vim apelar para o caso dele... para implorar, sério."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Minha família sobreviveu ao saque do [url=glossary:bastard city]Cidade bastarda[/url]. Espero que possamos suportar o julgamento de [url=glossary:tunon]Tunon[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Eles disseram que [url=glossary:tunon]Tunon[/url] ouviria meu caso em seguida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Você deve se sentir honrado por ter a do juiz confiança.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Você é... você é um Vinculador do Destino, não é?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Nó do banco 17</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Eu nunca vi [url=glossary:tunon]Tunon[/url] tocar o chão. Eu me pergunto onde ele dorme... se ele dorme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"[url=glossary:tunon]Tunon[/url] não apenas governa o [url=glossary:bastard city]Cidade bastarda[/url]. Ele também investiu em [url=glossary:lethian's crossing]A travessia de Lethian[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"O [url=glossary:disfavored]Desfavorecido[/url] invadiu e queimou uma caravana com destino à minha propriedade. Procuro recompensa desde 429."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Você ordenou aquelas Refrão gangues para invadir fazendas em 428? Meu irmão morreu naquele dia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"O tribunal mudou. Onde montanhas de anéis trocavam de mãos, agora as pessoas são condenadas à morte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Dizem que é preciso um Arconte para compreender completamente a lei [url=glossary:kyros]Kyros[/url]'. Eu acredito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Tínhamos um bom acordo comercial com o Norte. Fiz alguns anéis na lateral. Agora somos vassalos do Império."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Você lançou o [url=glossary:edict]Edital[/url] de Storms? Nunca pensei que um homem pudesse deixar o orgulhoso Stalwart de joelhos."</DefaultText>
+      <FemaleText>"Você lançou o [url=glossary:edict]Edital[/url] de Storms? Nunca pensei que uma mulher pudesse deixar o orgulhoso Stalwart de joelhos."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Não se culpe por Azure. Duvido que alguém pudesse ter impedido [url=glossary:cairn]Cairn[/url] de arruinar Plainsgate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Dizem que você ajudou Azure durante a guerra. Desejo que todos os [url=glossary:kyros]Kyros[/url]' servos fossem tão misericordiosos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Se foi preciso um [url=glossary:edict]Edital[/url] para queimar o [url=glossary:vellum citadel]Cidadela de Velino[/url], o Sábios deve ter algo que vale a pena proteger. Acho que nunca saberemos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Corrigido o [url=glossary:burning library]Biblioteca em chamas[/url], certo? Esperança você encontrou o que procurava."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"[url=glossary:tunon]Tunon[/url] mostra um grande favor. Certifique-se de não decepcioná-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Você não precisa esperar uma audiência com o Juiz? Visitei o tribunal todos os dias este mês."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url]' A paz é mais gentil com quem dobra o joelho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Não entendo por que o Arconte de Guerra nos odeia tanto. Só porque nascemos fora da regra [url=glossary:kyros]Kyros[/url]'..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"[url=glossary:tunon]Tunon[/url] é o mais equilibrado dos Arcontes. Os outros são muito... muito selvagens para sua estação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Espero secretamente que [url=glossary:kyros]Kyros[/url] não convide mais Arcontes para o Camadas. Apesar de toda a sua sabedoria, eles podem nos fazer muito mal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Eu nunca vi um Arconte antes de [url=glossary:tunon]Tunon[/url] aparecer. Eles são todos como ele?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Tenho certeza de que há uma boa razão para [url=glossary:tunon]Tunon[/url] usar uma máscara. Não que eu fosse questioná-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Seja educado com o Árbitro. Ontem ele condenou um homem a ser esfolado na praça da cidade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"[url=glossary:tunon]Tunon[/url] espera muito de seus súditos. Ele mantém você em um padrão mais alto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Os tapetes aqui não eram vermelhos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Eu vim com perguntas sobre [url=glossary:kyros]Kyros[/url]' lei. Agora que estou aqui, tenho medo de perguntar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Só porque não consigo encontrar nenhuma contradição na lei [url=glossary:kyros]Kyros[/url]' não significa que não existam."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"A maioria dos Arcontes tem seguidores, mas não [url=glossary:bleden mark]Marca de mistura[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Está [url=glossary:tunon]Tunon[/url] olhando para mim? Eu nunca posso dizer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Saudação [url=glossary:kyros]Kyros[/url]. Estou... estou ficando melhor em lembrar de dizer isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"O norte passou meses se preparando para a conquista... então por que não estávamos mais bem preparados?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Por favor, não me machuque."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"A guerra se espalha além dos muros da cidade, mas pelo menos temos [url=glossary:kyros]Kyros[/url]' Paz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Estou aprendendo a ler para entender [url=glossary:kyros]Kyros[/url]' lei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Meu primo lutou em Robusto. Você... o viu, por acaso? A verdadeira agonia é não saber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Conheço muitos que lutaram na guerra. O que, eu? Claro que não."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"[url=glossary:scarlet chorus]Coro Escarlate[/url] patrulhas ficam do lado de fora da minha casa todas as noites. Tenho medo de dormir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"O [url=glossary:disfavored]Desfavorecido[/url] enforcou minha sobrinha por cantar uma música sobre [url=glossary:graven ashe]Cinza esculpida[/url]. Elas... eles são muito protetores com seus Arconte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Eu costumava pensar que contar anéis era mais útil do que aprender a ler. Hoje em dia, eu me pergunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Meu pai tentou subornar o Árbitro. O tribunal o enviou para transportar suprimentos na retaguarda do exército. Não tenho notícias dele desde então."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Dizem que você proclamou um [url=glossary:edict]Edital[/url] próprio... isso pode ser verdade?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"[url=glossary:tunon]Tunon[/url] anda de mau humor ultimamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"É verdade o que dizem? [url=glossary:the voices of nerat]As vozes de Nerat[/url] está morto?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"O Arconte da Guerra - morto? Eu nunca pensei que esse senhor da guerra cairia na minha vida..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Nó do banco 61</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Estou tendo dúvidas sobre buscar o julgamento de [url=glossary:tunon]Tunon[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Nó do banco 63</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Seu caso contra Ashe será estudado e lembrado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Parece o Arconte da Guerra é mais leal aos seus soldados do que ao Império."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Sem dúvida você perdeu amigos no Norte por indiciar Ashe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"O Arconte da Guerra deve ser um pobre Em geral para que [url=glossary:tunon]Tunon[/url] o tenha considerado culpado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Nunca pensei que veria [url=glossary:the voices of nerat]o Vozes de Nerat[/url] levado à justiça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Superou o Arconte dos Segredos, e você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Se você provou a Vozes' culpa, aposto que você poderia abrir um processo contra qualquer um."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Parece que os esquemas Vozes' finalmente o alcançaram."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"[url=glossary:tunon]Tunon[/url] é um crítico severo. Ninguém está surpreso que seu caso contra o Arconte tenha ficado aquém."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"[url=glossary:tunon]Tunon[/url] parecia muito ansioso para jogar fora seu caso contra o Arconte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Não impressionou a corte, não é?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Você pensaria que um Vinculador do Destino seria um argumento mais convincente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Você fez um argumento convincente para sua inocência, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"[url=glossary:tunon]Tunon[/url] estava errado em indiciá-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Pensar que o próprio Tribunal que te criou te considerou culpado..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Poucas pessoas consideradas culpadas aos olhos de [url=glossary:tunon]Tunon[/url] vivem para se arrepender."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Se o juiz submetido à sua autoridade, isso torna este seu Tribunal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Eu não posso acreditar [url=glossary:tunon]Tunon[/url] virou as costas para [url=glossary:kyros]Kyros[/url] para você..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Se o juiz mortos, quem ouvirá todos esses casos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"[url=glossary:tunon]Tunon[/url] era o mais velho dos Arcontes, e você o matou. Eu me pergunto o que isso faz de você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Então você é o único que conseguiu o Vozes no calcanhar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Eu não confiaria no Vozes, mesmo que ele seja dócil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Boa viagem para o Vozes. Fico feliz em poder dizer isso agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Espero que o Refrão caia em pedaços sem o seu Arconte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Quem já imaginou que Ashe poderia se humilhar uma segunda vez?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Ashe é um inimigo perigoso. Ele também pode ser um amigo perigoso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Será que um novo Arconte ocupará Ashe lugar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"O norte vai chorar com a morte de [url=glossary:graven ashe]Cinza esculpida[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

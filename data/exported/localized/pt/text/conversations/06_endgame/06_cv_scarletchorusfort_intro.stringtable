@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\06_endgame\06_cv_scarletchorusfort_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Bem-vindo à Cacofonia, Vinculador do Destino. Nerat disse estar esperando por você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Onde posso encontrar [url=glossary:the voices of nerat]o Vozes de Nerat[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"O que você pode me dizer sobre Cacofonia?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Canto nordeste do acampamento, perto dos únicos prédios reais que restaram. Se ele não está em seu trono, ele está vagando não muito longe dele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"É o principal reduto do [url=glossary:scarlet chorus]Coro Escarlate[/url] no Camadas. Todos os coros grupos têm algumas pessoas aqui - Horda, Fúrias Escarlates, Cantores de Sangue, Cão de Sangue, até mesmo o Homens-fera. Todo mundo tem sua própria seção de acampamento - melhor assim, mantém as brigas no mínimo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Temos um comerciante aqui se você precisar comprar alguma coisa. Há também o intendente, mas de Nerat tem que dar a ele a palavra antes que você possa colocar as mãos em Refrão mercadorias."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

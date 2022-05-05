@@ -1,0 +1,299 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\0306_cv_silentarchive_examine</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>51</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Uma auréola de energia mágica envolve este pergaminho, que levita acima da plataforma central. Você vê caracteres no pergaminho, mas eles parecem mudar de um idioma para outro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Incrível. Eu suspeitava que havia mais no Arquivo Silencioso do que um simples cofre... extraordinário. Este pergaminho deve representar milhares de trabalhos acadêmicos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Já ouvi falar de manuscritos que exibem esse comportamento, mas apenas aqueles que estavam imbuídos de extraordinária energia arcana. Este tem que ser o Arquivo Silencioso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Você ouve isso - como um batimento cardíaco nas paredes ao nosso redor? Isso é poder! Este é um lugar onde a energia se cruza, e as palavras comuns podem parecer tão vivas quanto quem as lê. Este só pode ser o Arquivo Silencioso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Eu não vejo um artefato dessa idade ou preservação desde meus dias em Robusto. Não sou muito de livros, mas não é preciso ser um estudioso para descobrir que este é o Arquivo Silencioso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Sinto cheiro de sangue no ar. Não somos os primeiros a matar para ter acesso a esta sala. Deve ser o coração do Biblioteca - o Arquivo Silencioso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"O pergaminho místico dos Sábios chamado Arquivo Silencioso queima com muito poder e mais conhecimento - faz com que os dentes da mulher-fera doam e as cicatrizes coçam. Pode ouvir palavras sussurradas saindo do pergaminho, mas olhos aguçados não conseguem ler os arranhões brilhantes dos humanos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Toque no pergaminho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"O que você é?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Deixar.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Você estende a mão para tocar o pergaminho, mas assim que sua mão passa pela nuvem que o envolve, um violento tremor explode no corredor. O tremor continua por alguns segundos e depois desaparece.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Eu procederia com cautela, Vinculador do Destino. Nem mesmo essas ruínas devem permanecer de pé após [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url]. Suspeito que o Sábios usou o Arquivo Silencioso de alguma forma para evitar a destruição."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Já sabemos que este pergaminho é mais do que parece. Talvez devêssemos proceder com cautela - tenho a sensação de que estamos empurrando algo muito velho e frágil para fora do lugar e corremos o risco de derrubar o teto sobre nossas cabeças."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Suspeito que não passaremos muito tempo aqui. Esse pergaminho é um pino que mantém o resto do Biblioteca junto. Confie em mim - eu sei uma coisa ou duas sobre estruturas instáveis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Você tem que tocar nisso? Preciso de mim lembrá-lo de que estamos nas entranhas de uma ruína cheia de lava, e sacudi-la dificilmente é do nosso interesse?"
+
+Ela balança a cabeça. "Enganar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Vinculador do Destino, não sei como te proteger se uma cidadela cheia de escombros e lava desabar sobre nossas cabeças. Na verdade, estou mais inclinado a sair do que arriscar. Então tente agir com mais cautela no futuro, hm?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Cuidadoso, Alfa." Ela rosna baixo, pelos arrepiados.
+
+"Se um humano roubar Sábios' mystic-scroll, então todo o antro em chamas pode desmoronar e cair no próprio pacote. Melhor estar pronto para fugir em quatro pés!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Leia o pergaminho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>superfície do pergaminho é impossível de ler, sempre cambiante e complicada. Você vê caracteres de Verdejante Antigo escritos sobre a caligrafia do Império do Norte, que se transforma em palavras usadas pelas tribos nômades do antigo Azure, e depois novamente em frases da língua comum do Camadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>É como se cada palavra já escrita ou pronunciada colidisse com o pergaminho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Conforme você faz a pergunta, a superfície do pergaminho é subitamente limpa. Depois de um momento, as palavras começam a se formar na página.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"De fato, o Arquivo Silencioso deve ser a fonte final de conhecimento. Cada texto que transcrevemos magicamente borbulha sob sua superfície, esperando para ser chamado." -Primeiro Escriba Gaenor, [url=glossary:sage]Sábio[/url] Metodologias de arquivo, Vol 8.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Os melhores predadores são espertos e sábios. Saiba muito sobre matar. Também saiba como curar e festejar e sobreviver. Alpha poderia aprender muito estudando pergaminho místico chamado Arquivo Silencioso. Está cheio de Sábios' memórias - tanto de vitórias quanto de derrotas."
+
+Ela olha o pergaminho com fome.
+
+"Caçador da sombra também vai aprender. Vai ouvir os avisos sussurrados do scroll."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Antes [url=glossary:kyros]Kyros[/url] veio, imagino que os senhores da guerra escalariam uns sobre os outros por um recurso como este. Tudo assumindo que eles poderiam apreciá-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Se todo o Biblioteca pudesse ser resumido em uma folha de pergaminho, talvez não valesse muito a pena aprender, afinal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Como eles encaixaram tantas palavras naquele pergaminho?"
+
+Ele coça o peito, que ressoa em um guincho ensurdecedor.
+
+"Eu me pergunto se o Sábios poderia fazer minha armadura se encaixar melhor em mim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Todos os textos? Para condensar as obras coletivas Biblioteca em um único pergaminho..." 
+
+Sua expressão irradia admiração. 
+
+"Esse é um empreendimento engenhoso, embora perigoso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Vinculador do Destino, se isso for verdade, o Arquivo Silencioso valeria mais do que alguns dos Reinos Antigos!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>A passagem desaparece, apenas para ser substituída por outra.
+
+"O Arquivo Silencioso é o esforço de 100 anos do Escola de pena e tinta. Como um de seus criadores e guardiões, assegurei que seu conhecimento só possa ser acessado pelos Sábios de minha ordem, e apenas aqueles especificamente encarregados de tão pesada responsabilidade. O Arquivo Silencioso é, portanto, uma joia brilhante que poucos podem ver. Se o artefato cair em mãos de forasteiros, espero que menos de um em cem de seus segredos sejam revelados no período de uma vida."
+
+-Primeiro [url=glossary:sage]Sábio[/url] Arwel, Legados de o Escola de pena e tinta, Vol. 20.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Em um piscar de olhos, o texto do pergaminho desaparece, apenas para ser substituído por um redemoinho caótico de letras e palavras sobrepostas. Ele se recusa a responder a quaisquer outras perguntas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Examine a aura mágica ao redor do pergaminho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Ondas de energia irradiam do pergaminho, subindo em direção ao teto e se espalhando para abranger a câmara cavernosa. Parece que o Arquivo Silencioso é um participante ativo em algum tipo de feitiço em andamento, que provavelmente mantém o [url=glossary:burning library]Biblioteca em chamas[/url] em pé.
+
+Remover o pergaminho certamente teria efeitos desastrosos sobre o feitiço ativo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Analise o feitiço ativo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Este deve ser o feitiço de estase de tempo referenciado na carta de [url=glossary:sage]Sábio[/url] Arwel. A julgar pelos corpos dispostos em torno do Arquivo Silencioso, os magos parecem ter sido bem sucedidos em suas tentativas de impedir a destruição de [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url], embora não o tenham feito. sobreviver ao processo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Desconstrua o foco do feitiço.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[url=glossary:sage]Sábio[/url] Os experimentos de Lilotes com focos claramente valeram a pena. O feitiço que protege o [url=glossary:burning library]Biblioteca em chamas[/url] está operando em grande escala, suas energias caóticas atualmente estabilizadas pelo próprio Arquivo Silencioso.
+
+Seu mecanismo subjacente é familiar para você. Parece provável que qualquer artefato de poder suficiente possa servir como foco do feitiço. Caso surja a necessidade, você acredita que poderia trocar o Arquivo Silencioso por outro item de poder sem interromper a magia temporal em andamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>O movimento dos personagens na superfície do pergaminho diminui à medida que você se aproxima, aparentemente em resposta à sua presença.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Desconstrua o foco do feitiço.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[url=glossary:sage]Sábio[/url] Os experimentos de Lilotes com focos claramente valeram a pena. O feitiço que protege o [url=glossary:burning library]Biblioteca em chamas[/url] está operando em grande escala, suas energias caóticas atualmente estabilizadas pelo próprio Arquivo Silencioso.
+
+Seu mecanismo subjacente é familiar para você. Parece provável que qualquer artefato de poder suficiente possa servir como foco do feitiço. Caso surja a necessidade, você acredita que poderia trocar o Arquivo Silencioso por outro item de poder sem interromper a magia temporal em andamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Identifique o foco do feitiço.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[url=glossary:sage]Sábio[/url] Os experimentos de Lilotes com focos claramente valeram a pena. O feitiço que protege o [url=glossary:burning library]Biblioteca em chamas[/url] está operando em grande escala, suas energias caóticas atualmente estabilizadas pelo próprio Arquivo Silencioso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Analise o feitiço ativo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Graças a Renata orientação, você é capaz de discernir rapidamente a natureza da magia em jogo aqui. O feitiço que protege o [url=glossary:burning library]Biblioteca em chamas[/url] está operando em grande escala, suas energias caóticas atualmente estabilizadas pelo próprio Arquivo Silencioso.
+
+Seu mecanismo subjacente é familiar para você. Parece provável que qualquer artefato de poder suficiente possa servir como foco do feitiço. Caso surja a necessidade, você acredita que poderia trocar o Arquivo Silencioso por outro item de poder sem interromper a magia temporal em andamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>A julgar pelos corpos dispostos ao redor do Arquivo Silencioso, os magos parecem ter sido bem sucedidos em suas tentativas de impedir a destruição de [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url], embora não o tenham feito. sobreviver ao processo.
+
+Embora a natureza do feitiço em andamento não seja clara, parece muito provável que a afirmação da Renata esteja correta - o Arquivo Silencioso está sendo usado como foco para as magias de proteção.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Você delicadamente remove o Arquivo Silencioso do pedestal central, tomando o cuidado de substituí-lo por outro artefato em poucos segundos. As linhas de energia que fluem através do centro da plataforma zumbem e distorcem desconcertantemente por um momento, acompanhadas por tremores fracos que perturbam o líquido derretido abaixo. 
+
+Após alguns segundos de incerteza, a magia do feitiço volta a se concentrar no objeto recém-colocado, suas linhas de energia novamente retomando seu fluxo estável para cima e para fora para o resto do [url=glossary:burning library]Biblioteca em chamas[/url]. A troca parece ter funcionado, e você ganhou o Arquivo Silencioso pelo seu problema.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Tudo o que resta é levar o artefato para fora. Uma vez que o Arquivo Silencioso ultrapassou o limite que leva ao exterior, é provável que você cumpra o mandato [url=glossary:kyros]Kyros[/url]' para remover todo o 'conhecimento proibido' do [url=glossary:vellum citadel]Cidadela de Velino[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Pegue o Arquivo Silencioso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Troque o Arquivo Silencioso com um artefato.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Jogue o Arquivo Silencioso na lava.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Ondas de energia irradiam do pergaminho, subindo em direção ao teto e se espalhando para abranger a câmara cavernosa. Parece que o Arquivo Silencioso é um participante ativo em algum tipo de feitiço em andamento, que provavelmente mantém o [url=glossary:burning library]Biblioteca em chamas[/url] em pé.
+
+Remover o pergaminho certamente teria efeitos desastrosos sobre o feitiço ativo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Ondas de energia irradiam do pergaminho, subindo em direção ao teto e se espalhando para abranger a câmara cavernosa. Parece que o Arquivo Silencioso é um participante ativo em algum tipo de feitiço em andamento, que provavelmente mantém o [url=glossary:burning library]Biblioteca em chamas[/url] em pé.
+
+Remover o pergaminho certamente teria efeitos desastrosos sobre o feitiço ativo.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,344 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\worldevents\02_wme_pleasuresoftheroad</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>66</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Uma grande carruagem foi estacionada ao lado da estrada. Vários Homens-Besta trabalhadores olham para você com expressões sem graça e movimentos em direção à crista de uma colina próxima, mais interessados em descansar um pouco. Você ouve uma risada e o respingo de água além dela, audível acima do rugido do rio próximo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Exija que os serviços sejam prestados gratuitamente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Recusar a oferta e sair.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[40 toques.] Passe algum tempo com o homem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[50 toques.] Passe algum tempo com a mulher.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Citando sua posição como Vinculador do Destino, você exige que todos os serviços sejam oferecidos gratuitamente em apoio aos esforços de guerra em andamento. O 'empresário' gagueja por um momento antes de assentir, obedientemente, gesticulando em direção ao par com um sorriso tenso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Você não tem tempo para tais distrações e recusa a oferta do homem, voltando para voltar à estrada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Você se aventura e encontra alguma privacidade entre um bosque de árvores. O homem prova ser um amante habilidoso, mas taciturno, abordando seu trabalho com foco quase profissional. O tipo forte e silencioso, talvez. Sua falta de carisma evidente não diminui a experiência, no entanto, e você fica muito, muito satisfeito.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Ela te pega pela mão e te leva para uma pequena tenda, com um forte cheiro de lírios. Ela se despe rapidamente e gesticula com impaciência em direção ao chão forrado de pele. Vendo sua hesitação, ela o empurra para o chão e sobe em cima de você, começando rapidamente a sessão sem uma palavra. Apesar da experiência apressada, você não pode culpar suas habilidades, que se provam formidáveis o suficiente para levá-lo a uma conclusão rápida.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Deixar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Você acena para o vendedor de carne e agradece por seus serviços, voltando para a estrada principal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Uma das prostitutas de repente começa a caminhar em sua direção, mas se detém quando o homem bem vestido a chama bruscamente. Seus ombros caem e ela solta um suspiro alto, sentando-se no chão. 
+
+Não demora muito para que o grupo não seja mais visível da estrada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[75 toques.] Peça tempo com ambas as prostitutas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>homem bem vestido faz uma pausa com a sugestão, mas acaba sucumbindo à sua oferta de anéis. Ele gesticula para o casal, que acena com a cabeça e leva você pela margem rochosa do rio, um local decididamente desconfortável para o coito tripartido. O rio se agita ruidosamente aos seus pés, obscurecendo todo o ruído além da área imediata. Enquanto os dois se despem, eles gritam acima do rugido da água, explicando freneticamente que são nobres de Ardente e foram sequestrados por fraternidade extorsionários. Você tem tempo suficiente para perceber que esta não é uma fantasia de cliente estranhamente específica antes que o manipulador da dupla chegue, ladeado por dois Homens-fera.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Apesar de suas precauções, as vozes dos pares chegaram longe o suficiente para serem ouvidas. O homem que lidera a comitiva não nega sua afiliação com o fraternidade, explicando em vez disso que seus cativos são os filhos adultos de um poderoso Ardente nobre, capturado enquanto o fraternidade estava em contrato com [url=glossary:the voices of nerat]o Vozes de Nerat[/url] e assim, afirma, legalmente adquirido. Os dois prisioneiros olham para você com expectativa, aguardando sua resposta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Execute o sequestrador.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Permita que o agente continue em sua missão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Exija um suborno em troca de sua cooperação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Convença o homem que este plano vai sair pela culatra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Convencer os Homens-Besta para ligar seu mestre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Você declara o vendedor de carne culpado de várias transgressões contra a lei [url=glossary:kyros]Kyros[/url]', embora o sequestro seja tudo o que é necessário para justificar sua morte. A Irmandade agente pega uma lâmina pesada e grita para seus Homens-fera escravos lutarem. O trio é bem coordenado e surpreendentemente habilidoso e, embora você os subjugue, não o faz sem se machucar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Com a luta terminada, os dois cativos rapidamente vestem roupas adequadas para a estrada, agradecendo profusamente por sua ajuda. Eles prometem divulgar suas ações e enviar uma recompensa adequada quando retornarem a Ardente. Antes de sair, você vasculha a carruagem ao longo da estrada, pegando suprimentos e objetos de valor, uma recompensa adequada pelo seu problema.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Você informa ao agente fraternidade que não há disputa legal com o acordo dele. A cativa parece horrorizada com suas palavras, mas é contida por seu irmão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Você deixa claro que esta situação pouco lhe preocupa, desde que sua visita seja tratada como uma questão de hospitalidade, como convém a um Vinculador do Destino. A Irmandade agente está muito feliz em concordar, presenteando-o com um saco de anéis para o prazer de sua companhia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Você informa ao agente fraternidade que o plano dele está alguns anos atrasado. Os mais ricos de Ardente morreram na guerra ou ficaram amargurados com a perda. É improvável que o primeiro seja capaz de pagar um resgate, o segundo provavelmente veja a oferta de refém como um insulto e revide em vez de negociar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>A Irmandade agente está suficientemente perturbado por suas palavras, e gesticula para que o Homens-fera se retire. Os dois nobres rapidamente vestem roupas adequadas para a estrada, agradecendo profusamente por sua ajuda. Eles prometem divulgar suas ações e enviar uma recompensa adequada quando retornarem a Ardente. Antes de sair, o agente te entrega timidamente uma bolsa de anéis, na esperança de se absolver ainda mais de qualquer irregularidade. Você sai do rio, satisfeito com o rumo dos acontecimentos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Você ignora o agente fraternidade, fixando os olhos em vez do Homens-fera sob seu controle. Você fala de seu tempo com as tribos para estabelecer sua autoridade, então os envergonha por subserviência a um humano tão humilde - um crime semelhante a seguir o mais humilde dos bolverks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Passe tempo com o prostituto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Passe tempo com a prostituta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Você acena para o vendedor de carne e agradece por seus serviços, voltando para a estrada principal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Uma das prostitutas de repente começa a caminhar em sua direção, mas se detém quando o homem bem vestido a chama bruscamente. Seus ombros caem e ela solta um suspiro alto, sentando-se no chão. 
+
+Não demora muito para que o grupo não seja mais visível da estrada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Você acena para o vendedor de carne e agradece por seus serviços, voltando para a estrada principal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Uma das prostitutas de repente começa a caminhar em sua direção, mas se detém quando o homem bem vestido a chama bruscamente. Seus ombros caem e ela solta um suspiro alto, sentando-se no chão. 
+
+Não demora muito para que o grupo não seja mais visível da estrada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Com a luta terminada, os dois cativos rapidamente vestem roupas adequadas para a estrada, agradecendo profusamente por sua ajuda. Eles prometem divulgar suas ações e enviar uma recompensa adequada quando retornarem a Ardente. Antes de sair, você vasculha a carruagem ao longo da estrada, pegando suprimentos e objetos de valor, uma recompensa adequada pelo seu problema.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Ao se aproximar da margem, você vê duas figuras na água, banhando-se. Na margem, um homem alto vestido com tecidos finos nota você e solta um assobio penetrante - um homem musculoso e uma mulher curvilínea correm para fora do riacho em resposta, envolvendo-se em vestes grossas. O homem alto o cumprimenta com uma reverência exagerada e explica que ele é um provedor de prazeres, do tipo itinerante. Ele gesticula para o par, ambos extremamente atraentes, e pergunta se você está com vontade de participar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Depois, enquanto você se deita na grama, ofegante, ele pega sua mão e o leva de volta à margem do rio. Ele gesticula em direção ao parceiro, perguntando se você tem resistência para aproveitar os dois ao mesmo tempo. O vendedor de carne ergue uma sobrancelha, olhando para você para ver como você vai responder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Antes que você possa recuperar o fôlego, ela chuta a aba da barraca e te leva para fora. Quando você passa por seu parceiro, ela lhe dá um sorriso raro - o primeiro que você vê em seu rosto - e pergunta se você acha que pode lidar com dois deles ao mesmo tempo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Suas palavras pegam fogo em suas mentes, e eles se voltam para seu mestre com ferocidade monstruosa, varrendo-o repetidamente no rosto de ambos os lados. Ele cai no chão, sua cabeça uma polpa carmesim irregular e deformada. Os Homens-Besta soltaram um grito vitorioso antes de atravessar o rio, para destinos desconhecidos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Seu argumento mais astuto não consegue convencer o agente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Seu argumento mais astuto não consegue convencer o agente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Olhe ao redor e verifique se há uma emboscada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>O mascate e suas prostitutas não estão armados, e pouco do local escolhido ao longo da margem sugere uma armadilha. Duas pequenas tendas foram erguidas em cima de trechos macios de grama. Você espia dentro de suas abas abertas e não vê nada além de cobertores, travesseiros coloridos e frascos de perfume perfumado - dificilmente uma visão ameaçadora.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Ainda úmido, o homem musculoso levanta a manga do manto para enxugar a testa, expondo uma faixa de couro em volta do pulso. Embora sólido por metade de seu comprimento, o resto se separa em tiras finamente torcidas de couro enroladas em conchas - um design comum encontrado na costa Ardente. Você conta quatro conchas na faixa, um discreto mas inconfundível significante de nobreza.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Questione o vendedor sobre a braçadeira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Ignore a estranheza.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Embora o design da braçadeira levante questões desconfortáveis, você bane esses pensamentos de sua mente. O mascate, sem saber como interpretar sua hesitação, simplesmente repete sua pergunta anterior e gesticula para as prostitutas de aparência desconfortável.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Você destaca a peculiaridade da braçadeira, um item reservado para a nobreza Ardente mas de alguma forma nas mãos do vendedor ambulante. Enquanto você expressa sua pergunta, a prostituta avança e agarra suas mãos, implorando por ajuda. Entre soluços frenéticos, ela deixa escapar que eles são Ardente nobres que foram sequestrados por fraternidade extorsionários.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>O mascate enfia alguns dedos na boca e emite um assobio penetrante, convocando rapidamente os guardas Homens-fera ao seu lado. Ele não nega sua afiliação com o fraternidade, em vez disso explica que seus cativos são os filhos adultos de um poderoso Ardente nobre, capturado enquanto o fraternidade estava em contrato com o [url=glossary:the voices of nerat]o Vozes de Nerat[/url] e assim, afirma, legalmente adquirida. Os dois prisioneiros olham para você com expectativa, aguardando sua resposta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Você informa ao agente fraternidade que o plano dele está alguns anos atrasado. Os mais ricos de Ardente morreram na guerra ou ficaram amargurados com a perda. É improvável que o primeiro seja capaz de pagar um resgate, o segundo provavelmente veja a oferta de refém como um insulto e revide em vez de negociar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Convença o homem que este plano vai sair pela culatra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>O mascate e suas prostitutas não estão armados, e pouco do local escolhido ao longo da margem sugere uma armadilha. Duas pequenas tendas foram erguidas em cima de trechos macios de grama. Você espia dentro de suas abas abertas e não vê nada além de cobertores, travesseiros coloridos e frascos de perfume perfumado - dificilmente uma visão ameaçadora.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

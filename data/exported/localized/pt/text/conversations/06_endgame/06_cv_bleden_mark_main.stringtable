@@ -1,0 +1,1001 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\06_endgame\06_cv_bleden_mark_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>193</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Bem? Seja rápido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"De novo com as perguntas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Se eu não soubesse, pensaria que você é tão obstinado quanto eu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"O que você quer saber?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Preciso saber por que você está me ajudando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Quero saber mais sobre os outros Arcontes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"O que você sabe sobre [url=glossary:kyros]Kyros[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"O que você ganha com o [url=glossary:edict]Edital[/url] do final Incêndio?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Por que você me fez caçar uma relíquia idiota?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Isso é tudo, obrigado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Quero saber mais sobre você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Então você deve se acostumar com a ignorância. Por que você faz as coisas que faz, garoto? Você odeia fazer o que os outros dizem para você fazer? O mundo está cheio de idiotas e nenhum parece digno de sua graça e cooperação?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Não desejo ser o peão de [url=glossary:kyros]Kyros[/url], o Arcontes, ou qualquer outra pessoa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Vou fazer o que quiser até que alguém me impeça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Estou cumprindo meu dever de defender a justiça, apenas tenho meu próprio estilo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Sentimento fofo, garoto, mas você é um merdinha mimado. Você tem a proteção do Arconte da Justiça, e a liberdade de jogar solto com suas leis - você desfruta de mais liberdade do que quase qualquer outra pessoa sob o [url=glossary:kyros]Kyros[/url]' sol... mas isso não é suficiente para você. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Bem, essa é a coisa mais honesta que ouvi de alguém em muito tempo. Se esse é realmente o seu objetivo na vida, boa sorte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Agora que entendi. Justiça é pouco mais do que um nome chique para o maior e pior poder da cidade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Estou te ajudando porque você é um merda imprevisível... e eu estou velho e entediado - cansado de me esforçar na ponta da minha coleira. Surpresas são tudo o que mantém os dias interessantes. Que, e você é tecnicamente um membro do Tribunal, como eu, então a honra exige que eu o guie e oriente - ou pelo menos tente antes de colocá-lo para baixo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Te testando, sim - mas o veredicto ainda está no ar sobre se eu acabo ou não com sua vida. Perguntas como essa não me convencem da sua longevidade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Então você está me testando antes de me matar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Você está me ajudando porque está entediado? Não acredito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Eu não preciso mais de sua orientação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Quantos anos você tem?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Acredite no que te faz feliz, garoto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url].] "Velho o suficiente para ignorar perguntas pessoais irritantes como essa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Cerca de trezentos - mais ou menos. Em algum momento, você para de contar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Deixe-me perguntar sobre outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Excelente. Então não preciso responder mais nenhuma de suas perguntas estúpidas."
+
+Com um sorriso de escárnio, o Arconte das Sombras desaparece na escuridão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Você não respeita meu ar místico diligentemente mantido? Sou mais forte e mais rápido do que você e posso me mover pelas sombras impunemente - todo o resto é um detalhe trivial."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Então talvez você devesse fazer suas perguntas diretamente... mas acho que posso divulgar um pouco - depende de quem você tem em mente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Eu sei mais sobre [url=glossary:kyros]Kyros[/url] do que a maioria - o que significa que sei o suficiente para ficar de boca fechada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Se é isso que você quer acreditar, é claro." Ele sorri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Nada, além da confirmação de que posso confiar em você para tarefas difíceis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Você faz parecer que estou lhe punindo quando estou tentando apontar a direção certa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Você está se colocando como alvo do Arcontes. Sua sobrevivência dependerá de você reivindicar todas as vantagens à sua disposição. Apenas tentando apontar algo para ajudá-lo a se ajudar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Então você está apenas me enviando para uma armadilha mortal de fogo para me abater se eu for inútil?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Muito fogo naquela biblioteca - provavelmente não há muitas sombras para você usar também."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Você me conhece há décadas e não confia em mim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Você só quer o Arquivo Silencioso para você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Não há nada que o Sábios saiba que eu não saiba. E se eu quisesse, eu mesmo pegaria, não mandaria um mordedor de tornozelo para fazer isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>O Arconte das Sombras limpa a garganta com uma careta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Bem, sim... você não é observador. O [url=glossary:burning library]Biblioteca em chamas[/url] não é o tipo de lugar onde meus dons podem ser usados ao máximo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Sim, na verdade, é exatamente isso que estou fazendo. Preciso testar sua coragem antes de saber o que posso e o que não posso confiar em você para fazer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Eu pareço um idiota? Conheço [url=glossary:the voices of nerat]o Vozes de Nerat[/url] há séculos, mas sei que não devo confiar nele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Fale-me sobre [url=glossary:tunon]Tunon[/url]"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"O que você acha de [url=glossary:graven ashe]Cinza esculpida[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"O que você acha do [url=glossary:the voices of nerat]o Vozes de Nerat[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"O que você pode me dizer sobre Sirin?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"O que você sabia sobre [url=glossary:cairn]Cairn[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Já chega de Arcontes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"O que é o Overlord como pessoalmente?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Como você veio a servir o soberano?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Por que você acha que o soberano está permitindo que o Arcontes lute?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Huh... Eu estava esperando uma pergunta mais idiota. [url=glossary:kyros]Kyros[/url] com certeza pode parecer inconstante. [url=glossary:cairn]Cairn[/url] foi traiçoeiro e vocal sobre isso e recebe um [url=glossary:edict]Edital[/url] caído em sua cabeça. As vozes e Ashe briga abertamente e [url=glossary:kyros]Kyros[/url] apenas observa... se você não conhece o soberano, tudo pode parecer aleatório e errático."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Mas garanto a você, [url=glossary:kyros]Kyros[/url] não é nada se não for deliberado. Eu acho que [url=glossary:kyros]Kyros[/url] cansou do Arcontes de Guerra e Segredos- não há necessidade de ambos e então, por que não deixar sua falta natural de relacionamento se resolver, permitindo que o mais forte mate o mais fraco?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url].] "O Senhor Supremo estuprou brutalmente meus pais na minha frente e depois me levou para uma elaborada série de exercícios de treinamento e rituais que melhoraram minhas proezas marciais e sarcasmo . Essa é a história de origem torturada que você queria ouvir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"De onde eu venho, há um velho ditado - 'se você atacar o chefe, não erre.' Acertei em [url=glossary:kyros]Kyros[/url] e não a matei com a primeira lâmina, não tive chance com a segunda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Às vezes você faz perguntas muito boas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Então como penitência você foi feito para servir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Por que você tentou matar [url=glossary:kyros]Kyros[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"O que impede você de tentar novamente?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Eu assumi que seria arrastado e esquartejado, mas em vez disso, me ofereceram uma vassalagem. Para alguns, isso significa servidão, mas para mim, significa contratos estáveis e impunidade legal. Então aceitei minha punição, e o resto foi história."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Por que não? Porque eu pensei que podia. Porque imaginei que teria toda a riqueza, sexo, servos e terras que desejaria se conseguisse. Meus poderes não eram o que são hoje, mas em minha exuberância juvenil, eu me sentia imparável."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Obrigado, gostaria de responder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Sinta-se à vontade para concluir esse pensamento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Não teste minha paciência, garoto. Se eu me arrepender de compartilhar isso com você, vou prender seus rins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"É do meu próprio interesse que [url=glossary:kyros]Kyros[/url] vive. Nenhum outro Soberano é digno de meu serviço, e certamente não desejo usar uma coroa. O serviço com o soberano me serve muito bem, não tenho vontade de estragar nossa coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Tenho uma pergunta sobre outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"É isso que você quer saber? Garoto, você deveria se preocupar com o que o soberano é de longe - não um que sofre tolos levemente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Então [url=glossary:kyros]Kyros[/url] é ela. Admita."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Como o soberano chegou ao poder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Tais coisas eram antes do meu tempo, mas pelo que entendi, [url=glossary:kyros]Kyros[/url] não impôs o Arcontes com carisma e cooperação. Foi o poder do [url=glossary:edict]Edital[/url] que aterrorizou muitos a se curvarem. Uma vez que um trio de Arcontes respondeu a [url=glossary:kyros]Kyros[/url], tornou-se uma questão de tempo até que todos os outros se curvassem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Muitos há muito se perguntam se o [url=glossary:kyros]Kyros[/url] nasceu com o poder do [url=glossary:edict]Edital[/url], ou se foi aprendido através de treinamento ou experiência - não sei. Pouco me surpreenderia saber que o soberano nasceu capaz de proferir Editais... se o soberano realmente nasceu... tenho minhas dúvidas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url].] "Isso é como eu lhe disse durante seu treinamento - se você quiser saber, pergunte ao próprio velho. Se ele não quiser te contar, você não deveria saber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Ele não é o primeiro a usar o título Arconte de Guerra - e duvido que ele viva o suficiente para ser o último. Ele é uma criatura incomum - focando no treinamento e aprimoramento de seus soldados sobre seu próprio bem-estar... então ele é uma espécie de ferramenta, mas uma ferramenta confiável mesmo assim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Anseio pelo dia [url=glossary:tunon]Tunon[/url] me entrega o mandado de execução para o Arconte dos Segredos. Eu me pergunto o que acontece se eu o cortar fundo o suficiente - as memórias de suas vítimas sangrarão? O que seria assim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Nós a encontramos logo depois que você veio ao tribunal. Seus talentos selvagens de manipulação floresceram muito cedo - quando eu a entreguei ao palácio imperial, eu tinha quase certeza de que [url=glossary:kyros]Kyros[/url] se livraria da criança problemática."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Para minha surpresa, [url=glossary:kyros]Kyros[/url] deixe a garota viver - embora eu suponha que o soberano tenha assumido maiores riscos em talentos mais perigosos. Ela ainda é jovem e pode se mostrar leal e forte, mas imagino que um dia ela tire o capacete e eu seja convocado para acabar com ela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"A vergonha é um lembrete abrasador."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Lembrete de quê?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Vergonha? Você é o culpado pela traição dele?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Qual foi exatamente o crime dele?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Não exatamente, mas eu sou [url=glossary:kyros]Kyros[/url]' blade. Eu deveria ter sido o único a acabar com sua existência. Mas, [url=glossary:cairn]Cairn[/url] era um dos poucos que poderia rivalizar comigo em combate pessoal. Porque eu não era forte o suficiente para superar [url=glossary:cairn]Cairn[/url], [url=glossary:kyros]Kyros[/url] recorri a usar o [url=glossary:edict]Edital[/url] de Pedra... foi evitado se [url=glossary:cairn]Cairn[/url] pudesse apenas sangrar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"[url=glossary:cairn]Cairn[/url] ficou obcecado com o Camadas - a massa de terra real do Camadas - ele não deu a mínima para as pessoas. Mas ele... chegou à conclusão de que [url=glossary:kyros]Kyros[/url] não tem direito ao Camadas. Você não precisa saber o soberano contanto que eu tenha que saber para não dizer essas coisas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Eu sei que você finalmente acabou com ele. O [url=glossary:edict]Edital[/url] de Stone foi uma execução lenta e confusa - e o Camadas está melhor com o [url=glossary:edict]Edital[/url] colocado para descansar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"O que você faz o dia todo quando não está espreitando e matando?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Como você se tornou o Arconte das Sombras?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Conheço você há décadas, mas não sei nada sobre seu passado. De onde você veio?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Então qual é a história desse lugar? O ambiente é muito... você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url].] Ele solta um longo suspiro, balançando a cabeça, sem graça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"O Senhor Supremo [url=glossary:kyros]Kyros[/url] me concedeu o título. Foi quando me tornei o Arconte das Sombras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Sim, eu entendo como você chegou formalmente ao título, mas como seus poderes se desenvolveram?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Algum agente de [url=glossary:kyros]Kyros[/url] acabou de varrer você da rua?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Esqueça que perguntei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Felizmente, garoto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Admito que às vezes me pergunto se nasci com esse poder - poder que levou tempo para se manifestar, ou se apenas... passei a gostar mais das sombras do que dos outros. Eles eram meu consolo quando o sol me doía. Eles eram minha chance de desaparecer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Garoto, EU SOU o agente de [url=glossary:kyros]Kyros[/url]. Eu estava matando por quase duzentos anos antes de chamar a atenção de Soberano. Ou devo dizer, antes que ela pegasse o meu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Lembro-me de que deveria ter sido eu quem acabou com ele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>[Mostre a ele um pedaço de Carin.] "Eu tenho o coração dele. Quer ver?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] é um governante bastante paciente, considerando todas as coisas - se não fosse esse o caso, [url=glossary:the voices of nerat]o Vozes de Nerat[/url] teria sido cortado em cubos há muito tempo. Mas insultar ou menosprezar o Soberano é um caminho rápido para aprender tudo o que há para saber sobre ser um cadáver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"O [url=glossary:edict]Edital[/url] de Pedra trabalhou nele, pois drena seus poderes sobrenaturais de resiliência. Até minha lâmina mais afiada resvalaria em sua pele pedregosa, felizmente [url=glossary:kyros]Kyros[/url] tem uma variedade maior de armas à sua disposição."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>[Segure a mão de [url=glossary:cairn]Cairn[/url].] "Ei, olhe, [url=glossary:cairn]Cairn[/url] está acenando para você. Diga olá."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>[Mostre o olho de [url=glossary:cairn]Cairn[/url].] "Leva dê uma olhada nisso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"De onde ele veio?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Ele é claramente desonesto, por que [url=glossary:tunon]Tunon[/url] nunca o sentenciou à morte e fez um favor a todos nós?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"O que é [url=glossary:graven ashe]Cinza esculpida[/url] história?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Ferramenta confiável? Não exatamente um grande elogio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"O que me torna uma marionete de marionete - mas pelo menos não sou eu que sou obrigada a cuidar da corte o dia todo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Qual é a história com [url=glossary:tunon]Tunon[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Qual é exatamente o seu dever para com ele e vice-versa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Você não se importa muito com ele, eu entendo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"[url=glossary:tunon]Tunon[/url] está com [url=glossary:kyros]Kyros[/url] ainda mais do que eu. A história diz que [url=glossary:kyros]Kyros[/url] começa a marchar em direção a [url=glossary:tunon]#990002 A pequena vila de #[/url] - claro, ele não se chamava [url=glossary:tunon]Tunon[/url] então. Qualquer maneira, nosso futuro mestre mascarado coloca na cabeça que a única maneira de salvar seus aldeões e a si mesmo é adotar as leis Soberano ANTES das tropas chegarem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Eu pagaria bons anéis para ver como essa sugestão foi aprovada pelos outros aldeões. Nós vamos, acho que [url=glossary:kyros]Kyros[/url] brilhou nessa conversão fácil e o resto é história. Mas vale a pena notar, [url=glossary:tunon]Tunon[/url] nunca me disse uma palavra sobre isso - este sou eu batendo minha mandíbula com boatos, como Calio diria."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Mudou ao longo dos anos. Antes que os outros percebessem que eu não sou um sociopata mastigador de móveis, [url=glossary:tunon]Tunon[/url] era um observador atento e diretor, mas agora ele é meu alto justicar e eu seu carrasco."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Verdade seja dita, tem sido um acordo de trabalho agradável há alguns séculos. [url=glossary:tunon]Tunon[/url] fala mais, moro no meu canto sombrio até que alguém precise matar. Não é como se eu quisesse ser a figura de proa no topo de um estrado - a única atenção que eu quero é as pessoas sussurrando meu nome com medo, então eu fico sozinho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Velho? Então há alguma afeição por ele?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Oh, eu não disse isso - há apenas uma questão do que por trás dessa máscara é uma pessoa e o que é uma regurgitação de [url=glossary:kyros]Kyros[/url]' palavras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Afeto? Você está me confundindo com algum tipo de açougueiro com um coração de sol? Respeito a constância e o raciocínio de [url=glossary:tunon]Tunon[/url], e não confunda isso com nada que se aproxime do carinho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"O que você sabe sobre as Torres de Oldwalls ao longo do Camadas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Qual é a melhor coisa a se ter quando alguém está tentando te esfaquear pelas costas? Não, não uma couraça de ferro - pense maior, mais impenetrável e mais alto. Como uma pedra Pináculo que pode literalmente elevar você acima de seus inimigos."
+
+Ele mostra os dentes, mas não há calor em seu sorriso.
+
+"Há um poder que vem de estar acima do resto, você sabe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Fale-me sobre Pináculo Oceânico de Stalwart."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Fale-me sobre o Pináculo do pôr do sol em Haven."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Fale-me sobre os Spires no [url=glossary:stone sea]Mar de Pedra[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Tenho outras perguntas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Com um aceno de cabeça, ele desaparece na escuridão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Alguns séculos atrás, os Regentes de Stalwart pensavam que a grandeza os aguardava, caso chegassem ao topo. Claro, eles perderam tantos engenheiros no processo, que acabaram abandonando a tarefa por uma missão tola."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Os Oldwalls em Haven - ou melhor, aqueles que ainda permanecem - conecte Rios gêmeos e [url=glossary:lethian's crossing]A travessia de Lethian[/url]. No entanto, acredito que a entrada de Lethian foi selada para proteger o assentamento contra uma infestação crescente de Maldito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Esse seria o Pináculo da Aurora e o Pináculo do Amanhecer que você está falando. O que eu realmente quero saber é por que [url=glossary:cairn]Cairn[/url] abriu caminho para o Pináculo do Amanhecer quando o [url=glossary:stonestalkers]Perseguidores de Pedras[/url] - seus apoiadores mais ferozes durante sua queda - há muito acampavam no Pináculo da Aurora?" Ele suspira e as sombras voam e estremecem ao redor dele. "Talvez o Pináculo da Aurora estava muito contaminado com sangue para fornecer a cura necessária."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Ele olha para você, silencioso e imóvel como a noite, seus olhos dourados duas chamas bruxuleantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Fingindo ser sua sombra e rindo de como você nunca percebe. Brincadeirinha, tenho coisas mais importantes para fazer."
+
+Ele examina as unhas de uma mão e, mais rápido do que os olhos podem acompanhar, tira uma lâmina preta de sua bainha, passando a ponta sob uma unha para raspar uma mancha de sangue seco.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Nós vamos, não era um lugar de sol. Matei muita gente para chegar onde estou hoje, garoto. Comecei como soldado, onde sangrei meu primeiro de muitos punhais. Algumas eu gostei. Uma parte eu me arrependo."
+
+Ele oferece um sorriso irônico, seus dentes chatos e totalmente brancos contra as sombras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Olho atento, garoto. O que eu gosto em você é como você nunca deixa de notar o óbvio." 
+
+Ele abre os braços e lhe dá um aceno de boas-vindas, se não caloroso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"O que precisa ser dito? O velho é uma criatura de pergaminho e precedente. Pode ter havido esperanças e sonhos lá, mas ele é apenas um recipiente para a lei - um fantoche de [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Esse nome! O Arconte de Pedra ainda pesa muito em minha mente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Só se ainda estiver batendo. É preciso muito para me impressionar hoje em dia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Você sabe que eu poderia te matar, certo? Pare com isso, garoto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Eu posso ver muito bem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Eu admito o que você quiser. Veja, mentir é fácil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>Ele dá de ombros.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Quero lhe perguntar sobre outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Talvez outra hora. Você é muito curioso para o seu próprio bem, garoto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Agora você está fazendo o tipo certo de perguntas, garoto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>Nó de script 39</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Nó de script 211</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Nó de script 212</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Nó de script 213</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>Nó de script 164</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"O que você quer dizer com... 'ela'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Você queria desaparecer? Por quê?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>Ele pisca os olhos brilhantes e ardentes e cantarola pensativamente. O canto de uma boca se curva, mas ele não responde enquanto se afasta na escuridão total do nada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Com uma reverência final e zombeteira, ele desliza rapidamente para as sombras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Eu queria parar de ser quem eu era e o que eu tinha feito. Acho que tive minha chance, no final."
+
+Ele toca as pontas raspadas de seu cabelo branco, quase com pesar, e com um único passo para trás, desaparece na escuridão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Brincadeira, nada é mais importante do que você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Coleciono lugares de que gosto e gosto deste lugar. Eu matei um Arconte aqui uma vez. Talvez você possa sentir isso. Enquanto a escuridão comia seu corpo, as árvores absorviam sua magia de uma maneira... interessante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"Tenho imenso respeito por [url=glossary:tunon]Tunon[/url], mas o conheço há séculos e não posso dizer quem lhe ensinou magia - suponho que [url=glossary:kyros]Kyros[/url] - ou qual lado do pão é amanteigado. E eu apenas presumo que ele não tem nada sob esse manto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Além do mais, um Arconte da minha estação não deve ser visto com essas coisas. Estou apontando para o Arquivo Silencioso para seu próprio aprimoramento, mas, infelizmente, o [url=glossary:kyros]Kyros[/url] não tem nenhuma lei exigindo que você siga um bom conselho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Ele era um herdeiro nobre de algum... feudo pantanoso de lugar nenhum que era o próximo na [url=glossary:kyros]Kyros[/url]' lista de lugares para escravizar. Sua família pegou em armas para defender suas terras de [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Nós vamos, pelo menos essa era a intenção deles. Nerat vendeu sua família - torturou-os e interrogou-os a todos e deu os movimentos de tropas aos servos do Arconte da Miséria."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Bem, até recentemente, ele sempre jogou pelas regras que importam. Certo, ele deixa seus soldados fazerem o que quiserem com quem quer que seja, mas ele faz um grande esforço para dar [url=glossary:kyros]Kyros[/url] pouco espaço para [url=glossary:edict]Edital[/url] ele na parte de trás."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Ele certamente faz mais para preservar as populações conquistadas do que [url=glossary:graven ashe]Cinza esculpida[/url], aprova leis para proteger as crianças, instrui seus agentes a tratarem Vinculadores do Destino como pequenos Senhores Supremos... ele sabe ficar escondido na grama."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Ashe era um vassalo no Reino do Norte, e enquanto seus compatriotas foram massacrados na guerra, seu bando era uma sombra assassina nas montanhas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Quando seu exército prendeu e matou Eco de sangue, antes de Arconte de Guerra, ele passou de marechal atrasado a herói de um reino moribundo... e alvo número um para o outro Arcontes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Nerat deveria executar Ashe, mas Ashe sobreviveu e isso deixou [url=glossary:kyros]Kyros[/url] MUITO ansioso para recrutar Ashe. Tudo o que tínhamos a fazer era oferecer anistia à sua legião - todo mundo tem um preço."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Ele é realista, pragmático, e seu ego é apenas um pouco inflado - traço raro em nós Arcontes. Ele ouve o Tribunal, ele até ouve os conselhos de seu [url=glossary:iron guard]Guarda de Ferro[/url] - não que eu tenha ouvido seus bate-papos ou algo assim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Pense desta forma, aqui está um cara que dedicou sua vida a lutar [url=glossary:kyros]Kyros[/url], venceu todas as batalhas, mas perdeu a guerra. Então ele vê que não pode fazer nada contra a maré inevitável dos Editais e então ele se adapta - eu respeito um homem que pode guardar rancor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Mas se você está querendo acessar a Pináculo do Oceano câmara central, eu conheço uma brecha considerável na Oldwalls, graças à destruição de um certo [url=glossary:edict]Edital[/url], que deve permitir - ilegal - entrada." Ele olha para você com interesse e desafio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Essa braçadeira que você está usando é bastante... atraente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Mhm. Aposto que você está pensando que algo assim ficaria ainda melhor em você, certo, garoto?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Isto?" Ele acena com o braço esquerdo no ar, examinando o bracelete mais preto que preto, o bracelete que parece simultaneamente sólido como obsidiana e diáfano como um suspiro - quase... uma coisa viva e pulsante. "Esse seria meu Ligação de sombras. Quer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Certo, sim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Não, não, eu não poderia... realmente..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Você só me daria? Por quê?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Com um grunhido áspero e alguma dificuldade, ele arranca a braçadeira - então é sólida, afinal - e a joga para você, com uma mão. 
+
+"Cuidado com isso," ele avisa quando você aceita o presente. "Não só as armas podem ser facas de dois gumes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Experimente e descubra."
+
+Ele sorri, dentes duros, chatos e largos.
+
+"Eu gosto de você, garoto, eu não iria te enganar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Mas você deve pegá-lo agora. Eu insisto - apenas para que eu possa ver a expressão em seu rosto quando você o coloca." Seus olhos brilham com um interesse sombrio, uma diversão astuta, enquanto ele observa você, sua expressão uma máscara de sombras para esconder sua verdadeira intenção.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Ok. Entregue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Experimente e descubra."
+
+Ele sorri, dentes duros, chatos e largos.
+
+"Você sabe o que dizem, mantenha seus amigos por perto..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Ele olha para você, as pupilas se expandindo lentamente para engolir o branco dos olhos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Excelente. Então não preciso responder mais nenhuma de suas perguntas estúpidas."
+
+Com um sorriso de escárnio, o Arconte das Sombras desaparece na escuridão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>Garras curvas arranham suas costelas, rabiscando linhas vermelhas raivosas em sua pele.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Ar tem gosto amargo, tem gosto errado. Encaixe na parte de trás da da mulher-fera língua."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Ele sorri, largo e perigosamente, os dentes brilhando na escuridão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Chega de perguntas por enquanto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>O Arconte se dissolve nas sombras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Te vejo mais tarde. Por enquanto, pegue isso e pense nisso."
+
+Sua mão direita se lança para a frente, e uma dor aguda atravessa sua caixa torácica. Seu primeiro pensamento é que você foi esfaqueado, mas quando você agarra o ferimento, é apenas o punho dele que você sente, agarrado com força, um pergaminho dobrado enfiado entre os nós dos dedos. Você pega o pergaminho e o Arconte termina a mão com um empurrão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Corra junto, sim? E tente não ser morto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Os Oldwalls em Haven - ou melhor, aqueles que ainda permanecem - conecte Rios gêmeos e [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Não posso dizer que de Lethian me interessa particularmente. Embora tenha seus encantos - e bordéis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"Então Nerat contratou o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] para proteger o Cruzando. Eles não parecem se importar com a perda de vidas. Ou quebrar a lei [url=glossary:kyros]Kyros[/url]' para entrar na Oldwalls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"O [url=glossary:forge-bound]Forge-Bound[/url] certamente sentiu sua atração. Eles acharam sábio erguer sua forja à sombra de um Pináculo. O que é ótimo, se você não se importar com o ataque Maldito ocasional. O Pináculo certamente melhora a habilidade artesanal do [url=glossary:forge-bound]Forge-Bound[/url]. Mas há mais do que alguns Maldito de imensa... capacidade à espreita em Oldwalls de Haven."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

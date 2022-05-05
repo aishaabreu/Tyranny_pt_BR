@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\00_recruits\00_cv_library_skilltrainer_lithos</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Vamos treinar mais tarde, Vinculador do Destino. Preciso descansar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Posso oferecer-lhe o benefício da minha sabedoria, Fatebinder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"A palavra de seus atos chega até mim, e pouco gosto do que ouço... O que você quer comigo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Meu pináculo é seu, Vinculador do Destino... oh, talvez eu tenha invertido. Algo sobre este lugar me faz querer... possuí-lo." 
+
+"O que posso fazer por você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Um mago franze os lábios enquanto lê um dos muitos pergaminhos de sua biblioteca. Ele se encolhe quando percebe você. "Ah! Hum. Saudações. Você deve ser o guardião deste lugar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Quando vi caixas de tomos e pergaminhos sendo entregues aqui, bem... minha curiosidade me venceu." Ele ri desconfortavelmente.
+
+"Devo admitir, eu não sabia que isso Pináculo estava ocupado. Desculpas pela intrusão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Você pode compensar isso me treinando na magia de [url=glossary:cairn]Cairn[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Mentira] "Más notícias, amigo - você está preso aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Sua sobrancelha se ergue com interesse. "Promete? Sempre quis que um aluno se desenvolvesse e aperfeiçoasse com o tempo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"eu... eu sou? Mas você parece ir e vir por meio daquele bloco de pedra..." Ele olha por cima do seu ombro e franze a testa. 
+
+"Nós vamos, isso é um inconveniente. Parece que calculei mal os riscos associados a este meu pequeno empreendimento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Ele suspira. "Nós vamos, parece haver comida e provisões suficientes para sustentar um humilde mago aqui, então, com sua permissão, é assim que viverei meus dias restantes em cima deste frio e frio Pináculo."
+
+ Ele olha para as prateleiras de pergaminhos com preocupação. "Dificilmente um clima apropriado para manter o pergaminho, mas terá que servir. Se quiser, podemos passar o tempo discutindo os fundamentos da magia da terra?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Vamos falar de mágica."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Deixar] "Vou usar suas habilidades mais tarde. Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Posso oferecer-lhe o benefício da minha sabedoria, Fatebinder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\01_cv_ssik_postbattle_peacetime</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"A fortaleza estará em forma assim que tiver algum trabalho feito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ashe vai querer ouvir sobre o que realizamos aqui. Vou ficar para trás e supervisionar os reparos das defesas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"É bom ver essas pedras antigas novamente. Já estamos trazendo o lugar de volta à sua antiga glória."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"A fortaleza está segura em nossas mãos. Os reparos já estão em andamento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Você deve verificar com [url=glossary:the voices of nerat]o Vozes de Nerat[/url]. Vou ficar para trás e ver os reparos em Posto de Sentinela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Mattias deve estar a caminho de [url=glossary:ascension hall]Salão da Ascensão[/url]. Vou ficar para trás e supervisionar a restauração de Posto de Sentinela."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

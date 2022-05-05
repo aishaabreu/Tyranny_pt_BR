@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>game\gui</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4559</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4579</ID>
+      <DefaultText>A Camada Bastarda</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4581</ID>
+      <DefaultText>Tales from the Camadas está atualmente instalado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4582</ID>
+      <DefaultText>Tales from the Tiers não está instalado no momento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4583</ID>
+      <DefaultText>Ferida do Bastardo está atualmente instalado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4584</ID>
+      <DefaultText>Ferida do Bastardo não está instalada no momento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4596</ID>
+      <DefaultText>Por favor, clique para mais informações.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4597</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

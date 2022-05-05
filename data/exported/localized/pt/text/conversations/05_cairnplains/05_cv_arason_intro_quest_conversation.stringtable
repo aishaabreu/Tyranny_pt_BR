@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\05_cairnplains\05_cv_arason_intro_quest_conversation</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>45</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Como vai, Vinculador do Destino? É um ótimo dia em [Plainsgate], não é?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"O que esse velho raquítico pode fazer por você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"O que exatamente você faz aqui na cidade?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Alguma coisa importante acontecendo na cidade?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Mostre-me o que você tem à venda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Nós vamos, eu sou seu homem para qualquer coisa que você precisar. Armas? Tenho alguns que funcionam. [url=glossary:armor]armaduras[/url]? Desde que você goste dele cortado. Precisa de uma ovelha? Tenho ovelhas."
+
+"Também troco relíquias, mas há muito tempo que não tenho uma boa. Embora... talvez você possa mudar isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Quando o Azure dividido em [url=glossary:stone sea]Mar de Pedra[/url], as planícies surgiram, instantaneamente devastadas. Muita gente foi engolida. Muitos assentamentos foram cuspidos. Agora, é uma história triste, mas o resto de nós - temos que viver. Desenhe nossos próprios destinos." 
+
+Arason esfrega as mãos trêmulas e nodosas, manchadas de fígado. Ele lambe os lábios secos e rachados.
+
+"Você já ouviu falar do Everwell, não ouviu? Nós vamos, há rumores de ter surgido recentemente no [url=glossary:stone sea]Mar de Pedra[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Não só é cravejado de joias, mas o Everwell's é uma relíquia de origens arcanas. Todo azuriano conhece as histórias do tinteiro azul que nunca secou, que desapareceu em um respingo de pedra durante o [url=glossary:edict]Edital[/url]. Deveria pensar que o Sábios pagaria um bom centavo por uma ferramenta tão boa. Encontre-o e estaremos nadando em tinta e anéis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"E não se esqueça, Fatebinder - você o encontra. Você traz para mim. Foi meu conhecimento que o colocou na busca."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Tudo bem, estou intrigado. Onde pesquiso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Outra hora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Se esses ouvidos ouviram a verdade, você deve começar em Apedrejar. Isso vai ser bom, você vai ver. Eu nunca vendi um item encantado de tal poder antes. Ouvi uma vez que o Everwell foi derramado e quase brotou um lago antes que pudesse ser corrigido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Não, não realmente. A população murchou como uma videira seca, mas os negócios se mantêm estáveis. Há muitos viajantes que passam a caminho de do Azure planícies."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Por que a população diminuiu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Você quer dizer o andar do mar? Quantos desses viajantes você já viu novamente?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Gostaria de falar sobre outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"O Azure não é mais o lugar mais seguro para se viver. A maioria das pessoas em [Plainsgate] morreu ou fugiu durante o tumulto, embora admitamos que não sofremos o impacto disso. Qualquer maneira, os que sobraram logo voltaram os olhos para as riquezas espalhadas no chão do [url=glossary:stone sea]Mar de Pedra[/url]." 
+
+O velho coça um ombro magro.
+
+" Poucos ficam por aqui tempo suficiente para colonizar a cidade hoje em dia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Não muitos. O andar do [url=glossary:stone sea]Mar de Pedra[/url] é perigoso, e as pessoas geralmente morrem enquanto procuram tesouros perdidos. Costumava ser terra de cultivo. Uma cama verde rolante até onde a vista alcançava. Alimentado todo o Reinos." O velho balança a cabeça tristemente. "Agora olhe para ela. Nada além de fragmentos de rocha e ruínas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Como você se saiu em sua pequena caça às relíquias? Dizer eu direto agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Encontrei o Everwell. Aqui está."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ainda estou procurando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Hmph, bem, tudo bem. Mas dê um passo à frente! Um velhote como eu não precisa esperar tanto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Oh, minhas estrelas... Vinculador do Destino... olhe... olhe para isso. Isso é... é mais bonito do que eu poderia imaginar! Oh! Sua recompensa! Sim, sim, claro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Tome isso, Vinculador do Destino. Com cuidado, agora. Mm, sim... Foi um verdadeiro benefício fazer negócios com você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Mostre-me o que você tem à venda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Sabe alguma coisa sobre a derrota de [url=glossary:cairn]Cairn[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Eu ouvi as histórias sobre a queda de [url=glossary:cairn]Cairn[/url] - arfando e gritando, dobrando-se e destruindo o chão a cada passo. Eventualmente, ele começou a engatinhar, gemendo como uma porca grávida. Estremeceu e caiu em Rocha Uivante. Foi quando o chão tentou engoli-lo. A cidade está estrondosa desde então."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Como chego a Rocha Uivante?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Não sei, Fatebinder! Mas posso direcioná-lo para Apedrejar - a encruzilhada do [url=glossary:stone sea]Mar de Pedra[/url]. Ele o levará a praticamente qualquer outro lugar da região... principalmente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"O Everwell?! [url=glossary:kyros]Kyros[/url]' tit, que tesouro! Você poderia arrancar as gemas por tudo que eu me importo, apenas imagine o que eu poderia fazer com um suprimento infinito de tinta!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Do jeito que eu ouvi a história, o Everwell foi originalmente feito pelo Sábios, mas em 238, [url=glossary:sage]Sábio[/url] Analisando Cotovia ofendeu o Rainha de Azure em um visitar e nunca mais voltou vivo. Desde o Everwell estava perto o suficiente de Azure em cores para divertir o Rainha, ela guardou a relíquia para si mesma, então a usou para escrever o Sábios uma nota de agradecimento pelo presente. Nós o roubamos em 246, então de alguma forma o perdemos novamente em 350 de uma maneira tão humilhante e idiota que meus irmãos não conseguiram notar o porquê nas histórias..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Vou buscar o Everwell para você. Onde pesquiso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Bem-vindo de volta, Vinculador do Destino!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"O que você pode me dizer sobre as Agulhas da região? Imagino que você tenha negócios com viajantes dessas áreas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Não posso dizer que sei muito sobre eles, mas encontro alguns... interessantes... itens dessas partes de vez em quando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Esse cara não voltou desde então. Disse que estava indo para Apedrejar. Então, não posso realmente fazer perguntas a ele sobre isso, infelizmente. Mas pode valer a pena dar uma olhada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Por exemplo, na semana passada, alguém me vendeu um carvão que foi tirado de dentro de uma das torres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"O [url=glossary:scarlet chorus]Coro Escarlate[/url] quase extinguiu o pequeno espírito que o povo de [Plainsgate] havia deixado desde que a praga começou. Eu posso ver um vislumbre de esperança voltando para eles agora. Eu gostaria de mostrar minha gratidão oferecendo a você um preço especial em todos os meus produtos, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>O velho se vira para cumprimentá-lo antes de de repente ficar em silêncio ao ver o escudo ao seu lado. "Eu peço desculpas Vinculador do Destino, mas as palavras me escapam... É isso que eu acho que é?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Sim, eu peguei de volta dos homens-fera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Ah, essa coisa velha?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Uma única lágrima se forma em seus olhos. "As histórias nunca fizeram justiça. O Reino de Azure havia adquirido muitas relíquias em seu tempo, mas nenhuma superava a beleza daquele escudo ao seu lado. Você faria bem em mantê-lo perto - esse escudo protegeu muitos grandes guerreiros em seu tempo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Velho o quê?!" O homem luta para recuperar os sentidos. "Que por acaso é o Escudo Azure, o lendário artefato do Reino de Azure!" Ele balança a cabeça. "Eu não sei como você se deparou com isso, mas eu tomaria muito cuidado com isso. Você tem anos de história ao seu lado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"As pessoas de [Plainsgate] não são conhecidas por serem bem-vindas. Difícil culpar alguém que foi espancado a vida inteira. Mas desde que os terremotos pararam, vi um calor emergir nesta cidade que eu quase esqueci que existia."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

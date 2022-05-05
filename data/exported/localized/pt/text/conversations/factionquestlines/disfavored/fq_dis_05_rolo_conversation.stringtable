@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\factionquestlines\disfavored\fq_dis_05_rolo_conversation</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Saudações, Vinculador do Destino. Não sei o que te traz a Rocha Uivante, mas se for mais interessante do que esses obsessivos adoradores do rock, sorte sua."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Você precisa retirar de Rocha Uivante imediatamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Os sacudidores de terra estão me pagando uma quantia decente para garantir que seus negócios não sejam interrompidos. Desculpe, mas não quero me despedir desses anéis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Eu posso pagar isso, mas você e seus mercenários precisam sair agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Façam as malas, rapazes! Nós somose deixando os magos do rock para estudar seu amigo calcificado em paz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Não posso falar agora, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Voltarei quando tiver os anéis. Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Digo-lhe uma coisa - você desembolsar mais de 1.000 anéis e estaremos a caminho. Que tal isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"O que te traz de volta, Fatebinder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Agarre a garganta dele.] "Acho que você deveria pegar o que já ganhou e deixar Rocha Uivante antes que eu te machuque."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Seus olhos se arregalam. "Ok, tudo bem! Não pode culpar um homem por tentar ganhar a vida, certo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Tenho os anéis que você queria. Depois que eu pagar, você vai embora."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

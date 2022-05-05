@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\worldevents\01_bs_sskassault</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"O Vinculador do Destino? Eu mesmo te levo - Posto de Sentinela será nosso!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Esses vômitos revestidos de ferro eram apenas um gosto. Mantenha seu sangue fervendo e podemos tomar aquele maldito castelo!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Quem está pronto para mais? Primeiro para espetar um dos Ashe lacaios ganha a bolsa!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Reforços! Lâminas para fora!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Atrás de nós! Mate o Vinculador do Destino!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>À medida que o último corpo cai no chão, você vê os restos das forças invasoras se espalhando à distância. Você quebrou decisivamente o avanço do inimigo sobre a fortaleza, garantindo que Posto de Sentinela permaneça firmemente em seu controle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Muito bem, homens! Esse ralé não pode nos derrotar enquanto Geral Ashe nos vigiar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Preparem-se! Devemos atacar Posto de Sentinela enquanto o monentum está do nosso lado. Para [url=glossary:graven ashe]Cinza esculpida[/url]!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

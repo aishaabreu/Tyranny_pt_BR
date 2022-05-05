@@ -1,0 +1,389 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\06_endgame\06_cv_tunon_investigation_midact</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>73</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Você retorna como convocado, apesar do peso da responsabilidade em seus ombros. O tribunal agradece sua dedicação ao nosso bom trabalho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Eu entendo que você fez um nome para si mesmo nas fileiras do [url=glossary:disfavored]Desfavorecido[/url]. Bom - com a confiança de seus soldados, você não deve ter problemas para erradicar a corrupção ou o caos na legião de elite de [url=glossary:graven ashe]Cinza esculpida[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"O [url=glossary:scarlet chorus]Coro Escarlate[/url] cante seu nome no Camadas. Você deve ter tomado algumas medidas brutais para ganhar o interesse deles. Não é pouca coisa..." "Não importa quais terrores você inflija neste reino caído, espero que você continue a observar [url=glossary:the voices of nerat]o Vozes de Nerat[/url]. Se ele semeou o caos nesta campanha, o Tribunal saberia disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Parece que as facções dissidentes do Camadas têm alguma estima por você. Desconfie de estreitar seus laços com os selvagens Sulista. Devemos governar essas pessoas, não andar entre elas." 
+
+"Se suas atividades lançarem luz sobre o que aconteceu em [url=glossary:vendrien's well]Poço de Vendrien[/url] e o caos do Camadas, então confiamos seu julgamento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Você passou algum tempo em seu próprio reconhecimento. Os esforços de nossos militares e os desafios que eles enfrentam não devem ser mistério para você." 
+
+"Diga-me... você está mais perto de determinar qual dos Arcontes é o culpado pelos problemas desta campanha?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Não há dúvida - [url=glossary:the voices of nerat]o Vozes de Nerat[/url] é culpado de incitar o caos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"eu acredito que [url=glossary:graven ashe]Cinza esculpida[/url] é o culpado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Interessante. Com que fundamento você faz essa afirmação?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] aproveitou todas as oportunidades para provocar [url=glossary:graven ashe]Cinza esculpida[/url]. Ele instigou a guerra civil a acontecer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Tenho algumas provas de que o Arconte pode estar tramando algo suspeito no Camadas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Nós vamos, apenas olhe para ele. Ele é aterrorizante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"O Arconte da Guerra se orgulha de sua lealdade, e os lutadores habilidosos que ele treina mudaram o rumo desta guerra em várias ocasiões. Com que fundamento você faz essa afirmação?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Acredito que ele cometeu atos terríveis ao longo da campanha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Ele parece muito dedicado aos soldados sob seu comando. Acredito que ele comprometeria a guerra pela segurança deles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ele é superzeloso. Ele desconsideraria a lei [url=glossary:kyros]Kyros[/url]' para ver seus objetivos alcançados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Eu suspeitava disso, mas o que o Arconte dos Segredos pensa que pode ganhar ao incitar tal conflito é uma incógnita."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Sua confiança encoraja, mas dificilmente inspira. Quando chegar a hora de apresentar suas descobertas, certifique-se de não decepcionar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Suas declarações não impressionam este Tribunal. Espero que você tenha mais a dizer quando eu o chamar para apresentar provas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Você compartilha minhas suspeitas, mas sem provas concretas não temos nada. Continue sua busca, mas desconsidere seus sentimentos sobre o assunto. Eles só vão confundir a fria realidade da lei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Compartilho suas reservas, e há um precedente para suas reivindicações. Ashe considera seus soldados como família. Isso pode ser uma grande força ou uma terrível fraqueza da parte dele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"O velho General é um homem de grande paixão. Há uma certa verdade no que você diz, mas eu hesitaria em oferecer qualquer credibilidade sem provas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Estou ansioso para receber seu relatório completo. Vou chamá-lo novamente no momento apropriado." 
+
+"Se não houver mais nada, você está dispensado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Você não faz alianças com os poderes em jogo no Sul. Talvez você esteja desconfiado de se aproximar daqueles sob nosso escrutínio."
+
+"Tome cuidado com sua cautela. Os Arcontes não vão revelar seus segredos para um estranho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Apesar de sua carreira condecorada, os poderes dos Tiers estão praticamente alheios à sua presença. Você deve continuar a espalhar a lei [url=glossary:kyros]Kyros[/url]'. Faça um nome para si mesmo. Só então você poderá descobrir a raiz do caos em nossa campanha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Estou feliz por ser um trunfo para as forças [url=glossary:kyros]Kyros[/url]' e por arrancar o caos pela raiz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Os Tiersmen são poderosos o suficiente para desafiar as forças [url=glossary:kyros]Kyros[/url]'. Posso aprender com eles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Não confio em ninguém além de mim mesmo para trazer ordem ao Camadas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Não é suficiente ver este reino cair no caos que devo intervir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Isso é tudo que esta corte já exigiu de você. Você faz bem em relembrar seus deveres com tanta precisão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Isso, infelizmente, não pode ser negado. Muito bem. Se você encontrar algum valor estratégico em se envolver com os que alimentam o fundo desta nação em dificuldades, então vá com a aprovação do tribunal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Não diga nada.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Você acha que o silêncio o protege do julgamento? Não insulte este tribunal com jogos infantis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Os [url=glossary:disfavored]Desfavorecido[/url] são o martelo que eu balanço no Camadas. Nada mais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Seu desapego é admirável, mas certifique-se de temperá-lo com sabedoria. Não seja tão rápido em desconsiderar seus aliados. Você pode acabar confiando neles mais do que esperava."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Os [url=glossary:scarlet chorus]Coro Escarlate[/url] são soldados de papel que envio para a fornalha da guerra. Útil... por enquanto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Embora a multidão uivante às vezes pareça entusiasmada em se livrar de soldados descartáveis, esta corte mantém você em um padrão mais alto. Você é a elite escolhida - mais alta na minha estimativa do que qualquer um dos chefes de gangues implacáveis. Não se esqueça disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Não é minha intenção trabalhar com esses Sulista mais um momento do que o necessário."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Você faz bem em se distanciar deles. Embora enquanto você compartilha a empresa deles, você pode ficar em seu favor." 
+
+"Pacificando os níveis sem mais perdas de vidas é uma perspectiva de ouro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Suspeito que os Tiersmen possam se governar melhor que até mesmo [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Essa é uma afirmação ousada, mas posso dizer que você está pronto para defendê-la. Mesmo que eu não possa agradecer por um comentário tão contundente... o Tribunal aprecia sua honestidade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"A confiança é um poderoso estimulante. Tome cuidado para não entorpecer seus outros sentidos." 
+
+"A corte acredita no seu valor, mas as guerras não são vencidas sem aliados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Você está aqui para ficar no caminho do caos. Mesmo que isso signifique sua morte, você aceitou este cargo com o entendimento de que sua existência não tinha sentido. [url=glossary:kyros]Kyros[/url]' A paz é maior do que qualquer um de nós." 
+
+Você não percebeu, mas a máscara de [url=glossary:tunon]Tunon[/url] enrugou sob a força de seu escrutínio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Aproveite esta oportunidade para provar que minha confiança em você não foi perdida. Se não estivéssemos em tempos de guerra e necessidade, você me acharia menos indulgente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Entendido, Árbitro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Se você diz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>[Não diga nada.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"De fato, sim. O tribunal precisa de sua obediência e, no entanto, detecto uma independência problemática em você. Não importa... por enquanto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Tenho algumas perguntas primeiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Nó de conversão de gatilho 62</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"'Pode estar tramando algo suspeito.' Seu talento para o eufemismo é impressionante, Vinculador do Destino..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Não acredito que estou ouvindo isso. Você não viu os feitos honrosos do [url=glossary:disfavored]Desfavorecido[/url] durante a conquista? O que mais você precisa para o Arconte provar seu valor?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Barik, silêncio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Eu tive que nomear alguém. Não vou implicar Ashe sem justa causa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Nunca em sua vida! O General é um servo fiel de [url=glossary:kyros]Kyros[/url]!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Ashe é dedicada às suas tropas, mas nunca ouvi falar disso como uma fraqueza antes..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Não tenho informações suficientes para fazer uma acusação informada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Não encontrei evidências suficientes em nenhum dos Arconte. Não me sinto à vontade para fazer uma acusação neste momento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Venha agora. Sua decisão não o vincula a uma acusação... neste momento. Eu só gostaria de saber se você teve sucesso em descobrir qualquer evidência de delito ou má conduta. Se você acredita que algum dos Arcontes agiu de maneira não condizente com sua estação, dê voz a ele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Talvez este tribunal tenha confiado demais em você, Vinculador do Destino. Ou talvez você tenha recebido muita margem de manobra com base em sua estação. Estou desapontado que você ainda não encontrou evidências suficientes para sugerir qual dos Arcontes pode ser o responsável. Vou permitir que você continue sua investigação, mas sugiro que seja mais vigilante em seus deveres."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Não é surpresa que suas atividades sejam monitoradas de perto. Como uma extensão da lei [url=glossary:kyros]Kyros[/url]' na fronteira, seu progresso é um tópico de algum interesse." [url=glossary:tunon]Tunon[/url] faz uma pausa para olhá-lo com um olhar intenso. "Enviei você em uma missão para trazer ordem ao caos desta guerra civil. Não se passou tempo suficiente para que eu esperasse algum progresso significativo, mas estou curioso sobre suas descobertas mesmo assim. Quero ter certeza de que seu tempo fora da sombra Tribunal está sendo usado de forma eficaz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"[url=glossary:graven ashe]Cinza esculpida[/url] trocou de prisioneiros com o [url=glossary:vendrien guard]Guarda Vendrien[/url] e prolongou propositalmente o cerco."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>A filha de "[url=glossary:graven ashe]Cinza esculpida[/url] conspirou com o [url=glossary:unbroken]ininterrupto[/url], produzindo um herdeiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Torre do Crepúsculo estava em ruínas, e ainda assim a legião não conseguiu tirá-lo do [url=glossary:unbroken]ininterrupto[/url] sem minha ajuda. Eles estavam com falta de pessoal em sua região de origem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Encontrei evidências em [url=glossary:lethian's crossing]A travessia de Lethian[/url] de que o [url=glossary:disfavored]Desfavorecido[/url] derramou o primeiro sangue na guerra civil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Encontrei um [url=glossary:forge-bound]Forge-Bound[/url] cadáver no Oldwalls. Ele estava procurando um caminho para Twin Rivers para o [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>O Árbitro pesa sua declaração com interesse. O espaço entre os olhos de sua máscara se estreita, embora a mudança seja muito gradual para você acompanhar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Evidência material é consagrada ao Tribunal. Respeito sua diligência em coletá-lo, Vinculador do Destino. Você traz esperança às minhas ambições de trazer ordem a esta campanha divisória."
+
+"Lembre-se disso e de qualquer outra evidência que identificar quando for chamado a apresentar suas descobertas de maneira mais formal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] queria o [url=glossary:forge-bound]Forge-Bound[/url] Master retirado de [url=glossary:lethian's crossing]A travessia de Lethian[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] usou seu poder para consumir o filho de [url=glossary:graven ashe]Cinza esculpida[/url] durante o cerco de [url=glossary:vendrien's well]Poço de Vendrien[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Sob as vozes' ordens, Harchiand Bronze contrabandeou armas de ferro para o [url=glossary:vendrien guard]Guarda Vendrien[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"O Censor procurou reivindicar o Arquivo Silencioso para o [url=glossary:the voices of nerat]o Vozes de Nerat[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] deu [url=glossary:disfavored]Desfavorecido[/url] planos de batalha para os Robusto defensores."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

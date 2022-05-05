@@ -1,0 +1,298 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\08_vendrienswell\08_qst_vendrienswell_defense_quest</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>58</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Os Quebradores de Juramento</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Defenda o pátio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Mova-se para o leste e defenda o pátio lateral.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Mate o [url=glossary:disfavored]Desfavorecido[/url] que invadiu a parede.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Verifique no pátio principal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Vá para o leste e ajude a defender a parede.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Vá para o oeste e ajude a defender o portão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Mate o [url=glossary:scarlet chorus]Coro Escarlate[/url] que invadiu o portão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Retire-se para o interior Cidadela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Derrote os atacantes no lado oeste do Guarda.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Derrote os atacantes no lado leste do Guarda.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Ajude o [url=glossary:vendrien guard]Guarda Vendrien[/url] no lado leste do Guarda.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Ajude o [url=glossary:vendrien guard]Guarda Vendrien[/url] no lado oeste do Guarda.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Volte para [url=glossary:ascension hall]Salão da Ascensão[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Derrota [url=glossary:kyros]Kyros[/url]' forças.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Retorne ao pátio principal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Retorno a Tarkis Arri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Fale com a Arri sobre seu plano para defender o Cidadela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Volte para [url=glossary:vendrien's well]Poço de Vendrien[/url] Cidadela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Encontre-se com Tarkis Arri no local secreto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Semeie a discórdia entre [url=glossary:graven ashe]Cinza esculpida[/url] e [url=glossary:the voices of nerat]the Vozes de Nerat[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Vá para [url=glossary:ascension hall]Salão da Ascensão[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Matar [url=glossary:scarlet chorus]Coro Escarlate[/url]fora das paredes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Mate o [url=glossary:scarlet chorus]Coro Escarlate[/url] fora das paredes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Matar [url=glossary:disfavored]Desfavorecido[/url] fora das paredes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Tarkis Arri, líder do [url=glossary:vendrien guard]Guarda Vendrien[/url], deseja conhecê-lo e discutir as possibilidades de uma aliança, citando seus vários atos de misericórdia para com os rebeldes desde sua chegada em [url=glossary:vendrien's well]Poço de Vendrien[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Defenda a Cidadela pátio do ataque de [url=glossary:kyros]Kyros[/url]' invasores.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>[url=glossary:kyros]Kyros[/url]' exércitos estão indo para o pátio leste do Cidadela. Faça o seu caminho até lá e derrote as forças inimigas que encontrar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>[url=glossary:disfavored]Desfavorecido[/url] invasores romperam o muro. Mate-os antes que eles possam garantir um ponto de apoio dentro do Cidadela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Os [url=glossary:disfavored]Desfavorecido[/url] que romperam a parede estão mortos e o resto pode ser tratado pelo [url=glossary:vendrien guard]Guarda Vendrien[/url]. Retorne ao pátio principal do Cidadela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Vá para o leste ao redor do Cidadela e ajude o [url=glossary:vendrien guard]Guarda Vendrien[/url] a derrotar o [url=glossary:disfavored]Desfavorecido[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Vá para o oeste ao redor do Cidadela e ajude o [url=glossary:vendrien guard]Guarda Vendrien[/url] a derrotar o [url=glossary:scarlet chorus]Coro Escarlate[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>[url=glossary:scarlet chorus]Coro Escarlate[/url] invasores violaram as defesas. Mate-os antes que eles possam garantir um ponto de apoio dentro do pátio Cidadela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Os invasores conseguiram entrar no Cidadela. Volte para o interior Cidadela e afaste os atacantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Use a passagem secreta para saltar sobre os atacantes no lado oeste do Guarda.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Use a passagem secreta para saltar sobre os atacantes no lado leste do Guarda.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Os [url=glossary:vendrien guard]Guarda Vendrien[/url] foram sobrecarregados. Derrote as forças de ataque no lado leste do Guarda.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Os [url=glossary:vendrien guard]Guarda Vendrien[/url] foram sobrecarregados. Derrote as forças de ataque no lado oeste do Guarda.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Obtenha acesso a [url=glossary:ascension hall]Salão da Ascensão[/url] e defenda-o das forças de [url=glossary:kyros]Kyros[/url]'.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Derrota [url=glossary:kyros]Kyros[/url]' forças em [url=glossary:ascension hall]Salão da Ascensão[/url] antes de dominar o [url=glossary:vendrien guard]Guarda Vendrien[/url] e alcançar a vitória no Cidadela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Os [url=glossary:disfavored]Desfavorecido[/url] passaram pelos reforços e estão indo em direção ao pátio principal do Cidadela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10017</ID>
+      <DefaultText>Você eliminou todas as forças [url=glossary:kyros]Kyros[/url]' atualmente no Guarda. Retorno a Tarkis Arri e reagrupe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Consulte o líder do [url=glossary:vendrien guard]Guarda Vendrien[/url] para determinar como organizar o esforço de defesa do Cidadela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>[url=glossary:kyros]Kyros[/url]' forças em breve estarão prontas para lançar seu ataque ao Cidadela. Chegou a hora de se preparar para a defesa de [url=glossary:vendrien's well]Poço de Vendrien[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10022</ID>
+      <DefaultText>Tarkis Arri lhe entregou uma missiva que indica o ponto de encontro para uma discussão que ela deseja ter com você sobre uma possível aliança entre você e ela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10023</ID>
+      <DefaultText>Tarkis Arri acredita que seus soldados podem ter uma chance de lutar na cidadela se os [url=glossary:disfavored]Desfavorecido[/url] e [url=glossary:scarlet chorus]Coro Escarlate[/url] estiverem preocupados em lutar um contra o outro. Instigue uma briga entre os dois Arcontes quando você participar da reunião na barraca Ashe no acampamento [url=glossary:disfavored]Desfavorecido[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10026</ID>
+      <DefaultText>Lute pelos corredores do Cidadela e entre no [url=glossary:ascension hall]Salão da Ascensão[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10027</ID>
+      <DefaultText>Haverá mais [url=glossary:scarlet chorus]Coro Escarlate[/url] do que apenas os do portão. Ajude o [url=glossary:vendrien guard]Guarda Vendrien[/url] matando alguns dos [url=glossary:scarlet chorus]Coro Escarlate[/url] fora das paredes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10028</ID>
+      <DefaultText>Os [url=glossary:scarlet chorus]Coro Escarlate[/url] estão se reunindo para outro ataque do lado de fora dos muros do Cidadela. Leve a luta até eles e interrompa o ataque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10029</ID>
+      <DefaultText>Os [url=glossary:disfavored]Desfavorecido[/url] estão encontrando outros caminhos para o interior do Cidadela. Limpe-os longe das paredes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Haverá mais [url=glossary:scarlet chorus]Coro Escarlate[/url] do que apenas os do portão. Encontre-os e mate-os.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Os [url=glossary:scarlet chorus]Coro Escarlate[/url] passaram pelos reforços e estão indo em direção ao pátio principal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você ajudou o [url=glossary:vendrien guard]Guarda Vendrien[/url] a defender o Cidadela das forças de [url=glossary:kyros]Kyros[/url]' e assumiu o controle de [url=glossary:ascension hall]Salão da Ascensão[/url] para os rebeldes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você decidiu ligar todos e pegar o [url=glossary:vendrien's well]Poço de Vendrien[/url] Spire para si mesmo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Você ignorou os pedidos do [url=glossary:vendrien guard]Guarda Vendrien[/url], então a confiança deles em você se foi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Você concordou em se encontrar com Tarkis Arri, mas aproveitou a oportunidade para tentar assassiná-la. Ela conseguiu escapar com Eb.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Você ignorou os pedidos do [url=glossary:vendrien guard]Guarda Vendrien[/url], então a confiança deles em você se foi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Você se encontrou com Tarkis Arri, mas decidiu que não queria participar do plano dela e saiu pacificamente.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

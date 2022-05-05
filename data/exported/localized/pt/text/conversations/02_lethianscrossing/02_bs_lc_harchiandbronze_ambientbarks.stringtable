@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\02_bs_lc_harchiandbronze_ambientbarks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Uma pena o que aconteceu com o [url=glossary:vellum citadel]Cidadela de Velino[/url]. As riquezas desses salões, perdidas para a vontade de [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Ouvi dizer que os [url=glossary:scarlet chorus]Coro Escarlate[/url] foram expulsos dos [url=glossary:burning library]Biblioteca em chamas[/url], o conto diz que as riquezas ainda estão dentro dessas paredes..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Mesmo uma arma extraordinária como a Destemido é inútil se você não sobreviver à batalha, venha, deixe-me vender uma armadura forte!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Apenas uh... avise-nos quando terminar de desfilar ao redor da coisa que deveria nos proteger."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Você aí, eu tenho apenas a arma para elogiar esse poderoso escudo que você tem!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Não posso dizer que as batalhas constantes aqui tenham sido boas para os negócios, mas tenho a sensação de que teremos uma paz duradoura."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Estou começando a me cansar desse assentamento mudando de mãos com a mesma frequência que as estações mudam..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Não tenho certeza se devemos agradecê-lo... ou temê-lo por derrotar o exército de ocupação aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

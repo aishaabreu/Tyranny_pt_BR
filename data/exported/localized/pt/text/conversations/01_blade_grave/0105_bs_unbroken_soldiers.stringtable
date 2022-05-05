@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\0105_bs_unbroken_soldiers</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Estou de olho em você, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Mal posso esperar para ver a cara deles quando virem um Vinculador do Destino de [url=glossary:tunon]Tunon[/url] lutando ao nosso lado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"[url=glossary:disfavored]Desfavorecido[/url] soldados estão chegando, estamos de volta Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Estamos em dívida com você, Vinculador do Destino.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Nunca pensei que viveria para ver o dia em que poderia respirar ar puro novamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Eu não acreditei nos relatórios, esse é o Destemido!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"A única razão pela qual ainda não destruímos você é por pedidos de Agatão. Eu não insistiria."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>O soldado olha para você com indignação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Não vou questionar uma mão amiga, mas é estranho ver um Fatebiner do nosso lado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Você exerce a esperança de nosso povo ao seu lado. Cuide bem dele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Estarei interessado em ver como Vinculadores do Destino se comportam no meio da batalha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>O soldado sacode sua espada repetidamente com ansiedade ansiosa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Espero que sua palavra seja tão boa quanto sua força Vinculador do Destino, vamos precisar dela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Duskwatch é nosso, estamos um passo mais perto de empurrar o [url=glossary:disfavored]Desfavorecido[/url] de Robusto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Com as tempestades acalmadas, podemos finalmente reconstruir novamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

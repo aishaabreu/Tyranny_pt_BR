@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\08_vendrienswell\08_bs_disfavoredcamp_edictdeliveryargument_loop</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ontem você me repreendeu por querer esperar, agora sugere um atraso ainda maior?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Um bom conselho é flexível, mudando com o momento. Além do mais, agora estamos concordando com você ontem, hoje você deveria estar feliz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Eu não preciso de suas provocações, preciso de seus relatórios de aferição. Ou melhor ainda, a confirmação de que você reprimiu os infratores do juramento no vale externo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Ah isso? Vamos resolvê-lo em nosso próprio tempo e maneira. Devemos fazer pelo menos um esforço simbólico para mostrar misericórdia a eles, afinal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Talvez as vozes em seu crânio devam chegar a um consenso se você deseja ser levado a sério."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Nós sabemos que você odeia ir para a batalha sem chances esmagadoras do seu lado. Se você tem tanto medo de um desafio, por que não espera por seus reforços?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Misericórdia? Eles já cagaram em nossa misericórdia uma vez antes! Esses Southnobs nascidos na sarjeta não merecem nada melhor do que a morte!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Ah, acalme-se agora... devemos deixar algo para governar. Ou você esqueceu os pedidos [url=glossary:kyros]Kyros[/url]'? Paciência, velho amigo."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

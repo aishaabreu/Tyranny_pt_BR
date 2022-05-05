@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\03_burninglibrary\0301_bs_chorus_general_3</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Uma palavra do Censurar e seu corpo estará em um desses picos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Gostou do que fizemos com o lugar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Alguns pensam que o Arquivo Silencioso não é real, mas deve ser se você está aqui por causa disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Já era hora daquela maldita biblioteca ser engolida. Você sabe que eu deveria jogar minha vida fora no próximo jogo? Devo a você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Espero que essa porra de pergaminho tenha valido a pena. Não consigo ler esses arranhões, então vou ter que acreditar na sua palavra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Ei, Fatebinder, não sei como você terminou o [url=glossary:edict]Edital[/url], e não me importo. Você precisa de mais corpos em sua gangue, estou dentro."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

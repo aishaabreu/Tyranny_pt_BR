@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\06_rb_arri_act2_skypillar</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Isso está errado... isso está muito errado." Arri anda pelo diâmetro do Pináculo, tomando cuidado para não ficar muito perto da borda. Ela faz uma pausa quando você chama sua atenção.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"O que você acha da guerra civil - [url=glossary:disfavored]Desfavorecido[/url] e [url=glossary:scarlet chorus]Coro Escarlate[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Fale-me sobre você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Vou tentar descobrir esse teletransportador, então."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Mm hm. Vá em frente." Arri balança a cabeça e fecha os olhos com força contra uma nova onda de vertigem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Ela suspira e mexe os pés. "Eu realmente não posso falar. Se eu não continuar me movendo, acho que vou vomitar." Ela olha para a beirada do Pináculo com pavor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Pelo menos os Soberano exércitos vão ocupar uns aos outros por enquanto, ou até que [url=glossary:the voices of nerat]o Vozes de Nerat[/url] solte a mandíbula e coma [url=glossary:graven ashe]Cinza esculpida[/url]." Ela olha em você. "Ele pode fazer isso? Nunca mente - não quero saber." "Minha esperança é que tenhamos enviado uma mensagem para qualquer pessoa na Camadas que busca a liberdade de [url=glossary:kyros]Kyros[/url]. O que você fez aqui... deve chamar a atenção."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Falo com você em breve, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Espero que você tenha um plano para nos derrubar, porque não aprecio isso nem um pouco."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Estou bem... estou bem. Estamos quem sabe quão alto está acima de [url=glossary:vendrien's well]Poço de Vendrien[/url], mas lateralmente não pode estar a mais de cem passos de meus aposentos." Ela olha para a borda do Pináculo e a sacode cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

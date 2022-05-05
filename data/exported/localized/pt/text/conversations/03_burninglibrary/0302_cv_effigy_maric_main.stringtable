@@ -1,0 +1,485 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\03_burninglibrary\0302_cv_effigy_maric_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>87</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"O que você quer? Já enfrentei tormentos suficientes nas mãos desses... estudiosos." O prisioneiro amarrado aperta os olhos para você e lambe os lábios secos. "Você é [url=glossary:tunon]Tunon[/url] é Vinculador do Destino, não é? Eu reconheceria você em qualquer lugar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"O que aconteceu com você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Matar Maric] "Esqueça a Ashe pedidos. Você é um fraco e não merece viver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Meus batedores e eu estávamos nos infiltrando no [url=glossary:burning library]Biblioteca em chamas[/url]. Um dos meus melhores - Jelena - deve ter trabalhado com o [url=glossary:scarlet chorus]Coro Escarlate[/url]. Ela desapareceu, e logo depois fomos caçados." Ele manda uma bola sangrenta de cuspe para o chão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Me liberte e podemos conversar mais. Isso seria um verdadeiro favor. E se você estava preocupado com os músculos ao redor do acampamento, o resto dos meus batedores está por perto. Eles podem nos ajudar a combater a escória [url=glossary:sage]Sábio[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Você deve ser Maric. Ashe me encarregou de destruir o Biblioteca, então preciso da sua ajuda para passar pelo Refrão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Maric parece consternado. "Então [url=glossary:graven ashe]Cinza esculpida[/url] enviei alguém para terminar o que eu não consegui fazer. Eu sabia que havia falhado em minha missão, mas não sabia que não teria a chance de me redimir." "Assim seja. Não adianta lamentar o que não posso mudar. Quanto ao seu problema - eu gostaria de poder ajudá-lo, Vinculador do Destino, mas no momento, eu não posso me ajudar." Maric olha para baixo em suas restrições.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Os Sábios já estão mortos. Você está livre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Obrigado por sua ajuda, Vinculador do Destino. Estarei para sempre em dívida com você por me ajudar a evitar a vergonha de uma morte desonrosa além do meu outro fracasso. Receio que devo pedir mais de você, mesmo depois de já ter feito mais por mim do que posso retribuir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Alguns dos meus Juramento batedores ainda estão desaparecidos. Dois estão no [url=glossary:burning library]Biblioteca em chamas[/url], e o terceiro - Jelena - está no campo [url=glossary:scarlet chorus]Coro Escarlate[/url]. Eu quero vê-la devidamente punida por sua traição - tanto quanto eu quero ver os outros salvos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Obrigado, Vinculador do Destino. Estou em débito com você. Não vou esconder o fato de que, sem sua ajuda, eu teria falhado em minha missão. Seu nome será elogiado enquanto eu puder respirar."
+
+"Aguardarei seu retorno aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Vinculador do Destino, não posso agradecer o suficiente por resgatar meus Juramento batedores."
+
+"Também ouvi dizer que você me salvou do trabalho de despachar Jelena. Por mais que eu preferisse fazer [url=glossary:disfavored]Desfavorecido[/url] justiça eu mesmo, suponho que é por isso que você está aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Jelena, o que devo fazer com você?" "Você não apenas nos vendeu para o [url=glossary:scarlet chorus]Coro Escarlate[/url], mas também usou nossa conexão Juramento contra nós . Em toda a história do [url=glossary:disfavored]Desfavorecido[/url], nunca ouvi falar de crime mais desprezível." "Nem mesmo o Fúrias Escarlates cometeria tamanha atrocidade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Vinculador do Destino, agradeço que você tenha devolvido minha unidade, mas tenho outro problema - Jelena. Embora eu seja solidário com o fato de que ela sofreu nas mãos do Refrão, não posso fingir que ela não nos traiu. Nem o resto dos meus batedores."
+
+"Você tem jeito com a justiça e a lei. Importa-se de julgar o assunto? Estou muito preocupado com isso para tomar uma decisão lúcida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Jelena deveria ser executada por sua traição."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Jelena só revelou o que tinha que fazer, e merece voltar à unidade. A orientação errada dela permitiu que o resto de vocês sobrevivesse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Jelena jogou com suas vidas, e essa não foi a escolha dela. Ela deveria ser banida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Qualquer um pode quebrar sob tortura. Jelena era tão leal quanto qualquer um poderia ser. Perdoe-a."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Concordo. Embora não me dê prazer acabar com a vida de um dos meus, não vejo outra maneira de corrigir esse erro."
+
+"Jelena, prepare-se."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Os [url=glossary:disfavored]Desfavorecido[/url] não são 'qualquer um'. O Juramento Vinculado as classificações estabelecem o padrão de lealdade, confiabilidade e firmeza diante da adversidade."
+
+"Eu me culpo por qualquer talento que reconheci em Jelena, mas a falha ainda é dela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Ele estremece. "Mesmo agora, procuro acreditar em sua fidelidade, o que torna tudo mais difícil." "Jelena, você está liberado da proteção Ashe, e eu te entrego ao vazio, que o [url=glossary:disfavored]Desfavorecido[/url] pode ser mais forte para sua ausência."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Devo admitir que não tinha considerado esta... interpretação dos acontecimentos." 
+
+Ele faz uma pausa. 
+
+"Jelena causou a morte de alguns, mas apenas para poupar outros. Quando você enquadra dessa forma, ela realmente confiava na força de seus irmãos, e não há ação mais [url=glossary:disfavored]Desfavorecido[/url] do que isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Jelena, é um prazer recebê-lo de volta à unidade. Arrume suas coisas e prepare-se para sair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Obrigado por sua ajuda. Eu posso terminar qualquer outra coisa no Biblioteca que exija a atenção do [url=glossary:disfavored]Desfavorecido[/url] enquanto você retorna ao [url=glossary:graven ashe]Cinza esculpida[/url]. Enviarei a ele meu relatório completo assim que puder. Se você precisar de ajuda no futuro, você só precisa perguntar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Isso me parece razoável. Jelena fez um movimento calculista com as intenções certas em seu coração, mas poderia facilmente ter matado todos nós." 
+
+Ele se vira para ela. "Jelena, é por isso que temos planos, ordens, uma cadeia de comando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Hora de ir, Jelena." "Sua vida é sua, mas você está liberado da Ashe proteção. Eu te entrego ao deserto, para que o [url=glossary:disfavored]Desfavorecido[/url] seja mais forte por sua ausência."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Fatebinder!" 
+
+A expressão de Maric se transforma em uma careta.
+
+"Senti a morte do meu Juramento com tanta certeza como se uma lâmina tivesse sido enfiada entre minhas próprias costelas. Agradeço sua ajuda e lamentarei aqueles que caíram quando eu terminar aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Vou esperar aqui pela minha unidade e cuidar dos meus ferimentos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Ela usou sua Juramento conexão contra nós. Foi assim que o Refrão conseguiu localizar nossa localização. Malditamente inteligente. Não sei quantos de nós foram levados, mas esses Sábios me pegaram enquanto eu estava descansando. Suponha que eu deva me sentir grato?"
+
+"Agora só espero minha execução. A menos que você esteja disposto a me ajudar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"No mínimo, não iríamos expor o assunto assim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Maric, eles estavam me torturando! Não tive escolha!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Você poderia ter resistido extraindo força de nosso vínculo! Eventualmente teríamos encontrado você."
+
+Maric massageia a testa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Ela endireita os ombros em uma saudação apertada. 
+
+"Eu estava morto no momento em que virei as costas para [url=glossary:graven ashe]Cinza esculpida[/url]. Esta é uma mera formalidade, então vamos acabar com isso." 
+
+"Que seu swing seja verdadeiro, Maric. Pelo bem de nossos compatriotas, não me deixe sofrer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Você pediu minha decisão, Maric."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"E eu agradeço por isso, mas eu sou o mestre dos meus batedores. O destino deles depende de mim." 
+
+"Jelena, prepare-se."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Eu gostaria de ouvir o que Jelena tem a dizer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Obrigado, Maric. E você também, Vinculador do Destino. Prometo fortalecer o [url=glossary:disfavored]Desfavorecido[/url] por meio de lealdade e ação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Obrigado pela oportunidade, Vinculador do Destino."
+
+"Eu sabia que não poderia suportar o interrogatório Refrão para sempre. Ninguém menos que Ashe tem coragem para isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Você dificilmente está qualificado para julgar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Deixe ela falar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Fiz como se fosse quebrar sob a pressão, e entreguei a localização de dois batedores. Ambos estavam separados do resto, e sua localização não teria revelado ninguém."
+
+"Mesmo assim, eu estava economizando minhas forças para enviar um aviso que alertaria o resto de vocês sobre os movimentos Refrão. .. mesmo para aqueles que eu traí."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Uma pena. [url=glossary:graven ashe]Cinza esculpida[/url] odeia perder um nortista para um inimigo, muito menos um aliado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Eu não digo isso para desculpar minhas ações - apenas para oferecer algum contexto. Os batedores caídos podem me assombrar pelo resto dos meus dias, mas Maric e os outros podem viver vidas mais ricas e plenas em nome deles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Maric, isso muda alguma coisa para você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Seu testemunho não muda nada - você é culpado de conluio com o inimigo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Vinculador do Destino, retiro meu pedido de decisão. Nenhum julgamento é necessário. Jelena é livre e bem-vindo para se juntar à sua unidade."
+
+"Jelena, arrume suas coisas e prepare-se para sair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Eu nunca esqueci, Maric."
+
+"Vinculador do Destino, obrigado por sua ajuda. Os níveis será um lugar sem amigos sem o [url=glossary:disfavored]Desfavorecido[/url], mas me agrada saber que você está aqui, dispensando julgamento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"O que você está fazendo aqui, traidor? Não tenho nada a dizer a você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[Deixar] "Vou deixar você na sua miséria."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Maric olha para você com um olhar inabalável. "Faça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Peço a você que encontre meus homens desaparecidos e os devolva para mim. Jelena deve ser obrigada a pagar por seus crimes e eu não terei outro dos meus homens perdidos por sua vontade fraca."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>[Matar Maric] "Um cativo [url=glossary:disfavored]Desfavorecido[/url] à minha mercê. Não posso deixar passar esta oportunidade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Maric olha para você com um olhar inabalável. "Faça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Primeiro você vai me ajudar. Eu preciso chegar ao Biblioteca."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Qual é o seu pedido?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Vou contar tudo o que sei, só peço que faça algo por mim quando chegar ao Biblioteca. [url=glossary:graven ashe]Cinza esculpida[/url] encarregou a mim e ao meu grupo de destruí-lo. Infelizmente, fomos descobertos e encaminhados, mas sei como chegar até lá com segurança. Aqui, deixe-me marcar em seu mapa como contornar todas as Refrão patrulhas para chegar ao Biblioteca. Uma vez lá, você só precisa lidar com o Censor para entrar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Você tem sorte de eu ter negócios lá também. Vou procurar seu Juramento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Vou encontrar seus homens e devolvê-los a você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Conte-me sobre essa traição."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Você mencionou uma conexão Juramento? O que é isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"O que você quer que eu faça?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Ela usou sua Juramento conexão contra nós. Foi assim que o Refrão conseguiu localizar nossa localização. Malditamente inteligente. Não sei quantos de nós foram levados, mas esses Sábios me pegaram enquanto eu estava descansando. Ela deve ser punida por sua traição."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Porque você me ajudou, vou te dizer, mas normalmente esse conhecimento não é compartilhado fora do [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Antes de ser realmente um Juramento, você deve completar um ritual que o conecte a cada um de seus irmãos. Os sentimentos deles se tornam seus, as dores deles são suas dores, e os problemas deles também são seus. Jelena usou essa conexão para nos trair. Ela deve ser obrigada a pagar por esse ato."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>A expressão de Maric se transforma em uma careta. "Fatebinder! Senti a morte do meu Juramento com tanta certeza como se uma lâmina tivesse sido enfiada entre minhas próprias costelas. Longe de mim questionar suas decisões nestes assuntos, mas você não poderia ter resgatado meus homens antes de destruir a Biblioteca?" Ele olha para baixo, seu rosto desamparado. "Vou lamentar aqueles que caíram quando eu terminar aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Quando você terminar o que veio fazer aqui, venha falar comigo novamente. Não falhe Ashe como eu falhei com meus homens, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Nó de script 101</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Nó de script 102</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Você mataria um homem amarrado e desarmado? Não aguento sua brutalidade, Vinculador do Destino. Maric é [url=glossary:disfavored]Desfavorecido[/url], e merece melhor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Afaste-se, Barik. Isso não é da sua conta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Você está errado. Estou preocupado com a própria integridade desta guerra. Qualquer confiança que eu já tive em sua liderança é desafiada pelo monstro que vejo diante de mim. Vá, então. Faça o que você faz de melhor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Por que tão melindroso agora? Nós Ve matou muitos [url=glossary:disfavored]Desfavorecido[/url] antes, e este não será o último."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Sim, e eu conto todos eles com tristeza enquanto torço no meu saco de dormir à noite. Por mais que suas mortes me causem desconforto, eu sei que eles serviram ao propósito de trazer ordem a esta campanha... por mais obscura e desconcertante que eu possa achar." Barik olha para você.
+
+"Isso não serve para nada, ajuda ninguém, e traz agonia desnecessária para um bom nórdico. Chame-me de escrúpulo se precisar. Eu me oponho veementemente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Você é o responsável por [url=lore:bl_sirin_song]amordaçar aqueles problemáticos Sábios[/url]. Essa decisão foi um golpe de gênio. Você não apenas manteve o Sábios sob controle, como também dificultou os esforços do Censura para explorar o Biblioteca. Se eles não puderem falar com o Sábios, não terão muita ajuda deles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Sem sua ajuda, meus [url=glossary:disfavored]Desfavorecido[/url] irmãos estariam [url=lore:bl_lost_to_mountains]perdidos para sempre naquelas montanhas[/url]. Não sei o que aconteceu para prendê-los lá em cima, mas se você não tivesse intercedido em nome deles, eu nunca os teria visto novamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Embora eu diga isso. É por sua causa [url=lore:bl_lost_to_mountains]alguns dos meus Desfavorecido irmãos se perderam para sempre nas montanhas[/url]. Se você pudesse ter poupado um grupo [url=glossary:scarlet chorus]Coro Escarlate[/url] para encontrá-los, não teríamos motivos para lamentar a morte de muitos homens bons e bons soldados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Mas temo que você me tenha em desvantagem agora... Estou à sua mercê."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Embora eu diga isso. É por sua causa [url=lore:bl_lost_to_mountains]alguns dos meus Desfavorecido irmãos se perderam para sempre nas montanhas[/url]. Se você pudesse ter poupado um grupo [url=glossary:scarlet chorus]Coro Escarlate[/url] para encontrá-los, não teríamos motivos para lamentar a morte de muitos homens bons e bons soldados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Esteja ciente, Fatebinder - um dos meus soldados mencionou uma grande barricada mágica nas profundezas do Biblioteca. O Censor tem suas gangues procurando em todo o prédio por partes de algum tipo de senha para ir além dele. Se você pretende atingir seu objetivo, precisará encontrar a senha antes deles."
+
+"Gostaria de ter mais informações para você, mas espero que isso ajude você." Ele o saúda. "Agora, gostaria de fazer meu pedido a você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Você deve ser Maric. Estou aqui para encontrar informações no Biblioteca. Ashe me disse para destruir o Biblioteca quando encontrasse o que estava procurando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Você pode me dizer alguma coisa sobre o [url=glossary:edict]Edital[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Infelizmente não. Tudo o que sei é que todo o conhecimento proibido no Biblioteca deve ser destruído. [url=glossary:graven ashe]Cinza esculpida[/url] acredita que destruir o Arquivo Silencioso vai conseguir isso, mas com a barreira protegendo-o, ninguém pode chegar até ele. Pelo menos, parece que ninguém entrou ainda. Por outro lado, o [url=glossary:edict]Edital[/url] teria terminado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Obrigado por sua ajuda. Eu posso terminar qualquer outra coisa no Biblioteca que exija a atenção do [url=glossary:disfavored]Desfavorecido[/url] enquanto você retorna ao [url=glossary:graven ashe]Cinza esculpida[/url]. Enviarei a ele meu relatório completo assim que puder. Se você precisar de ajuda no futuro, você só precisa perguntar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>[Não diga nada.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>Maric foi acompanhado por membros de sua unidade - dois Juramento de aparência cansada com grandes manchas de cinzas e sangue cobrindo suas armaduras. Eles acenam para seu comandante enquanto se aproximam, uma reação curiosamente indiferente ao seu resgate. Maric parece recuperar alguma força ao ver seus homens. Ele acena vigorosamente quando você se aproxima, uma expressão determinada visível em seu rosto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Voltarei quando eles forem eliminados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Para a glória de [url=glossary:kyros]Kyros[/url], não mostre ao inimigo nenhum quarto!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

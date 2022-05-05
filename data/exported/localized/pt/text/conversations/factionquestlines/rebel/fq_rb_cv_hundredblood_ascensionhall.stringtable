@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\factionquestlines\rebel\fq_rb_cv_hundredblood_ascensionhall</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Nó de conversão de gatilho3</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Nó de conversão de gatilho9</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Spire-den cheira a humanos choramingando e latindo. Cem Sangue não gosta de lidar com Alfas que se recusam a ouvir grandes [url=glossary:prima]Prima[/url] a [url=glossary:stonestalkers]Perseguidores de Pedras[/url]." Ela estala seus dedos nodosos e peludos contra o largo palma de uma mão antes de sacudir suas garras no ar. "Pode ter que disciplinar filhotes fracos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"[url=glossary:stonestalkers]Perseguidores de Pedras[/url] são leais a Vinculador do Destino. Vai lutar pelo pacote Fatebinder como proteger kith. Caçarão, matarão e morrerão ao lado de humanos, se necessário, para que todos Mulheres-feras possam sobreviver."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

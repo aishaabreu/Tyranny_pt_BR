@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\0105_cv_disfavored_attack_starting</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Buzinas soam à distância, anunciando o início do ataque [url=glossary:disfavored]Desfavorecido[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Fique atento! Todos nós sabemos que as forças de [url=glossary:kyros]Kyros[/url] não mostrarão trégua a pessoas como nós. Reúna-se ao portão da frente - o assalto começará lá!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

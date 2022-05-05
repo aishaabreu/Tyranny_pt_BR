@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\companions\companion_cv_barik_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>824</ID>
+      <DefaultText>"Sou o Soberano servo fiel, sem dúvida esse poder me foi concedido por minha lealdade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>825</ID>
+      <DefaultText>"Você dedicou sua vida a estudar as leis de [url=glossary:kyros]Kyros[/url] e defendê-las... Espero que este seja um presente de [url=glossary:kyros]Kyros[/url]. Pois se o Soberano não escolheu você para ter esse poder, pode ser sua ruína."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

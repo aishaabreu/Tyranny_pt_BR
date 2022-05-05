@@ -1,0 +1,203 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\01_bladegrave\01_qst_duskwatch_dis</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>39</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>No turbilhão</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Reúna-se com Osmios no Crepúsculo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Fortifique o Crepúsculo</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Defenda o forte</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Entre no Crepúsculo e liberte o Callias.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Abra o portão da frente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Derrote Agathon e os outros [url=glossary:unbroken]ininterrupto[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Mate todos os [url=glossary:unbroken]ininterrupto[/url] em Crepúsculo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Fale com a Callias.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Fale com o Capitão Agathon</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Fale com Osmios e Callias.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Investigar o Posto de Sentinela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Fale com o olheiro [url=glossary:unbroken]ininterrupto[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Investigue os restos do soldado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Reporte para [url=glossary:graven ashe]Cinza esculpida[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Conheça [url=glossary:graven ashe]Cinza esculpida[/url] em Lareira de Ferro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>A Guerra do Arcontes começou. Apoio, suporte [url=glossary:graven ashe]Cinza esculpida[/url] tentativas iniciais de pacificar o Camadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Um soldado com o nome de Callias está detido pelo [url=glossary:unbroken]ininterrupto[/url] em Forte do Crepúsculo. Ele pode saber se Amélia está vivo e se há um caminho para dentro de Guarda Sentinela. Viaje para lá e fale com o comandante [url=glossary:disfavored]Desfavorecido[/url], Osmios.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Os [url=glossary:unbroken]ininterrupto[/url] precisam de ajuda para reforçar os segmentos danificados das paredes do forte. Ajude-os a restaurá-lo em ordem de combate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Os [url=glossary:disfavored]Desfavorecido[/url] começaram seu ataque a Crepúsculo. Defenda o forte de todos os atacantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Callias está preso dentro de Forte do Crepúsculo. Encontre uma maneira de entrar sem ser detectado e libertá-lo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Dê o [url=glossary:disfavored]Desfavorecido[/url] força o acesso fácil ao Forte do Crepúsculo abrindo o portão frontal por dentro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Ajude as forças [url=glossary:disfavored]Desfavorecido[/url] a matar o Capitão Agathon e o resto das forças [url=glossary:unbroken]ininterrupto[/url] em Forte do Crepúsculo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Você iniciou um ataque a Forte do Crepúsculo. Lute e elimine todos os [url=glossary:unbroken]ininterrupto[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Callias pode ter as informações que você procura sobre as operações [url=glossary:unbroken]ininterrupto[/url]. Fale com ele em Forte do Crepúsculo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10021</ID>
+      <DefaultText>Você repeliu com sucesso o ataque [url=glossary:disfavored]Desfavorecido[/url]. Encontre o Capitão Agathon no curral dos prisioneiros.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10022</ID>
+      <DefaultText>Você pegou Forte do Crepúsculo. Fale com Osmios no curral dos prisioneiros.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10028</ID>
+      <DefaultText>[url=glossary:graven ashe]Cinza esculpida[/url] quer matar Straydus Herodin e acabar com as tempestades mágicas. Vá até o Posto Sentinela e veja se os ventos [url=glossary:kyros]Kyros[/url]' diminuíram o suficiente para permitir a entrada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10029</ID>
+      <DefaultText>Um olheiro [url=glossary:unbroken]ininterrupto[/url] observou sua luta com o Maldito. Fale com ele.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10030</ID>
+      <DefaultText>Janos estava procurando pelos restos mortais de um [url=glossary:disfavored]Desfavorecido[/url] soldado. Você deve examinar o corpo você mesmo e ver se há algo útil nele.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10031</ID>
+      <DefaultText>[url=glossary:graven ashe]Cinza esculpida[/url] vai querer saber da sua vitória em Forte do Crepúsculo. Retorno à Lareira de Ferro e fale com ele.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10032</ID>
+      <DefaultText>O general [url=glossary:disfavored]Desfavorecido[/url] reagrupou suas forças na fortaleza da montanha de Lareira de Ferro. Viaje até lá para discutir o próximo movimento Arconte de Guerra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Você decidiu não cooperar com Agatão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Você decidiu não cooperar com Osmios e deve tomar o forte por conta própria.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você ajudou o [url=glossary:unbroken]ininterrupto[/url] a defender sua base em Crepúsculo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Com a sua ajuda, os [url=glossary:disfavored]Desfavorecido[/url] assumiram o Crepúsculo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Você matou todas as forças [url=glossary:unbroken]ininterrupto[/url] e [url=glossary:disfavored]Desfavorecido[/url] em Crepúsculo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Você decidiu se opor ao [url=glossary:disfavored]Desfavorecido[/url] e tomar o forte para si mesmo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>[url=glossary:graven ashe]Cinza esculpida[/url] quer pacificar o [url=glossary:blade grave]Sepultura de Lâminas[/url] e estabelecê-lo como uma base de operações confiável. Para fazer isso, você deve encontrar e matar Straydus Herodin, o último [url=glossary:unbroken]ininterrupto[/url] Regente, para acabar com as tempestades [url=glossary:kyros]Kyros[/url]'. Para começar, encontre uma maneira de inserir Guarda Sentinela.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

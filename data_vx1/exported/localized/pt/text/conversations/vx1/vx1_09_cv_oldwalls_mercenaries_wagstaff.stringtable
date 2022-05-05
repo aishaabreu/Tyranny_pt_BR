@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\vx1\vx1_09_cv_oldwalls_mercenaries_wagstaff</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Aí está o bastardo! Assim como Wagstaff disse." Examinando a área em busca de Maldito, o homem fortemente armado sinaliza seus companheiros para sacarem suas armas. "Nada pessoal... apenas um trabalho que precisa ser feito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Reef-Talon é nosso, e não podemos ter você caçando nosso prêmio." Seus aliados gritam ruidosamente em apoio, batendo suas armas contra couraças e escudos. "Não se preocupe, vamos matá-lo mais rápido do que o Maldito mataria - tal cortesia é o mínimo que podemos fazer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Jogue entulho na cabeça do mercenário.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Afaste-se. É realmente assim que você quer morrer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Ataque] "Venha e tente me impedir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Você pega um pesado fragmento de pedra do chão úmido e o arremessa em direção a um dos soldados, esmagando-o na cabeça com um estalo retumbante. Seu corpo fica mole e cai no chão, tremendo momentaneamente antes de ficar parado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Armas sacadas, os guerreiros restantes avançam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Sua confiança é grande - nada pior do que matar alguém que não acredita em seu valor como guerreiro. Mas nossa honra está em jogo aqui." Ele olha para sua empresa com um aceno sombrio. "Vamos ganhe nosso pagamento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Lembrar, mate o Vinculador do Destino, mas não ensanguente o rosto - vamos precisar de provas da escritura."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

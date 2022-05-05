@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\05_cairnplains\fq_dis_qst_03_stonesea</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>As camadas vão tremer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Viaje para o Santuário da Boca Recortada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Fale com Caedis e Radix.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Com duas áreas do Camadas sob o controle de [url=glossary:disfavored]Desfavorecido[/url], [url=glossary:graven ashe]Cinza esculpida[/url] decidiu que é a hora certa de avançar para o [url=glossary:stone sea]Mar de Pedra[/url] . Sua primeira tarefa será viajar para Santuário de Boca Recortada e se encontrar com dois agentes [url=glossary:disfavored]Desfavorecido[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Viaje para o Santuário da Boca Recortada e encontre-se com as forças [url=glossary:disfavored]Desfavorecido[/url] ali estacionadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Você chegou em Santuário de Boca Recortada e precisa falar com Caedis e Radix. Eles irão atualizá-lo sobre o que precisa ser feito no [url=glossary:stone sea]Mar de Pedra[/url] para avançar os objetivos do [url=glossary:disfavored]Desfavorecido[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você aprendeu o que precisava fazer para o [url=glossary:disfavored]Desfavorecido[/url] no [url=glossary:stone sea]Mar de Pedra[/url] de Caedis e Radix.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você falhou no [url=glossary:disfavored]Desfavorecido[/url] e foi expulso como anarquista.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

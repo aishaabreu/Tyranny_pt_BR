@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\05_cairnplains\05_cv_pghg_scarchor_entranceguard</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>36</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Nós vamos, vejam só. Olha quem está aqui - o grande Vinculador do Destino de [url=glossary:tunon]Tunon[/url]! Venha e cumprimente Sua Excelência."</DefaultText>
+      <FemaleText>"Nós vamos, vejam só. Olha quem está aqui - o grande Vinculador do Destino de [url=glossary:tunon]Tunon[/url]! Venha e cumprimente Sua alteza."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Você quer que nos prostremos e adoremos como cães aos seus pés?" Ela passa o dedo sobre uma lâmina irregular. "Ou vamos resolver isso com um pouco de diversão?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Acabei de chegar e você já está testando minha paciência."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Nós vamos, merda. Acho que fui e aborreci o chorão. Não, não me machuque, Fatebinder! estou tremendo! Dá pra acreditar nessa, andando como se essa cidade já não fosse nossa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Há apenas a questão do que fazer com você. Um corte no rosto, talvez, ou uma adaga entre os ombros enquanto você se afasta? Eu sou parcial para ambos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Ataque] "Vou ver você comer essa adaga, junto com suas palavras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Conquista] "Acho que você quer saber por que eles me chamam de Rivener of Stalwart?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Ameaças ociosas, tenho certeza. Mas, para sua sorte, tenho assuntos mais urgentes para tratar. Siga em frente, mas faça-nos um favor - não fique muito tempo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Ataque] "Vamos comece com uma oferenda - um sacrifício pago com sangue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Conquista] "Você atacaria o Vinculador do Destino que reduziu o [url=glossary:vellum citadel]Cidadela de Velino[/url] a cinzas? Que coragem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Conquista] "Esmaguei Azure sob o [url=glossary:stone sea]Mar de Pedra[/url], e vou enterrar você também."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Saque sua arma.] "de hoje um belo dia para lavar as ruas com Refrão sangue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>O soldado empalidece e agarra o punho de sua lâmina, mas hesita em puxá-la.
+
+"Uma piada é uma piada, hein? Estávamos apenas brigando um pouco. Não há necessidade de estar tão ansioso para morrer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"R-certo? Não há necessidade de se preocupar com isso."
+
+Depois de um momento de incerteza, ela entra em retirada enquanto grita no ar. "Depressa Miséria! O Fatebinder está chegando!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Não estou procurando problemas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Coitadinha. Mas você encontrou, não foi?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Mentira] "[url=glossary:tunon]Tunon[/url] me presenteou com seus poderes. Eu posso destruir você em um instante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Você... você não é nada! Apenas [url=glossary:tunon]Tunon[/url] diplomata de estimação." Sua voz falha com a incerteza.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Maldições. Quem sabe como o Árbitro treina seus seguidores malucos? Alerta Miséria! O Fatebinder está chegando!" 
+
+Ela sinaliza uma retirada e sai correndo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Bloquear meu caminho é uma boa maneira de chegar ao lado ruim de [url=glossary:the voices of nerat]990000#[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Merda. Eu poderia ter imaginado que um Vinculador do Destino teria o conselho Vozes'."
+
+"Não há necessidade de entrar em conflito com o chefe. Você pode passar. Não vou ficar no seu caminho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Ele é louco! Vamos sair daqui!"</DefaultText>
+      <FemaleText>"Ela é louca! Vamos sair daqui!"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Derrame o Fatebinder coragem!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Espero que você não esteja aqui para ofuscar nossa gangue, tenderfoot. Temos negócios importantes no [url=glossary:stone sea]Mar de Pedra[/url], e não precisamos de algum funcionário no nosso caminho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Estou aqui no [url=glossary:scarlet chorus]Coro Escarlate[/url] negócios. Deixe-me em paz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Quais são suas ordens, recruta?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Dá um soco nela.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Ela ri. "Pedidos? Não é tão rico. Como se alguém pudesse me dar ordens."
+
+"A gangue está aqui para conseguir mais Homens-fera para o exército. Está tudo bem encher a vanguarda com recrutas fracos, mas poderíamos usar um pouco de força do nosso lado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Perdoe-me o esterco, seu idiota arrogante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Vá em frente e pegue. Apenas não cause nenhum problema para nós, ou eu vou dividir você no meio e agachar em suas entranhas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>O golpe atinge logo abaixo de suas costelas, nocauteando seu fôlego. "Suae algum tipo de maníaco demente, não é? Nem mesmo uma palavra gentil antes de você me colocar no chão." "[url=glossary:kyros]Kyros[/url] sabe que o [url=glossary:scarlet chorus]Coro Escarlate[/url] sempre poderia usar tanto cuspe e vinagre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"O quê? Não temos mais nada para conversar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Glória a [url=glossary:kyros]Kyros[/url], Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Vinculador do Destino. Bem-vindo a [Plainsgate]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Bênçãos do Senhor sobre você, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>O soldado acena em sua direção. "Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\missives\msv_heraldrhogalus_secondpillarunlock</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>[Player Name],
+
+Chegou ao meu conhecimento que você tem acesso a outro Pináculo. Agora, muitos reivindicaram um Pináculo com meras palavras, você é o primeiro na memória recente a reivindicar por ação. Rumores falam de um fantástico show de luzes no momento em que você pegou o Pináculo da Montanha... essa sua conexão com o Pináculo é realmente excepcional.
+
+Se você deseja aprender mais sobre esses monumentos (e quem seria tolo o suficiente dizer não a isso?), caberia a você me visitar em [url=glossary:tunon]Tunon[/url]Tribunal. Vou lhe dizer o que você precisa fazer.
+
+-Fatebinder Rhogalus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[Player Name],
+
+Você me conhece há quanto tempo... uma década? Dois? Lembra que eu te disse que era um homem carinhoso, paciente, cheio de segundas chances? Claro que não, porque eu não sou um idiota de sorriso afetado e propenso a dizer essas coisas.
+
+ Eu mandei um recado antes que devíamos falar... Vou assumir que sua resposta tardia é o efeito colateral do dever, não negligência . Mas se você não se importa em se beneficiar da minha sabedoria, que assim seja - você tem idade suficiente para limpar sua própria bagunça.
+
+Se, no entanto, você decidir que prefere ter sucesso em seus empreendimentos atuais, venha me ver . Há muito o que discutir.
+
+-Fatebinder Rhogalus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Player Name],
+
+Você já construiu essa biblioteca? Tenho a sensação de que não, mas, por favor, prove que estou errado.
+
+-Fatebinder Rhogalus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Player Name],
+
+Ouvi dizer que uma biblioteca foi construída em cima do seu Pináculo... um desenvolvimento sábio - obrigado por seguir meu conselho.
+
+Encontre uma desculpa para viajar para o [url=glossary:bastard city]Cidade bastarda[/url] - devemos falar mais sobre assuntos arcanos agora que você é o patrono das letras.
+
+-Fatebinder Rhogalus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Player Name],
+
+Ouvi dizer que uma biblioteca foi construída em cima do seu Pináculo... um desenvolvimento sábio - obrigado por seguir meu conselho.
+
+Se você precisar de ajuda em sua pesquisa (tenho certeza você faz - mesmo que seu trabalho, sem dúvida, lhe deixe poucas horas ociosas para leitura), procure-me. Se você estiver disposto a tolerar minha presença em seu santuário de aprendizado, eu poderia ajudar em seus estudos.
+
+-Fatebinder Rhogalus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Player Name],
+
+O maior insulto que se pode dar a um professor é permanecer aluno a vida inteira. Pela primeira vez, você realmente falhou em me decepcionar - aprendi muito com você nestes últimos tempos.
+
+Há uma imensa alegria - orgulho beirando a mania - quando penso no que você realizou. Eu gostaria de poder me gabar para os outros que têm um pouco do talento Soberano... mas essas coisas permanecerão em segredo. Eu sinto que devo adverti-lo para não usar seus poderes de forma desenfreada, mas se você usar seu conhecimento do [url=glossary:edict]Edital[/url] de Maldição, isso, pelo menos, me absolverá da necessidade de manter isso segredo incrível.
+
+Lembre-se do que você é, o que você se tornou e onde você começou. E saiba que seu poder atrai a ira de [url=glossary:kyros]Kyros[/url] - a questão é quando, não se, você atrai a Soberano atenção total.
+
+-Fatebinder Rhogalus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Nó de script 7</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

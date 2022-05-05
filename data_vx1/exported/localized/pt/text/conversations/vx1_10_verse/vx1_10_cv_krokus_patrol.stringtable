@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\vx1_10_verse\vx1_10_cv_krokus_patrol</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Quem vai lá? Na realidade, sabe o quê? Não importa. Volte por onde veio, estranho, ou as coisas ficarão sangrentas com rapidez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Vejo alguns guardas de caravana, mas não a caravana. Por que você está aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Estamos procurando por Krokus."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Deixar] "Já estou indo embora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Ataque] "Sangrento e rápido, então."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Eu não vejo como isso é da sua conta." Ele olha por cima do ombro para o norte e de volta para você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Maldição! Lâminas para fora, rapazes e moças! Não deixe-os passar!" Ele aponta sua lâmina para você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Bem, ele não está aqui, está?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"O quê? Você é estúpido? Eu lhe disse para- Parafuso isso. Lâminas para fora, todos! Mandar esses babacas de volta para [url=glossary:kyros]Kyros[/url] em pedaços!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"entendi perfeitamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Claro que sim, cérebro de bronze."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Você tem perguntas que precisam ser respondidas, fale com Krokus. Encontre-o na colina a oeste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Nós não o conhecemos de vista seu idiota."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Cale-a antes que eu... cale-a para você!" Ele estremece.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ela é amarga, mas não está errada. Você pode nos indicar Krokus?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Precisamos falar com o responsável. Diga-nos onde eles estão e deixaremos você em paz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Ataque] "Que tal eu te calar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Volte por onde veio. Em seguida, siga para o norte até a inclinação. Krokus está lá no acampamento." Ele te enxota com a mão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Olhar. Não podemos deixar você passar. Tem algum problema com isso? Nosso chefe Krokus está na colina a oeste daqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>À medida que você se aproxima dos guardas da caravana vestidos de bronze, eles olham para cima como um só, deixando dados e anéis no chão enquanto suas mãos se movem para as armas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Somos guardas pagos. Somos pagos para guardar. Nós não escolhemos ONDE guardamos. E não perguntamos PORQUÊ sobre onde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Isso fez sentido, certo?" Sua testa franze e ele olha para um de seus companheiros. O outro guarda encolhe os ombros.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

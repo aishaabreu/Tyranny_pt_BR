@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\critpathspine\cps_qst_act2_defendskypillar</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Em pé</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Volte para o [url=glossary:vendrien's well]Poço de Vendrien[/url] Pináculo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Derrote os invasores.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Use o ressonador.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Volte para o Pináculo da Montanha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Chegou a notícia de que os [url=glossary:scarlet chorus]Coro Escarlate[/url] estão cercando o seu Pináculo em [url=glossary:vendrien's well]Poço de Vendrien[/url]. O Arconte dos Segredos aparentemente esgotou sua contenção e pediu sua cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>As forças inimigas estão marchando em Cidadela em [url=glossary:vendrien's well]Poço de Vendrien[/url]. Retorne ao seu Pináculo para avaliar a situação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>As forças inimigas estão se acumulando e alguns invasores invadiram o pátio do [url=glossary:vendrien's well]Poço de Vendrien[/url] Cidadela. Repelir os invasores e proteger o pátio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>O ressonador no topo do [url=glossary:vendrien's well]Poço de Vendrien[/url] Spire foi ativado. A estrutura arcana parece amplificar toda a magia ao seu redor. Como e por que eram um mistério até agora. 
+
+Você acredita que este artefato pode ser usado para ajudar a repelir os inimigos que estão cercando sua cidadela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Você repeliu com sucesso o ataque ao [url=glossary:vendrien's well]Poço de Vendrien[/url] Cidadela. Retorne ao topo do seu Pináculo e reagrupe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você derrotou os invasores atacando sua cidadela emitindo o [url=glossary:edict]Edital[/url] de Incêndio sobre eles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você derrotou os invasores atacando sua cidadela emitindo o [url=glossary:edict]Edital[/url] de Tempestades sobre eles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Você derrotou os invasores atacando sua cidadela emitindo o [url=glossary:edict]Edital[/url] de Pedra sobre eles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Você derrotou os invasores atacando sua cidadela emitindo o [url=glossary:edict]Edital[/url] de Maldição sobre eles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Você derrotou os invasores atacando sua cidadela emitindo o [url=glossary:edict]Edital[/url] de Anoitecer sobre eles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40001</ID>
+      <DefaultText>Chegou a notícia de que os [url=glossary:disfavored]Desfavorecido[/url] estão cercando o seu Pináculo em [url=glossary:vendrien's well]Poço de Vendrien[/url]. O Arconte da Guerra aparentemente esgotou sua contenção e pediu sua cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40002</ID>
+      <DefaultText>No topo de seu recém-adquirido Pináculo, você teve uma visão da [url=glossary:scarlet chorus]Coro Escarlate[/url] legião sitiando seu Pináculo em [url=glossary:vendrien's well]Poço de Vendrien[/url]. O Arconte dos Segredos aparentemente esgotou sua contenção e pretende destruir o símbolo de seu poder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40003</ID>
+      <DefaultText>Em cima de seu recém-adquirido Pináculo, você teve uma visão do [url=glossary:disfavored]Desfavorecido[/url] exército sitiando seu Pináculo em [url=glossary:vendrien's well]Poço de Vendrien[/url]. O Arconte da Guerra aparentemente esgotou sua contenção e pretende destruir o símbolo de seu poder.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

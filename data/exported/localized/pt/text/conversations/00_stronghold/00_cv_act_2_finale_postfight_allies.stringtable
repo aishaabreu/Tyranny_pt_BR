@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\00_cv_act_2_finale_postfight_allies</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>14</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Olhe para os porcos de ferro sangrando!" Gargalhando com alegria, Quinto Olho gira sua lança, espirrando sangue em um amplo arco.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>O riso abafado vem do grande leme Erenyos'. "Isso é certo, seus camponeses imundos - corram por suas vidas! Diga a Nerat o que você viu aqui!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Espera! Não os persiga para fora da cidadela!" Capitão Tarkis ergue sua espada triunfante ao dar a ordem. "Que aqueles que sobreviveram ao [url=glossary:edict]Edital[/url] e nossas lâminas vivam para espalhar a palavra de nossos atos!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Nosso inimigo está em retirada. A vanguarda deles está quebrada, o resto de suas forças está com muito medo dessa gloriosa pira funerária que criamos." Ele enfia sua lança no cadáver de um próximo [url=glossary:disfavored]Desfavorecido[/url]. "Tal uma pena, eu estava começando a quase sentir o cheiro de cozido [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Nós quebramos a vontade deles de lutar - embora eu ache que os relâmpagos e os ventos de furacão de sua tempestade merecem a maior parte do crédito."
+
+A Lança Carmesim tira uma de suas luvas manchadas de sangue e coloca sua mão nua na chuva. "Tal uma maravilha... uma maravilha..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Conseguimos! Eles sãoe-" tropeçando em um leve tremor, ele finca sua lança no chão para recuperar o equilíbrio. "Eles sãoe caindo para trás! Tanto para [url=glossary:disfavored]Desfavorecido[/url] coragem, seu [url=glossary:edict]Edital[/url] de Pedra os aterroriza!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Temos o pátio sob nosso controle - deixe o dever de limpeza para mim e minha gangue. Apresse-se no topo do Pináculo - sem dúvida você vai querer uma visão panorâmica do [url=glossary:disfavored]Desfavorecido[/url] virando as costas e correndo de vergonha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"O Coro está em plena retirada! Sua [url=glossary:edict]Edital[/url] de Incêndio causou uma derrota! Quase tenho que aplaudir o Coristas que teve coragem de nos dar uma luta adequada. Eu quase gostaria que houvesse mais alguns... meu braço de espada estava apenas se aquecendo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"O refrão está correndo em todas as direções, espalhado pelos ventos, por assim dizer. Os poucos corajosos o suficiente para resistir ao seu [url=glossary:edict]Edital[/url] de Tempestades estão mortos. O dia é nosso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Nós os quebramos! Os tremores de seu [url=glossary:edict]Edital[/url] de Pedra enviaram ondas de terror pelo Refrão, desencadeando uma derrota! A única Coristas com coragem de lutar contra nós tentou o seu melhor," ela bate sua lâmina no corpo trêmulo de um Corista próximo, "mas o melhor deles é irrelevante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Deixe a limpeza para mim e meus irmãos. Você deve tomar seu lugar de direito no topo do Pináculo - não há melhor maneira de saborear esta vitória do que com uma visão dominante de seu inimigo fugindo pelo vale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Pensei que iríamos embotar nossa última arma quebrando Refrão crânios antes de ser esmagada, mas a ralé estava absolutamente aterrorizada com seu [url=glossary:edict]Edital[/url], e o pânico tomou conta da multidão gigante. Eu quase sinto pena dos Refrão guerreiros que foram corajosos o suficiente para se manterem firmes e lutarem conosco. Quase."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Você deveria viajar até o Pináculo - ter uma visão de nossas gloriosas consequências do alto - tenho certeza que você vai gostar de ver o inimigo fugir do vale."
+
+Ela o saúda com um sorriso. "Como sempre, boa caçada com você, [Player Name]. Seu trabalho aqui está feito, eu supervisionarei os feridos e o resgate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>inimigo está em retirada, aterrorizado pelo seu [url=glossary:edict]Edital[/url]. Os poucos guerreiros corajosos o suficiente para enfrentar o seu [url=glossary:edict]Edital[/url] foram superados, não resta ninguém com coragem para testar seus poderes. No momento, você venceu - uma viagem ao topo do Pináculo deve fornecer um ponto de vista ideal para uma pesquisa de sua vitória.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

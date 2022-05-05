@@ -1,0 +1,333 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\06_endgame\06_cv_acalos_sidequest_delivery</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>63</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Parece que nossas tropas têm essa pequena larva de um [url=glossary:scarlet chorus]Coro Escarlate[/url] tenente encurralado em Vila Caedo."
+
+"Pelo que estou ouvindo, é o mesmo cara que tem saqueado nossas caravanas nos últimos tempos semanas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Se eu já não estivesse lidando com algo para Ashe, eu mesmo iria esfolar a sujeira. Você estar aqui simplifica as coisas. Certifique-se de que este tenente não saia da aldeia com vida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Eu cuido disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Esqueça, tenho minhas próprias coisas para fazer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Saudações, Vinculador do Destino. Acalos, trigésima segunda legião." O soldado faz continência. 
+
+"Fico feliz em ver a agente de [url=glossary:tunon]Tunon[/url] Lareira de Ferro. A tropa de Ashe não tem falta de ordem, mas um servidor da corte é sempre bem vindo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Três de nossos comandantes estão presos no [url=glossary:stone sea]Mar de Pedra[/url], mas minhas mãos estão atadas com responsabilidades no forte. Elas foram tiradas durante um exercício de treinamento no campo. Há rumores de que os [url=glossary:scarlet chorus]Coro Escarlate[/url] vão usá-los como moeda de troca e entregá-los a Homens-fera - provavelmente para adicionar mais alguns selvagens ao seu exército de criminosos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Precisamos que você vá e 'interrompa' essa troca, e devolva nossos comandantes para Lareira de Ferro. Você estará nos fazendo um grande favor além de paralisar o [url=glossary:scarlet chorus]Coro Escarlate[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Diga-me para onde ir, e garantirei que eles voltem inteiros."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Desculpe, esses comandantes estão fora de nossas mãos, não posso me incomodar com isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Vou marcar a área em seu mapa. E Fatebinder... são apenas os [url=glossary:scarlet chorus]Coro Escarlate[/url] e as feras. Se for necessário, [url=glossary:graven ashe]Cinza esculpida[/url] não se importa com um pouco de sangue derramado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Naturalmente. Você tem toda a minha atenção."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Tenho algumas perguntas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Nada por enquanto. Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Onde você estava durante a conquista?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Conte-me sobre sua casa no Norte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Como você se juntou ao [url=glossary:disfavored]Desfavorecido[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Depois tive um breve desdobramento em Ápice, mas a luta estava acabando quando cheguei. Depois disso fiz um tour pelo Robusto, mas fui transferido antes que o [url=glossary:edict]Edital[/url] destruísse tudo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Você poderia dizer que eu vi o Camadas de cima para baixo. Cavei latrinas em nosso acampamento no Portões do Julgamento. Então minha promoção me enviou para [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Entrei em algumas linhas com o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url]. Não é uma visão bonita."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Sou de Balmywell, uma pequena aldeia a oeste da capital [url=glossary:kyros]Kyros[/url]'. Não é nada glorioso, mas posso rastrear seis gerações lá atrás, então é o lar. Espero voltar lá algum dia com um monte de contos, anéis e renome."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Uma vez [url=glossary:graven ashe]Cinza esculpida[/url] me deu seu favor e me recrutou para o exército, minha família passou de fazendeiros respeitáveis a pessoas de elite - mais bem vistas ou respeitadas do que qualquer um. Eles devem estar se saindo bem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Antes da conquista, [url=glossary:graven ashe]Cinza esculpida[/url] enviou recrutadores para todas as cidades periféricas em busca de talentos dignos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"A vila realizou um torneio e corpo a corpo para demonstrar nossa força local. Nada extravagante, veja bem. Foi principalmente lutando em fardos de feno com lanças de madeira. Tive a distinção de derrubar até mesmo o maior concorrente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Ainda bem que consegui. Sou mais útil para [url=glossary:kyros]Kyros[/url] no campo de batalha do que em um campo de trigo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Você conseguiu libertar nossos comandantes, Fatebinder? Odeio pensar no bem nórdicos caindo em Homem-Besta garras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Ainda não. Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Entendido. Tenho perguntas para você primeiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Saudações. Você já lidou com aquele tenente problemático?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Ainda não. Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Você precisa de algo de mim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Conte-me sobre seus comandantes desaparecidos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Você deve saber melhor do que ninguém o que o Homens-fera fará com nossos comandantes - provavelmente os despedaçará e comerá seus fígados. Não é uma perspectiva agradável."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Nem consigo imaginar o que Homem-Besta iria querer com [url=glossary:disfavored]Desfavorecido[/url] comandantes, mas posso me arriscar a adivinhar. O [url=glossary:stone sea]Mar de Pedra[/url] não está produzindo colheitas como costumava, e Homem-Besta não são comedores exigentes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Isso é... isso é uma pena, mas não vou invejar você. Entre a conquista e a guerra civil, tenho certeza que você tem muito em mente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Bem-vindo de volta, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Resgatei seus comandantes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Sim, eles ficaram agradecidos por retornar ao forte inteiros, em vez de passarem pelo Homem-Besta trato digestivo em vários pedaços."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Obrigado por seu trabalho duro. O [url=glossary:disfavored]Desfavorecido[/url] vai lembrar que você se levantou para defender nosso povo." Ele enche sua palma de anéis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Fale-me sobre o [url=glossary:scarlet chorus]Coro Escarlate[/url] tenente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Matei o [url=glossary:scarlet chorus]Coro Escarlate[/url] tenente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Bom da sua parte contribuir. Ninguém vai lamentar a perda de mais um Refrão rato."
+
+Ele marca um local no seu mapa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Tenho perguntas antes de ir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Sem problemas. O que você precisa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Como você quiser. Se você puder encaixá-lo em sua programação, é só me avisar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Já não passamos por isso? Você está interessado em ajudá-los?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Conte-me o problema novamente desde o início."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Entre nossos comandantes desaparecidos e um [url=glossary:scarlet chorus]Coro Escarlate[/url] tenente preso, temo que estamos com as mãos ocupadas. Acho que posso ter um momento para conversar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Por que - você pode ajudar com o assunto?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Lembre-me novamente qual era o problema."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"De fato você tem, e muito bem. Uma razão a menos para eu olhar por cima do ombro. Aqui está - pagamento justo por um trabalho bem feito." Ele lhe passa um anel de anéis.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Isso é tudo? Esses dificilmente é o salário de um assassino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"É um prazer fazer negócios com você. Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Você é um assassino ou um servidor juramentado da corte? Não responda isso. Se você está confuso sobre a diferença, não quero saber disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Pegue seu dinheiro sangrento."
+
+Ele joga mais alguns anéis para você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Voltando às minhas perguntas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Continue. O que você precisa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Um conto familiar, e um segundo meu próprio coração."
+
+Barik acena com respeito.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Eu não te vejo desde que você duelou com o Rainha Apex. Foi uma luta acirrada, mas no final você nos impressionou a todos quando a atropelou!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Fatebinder! Ou devo dizer... Em geral." Ele levanta o punho em uma saudação vigorosa. "Será uma honra acompanhá-lo na batalha. Com dois Arcontes nos liderando, a vitória está quase garantida!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"O que você quer de mim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Em geral, bem-vindo." Ele oferece um respeitoso salto.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

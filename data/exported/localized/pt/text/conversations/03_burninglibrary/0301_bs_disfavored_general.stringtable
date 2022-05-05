@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\03_burninglibrary\0301_bs_disfavored_general</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Foi um milagre ver você nas ruínas. Achei que minha última visão seria uma lâmina Refrão. Obrigado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"A da Biblioteca ainda de pé, infelizmente. Mesmo assim, podemos mantê-lo facilmente até que Geral Ashe decida o que fazer com ele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Não poderia estar mais feliz que essas ruínas estão banhadas em fogo agora, como [url=glossary:kyros]Kyros[/url] queria."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Os Sábios nunca deveria ter resistido. Veja o que aconteceu com essas terras! Isso é bom que você cumpriu [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url], finalmente."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

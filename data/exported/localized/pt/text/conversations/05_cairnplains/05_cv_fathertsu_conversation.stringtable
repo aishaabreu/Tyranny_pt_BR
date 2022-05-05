@@ -1,0 +1,803 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\05_cairnplains\05_cv_fathertsu_conversation</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>157</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"É sempre um prazer vê-lo, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Você conseguiu adquirir o Everwell, Fatebinder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"O que você pode me dizer sobre aqueles que desafiariam [url=glossary:kyros]Kyros[/url] neste reino?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Por que há um Homem-Besta sendo realizado aqui em [Plainsgate]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Sim, eu fiz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Encontrei, mas estou vendendo para Arason."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Mentira] "Desculpe, mas não encontrei nada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Você estaria disposto a confiar o cuidado da relíquia ao povo de [Plainsgate]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Sem chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Como é seu direito, é claro, mas não há nada que eu possa dizer para convencê-lo a confiar o Everwell's cuidado ao povo de [Plainsgate]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"O que posso fazer por você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Quando a cidade era principalmente um mercado para fazendeiros, [url=glossary:stonestalkers]Perseguidores de Pedras[/url] trabalhava como animais de carga. Eles faziam o transporte e a lavoura principalmente. E aprenderam a não reclamar. Mas então [url=glossary:cairn]Cairn[/url] os incitou com uma idéia tola de retomar as terras de seus ancestrais e eles têm sido nada além de delirantes e violentos desde então."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Há pouco tempo, aquele lá em cima foi arrastado para a cidade por um grupo de colonos e Refrão. Ele estava coberto de sangue - uma coisa selvagem. Fizemos o nosso melhor para olhar para o outro lado, mas parece que eles não ficarão satisfeitos em nos deixar em paz. Agora eles estão nos caçando além dos portões da nossa cidade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Você assumiu a Homem-Besta culpa? Como você sabe que ele estava caçando um humano?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Ensanguentado e querendo vingança - o Homem-Besta deve ter feito isso, então."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Vamos discutir outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Você encontrará essa visão comum entre os colonos daqui. Muito provavelmente, o Homem-Besta será executado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Eu prefiro manter meu nariz fora dessas coisas... mas se você tem certeza o suficiente sobre a Homem-Besta inocência, você pode considerar fazer algo sobre isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Eu prefiro manter meu nariz fora dessas coisas... mas se você tem certeza o suficiente sobre a Homem-Besta inocência, você pode considerar fazer algo sobre isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Ele é um homem-fera. É o que eles fazem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Ah, Vinculador do Destino! Que bom que consegui falar com você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"O que você quer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Chegou ao meu conhecimento que Arason pediu para você encontrar o Everwell."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"As palavras viajam rápido, entendo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Você é um Vinculador do Destino. Tudo o que você diz ou faz em [Plainsgate] é transmitido rapidamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Perdoe minha presunção, Vinculador do Destino." Ele se afasta rapidamente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Preciso alcançar [url=lore:Howling_Rock]Rocha Uivante[/url]. Você sabe como chegar lá?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Eu sei que você precisa passar por [url=lore:StoneDown]Apedrejar[/url], mas apenas o Homens-fera sabe o resto do caminho. Se eles vão te dizer..." Ele dá de ombros.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Isso é tudo que eu precisava saber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Os Homens-Besta são os que se opõem a [url=glossary:kyros]Kyros[/url] nestas partes. Estamos sobre os ossos de Azure, mas abaixo estão as ruínas do Homem-Besta território ancestral."
+
+"Quando o Reino do Azure subiram no poder, eles escravizaram as criaturas hediondas e as entregaram a vidas de trabalho duro. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Desde que [url=glossary:cairn]Cairn[/url] caiu e o [url=glossary:edict]Edital[/url] devastou a terra, o Homens-fera começou a recuperar o [url=glossary:stone sea]Mar de Pedra[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Se você se encontrar na presença deles, pise com cautela. Os Homens-Besta são territoriais e recorrem à violência com pouca provocação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Você está no meu caminho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Só por um momento, Vinculador do Destino. Por favor, me ouça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Você ouviu direito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Você vê como nosso assentamento é pobre." Ele gesticula em volta dele. "Arason usaria a relíquia para lucro pessoal e compartilharia pouco dela com o resto de nós. Se a relíquia pertencesse a todos em [Plainsgate], no entanto, o lucro da venda da tinta para o Sábios seria dividido entre todos os cidadãos - mesmo Arason."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Vou considerar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Suponho que você esteja se oferecendo para pagar mais por isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Infelizmente, não. Não há nada que eu ou qualquer outra pessoa possa oferecer que corresponda a Arason."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Obrigado por me ouvir, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Por que você quer o Everwell?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Eu disse não. Não teste minha paciência."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Você vê como nosso assentamento é pobre." Ele gesticula em volta dele. "Arason usaria a relíquia para lucro pessoal e compartilharia pouco dela com o resto de nós. Se a relíquia pertencesse a todos em [Plainsgate], no entanto, o lucro da venda da tinta para o Sábios seria dividido entre todos os cidadãos - mesmo Arason."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Sem acordo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Mas eu ouvi... ah, deixa pra lá, então."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"O que são homens-fera fazendo lá?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Quem conhece a mente dessas criaturas?" Ele gesticula para longe. "Pergunte a eles, se precisar. Eles provavelmente estão de cócoras nos túmulos de seus antigos mestres. Azure já foi uma região próspera e rica - mas os Homens-Besta a viram de um ângulo muito diferente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Boa sorte. Hoje em dia, eu não enviaria minha tia menos favorita para [url=lore:StoneDown]Apedrejar[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Tudo bem por mim! Suficiente dessa conversa mórbida, hein?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Tarkis Arri do [url=glossary:vendrien guard]Guarda Vendrien[/url] me enviou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Eu sei o nome." Ele olha ao redor com cautela. "O que isso tem a ver comigo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Os rebeldes precisam de olhos e ouvidos em [Plainsgate]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"E ela sugeriu que você viesse até mim. Muito bem, eu vou ajudar - desde que eu seja pago pelo meu problema."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Assim mesmo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Assim mesmo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Eu prefiro manter meu nariz longe dessas coisas... mas se você tem certeza o suficiente sobre a Homem-Besta culpa, você pode considerar fazer algo a respeito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Eu prefiro manter meu nariz longe dessas coisas... mas se você tem certeza o suficiente sobre a Homem-Besta culpa, você pode considerar fazer algo a respeito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Ele deve ser entregue ao [url=glossary:scarlet chorus]Coro Escarlate[/url] - isso reduzirá seus esforços agressivos de recrutamento pela cidade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Prefiro manter meu nariz longe dessas coisas... mas se você achar que é melhor nós entregá-lo ao Refrão, acho que não encontrará muita oposição no assunto. Afinal, eles nos ajudaram a capturar a fera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Prefiro manter meu nariz longe dessas coisas... mas se você achar que é melhor nós entregá-lo ao Refrão, acho que não encontrará muita oposição no assunto. Afinal, eles nos ajudaram a capturar a fera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Seus esforços têm sido implacáveis, chegando a beirar a violência às vezes." Ele acena para si mesmo, considerando suas palavras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"[url=glossary:bleden mark]Marca de mistura[/url] manda lembranças. Estou procurando o Escudo Azure."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Entendo." Ele pisca uma pontada de medo. Em um segundo a emoção está visivelmente lá, no próximo ela se foi. "Eu não fazia ideia de que você também estava a serviço dele. De qualquer forma, o Homens-fera de [url=lore:StoneDown]Apedrejar[/url], a tribo [url=glossary:stonestalkers]Perseguidores de Pedras[/url], tem o artefato. Seus [url=glossary:prima]Prima[/url], Cem Sangue, mantém bem guardado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Para que serviria o Homens-fera para uma relíquia Azure?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"É uma questão de orgulho, Vinculador do Destino. Para eles, o [url=glossary:stone sea]Mar de Pedra[/url] é deles. E se um escudo de ferro brilhante for encontrado, bem, é deles também."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Derramar seu sangue seria a solução mais direta, é claro. Não é uma tarefa fácil." Ele bate o dedo contra os lábios. "Também pode ser possível negociar uma troca, mas quem sabe o que um Homem-Besta poderia querer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Isso é tudo que eu precisava saber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Você é o Fatebinder sobre o qual todos estão falando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Me disseram que você seria um agente confiável."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"É mesmo?" Ele ri. "Muito bem, eu vou ajudar - desde que eu seja pago pelo meu problema."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Estou derrubando o [url=glossary:disfavored]Desfavorecido[/url] e o [url=glossary:scarlet chorus]Coro Escarlate[/url]. Quer ajudar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Você não é sutil, eu vou te dar isso." Ele ri. "Muito bem, eu vou ajudar - desde que eu seja pago pelo meu problema."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Como devo proceder para adquirir o artefato de Centenas-Blood?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Boa sorte com sua busca, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"É verdade, mas estão errados." A Mulher-Fera agita uma garra, parecendo entediado e mal-humorado. "Toda a terra em Azure-terras pertence a Mulheres-feras, mas [url=glossary:stonestalkers]Perseguidores de Pedras[/url] não acumule bugigangas inúteis para negociar ou contemplar como seres humanos delirantes e slathering. Por Cem-Sangue para reivindicar o prêmio - significaria que Mulher-Besta rasgou o escudo da vida e dos membros de um inimigo forte e digno. É uma prova de orgulho para [url=glossary:prima]Prima[/url] para tribo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Quero vencer Centenas-Sangue. Quer comer fígado de outra tribo [url=glossary:prima]Prima[/url] - provar que Caçadores de Sombras são predadores mais fortes e melhores. Mas não precisa matar para ser o melhor. Pode deixar a vida ou pode ajudar Mulher-Besta a proteger a tribo. Ambos são boas escolhas para a sobrevivência de todos Mulheres-feras, sim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Estou à sua disposição, Vinculador do Destino." Haygren acena para você respeitosamente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Você estaria disposto a confiar o cuidado da relíquia ao povo de [Plainsgate]? A não ser que... [url=glossary:bleden mark]Marca de mistura[/url] as ordens dizem o contrário?" Ele olha para você esperançoso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Entendo." Ele desvia o olhar, com os olhos baixos. "Se esses forem os pedidos de [url=glossary:bleden mark]Marca de mistura[/url], eu entendo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>[Mentira] "Desculpe, tenho minhas ordens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Entendido, Vinculador do Destino. Não vou falar sobre isso novamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"O quê? Sério? Toda a tinta que eu poderia usar e você simplesmente a daria? Eu anotaria sua estupenda generosidade, mas agora que a tinta está escassa novamente... Espero que este plano termine com você roubando de volta o Everwell. Se apenas para preservá-lo para a história, é claro..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Pegue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Eu.. não sei o que dizer." Ele fica boquiaberto para você com espanto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Humanos matam humanos. É o que os humanos fazem. Mesmo agora, [url=glossary:kyros]Kyros[/url]' matilhas caçam uns aos outros - enquanto também caçam humanos chamados Tiersmen até a extinção."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"O que os humanos estão fazendo em um lugar chamado [Plainsgate]? cio, caçando, vivendo, mijando. Não são tão diferentes de Mulheres-feras." Ela rosna, mostrando Haygren suas presas. "[url=glossary:stonestalker]Perseguidor de Pedras[/url] tribo está livre agora para manter a toca como humanos. Tornou-se forte a partir de Arconte de Pedra estrondos, de Arconte magia da terra surgindo através de Azure terras. Então [url=glossary:stonestalkers]Perseguidores de Pedras[/url] estão caçando, estão crescendo e reivindicando território."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Quem conhece a mente dessas criaturas?" Ele olha para Mortes-in-Shadow. "Talvez seu companheiro pode saber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"A violência contra humanos é sempre justificada. Porque sempre os humanos estão provocando Mulheres-feras. Estão esfaqueando Mulheres-feras com paus afiados ou palavras cortantes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Como eu disse antes, os Homens-fera estão tentando recuperar suas terras ancestrais desde que [url=glossary:edict]Edital[/url] devastou Azure. Até agora, eles estão tendo sucesso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"O que você faz em [Plainsgate]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Um pouco de tudo, na verdade. Eu sou decentemente habilidoso com ferramentas, e os prédios aqui estão sempre precisando de reparos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Claro, meu serviço para [url=glossary:bleden mark]Marca de mistura[/url] tem prioridade sobre qualquer um desses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Ela rosna e estala as mandíbulas. "Left-Claw não é tão cruel quanto Mortes-in-Shadow. É um filhote bom e obediente. Não caçaria humanos sem ordens da matilha Alfa, a menos que humanos fossem ameaça para Homem-Besta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Isso foi fácil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Você será compensado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Reconheço um bom negócio quando vejo um."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Bom. Por favor, veja que eu faço."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"No entanto, deixe-me ser claro - eu não me juntei à sua causa. Se a qualquer momento parecer que você pode perder ou que estou em perigo, minha ajuda termina. Sem ressentimentos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Faz [url=glossary:bleden mark]Marca de mistura[/url] precisa fazer alguma coisa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Ah, nada disso. Este é um assunto pessoal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"E isso lhe dá uma desculpa para interferir nos Vinculador do Destino negócios?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Eu não quis ofender!" Ele ergue as mãos. "Eu só queria oferecer uma alternativa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Saia do meu caminho, senão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"De nada, Haygren."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Se eu descobrir que você mentiu para mim e está usando o Everwell para ganho pessoal..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Não se preocupe, Vinculador do Destino. Apenas um tolo ousaria contrariar você, e eu não sou tolo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"O povo de [Plainsgate] nunca esquecerá sua generosidade, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>Nó aleatório 161</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Anéis podem ser tomados à força ou truques, mas o favor é conquistado por meio de ações. Você faz bem em saber a diferença." Barik acena com a cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>Ela bufa. "Por que dar aos outros quando pode guardar para o próprio pacote?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>"Estamos aqui para trocar conchas com os locais, ou o quê? Espero que você possa pelo menos comprar alguma coisa com todos esses favores que coleciona." Verse cruza os braços e balança a cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Bons atos não vão alimentar ou vestir você, Vinculador do Destino. Se você insistir em dar tudo sem compensação, vai acabar com fome e nu com um cordão vazio. Mais, esse item continha magia - algo que você poderia estudar para aumentar seu próprio poder!" Ela balança a cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Nunca dê nada de graça. Suponho que você esteja comprando o fundo de comércio do acordo, mas está pagando muito acima do valor de mercado, se me perguntar... não que tenha feito isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Como você entrou no serviço de [url=glossary:bleden mark]Marca de mistura[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Ele acabou de aparecer na minha casa um dia." Ele coça a nuca. "Disse ele estava me observando, que havia algo único em mim, e perguntou se eu queria me tornar parte de algo maior. Como eu poderia dizer não a isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Ele aparece de vez em quando e me pergunta sobre coisas que estão acontecendo em [Plainsgate], e eu faço o meu melhor para mantê-lo informado. Nada mais do que isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Há algo que eu possa fazer por você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Eu só queria que você soubesse que muitos de nós aqui estamos gratos por você ter a terra restaurada depois que [url=glossary:cairn]Cairn[/url] destruiu a terra. A vida em [Plainsgate] é difícil, mas pelo menos não precisamos nos preocupar com a fome."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>Ela lambe suas presas, olhos carmesins observando você com uma diversão afiada. Ela bufa, mas depois balança a cabeça, pensando melhor no que quer que ela estivesse prestes a fazer - felizmente não entregando você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>Haygren olha entre vocês, inseguro, antes de desviar o olhar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Ela enrola suas garras alongadas e maliciosamente curvadas enquanto retumba seu aviso.
+
+"Não culpe Mulher-Besta por falta de paciência. Os humanos também não matam moscas zumbindo, mordendo e enxameando?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>Talvez sabiamente, Haygren não diz nada em resposta ao Fera enfurecido - encolhendo-se ligeiramente e lambendo os lábios secos e rachados. No entanto, ele olha para você como se dissesse: 'Viu?' antes de desviar o olhar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>Ele considera o Mulher-Besta com interesse momentâneo, considerando sua explicação perspicaz. Mas, no final das contas, ele cheira e dá de ombros, sem prestar atenção.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Alpha tem planos para ajudar Left-Claw para Kills-in-Shadow, sim? Seria não quero chatear Mulher-Besta, sim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Agora não, Mulher-Besta. Os humanos estão falando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Claro que vou ajudá-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Ainda não decidi que curso de ação vou tomar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Ela bufa e se acomoda, olhando Haygren perigosamente enquanto traça o comprimento da cicatriz nodosa que corta seu peito.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Ela bufa e se acomoda, olhando Haygren perigosamente enquanto traça o comprimento da cicatriz nodosa que corta seu peito.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>Ela rosna ferozmente, mas eventualmente se acalma, olhando Haygren perigosamente enquanto traça o comprimento da cicatriz nodosa que corta seu peito.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Você sabe alguma coisa sobre as Agulhas no [url=glossary:stone sea]Mar de Pedra[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Eu não confio em ninguém que afirme - esses monumentos não compartilham seus segredos com ninguém." Ele olha para o norte, apertando os olhos ao fazê-lo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"É um pouco nebuloso daqui, mas na maioria dos dias o Pináculo da Aurora eleva-se no horizonte norte, perto de Gulfglow. Não é o que eu chamaria de uma visão reconfortante, mas pelo menos ajuda você a manter sua direção."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Eu não sei como você fez isso, mas as pessoas estão dizendo que você é o responsável pela interrupção do terremoto."
+
+O homem se curva profundamente diante de você. "[Plainsgate] está sempre em dívida com você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>As bochechas bronzeadas e envelhecidas do homem se contraem em uma carranca profundamente enrugada. Ele cruza os braços sobre o peito.
+
+"Quem?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"O que você quer dizer com 'quem?' O Arconte das Sombras, quem mais?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Oh, [url=glossary:bleden mark]Marca de mistura[/url] também queria que eu lhe dissesse, esta é sua chance de ver sua esposa novamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>[Suspiro audivelmente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>Ele dá de ombros e olha para longe. "Apenas Arconte I've se ouviu falar é o [url=glossary:kyros]Kyros[/url] derrubado na guerra. Que [url=glossary:edict]Edital[/url] destruiu nosso maldito reino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>Ele olha silenciosamente de volta para você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Então o que está acontecendo com sua esposa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>Desta vez, é choque e raiva que brilham em seu rosto antes que ele consiga controlar sua expressão.
+
+Voz baixo, ele ferve. "O que porra você acha, Fatebinder? Olha, mesmo que você tenha boas intenções, a melhor maneira de me ajudar com isso é apenas obter suas informações e seguir em frente. Faça o que o Arconte das Sombras quer, e eu e Elaine ficaremos bem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Sinto muito. Se houver algo que eu possa fazer, farei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>[Dar de ombros]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>Ele cospe no chão. Seus olhos verdes procuram seu rosto antes de ele arrastar uma sandália sobre a terra úmida. Mas no final ele apenas balança a cabeça, em silêncio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>Ele lhe lança um olhar conhecedor. "Então eu você sabe os detalhes mais sutis que envolvem o meu serviço?" Ele sorri, mas é um gesto amargo. "Ou forma, para o bem de nós dois, é melhor se eu não falar sobre isso. Você sabe tão bem quanto eu - [url=glossary:bleden mark]Marca de mistura[/url] pode estar assistindo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Parece surpreendentemente... não violento para alguém cujo nome causa medo nos corações de homens e mulheres em todos os lugares."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Uau, foi exatamente assim que ele me recrutou!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>[Não diga nada.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Ele arrasta uma sandália na terra, um lampejo de raiva estragando suas feições antes de retornar um olhar atento ao seu rosto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>Ele coça a nuca e olha para os pés, desconfortável no momento de silêncio que se estende após sua explicação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>Ele lhe lança um olhar conhecedor. "Tenho certeza que sim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Por 'fazer uma aparição' você quer dizer continuar mantendo os membros da família como reféns?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Você disse isso, não eu." Ele te encara com um olhar amargo. "Ou forma, para o bem de nós dois, é melhor se eu não falar sobre isso. Você sabe tão bem quanto eu - [url=glossary:bleden mark]Marca de mistura[/url] pode estar assistindo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Foi há alguns anos. Cheguei em casa e o lugar estava tranquilo. Você sabe, o tipo de silêncio que rasteja por toda a sua pele?" Ele dá de ombros como se quisesse afastar a sensação. "Estava escuro por dentro e vazio, exceto por essa sombra de homem. Achei que ele viria me matar, mas ele só perguntou se eu queria fazer parte de uma causa maior. Quero dizer, como eu poderia dizer não a isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

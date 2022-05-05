@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\00_recruits\00_cv_infirmary_skilltrainer_kypera</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Eu não posso me dar ao trabalho de treinar você com o Pináculo neste estado. Tente novamente mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Ela chama sua atenção com um olhar que lança um arrepio na espinha. "Vinculador do Destino [Player Name], recebi permissão de [url=glossary:the voices of nerat]the Vozes de Nerat[/url] para treiná-lo nas artes de manipular emoções, bem como conceder vigor no campo de batalha." Ela continua a te avaliar. "Nem dos quais você possui muito, pelo que posso dizer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Gostaria de treinar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Deixar.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Seu rosto se transforma em decepção visível quase imediatamente quando ela vê você. "Nossas fileiras diminuíram se o que vejo diante de mim merece o respeito que o [url=glossary:scarlet chorus]Coro Escarlate[/url] lhe concedeu." Ela se aproxima para avaliar você. "[url=glossary:the voices of nerat]As vozes de Nerat[/url] me deu permissão para treiná-lo nas artes mágicas de manipular emoções, bem como conceder vigor no campo de batalha. Há espaço para melhorias, sem dúvida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"O que você precisa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Um pequeno sorriso emerge de sua expressão fria. "Chefes não duram muito na minha profissão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Você é tão civilizado com todos para quem trabalha?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>A mulher ignora o Boticário com desdém.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

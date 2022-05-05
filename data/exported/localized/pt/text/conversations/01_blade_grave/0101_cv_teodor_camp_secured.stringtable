@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\0101_cv_teodor_camp_secured</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>42</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Nó de conversão de gatilho10</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>tenente examina o acampamento [url=glossary:unbroken]ininterrupto[/url] com um ar digno. "Agradável feito, muito bem feito. Achei que você não teria chance sem a nossa ajuda, mas você é mais forte do que parece."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Meus batedores me dizem que Desfiladeiro da Ferrugem está em silêncio. Estamos encontrando cadáveres de necrófagos, mas nenhum sinal de atividade inimiga." Ao se virar, ele gesticula em direção a um de seus soldados e diz "Pague ao homem suas dívidas."</DefaultText>
+      <FemaleText>"Meus batedores me dizem que Desfiladeiro da Ferrugem está em silêncio. Estamos encontrando cadáveres de necrófagos, mas nenhum sinal de atividade inimiga." Ao se virar, ele gesticula em direção a um de seus soldados e diz "Pague as dívidas da mulher."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Aceite os anéis] "Meus agradecimentos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Recusar os anéis] "Nenhuma recompensa é necessária."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Gaste com sabedoria, Vinculador do Destino. Você ganhou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>sobrancelha de Teodor levanta. "Um dia de trabalho honesto merece sua recompensa, mas posso apreciar sua postura. Vou garantir que esses anéis beneficiem o [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Parece que Elia fugiu para o norte, o que significa que ela levou o verdadeiro prêmio com ela - o artefato Robusto, ou o conhecimento dele. Sua força de luta pode ser suficiente para perfurar Jacomus e seus homens..." O pensamento claramente o perturba. "Devemos persegui-la antes que ela tenha uma chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Vinculador do Destino, meus agradecimentos por sua ajuda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Durante o ataque inicial, vários [url=glossary:unbroken]ininterrupto[/url] também foram vistos fugindo ao norte do acampamento. Se você encontrá-los, certifique-se de colocá-los no chão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>[Ataque] "Decidi reivindicar este acampamento para mim. Saia agora ou morra. Não tenho mais utilidade para você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Estou decepcionado com você, Vinculador do Destino. Sua miopia será nossa ruína. Homens, ataquem! Voltarei com reforços!" Teodor se prepara para sair.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"O que você sabe sobre artefatos em geral?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Além de desejar ter alguns em meu nome?" Ele balança a cabeça em perplexidade. "Eles sãoe armas e itens poderosos o suficiente para mudar o rumo de qualquer batalha. Eu não poderia falar sobre sua natureza ou como eles são responsáveis por atos tão famosos, mas não tenho motivos para duvidar do que eles podem fazer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"A palavra que vem por aí é que um artefato pode violar Posto de Sentinela. Você não ouvirá reclamações minhas. Essa fortaleza permaneceu incontestada por muito tempo. Com sua ajuda, não tenho dúvidas de que em breve usará [url=glossary:disfavored]Desfavorecido[/url] banners."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Qualquer palavra de Posto de Sentinela?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Parece haver mais presença de escoteiros fora do windwall. [url=glossary:unbroken]ininterrupto[/url], [url=glossary:disfavored]Desfavorecido[/url] - todos estão no limite, esperando que algo aconteça. Teremos que prender a respiração um pouco mais antes de podermos abrir a velha fortaleza." "Assim que rastrearmos o artefato Robusto, será uma corrida louca enquanto todos correm para reivindicar Posto de Sentinela primeiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Mas alguma informação nova? Não como tal. Temos todos os motivos para supor que Straydus Herodin ainda não cometeu suicídio, e esperamos que a filha de Ashe esteja em boas condições. Eu só espero que a proteção de seu pai esteja mantendo seu ânimo elevado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>O tenente examina o acampamento [url=glossary:unbroken]ininterrupto[/url] e ri sozinho, claramente impressionado. "Parece que você faz seu melhor trabalho sem supervisão, Vinculador do Destino. Da próxima vez que precisar de reforços, farei um apelo ao tribunal de [url=glossary:tunon]Tunon[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Eu nunca vou esquecer como você [url=lore:better_dead]deu ao Refrão um pedaço de sua mente[/url] para evitar que os Robusto moradores se matassem." Ele balança a cabeça. "Eu sempre disse que a multidão uivante é melhor para assustar as pessoas do que recrutá-las."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Ashe mandou uma mensagem esperando por você. Se ele despachou um forasteiro para nos ajudar em campo, isso diz algo sobre sua urgência em ver esses [url=glossary:unbroken]ininterrupto[/url] conquistados de vez. Acho que nós dois podemos apreciar que o interesse dele em ver esse assunto resolvido é de natureza pessoal." 
+
+Ele se pega. "Eu... peço desculpas por essa observação de 'estranho'. Alguns de nós não estão acostumados a trabalhar com ninguém além da própria legião."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Vamos nos concentrar na tarefa em mãos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Ele concorda. "Sim, ficarei feliz em deixar este lugar no meu caminho. Algo sobre o vento parece carregar todo o pior do fedor e se recusar a este canto de Robusto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Parece que você eliminou a maior parte de sua força de combate, embora a vitória marcial não seja a única razão pela qual estamos aqui." "Ashe diz que os [url=glossary:unbroken]ininterrupto[/url] estão limpando o [url=glossary:blade grave]Sepultura de Lâminas[/url] para um artefato antigo Robusto. Não consigo pensar em mais nada que nos ajude a violar Posto de Sentinela, exceto a morte oportuna Regente. É uma aposta desesperada, mas que não podemos arriscar pagar a do Sul favor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Os Tiersmen são como ratos - se espremendo atrás das paredes mais estreitas para evitar o inevitável."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Então eu conheci alguns vermes astutos na minha época. E o que isso faz de você, meu amigo de ferro?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Atrás da obscuridade de seu elmo, você pode ouvir Barik rangendo os dentes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Não importa o que eles encontrem aqui, os [url=glossary:unbroken]ininterrupto[/url] estão presos. Ao norte do acampamento, temos soldados liderados por meu subordinado, Jacomus. Ao sul, reforços marcham enquanto falamos." Ele bate o queixo em pensamento. "Ainda, agradeço qualquer ajuda que você possa oferecer. Quanto mais cedo reivindicarmos o artefato [url=glossary:unbroken]ininterrupto[/url], mais cedo chegaremos a Posto de Sentinela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"O que você sabe sobre artefatos em geral?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Além de desejar ter alguns em meu nome?" Ele balança a cabeça em perplexidade. "Eles sãoe armas e itens poderosos o suficiente para mudar o rumo de qualquer batalha. Eu não poderia falar sobre sua natureza ou como eles são responsáveis por atos tão famosos, mas não tenho motivos para duvidar do que eles podem fazer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"A palavra que vem por aí é que um artefato pode violar Posto de Sentinela. Você não ouvirá reclamações minhas. Essa fortaleza permaneceu incontestada por muito tempo. Com sua ajuda, não tenho dúvidas de que em breve usará [url=glossary:disfavored]Desfavorecido[/url] banners."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Isso dificilmente parece um território que vale a pena tomar... ou defender."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Qualquer palavra de Posto de Sentinela?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Parece haver mais presença de escoteiros fora do windwall. [url=glossary:unbroken]ininterrupto[/url], [url=glossary:disfavored]Desfavorecido[/url] - todos estão no limite, esperando que algo aconteça. Teremos que prender a respiração um pouco mais antes de podermos abrir a velha fortaleza." "Assim que rastrearmos o artefato Robusto, será uma corrida louca enquanto todos correm para reivindicar Posto de Sentinela primeiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Mas alguma informação nova? Não como tal. Temos todos os motivos para supor que Straydus Herodin ainda não cometeu suicídio, e esperamos que a filha de Ashe esteja em boas condições. Eu só espero que a proteção de seu pai esteja mantendo seu ânimo elevado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Você está falando com um oficial do tribunal. Tente agir como tal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Sim senhor! Que nunca se diga que Tenente Teodor comete o mesmo erro duas vezes. Pedimos desculpas novamente pelo descuido."</DefaultText>
+      <FemaleText>"Sim senhora! Que nunca se diga que Tenente Teodor comete o mesmo erro duas vezes. Pedimos desculpas novamente pelo descuido."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>[Não diga nada.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Durante a conquista, lembro-me de ouvir falar de um silencioso Vinculador do Destino que viajou um pouco à frente do meu grupo. Nunca junte as peças de que era você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Agora que reivindiquei este pequeno forte em nome do [url=glossary:disfavored]Desfavorecido[/url], o que vem a seguir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Em circunstâncias normais eu poderia concordar, mas nossa proximidade com Lareira de Ferro e Guarda do Crepúsculo torna esta passagem crítica para uma força militar. Com tanto território sob nosso controle, possuímos o [url=glossary:blade grave]Sepultura de Lâminas[/url] em tudo, menos no nome. Posto de Sentinela continua sendo uma joia preciosa, mas mais chamativa e simbólica."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

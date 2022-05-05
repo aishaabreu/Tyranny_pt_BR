@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\02_lethianscrossing\fq_rb_qst_shadowofoldwall</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Na sombra do Oldwalls</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Ir para a Marcha do Desertor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Ir para Twin Rivers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Fale com Locke.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Fale com Myrek.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Procurar Locke e Myrek.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Pesquisar Myrek.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Pegue a Pedra Angular para Welby.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Encontrar Welby.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Entre nas Velhas Muralhas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Pegue a Keystone para a entrada Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Mate os flagelos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Pesquisar Flatfoot Ferris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Raetommon pegou tanto o Elmo Magebane e Mestre da Forja Zdenya. Arri queria Zdenya como parte de sua aliança, então busque Raetommon e resgate o [url=glossary:forge-bound]Forge-Bound[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Os [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] costumam passar por Marcha do Desertor. Você pode encontrar informações sobre o paradeiro Raetommon lá.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Rios gêmeos é conhecido [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] acampamento. Provavelmente há uma espécie de comandante lá que pode ser uma fonte de informação sobre o paradeiro de Raetommon's.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Locke está irritado com Raetommon's ações recentes em [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Fale com ele e descubra se ele sabe para onde Raetommon foi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Myrek suporta táticas Raetommon's em [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Fale com ele e descubra se ele sabe para onde Raetommon foi.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Há uma boa chance de um dos dois ter uma pista de onde Raetommon pegou o [url=glossary:forge-bound]Forge-Bound[/url] Mestre. Seus corpos podem ser encontrados em Marcha do Desertor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Locke disse que pode ser benéfico pesquisar o corpo Myrek's em Marcha do Desertor para obter informações sobre Raetommon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Com a pedra-chave na mão, volte para Welby em Twin Rivers para encontrar Raetommon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>A Irmandade foram isolados de seu acampamento base em Rios gêmeos. Welby está tentando manter os fraternidade restantes juntos após o desaparecimento de O Primeiro Irmão Raetommon no Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Use a Keystone para entrar no Oldwalls em Twin Rivers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10020</ID>
+      <DefaultText>Com a pedra-chave em mãos, volte para a entrada Oldwalls em Rios gêmeos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10022</ID>
+      <DefaultText>A Irmandade estão ocupados lutando contra Flagelos liberados do Oldwalls e precisam de ajuda para matá-los.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10023</ID>
+      <DefaultText>Ferris Pé chato provavelmente tem algo que ajudará a alcançar Raetommon mais profundamente dentro do Oldwalls. Procure seu corpo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Use a pedra-chave para inserir o Oldwalls e encontrar o Raetommon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Welby apontou para Deserter's March como o local onde você pode encontrar o Pedra angular necessário para inserir o Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Myrek não quis ouvir a razão e atacou, você terá que matá-lo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>As coisas ficaram hostis entre você e o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url], mate todos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você perseguiu Raetommon, que levou o [url=glossary:forge-bound]Forge-Bound[/url] Mestre, para o Oldwalls em Twin Rivers.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

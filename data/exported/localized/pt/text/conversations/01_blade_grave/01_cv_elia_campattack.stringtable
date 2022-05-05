@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\01_cv_elia_campattack</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Bom momento. Nosso vigia informou que os [url=glossary:disfavored]Desfavorecido[/url] estão indo para este acampamento." Ela olha para os cânions. "Nunca pensei que me veria lutando tanto para defender um sulco de lixo na [url=glossary:kyros]Kyros[/url]-ser-maldita sujeira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Qual é o status de suas defesas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Vamos nos preparar para a batalha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Nossas barricadas do norte e do sul são bem reforçadas. O portão leste foi destruído mais cedo em um ataque e ainda não terminamos de reconstruí-lo. Se o inimigo vai entrar, é provável que ele tente do leste."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>O capitão se vira quando um soldado grita do lado leste do forte. "Eles sãoe aqui. Defenda o portão leste - vou me preparar no portão principal para a próxima onda!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"É admirável que eles tenham conseguido construir tanto. O [url=glossary:blade grave]Sepultura de Lâminas[/url] oferece poucos recursos de valor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Eu estava esperando que você dissesse isso." Verse aperta suas armas e abre um sorriso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Fizemos um bom trabalho ao cravar nossas garras na área, mas não estamos equipados para enfrentar [url=glossary:disfavored]Desfavorecido[/url] ferro por muito tempo. Você pode nos ajudar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Eu estava esperando que você dissesse isso." Verse aperta suas armas e abre um sorriso.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

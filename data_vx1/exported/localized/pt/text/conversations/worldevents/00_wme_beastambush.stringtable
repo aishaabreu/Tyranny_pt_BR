@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\worldevents\00_wme_beastambush</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Você está percorrendo as estradas poeirentas do Camadas, uma brisa leve esfriando o suor acumulado em sua testa, quando você percebe que a sinfonia geralmente constante de insetos e pássaros não mais tamborila contra sua audição. Tudo ficou quieto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Kills-in-Shadow fareja o ar, seu pêlo escuro eriçado em seus ombros largos.
+
+"Cheira a crias de pedra no vento. Disfarça o cheiro com lama e esterco, mas Caçador da sombra conhece o filhote de pedra da terra molhada."
+
+Ela fica de quatro e solta um rosnado baixo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Uma forma massiva e peluda salta para a estrada à sua frente, ladeada por criaturas menores de forma semelhante. Um olhar para trás revela mais do mesmo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>A criatura diante de você se endireita em toda a sua altura, bate no peito e solta um rugido de chocalhar os ossos que envia um arrepio frio através de alguma parte primitiva de sua mente. O Homem-Besta ao lado dela dá um passo em sua direção, garras arranhando o chão, lábios curvados para trás sobre dentes em forma de gancho. Um pequeno Mulher-Besta, sua pele uma tela torcida para escarificação bagunçada, bate as palmas das mãos ritmicamente no chão. 
+
+Atrás de você, as outras Feras se espalham, cortando seu caminho de retirada...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Tente negociar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Ataque as feras.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Você desenha os braços enquanto o alfa da matilha cai em suas patas dianteiras, a musculatura musculosa de seus braços se enrijecendo enquanto ela se prepara para atacar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Você dá um passo à frente sem sacar uma arma, mãos levantadas, e chama o Bestas para prestar atenção em suas palavras... o que quer que tenha causado isso, talvez você possa corrigi-lo...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Fuja da área.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Você escapa ileso e continua sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

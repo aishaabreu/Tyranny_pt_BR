@@ -1,0 +1,413 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\0103_cv_straydus_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>77</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>O governante de Stalwart olha para você com uma mistura de cautela e espanto. Seu olhar permanece no Insígnia Firme. "Que explica como você conseguiu perfurar os ventos... mas por que você veio? Não para libertar um inimigo, eu acho." Ele aperta os olhos. "O longo isolamento cobrou seu preço, mas não somos surdos às notícias do mundo exterior. Acho que reconheço um Vinculador do Destino quando vejo um, então a lógica segue que você é o guardião de [url=glossary:vendrien's well]Poço de Vendrien[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Nós sobrevivemos na prisão Soberano por mais de um ano. Eu vivo, e assim a linhagem Regente perdura. Mesmo o [url=glossary:disfavored]Desfavorecido[/url] não conseguiu romper o [url=glossary:kyros]Kyros#[/url]' quando o [url=glossary:edict]Edital[/url] caiu sobre nossas cabeças... embora eu tenha menos certeza como você conseguiu." 
+
+Ele te encara com uma pitada de resignação. "Você não viajou tão longe para entregar termos de rendição, não é?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Esta tempestade está destruindo seu povo. Certamente você deve ver a loucura em prolongar o inevitável?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Estou aqui para restaurar a sanidade de volta ao povo de Robusto, para dar regra ao [url=glossary:unbroken]ininterrupto[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Estou aqui para libertar Robusto de todos os tiranos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Eu não ignoro minha parte nesta equação. O [url=glossary:edict]Edital[/url] só pode ser encerrado com o [url=lore:edict_storms_resolution]sangue do último Regente,[/url] assim como [url=glossary:kyros]Kyros[/url] decretado." Ele acena com a cabeça. "Devo avisá-lo - eu não sobrevivi tanto tempo apenas para ser cortado por [url=glossary:kyros]Kyros[/url]' cão de colo. Eu suportei a guerra, a [url=glossary:disfavored]Desfavorecido[/url] marcha suicida e o longo isolamento desta tempestade. Não vou facilitar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Sua sobrancelha sobe. "Estou impressionado que os [url=glossary:unbroken]ininterrupto[/url] tenham aguentado tanto tempo sem minha liderança. Assim que eu estiver livre da fortaleza, ficarei muito feliz em colocá-los de volta em ordem."
+
+"Stalwart pertence ao Regentes, o último dos quais está diante de você. Esta nação permanecerá sob meu domínio, mesmo como uma terra devastada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Grandes palavras de um dos [url=glossary:kyros]Kyros[/url]' lacaios decorados. Há apenas uma autoridade em Robusto, e ele está diante de você." Straydus se ergue com orgulho.
+
+"As pessoas de Robusto sempre seguiram o Regentes, e qualquer tentativa de fazer o contrário é alta traição."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Você poderia ter terminado isso [url=glossary:edict]Edital[/url] há muito tempo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Um verdadeiro líder teria lutado até o fim ao invés de se esconder aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Vou acabar com o [url=glossary:edict]Edital[/url] de uma forma ou de outra. Você vai me ajudar ou não?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Você quer dizer suicídio ou execução nas mãos de meus compatriotas?" Sua expressão murcha. 
+
+"Isso trairia a dignidade de minha posição e a honra de meus soldados. Ao ceder à vontade Soberano, perderíamos exatamente o que torna Robusto grande - nossa perseverança."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Sua dúvida é compreensível, mas por que eu deveria ter travado uma batalha perdida? Regentes de Stalwart sempre resistiram onde outros caíram. No Posto de Sentinela, eu poderia sobreviver a qualquer inimigo." 
+
+"E como eu poderia saber que [url=glossary:kyros]Kyros[/url] seria tão... exigente em punição?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Eu não vou, e você é um tolo em pensar que eu aceitaria uma proposta tão ultrajante, dado tudo o que ela representa. O próprio orgulho da minha estação depende de rejeitar sua solução impossível."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Estou aqui para acabar com o [url=glossary:edict]Edital[/url] de Tempestades... entregando sua cabeça para [url=glossary:graven ashe]Cinza esculpida[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Nenhuma tarefa pequena para um dos [url=glossary:kyros]Kyros[/url]' suínos de estimação. Você imagina que vai ser tão fácil quanto me passar? Acho que não."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>[Ataque] "Você atrasou sua morte o suficiente, Regente. Chega de se esconder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Brilhante. Descobriu isso sozinho? Você percebe que minha voz pode nunca se recuperar de toda essa poeira, certo? Que tal um pouco de simpatia por mim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Seu fardo não é nada para mim ou para o seu povo. Entregar seu país a isso é imperdoável." 
+
+"Quando [url=glossary:kyros]Kyros[/url] chamado Ashe para se submeter, ele escolheu a vida de seus soldados sobre seu orgulho. Você é um covarde, e verei se você morrer como um também."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Porque no passado, a contenção é o que o [url=glossary:kyros]Kyros[/url] era conhecido? Os Tiers estão em frangalhos e você pensou que escaparia da retribuição? Sua a ingenuidade é impressionante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Eu vim para levar Posto de Sentinela. Você vai se submeter ou morrer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Se você acha que isso é possível, então você não sabe nada sobre o Reino de Robusta. Este é o meu lugar de direito, e residirei aqui até o dia da minha morte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Embora as mortes iniciais causadas pelo [url=glossary:edict]Edital[/url] de Tempestades estejam finalmente nas mãos de [url=glossary:kyros]Kyros[/url]', a devastação contínua poderia ter sido, e agora pode ser impedido por Herodin, então agora o crime é dele." "Seu Senhor Supremo certamente funciona de maneiras divertidas - as tempestades são o ataque óbvio, o ataque mais sutil é como isso [url=glossary:edict]Edital[/url] traz à tona a covardia e o orgulho endêmicos de Robusto. Eu sempre me perguntei como o [url=glossary:unbroken]ininterrupto[/url] finalmente perderia sua sequência de vitórias."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"O que foi aquilo sobre uma [url=glossary:disfavored]Desfavorecido[/url] marcha suicida?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"No segundo ano da guerra, minhas forças pessoais capturaram uma das legiões de elite de [url=glossary:graven ashe]Cinza esculpida[/url]. Dividimos seus números para nossa própria proteção - alguns aqui, outros em Crepúsculo - com planos de barganhar com Ashe por suas vidas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Lembro-me muito bem daquele dia... se você tivesse se rendido, centenas de Nortenhos e Sulistas iguais teriam sido poupados!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Você está cego para a razão. Não há recurso a não ser acabar com sua vida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Você é o Norte emissário - sem vontade de resolver qualquer coisa por meio de um acordo, recorrendo a derramamento de sangue em pouco tempo." 
+
+"Pelo menos minhas expectativas foram calibradas corretamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Nossas definições de 'razão' vêm de lugares muito diferentes, Vinculador do Destino. Como o Overlord vassalo, você está acostumado a negociações unilaterais e ultimatos que impedem qualquer diálogo aberto." Ele assente. "Do seu ponto de vista, devo parecer irracional."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Típico que os atendentes de [url=glossary:kyros]Kyros[/url] não apresentem condições agradáveis. Você pode distorcer as histórias para refletir que eu forcei esse confronto, mas todos aqui vão lembrar que quando seu soberano me prendeu em uma escolha impossível, eu escolhi Robusto." 
+
+Herodin se vira e segue pela levadiça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Ele não tem ideia do que aconteceu com Robusto fora dessas paredes... Quase tenho pena dele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"A guerra chegou a um, digamos, impasse climático quando uma força [url=glossary:disfavored]Desfavorecido[/url] se acumulou em torno de Posto de Sentinela para nos expulsar e libertar nosso... nosso prisioneiro." Um pensativo expressão o domina, mas ele a dissipa com um aceno de cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"O resto, como você sabe, é história. Antes que o [url=glossary:disfavored]Desfavorecido[/url] pudesse terminar seu ataque desesperado, o [url=glossary:edict]Edital[/url] varreu meu povo e Ashe legião como se fossem feitos de palha, batendo ossos e ferro em tanto poeira que agora gira em torno de nossas cabeças."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Stalwart não se curva a ninguém, seu tatu de ferrugem e entropia!" Herodin faz uma careta para Barik e balança a cabeça. "Sua apenas a presença suja essas nobres defesas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Não tive prazer em ver tempestades devastando meu país, aqui da segurança dos olhos. Sofri o peso dessa decisão todos os dias, mas nunca a duvidaria."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Estou aqui pela filha de [url=glossary:graven ashe]Cinza esculpida[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>Seus olhos se estreitam. "Enquanto eu ao vivo, esta é a fortaleza mais segura de todas as Camadas. Amelia está em melhores mãos do que em qualquer outro lugar em Terrato."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Se você veio para libertá-la, garanto que o esforço foi desperdiçado. Ela não vai a lugar nenhum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Como seu prisioneiro? Depravado monstro, solte-a agora ou pereça pelas minhas mãos!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>[Mentira] "O Arconte da Guerra pode mostrar misericórdia se você a entregar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] se ofereceu para mantê-la segura em Cacofonia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Vamos ver isso, Regente. A escolha é sua."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Poupe-me de suas promessas vazias. [url=glossary:graven ashe]Cinza esculpida[/url] se preocupa mais com a conquista do que com a família. Ele poderia viver por mais séculos, e sem dúvida gerar uma centena de filhas." "Ele quer ver isso [url=glossary:edict]Edital[/url] chegar ao fim junto com minha linhagem, e arrisco que ele faria qualquer sacrifício para esse fim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Não consigo pensar em lugar mais perigoso em todos os Camadas do que a companhia daquele vilão gangrenoso. Mesmo se eu tivesse [url=glossary:graven ashe]Cinza esculpida[/url] sob minha custódia, eu não o entregaria ao Arconte dos Segredos por medo de [url=lore:voices_power]aumentar sua loucura."[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Eu vim para o céu claro, mas parece que fui mal informado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Eu estava esperando falar com você primeiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Estou disposto a tratar com você em termos pacíficos, mas não vou desistir desta fortaleza ou daqueles que residem aqui. Nem vou desperdiçar minha vida com a ambição de qualquer tolo de ver [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] resolvido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"É? Você veio para tomar minha fortaleza, meu povo e minha vida. Como soberano da minha nação, apenas defendo Robusto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] não deseja acabar com o [url=glossary:edict]Edital[/url]. Renda-se e viva."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Como se eu colocasse minha segurança, ou meu povo, nas mãos daquela criatura?" Herodin balança a cabeça. "Conheço o suficiente de suas atrocidades sem me submeter a elas. Ele sem dúvida me torturaria até um estupor irracional, um eco da vida para sua diversão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Nós duramos demais para promessas vazias nos influenciarem agora. Os melhores de Stalwart manterão esta fortaleza até que [url=glossary:kyros]Kyros[/url] se retire. O recrutamento para a multidão vestida de vermelho não é uma opção."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Céu limpo? Mas nós somos..." Herodin se detém e franze a testa para você. "Temo que seu humor seja desperdiçado conosco, Vinculador do Destino. Vimos muitas mortes desde que as forças de [url=glossary:kyros]Kyros[/url] marcharam para o sul, e esses ventos são um lembrete constante de tudo o que perdemos." "Não haverá céu claro sobre Robusto enquanto meu coração ainda bate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Herodin!" Barik bate o punho com força suficiente para sacudir a terra. "Saia e enfrente-nos, covarde! Vocêe se esquivou desse cálculo por tempo suficiente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>O Regente pisca. "Eu conhece você? Sua rosto - o pouco que posso fazer dele - me escapa." 
+
+Ele fareja e volta sua atenção para você. "Sua amigo aqui parece um pouco instável para o trabalho de emissário."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Você não está errado. Eu diria que ele é instável para qualquer tipo de trabalho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Desculpe contradizê-lo na frente dos outros, mas," Eb lança um olhar de relance para Herodin, "eles não são mais do povo dele, os [url=glossary:unbroken]ininterrupto[/url] fora deste manter amaldiçoar seu nome. Mas se esse velho pirralho tivesse alguma noção da realidade, ele já teria se matado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Você a devolverá para nós, demônio! Vivo e ileso, ou então me ajude as pessoas de Robusto nem reconhecerão seus restos mortais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Sentido? Ele está escondido atrás dessas paredes enquanto seu reino perece lentamente. Não tenho certeza se a sensibilidade ou a razão estão ao seu alcance... mas é sábio tentarmos conversar sobre as coisas, e não pular para o derramamento de sangue - não importa o quão inevitável possa parecer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"O Grande General não é muito para decoração, mas garanto que o resto da legião encontrará algum uso para isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"É importante definir as expectativas certas em momentos como esses. Você é um grande orador."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Você atacou o Arconte amor por suas tropas, monstro!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Quero dizer, essa é apenas uma opção. Você já pensou em algum dos outros?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Alguém mais gostaria de fazer um gesto vazio? Parece há muito o que fazer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Ele levanta a voz para que todos ouçam. "Como Regente do grande reino de Robusto, eu te expulso de qualquer cortesia ou convite que te prenda a estas paredes, e te bano de minhas terras!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Seja razoável, Herodin. Isso não precisa terminar em violência."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>[Ataque] "Suficiente conversa. Não vou negar ao Vozes seu prêmio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"Então será alistamento e interrogatório?" Straydus acena com a cabeça e suspira. "Eu suspeitava que o Arconte dos Segredos viria para mim eventualmente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"O que você ganhou com esse longo impasse, além do ódio de seu povo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Ele hesita em responder a princípio, então fecha o rosto em uma careta. "As pessoas não sabem o que é melhor para Robusto. Precisamos de um líder forte que entenda as tradições do reino - cujo sangue faz parte dessa herança histórica."
+
+"Se eles me irritam por preservar nossa força aqui e sobreviver à guerra... que assim seja. Não aceitei este manto para adoração."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"O que eu ganhei? Eu mantive Robusto vivo nesta prisão auto-imposta, não importa o que você possa pensar. O desespero para chegar a este lugar e acabar com minha vida só confirma a justiça dessa decisão, por mais difícil que tenha sido!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Eu vim em nome do [url=glossary:scarlet chorus]Coro Escarlate[/url] para entregar os termos da rendição."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Tenho certeza de que podemos chegar a um acordo mutuamente benéfico."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Nós duramos demais para promessas vazias nos influenciarem agora. Os melhores de Stalwart manterão esta fortaleza até que [url=glossary:kyros]Kyros[/url] se retire. O recrutamento para a multidão vestida de vermelho não é uma opção."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Você espera que eu acredite nisso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Eu imploro que você se renda e viva."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Se eu não me rendesse a [url=glossary:kyros]Kyros[/url] todo esse tempo, você acha que eu cederia a pessoas como você?" Ele cospe. "Sou o sangue do velho Robusto, a persistência que nos manteve de pé, a força que nos manteve juntos! Não me rendo a ninguém."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Você espera que eu acredite nisso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

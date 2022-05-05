@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\00_recruits\00_bs_traininggrounds_reactive_barks</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Enfrentar as tempestades do [url=glossary:blade grave]Sepultura de Lâminas[/url] é uma coisa, marchar em seu coração e levar Posto de Sentinela é outra. Estou impressionado, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"As tempestades de ferrugem pararam, não há mais desculpas para perder seus bonecos!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Tem sido um pouco difícil conseguir remessas de novas armas de sparring com o [url=glossary:edict]Edital[/url] abaixo de nós, mas vamos conseguir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Uma pena que os Maldito não estejam mais à espreita, eles eram uma boa prática de tiro ao alvo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Uma pena que o fechamento da terra parou, era uma boa prática para nossos Arqueiros se seus alvos ocasionalmente se movessem. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Não sei o que mais poderia ensinar a um guerreiro que superou o mais forte dos Homens-fera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"O Vinculador do Destino está aqui, todos parecem vivos!"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

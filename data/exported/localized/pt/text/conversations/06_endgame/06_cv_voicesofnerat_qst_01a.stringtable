@@ -1,0 +1,1852 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\06_endgame\06_cv_voicesofnerat_qst_01a</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>352</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ah, Vinculador do Destino. Nossos espiões relatam que você teve um bom desempenho no [url=glossary:blade grave]Sepultura de Lâminas[/url]. Amelia está segura em nossa guarda, e o [url=glossary:edict]Edital[/url] de Tempestades se enfurece em gloriosa perpetuidade - triturando Stalwart a um ponto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Um documento de grande poder - o Arquivo Silencioso - repousa no [url=glossary:burning library]Biblioteca em chamas[/url]. Dizem que o arquivo contém muitos segredos, e qualquer um deles podemos torcer a nosso favor." 
+
+"Um de nossos chefes de gangue, o Censurar, procura a entrada para esse tesouro real. Ajude-a na busca e envie-a de volta para nós com qualquer descoberta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"[url=glossary:burning library]Biblioteca em chamas[/url] ou [url=glossary:lethian's crossing]A travessia de Lethian[/url] - a escolha é sua. Precioso Vinculador do Destino, você não tem tempo para resolver todos os problemas do mundo. Você é a lança que lançamos nesta nação caída. Queremos que você tenha uma direção."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"O que você pode me dizer sobre o [url=glossary:burning library]Biblioteca em chamas[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"O que você pode me dizer sobre [url=glossary:lethian's crossing]A travessia de Lethian[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>[Deixar] "Vou para [url=glossary:lethian's crossing]A travessia de Lethian[/url] a seguir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"[url=glossary:tunon]Tunon[/url]Os ferreiros arcanos de [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Com minério simples dragado do coração de Terrato, eles podem montar artesanatos maravilhosos de ferro. Nosso intelecto está repleto de segredos - mas ignoramos o segredo de ferro." "Procure o [url=glossary:forge-bound]Forge-Bound[/url], e seus Mestre que até agora faz para [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Mande-a para Cacofonia. Garantirei sua proteção e salvaguardarei seu conhecimento. Uma artista como ela precisa ser protegida dos perigos da guerra." "De acordo com os sussurros de nossos espiões, um barba grisalha com o nome de Eldian pode lhe dizer mais. Não somos nada se não receptivos à sabedoria das eras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Você volta vitorioso, e nossa Censurar voltou ao redil com uma riqueza de inteligência - tanto quanto seu cérebro magro poderia aguentar sob as circunstâncias."
+
+"Mas não fique complacente. Temos muito trabalho a fazer antes que o Camadas esteja vestido com mantos escarlates." As chamas atrás de sua máscara lambem os buracos dos olhos com antecipação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"O [url=glossary:blade grave]Sepultura de Lâminas[/url] é um belo bolsão de desordem. Um [url=glossary:edict]Edital[/url] rasga a terra em tiras, e centenas de soldados são levados para a fornalha da guerra. Filhos raivosos de antigamente Robusto, apelidando-se de '[url=glossary:unbroken]ininterrupto[/url],' lançam lanças contra o [url=glossary:disfavored]Desfavorecido[/url]." "Podemos usar o [url=glossary:edict]Edital[/url] e o conflito em nosso benefício. Eles mantêm o [url=glossary:disfavored]Desfavorecido[/url] ocupado e o Camadas ao nosso alcance. Enquanto esses juggernauts idiotas arruínam uns aos outros, podemos extrair o que precisamos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Se tivéssemos os recursos, nós o dividiríamos em pedaços e o enviaríamos para representar nossos interesses onde quer que você vá. Como você só pode seguir um caminho de cada vez - por enquanto - deixamos a escolha para você." "O [url=glossary:blade grave]Sepultura de Lâminas[/url] ou [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Seja qual você escolher, volte para Cacofonia quando sua missão estiver completa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"O que você pode me dizer sobre o [url=glossary:blade grave]Sepultura de Lâminas[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"O que você pode me dizer sobre [url=glossary:lethian's crossing]A travessia de Lethian[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"[url=glossary:tunon]Tunon[/url]Os ferreiros arcanos de [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Com minério simples dragado do coração de Terrato, eles podem montar artesanatos maravilhosos de ferro. Nosso intelecto está repleto de segredos - mas ignoramos o segredo de ferro." "Procure o [url=glossary:forge-bound]Forge-Bound[/url], e seus Mestre que até agora faz para [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Mande-a para Cacofonia. Garantirei sua proteção e salvaguardarei seu conhecimento. Uma artista como ela precisa ser protegida dos perigos da guerra." "De acordo com os sussurros de nossos espiões, um barba grisalha com o nome de Eldian pode lhe dizer mais. Não somos nada se não receptivos à sabedoria das eras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Seu sucesso em [url=glossary:lethian's crossing]A travessia de Lethian[/url] foi um trabalho brilhante. A [url=glossary:forge-bound]Forge-Bound[/url] Mestre está em nossas mãos, e o segredo de seu ofício está ao nosso alcance. Em breve, nossas massas uivantes fugirão de seus bastões de bronze e pegarão o ferro implacável."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Nó em cascata 43</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"O [url=glossary:blade grave]Sepultura de Lâminas[/url] é um belo bolsão de desordem. Um [url=glossary:edict]Edital[/url] rasga a terra em tiras, e centenas de soldados são levados para a fornalha da guerra. Filhos raivosos de antigamente Robusto, apelidando-se de '[url=glossary:unbroken]ininterrupto[/url],' lançam lanças contra o [url=glossary:disfavored]Desfavorecido[/url]." "Podemos usar o [url=glossary:edict]Edital[/url] e o conflito em nosso benefício. Eles mantêm o [url=glossary:disfavored]Desfavorecido[/url] ocupado e o Camadas ao nosso alcance. Enquanto esses juggernauts idiotas arruínam uns aos outros, podemos extrair o que precisamos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Você assume muito sobre si mesmo - o peso da guerra. Não queremos sobrecarregar você, mas o [url=glossary:blade grave]Sepultura de Lâminas[/url] e o [url=glossary:burning library]Biblioteca em chamas[/url] são preocupações urgentes para nós." "Escolher, e volte para Cacofonia com a notícia do seu progresso! Se você nos incomodar com perguntas, pergunte agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"O que você pode me dizer sobre o [url=glossary:blade grave]Sepultura de Lâminas[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"O que você pode me dizer sobre o [url=glossary:burning library]Biblioteca em chamas[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Um documento de grande poder - o Arquivo Silencioso - repousa no [url=glossary:burning library]Biblioteca em chamas[/url]. Dizem que o arquivo contém muitos segredos, e qualquer um deles podemos torcer a nosso favor." 
+
+"Um de nossos chefes de gangue, o Censurar, procura a entrada para esse tesouro real. Ajude-a na busca e envie-a de volta para nós com qualquer descoberta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"E com aquele fanático Raetommon em nossas mãos, os fraternidade mercenários são entregues em uma bandeja de bronze."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"O velho - Eldian. Sua chegada nos pegou de surpresa, mas ele se mostrou mais sábio e capaz do que imaginávamos. Você faz bem em nos trazer diamantes brutos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Seu trabalho em [url=glossary:lethian's crossing]A travessia de Lethian[/url] nos fortaleceu - podemos sentir isso. Em breve, todos os cantos do Camadas estarão cobertos de vermelho." "Outro assunto chamou nossa atenção, o que acelerará o processo até o único fim inevitável."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Um repositório de livros envolto na chama de [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] - mas as páginas se recusam a queimar. Os Sábios lança magia protetora sobre seu antigo arquivo. Livros aos milhares expostos para a leitura, mas proibidos e quentes ao toque." "Aí está o maior tesouro de todos - o Arquivo Silencioso, um texto vivo e inteligente. O Arquivo está protegido nas profundezas mais baixas do Biblioteca, longe de olhos indignos. Nosso Censor - despachado para a biblioteca - procura o Arquivo enquanto falamos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Os [url=glossary:forge-bound]Forge-Bound[/url] são a verdadeira joia do Cruzando. Eles são os guardiões do segredo do ferro, então um bando de boca fechada por natureza."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Antes de nossa conquista, era a região de Robusto - guerreira e de caráter ferozmente independente. O Regente linhagem regida por suas tórridas e muitas vezes inatas linhagens de sucessão. Claro, o [url=glossary:edict]Edital[/url] de Tempestades colocou tudo isso em desordem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Os [url=glossary:forge-bound]Forge-Bound[/url] são a verdadeira joia do Cruzando. Eles são os guardiões do segredo do ferro, então um bando de boca fechada por natureza."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Antes de nossa conquista, era a região de Robusto - guerreira e de caráter ferozmente independente. O Regente linhagem regida por suas tórridas e muitas vezes inatas linhagens de sucessão. Claro, o [url=glossary:edict]Edital[/url] de Tempestades colocou tudo isso em desordem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Um repositório de livros envolto na chama de [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] - mas as páginas se recusam a queimar. Os Sábios lança magia protetora sobre seu antigo arquivo. Livros aos milhares expostos para a leitura, mas proibidos e quentes ao toque." "Aí está o maior tesouro de todos - o Arquivo Silencioso, um texto vivo e inteligente. O Arquivo está protegido nas profundezas mais baixas do Biblioteca, longe de olhos indignos. Nosso Censor - despachado para a biblioteca - procura o Arquivo enquanto falamos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Fale-me sobre o Arquivo Silencioso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"O que você sabe sobre isso [url=glossary:edict]Edital[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Quem é o seu Censurar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Deixe-me perguntar outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Fale-me sobre o [url=glossary:forge-bound]Forge-Bound[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Quem é o [url=glossary:forge-bound]Forge-Bound[/url] Mestre?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Qualquer coisa importante que eu deveria saber sobre [url=glossary:lethian's crossing]A travessia de Lethian[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Quem governa a área agora?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Fale-me sobre a filha de [url=glossary:graven ashe]Cinza esculpida[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Sobre o [url=glossary:edict]Edital[/url] de Tempestades..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Deixe-me perguntar outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Fale-me sobre o [url=glossary:forge-bound]Forge-Bound[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Quem é o [url=glossary:forge-bound]Forge-Bound[/url] Mestre?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Qualquer coisa importante que eu deveria saber sobre [url=glossary:lethian's crossing]A travessia de Lethian[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Quem governa a área agora?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Fale-me sobre a filha de [url=glossary:graven ashe]Cinza esculpida[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Sobre o [url=glossary:edict]Edital[/url] de Tempestades..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Deixe-me perguntar outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Fale-me sobre o Arquivo Silencioso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"O que você sabe sobre isso [url=glossary:edict]Edital[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Quem é o seu Censurar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Uma pergunta complexa sem resposta clara. A [url=glossary:unbroken]ininterrupto[/url] legião - um grupo de veteranos do Robusto exército - luta para manter o controle pela força das armas. Atrás dos muros de Posto de Sentinela, o último dos Regentes vive seus dias, sem dúvida se achando forte e relevante como sempre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Tão severa e intransigente quanto seu pai idiota. Nós a compararíamos a um escudo de torre com uma voz como um chifre de carneiro desafinado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Vampiros rodopiantes agora explodem a terra, e Posto de Sentinela - o coração fortificado do [url=glossary:blade grave]Sepultura de Lâminas[/url] - está preso e preso por [url=glossary:kyros]Kyros[/url] [url=glossary:edict]Edital[/url]. O covarde Regente que sobreviveu à guerra se esconde lá até hoje, protegido e aprisionado pela [url=glossary:kyros]Kyros[/url]' raiva."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Uma pergunta complexa sem resposta clara. A [url=glossary:unbroken]ininterrupto[/url] legião - um grupo de veteranos do Robusto exército - luta para manter o controle pela força das armas. Atrás dos muros de Posto de Sentinela, o último dos Regentes vive seus dias, sem dúvida se achando forte e relevante como sempre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Tão severa e intransigente quanto seu pai idiota. Nós a compararíamos a um escudo de torre com uma voz como um chifre de carneiro desafinado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Vampiros rodopiantes agora explodem a terra, e Posto de Sentinela - o coração fortificado do [url=glossary:blade grave]Sepultura de Lâminas[/url] - está preso e preso por [url=glossary:kyros]Kyros[/url] [url=glossary:edict]Edital[/url]. O covarde Regente que sobreviveu à guerra se esconde lá até hoje, protegido e aprisionado pela [url=glossary:kyros]Kyros[/url]' raiva."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Uma construção de magia e conhecimento. É um mero pergaminho ao toque, mas contém multidões infinitas - cada uma das Biblioteca palavras coletadas que recebem o solo para florescer e florescer." "Possuir o Arquivo Silencioso é carregar o [url=glossary:vellum citadel]Cidadela de Velino[/url] no bolso de trás."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Quando o soberano apelou para o Sábios se render e aceitar a paz, eles recusaram a oferta. [url=glossary:kyros]Kyros[/url] trouxe fogo e devastação ao [url=glossary:vellum citadel]Cidadela de Velino[/url] - queimando a biblioteca em seu núcleo e bloqueando seu conhecimento para sempre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Um chefe de gangue de grande prestígio. Ela assume a responsabilidade de ser nosso departamento de informações, sobrecarregada com assuntos de sigilo e conhecimento. Nós a enviamos para terras conquistadas, e ela retorna com os braços carregados de pergaminhos para nossa leitura."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Ferreiros de armas por profissão, embora nos perguntemos por que [url=glossary:kyros]Kyros[/url] não lhes dá mais... trabalho divertido. Temos poucas dúvidas de que eles poderiam forjar um impressionante rack de punição. Não se pode deixar de sentir que seu potencial é prejudicado pelas necessidades de uma guerra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Assim como nós, Zdenya é uma artista em primeiro lugar. Taciturno, teimosa, irritantemente talentosa - ela não se importa com o que o mestre encomenda seu trabalho, apenas que ela tenha a liberdade de criar."
+
+"Entendemos que ela carrega uma peça de grande importância para [url=glossary:lethian's crossing]A travessia de Lethian[/url] . De todas as contas, é um ofício de valor real."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Toda a vila inútil é pequena, mas camponeses imundos e refugiados apáticos - eles mal seriam escravos adequados, muito menos mentes dignas de... discurso. Apenas os [url=glossary:forge-bound]Forge-Bound[/url] são preocupantes - o resto, eminentemente dispensável."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Ferreiros de armas por profissão, embora nos perguntemos por que [url=glossary:kyros]Kyros[/url] não lhes dá mais... trabalho divertido. Temos poucas dúvidas de que eles poderiam forjar um impressionante rack de punição. Não se pode deixar de sentir que seu potencial é prejudicado pelas necessidades de uma guerra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Assim como nós, Zdenya é uma artista em primeiro lugar. Taciturno, teimosa, irritantemente talentosa - ela não se importa com o que o mestre encomenda seu trabalho, apenas que ela tenha a liberdade de criar."
+
+"Entendemos que ela carrega uma peça de grande importância para [url=glossary:lethian's crossing]A travessia de Lethian[/url] . De todas as contas, é um ofício de valor real."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Toda a vila inútil é pequena, mas camponeses imundos e refugiados apáticos - eles mal seriam escravos adequados, muito menos mentes dignas de... discurso. Apenas os [url=glossary:forge-bound]Forge-Bound[/url] são preocupantes - o resto, eminentemente dispensável."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Uma construção de magia e conhecimento. É um mero pergaminho ao toque, mas contém multidões infinitas - cada uma das Biblioteca palavras coletadas que recebem o solo para florescer e florescer." "Possuir o Arquivo Silencioso é carregar o [url=glossary:vellum citadel]Cidadela de Velino[/url] no bolso de trás."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Quando o soberano apelou para o Sábios se render e aceitar a paz, eles recusaram a oferta. [url=glossary:kyros]Kyros[/url] trouxe fogo e devastação ao [url=glossary:vellum citadel]Cidadela de Velino[/url] - queimando a biblioteca em seu núcleo e bloqueando seu conhecimento para sempre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Um chefe de gangue de grande prestígio. Ela assume a responsabilidade de ser nosso departamento de informações, sobrecarregada com assuntos de sigilo e conhecimento. Nós a enviamos para terras conquistadas, e ela retorna com os braços carregados de pergaminhos para nossa leitura."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Chega dessas perguntas! O que você está tentando soltar? Bah, agulha Sete-Toes com seus pequenos interrogativos!" [url=glossary:the voices of nerat]As vozes de Nerat[/url] [url=lore:voices_dismissed]segura seu punho com força, chamas verdes lambendo as amarras de suas luvas[/url] como um rosnado baixo escapa de seu rosto imóvel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Eu queria falar sobre Amélia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Eu queria perguntar sobre Mattias."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[Deixar] "Vou para o [url=glossary:burning library]Biblioteca em chamas[/url] a seguir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Você também entregou Mattias, o [url=glossary:unbroken]ininterrupto[/url] líder. Um prêmio afortunado para cair em nossas mãos. Ele já nos ensinou muito sobre seu povo, e nos ensinará ainda mais." 
+
+As vozes olha em um silêncio assustador.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Ainda não foi possível entregar Mattias, o [url=glossary:unbroken]ininterrupto[/url] líder. O revés é... desagradável, para dizer o mínimo. Não deixamos bem claro que o conhecimento é tão precioso quanto uma montanha de anéis de ouro?!" 
+
+Ele se inclina para falar, seu capacete balançando sobre um influxo de fogo verde.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Nó do banco 75</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Mas nossa guerra ainda não está completa. Há algo mais que ainda pode ser crítico."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Pergunte. Ela está sob nossa guarda, mais segura do que em qualquer outro lugar em Terrato. Sabemos que ela virou a esquina e finalmente aprendeu a apreciar nossas muitas excentricidades."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"O [url=glossary:unbroken]ininterrupto[/url] Capitão, sim. Apenas um indivíduo de surpreendente vontade e tenacidade poderia sobreviver aos rigores do [url=glossary:blade grave]Sepultura de Lâminas[/url] tanto tempo sem cair em nossas mãos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Então por que eu a vejo em um pico?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"O que aconteceu com o bebê dela?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Deixe-me perguntar outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Vejo que ele foi colocado em um pico."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Você já fez isso antes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Deixe-me perguntar outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Ah. Talvez tenhamos falado em breve." "Amelia é... era uma senhora muito voluntariosa. Precisávamos de informações sobre a [url=glossary:disfavored]Desfavorecido[/url], e ela não estava se sentindo cooperativa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"A criança está intacta e consciente de seu entorno, com todo luxo que ela poderia desejar." 
+
+"Ela come amas de leite com generosidade digna de uma rainha. Nós assumimos a responsabilidade de sua educação sobre nós mesmos e até ordenamos que nossos acólitos mais sãos lhe oferecessem diversão. A segurança dela é inquestionável."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Tenho a sensação de que não enviei Amélia aqui só para falar com você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Balderdash! Você se esforça tanto para pensar demais, quando a verdade do mundo é mais simples do que você jamais poderia saber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Sim. Depois de compartilharmos uma longa discussão sobre a política do velho Robusto, o tenaz capitão achou-se além de sua posição como convidado de Cacofonia. Seguiu-se um simples desacordo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Vinculador do Destino Ridículo. Se enchêssemos cada prisioneiro a contento do nosso coração, as fileiras do nosso poderoso exército estariam exaustas até o último homem antes da próxima lua cheia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>[Deixar] "Deixe-me pensar sobre isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Seus pensamentos não são da nossa conta... neste momento." 
+
+"Quando chegar a uma decisão, fale com Sete-Toes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Onde está o Censurar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Tenho dúvidas sobre o Censurar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>[Deixar] "Vou para o [url=glossary:blade grave]Sepultura de Lâminas[/url] a seguir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>[Deixar] "Vou para [url=glossary:lethian's crossing]A travessia de Lethian[/url] a seguir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Ela foi despachada para tratar de outros assuntos. Não permitimos que nossos recrutas se deliciem com o sucesso ou fiquem estagnados demais. Isso atrai moscas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Você assume o suficiente sem o fardo de se preocupar com nossos lacaios. É melhor fazer algum trabalho real nesta nação caída do que cavar cada vala comum ou vasculhar cada fogueira." 
+
+Suas chamas diminuem - seja por precaução ou advertência, você não pode dizer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Chega dessas perguntas! O que você está tentando soltar? Bah, agulha Sete-Toes com seus pequenos interrogativos!" [url=glossary:the voices of nerat]As vozes de Nerat[/url] [url=lore:voices_dismissed]segura seu punho com força, chamas verdes lambendo as amarras de suas luvas[/url] como um rosnado baixo escapa de seu rosto imóvel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Chega dessas perguntas! O que você está tentando soltar? Bah, agulha Sete-Toes com seus pequenos interrogativos!" [url=glossary:the voices of nerat]As vozes de Nerat[/url] [url=lore:voices_dismissed]segura seu punho com força, chamas verdes lambendo as amarras de suas luvas[/url] como um rosnado baixo escapa de seu rosto imóvel.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Eu queria perguntar sobre Mestre Zdenya."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Eu queria perguntar sobre Raetommon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Eu queria perguntar sobre Eldian."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>[Deixar] "Vou para o [url=glossary:blade grave]Sepultura de Lâminas[/url] a seguir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>[Deixar] "Vou para o [url=glossary:burning library]Biblioteca em chamas[/url] a seguir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Um talento sem igual! Seu ofício, sua experiência, seu profissionalismo - qualquer uma de suas qualidades régias poderia nos ganhar esta guerra. Com ela do nosso lado, somos imparáveis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"O capitão obsessivo, seus pensamentos confusos com os sonhos do Maldito... perturbado, mas não inexperiente nos caminhos da guerra. Já usamos seus talentos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Um homem extraordinário. Por todos os nossos muitos anos em Terrato, não podemos deixar de imaginar que a vida dele foi mais gratificante do que a nossa de alguma forma crucial." 
+
+"Todos nós devemos aprender com seu... exemplo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Então por que ela está em um pico?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"A [url=glossary:forge-bound]Forge-Bound[/url] mestre não teria sido mais útil se ela estivesse viva?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Deixe-me perguntar outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Como? Ele está pendurado em uma estaca."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Acho que ele era muito louco para recrutar, e é por isso que ele está morto?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Deixe-me perguntar outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>"Então você o colocou em um pico?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Ele não era uma ameaça para você. Parece estranho ele acabar em um pico."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Deixe-me perguntar outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Não podemos entender seu significado, Vinculador do Destino. De que espiga você fala? Por que nós alguma vez..."
+
+"Oh. Ah, você quer dizer aquele pico."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Ninguém pode dizer com essas coisas. Em vida, o Mestre da Forja criou itens de valor extraordinário. Na morte, seu conhecimento continua vivo, acumulando potencial como uma avalanche." 
+
+"Pode-se argumentar que ela serve o [url=glossary:scarlet chorus]Coro Escarlate[/url] melhor do túmulo... ou de sua vantagem atual, de qualquer maneira ."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Ele está? Um descuido da nossa parte. Questionamos longamente o capitão, e ele não ficou muito satisfeito em revelar os segredos de sua companhia mercenária."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Talvez! Sem fidelidade, mas para quem dispensar mais anéis, conquistar a lealdade de mercenários é um caso difícil e caro." "Os [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] também acreditam em esquisitices que não poderíamos entreter, e faça a tradição [url=glossary:scarlet chorus]Coro Escarlate[/url] parecer comum. Contivemos nossa loucura, aproveitamos. Outros... não."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Ele foi totalmente realizado. Ele passou seus anos silenciosamente resistindo enquanto o mundo mudava ao seu redor. Há uma pureza na idade e na experiência que não encontramos em nenhum outro lugar na face de Terrato."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Seus instintos lhe fazem bem. Poderíamos ter enviado este homem em seu caminho, e a grande trajetória de nossas vidas pode nunca ter se cruzado novamente."
+
+"Mas você não entende nosso projeto. Este não foi um ato de malícia, mas de arte e aprendizado. Seu público é feito de aliados e inimigos, destinados a transmitir a mais simples das verdades."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Como você pode ver, ela agora está muito mais flexível e disposta a se envolver conosco."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Isso é... horrível."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Seu talento artístico melhorou, Arconte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"eu... vejo. Voltando às minhas perguntas anteriores."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Estamos sempre à sua disposição."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"A definição de beleza de alguém é o teste final do subjetivo. Ao se livrar de suas armadilhas guerreiras e assumir o papel da arte, a contribuição de Amelia é mais pungente do que ela lutou em mil batalhas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Você vê horrores, mas nós vemos uma obra de poesia sublime."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Ah, finalmente um público agradecido!"
+
+O Arconte aplaude.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Você espera que eu acredite nisso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Sua hospitalidade é impressionante, Arconte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Não, não temos - mas se isso o ajudar a dormir melhor à noite, certamente o encorajaremos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Não esperamos nada menos. Cacofonia não é nada de não um lar. Um lar temporário, talvez, mas não podemos pensar em um lugar melhor para a prole crescer, aprender, se alimentar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Vamos, não nos encontramos na Cacofonia para mentir um para o outro. Amelia teve um final lamentável. O fato de termos conseguido extrair alguma inteligência valiosa da troca não muda o infortúnio de tudo isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>[url=lore:voices_power]"O que você quer dizer com 'troca'?"[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"A pobre garota. Muito bem, voltando às minhas perguntas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Não é nada que falaríamos em boa companhia. Melhor que você não se preocupe com os detalhes. Vamos lidar com questões de interrogatório do nosso jeito. Já há algum tempo somos proficientes nisso."
+
+Ele faz um gesto casual e desdenhoso, mas sua voz assume um tom mais sério.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Por todos os meios. Somos, como sempre, um livro aberto para você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Vá em frente, vá em frente! Por favor, pergunte o que você faria."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Nós nos encarregamos de interrogar o bom capitão e, com o tempo, concordamos mutuamente em nos separar. Nós escolhemos a vida, e você vê o capitão diante de você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Ele está claramente morto. Você chama isso de 'caminhos de despedida'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Essas coisas acontecem, suponho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Como [url=glossary:tunon]Tunon[/url]Vinculador do Destino, achamos que você é proficiente na arte da diplomacia. A confusão de palavras, intenções ocultas, significado sobre significado. Tudo é construído com sutileza."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Ficamos felizes que você tenha entendido. Às vezes descobrimos aliados nos lugares mais improváveis, e às vezes sua pele esfolada decora nossa tenda de guerra."
+
+"Permaneça aberto às possibilidades e você nunca ficará desapontado." 
+
+As chamas envolvendo seu pescoço se elevam, momentaneamente parecendo um par de asas triunfantes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"Neste caso, o capitão está morto. Se ele tivesse escolhido diferente, ele poderia estar vivo. Nós o deixamos aqui como um totem de causalidade para outros refletirem em suas viagens. Assim como você está agora." 
+
+As chamas verdes envolvendo sua máscara se acendem em um par de arcos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Não quero discutir mais isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Não se esqueça do nosso prêmio, Fatebinder - o Arquivo Silencioso. Vamos escravizar a própria sabedoria para a glória do [url=glossary:scarlet chorus]Coro Escarlate[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Procure Harchiand Bronze, um comerciante que atendeu o Refrão com entusiasmo. Nós o pagamos generosamente por seus serviços, então ele deve estar prestando atenção em sua missão." As vozes arqueia os dedos e acena para si mesmo, como se concordasse com algo não dito.
+
+"Com o [url=glossary:forge- vinculado]Forge-Bound[/url] Mestre e o segredo do ferro do nosso lado, [url=glossary:graven ashe]Cinza esculpida[/url] e seu exército cairá como uma falange de bonecas de pano."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"O bom capitão deu muito de si antes do fim. Seu sacrifício não foi em vão. Mesmo que não tenhamos seu call de rally, aprendemos o suficiente sobre o [url=glossary:unbroken]ininterrupto[/url] para trazê-los para o fold."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>[url=lore:voices_power]"Ele deu tanto que doeu para tirar sua mente?"[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Ele fará falta. De volta às minhas perguntas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Não há necessidade de ficar animado. O bom capitão estava apenas... receptivo às nossas técnicas de interrogatório."
+
+"Ensinamos nossos artesãos da dor a extrair informações, mas essa é apenas a função básica da tortura."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"De qualquer forma, vamos deixar de lado os assuntos mórbidos e focar em nosso futuro brilhante juntos!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Se soubéssemos que você era melindroso, talvez o tivéssemos exibido em outro lugar. Viva e aprenda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Um verdadeiro interrogatório é a entrega de si mesmo. As verdades são apenas o primeiro estágio. No final, o sujeito não deve se distinguir de seu torturador, e o mesmo acontece nos dois sentidos. A experiência compartilhada transcende prazer, dor ou pensamento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"O bom capitão aprendeu a dar de si mesmo, e nós o aceitamos com gratidão."
+
+"Tenha pena de sua forma apostada. Isso é apenas um recipiente vazio - não vale mais a pena sua preocupação do que uma bainha descartada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Continue. Estamos sempre curiosos sobre sua próxima linha de pesquisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Nó do banco 164</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"A filha de [url=glossary:graven ashe]Cinza esculpida[/url] foi prisioneira desses Robusto miseráveis. Garanta-a para nós e traga-a para Cacofonia imediatamente! Convidando Ashe progênie no rebanho é uma vantagem que não podemos ignorar." "Procure também Remédio irregular em Trapper's Junction. Ele encurralou uma unidade sitiada de [url=glossary:unbroken]ininterrupto[/url]. Ajude-o a recrutar seu líder - Mattias - para o rebanho, para que ele possa nos ajudar a alcançar a joia do reino - a grande fortaleza de Posto de Sentinela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Encontramos a garota apenas uma vez e quase brigamos. Se a guerra e a passagem dos anos abrandaram seu temperamento, então devemos nos dar muito bem quando você a apresentar em Cacofonia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Somente perfurando o tecido implacável daquela tempestade alguém poderia alcançar seu coração e [url=lore:edict_storms_resolution]cravar uma lâmina em seu núcleo."[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"Pergunte, mas tome cuidado para não testar nossa paciência."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Em primeiro lugar, são artistas dedicados ao ofício. Eles não lidam com fabricações baratas de ferro, mas com objetos únicos de obra-prima letal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>170</ID>
+      <DefaultText>"Encontramos a garota apenas uma vez e quase brigamos. Se a guerra e a passagem dos anos abrandaram seu temperamento, então devemos nos dar muito bem quando você a apresentar em Cacofonia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"Somente perfurando o tecido implacável daquela tempestade alguém poderia alcançar seu coração e [url=lore:edict_storms_resolution]cravar uma lâmina em seu núcleo."[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Pergunte, mas tome cuidado para não testar nossa paciência."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>173</ID>
+      <DefaultText>"Com sua ajuda, a Censurar conseguiu tudo o que poderíamos esperar dela. Seu desempenho foi exemplar, suas contribuições inesquecíveis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Ela é... empalado em uma estaca. Bem ali."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>"Nós vamos... bom para ela, então."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Às vezes, seu talento para o drama excede o de [url=glossary:graven ashe]Cinza esculpida[/url]. Ao realizar tudo o que sempre desejamos dela, a Censurar sobreviveu à sua utilidade. Concedemos a ela a mesma honra concedida a todos que se distinguem plenamente aos nossos olhos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>"É bastante raro ver um soldado viver sua primeira batalha - testemunhar um deles alcançar sua aposentadoria final coloca uma lágrima nesses velhos olhos."
+
+O fogo atrás de suas fendas nos olhos retoma sua queima constante com um frenesi alegre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Talvez um dia você receba um elogio semelhante. Continue a me servir bem e tudo será possível."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>"Viajar para Trapper's Junction, onde nosso confiável agente Jagged Remedy e sua gangue têm uma posição no [url=glossary:blade grave]Sepultura de Lâminas[/url]. Fale com ele e traga-nos o descendente de Ashe! E tome cuidado, querido Vinculador do Destino, para que os ventos não desfiem a pele do seu corpo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>"Procure Harchiand Bronze, um comerciante que atendeu o Refrão com entusiasmo. Nós o pagamos generosamente por seus serviços, então ele deve estar prestando atenção em sua missão." As vozes arqueia os dedos e acena para si mesmo, como se concordasse com algo não dito.
+
+"Com o [url=glossary:forge- vinculado]Forge-Bound[/url] Mestre e o segredo do ferro do nosso lado, [url=glossary:graven ashe]Cinza esculpida[/url] e seu exército cairá como uma falange de bonecas de pano."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"A filha de [url=glossary:graven ashe]Cinza esculpida[/url] foi prisioneira desses Robusto miseráveis. Garanta-a para nós e traga-a para Cacofonia imediatamente! Convidando Ashe progênie no rebanho é uma vantagem que não podemos ignorar." "Procure também Remédio irregular em Trapper's Junction. Ele encurralou uma unidade sitiada de [url=glossary:unbroken]ininterrupto[/url]. Ajude-o a recrutar seu líder - Mattias - para o rebanho, para que ele possa nos ajudar a alcançar a joia do reino - a grande fortaleza de Posto de Sentinela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>Nó em cascata 182</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Por mais triste que nos faça, mesmo um incêndio tão brilhante quanto o Mestre da Forja deve ser extinto a seu tempo. Seu maior trabalho ficou para trás, mas o nosso está por vir. Ela fará falta, a querida e promissora coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Conte-me como ela encontrou seu fim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Que ela descanse... em seu espigão. De volta às minhas perguntas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>"Contratamos o [url=glossary:forge-bound]Forge-Bound[/url] Mestre no discurso por algum tempo, aprendendo o que pudemos sobre o segredo do ferro nos termos mais amigáveis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Sempre a artista, ela cresceu retraída e taciturna. Fomos forçados a adotar medidas mais agressivas para [url=lore:voices_power]arrancar o conhecimento[/url] de sua matéria rodopiante. Para nosso maior deleite, ela se mostrou receptiva a se compartilhar conosco, expondo todos os seus segredos para escrutínio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Você a torturou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Boa sorte com isso. De volta às minhas perguntas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"Você tem um tom tão severo e crítico, Vinculador do Destino. Podemos ver por que você é o favorito de [url=glossary:tunon]Tunon[/url]." 
+
+"Preocupe-se com a campanha e suas atribuições. O que quer que aconteça atrás da aba da nossa tenda de guerra é assunto nosso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Achamos que seria melhor. Parece que você perdeu um pouco da cor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Devemos ter tempo para contemplar o segredo do ferro, mas tenha certeza - é nosso, e somos mais fortes por isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Pergunte, mas não nos mantenha longe de nossas contemplações por muito tempo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>"Como isso é possível?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Pungente. Voltando às minhas outras perguntas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Ela guardava bem seus segredos, aquele. Mesmo sob a proteção do [url=glossary:scarlet chorus]Coro Escarlate[/url], ela não entregaria o conhecimento do ferro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Nós só procuramos proteger o que ela sabia - não abusar ou vendê-lo pelo maior lance! Suas preocupações mesquinhas eram infundadas. Não havia como convencê-la da pureza de nossas intenções."
+
+"O segredo do ferro não estava seguro apenas em sua cabeça. Então nós o convidamos para o nosso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"E quanto a isso, não temos mais nada a dizer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Nós positivamente nos eriçamos com antecipação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"Pergunte. Considere-nos à sua disposição."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Quando parecia que havia pouco mais a perguntar, mergulhamos mais fundo em suas declarações, extraindo fatos da ficção e montando um quebra-cabeça de ideias"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"No final, não havia mais nada dele para questionarmos. Ele estava sedento de todas as respostas, todos os segredos, tudo sabendo. E então você o vê em exibição. Uma peça instigante, não é?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Por que eu o mandei aqui se ele ia ser torturado até a morte?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"Verdadeiramente fascinante. Voltando às minhas perguntas anteriores."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Sim sim, continue com suas perguntas incessantes!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>"Você faz 'torturado' soar como uma palavra tão hostil. É o suficiente para nos fazer adivinhar nossa arte maravilhosa."
+
+"Não cometa o erro de subestimar o que aconteceu aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Nós nos comunicamos com o capitão mercenário em um nível mais profundo do que qualquer troca que você já viu. Conhecemos o capitão tão bem quanto a nós mesmos. A barreira que o separa de nós é tão tênue quanto a distância entre duas ideias."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Não nos incomode mais com suas dúvidas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Eu saberia mais sobre esta peça em particular."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Ah, sua vontade de aprender nos traz de volta aos nossos primeiros dias no Norte. Sempre que exibimos uma nova exibição na praça da cidade - fruto de nossos estudos em dor experimental - os suspiros do público eram tão refrescantes quanto a água mais pura."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>"Nós nos comunicamos com o capitão mercenário em um nível mais profundo do que qualquer troca que você já viu. Conhecemos o capitão tão bem quanto a nós mesmos. A barreira que o separa de nós é tão tênue quanto a distância entre duas ideias."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>"E agora ele está pendurado em nossa galeria de pensamento, para sempre em exibição."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"No entanto, não queríamos desperdiçar o ativo à nossa disposição. Exploramos o capitão até o fim - pegando tudo o que podíamos usar e descartando o que não podíamos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Somos um anfitrião paciente, mas mesmo nós temos limites. Vá em frente, faça suas perguntas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Nós o exibimos como um monumento a tudo o que ele representava - conquista, experiência e simples satisfação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Você poderia tê-lo deixado viver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"O que você disser. Voltando às minhas outras perguntas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"E trair a própria arte? Não, empático. Não foi possível."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Sempre o crítico. O que você sabe?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"A guerra não teria sido gentil com ele. Em questão de segundos, as linhas de seu rosto teriam se tornado profundas e sem fundo penhascos de tristeza, a última alegria de sua vida se acumulando no fundo como um riacho de cânion. Nada de seu melhor eu teria permanecido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>"Nós o poupamos disso e lhe concedemos a vida eterna como uma obra de arte transcendente."
+
+"Através de seus gritos, acreditamos que ele até nos agradeceu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>"Qualquer um pode acabar em um pico."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Pergunte. Esperamos que possamos superar sua curiosidade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Viajar para Trapper's Junction, onde nosso confiável agente Jagged Remedy e sua gangue têm uma posição no [url=glossary:blade grave]Sepultura de Lâminas[/url]. Fale com ele e traga-nos o descendente de Ashe! E tome cuidado, querido Vinculador do Destino, para que os ventos não desfiem a pele do seu corpo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>"Não se esqueça do nosso prêmio, Fatebinder - o Arquivo Silencioso. Vamos escravizar a própria sabedoria para a glória do [url=glossary:scarlet chorus]Coro Escarlate[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>"Seja qual for o destino horrível que você condenou aquela criança a viver, Vinculador do Destino, espero que esteja disposto a viver com as consequências."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>"Você... você é muito avançado em seu questionamento. Mais descarado, mais temerário do que o jovem oficial que conhecemos durante a conquista."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Sim, Nerat...Ele lutou com você? Quanto esforço foi necessário para dominá-lo? Antes ele sucumbiu, você o deixou ver através de seus olhos? Ele tentou revidar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Gostaria de lembrá-los do que discutimos sobre de Nerat...desejos, Vinculador do Destino. Se o mal acontecer a essa criança, você compartilhará tanta culpa quanto Nerat."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Sentimos poder em você, Vinculador do Destino. Realização, grandeza, potencial... tanto potencial." "Quebrando o [url=glossary:edict]Edital[/url] de Tempestades era NOT sua diretiva, e ainda assim aqui estamos. Você nos traiu, mas não somos implacáveis. Apenas, diga-nos - quando você realizou a ação, isso mudou você, não é?" As vozes se inclina com interesse desconfortável.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>"O [url=glossary:edict]Edital[/url] de Incêndio está apagado, e as ruínas não ardem mais. No entanto, detectamos um incêndio mesmo assim, perverso Vinculador do Destino. Arde em seu coração, aquecendo-o com conhecimento e grande poder. Não o negue! Você mudou diante de nossos muitos olhos!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"O [url=glossary:edict]Edital[/url] de Tempestades ainda ecoa em minha mente. Algo está diferente, mas ainda não percebi."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Um fragmento das tempestades parece permanecer comigo. A onda de poder sempre foi um pouco como a quebra do [url=glossary:edict]Edital[/url] de Execução em [url=glossary:ascension hall]Salão da Ascensão[/url] novamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Algo respondeu às minhas atividades, isso está claro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>[Mentira] "Não tenho ideia do que você quer dizer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Certifique-se de não demorar muito, para que esta guerra não levante sua cabeça das profundezas escuras e o engula inteiro!"
+
+"Lembrar, apenas os fortes sobrevivem, pelo menos enquanto estivermos no comando ."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Tal sabedoria você transmite para nosso benefício. Observaremos seu progresso com grande interesse. Apenas tome cuidado para não chamar a atenção errada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>"O que quer que você esteja fazendo em seu próprio reconhecimento, persista contra toda apreensão! Sua o progresso nos encanta sem fim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>"Prevaricação não é o seu forte! Não tente esconder suas verdades de nós, você está desenvolvendo terror!"
+
+"Por ignorar suas ordens, gostaríamos que você mostrasse modéstia ou penitência - não essa exibição triste!" Ele suspira e balança a cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Mas vamos mudar o foco de você e voltar ao que é realmente importante: nós."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"O [url=glossary:edict]Edital[/url] de Incêndio ainda vive dentro de mim. Não consigo explicar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Sou mais experiente, talvez, mas não mais poderoso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"O que você acha que isso pode significar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>[Não diga nada.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Sentimos o cheiro do poder Soberano. Você prepara com promessa - um caldeirão, uma caldeira, um pote de mistura de maravilhas pronto para explodir!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Achamos que não! Você é muito humilde para o seu próprio bem e poderoso. Os níveis urdidura para se adequar ao design que você impõe a cada passo. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Respeitoso Vinculador do Destino! Tão poucos se atrevem a pedir nossa opinião que estamos muito fora de prática."
+
+"Acreditamos que você é uma semente de grandeza. Se você brotará no próximo Arconte ou em uma abóbora de formato estranho daqui, ninguém sabe, mas tenha certeza de que estaremos assistindo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Você esconde seus segredos atrás do silêncio, não é, minha fonte ilimitada de potencial? Nós lhe ensinamos bem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Mas chega disso! Exigimos progresso, e nada será feito se você insistir em nos atormentar com frivolidade!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Uma pena Ashe desova rebelde, mas o coração quer o que quer. Achamos que você nunca colocaria suas convicções à frente da conquista, não é?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>"Meu coração anseia apenas por guerra e caos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>"Quando a pessoa certa está envolvida, ou a causa certa, tudo é possível."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Um sentimento chocante de um membro da corte estóica de [url=glossary:tunon]Tunon[/url]! Mesmo assim, nós o saudamos."
+
+"Nossas emoções muitas vezes controlam a razão, mas é isso que nos separa dos rígidos e intransigentes nortistas que não conseguem entender a beleza da guerra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>"Não podemos decidir se o comparamos a uma Ashe ninhada ou a um talentoso Refrão chefe de gangue... talvez eles tenham mais em comum do que acreditamos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>"Viajar para Trapper's Junction, onde nosso confiável agente Jagged Remedy e sua gangue têm uma posição no [url=glossary:blade grave]Sepultura de Lâminas[/url]. Fale com ele e traga-nos o descendente de Ashe! E tome cuidado, querido Vinculador do Destino, para que os ventos não desfiem a pele do seu corpo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Vinculador do Destino, ofereço meu apoio nesta missão. O [url=glossary:blade grave]Sepultura de Lâminas[/url] é um lugar de... de memória. Deixei muitas coortes enterradas entre as ruínas, e uma parte pequena de mim também."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"Você poderia elaborar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"Prefiro manter temas de guerra entre nós. Você é livre para fazer tratados como achar melhor, mas estou menos inclinado a depositar minha confiança em... certos indivíduos." Ele olha para [url=glossary:the voices of nerat]o Vozes de Nerat[/url] com pavor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>"Perdi centenas de conterrâneos no último dia da campanha Robusto, e pelos meus problemas fiquei fundido nesta armadura. O [url=glossary:blade grave]Sepultura de Lâminas[/url] é o último lugar em que me senti... humano. Isso é tudo o que vou dizer agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>"Isso é tudo? Sua maneira mudou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>Barik fica mais ereto, e por um momento você não pode dizer se ele vai atacar ou se encolher. Você está preparado para qualquer coisa. Depois de uma longa pausa, seus ombros caíram um pouco.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Minha coorte marchou em Posto de Sentinela para completar uma missão... falhamos. As paredes da fortaleza nos desafiaram, e o último Regente de Stalwart se recusou a nos enfrentar na batalha. A chegada de [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] nos afastou do nosso objetivo. Por isso, o [url=glossary:blade grave]Sepultura de Lâminas[/url] também é um lugar de arrependimento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>268</ID>
+      <DefaultText>"Vou considerar sua oferta, mas não prometo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>269</ID>
+      <DefaultText>"Eu entendo que você tem suas prioridades e sua maneira de fazer as coisas. Eu apenas pensei..." Ele desvia o olhar, incapaz ou sem vontade de terminar o pensamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"Devemos encontrar um chefe de gangue em Junção do Trapper. Lembro-me bem da área para marcá-la em seu mapa, embora sem dúvida os anos a tenham mudado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Você investiu muito nesta missão. Claro que você pode me acompanhar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"Eu aprecio isso, Vinculador do Destino. [url=glossary:graven ashe]Cinza esculpida[/url] é atencioso e compreensivo com cada uma de suas tropas, e me agrada ver o exemplo dele em você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>273</ID>
+      <DefaultText>"Matando ela? Você ao menos ouve a si mesmo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>274</ID>
+      <DefaultText>"Vamos voltar às minhas perguntas anteriores, então."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"Nada nos encantaria mais, bom Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>[url=glossary:the voices of nerat]As vozes de Nerat[/url] diz respeito a você através de um longo abismo de silêncio. Sua atenção se volta para o corpo do Censurar, e então retorna para você com a mesma rapidez. Um som borbulha de sua chama verde que lembra vagamente um pigarro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>277</ID>
+      <DefaultText>"O [url=glossary:edict]Edital[/url] de Tempestade continua, e ainda assim Amélia nunca chegou a Cacofonia. Nossos espiões relataram que você... a despachou. Não importa. A progênie de Ashe está sob nossa guarda e estamos muito felizes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>Nó do banco 278</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>"Você esconde seus segredos atrás do silêncio, não é, minha fonte ilimitada de potencial? Nós lhe ensinamos bem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>283</ID>
+      <DefaultText>"Isso é algum tipo de piada? Qua sabe muito sobre [url=glossary:lethian's crossing]A travessia de Lethian[/url] se você tivesse nos deixado cuidar do assentamento. Agora olhe o que você fez... deu [url=glossary:graven ashe]Cinza esculpida[/url] corrida livre do lugar! Nós vamosdeixo você limpar essa bagunça que você mesmo criou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>284</ID>
+      <DefaultText>"Nós não queimamos o lugar nem nada - então não se preocupe, nós levamos a sério a administração que você nos concedeu. No entanto... os habitantes parecem preferir o antigo Governador ao tolo atual que temos no lugar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>285</ID>
+      <DefaultText>"Oh, não seja modesto, é uma grande honra ser [url=glossary:kyros]Kyros[/url]' Firestarter! Os Sábios tiveram MUITAS chances de se render, e um cerco contra sua magia de proteção teria custado tantas vidas a mais... na verdade, foi um ato de misericórdia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>286</ID>
+      <DefaultText>"Oh, não seja modesto, é uma grande honra ser [url=glossary:kyros]Kyros[/url]' Firestarter! Os Sábios tiveram MUITAS chances de se render, e um cerco contra sua magia de proteção teria custado tantas vidas a mais... na verdade, foi um ato de misericórdia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>287</ID>
+      <DefaultText>"Ah... sua pequena obra. Nós o invejamos, Conjurador da Tempestade - ter sido o canal para tanto poder... deve ter sido um prazer como nenhum outro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>288</ID>
+      <DefaultText>"Isso é algum tipo de piada? Qua sabe muito sobre [url=glossary:lethian's crossing]A travessia de Lethian[/url] se você tivesse nos deixado cuidar do assentamento. Agora olhe o que você fez... deu [url=glossary:graven ashe]Cinza esculpida[/url] corrida livre do lugar! Nós vamosdeixo você limpar essa bagunça que você mesmo criou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>289</ID>
+      <DefaultText>"Nós não queimamos o lugar nem nada - então não se preocupe, nós levamos a sério a administração que você nos concedeu. No entanto... os habitantes parecem preferir o antigo Governador ao tolo atual que temos no lugar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>290</ID>
+      <DefaultText>"Tendo proclamado o [url=glossary:edict]Edital[/url], colocá-lo para descansar me trouxe paz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>291</ID>
+      <DefaultText>"Ah, então isso era tudo sobre sua consciência? Parafuso os melhores planos de um mentor estratégico, temos culpa para livrar! Você nos decepciona."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>292</ID>
+      <DefaultText>"Sinto que poderia subsistir apenas com a frustração dele. Apenas pense, se ao menos aquela máscara pudesse derramar lágrimas!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>293</ID>
+      <DefaultText>"Eu proclamei o [url=glossary:edict]Edital[/url], parecia apropriado eu ser o único a acabar com isso. Certamente me sinto mais forte pela experiência."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>294</ID>
+      <DefaultText>"O char da magia Soberano delineia sua silhueta. Se você derreter espontaneamente em uma pilha de órgãos fumegantes, você só pode culpar a si mesmo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>295</ID>
+      <DefaultText>"Multar, vou perguntar a Seven-Toes se você é tão insistente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>296</ID>
+      <DefaultText>"Eu arrisco minha vida por você, o mínimo que você pode fazer é responder algumas perguntas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>297</ID>
+      <DefaultText>"Você vai sentar aqui e responder minhas perguntas até eu terminar com você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>298</ID>
+      <DefaultText>"Vai embora! Deixe-nos com nossas contemplações."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>299</ID>
+      <DefaultText>"Insuportável desgraçado, você não é pior que aquela larva, aquela larva-" [url=glossary:the voices of nerat]As vozes de Nerat[/url] agarra as máscaras de bronze que equivalem à sua cabeça, os sons de múltiplas vozes emanam de dentro como fumaça vaza das vestes Arconte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>300</ID>
+      <DefaultText>[Carregue-o enquanto ele está distraído.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>301</ID>
+      <DefaultText>[Permaneça em silencio.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>302</ID>
+      <DefaultText>"Seu tolo! Por que você está ajudando! Suae apenas dando ao Arconte exatamente o que ele quer!" [url=glossary:the voices of nerat]As vozes de Nerat[/url] agarra sua máscara, aparentemente lutando com seu peso, antes de girar de volta ao seu rosto normal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>303</ID>
+      <DefaultText>"Uh, às vezes é muito incômodo sermos nós. Agora vá embora, você não vai mais nos antagonizar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>304</ID>
+      <DefaultText>Sentindo o Arconte falta de controle, você corre para a frente, seu footwork impecável, sua arma pronta para atacar sem um momento de hesitação.
+
+Meio passo antes de você colidir com o Arconte, o mundo se torna uma brilhante parede verde esmeralda leve, e seu corpo cai frouxo - mandíbula, braço, intestino, perna, e você desmaia antes do Arconte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>305</ID>
+      <DefaultText>"Seu tolo, o que você está fazendo!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>306</ID>
+      <DefaultText>"Tanta raiva em você... bem, guarde para o [url=glossary:disfavored]Desfavorecido[/url]. Agora vá embora e não teste nossa paciência novamente." O aperto paralisante em seu corpo diminui e lentamente a dormência dá lugar à sensação comum. No momento em que seus membros recuperaram o uso, o Arconte parece já ter perdido o interesse em você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>307</ID>
+      <DefaultText>"Devemos agradecer a você, querido Vinculador do Destino, por entregar o Arquivo Silencioso em nosso," as chamas de seu corpo chiam pelas costuras de seus trapos, "segurança. Várias de nossas mães sempre nos disseram, mire baixo e evite decepções - pois isso sempre faz com que o inesperado vença um ataque devastador de êxtase."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>308</ID>
+      <DefaultText>"O Censor voltou para nós sem o Arquivo Silencioso. Supomos que [url=glossary:tunon]Tunon[/url] deve saber que você não está apenas na posse de conhecimento proibido, você tem os ensinamentos do Camadas com você - agora você é o especialista aqui, mas... isso parece suficiente para justificar a intenção de distribuir."
+
+"Estamos tentados a perguntar quanto vale nosso silêncio," o Arconte arremessa seu cetro no ar, pegando-o cuidadosamente ao retornar antes de bater o cetro em sua máscara , "mas seria difícil manter a cara séria."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>309</ID>
+      <DefaultText>"Então podemos presumir que você o destruiu... conforme [url=glossary:kyros]Kyros[/url]' proibição de conhecimento proibido...?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>310</ID>
+      <DefaultText>[Não diga nada.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>311</ID>
+      <DefaultText>"Então você é o Arconte dos Segredos, certo? Conte-me um segredo - qual é o valor dessa coisa? A taxa de um localizador modesto parece justa em princípio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>312</ID>
+      <DefaultText>"De nada. O que vem a seguir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>313</ID>
+      <DefaultText>"Vou precisar de provas de que você destruiu o Arquivo Silencioso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>314</ID>
+      <DefaultText>"Proof?" O Arconte segura a mão contra a testa em um desmaio fingido, embora a expressão fixa de sua máscara não consiga vender o gesto. "Onde está a a confiança? Somos aliados, espere que cuidemos de detalhes importantes assim como lhe damos tanta confiança. Pedimos que você nos mostre o sangue em suas mãos e responsabilize VOCÊ por todos os meus seguidores que entram em conflito com seu temperamento... não é?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>315</ID>
+      <DefaultText>"Vou considerar esse seu depoimento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>316</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>317</ID>
+      <DefaultText>"Você chegou a uma conclusão. Nunca disse que preciso de provas que eu possa segurar. Confiarei em você desde que veja algo que me convença."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>318</ID>
+      <DefaultText>"Pequena merdinha arrogante! Não pensamos em guardar um fragmento para amordaçar os medos de um aliado questionável que mais tarde poderia questionar."
+
+O Arconte balança o cetro para você, girando de um lado para o outro em desaprovação. "Acho somos ambiciosos ou implacáveis - ambos são críticas justas, mas não assuma que somos tão estúpidos a ponto de desafiar tão descaradamente o soberano. Apenas pense por um segundo seu idiota chorão, que necessidade NÓS teríamos de nos agarrar a uma coisa dessas? Lá não é nada que possa nos ensinar. Querido tolo, você está perseguindo nada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>319</ID>
+      <DefaultText>"Não há nada para mostrar a você - não pensamos em ordenar aos nossos agentes que trouxessem de volta os restos de uma bugiganga velha quebrada. Nós garantimos a você, querido Vinculador do Destino, que não desejamos nos apegar a conhecimento proibido e incriminador."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>320</ID>
+      <DefaultText>As chamas de seu corpo crepitam com um amarelo momentâneo "Ah, nós gostamos do jeito que você pensa."
+
+Com um movimento rápido de seu pulso, as mãos embrulhadas Arconte habilmente assinam um feitiço. Uma imagem do Arquivo Silencioso paira entre você e o Arconte, sua forma não é totalmente opaca nas bordas. Em um rugido crepitante de fogo, o Arquivo Silencioso queima por vários longos momentos com uma chama azul-esverdeada, se transformando em nada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>321</ID>
+      <DefaultText>"Oh Vinculador do Destino, nós gostamos quando você assume o controle e pechincha!" O Arconte segura o cetro e desliza a mão lentamente ao longo do comprimento. "Isso quase faz parecer que você conhece seu próprio valor!"
+
+"Não tem preço, então isso significaria que um salário justo é... infinito acima de cinco anéis - mais ou menos alguns bilhões?" Ele dá um tapinha sobre sua cintura, suas bolsas e cordas de anéis tilintando, "Até Harchiand Bronze não carrega essa magnitude de cobre. Você terá que aceitar uma troca em espécie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>322</ID>
+      <DefaultText>"Chegamos ao ponto de garantir que o Censurar fosse punido por até mesmo manusear a repugnante relíquia!"
+
+O Arconte intitula sua máscara de lado. "Estamos, honestamente, um pouco surpresos que você não tenha guardado para si... não teríamos dito nada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>323</ID>
+      <DefaultText>"Oh, que galo bobo estamos sendo! Nós vamos, você nos conhece - propenso a balbuciar!"
+
+Passando seu cetro de uma mão para a outra, o Arconte solta uma longa risada. "Sinto muito por ter sugerido a possibilidade de você violar as regras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>324</ID>
+      <DefaultText>"O que você acha de nós, a cerca local?" Ele acena com a mão para você com um aceno de desdém, as chamas de seus dedos deixando rastros de fumaça verde doentia pairando no ar. "Fique com isso! Não nos atreveríamos a ofender [url=glossary:kyros]Kyros[/url] segurando uma coisa dessas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>325</ID>
+      <DefaultText>[Mentira] "Proibido sabedoria? Arquivo silencioso? Não faço ideia do que você quer dizer com tudo isso. Pare de falar em enigmas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>326</ID>
+      <DefaultText>"Você não quer fazer uma oferta?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>327</ID>
+      <DefaultText>Nó do banco 327</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>328</ID>
+      <DefaultText>"Aí está - um gole do oceano, por assim dizer. Cuidado com esse conhecimento. Se o Conjurador da Tempestade morresse de eletrocussão autoinfligida, você seria uma piada para sempre."
+
+O Arconte aponta o dedo para você. "Agora não vá pedir outro sabor... a menos que você esteja se voluntariando para ser nosso Nono Olho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>329</ID>
+      <DefaultText>"Sempre feliz em acender os sonhos dos jovens. É justo que o Incendiário saiba tudo o que há para saber sobre as artes incendiárias."
+
+O Arconte aponta o dedo para você. "Agora não vá pedir outro sabor... a menos que você esteja se voluntariando para ser nosso Nono Olho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>330</ID>
+      <DefaultText>"Conhecimento por conhecimento - pondere um pouco sobre isso. É uma coisinha inspirada pela sua proclamação contra [url=glossary:cairn]Cairn[/url]." O Arconte aponta o dedo para você. "Agora não vá pedir outro sabor... a menos que você esteja se voluntariando para ser nosso Nono Olho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>331</ID>
+      <DefaultText>Os olhos da máscara Arconte ganham vida, e o tempo se torna um rastejo - seu batimento cardíaco se alongando em uma única nota de baixo sustentado.
+
+Imagens assaltam sua mente - horas de fala, imagens e emoções se agitam em sua mente na velocidade de um sonho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>332</ID>
+      <DefaultText>"E agora?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>333</ID>
+      <DefaultText>Nó de conversão de gatilho 333</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>334</ID>
+      <DefaultText>"O que você sabe dele?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>335</ID>
+      <DefaultText>Nó de script 335</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>336</ID>
+      <DefaultText>Nó de script 336</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>337</ID>
+      <DefaultText>Nó de script 337</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>338</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>339</ID>
+      <DefaultText>"Viajar para Trapper's Junction, onde nosso confiável agente Jagged Remedy e sua gangue têm uma posição no [url=glossary:blade grave]Sepultura de Lâminas[/url]. Fale com ele e traga-nos o descendente de Ashe! E tome cuidado, querido Vinculador do Destino, para que os ventos não desfiem a pele do seu corpo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>340</ID>
+      <DefaultText>"Vinculador do Destino, ofereço meu apoio nesta missão. O [url=glossary:blade grave]Sepultura de Lâminas[/url] é um lugar de... de memória. Deixei muitas coortes enterradas entre as ruínas, e uma parte pequena de mim também."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>341</ID>
+      <DefaultText>"Você poderia elaborar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>342</ID>
+      <DefaultText>"Prefiro manter temas de guerra entre nós. Você é livre para fazer tratados como achar melhor, mas estou menos inclinado a depositar minha confiança em... certos indivíduos." Ele olha para [url=glossary:the voices of nerat]o Vozes de Nerat[/url] com pavor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>343</ID>
+      <DefaultText>"Perdi centenas de conterrâneos no último dia da campanha Robusto, e pelos meus problemas fiquei fundido nesta armadura. O [url=glossary:blade grave]Sepultura de Lâminas[/url] é o último lugar em que me senti... humano. Isso é tudo o que vou dizer agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>344</ID>
+      <DefaultText>"Isso é tudo? Sua maneira mudou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>345</ID>
+      <DefaultText>Barik fica mais ereto, e por um momento você não pode dizer se ele vai atacar ou se encolher. Você está preparado para qualquer coisa. Depois de uma longa pausa, seus ombros caíram um pouco.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>346</ID>
+      <DefaultText>"Minha coorte marchou em Posto de Sentinela para completar uma missão... falhamos. As paredes da fortaleza nos desafiaram, e o último Regente de Stalwart se recusou a nos enfrentar na batalha. A chegada de [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] nos afastou do nosso objetivo. Por isso, o [url=glossary:blade grave]Sepultura de Lâminas[/url] também é um lugar de arrependimento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>347</ID>
+      <DefaultText>"Vou considerar sua oferta, mas não prometo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>348</ID>
+      <DefaultText>"Eu entendo que você tem suas prioridades e sua maneira de fazer as coisas. Eu apenas pensei..." Ele desvia o olhar, incapaz ou sem vontade de terminar o pensamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>349</ID>
+      <DefaultText>"Devemos encontrar um chefe de gangue em Junção do Trapper. Lembro-me bem da área para marcá-la em seu mapa, embora sem dúvida os anos a tenham mudado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>350</ID>
+      <DefaultText>"Você investiu muito nesta missão. Claro que você pode me acompanhar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>351</ID>
+      <DefaultText>"Eu aprecio isso, Vinculador do Destino. [url=glossary:graven ashe]Cinza esculpida[/url] é atencioso e compreensivo com cada uma de suas tropas, e me agrada ver o exemplo dele em você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>352</ID>
+      <DefaultText>"O cruzamento encontra-se na sombra de um antigo Pináculo. Sabemos pelo Ápice que você acha esses lugares... atraentes. Sinta-se à vontade para explorar este para o conteúdo do seu coração."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>353</ID>
+      <DefaultText>"Por que o Arquivo Silencioso é tão importante para você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>354</ID>
+      <DefaultText>A luz verde atrás de seus olhos brilha em diversão. "Você está tentando nos atrair para uma armadilha legal, Fatebinder? Você imagina que nenhum de nós é educado em [url=glossary:kyros]Kyros[/url]' leis intrometidas, muito menos como desenterrar a incriminação por simples curiosidade?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>355</ID>
+      <DefaultText>"Claro que queremos apenas o Arquivo Silencioso para mantê-lo fora das mãos de Ashe. Aquele velho azedo tem força arcana suficiente do seu lado sem adicionar um tesouro inesgotável de conhecimento ao seu arsenal! Fazer não se engane - ele faria qualquer coisa para ganhar vantagem sobre nós, inclusive quebrar as leis do nosso querido soberano."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>356</ID>
+      <DefaultText>"A própria implicação de que usaríamos tal recurso para promover nossos próprios fins é francamente chocante e insultante. Que vergonha, Vinculador do Destino." As chamas lambendo a nuca dele se erguem momentaneamente, formando um par de chifres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>357</ID>
+      <DefaultText>"Por que o Arquivo Silencioso é tão importante para você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>358</ID>
+      <DefaultText>A luz verde atrás de seus olhos brilha em diversão. "Você está tentando nos atrair para uma armadilha legal, Fatebinder? Você imagina que nenhum de nós é educado em [url=glossary:kyros]Kyros[/url]' leis intrometidas, muito menos como desenterrar a incriminação por simples curiosidade?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>359</ID>
+      <DefaultText>"Claro que queremos apenas o Arquivo Silencioso para mantê-lo fora das mãos de Ashe. Aquele velho azedo tem força arcana suficiente do seu lado sem adicionar um tesouro inesgotável de conhecimento ao seu arsenal! Fazer não se engane - ele faria qualquer coisa para ganhar vantagem sobre nós, inclusive quebrar as leis do nosso querido soberano."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>360</ID>
+      <DefaultText>"A própria implicação de que usaríamos tal recurso para promover nossos próprios fins é francamente chocante e insultante. Que vergonha, Vinculador do Destino." As chamas lambendo a nuca dele se erguem momentaneamente, formando um par de chifres.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>361</ID>
+      <DefaultText>"O cruzamento encontra-se na sombra de um antigo Pináculo. Sabemos pelo Ápice que você acha esses lugares... atraentes. Sinta-se à vontade para explorar este para o conteúdo do seu coração."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>363</ID>
+      <DefaultText>"Esse é o seu jeito de dizer que ela se recusou categoricamente a servi-lo na vida e zombou de você com suas últimas palavras?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>364</ID>
+      <DefaultText>"Ah sim. Houve injúrias duras, um martelo foi arremessado em minha direção... seu movimento desesperado era inebriante."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

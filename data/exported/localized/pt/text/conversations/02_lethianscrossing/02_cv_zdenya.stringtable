@@ -1,0 +1,673 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\02_cv_zdenya</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>127</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Zdenya se vira e se aproxima de você, seu corpo ágil se movendo com fluidez enquanto ela anda. Ela para diante de você, sua postura sólida e segura, mas você vê que ela está levemente de pé, pronta para se mover, se necessário. Ela nunca tira os olhos de você, mas você sabe que ela está bem ciente de seus arredores.
+
+"Vinculador do Destino, que o fogo de sua forja nunca esfrie." Ela o saúda. "Eu esperava que nossos caminhos se cruzassem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Mestre, o Vinculador do Destino está aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"O que esse servo da chama pode fazer por você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Por que você veio para [url=glossary:lethian's crossing]A travessia de Lethian[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Por que você criou um leme?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Como você se tornou Mestre do [url=glossary:forge-bound]Forge-Bound[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Que pergunta estranha, Vinculador do Destino. Quando você apareceu na forja, eu pensei que você tinha sido enviado para me checar. Como minha missão veio diretamente de [url=glossary:tunon]Tunon[/url], você já não deveria saber?"
+
+"Fui encarregado de criar um artefato para proteger o [url=glossary:forge-bound]Forge-Bound[/url] do Maldito. Nós nos atrasamos com muita frequência e perdemos muitos dos nossos, então foi decretado que algo deveria ser feito. Eu criei o Elmo Magebane para manter o Maldito afastado. Uma vez que o elmo esteja no lugar, sua magia manterá o Maldito trancado dentro do Oldwalls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Os [url=glossary:forge-bound]Forge-Bound[/url] são fabricantes de armas e armaduras, Vinculador do Destino, não estátuas e bugigangas. Eu faço o que eu sei. Ele também é portátil e pode ser movido facilmente ou usado em batalha caso sua proteção seja necessária em outro lugar no futuro."
+
+"Por enquanto, ele permanecerá aqui, protegendo o [url=glossary:forge-bound]Forge -Ligado[/url]. Temos um trabalho a fazer e não podemos fazê-lo corretamente se formos constantemente agredidos por forças externas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Fui treinado em uma idade jovem para ser um guerreiro, mas nunca senti nenhuma conexão com essa vida - exceto quando fui instruído a consertar meu equipamento. O fogo falou comigo, cantou quando eu o alimentei e me disse onde balançar meu martelo para alcançar a forma adequada."
+
+"Eu soube desde aquele primeiro momento que seria minha vida. Aprendi com o [url=glossary:forge-bound]Forge-Bound[/url] e foquei exclusivamente no meu ofício. Logo minhas habilidades eram superiores a todos os outros. Assumi riscos com magias que ninguém mais se atreveu a tocar e criei alguns dos artefatos mais poderosos que já vieram do [url=glossary:forge-bound]Forge-Bound[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] reconheceu minhas habilidades e me concedeu o título de Mestre do Forja. É por isso que [url=glossary:tunon]Tunon[/url] me pediu pessoalmente para criar um artefato para proteger [url=glossary:lethian's crossing]A travessia de Lethian[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Por que o [url=glossary:forge-bound]Forge-Bound[/url] fica aqui se o Maldito é uma ameaça?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Esta forja fica à sombra de Oldwalls em uma área rica em ferro. Temos ampla oferta de matéria-prima e influência de magias antigas. É um risco aceitável - e com o Leme no lugar, o Maldito não será mais um problema."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Deixar] "Vou me despedir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Como desejar, Vinculador do Destino. Eu estava a caminho de colocar o capacete. Se não se importar, gostaria que se juntasse a nós. Os colonos criaram um lugar no terceiro nível. Encontro você lá."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Isso é impressionante. Eu poderia usar os talentos do [url=glossary:forge-bound]Forge-Bound[/url] para fornecer um exército para derrubar [url=glossary:kyros]Kyros[/url]. Você consideraria se juntar a nós?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Falar de motim? De um Fatebinder? Eu teria pensado que alguém tão profundamente enraizado no emprego [url=glossary:kyros]Kyros[/url]' saberia melhor. E como nós dois trabalhamos atualmente para [url=glossary:kyros]Kyros[/url], não seria para nenhum de nossos benefícios falar dessas coisas. Tenho visto os frutos de tais esforços no caminho para os campos Arcontes'."
+
+"Também temo que o que você propõe não seja tão fácil quanto imagina. Um artefato de tal poder não pode ser simplesmente fabricado - leva tempo e esforço para fazer esses itens. Armas e armaduras simples podem ser produzidas facilmente, mas já as estamos fornecendo para a guerra. Sem considerar, proteger o [url=glossary:forge-bound]Forge-Bound[/url] é minha principal prioridade e agora isso significa obter Magebane definido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Preciso colocar o capacete antes de fazer qualquer outra coisa. Os colonos aqui criaram um ponto no terceiro nível para isso e é para lá que estou indo."
+
+"Por favor, junte-se a mim e conversaremos mais quando eu souber que Magebane está seguro e funcionando corretamente. Embora eu deteste perturbar [url=glossary:kyros]Kyros[/url] desnecessariamente e não estou convencido de que o desafio total seja a solução correta, você está certo em pensar que algo deve ser feito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Está feito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Alguns dos meus melhores trabalhos. O [url=glossary:forge-bound]Forge-Bound[/url] agora estará seguro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Ela esfrega o caroço na cabeça. "Diabólico bunda. Ele sabia que sozinho não era páreo para mim." Ela se curva para você. "Agradecer você. Você tem a gratidão do [url=glossary:forge-bound]Forge-Bound[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Por que trabalhar tanto para me encontrar simplesmente para me matar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Matar] "[url=glossary:lethian's crossing]A travessia de Lethian[/url] será melhor sem o [url=glossary:forge-bound]Forge-Bound[/url] estar sob o controle de ninguém."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Matar] "Não quero mais que Ashe controle o [url=glossary:forge-bound]Forge-Bound[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Matar] "[url=glossary:the voices of nerat]As vozes de Nerat[/url] não merece ter seu conhecimento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Matar] "Porque eu não confie no [url=glossary:vendrien guard]Guarda Vendrien[/url] com o poder de [url=glossary:forge-bound]Forge-Bound[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Você está certo - talvez eu tenha sido muito precipitado. Vou deixar você viver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Você pode me matar, mas o poder do [url=glossary:forge-bound]Forge-Bound[/url] não é tão fraco a ponto de desaparecer com a minha morte, Vinculador do Destino. Será preciso mais do que um simples assassinato para nos matar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Zdenya assente. "Como desejar, Vinculador do Destino. Você me ajudou, então eu vou te ajudar. Vou me encontrar com [url=glossary:graven ashe]Cinza esculpida[/url]. Será uma honra falar com ele diretamente depois de trabalhar para ele por tanto tempo. Já fornecemos armas e armaduras para seus homens - não consigo imaginar o que mais ele precisa de mim." Ela se curva e o saúda. "Você se mostrou um líder honrado e confiável. Que o fogo da sua forja nunca esfrie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Claro, Mestre Zdenya. Mas eu vim em nome de [url=glossary:graven ashe]Cinza esculpida[/url]. Ele quer conhecer você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Claro, Mestre Zdenya. Mas eu vim em nome de [url=glossary:the voices of nerat]o Vozes de Nerat[/url]. Eles querem conhecer você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Claro, Mestre Zdenya. Mas vim falar com você sobre se juntar ao meu exército. Devemos estar unidos contra [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>[Matar] "No entanto, sou páreo para você. Eu não podia deixar Raetommon se divertir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Zdenya olha para você incrédula. "Você deve estar brincando, Vinculador do Destino. [url=glossary:the voices of nerat]As vozes de Nerat[/url] quer me ver?" Seus olhos se estreitam. "Por que ele iria querer isso?"
+
+"Eu ouvi rumores de que aqueles com quem ele fala nunca mais são ouvidos. Você me perdoará se eu recusar seu pedido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Se alguém for capaz de acabar com esta guerra, acredito que seja você. Você mostrou habilidades de liderança magistral e seu exército tem sorte de tê-lo à frente. Eu me encontrarei com Arri, e você terá armas para seu exército como nenhuma outra."
+
+Ela se curva e o saúda. "Que o fogo da sua forja nunca esfrie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Obrigado por sua ajuda, Vinculador do Destino. Os [url=glossary:forge-bound]Forge-Bound[/url] estão em dívida com você. Mas por que um representante do Bastardos de Bronze está aqui? Ela é um dos malditos que cometeram a atrocidade em [url=glossary:lethian's crossing]A travessia de Lethian[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Ela fala a verdade, Zdenya. Welby não é como Raetommon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Welby está aqui porque eu pedi para ela estar. Isso não depende de você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Podemos ter sido membros do mesmo grupo, Zdenya, mas Raetomon e eu são pessoas completamente diferentes. Nem todos seguimos cegamente sem questionar enquanto nossos amigos e familiares morrem. Eu nunca quis isso e, se soubesse, teria parado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Se esta é a empresa que você mantém, Vinculador do Destino, não participarei dela. O [url=glossary:forge-bound]Forge-Bound[/url] não será associado a um grupo tão instável. Exigimos calma, silêncio ininterrupto e eu sei que não conseguiríamos isso deles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Você quer ficar aqui discutindo ou quer que eu desamarre você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"E ainda assim ela o seguiu, e isso fala muito sobre seus padrões. Se é assim que o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] se comporta, devo dizer que não estou impressionado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Se me libertar significa que eu tenho que me associar com ela e sua espécie, apenas me mate e acabe com isso. Só porque alguém não está mostrando sinais de podridão não significa que não esteja lá."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Então, felizmente, deixarei você aqui para apodrecer, seu ingrato. Nós temos o capacete, você pode ficar aqui com o Bane que eu não me importo! Também não precisávamos resgatá-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Vocês não vão trabalhar juntos? Devemos nos unir contra [url=glossary:kyros]Kyros[/url] ou isso é tudo em vão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Zdenya, eu teria o [url=glossary:forge-bound]Forge-Bound[/url] trabalhando conosco contra [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Absolutamente não. O [url=glossary:forge-bound]Forge-Bound[/url] funciona melhor sem interferência externa. O [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] não nos oferece nada. Se você tiver o [url=glossary:forge-bound]Forge-Bound[/url] servindo ao seu exército, será sem o fraternidade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Antes de agora, você poderia ter me convencido a trabalhar em conjunto, independentemente dos meus sentimentos sobre o [url=glossary:forge-bound]Forge-Bound[/url]. Eles são arrogantes e condescendentes, mas seu trabalho é incomparável. Mas agora? Não. Estou cansado de lidar com eles. Os [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] são uma equipe disciplinada e bem treinada. Nossas realizações falam por si. Não ajudaremos se isso significar que temos que suportar a presença deles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Welby, eu quero o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] do meu lado na próxima guerra com [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Você fez uma escolha sábia, Vinculador do Destino. Nossas armas e armaduras levarão seu exército à vitória."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"A Irmandade não irá decepcioná-lo, Vinculador do Destino. Coloque uma arma - qualquer arma - em nossas mãos e seremos vitoriosos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Tem certeza que é isso que você quer? Ao ficar do lado do [url=glossary:forge-bound]Forge-Bound[/url], o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] deixará [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Não seremos mais bem-vindos em nossa própria casa!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"É isso mesmo que você quer? Se você ficar do lado do [url=glossary:bronze brotherhood]Irmandade de Bronze[/url], o [url=glossary:forge-bound]Forge-Bound[/url] deixará [url=glossary:lethian's crossing]A travessia de Lethian[/url] e se mudará para algum lugar onde se sinta seguro e bem-vindo ."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Como pode o [url=glossary:forge-bound]Forge-Bound[/url] garantir a vitória sobre [url=glossary:kyros]Kyros[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Por que o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] é uma escolha melhor do que o [url=glossary:forge-bound]Forge-Bound[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"As armas e armaduras disponíveis para suas tropas não terão igual. Meu [url=glossary:forge-bound]Forge-Bound[/url] irá armar e proteger seus soldados para que eles nunca caiam em batalha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Não importa a arma colocada em nossas mãos, podemos usá-la para levá-lo à vitória. Como protetores de [url=glossary:lethian's crossing]A travessia de Lethian[/url], passamos nosso tempo treinando e refinando nossas habilidades. Liderar a Irmandade na batalha e você sairá vitorioso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Sim. Eu quero que o [url=glossary:forge-bound]Forge-Bound[/url] se junte a mim. Informe a Arri em [url=glossary:vendrien's well]Poço de Vendrien[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Sim. Eu quero que o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] se junte a mim. Informe a Arri em [url=glossary:vendrien's well]Poço de Vendrien[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Deixe-me pensar um pouco mais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Se alguém for capaz de acabar com esta guerra, acredito que seja você. Você mostrou habilidades de liderança magistral e seu exército tem sorte de tê-lo à frente. Eu me encontrarei com Arri, e você terá armas para seu exército como nenhuma outra."
+
+Ela se curva e o saúda. "Que o fogo da sua forja nunca esfrie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Você fez a escolha certa, Vinculador do Destino. Com a Irmandade atrás de você, não há como você perder. Vou falar com Arri imediatamente."
+
+Ela o saúda. "Nos encontraremos novamente como aliados na batalha, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>[Mate Zdenya e ataque Welby] "Na verdade eu acho que vou seguir meu próprio caminho. Nenhum de vocês vale meu tempo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Você avança antes que Zdenya seja capaz de dizer uma palavra, acabando com a vida dela com um único golpe. Welby saca sua arma.
+
+"Eu deveria saber que não deveria confiar em um dos [url=glossary:kyros]Kyros[/url]' cachorros. Isso acaba agora!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Eu o chamei de Elmo Magebane. Eu o forjei especificamente para protegê-la [url=glossary:forge-bound]Forge-Bound[/url] do Bane no Oldwalls. Com o elmo no lugar, sua magia os manterá presos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Eu vim buscar aquele capacete. Dê para mim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Você está louco? Eu fiz esse capacete para proteger [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Já coloquei acima da entrada do Oldwalls para evitar que o Maldito escape e não será removido para ninguém. Nem mesmo um Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Como quiser, Vinculador do Destino. Eu tenho outro lugar para estar de qualquer maneira. A empresa aqui é menos do que desejável."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"O que você trouxe para proteger [url=glossary:lethian's crossing]A travessia de Lethian[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Por que você foi solicitado a criar este item? Não poderia qualquer [url=glossary:forge-bound]Forge-Bound[/url] aqui faz isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Todos [url=glossary:forge-bound]Forge-Bound[/url] são mestres em seu ofício, mas cada um também tem seus talentos especiais. O Magebane exigia alguém cujas habilidades estivessem bem acima daqueles que não praticavam há tanto tempo quanto eu. [url=glossary:tunon]Tunon[/url] queria uma obra-prima, então pediu ao Mestre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>Nó de script 81</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>Nó de script 82</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Nossos objetivos são os mesmos. Fui enviado para garantir que o [url=glossary:forge-bound]Forge-Bound[/url] possa continuar fazendo armas para o [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Então você está com sorte. Uma vez que o capacete tenha sido colocado, as interrupções causadas pelo Maldito não existirão mais e o [url=glossary:forge-bound]Forge-Bound[/url] pode realmente retornar ao seu trabalho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Então reservarei meus agradecimentos até depois de ter sido realmente libertado. Embora eu soubesse que minha viagem para [url=glossary:lethian's crossing]A travessia de Lethian[/url] seria perigosa, eu não tinha ideia no que estava me metendo. Agora, se você fizer a gentileza de me liberar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Seu destino não me preocupa. Eu simplesmente precisava do Leme. Vá, antes que eu mude de ideia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Os olhos de Zdenya se arregalam e ela assente. "Como desejar, Vinculador do Destino. Espero que não nos cruzemos novamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Eu não pedi para você vir me buscar, pedi? Talvez tenha escapado à sua atenção que eu matei quase todos em seu grupo de ataque sozinho! Estou quase sem essas cordas. Então vá em frente e vá embora, porque eu não quero ajuda de você ou do seu grupo de malucos!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Vocês dois se chamam líderes? O que tipo de comportamento é esse?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Meu líder e um dos meus amigos mais próximos sangraram na minha frente. Então você vai me desculpar se eu não estou agindo tão maduro quanto você gostaria. Não tivemos nada além de problemas e reclamações com o [url=glossary:forge-bound]Forge-Bound[/url] e este é o lugar perfeito para nos separarmos. Estou cansado de lidar com a arrogância deles. Não aguento mais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Grandes palavras de um bandido comum que valoriza os anéis acima de tudo. Lohara me contou sobre seu comportamento e como você tratou meu [url=glossary:forge-bound]Forge-Bound[/url]. Mesmo que seu líder não tivesse enlouquecido e me atacado, eu não estaria inclinado a trabalhar com você de qualquer maneira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Se eu não puder ter o capacete, você me fará outro..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Eu te disse que você se arrependeria de colocar a mão em mim, cachorro inútil!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Você não é melhor, Vinculador do Destino." Ela diz seu título com escárnio. "Isso é não é à toa que os Tiers estão no estado em que estão se pessoas como você lideram. Você merece o que acontece com você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Zdenya assente e sorri. "Você apresenta um argumento muito persuasivo, Vinculador do Destino. Muito persuasivo... Assim seja. Eu me juntarei ao seu exército. Você me ajudou, então eu vou te ajudar. O que você faria com o [url=glossary:forge-bound]Forge-Bound[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Fale com a Arri em [url=glossary:ascension hall]Salão da Ascensão[/url] em Cidadela do Poço de Vendrien. Ela lhe dirá o que você precisa saber."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Permita-me esta oportunidade para agradecer sua ajuda ao Cruzando aqueles anos atrás. Despachando o Coro eliminar o que pudessem dos Flagelos foi uma ideia incrivelmente boa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Permita-me esta oportunidade para agradecer sua ajuda ao Cruzando aqueles anos atrás. Despachar o [url=glossary:disfavored]Desfavorecido[/url] para abater o que pudessem dos Flagelos foi uma ideia incrivelmente boa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>[Matar] "No entanto, sou páreo para você. Eu não podia deixar Raetommon se divertir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>[Matar] "[url=glossary:lethian's crossing]A travessia de Lethian[/url] será melhor sem o [url=glossary:forge-bound]Forge-Bound[/url] estar sob o controle de ninguém."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Embora eu aprecie sua ajuda, Vinculador do Destino, sou bem capaz de cuidar de mim mesma. Uma vez que eu me libertasse de minhas amarras, ele teria sentido a fúria de meus punhos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Acabei de salvar sua vida, Zdenya. Faça isso por mim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Você irá ver [url=glossary:the voices of nerat]o Vozes de Nerat[/url] ou eu terminarei o trabalho Raetommon iniciado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Zdenya assente. "Você está certo, Vinculador do Destino. Eu farei como você pede. Você me ajudou, então eu vou te ajudar. Vou me encontrar com [url=glossary:the voices of nerat]o Vozes de Nerat[/url]." Ela se curva e saúda você. "Que o fogo da sua forja nunca esfrie." Ela faz uma pausa antes de sair. "Espero ver você novamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>expressão de Zdenya muda de incredulidade para medo. "Não há necessidade de violência, Vinculador do Destino, já estamos fartos disso. Se você disser que devo me encontrar com [url=glossary:the voices of nerat]o Vozes de Nerat[/url], eu o farei." Ela se curva e o saúda. "Que o fogo da sua forja nunca esfrie." Ela faz uma pausa antes de sair. "Espero ver você novamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Ah, sim. Nunca chegamos a falar sobre seus planos para a guerra. Por que eu iria querer me juntar a você, Fatebinder? Os [url=glossary:forge-bound]Forge-Bound[/url] estão seguros em seus contratos com o [url=glossary:disfavored]Desfavorecido[/url]. Que benefício você forneceria que poderia superar a [url=glossary:kyros]Kyros[/url]' proteção?" Ela faz uma pausa. "Para não dizer que não estou intrigado. Como eu disse antes, algo precisa ser feito, mas não vou colocar o [url=glossary:forge-bound]Forge-Bound[/url] em perigo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Se você nos ajudar, não precisará mais fornecer o [url=glossary:disfavored]Desfavorecido[/url]. Assim que tirarmos [url=glossary:kyros]Kyros[/url] do Camadas, você estará livre para fazer qualquer contrato que desejar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Porque ficar com o [url=glossary:disfavored]Desfavorecido[/url] está condenando o [url=glossary:forge-bound]Forge-Bound[/url] a uma vida inteira de escravidão. Permanecer em [url=glossary:kyros]Kyros[/url]' emprego é uma batalha perdida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>[Matar] "[url=glossary:lethian's crossing]A travessia de Lethian[/url] será melhor sem o [url=glossary:forge-bound]Forge-Bound[/url] estar sob o controle de ninguém."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Tenho um pedido a fazer a você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Infelizmente, não tenho tempo para atender seu pedido agora, Vinculador do Destino. Eu estava a caminho de colocar o capacete. Preciso configurar o mais rápido possível. Os colonos criaram um lugar no terceiro nível - se você não se importa, junte-se a mim e Eldian e podemos falar lá."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>[Deixar] "Fui enviado para garantir que tudo estivesse bem com o [url=glossary:forge-bound]Forge-Bound[/url]. Tudo parece em ordem, aqui. Vou me despedir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"A palavra chegou aos meus ouvidos de sua mão ao remover o [url=glossary:edict]Edital[/url] de Tempestades de Guarda Sentinela." Ela acena para você em pequena saudação. "Isso não foi pouca coisa. Eu perguntaria como você fez isso, mas tenho certeza de que você tem coisas mais importantes para falar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"A palavra chegou aos meus ouvidos de sua mão ao remover o [url=glossary:edict]Edital[/url] de Pedra de Azure." Ela acena para você em uma pequena saudação. "Isso não foi pouca coisa. Eu perguntaria como você fez isso, mas tenho certeza de que você tem coisas mais importantes para falar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Enquanto eu estava viajando para [url=glossary:lethian's crossing]A travessia de Lethian[/url], vi uma das Agulhas no [url=glossary:stone sea]Mar de Pedra[/url] acender como se alguém tivesse acendido cem fogueiras." Ela inclina a cabeça, considerando você. "Me disseram que você era o responsável por isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Então esta é a pessoa que enfrentou o [url=glossary:edict]Edital[/url] de Tempestades e reivindicou o Guarda Sentinela." Ela inclina a cabeça, considerando você. "Você é a pessoa mais corajosa em Terrato, ou ainda não percebeu que a mortalidade é uma qualidade que todos os seres vivos compartilham..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Destemido..." diz ela, aproximando-se para olhar a lâmina. "Já ouvi histórias sobre essa espada." Ela dá de ombros.
+
+"Imaginei que seria mais impressionante pessoalmente. Mas se não for forjado pelos meus ferreiros, será de qualidade inferior."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Fascinante," Zdenya quase sussurra enquanto olha para o Escudo do Azure. "Eu teria pensado que o artesanato em um escudo tão conhecido seria de maior qualidade."
+
+"Acho que nem tudo pode estar dentro dos padrões que estabeleci para meus ferreiros."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Esse é o Arquivo Silencioso?" Zdenya se aproxima para olhar o pergaminho. "Impressionante... Eu nunca teria pensado que algum papel poderia possuir tanto poder."
+
+"Imaging como seria muito mais impressionante se o [url=glossary:forge-bound]Forge-Bound[/url] tivesse consegui..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Nos meus anos liderando o [url=glossary:forge-bound]Forge-Bound[/url], nunca ouvi falar de um Vinculador do Destino realizando algo tão significativo! É uma honra conhecer alguém de feitos tão distintos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>[Sarcástico] "Sim, porque não é possível para alguém fora do [url=glossary:forge-bound]Forge-Bound[/url] fazer algo de qualidade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Eu sei que provavelmente seria mais poderoso se tivesse sido criado pelo [url=glossary:forge-bound]Forge-Bound[/url], mas está me servindo bem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>Zdenya olha para você por alguns momentos. Finalmente ela suspira. "Nós vamos, isso foi estimulante..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>Zdenya sorri, mas há uma dureza em seus olhos enquanto ela fala. "Levacuidado, Vinculador do Destino. Se pequenas ofensas inflamam tanto o seu ego, os outros podem não acreditar que você está apto a liderar através de problemas verdadeiros." Ela levanta a mão como se quisesse evitar seu comentário. "Peço desculpas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Tenho a certeza que é da melhor qualidade possível dada a sua origem. Use-o com boa saúde e que nunca falte a você." Ela acena com a cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"E o que você faria se eu simplesmente pegasse?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>[Aproxime-se] "Pretendo conquistar o Camadas. Você preferiria que ele acumulasse ferrugem em Oldwalls ou fosse usado por alguém que um dia governará essas terras?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>Ela dá um aceno rápido para o outro [url=glossary:forge-bound]Forge-Bound[/url] antes de deixar a forja para trás.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>Zdenya dá um passo cauteloso para trás, examinando você de perto. "Você faz um argumento convincente, Vinculador do Destino. Eu teria dificuldade em argumentar contra o meu trabalho ser coroado por alguém tão capaz quanto você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>Zdenya faz uma pausa. "Estou bem ciente de sua reputação como uma força a ser reconhecida." Ela tenta disfarçar um sorriso com um roçar da mão na boca. "Minhas mãos estão atadas aqui, Vinculador do Destino. Tenho instruções explícitas para que o Magebane seja entregue com segurança ao Oldwalls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Você não preferiria alguém capaz de testar os frutos do seu trabalho em batalha?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>Ela contorce a boca em uma carranca. "Você acha que eu gosto que minha obra-prima se torne um monumento coberto de musgo? Deve ser usado para derrotar os Maldito, não simplesmente contê-los."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>[Mentira] "Eu apenas pretendo inspecioná-lo. [url=glossary:tunon]Tunon[/url] me enviou pessoalmente para garantir que seu trabalho tenha a qualidade que ele espera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"Faz [url=glossary:tunon]Tunon[/url] quer me insultar agora?" Ela cruza os braços enquanto estreita o olhar para você. "O Magebane vai fazer o seu trabalho, eu colocaria minha vida nisso. Mas se [url=glossary:tunon]Tunon[/url] tem pouca confiança em nosso trabalho, então convido você a ver por si mesmo no Oldwalls."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Eu faria com que sua cabeça fosse colocada entre meu martelo e uma bigorna. Não me empurre Vinculador do Destino, você pode se arrepender."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>Ela solta um suspiro em camadas. "Mas enquanto a ameaça do Maldito dentro do Oldwalls permanecer, temo que a segurança da forja seja primordial." Ela olha para sua companhia e se aproxima. "Se alguém conseguisse fazer tal tarefa, então eu ficaria feliz em ver o capacete ser melhor usado." 
+
+Ela sorri. "Contanto que o crédito seja dado ao ferreiro que o armou, é claro."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,457 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\01_cv_adjudication_broken_sword</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>89</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>O [url=glossary:disfavored]Desfavorecido[/url] soldado murmura para si mesmo e olha para o comprimento truncado de uma espada quebrada. "Enferrujado lixo. Nem valia a pena levar para a batalha. Melhor nas mãos de um fazendeiro lavrando seu campo..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Fatebinder! Eu poderia usar a ajuda da autoridade de [url=glossary:tunon]Tunon[/url]. O péssimo [url=glossary:forge-bound]Forge-Bound[/url] me ferrou com um pouco de ferro ruim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Ele olha para cima e encontra seu olhar, sua postura se endireitando. "Suae [url=glossary:tunon]Tunon[/url]'s Vinculador do Destino, não é? Isso é oportuno que você passou. Tenho uma disputa com o [url=glossary:forge-bound]Forge-Bound[/url] de [url=glossary:lethian's crossing]A travessia de Lethian[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Por que você não me conta sobre o problema?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Não tenho tempo para isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"No início da conquista, requisitei uma espada de ferro do [url=glossary:forge-bound]Forge-Bound[/url]. Desde que eles se estabeleceram em [url=glossary:lethian's crossing]A travessia de Lethian[/url], imaginei que não levaria a extensão de toda a [url=glossary:kyros]Kyros[/url]-ser-maldita guerra para ter a lâmina montada e pronta para a batalha. " "Eles provaram que eu estava errado. Os ferreiros acabaram de preencher meu pedido e fizeram um trabalho apressado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"A lâmina chegou ao acampamento na semana passada. Eu poderia dizer imediatamente que era lixo. Ele mal segurava uma borda, e balançou em sua bainha. Sentiu-se errado, completamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Continue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Eu estava disposto a dar uma chance ao pedaço glorificado de sucata, então eu o levei para a batalha. Depois de duas defesas, a lâmina estalou. Eu tive que enfrentar o inimigo e socar sua cabeça com meus punhos." Ele aperta os dedos, suas manoplas rangendo com a tensão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Eu compartilhei algumas palavras concisas com meu comandante, mas nada poderia ser feito sobre a situação. A [url=glossary:forge-bound]Forge-Bound[/url] responde a [url=glossary:tunon]Tunon[/url], não a [url=glossary:disfavored]Desfavorecido[/url]. É por isso que estou feliz por você estar aqui. Minha honra está manchada, e me resta um ferro de segunda mão que já foi mais ativo do que uma dúzia Escudos de Pedra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Posso ver a arma?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Você já treinou com esse tipo de espada antes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Você já falou com o [url=glossary:forge-bound]Forge-Bound[/url] sobre isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Estou pronto para julgar este assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Aqui está. Você pode ver claramente como um Pináculo que o ferro não é bom."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Ele pega uma espada cortada ao meio. A borda plana mostra evidências de propagação de ferrugem. A lâmina em si parece deslocada do punho, como se estivesse prestes a cair a qualquer momento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Nem pude ser visto com este pedaço de lixo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Eu carregava uma lâmina igual a Robusto. Isso foi feito de bronze, é claro. Tinha um peso diferente." Ele dá de ombros.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Você tirou um tempo de sua agenda lotada para considerar meu problema?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Conte-me sobre seu problema novamente. Comece do início."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Todo o caminho em [url=glossary:lethian's crossing]A travessia de Lethian[/url]? Não é como se meu comandante fosse me mandar de licença para dar um pedaço da minha mente a algum ferreiro suado. Como o relatório [url=glossary:forge-bound]Forge-Bound[/url] para [url=glossary:tunon]Tunon[/url], imaginei que você representaria os interesses deles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Legalmente falando, isso é válido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Eu não quero fazer parte disso. Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Que bom que não precisamos nos preocupar em carregar um ferreiro até aqui, então. Já lidei com Vinculadores do Destino antes, e sei que você é capaz de ir longe para ver que [url=glossary:kyros]Kyros[/url]' será feito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Já estava na hora de fazer minha justiça." Ele acena com a cabeça e acena para você continuar. "No seu lazer, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Diga que eu governo a seu favor. Quanto vale para você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Ele parece confuso e depois ri. "Você quer um suborno? Desculpe, mas eu não tenho exatamente pegado braçadas de anéis no que você chamaria de meu tempo livre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Sua atitude não é condizente com um [url=glossary:disfavored]Desfavorecido[/url] soldado. Eu domino o [url=glossary:forge-bound]Forge-Bound[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Se a espada for inferior, você deve receber uma nova. Eu governo a seu favor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Eu posso ver claramente que você maltratou aquela espada, ou simplesmente não sabe lutar. Eu governo para o [url=glossary:forge-bound]Forge-Bound[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Na realidade, deixe-me voltar às minhas perguntas anteriores."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"O quê? Minha atitude... mas isso não deve entrar no assunto. Que bobagem de lei é essa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Justiça seja feita. Obrigada. É bom saber que alguém na corte de [url=glossary:tunon]Tunon[/url] está ouvindo a base. [url=glossary:kyros]Kyros[/url] sabe que o resto de seus colegas são tão úteis quanto uma Tiersman's masculinidade pendurada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Vou escrever uma requisição para ser preenchida imediatamente." [Elabore a papelada.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Pensando bem, sua atitude precisa ser ajustada. Eu governo para o [url=glossary:forge-bound]Forge-Bound[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Supondo que o [url=glossary:forge-bound]Forge-Bound[/url] chegue a este lado do século, isso deve me fazer muito bem. Quanto menos eu tiver que lidar com aqueles ratos de forja que lançam martelos, melhor!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>[Requisitar uma nova espada.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>[Inclua um erro no formulário.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>[Requisitar uma braguilha de ferro.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Ele pega os papéis e os examina, radiante de orgulho. "Mal posso esperar para dar meu primeiro golpe no inimigo. Obrigado, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"É melhor não demorar tanto quanto o último, ou o [url=glossary:forge-bound]Forge-Bound[/url] não vai me achar tão amável! Bom dia, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Ele examina o papel antes de dobrá-lo. "Claro que não posso lê-lo, mas acredito que será um ofício de verdadeira magnificência. Obrigado, Vinculador do Destino. Não vou esquecer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Os [url=glossary:forge-bound]Forge-Bound[/url] são artistas. Mostre algum respeito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Você não está conseguindo o que deseja. Agora saia daqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Bah! Vou vê-los responsáveis por seu ofício de má qualidade. Se você não vai me ajudar, eu vou encontrar alguém que possa. Bom dia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Eu não deveria ter esperado menos do cão de [url=glossary:tunon]Tunon[/url]. Você é todo justiça e números, mas não conhece os desafios de um soldado. Bom dia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>[Bata nele.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>[Não diga nada.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Maltratados? Eu maltratei nada! A espada veio até mim desta forma."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Então sugiro que você mantenha melhor. A manutenção é o dever de um soldado, ou você esqueceu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Saia daqui antes que eu te bata com sua própria lâmina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Sua postura endurece, e ele olha em volta do forte. "Isso é verdade. Suponha que eu deva cuidar melhor do meu ferro no futuro. Ou meu bronze, já que é tudo o que devo receber. Bom dia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Ele te encara com perplexidade. "O que um joguinho doentio que você joga, Vinculador do Destino. O [url=glossary:disfavored]Desfavorecido[/url] não se esqueça, e eu também não."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Isso é uma piada? Multar, ligue então."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Preciso de tempo para avaliar o assunto. Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Obrigado por nada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Mal posso esperar pela minha nova espada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"É bom ver que um agente do tribunal de [url=glossary:tunon]Tunon[/url] tem suas prioridades em ordem."</DefaultText>
+      <FemaleText>"É bom ver que uma agente do tribunal de [url=glossary:tunon]Tunon[/url] tem suas prioridades em ordem."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>O soldado cambaleia e depois se vira para você. "De todos os desprezíveis..."
+
+Sentindo algo perigoso em seu olhar, ele pensa melhor e fica de pé, seu olhar vazio apontado para frente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"É melhor essa nova lâmina chegar rápido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"A espada vai ficar magnífica."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Conheço você de algum lugar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Sim - eu fiz parte da [url=lore:conq_fallregents]coorte que capturou um Regente em batalha."[/url] Ele sorri com orgulho. "Tivemos um padrão adequado por um tempo, até que ela apodreceu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"Provavelmente não, mas conheço bem o seu rosto. Minha coorte [url=lore:conq_fallregents]capturou um inimigo Regente,[/url] Tenho certeza que você se lembra disso." Ele balança a cabeça. "Terrível forma, passando [url=glossary:disfavored]Desfavorecido[/url] prisioneiros. Defina o precedente errado para toda a guerra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Por que não levar para o [url=glossary:forge-bound]Forge-Bound[/url], então?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Ele rosna entre os dentes. "Que deve ser óbvio. Esses ferreiros hipócritas estão sob os cuidados de [url=glossary:tunon]Tunon[/url], e somente o tribunal pode ordená-los! Uma falha da cadeia de comando, como eu chamo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Então me diga o que aconteceu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Ouso dizer que todos nós já estivemos lá, conterrâneo. Espada quebrada ou não."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Você deve saber tão bem quanto eu que as diferenças não podem ser exageradas. Há algo sobre este homem que eu acho... desagradável."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Eu não chamaria isso de seu desgaste padrão, mas também não é um problema de fabricação. É quase como se alguém tivesse testado a durabilidade dessa espada mil vezes contra um tronco de árvore."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Alguma ideia, Barik?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"O que você acha, Versículo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Ela olha para o comprimento da espada e morde o interior de sua bochecha. Com um lento aceno de cabeça, ela passa o dedo ao longo da fratura. 
+
+"O último que balançou esta lâmina estava bêbado ou estúpido. Parece que eles estavam tentando espantar moscas do traseiro de [url=glossary:cairn]Cairn[/url] e erraram."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Voltando às minhas perguntas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Vá em frente, então, Vinculador do Destino. Meu tempo é seu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"O que você estava tentando fazer - derrubar um Pináculo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Ele se endireita alto o suficiente para olhar para você. "Você deve saber que sou um dos espadachins mais talentosos do meu grupo. Não é minha culpa que algum ferreiro arrogante tenha colocado um pouco de ferro menos do que digno em minhas mãos experientes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"As vozes costumava dizer algo sobre um artista culpando suas ferramentas, mas não consigo me lembrar disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Ou contra uma estátua de cabeça grossa feita de ferro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Direita, ou um..." Barik se corta e vira para Versículo. "Isso foi às minhas custas, não foi?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Ah, olhe! Ele aprendeu alguma coisa!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Não vou dizer que não foi merecido. Certamente está no seu direito, mas é realmente o trabalho de seu oficial sênior distribuir a punição."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Bem aterrissado. Você pode considerar lixar as unhas para esse tipo de coisa, mas não vou falar sobre o seu negócio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Ha! Brincar com as expectativas dos idiotas é um dos meus passatempos favoritos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Você faz bem em lembrar as tradições [url=glossary:disfavored]Desfavorecido[/url] consagradas pelo tempo. Eu sei que Ashe aprecia a rígida aderência aos nossos caminhos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Se você seguir com essa ordem, certifique-se de que estou lá para vê-la. Promete?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Eu não conheço minhas letras o suficiente para apreciar plenamente o que você fez lá, mas por algum motivo isso me faz sorrir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Uma escolha humilhante." Barik acena com a cabeça e sussurra baixinho. "Mesmo que ele não pegue seu ferro antes do fim da guerra, isso pode servir para ensiná-lo uma ou duas coisas sobre paciência."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Eu chamaria isso de abaixo de você, mas não tenho certeza se reconheço suas profundezas ainda."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

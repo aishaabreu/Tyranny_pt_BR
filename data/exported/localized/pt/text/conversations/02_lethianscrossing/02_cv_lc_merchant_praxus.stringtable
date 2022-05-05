@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\02_cv_lc_merchant_praxus</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Bom dia, meu bom amigo! Posso lhe interessa em todos os tipos de provisões? Há não diga o que pode acontecer com você em suas viagens!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Mostre-me o que você tem à venda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Deixar] "Voltarei mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Eu sei que vamos encontrar algo que você precisa..." ele diz, apontando para as mercadorias empilhadas em seu estande.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Você voltará, tenho certeza. Você não encontrará um negócio melhor em todos os Camadas!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Você poderia me dizer alguma coisa sobre esse selo? Encontrei em [url=glossary:vendrien's well]Poço de Vendrien[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Eu não o reconheço, mas um dos outros comerciantes aqui pode. Entre todos nós, deve haver alguém que o tenha visto em suas viagens."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"O que você pode me dizer sobre Gino?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Praxus dá de ombros. "Não muito, desculpe. Eu não costumo lidar diretamente com ele. A maioria das pessoas diz que ele matou um colega pescador há algum tempo, então você pode ficar de olho nele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Ele olha para você por um momento e depois sorri. "Nós vamos, se não for o Fatebinder!" Ele se aproxima e abaixa um pouco a voz. "Tudo o que todos aqui parecem fazer é reclamar sobre o seu [url=glossary:edict]Edital[/url] tornar a vida deles mais difícil. Pessoalmente, eu gosto do desafio. Se eu conseguir fazer uma venda nisso, considero uma grande vitória! Agora, posso pegar alguma coisa para você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Fatebinder! Bem-vindo bem vindo! Eu não posso acreditar que você está aqui na minha loja! Depois o que você fez em [url=glossary:vendrien's well]Poço de Vendrien[/url], imaginei que você já estaria indo atrás de [url=glossary:kyros]Kyros[/url]' trono! Todos sabe que você tem o poder de fazer isso!" Ele se curva. "Posso pegar alguma coisa para você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Olá Fatebinder, eu tenho mercadorias para vender se você tiver uma mente para o comércio."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

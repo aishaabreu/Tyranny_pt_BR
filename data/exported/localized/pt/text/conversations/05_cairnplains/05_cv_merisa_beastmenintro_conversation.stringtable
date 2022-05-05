@@ -1,0 +1,268 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\05_cairnplains\05_cv_merisa_beastmenintro_conversation</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>50</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Sem piedade para assassinos! Morte ao Fera!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Coloque-o na corda! Pendure-o pela garganta peluda! Nós vamostenho nossa justiça!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"O que aconteceu? Por que toda a empolgação?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Saia sem se envolver na situação.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Um grupo de nossos meninos com alguma ajuda do Refrão pegou o Fera nos arredores da cidade. Eles o encontraram assim, todo emaranhado com sangue e sangue de caçar humanos! Apenas olhe para o focinho dele, ainda manchado pelo jantar miserável."
+
+A mulher estremece e leva um lenço sujo à boca. Ela enxuga o lábio superior, pálida e xingando o Arcontes.
+
+"Eu gostaria que ele tivesse engasgado com isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Nunca pensei que ficaria feliz em ter o Refrão por perto, mas pela primeira vez eles nos acertaram. Agora tudo o que resta é ver o bruto morto." Ela fareja e dá um breve aceno de cabeça. "Mas o coro estão arrastando os pés na execução. Se eles não nos vingarem, teremos que fazer isso nós mesmos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"E você tem certeza de que ele matou um humano? Alguém testemunhou ou encontrou provas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Bom. Mas a punição deve se adequar ao crime. Por que um enforcamento? Se ele comeu um humano, você deve esfolá-lo vivo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Aconteça o que acontecer não me preocupa. Tenho outros assuntos para tratar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Você gosta de Homens-fera ou algo assim, Fatebinder? Você prefere ficar do lado deles do que dos humanos? Que assassino foi encontrado com sangue por todo o rosto e patas do lado de fora dos portões! Quem mais você acha que ele comeu se não fosse um de nós?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Eu não tinha pensado dessa forma, Vinculador do Destino. Você tem razão. Uma morte rápida é boa demais para o que ele fez. Devemos fazê-lo sofrer e sofrer - fazê-lo sangrar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Aquele monstro matou e comeu um humano. E você se considera um administrador da justiça?! Bem, vá em frente, entregue a esse Fera uma morte bem merecida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Para que a justiça seja feita adequadamente, ele merece uma Fatebinder arbitragem ou um julgamento justo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Isso mesmo, Fatebinder? Por que você não vai perguntar a alguns dos outros por aí - veja quantos de nós estão interessados em seus pensamentos sobre justiça." 
+
+Ela olha carrancuda, mãos apertando o tecido de seu vestido enquanto acrescenta, " Ele não merece andar livre, e você sabe disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>[Mentira] "Deixe comigo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Vou pensar nisso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Há alguns que querem realizar um julgamento público primeiro. Eu não. Eu não preciso de entretenimento." 
+
+Ela olha para a cativa Homem-Besta, ódio torcendo seus lábios finos em um sorriso de escárnio. 
+
+"Eu só quero vê-lo punido pelo que ele fez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Se ele for considerado inocente, ele ficará livre. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Você não pode deixar isso acontecer, Fatebinder! Um homem inteligente como você sabe tão bem quanto eu, ele não é inocente! Você não vai fazer alguma coisa? Essa Besta precisa ser punido!"</DefaultText>
+      <FemaleText>"Você não pode deixar isso acontecer, Fatebinder! Uma mulher inteligente como você sabe tão bem quanto eu que ele não é inocente! Você não vai fazer alguma coisa?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Com a falta de provas físicas, vou ouvir o depoimento das pessoas e julgar o Homem-Besta de acordo com os costumes [url=glossary:kyros]Kyros[/url]'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Eu não vou me intrometer neste da Besta destino. O que quer que aconteça depende exclusivamente de você e das pessoas de [Plainsgate]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Enforque o sarnentoFera!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Minha tolerância para aqueles selvagens Bestas apenas diminui e diminui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Você parece estar levando isso para o lado pessoal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Ela vira os olhos duros e marrons para você. "E por que você não está? Não você se importa com sua própria espécie?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Você é fraco no Homens-fera ou algo assim, Fatebinder? É por isso que você tem um seguindo seus calcanhares? Você faria prefere ficar do lado deles do que de nós humanos, não é?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Aquele assassino foi encontrado com sangue por todo o rosto e patas - bem nos nossos portões! Quem mais você acha que ele comeu se não fosse um de nós?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Vou puni-lo por você. Pelo preço certo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Desavergonhado. Totalmente sem vergonha, atacando uma mulher magra como eu. Mas eu vou pagar o seu preço por causa da justiça. Eu não me importo se isso me custar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Por minha autoridade como Vinculador do Destino de [url=glossary:tunon]Tunon[/url], atuarei como juiz nesta situação. Tente interromper meu dever para com o Tribunal e você sofrerá as consequências."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>A mulher empalidece e dá um passo inconsciente para trás. "O-o que você vai fazer, Fatebinder? Você pretende achá-lo inocente?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>[Sorriso ameaçador.] "Sim. Eu encontrarei o Homem-Besta inocente e o libertarei. Tente me impedir, e será a sua própria morte que você deseja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Agora servirei como juiz, júri e executor no destino do acusado. O tribunal obrigado por sua doação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"O Homem-Besta julgamento será presidido por um Vinculador do Destino. Daqui em diante, ouvirei o depoimento do povo e julgarei o acusado de acordo com os costumes [url=glossary:kyros]Kyros[/url]'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Infeliz? Disseram-me que o homem tem um gosto um pouco de jogo, mas miserável parece uma hipérbole desnecessária. Não está tão longe de alces ou loris... pelo que me disseram. Na verdade, eu li que a tribo Kvatna chamou os humanos de 'slow loris' por causa de seu sabor... e facilidade de captura."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Gosto de carne suína."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Eu não posso acreditar que você libertou aquele monstro. Vinculador do Destino, nós dois sabemos que os Homens-Besta são uma praga em nossa cultura. Não podemos esperar restaurar nossa antiga glória enquanto eles nos consideram pouco mais que presas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Eles deveriam ser caçados até a extinção ou rastejando aos nossos pés, não deixados para buscar vingança sangrenta contra nós! Onde a justiça pode ser encontrada, se não na sua decisão?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Fiz o que achei certo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Gostaria de saber se [url=glossary:tunon]Tunon[/url] concordaria com você. Como você está em melhores condições com o Árbitro do que eu, suponho que isso seja o máximo que posso esperar da [url=glossary:kyros]Kyros[/url]' justiça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Entre contribuir para a queda de nossa cultura e se tornar hipócrita em sua defesa, você já fez bastante mal hoje. Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Perguntar-me é uma boa maneira de ser ridicularizado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Sem perguntas. Não há necessidade de piorar as coisas. No que me diz respeito, nosso negócio está feito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Vou encontrar outra maneira de atender aos interesses de [Plainsgate], mas não é isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Acho que é bom saber que o agente de [url=glossary:tunon]Tunon[/url] não nos abandonou completamente, então. Nestes tempos sombrios, parece que estamos cada vez mais dependentes das forças de [url=glossary:kyros]Kyros[/url] para nossa sobrevivência."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Despedida, Vinculador do Destino. Tente não nos esquecer enquanto você vai acertar a guerra. Você pode ter todos os recursos do Camadas à sua disposição, mas nós temos apenas esta pedra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"A justiça é reservada para quem aceita [url=glossary:kyros]Kyros[/url]' Paz. [Plainsgate] é apenas uma cidade ocupada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Uma distinção confortável a ser feita quando isso o beneficia. Se combinasse com a lei [url=glossary:kyros]Kyros[/url]', tenho certeza que você poderia encontrar uma maneira de nos colocar entre os vassalos de alguns Arconte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Ela suspira. "Como se eu estivesse em posição de questionar a lei [url=glossary:kyros]Kyros[/url]'. Vá, então. Nosso negócio está feito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Nunca pensei que ficaria feliz por ter o Refrão por perto, mas pela primeira vez eles nos acertaram. Agora tudo o que resta é ver o bruto morto." Ela fareja e dá um breve aceno de cabeça. "Curso, sem o Refrão, agora teremos que fazer isso sozinhos."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

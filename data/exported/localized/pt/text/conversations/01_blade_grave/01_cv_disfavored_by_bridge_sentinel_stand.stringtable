@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\01_cv_disfavored_by_bridge_sentinel_stand</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Obrigado por sua ajuda, Vinculador do Destino." O soldado o saúda.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"O que está acontecendo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Tenho que ir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Fomos isolados do nosso tenente, Rumalan." Ele se limpa um pouco. "Ela disse que estava tentando proteger a ponte antes que eles descobrissem como passar pelo windwall."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"É uma honra servir Ashe e o Guilda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Ele olha por cima do ombro e franze a testa. "O [url=glossary:unbroken]ininterrupto[/url] não vai parar até que eles tenham empurrado nossas tropas de Posto de Sentinela. Eles devem saber que estamos perto de quebrar a magia [url=glossary:kyros]Kyros[/url]'." Ele balança a cabeça e aperta a mandíbula. "De volta à briga, então. [url=glossary:graven ashe]Cinza esculpida[/url] protege!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Não há tempo para um bate-papo entre colegas, hein? Tenho certeza que você está muito ocupado para ouvir gente como eu, de qualquer maneira. Eu vou... você sabe, ir e morrer em batalha. [url=glossary:graven ashe]Cinza esculpida[/url] protege." Ele lhe oferece uma saudação pouco entusiasmada.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

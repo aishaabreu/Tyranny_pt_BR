@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\01_cv_hidden_scavengers</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>16</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Espere!" Os soldados, cansados pela falta de alimentação, lutam para sacar as armas e prestam atenção enquanto o aparente líder avança para se dirigir a você. "Eu não te reconheço... você está com o [url=glossary:unbroken]ininterrupto[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Mentira] "Sim, o caminho está livre de hostis. Você pode sair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"O caminho está livre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Vou explorar a área e informá-lo se [url=glossary:kyros]Kyros[/url]' patrulhas ainda estão à espreita."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Meus agradecimentos," o líder diz, "estamos ansiosos para nos reunir com o resto do nosso grupo."
+
+Os homens juntam seus equipamentos e partem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Ataque] "Não sei quem você é, mas vim para regar o solo ressecado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Isso não importa. Você está livre para ir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Sem uma palavra, os soldados saltam para atacar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Isso é um alívio," ele diz, baixando a guarda. "Pensamos que você estava aqui para nos matar. Nossa esperança é escapar do cânion, mas até que as forças [url=glossary:kyros]Kyros[/url]' saiam, estamos presos aqui. A área está livre de inimigos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Ataque] "Eu sou a tempestade que finalmente veio reivindicar você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Meus agradecimentos!" Ele dá um suspiro pesado. "Nós Ve estava ansioso para se reunir com o resto do grupo. Espero que você consiga sair de Desfiladeiros de Ferrugem, irmão."</DefaultText>
+      <FemaleText>"Meus agradecimentos!" Ele dá um suspiro pesado. "Nós Ve estava ansioso para se reunir com o resto do grupo. Espero que você consiga sair de Desfiladeiros de Ferrugem, irmã."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Mentira] "Sim, estou aqui para te ajudar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Não muito depois de os catadores saírem, você ouve os sons da batalha, seguidos por gritos abafados e depois silêncio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"O caminho está livre para minha tripulação escapar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Um capitão sábio não enfrenta uma flotilha inimiga - em vez disso, ela conduz seu inimigo para os recifes e poupa sua tripulação do risco." Eb ri baixinho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Sim, ajudamos Elia a defender o acampamento. Ainda há tempo para escapar."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

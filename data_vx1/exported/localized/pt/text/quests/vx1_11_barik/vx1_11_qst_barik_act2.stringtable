@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\vx1_11_barik\vx1_11_qst_barik_act2</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>31</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>O Peso da Égide</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Fale com Barik</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Petição [url=glossary:tunon]Tunon[/url] em Barik's nome</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Fale com Barik</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Conte com a ajuda de um [url=glossary:forge-bound]Forge-Bound[/url] não sujeito à lei [url=glossary:kyros]Kyros[/url]'</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Ter Barik examinado por um ferreiro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Viajar para os arredores do Posto Sentinela</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Localize uma amostra de ferro fundido e bronze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Retorne ao ferreiro com a amostra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Fale com Barik</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Barik quer saber se há uma maneira de ele ser libertado de sua prisão blindada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Barik deseja discutir algo com você. Fale com ele para descobrir o que está em sua mente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Barik solicitou que você solicitasse [url=glossary:tunon]Tunon[/url] o Árbitro para remover sua armadura. Fale com [url=glossary:tunon]Tunon[/url] em sua quadra no [url=glossary:bastard city]Cidade bastarda[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>[url=glossary:tunon]Tunon[/url] determinou que Barik permaneça em sua armadura e proibiu os cidadãos do domínio [url=glossary:kyros]Kyros[/url]' de ajudá-lo a removê-la. Talvez você deva discutir a situação Barik's com ele.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Sem a ajuda de um [url=glossary:forge-bound]Forge-Bound[/url], não há como ajudar Barik. Procure um ferreiro especializado que não se oponha a desobedecer a lei [url=glossary:kyros]Kyros[/url]'.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Você convenceu um ferreiro a estudar Barik na esperança de encontrar uma maneira de libertá-lo de sua armadura. Leve-o ao ferreiro para começar o exame.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Você precisa de uma amostra de ferro fundido e bronze do local de Barik's exposição ao [url=glossary:edict]Edital[/url] de Tempestades no [url=glossary:blade grave]Sepultura de Lâminas[/url]. Acompanhe Barik até os arredores do Posto de Sentinela para encontrar um.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Você chegou a Periferia do Posto de Sentinela. Localize uma amostra de ferro fundido e bronze do local de exposição Barik's ao [url=glossary:edict]Edital[/url] de Tempestades.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Com a amostra em mãos, retorne ao seu ferreiro para saber o que ela pode descobrir.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Você aprendeu que enquanto Barik permanecer sob Égide de Ashe, sua armadura continuará sendo parte dele. Fale com ele para discutir o dilema.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Você já ouviu falar de um mago ferreiro no [url=glossary:stone sea]Mar de Pedra[/url] que funciona fora da lei [url=glossary:kyros]Kyros[/url]'. Ela pode ser capaz de ajudá-lo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Com riqueza e influência, você pode contratar um ferreiro leal e fornecer a ele uma forja para trabalhar. Um Pináculo desperto pode ser o local perfeito para um ferreiro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>O [url=glossary:forge-bound]Forge-Bound[/url] smith Lohara em [url=glossary:lethian's crossing]A travessia de Lethian[/url] pode estar disposto a ajudar Barik com sua armadura.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Zdenya em [url=glossary:lethian's crossing]A travessia de Lethian[/url] pode fornecer os serviços de [url=glossary:kyros]Kyros[/url]' [url=glossary:forge-bound]Forge-Bound[/url] ferreiros... pode influenciar sua lealdade a você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Agora que você garantiu a lealdade dela, Zdenya pode estar disposta a fornecer os serviços de [url=glossary:kyros]Kyros[/url]' [url=glossary:forge-bound]Forge-Bound[/url]. Ela se mudou para [url=glossary:ascension hall]Salão da Ascensão[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você perdeu o apoio do Forgebound - e do ferreiro que você recrutou para ajudar o Barik.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Barik morreu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Barik deixou o partido.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Você se recusou a desobedecer a decisão de [url=glossary:tunon]Tunon[/url] sobre o assunto e concordou que Barik deveria permanecer em sua armadura indefinidamente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Seu leal mago ferreiro determinou que [url=glossary:graven ashe]Cinza esculpida[/url] é o Égide que mantém Barik fundido à sua armadura. Barik se recusa a abandonar o [url=glossary:disfavored]Desfavorecido[/url] ou trair o Arconte de Guerra. Até que uma maneira de separar Barik do Égide se apresente, ele permanecerá preso em sua prisão de metal.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>A oportunidade de resolver esta tarefa passou.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

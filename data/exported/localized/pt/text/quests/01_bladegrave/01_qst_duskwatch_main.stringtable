@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\01_bladegrave\01_qst_duskwatch_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Amassado, mas [url=glossary:unbroken]ininterrupto[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Reúna-se com Agathon em Duskwatch.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Encontre a patrulha [url=glossary:unbroken]ininterrupto[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Verifique em Callias.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Defenda o portão da frente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Investigar o Posto de Sentinela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Fale com o olheiro [url=glossary:unbroken]ininterrupto[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Fale com Capitão Agathon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Você escolheu buscar a ajuda do [url=glossary:unbroken]ininterrupto[/url], uma das melhores forças de combate do Camadas. Faça contato com os rebeldes e faça o que for necessário para ganhar sua confiança e lealdade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Janos ofereceu a você uma introdução a Capitão Agathon, comandante interino do forte Crepúsculo. Viaje até lá e fale com ele e defenda uma aliança.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Uma patrulha está atrasada novamente. Pesquisar Crepúsculo e descubra o que aconteceu com eles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Você descobriu que o [url=glossary:disfavored]Desfavorecido[/url] está lançando um ataque ao forte Crepúsculo para recuperar o Callias. Retorne ao forte para frustrar seus planos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10021</ID>
+      <DefaultText>Os [url=glossary:disfavored]Desfavorecido[/url] estão atacando o portão da frente diretamente. Defenda o Crepúsculo forte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10028</ID>
+      <DefaultText>Viaje para o local da última grande batalha de [url=glossary:unbroken]ininterrupto[/url] e veja se há uma maneira de entrar na fortaleza [url=glossary:unbroken]ininterrupto[/url] e falar com qualquer sobrevivente Regentes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10029</ID>
+      <DefaultText>Um olheiro [url=glossary:unbroken]ininterrupto[/url] observou sua luta com o Bane no Posto Sentinela. Ele pode saber algo útil sobre como inserir o Guarda.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10030</ID>
+      <DefaultText>Com a ameaça de outro ataque [url=glossary:disfavored]Desfavorecido[/url] diminuída, Capitão Agathon provavelmente pode ajudá-lo em sua missão de recrutar forças rebeldes. Fale com ele em Crepúsculo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>Você decidiu não cooperar com Agatão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20004</ID>
+      <DefaultText>Agathon requer assistência para garantir que Forte do Crepúsculo esteja seguro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20005</ID>
+      <DefaultText>Mate o [url=glossary:disfavored]Desfavorecido[/url] tentando se infiltrar no forte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você ajudou o [url=glossary:unbroken]ininterrupto[/url] a defender sua base em Crepúsculo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Com a sua ajuda, os [url=glossary:disfavored]Desfavorecido[/url] assumiram o Crepúsculo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Você matou todas as forças [url=glossary:unbroken]ininterrupto[/url] e [url=glossary:disfavored]Desfavorecido[/url] em Crepúsculo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Você decidiu abandonar a causa rebelde e tomar Crepúsculo para si mesmo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>A oportunidade de resolver esta tarefa passou.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

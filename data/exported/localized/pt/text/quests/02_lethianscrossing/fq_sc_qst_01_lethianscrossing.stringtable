@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\02_lethianscrossing\fq_sc_qst_01_lethianscrossing</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>32</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>A Sinfonia do Forja</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Vá para [url=glossary:lethian's crossing]A travessia de Lethian[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Fale com o Esmagador de Nível da Lança Carmesim.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Destrua a guarnição [url=glossary:bronze brotherhood]Irmandade de Bronze[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Destrua a guarnição [url=glossary:disfavored]Desfavorecido[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Fale com Eldian.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Fale com Harchiand Bronze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Visite a Forja.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Observe a colocação do Elmo Magebane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Entre nas Velhas Muralhas em [url=glossary:lethian's crossing]A travessia de Lethian[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Mate o Bane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Voltar para Zdenya.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Fale com Harchiand Bronze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Fale com Harchiand Bronze.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>[url=glossary:the voices of nerat]As vozes de Nerat[/url] pediu para você ir para [url=glossary:lethian's crossing]A travessia de Lethian[/url] e trazer de volta o líder do [url=glossary:forge-bound]Forge-Bound[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>O mestre [url=glossary:forge-bound]Forge-Bound[/url] está atualmente em [url=glossary:lethian's crossing]A travessia de Lethian[/url], o assentamento na base do Pináculo do Pôr do Sol.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Harchiand sugeriu que você informasse o líder da gangue [url=glossary:scarlet chorus]Coro Escarlate[/url] que você chegou em [url=glossary:lethian's crossing]A travessia de Lethian[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>O [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] tem controle sobre o [url=glossary:lethian's crossing]A travessia de Lethian[/url]. A guarnição deles não permitirá que você se mova pacificamente pelo assentamento, então você terá que matá-los.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Você deu o controle [url=glossary:disfavored]Desfavorecido[/url] sobre [url=glossary:lethian's crossing]A travessia de Lethian[/url] durante [url=glossary:kyros]Kyros[/url]' Conquista, mas eles se voltaram contra você durante os eventos em [url=glossary:vendrien's well] Poço de Vendrien[/url]. Sua guarnição em [url=glossary:lethian's crossing]A travessia de Lethian[/url] não permitirá que você se mova pacificamente pelo assentamento, então você terá que matá-los.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Fale com Eldian, o líder do assentamento, em [url=glossary:lethian's crossing]A travessia de Lethian[/url] para saber mais sobre o [url=glossary:forge-bound]Forge-Bound[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Harchiand Bronze é [url=glossary:the voices of nerat]o Vozes de Nerat[/url] espião entre os colonos de [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Ele vai querer saber que você chegou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Zdenya pode ser encontrado na fundição [url=glossary:forge-bound]Forja-Bound[/url], conhecida simplesmente como Forja. Ele está localizado a leste do rio no primeiro nível do Distrito do Nascer da Lua, logo acima do térreo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Zdenya pediu para você se juntar a ela no terceiro nível de [url=glossary:lethian's crossing]A travessia de Lethian[/url] onde ela colocará o Elmo Magebane.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Eldian pediu para você confirmar se o Elmo Magebane realmente funciona digitando o Oldwalls em [url=glossary:lethian's crossing]A travessia de Lethian[/url] e observando o Maldito solto. Ele lhe deu uma chave que permitirá que você digite o Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>O Elmo Magebane não funcionou, e Bane está à solta dentro do Oldwalls em [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Mate-os antes que eles possam escapar para o assentamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Voltar para Zdenya em [url=glossary:lethian's crossing]A travessia de Lethian[/url] e informe que o Elmo Magebane não funcionou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Harchiand Bronze é [url=glossary:the voices of nerat]o Vozes de Nerat[/url] espião entre os colonos de [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Ele vai querer saber que você chegou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Antes de visitar a forja em [url=glossary:lethian's crossing]A travessia de Lethian[/url], você deve falar com Harchiand Bronze conforme [url=glossary:the voices of nerat]the Vozes de Nerat[/url] instruído.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Você encontrou um pedágio inesperado no caminho para [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Fale com alguém sobre ser deixado passar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Raetommon concordou em deixar você passar pelo pedágio [url=glossary:bronze brotherhood]Irmandade de Bronze[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Você matou o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] guardando a ponte. Você pode continuar para [url=glossary:lethian's crossing]A travessia de Lethian[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Mestre da Forja Zdenya trouxe o Elmo Magebane para proteger [url=glossary:lethian's crossing]A travessia de Lethian[/url], mas tanto ela quanto o Leme foram levados por Raetommon.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

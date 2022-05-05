@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\01_cv_scavenger_merchant_rustcanyon</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Achei que o [url=glossary:disfavored]Desfavorecido[/url] já nos teria acorrentado! Isso é ainda bem que você estava passando pela área." Ela pisca e balança um cinto de anel pesado. "Claro, ninguém passa pelo [url=glossary:blade grave]Sepultura de Lâminas[/url]. Para onde quer que você vá, você precisará de provisões para chegar aonde está indo. Peguei algumas coisas que valem a pena negociar..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>O trader lhe dá um sorriso de boas-vindas. "Olá novamente. Eu tenho mercadorias para vender se você quiser negociar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"O que você está oferecendo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Dê uma olhada você mesmo. Sem dúvida, algo despertará seu interesse."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"É perigoso trabalhar com o [url=glossary:unbroken]ininterrupto[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Só se eles não estiverem bem equipados." Ela sorri. "Tenho muitos motivos para garantir que eles tenham acesso apenas às melhores armas e suprimentos - e isso também se estende a seus aliados."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

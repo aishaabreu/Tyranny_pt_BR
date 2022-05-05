@@ -1,0 +1,268 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\01_bladegrave\01_qst_trappersjunction_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>52</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Um caminho assustador</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Viajar para Trapper's Junction.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Pesquisar Junção do Trapper para sinais do [url=glossary:unbroken]ininterrupto[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Entre no campo [url=glossary:unbroken]ininterrupto[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Fale com Mattias no Sul-West</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Fale com a Jagged Remedy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Encontre o Destemido.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Voltar para Mattias</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Mostre o Destemor para Mattias.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Fale com a Jagged Remedy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Mate todos os [url=glossary:scarlet chorus]Coro Escarlate[/url] em Junção do Trapper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Mate todos os [url=glossary:unbroken]ininterrupto[/url] em Junção do Trapper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Fale com o líder [url=glossary:unbroken]ininterrupto[/url] em Junção do Trapper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Fale com o líder [url=glossary:scarlet chorus]Coro Escarlate[/url] em Junção do Trapper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Mate todos os [url=glossary:unbroken]ininterrupto[/url] em Junção do Trapper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Mate todos os [url=glossary:scarlet chorus]Coro Escarlate[/url] em Junção do Trapper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Voltar para Mattias</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Fale com a Jagged Remedy</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Voltar para Mattias.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Elimine o [url=glossary:scarlet chorus]Coro Escarlate[/url] em Junção do Trapper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Fale com Mattias.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Mattias, líder do [url=glossary:unbroken]ininterrupto[/url], foi encaixotado em Trapper's Junction e não conseguiu reunir suas forças em Crepúsculo. Viaje até lá e ajude-o.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Viajar para Trapper's Junction para localizar o grupo de [url=glossary:unbroken]ininterrupto[/url] na área.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Agora que você chegou a Junção do Trapper, dê uma olhada para descobrir mais sobre a situação com o [url=glossary:unbroken]ininterrupto[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Você encontrou um soldado [url=glossary:unbroken]ininterrupto[/url] mortalmente ferido e descobriu que o [url=glossary:scarlet chorus]Coro Escarlate[/url] perseguiu o [url=glossary:unbroken]ininterrupto[/url] aqui. Localize o acampamento [url=glossary:unbroken]ininterrupto[/url] para obter mais informações sobre a situação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Remédio irregular quer recrutar Mattias e o [url=glossary:unbroken]ininterrupto[/url] em Junção do Trapper. Ele mencionou que os cativos [url=glossary:scarlet chorus]Coro Escarlate[/url]' podem ser usados como moeda de troca para convencer Mattias a se alistar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Mattias está debatendo se juntar ao [url=glossary:scarlet chorus]Coro Escarlate[/url] mas ainda não tem certeza. Ele mencionou que se o [url=glossary:scarlet chorus]Coro Escarlate[/url] mostrasse algum sinal de boa vontade, ele estaria mais disposto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Você aprendeu sobre uma antiga espada chamada Destemido que pode aumentar o moral de Mattias e seus [url=glossary:unbroken]ininterrupto[/url] soldados. Diz-se que está localizado perto do [url=glossary:blade grave]Sepultura de Lâminas[/url] Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Você negociou com sucesso com Remédio irregular para mostrar um sinal de boa fé em relação ao [url=glossary:unbroken]ininterrupto[/url] liberando soldados que seriam enviados para o forte de [url=glossary:the voices of nerat]990000#[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Você recuperou a lâmina lendária, a Destemido. Mostre para Mattias e inspire o [url=glossary:unbroken]ininterrupto[/url] em Junção do Trapper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10009</ID>
+      <DefaultText>Com Irentis e seus apoiadores mortos, não há nada que impeça Mattias de se juntar ao [url=glossary:scarlet chorus]Coro Escarlate[/url]. Hora de dizer a Remédio irregular que o [url=glossary:unbroken]ininterrupto[/url] aqui se juntará.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Você decidiu provocar Remédio irregular, e agora deve eliminar todos os [url=glossary:scarlet chorus]Coro Escarlate[/url] soldados que estavam sob seu comando.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Você decidiu provocar Mattias, e agora deve eliminar todos os [url=glossary:unbroken]ininterrupto[/url] soldados que estavam sob seu comando.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Você cuidou da ameaça [url=glossary:scarlet chorus]Coro Escarlate[/url] em Junção do Trapper. Hora de falar com o líder do [url=glossary:unbroken]ininterrupto[/url] lá e contar as boas notícias.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>Você matou todos os [url=glossary:unbroken]ininterrupto[/url] em Junção do Trapper. Hora de falar com o líder do [url=glossary:scarlet chorus]Coro Escarlate[/url] lá e dizer que todos os rebeldes estão mortos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10018</ID>
+      <DefaultText>Você agora provocou Mattias e deve eliminar todos os [url=glossary:unbroken]ininterrupto[/url] soldados que estavam sob seu comando.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10019</ID>
+      <DefaultText>Você agora provocou Remédio irregular e deve eliminar todos os [url=glossary:scarlet chorus]Coro Escarlate[/url] soldados que estavam sob seu comando.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10023</ID>
+      <DefaultText>Você não conseguiu convencer Remédio irregular a entregar prisioneiros. Em vez disso, ele lhe deu um ultimato para entregar a Mattias: Recruta ou todos morrerão quando os reforços Refrão chegarem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10025</ID>
+      <DefaultText>Remédio irregular ultimato não caiu bem com Mattias. Ele reuniu suas tropas contra você e o [url=glossary:scarlet chorus]Coro Escarlate[/url], e você conseguiu acabar com a rebelião deles. Retornar ao Remédio irregular e transmita esta notícia para ele.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10026</ID>
+      <DefaultText>Você negociou com sucesso com Remédio irregular para mostrar um sinal de boa fé em relação ao [url=glossary:unbroken]ininterrupto[/url] entregando um capitão [url=glossary:disfavored]Desfavorecido[/url] ao [url=glossary:unbroken]ininterrupto[/url] punir como bem entenderem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10027</ID>
+      <DefaultText>Você reuniu o espírito do [url=glossary:unbroken]ininterrupto[/url] recuperando o artefato perdido, o Destemido. Lidere a carga [url=glossary:unbroken]ininterrupto[/url] contra os [url=glossary:scarlet chorus]Coro Escarlate[/url] em Junção do Trapper e destrua-os.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10028</ID>
+      <DefaultText>As forças [url=glossary:scarlet chorus]Coro Escarlate[/url] em Junção do Trapper foram aniquiladas. Consultar Mattias sobre seu próximo passo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Mattias concordou em ouvir os termos de rendição [url=glossary:scarlet chorus]Coro Escarlate[/url]'. Fale com ele no acampamento [url=glossary:unbroken]ininterrupto[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Mattias deu as boas-vindas a você em seu acampamento. Fale com ele no acampamento [url=glossary:unbroken]ininterrupto[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>Não vendo alternativa, Mattias está pensando em se juntar ao [url=glossary:scarlet chorus]Coro Escarlate[/url]. Procure outra maneira de convencer Mattias a ficar do seu lado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você inspirou o [url=glossary:unbroken]ininterrupto[/url] com o Destemido e os reuniu para derrotar o [url=glossary:scarlet chorus]Coro Escarlate[/url] em Junção do Trapper.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você ajudou o [url=glossary:scarlet chorus]Coro Escarlate[/url] a recrutar com sucesso o [url=glossary:unbroken]ininterrupto[/url] em Junção do Trapper para as fileiras Refrão'.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Você matou todos os [url=glossary:scarlet chorus]Coro Escarlate[/url] em Junção do Trapper, liberando o [url=glossary:unbroken]ininterrupto[/url] da ameaça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Você matou todos os [url=glossary:unbroken]ininterrupto[/url] rebeldes em Junção do Trapper, não deixando nenhum vivo para se juntar aos [url=glossary:scarlet chorus]Coro Escarlate[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Você matou todos em Junção do Trapper. Nenhum rebelde [url=glossary:scarlet chorus]Coro Escarlate[/url] ou [url=glossary:unbroken]ininterrupto[/url] permanece vivo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Você atacou os rebeldes em Junção do Trapper e os alienou de sua causa. Sem o apoio deles, sua rebelião tem poucas chances de sucesso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>A oportunidade de resolver esta tarefa passou.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

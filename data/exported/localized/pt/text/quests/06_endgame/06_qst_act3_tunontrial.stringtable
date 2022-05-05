@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\06_endgame\06_qst_act3_tunontrial</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>29</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Julgamento final</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Viaje para o [url=glossary:bastard city]Cidade bastarda[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Viajar para Ashweald.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Rosto [url=glossary:tunon]Tunon[/url] julgamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Derrota [url=glossary:tunon]Tunon[/url] e [url=glossary:bleden mark]Marca de mistura[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Derrota [url=glossary:tunon]Tunon[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Derrota [url=glossary:bleden mark]Marca de mistura[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Aceitar [url=glossary:tunon]Tunon[/url] fidelidade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Entregue o Mandado de Execução a [url=glossary:the voices of nerat]o Vozes de Nerat[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Entregue o Mandado de Execução a [url=glossary:graven ashe]Cinza esculpida[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Fale com [url=glossary:tunon]Tunon[/url] em sua corte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Aceitar [url=glossary:tunon]Tunon[/url] fidelidade.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>[url=glossary:tunon]Tunon[/url] convocou você ao tribunal dele para ser julgado por suas ações no Camadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Viaje para a quadra de [url=glossary:tunon]Tunon[/url] no [url=glossary:bastard city]Cidade bastarda[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Você instigou com sucesso [url=glossary:bleden mark]Marca de mistura[/url] a desafiá-lo sozinho. Ele pediu para encontrá-lo em Ashweald, uma extensão de terra incontestável ao sul de [url=glossary:vendrien's well]Poço de Vendrien[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Fique diante de [url=glossary:tunon]Tunon[/url] em sua quadra no [url=glossary:bastard city]Cidade bastarda[/url] e explique suas ações no Camadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>[url=glossary:tunon]Tunon[/url] condenou você à morte por suas ações no Camadas. Você deve derrotá-lo e [url=glossary:bleden mark]Marca de mistura[/url] para reivindicar o Camadas como seu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>[url=glossary:tunon]Tunon[/url] condenou você à morte por suas ações no Camadas. Você deve derrotá-lo para reivindicar o Camadas como seu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>[url=glossary:bleden mark]Marca de mistura[/url] se recusou a vê-lo como o governante soberano do Camadas. Para isso, [url=glossary:tunon]Tunon[/url] concordou em que você e [url=glossary:bleden mark]Marca de mistura[/url] resolvam esta questão em um julgamento por combate em seu tribunal. Derrota [url=glossary:bleden mark]Marca de mistura[/url] para resolver sua reclamação aos olhos de [url=glossary:tunon]Tunon[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>[url=glossary:tunon]Tunon[/url] pediu que você falasse com ele pelo Trono, e ele oferecerá sua fidelidade a você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>Após argumentar com sucesso um caso contra [url=glossary:the voices of nerat]o Vozes de Nerat[/url], [url=glossary:tunon]Tunon[/url] decidiu que o Arconte dos Segredos deve ser executado. Você escolheu entregar a execução você mesmo. Viajar para Cacofonia e entregar o Mandado de execução.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>Após argumentar com sucesso um caso contra [url=glossary:graven ashe]Cinza esculpida[/url], [url=glossary:tunon]Tunon[/url] decidiu que o Arconte de Guerra deve ser executado. Você escolheu entregar a execução você mesmo. Viajar para Lareira de Ferro e entregar o Mandado de execução.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10014</ID>
+      <DefaultText>Você entregou o Mandado de Execução e o Arconte está morto. Retorne ao [url=glossary:bastard city]Cidade bastarda[/url] como [url=glossary:tunon]Tunon[/url] solicitou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10015</ID>
+      <DefaultText>[url=glossary:tunon]Tunon[/url] pediu que você falasse com ele pelo Trono, e ele oferecerá sua fidelidade a você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Sua coalizão de aliados ainda está envolvida no conflito em [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Eles não poderão limpar o caminho para Cacofonia até que você os ajude.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>Sua coalizão de aliados ainda está envolvida no conflito em [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Eles não poderão limpar o caminho para Lareira de Ferro até que você os ajude.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Depois de defender com sucesso a ordem que você trouxe para o Tiers como Fatebinder, [url=glossary:tunon]Tunon[/url] chegou à conclusão de que só você é digno de governar o Camadas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>[url=glossary:tunon]Tunon[/url] não estava convencido de seu serviço a [url=glossary:kyros]Kyros[/url] como Vinculador do Destino e o condenou à morte pelas mãos dele. No entanto, você provou que era muito mais mortal que [url=glossary:tunon]Tunon[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>[url=glossary:tunon]Tunon[/url] não estava convencido do seu serviço a [url=glossary:kyros]Kyros[/url] como Vinculador do Destino e o condenou à morte pelas mãos dele. No entanto, você provou que era muito mais mortal do que [url=glossary:tunon]Tunon[/url] e [url=glossary:bleden mark]Marca de mistura[/url] combinados.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

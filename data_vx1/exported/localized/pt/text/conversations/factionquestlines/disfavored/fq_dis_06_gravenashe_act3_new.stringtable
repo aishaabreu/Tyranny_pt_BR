@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\factionquestlines\disfavored\fq_dis_06_gravenashe_act3_new</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>372</ID>
+      <DefaultText>"Antes de ir, gostaria de pedir que você liberasse Barik para meu serviço."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>376</ID>
+      <DefaultText>"Precisamente. Agora que sou um Arconte, Barik deve servir como meu tenente, livre de seus laços com você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>377</ID>
+      <DefaultText>"Se ele continuar respondendo a nós dois, isso cria um conflito de interesses."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>378</ID>
+      <DefaultText>"Eu arrastei sua carcaça de metal por todo o Camadas. O mínimo que você pode fazer é me dar ele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>379</ID>
+      <DefaultText>"Ponto conquistado. Não importa."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\05_cairnplains\05_cv_player_findsdead_tangledlimb</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>2</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Membros Emaranhados cadáver espancado está torcido e rasgado, vazando um fluido viscoso e escuro no chão. Você caminha ao redor da poça em expansão, ofegando respirações rasas contra o fedor fétido da morte.
+
+"Deixou para a carniça," você pensa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Claramente, eles foram superados pelo [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

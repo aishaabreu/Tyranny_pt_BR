@@ -1,0 +1,327 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\02_cv_adjudication_sc_vs_lc</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>63</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Ah, que bom! Agora que um Fatebinder aqui, talvez eu possa ter um pingo de satisfação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Acho que você não ganhou consciência e decidiu ouvir meu apelo, não é?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Você vem comigo de qualquer maneira. Pare de tagarelar e entre na fila."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Qual parece ser o problema?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Deixar] "Não vou me envolver. Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Eu peguei esse ladrão mexendo nas minhas mercadorias, mas esse rato do Coro não me deixa denunciá-lo. Por todos os direitos, ela deveria estar acorrentada - não recrutada em alguma gangue. E se ela voltar e decidir acabar com meus negócios, desta vez com a lei do lado dela? Não posso ficar parado e deixar isso acontecer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Bobagem. Minha gangue precisa de recrutas - especialmente aqueles que são rápidos com as mãos. Usaremos o pequeno Wenhaver aqui para arrombar fechaduras, abrir armadilhas e... bem, vamos apenas dizer que nada está fora da mesa. As chances são boas de que ela vai perder alguns dedos antes que a quinzena termine de qualquer maneira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Vou ouvir os dois lados da história, mas entendo que minha palavra sobre o assunto é lei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Deixar] "Isso não é problema meu. Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Se chamar a atenção do Tribunal, não vejo como recusar. Ative, Vinculador do Destino. Aceito sua palavra sobre o assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Para Xênia] "O que Wenhaver roubar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Para meia cicatriz] "O que faz você pensar que Wenhaver seria um bom recruta?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"[url=glossary:forge-bound]Forge-Bound[/url] armas e suprimentos. Minhas coisas começaram a sumir semanas atrás, mas hoje fiquei sabendo que o pequeno miserável havia tentado cercar meus bens para outro comerciante honesto. Não há como saber quanto ela embolsou ou entregou em outro lugar!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Total honestidade? Eu tenho observado o pequeno ladrão roubando do [url=glossary:forge-bound]Forge-Bound[/url] por semanas. Eu sempre estava de olho nela para o recrutamento - chame isso de teste, e ela passou." Meia Cicatriz acena com orgulho. "Desejoso por um colono comum, este. Fúria Escarlate material."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Por que você não parou Wenhaver quando descobriu o crime dela?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Por que você não denunciou a suspeita de roubo antes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Ela roubou [url=glossary:forge-bound]Forge-Bound[/url] armas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Você tem o hábito de recrutar ladrões?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Para Wenhaver] "Por que você estava roubando do [url=glossary:forge-bound]Forge-Bound[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Eu queria ter certeza antes de desperdiçar o tempo de alguém com acusações infundadas. Até que eu a peguei em flagrante, sempre havia uma chance - uma dúvida em minha mente - de que um colega estivesse pegando suprimentos emprestados e eu tivesse imaginado a coisa toda. Isso vai me mostrar, hein? Isso é um dia triste quando sou punido por respeitar o devido processo legal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Não são martelos ou machados - ela não é TÃO boa. Pequenas coisas aqui e ali, punhais, sucata de ferro e afins."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Deixe-me perguntar sobre outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Como eu disse, eu queria ver o quão capaz ela era, e se ela poderia manter o ritmo. Foi muito bem para um merdinha inexperiente, não foi Wen?" Ela mira um golpe forte no recruta em potencial.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Temos o hábito de recrutar sobreviventes, e alguém que sabe roubar para ganhar a vida é uma adição valiosa para qualquer gangue. Nem sempre precisamos de ladrões, mas sempre precisamos de sobreviventes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Ela aponta um olhar duro para você, mas se equilibra com apreensão. "Perdi tudo na conquista de Refúgio. Família, amigos, casa... tudo o que eu já fui pisoteado por um exército, depois por outro. Roubar era a única maneira de sobreviver. E roubar do [url=glossary:forge-bound]Forge-Bound[/url]... bem, você pode chamar isso de justiça se quiser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Enganar. Os itens que você roubou valiam dez vezes mais do que você tentou vendê-los."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Só porque sou um colono não faz de mim um comerciante experiente. Eu precisava comer, não ter lucro." Wenhaver balança a cabeça. 
+
+"Vendendo [url=glossary:forge-bound]Forge-Bound[/url] mercadorias baratas também tornaram as pessoas menos propensas a me entregar... Acho que você poderia chamar isso de uma jogada profissional."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Você já vendeu para o [url=glossary:scarlet chorus]Coro Escarlate[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Já tentou conseguir um emprego honesto, Wenhaver?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Eu... bem, claro. Eu até vendi para Meia Cicatriz uma ou duas vezes. O refrão não são o que você chamaria de disciplinado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Sim, uma vez, com ela!" Ela aponta para Xênia. 
+
+"Eu disse a ela que estava disposto a fazer qualquer tarefa servil, mas a bruxa me mandou embora sem qualquer consideração."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Você comprou nossos produtos mesmo sabendo que eles foram roubados?" Xênia olha para Meia Cicatriz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Apenas para fins de pesquisa... aheh. Eu tive que inspecionar as mercadorias para confirmar que Wenhaver estava roubando do [url=glossary:forge-bound]Forge-Bound[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"E produziu um novo recruta mais competente e desesperado para minha gangue - obrigado, Xênia." Meia Cicatriz oferece uma zombaria de uma reverência.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Cala a boca, Cicatriz. Admito que não achava que Wenhaver seria capaz de acompanhar a carga de trabalho, então disse a ela para seguir em frente. Isso não é um convite para roubar de mim, então não vejo como isso é relevante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Já ouvi o suficiente e estou pronto para tomar minha decisão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Não sei o que é pior - perder a mão para o guarda da cidade ou ser jogado na linha de frente. De qualquer forma, suponho que estou à sua mercê." Wenhaver olha para você com um apelo desesperado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"De acordo com as leis de [url=glossary:kyros]Kyros[/url], Wenhaver será punido por roubar do [url=glossary:forge-bound]Forge-Bound[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Wenhaver se juntará à gangue Meia cicatriz para ser treinado como Fúria Escarlate."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Xenia - como punição por colocar Wenhaver nesta posição impossível, eu o sentencio a uma temporada de trabalho manual para o [url=glossary:forge-bound]Forge-Bound[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Meia Cicatriz - por comprar bens roubados e não entregar um ladrão, você deve renunciar ao seu título e se juntar às fileiras inferiores."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Wenhaver fará trabalho braçal para o [url=glossary:forge-bound]Forge-Bound[/url] até pagar sua dívida, e então ela irá para Meia Cicatriz para treinamento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Vocês são todos culpados por essa bagunça. Todos aqui foram banidos de Refúgio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Cada um de vocês compartilha alguma falha, então nenhum será punido. Vocês não terão relações uns com os outros a partir deste ponto. Está entendido?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Eu sabia que você faria a escolha certa." Ela se vira para Wenhaver com uma expressão imperiosa. "Você euEu tenho que descobrir outra maneira de colocar comida na mesa, garotinha. Seja qual for a mão que você escolher manter, certifique-se de que é um ganhador."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Sempre uma decisão inteligente para preencher as fileiras - especialmente quando há novos talentos a serem promovidos." Ela abre um sorriso malicioso. "Venha junto, Wen - vou apresentá-lo à sua nova família."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Ha! Agora isso é Vinculador do Destino justiça para você. Se você não se importa, vou pegar meu novo recruta e ver se podemos 'encontrar' uma bagunça nas forjas para Xênia limpar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Eu poderia ter preferido alguma punição para o pequeno ladrão, mas em certa medida isso é tão bom." Ela acena com a cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Pelo menos eu tenho algo para fazer pelo... bem, pelo resto da minha vida, como ela é." Ela suspira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"O quê? Se eu soubesse que isso era uma opção..." Ela se vira para Meia Cicatriz, cheia de raiva. "Droga isso é tudo culpa sua!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Acho que posso viver com isso." Um sorriso esperançoso se espalha em seu rosto. "É uma nova oportunidade, de qualquer maneira, e melhor do que qualquer um desses chacais teria para mim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Ah, por favor. Você é tão culpado quanto eu... de alguma forma. E quanto a você, Vinculador do Destino. Nós vamos, acho que sempre posso levar minha gangue para outro lugar, embora as Vozes não fiquem satisfeitas com a falta de mão de obra." Ela faz uma saudação sem entusiasmo e sai.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Sem justiça... sem justiça. Minhas perdas não significam nada para o Tribunal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Uma pena, mas o Refrão vai se recuperar. Nós sempre fazemos. E quando chegar a hora do acerto de contas, nossos números farão com que essa perda pareça insignificante." Ela se despede e vai embora.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Qual era o problema mesmo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Vou ouvir os dois lados da história, mas entendo que minha palavra sobre o assunto é lei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Continue. Feliz em responder perguntas para o Tribunal. Não tenho nada a esconder, ao contrário de alguns." Ela encara Wenhaver.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Deixe-me perguntar sobre outra coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Vá em frente. Se você tem em mente os interesses do Refrão, sei que fará a escolha certa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Ai!" Ela amamenta o braço. "Agradecer você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Achei que se ela fosse tão boa em seu trabalho quanto parecia, poderíamos atribuí-la a uma gangue imediatamente. Acontece que eu estava indo fazer uma oferta, mas Xenia chegou primeiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Sou um executor do Arconte da Justiça. Uma vez invocada, minha decisão é final. Tem certeza que é isso que você quer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Se você vai discutir na frente de um Vinculador do Destino, estou exercendo meu direito de julgar este assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

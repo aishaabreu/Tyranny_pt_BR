@@ -1,0 +1,359 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\worldevents\01_wme_chrysalis</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>64</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Não mais atingido pelos ventos intermináveis do [url=glossary:edict]Edital[/url] de Tempestades, o [url=glossary:blade grave]Sepultura de Lâminas[/url] parece uma extensão infinita de espinhos de metal retorcidos e penhascos ásperos. A vida ainda não voltou para Robusto - você não ouve pássaros e não vislumbra roedores.
+
+Mas hoje você percebe uma nuvem ondulante de movimento brilhantemente cintilante. Ainda está a algumas centenas de metros de distância, mas descendo a ravina em sua direção.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Identifique a nuvem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Recuar de volta para baixo da ravina.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Encontre uma caverna próxima para se esconder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Pergunte a um companheiro sobre a nuvem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Você olha para seus companheiros, decidindo o que pedir...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Barik</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Lantry</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Eb</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Kills-In-Shadow</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Por um momento você pensa que é algum tipo de Maldito massivo, uma enorme criatura de malícia arcana turva, mas então você percebe que não é uma entidade única. Você procura em sua mente as histórias Camadas fauna quando se lembra dos [url=glossary:chrysalis]Crisálida[/url], insetos alados que viajam em enxames. Os [url=glossary:chrysalis]Crisálida[/url] são pragas, conhecidas por se enterrar em árvores, navios e casas para colocar seus ovos.
+
+Considere o desmatamento maciço de Stalwart pelo [url=glossary:edict]Edital[/url] de Tempestades, a gente se pergunta o que esse enxame anda comendo esses dias...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Esses são [url=glossary:chrysalis]Crisálida[/url], Vinculador do Destino," Barik diz a você, uma pitada de admiração em sua voz. "Eu não vejo um enxame, bem, desde o [url=glossary:edict]Edital[/url] de Tempestades. Eles são pragas, mas principalmente inofensivos. Enterre em postes e pranchas de madeira. Mas eu não pensei que eles pudessem formar um enxame tão grande... devemos encontrar cobertura?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Ah, o [url=glossary:chrysalis]Crisálida[/url]! Ou pelo menos, uma espécie local do tipo. Na verdade, eles são bastante inofensivos," Lantry opina. "Desde que você não seja uma casa. Ou um barco. Ou colheitas. Ou se lhes foi negado matéria vegetal por muito tempo, então eles se tornam carnívoros." Quando ele começa a se lançar nas várias subespécies que foram observadas no Camadas, a nuvem se aproxima cada vez mais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"The [url=glossary:chrysalis]Crisálida[/url]!" Eb diz o nome como se fosse uma doença social. "Repugnante, insetos escavadores que devoram a carpintaria. Quando eles ficam sem madeira molhada para comer, eles são conhecidos por comer carne animal... especialmente quando enxameando... como eles estão agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Agachado com as palmas das mãos contra a areia, Kills-In-Shadow fareja o ar. "Toca erros. Coma árvores e paredes humanas de madeira. O enxame canta como o vento nas folhas." Seu focinho se contorce levemente à medida que a nuvem se aproxima.
+
+"Toca insetos cheiram a sangue. Pode escavar a carne. Deve encontrar abrigo de pedra dura."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Você trabalha cuidadosamente entre as rochas enquanto o zumbido maligno cresce. Através da abertura atrás de você, você vê uma névoa turva de carapaças brilhantes. 
+
+Alguns insetos saem do enxame, pousando na pedra perto de você. Suas asas ostentam redemoinhos perolados simétricos, e suas mandíbulas, afiadas o suficiente para cortar madeira, chiam em síncope hipnotizante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Agarrando seu equipamento, você se apressa para a entrada da ravina. Olhando para trás, você vê que o enxame, apesar de seu tamanho, parece estar se aproximando de você. Um som baixo e monótono o cerca quando você percebe que não chegará à boca deste vale antes que a horda esteja sobre você. As paredes aqui, no entanto, estão cheias de lacunas que você pode usar para escalar ou se abrigar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Escalar a parede.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Você chega ao topo do desfiladeiro e rola para longe do caminho do enxame. Você observa enquanto a nuvem turbulenta se enfurece entre as pedras, o enxame chegando assustadoramente perto de você. Talvez mais em casa caçando mais perto do solo, o enxame perde o interesse neste ponto de vista elevado e a nuvem de [url=glossary:chrysalis]Crisálida[/url] volta lentamente ao nível do solo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Ataque com a magia Incêndio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Seus dedos dançam no ar, formando o sigilo do Arconte de Fogo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Escudos, lâminas, ossos humanos e carapaças de armadura se projetam em seu caminho, interrompendo seu progresso.
+
+Você tenta abrir caminho com cuidado entre as rochas enquanto um zumbido maligno aumenta.
+
+Seus músculos doem e seus joelhos e braços vazando sangue de meia dúzia de arranhões, você percebe que não há como se espremer em uma fenda antes que o enxame esteja sobre você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Seus dedos dançam no ar, formando os sigilos do Arconte de Gelo morto há muito tempo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Seus dedos dançam no ar, formando os sigilos de um antigo Arconte do Relâmpago.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Seus dedos dançam no ar, formando os sigilos de um Arconte da Força.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Seus dedos dançam no ar, formando os sigilos de um Arconte, atraindo do mundo ao seu redor o pulso de energias arcanas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Antes que você possa chegar ao topo, 
+ a nuvem turbulenta se enfurece ao seu redor, insetos pousam em suas roupas, mãos e rosto, rastejando em seus ouvidos e nariz, através das pálpebras de seus olhos fechados. Onde eles encontram carne exposta, eles mordem e perfuram você, suas mandíbulas são uma centena de pequenas foices esculpindo sua pele.
+
+Você se força a avançar, jogando-se sobre a parede do cânion, indiferente a qualquer perigo que possa estar acima. Você rola desesperadamente pelo chão, deixando uma faixa esmagando insetos enquanto cai.
+
+Quando você finalmente se liberta dos insetos, você fica com a dor de centenas de feridas pungentes em sua carne e o zumbido incessante do enxame ainda persistente em seus ouvidos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>O enxame se aproximando lentamente, você procura uma das cavernas que permeiam os lados da ravina. Esculpidas na pedra por [url=glossary:kyros]Kyros[/url]' ventos incessantes, as paredes da estreita fissura sobem e descem como as ondas de um mar congelado.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Pedras irregulares e bronze mordem suas mãos enquanto você se arrasta pela lateral da ravina, os pés cavando nas paredes, procurando desesperadamente por algo. O suor escorre em seus olhos enquanto você se aproxima cada vez mais da borda da rocha.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Depois do que parece ser quase uma hora, o último dos insetos desaparece, deixando você sozinho na ravina, o canto do enxame ainda zumbindo em seus ouvidos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Depois do que parece ser quase uma hora, o último dos insetos desaparece, deixando você sozinho na ravina, o canto do enxame ainda zumbindo em seus ouvidos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>A horda de criaturas brilhantes se aproxima, seu zumbido crescendo em seus ouvidos com toda a sutileza de um turbilhão de adagas. 
+
+O som atinge um crescendo conforme sua magia, e você estala os dedos no mudra final, liberando a torrente de magia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Tendo dissipado a ameaça, você enxuga o suor da testa e continua em direção ao seu destino.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Sua magia atravessa o enxame como um aríete, esmagando alguns em pasta, enviando outros para as paredes de pedra da ravina ou espalhando-os no ar. O zumbido é substituído por um estrondo abafado à medida que o ar entra para preencher o vácuo repentino.
+
+Em um instante, o enxame fica em silêncio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>A horda de criaturas brilhantes se aproxima, seu zumbido crescendo em seus ouvidos com toda a sutileza de um turbilhão de adagas. 
+
+O som atinge um crescendo conforme sua magia, e você estala os dedos no mudra final, liberando a torrente de magia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>A horda de criaturas brilhantes se aproxima, seu zumbido crescendo em seus ouvidos com toda a sutileza de um turbilhão de adagas. 
+
+O som atinge um crescendo conforme sua magia, e você estala os dedos no mudra final, liberando a torrente de magia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>A horda de criaturas brilhantes se aproxima, seu zumbido crescendo em seus ouvidos com toda a sutileza de um turbilhão de adagas. 
+
+O som atinge um crescendo conforme sua magia, e você estala os dedos no mudra final, liberando a torrente de magia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Sua torrente de fogo cai através do enxame, reduzindo a maioria a cinzas, enviando outros para as paredes de pedra da ravina ou espalhando-os no ar nas pequenas espirais ardentes de seus vôos finais.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Liberando a nevasca torrencial diretamente no rosto das criaturas que se aproximam, sua magia congela os minúsculos insetos, envolvendo-os em cristal cintilante antes de estilhaçá-los contra as paredes de pedra da ravina.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Relâmpagos correm de suas mãos para o enxame que se aproxima. A energia salta de inseto para inseto, obliterando cada um em um instante antes de formar um arco para as paredes e a terra. Aquelas criaturas que evitam ser reduzidas a cinzas batem nas paredes de pedra da ravina ou se espalham no ar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>A horda de criaturas brilhantes se aproxima, seu zumbido crescendo em seus ouvidos com toda a sutileza de um turbilhão de adagas. 
+
+O som atinge um crescendo conforme sua magia, e você estala os dedos no mudra final, liberando a torrente de magia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>O som atinge um crescendo conforme sua magia, mas antes que você possa estalar os dedos na figura final, a onda de criaturas que se aproximam cai sobre você como um aríete, empurrando você para trás, pousando em suas roupas e mordendo sua pele. Mandíbula travada em concentração, você consegue terminar seu feitiço, dissipando a nuvem de criaturas no ar.
+
+Aspirando o ar em respirações irregulares, você enxuga o suor da testa e o sangue da pele antes de continuar em direção ao seu destino.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>Você não sabe o que é a nuvem, mas não parece segura e parece estar se aproximando...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Ataque com a magia geada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Ataque com a magia Raio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Ataque com a magia Força.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

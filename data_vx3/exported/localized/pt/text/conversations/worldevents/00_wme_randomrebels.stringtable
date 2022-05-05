@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\worldevents\00_wme_randomrebels</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>34</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Eles não fazem você esperar para saber a intenção deles, no entanto: "Isto é para Ápice, Vinculador do Destino, prostituta do soberano. Isto é para a nação que você despojou e os heróis que você assassinou. Para [url=glossary:vendrien's well]Poço de Vendrien[/url] e seu Guarda." As flechas estão encaixadas, suas cabeças brilhando com óleo envenenado. "Preparar para encontrar o vazio!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"O [url=glossary:vellum citadel]Cidadela de Velino[/url] lembre-se do que os outros esquecem. Você, no entanto, encontrará o destino de cada peão do soberano tolo o suficiente para cruzar o Sábios - uma sepultura anônima em solo estrangeiro." Seus dedos tremulam diante dela, capturando energia arcana em antigos sigilos. "Prepare-se para ser esquecido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"O [url=glossary:vellum citadel]Cidadela de Velino[/url] lembra o que os outros esquecem. A mera morte seria muito misericordiosa para você, Incendiário. Suas ações exigem apagamento completo - para ser queimada como tanta sabedoria tem sido por sua mão." Seus dedos tremulam diante dela, capturando energia arcana em antigos sigilos. "Prepare-se para ser esquecido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Eles não fazem você esperar para saber a intenção deles, no entanto: "Isto é para Ápice, Queenslayer, prostituta do soberano. Isto é para a nação que você despojou e os heróis que você assassinou. Para [url=glossary:vendrien's well]Poço de Vendrien[/url] e seu Guarda." As flechas estão encaixadas, suas cabeças brilhando com óleos envenenados. "Preparar para se juntar ao Rainha!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>estrada serpenteia por uma ravina estreita; você está pensando em como seria um excelente local para uma emboscada, mesmo quando os soldados com armaduras de bronze pisam na estrada antes de você. Você olha para trás por onde veio e confirma suas suspeitas: o caminho de volta está bloqueado por guerreiros adicionais.
+
+Os soldados sacam lâminas e arcos, rostos vincados de estresse e manchados de sujeira. Bandagens espreitam de fendas em armaduras mal conservadas, e a bandeira que eles plantam no solo é mais esfarrapada do que heráldica.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>O ar brilha ao seu redor, as árvores ao longo do caminho estremecem, encolhem e brotam braços enquanto troncos se dividem em pernas. Uma ilusão arcana, você percebe, e em seu lugar homens e mulheres em roupas sujas de fuligem, penas enfiadas em chapéus e potes de poções acre penduradas em seus cintos.
+
+Uma jovem dá um passo à frente, seu olho direito uma massa de cicatrizes de queimaduras, sua esquerda se estreitou para você em aversão abjeta. "A Escola de Tinta e Pena não acabou com você, Encadernador." Ela cospe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Ataque-os.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Fale com eles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Você prepara suas armas e se prepara para o combate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Ataque-os.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Fale com eles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Você prepara suas armas e se prepara para o combate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Suas mãos perto de suas armas, você considera suas palavras cuidadosamente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Suas mãos perto de suas armas, você considera suas palavras cuidadosamente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Desarme a situação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Ameaçá-los.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[10.000 anéis.] Suborná-los.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Desarme a situação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Ameaçá-los.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>[10.000 anéis.] Suborná-los.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Você começa a falar com eles com o desapego calmante aprendido no tribunal, quando o infrator lança um dardo em você. Parece que não haverá negociação aqui.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Você ruge para seus emboscadores em fúria, batendo com a mão no peito, lembrando-os da morte e destruição que você causou no Camadas...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Os violadores de juramento olham um para o outro, resolvem desmoronar diante de sua torrente de bravatas e ameaças.
+
+"Você realmente quer jogar suas vidas fora por um reino morto?" você pergunta.
+
+Eles se afastam de você enquanto você atravesse suas fileiras e continue sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Esqueça isso, Fatebinder!" um deles grita enquanto os outros rugem em concordância. "Conhecemos sua lista de ações e estamos aqui para responsabilizá-lo!" 
+
+Eles cobram.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Você insulta os magos eruditos, ameaçando quebrar seus corpos como você fez com tantos antes deles. 
+
+A mulher faz uma careta e cospe novamente. "Ninguém conhece sua história melhor do que nós. É por isso que devemos acabar com isso!" Elas começam a cantar, os dedos se movendo em uma dança arcana.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>A mulher zomba de sua oferta de um anel de ferro. "O conhecimento perdido em suas mãos tinha valor incomparável e você pensa em comprar sua liberdade com ferro?" Seus dedos começam a traçar sigilos no ar. "Você fará uma boa comida de minhoca..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>De mãos vazias, você fala com os historiadores no tom calmo e uniforme de um scriptorium...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>tensão em seus músculos diminui visivelmente à medida que você explica a eles o respeito que você tem pelo conhecimento. Você trabalha para preservar o que pode, mas reconhece a inevitabilidade da Soberano conquista. Quando eles começam a assentir, você diz a eles que se eles procuram um novo lugar para pertencer, eles devem vir até você no seu Pináculo. Eles se curvam e recuam, derretendo novamente na folhagem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Chega!" o mago late. "Você não vai nos convencer do seu respeito pelo nosso trabalho. Apenas o vazio espera por você!" Os magos começam a cantar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>Fuja da área.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Você escapa ileso e continua sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

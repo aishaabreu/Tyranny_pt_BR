@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\06_sc_fiftheye_act2_skypillar</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Fatebinder! Desprezamos estar nesta altura impossível. Se você não sabe como ativar esse teletransportador, estamos preparados para pular!"
+
+"Estamos cientes do dilema."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Como você acha que [url=glossary:the voices of nerat]o Vozes de Nerat[/url] responderá a essa guerra civil?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Fale-me sobre você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Suponha que eu deva descobrir o teletransportador."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Sim, acho que deveria!" Ele cruza os braços e balança a cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Este não é o momento para bate-papo ocioso! Hoje, eu sou o Quinto Olho de [url=glossary:the voices of nerat]o Vozes de Nerat[/url] - não sendo nem o quarto nem o sexto. Amanhã eu poderia ser uma mancha no parapeito da cidadela abaixo. Em algumas coisas, fico mais feliz se me deixar perguntar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Com toda a graça e equilíbrio de um dançarino experiente. O Arconte dos Segredos se orgulha de se adaptar a qualquer cenário. Ele sabe mais do que jamais poderia aprender em cem vidas. Nada é novo para ele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Falo com você em breve, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"O que você precisa? O que, o que, o que?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Este pináculo... insuportável! Não quero perder mais um minuto imaginando quando uma brisa vai me levar sobre os Tiers e para o mar."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

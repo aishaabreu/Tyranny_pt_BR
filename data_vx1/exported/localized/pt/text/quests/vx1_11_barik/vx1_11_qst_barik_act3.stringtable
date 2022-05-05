@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\vx1_11_barik\vx1_11_qst_barik_act3</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>24</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Nunca livre</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Fale com Barik</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Matar [url=glossary:graven ashe]Cinza esculpida[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Fale com [url=glossary:graven ashe]Cinza esculpida[/url] sobre Barik's condição</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Voltar para o ferreiro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Retorno às ruínas de Edgering</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Colete sangue da estátua de Rainha Lycaerus</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Devolva o sangue ao ferreiro</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Verifique Barik no Pináculo da Montanha</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Barik aprendeu a remover sua armadura, mas não está disposto a fazer o sacrifício necessário. Se ele escapar de sua prisão, o fardo recairá sobre você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Com a recente revelação de que você agora é considerado um Arconte, mais opções estão disponíveis para você e Barik para remover Barik de sua armadura. Discuta essas novas possibilidades com ele e determine como proceder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Égide de Ashe mantém Barik fundido em sua armadura. Com o Soberano decreto exigindo que você enfrente [url=glossary:graven ashe]Cinza esculpida[/url] de qualquer forma, matá-lo parece a maneira mais eficiente de libertar Barik de sua armadura.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>[url=glossary:graven ashe]Cinza esculpida[/url] pode estar disposto a ajudar a libertar Barik de sua prisão de bronze e ferro. Fale com ele em Lareira de Ferro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Barik não é mais abençoado pela proteção de [url=glossary:graven ashe]Cinza esculpida[/url], então seu aliado ferreiro agora pode remover sua armadura. Traga Barik para ela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Libertando Barik de sua armadura sem matá-lo exigirá uma quantidade excessiva de sangue real. Felizmente, as lágrimas da colossal rainha de pedra em Ruínas de borda podem ser suficientes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Você chegou a Ruínas de borda, mas recuperar o sangue pode não ser uma tarefa simples. Descubra uma maneira de coletar uma quantia suficiente para o procedimento Barik's.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Você coletou as lágrimas de sangue real da estátua em Ruínas de borda. Devolva-os ao ferreiro para que ela possa libertar Barik.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Você finalmente separou Barik de sua armadura. Fale com ele no Pináculo da Montanha para descobrir como ele está se adaptando à sua vida como um homem livre.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Barik implora que você encontre uma alternativa para matar [url=glossary:graven ashe]Cinza esculpida[/url], o que pode ser possível devido à sua aliança com o Arconte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>[url=glossary:graven ashe]Cinza esculpida[/url] se recusa a liberar Barik de seu Égide. No entanto, ele pode respeitar suas demandas de igual para igual se você tirar [url=glossary:the voices of nerat]o Vozes de Nerat[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>[url=glossary:graven ashe]Cinza esculpida[/url] jurou lealdade a você. Traga Barik até ele e exija que o Égide seja removido.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Barik morreu.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Barik deixou o partido.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Depois que você libertou Barik de [url=glossary:graven ashe]Cinza esculpida[/url] de Égide, seu aliado ferreiro o liberou de sua concha blindada. Sua resposta a essa liberdade duramente conquistada continua complicada.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

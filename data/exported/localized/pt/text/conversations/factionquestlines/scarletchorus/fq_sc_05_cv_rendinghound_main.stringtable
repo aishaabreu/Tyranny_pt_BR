@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\factionquestlines\scarletchorus\fq_sc_05_cv_rendinghound_main</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>O Homem-Besta cai de quatro enquanto você se puxa para o topo do penhasco.
+
+"Deixar Homem-Besta sozinho! Não vou voltar!" Seu corpo fica tenso, cabelos eriçados nas costas. "Novo bando fez promessas, mas não cumpriu." Ele mostra os dentes para você. "Novo pacote prometido!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Preciso falar com você, Rending-Hound."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Não! Chega de mentiras! Falando em Coro pacote sempre termina com derramamento de sangue. Homem-Besta acabou de falar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>O Homem-Besta calças, sua pele escorregadia de suor e exalando um cheiro rançoso de medo. "Fatebinder não vai deixar Rasgando-Hound ir, vivo, não? Mas Homem-Besta não voltará - não obedecerá Alfa quem abate mais forte do próprio bando. Significa Alfa está doente, sofredor e raivoso. Até aqui, o Homem-Besta entende."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Ataque] "Você nunca mais terá que vê-la novamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Vou deixar você ir, mas vou precisar de provas para convencer Miséria que você está morto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Humano... vontade humana? Humano não está mentindo? Não é armando armadilha para Rending-Hound?" Rending-Hound remove um colar de escalpos e peças de roupa esfarrapadas e entrega para você. "Pegue o Homem-Besta bugiganga. Sempre estava vestindo. Prova do Homem-Besta triunfos. Manterá o pacote Refrão da trilha Homem-Besta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"A miséria não vai ceder. Você será caçado pelo resto de sua vida - ou dela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Por quê?! Por que Homem-Besta deve ser caçado! Rasgando-Hound poderia ter lutado contra Alpha na toca chamada [Plainsgate], poderia ter tentado rasgar a garganta. Mas, em vez disso, saltou para as terras Pedra. Por que Misery não pode deixar Homem-Besta ir?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Ataque] "Patético! Hora de acabar com seu choro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Virando-se para sair, ele olha para trás por um momento e abre as narinas - marcando seu cheiro para sempre em sua memória. Seus lábios se curvam em um sorriso fraco. Presas descoloridas roem seu lábio inferior. Então ele lhe dá um pequeno aceno de cabeça agradecido antes de caminhar cansado para longe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Não estou aqui para te machucar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Você tem sorte que eles me enviaram e não outra pessoa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Rasgando-Hound é excluído da tribo [url=glossary:stonestalker]Perseguidor de Pedras[/url]. Deixou, pensando que o pacote Refrão poderia ser um novo kith. 'Até nanicos podem se orgulhar de Refrão', disseram os humanos. Mas era apenas mais dor, mais dura!" Rasgando-Hound agarra a cabeça em agonia. "Refrão não é antro para Homens-fera. A matilha exige atos cruéis... Rasgando-Hound rasgado e abatido, fez tudo o que Miséria pediu, mas Alpha não ficou satisfeito, em troca apenas rangeu os dentes humanos. Beastman deseja apenas ficar sozinho. Por favor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Ataque] "Eu só vim aqui para matar você. Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

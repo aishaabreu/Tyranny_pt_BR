@@ -1,0 +1,592 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\06_endgame\06_cv_bleden_mark_act3</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>112</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Você lançou um [url=glossary:edict]Edital[/url] e se tornou um Arconte de... de algo diferente, de fato. Você não é um talento selvagem respirando fogo, mijando mercúrio ou se transformando em um animal... você está entrando na Soberano veia da magia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Vamos apenas dizer que, em circunstâncias normais, você teria enfiado uma adaga em cada orifício, e eu estaria tirando seus coágulos de sangue do meu cabelo há muito tempo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Vamos acabar com isso."
+
+Ele gesticula para frente com um toque de suas adagas, um largo sorriso dividindo seu rosto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"O que você sabe sobre minhas habilidades?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Saque sua arma.] "Acho que nós dois sabemos onde isso vai dar. Vamos acabar com isso. Agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Gostaria de dizer que foi divertido enquanto durou."
+
+Apalpando duas adagas quase mais rápido do que seus olhos podem acompanhar, ele pisca e se transforma, dissolvendo-se nas sombras mais escuras para atacar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Eventualmente, um de nós tem que se curvar ou quebrar para o outro. Você já deve saber que governar não é meu estilo - não tenho nenhum desejo de ganhar esta pequena partida de merda ou coletar sua fidelidade. Ao mesmo tempo, quando você me atormenta com perguntas como essa, a ideia de servi-lo se torna cada vez mais irritante."
+
+Ele balança a ponta de sua lâmina para frente e para trás, pegando-a na luz.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Uma sombra caminha em sua direção. As bordas ganham forma e substância - uma chegada familiar.
+
+Mas em vez de cumprimentá-lo, o Arconte circula lentamente, examinando você com um olhar perspicaz. 
+
+Finalmente, ele acena com a cabeça e para diante de você, oferecendo-lhe uma de suas lâminas de assinatura.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Pegue a adaga.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Recusar a adaga.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Você sabe o que precisamos fazer a seguir." [url=glossary:bleden mark]Marca de mistura[/url] arcos, braços escuros se estendendo como as sombras ao redor dele. Sua voz desaparece com sua aparência enquanto ele se infiltra mais uma vez no tom do nada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Sério? É assim que você quer jogar?" A adaga se dissolve em nada em sua mão, uma mera sombra da arma. [url=glossary:bleden mark]Marca de mistura[/url] palmas duas, lâminas frescas e quebrando os ombros, dissipa-se perfeitamente na escuridão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>A silhueta escura diante de você se aglutina na forma de [url=glossary:bleden mark]Marca de mistura[/url]. Adagas em ambas as mãos, o Arconte das Sombras caminha em sua direção com um passo confiante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Você lança um [url=glossary:edict]Edital[/url] para rivalizar com [url=glossary:kyros]Kyros[/url] e se torna um de nós, então você mata o Arconte dos Segredos. Movimentos ousados. Não há um Arconte nos Tiers que não esteja considerando a melhor forma de... lidar com você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Você lança um [url=glossary:edict]Edital[/url] para rivalizar com [url=glossary:kyros]Kyros[/url] e se torna um de nós, então você mata o Arconte de Guerra. Movimentos ousados. Não há um Arconte nos Tiers que não esteja considerando a melhor forma de... lidar com você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Eu derrubei o [url=glossary:the voices of nerat]o maior rival do Vozes de Nerat[/url]. Certamente, ele fará um movimento contra mim em resposta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Eu derrotei o maior rival de [url=glossary:graven ashe]Cinza esculpida[/url]. Certamente, ele fará um movimento contra mim em resposta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Eu sei que eles fazem de você uma ameaça - e [url=glossary:kyros]Kyros[/url] geralmente me faz enterrar ameaças cedo na vida. A maioria com talentos selvagens tem um talento especial para apenas uma ou duas coisas - sombras no meu caso, músicas no caso de Senhora Sirin. Você, no entanto, pode manifestar um tipo diferente de poder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Preciso saber se você vai se curvar a mim, ou se preciso resolver isso com violência."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Diferente... como?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] você matou pretenso Arcontes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url].] "Recebo todos os tipos de ordens de execução. Não leio muito profundamente a lógica de tudo isso, apenas corto quem me mandam fatiar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Às vezes a ordem é matar, às vezes observo e recruto. É essencial encontrar sua concorrência cedo - rivais purulentos são ruins para a paz do Império."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Sou uma ameaça, então devo ser morto?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url].] "Estive pesando essa opção desde que você reivindicou o Pináculo em [url=glossary:vendrien's well]Poço de Vendrien[/url]. Nunca um membro do Tribunal mostrou o potencial de um exarca... já que vocês são da família, decidi tomar meu tempo... não me apressar para julgar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Fique confortável com a ideia de ser meu vassalo, ou saca ferro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>[Ataque] "Nesse caso, desenhe suas lâminas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Então nivele comigo - o que o convenceria a jurar fidelidade a mim [url=glossary:tunon]Tunon[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Se você quer que eu abandone o velho, você precisará fazer o que ele deveria ter feito há muito tempo: matar [url=glossary:the voices of nerat]o Vozes de Nerat[/url] e [url=glossary:graven ashe]Cinza esculpida[/url]. Se você é tão poderoso quanto eu temo que seja, vamos ver se você faz bom uso dessa força e livra o mundo de dois problemas purulentos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Você nunca sabe quando recuar, garoto. Mas, felizmente, eu gosto disso em você. Pelo seu ultimato, acho que a única maneira de você se curvar é se alguém cortar suas pernas. Então eu vou perguntar de novo - você pode se opor ao Árbitro? [url=glossary:kyros]Kyros[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Você é [url=glossary:kyros]Kyros[/url]' melhor assassino... por que me enviar para fazer o seu trabalho?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Eu não esperaria que você tomasse tal decisão de ânimo leve. Retornarei quando o trabalho estiver concluído."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"E o que dizer de [url=glossary:tunon]Tunon[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Boa caça, Arconte." [url=glossary:bleden mark]Marca de mistura[/url] inclina a cabeça para você antes de se infiltrar completamente na escuridão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Se ele não concordar com você, o problema é seu para resolver. Talvez com minha ajuda - quando for a hora certa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Porque, ao contrário de você, ainda valorizo minha posição no Tribunal e tento manter minhas conspirações dissimuladas principalmente na minha imaginação. E, francamente, pense nisso como um teste. É óbvio que você tem poder - o que não é óbvio para mim é que você pode empunhá-lo com sabedoria."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Você não apenas proclamou um [url=glossary:edict]Edital[/url] que [url=glossary:kyros]Kyros[/url] preparou - você lançou um de sua própria criação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Você age como se eu tivesse escolhido esse poder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Depois de experimentar [url=glossary:kyros]Kyros[/url]' Editais em primeira mão, eles simplesmente fizeram todo o sentido para mim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ninguém escolhe ter o tipo de poder que temos - se tivéssemos, todos seriam Arconte. É apenas um presente - às vezes aparece jovem, às vezes é preciso trauma, doença ou parto para que a semente mística em uma pessoa floresça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Editais 'faz sentido' para você? Por [url=glossary:kyros]Kyros[/url]' punho, você faz parecer... fácil. Então, novamente, talvez esse seja o seu dom - um talento especial para imitar a magia dos outros? Ou maneira, ninguém menos que o soberano é conhecido por funcionar Editais... até agora, isto é."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"De fato, só os tolos fogem do inevitável. Vou sentir sua falta, Arconte. E se você de alguma forma sobreviver, então é lógico que eu o treinei bem, e é apenas uma vitória de outro tipo. ele bate suas adagas duas vezes em desafio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Dourado, olhos carrancudos arregalados de surpresa, o Arconte cai no chão, tossindo sangue tão escuro quanto as sombras que ondulam e diminuem ao seu redor. Ele agarra suas costelas quebradas e sorri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Dourado, olhos carrancudos arregalados de surpresa, o Arconte cai no chão, tossindo sangue tão escuro quanto as sombras que ondulam e diminuem ao seu redor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Eu lhes darei motivo para retornar ao Império do Norte - um [url=glossary:edict]edito[/url] emitido sobre a capital."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Se você vai cuspir no olho Soberano, então faça. Mas posso dizer uma coisa - você não vai gostar quando [url=glossary:kyros]Kyros[/url] olhar para você."
+
+Ele engasga, se afogando enquanto seus pulmões se enchem de sangue. A luz em seus olhos diminui enquanto suas pupilas penetram na escuridão, expandindo-se para preencher todos os seus olhos. Um olhar de significado passa entre vocês, os dedos dele cavando o chão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Fatebinder - não, Arconte. Bem-vindo de volta ao Ashweald. Você esteve ocupado."
+
+Seus olhos brilham com interesse.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"E você? Você também está se perguntando como 'lidar' comigo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"O Árbitro não vai esperar ociosamente pelo meu próximo passo. Devo atacar antes que ele tenha tempo de se preparar adequadamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"É melhor atacar rápido, antes que ele possa reagir. Mas as vozes não é nada se não for inteligente. Mantenha-se cauteloso ao lidar com o Arconte dos Segredos ou você estará correndo para a morte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Eu cuidei de você muito antes de você se tornar um Arconte. Estamos do mesmo lado - o meu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Posso ganhar tempo com o Árbitro. Mais, o Tribunal não é nada se não for exigente. [url=glossary:tunon]Tunon[/url] não agirá precipitadamente. Em vez, você deve se preocupar com o Arconte dos Segredos a seguir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Isso mesmo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Bom. Sinto-me completamente tranquilo com suas palavras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Você sempre tem que fazer do seu jeito. Multar, estamos no seu. A questão é que as vozes são aquelas com as quais você deve se preocupar a seguir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Direita." Ele brinca com uma adaga de dois gumes, sacudindo-a ociosamente e rolando-a entre os dedos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Faça o que for preciso."
+
+Enquanto ele penetra perfeitamente nas sombras, sua voz permanece com você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Falaremos sobre isso mais tarde. A questão é que as vozes são aquelas com as quais você deve se preocupar a seguir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"Você sempre tem que fazer do seu jeito. Multar, estamos no seu. A questão é que o Arconte da Guerra é o próximo com quem você deve se preocupar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Falaremos sobre isso mais tarde. A questão é que o Arconte da Guerra é o próximo com quem você deve se preocupar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"É melhor atacar rápido, antes que ele possa reagir. Mas Ashe não é nada se não for defensável. Mantenha-se cauteloso ao lidar com o Arconte da Guerra ou você estará correndo para a morte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Agora não há um Arconte nos Tiers que não esteja considerando a melhor forma de... lidar com você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Você sempre tem que fazer do seu jeito. Multar, estamos no seu. A questão é que eu não sou o Arconte com o qual você deveria se preocupar a seguir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Falaremos sobre isso mais tarde. A questão é que eu não sou o Arconte com o qual você deveria se preocupar a seguir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Se eles vão me atacar, então eu deveria lidar com o outro Arcontes primeiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Você deve se concentrar primeiro no Arcontes de Guerra e Segredos. Se você não pode fazê-los jurar para você - acabe com eles. A não ser que, claro, você quer ser derrubado pelo poder combinado de seus exércitos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"Uma palavra de advertência. Enfrente o juiz neste momento, e não terei escolha a não ser lutar com você. Não force minha mão. Prefiro ver você sobreviver."
+
+Ele acena uma vez para você antes de se infiltrar completamente na escuridão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Qual Arconte devo me preocupar com o próximo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Olhe para você - a surpresa de uma vida..." 
+
+Ele engasga, se afogando enquanto seus pulmões se enchem de sangue. A luz em seus olhos diminui enquanto suas pupilas penetram na escuridão, expandindo-se para preencher todos os seus olhos. Um olhar de significado passa entre vocês, os dedos dele cavando o chão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Acha que me ganhou como sua lâmina? Eu posso ver que você derrotou o Arcontes de Guerra e Segredos - nada fácil. Mas você está pronto para se opor ao Adjudicator? O Senhor Supremo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Eu gosto de você, mas não tanto que eu não apunhalaria você pelas costas." Sua voz deriva atrás de você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Você me verá em seguida com o Árbitro. Esteja pronto para empunhar sua lâmina."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Você pode cortar minha coleira?"
+
+Palma levantada, ele estende a lâmina.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Não sei. Talvez eu devesse liderar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Mas eu gosto de pensar que temos um entendimento, então eu disse ao Árbitro I que queria observar você por um tempo primeiro. Durante o qual, ajudei você a se tornar mais difícil de matar. Ajudou você a se tornar um Arconte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Se ele não concordar com você, o problema é seu para resolver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Você derrotou os Arcontes mas [url=glossary:kyros]Kyros[/url]' os exércitos do norte até agora marcham para o Camadas. Não há nada que você possa fazer..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Não morra facilmente. Não vai ficar bom para mim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Poucos podem andar como nós na escuridão. Poucos conseguem manter sua sanidade em um estado de noite eterna."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Porque você provou que pode, eu lhe darei isso - o testemunho escrito de um [url=glossary:sage]Sábio[/url] em testemunha na [url=glossary:edict]Edital[/url] de A noite cai proclamação vários séculos atrás. Descubra como lançá-lo, e nessa região seremos imparáveis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Poucos podem andar como nós na escuridão. Poucos conseguem manter sua sanidade em um estado de noite eterna."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Porque você provou que pode, eu lhe darei isso - o testemunho escrito de um [url=glossary:sage]Sábio[/url] em testemunha na [url=glossary:edict]Edital[/url] de A noite cai proclamação vários séculos atrás. Descubra como lançá-lo, e nessa região seremos imparáveis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Poucos podem andar como nós na escuridão. Poucos conseguem manter sua sanidade em um estado de noite eterna."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Porque você provou que pode, eu lhe darei isso - o testemunho escrito de um [url=glossary:sage]Sábio[/url] em testemunha na [url=glossary:edict]Edital[/url] de A noite cai proclamação vários séculos atrás. Descubra como lançá-lo, e nessa região seremos imparáveis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Poucos podem andar como nós na escuridão. Poucos conseguem manter sua sanidade em um estado de noite eterna."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Porque você provou que pode, eu lhe darei isso - o testemunho escrito de um [url=glossary:sage]Sábio[/url] em testemunha na [url=glossary:edict]Edital[/url] de A noite cai proclamação vários séculos atrás. Descubra como lançá-lo, e nessa região seremos imparáveis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Com um assobio suave, gavinhas finas se desenrolam da lâmina curva. Eles mordem você, cortando rapidamente uma marca afiada enquanto a adaga se dissolve na palma da sua mão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Agora a sombra caça a sombra. Mas a Mulher-Besta garras podem rasgar até a escuridão. Pode fazer as sombras sangrarem e uivar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Nó de script 94</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Vai matar-mutilar-abater! Vai rasgar e devorar Arconte da escuridão por Alfa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Nós vamos, aprendi com os melhores."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Obrigado, mas não é como matar um Arconte é tão difícil assim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Por essa linha de pensamento, você também não seria tão difícil de matar. Então pare de ser um espertinho e ouça."
+
+Suas palavras são mordazes, mas um sorriso torto em seus lábios, desmentindo sua diversão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Se você quiser sobreviver, precisará ir atrás do Arconte dos Segredos a seguir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Se você quiser sobreviver, precisará ir atrás do Arconte de Guerra a seguir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Se você quiser sobreviver, você deve se concentrar primeiro no Arcontes de Guerra e Segredos. Se você não pode fazê-los jurar para você - acabe com eles. A não ser que, claro, você quer ser derrubado pelo poder combinado de seus exércitos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Não pense que não reconheço a lisonja quando a ouço, garoto. Mas você está certo. Eu tentei o meu melhor para transmitir a você o melhor do que eu sei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Eu fiz o que tinha que fazer. Não há mais nada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Ele morreu gritando de agonia. Foi muito foda. Até para mim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Você vai me desculpar se eu não quiser falar sobre os detalhes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Guarde seus segredos se é isso que você quer. Temos assuntos mais importantes para discutir - como você vai sobreviver aos outros Arcontes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Essa é a coisa mais interessante que você disse o dia todo. Quando tudo isso acabar, se nós dois ainda estivermos vivos e formos capazes de falar, vou pedir mais detalhes e você vai me contar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Você é muito nobre. E [url=glossary:kyros]Kyros[/url] tem o temperamento sereno de um bebê lactente." Um sorriso divide seu rosto sério.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Então estou curioso para saber os detalhes. Como você derrubou um verdadeiro gênio como o Arconte dos Segredos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Então estou curioso para saber os detalhes. Como você derrubou uma potência como a Arconte de Guerra?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Mas primeiro temos assuntos mais importantes para discutir - como você vai sobreviver aos outros Arcontes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Certo, não foi uma tarefa fácil. Que tal um pouco de reconhecimento, aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Você nunca torna isso fácil. Olhar, eu não estaria oferecendo minha amizade - e eu certamente não estaria oferecendo matar por você - se eu não achasse que você era minha melhor chance contra [url=glossary:kyros]Kyros[/url]. Você matou não um, mas dois Arcontes. Se isso não é promissor, não sei o que é." Ele mostra os dentes por trás de um sorriso brincalhão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Eu não ofereço minha lealdade facilmente. Você vai aceitar ou não?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>[Ataque] "Não. Acho que gostaria mais de matá-lo do que vê-lo me servir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Sério? Depois de tudo, é assim que você quer jogar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "Garoto, o que você quer que eu diga? Suae claramente o Arconte mais difícil do mundo. É por isso que estou disposto a me curvar a você."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

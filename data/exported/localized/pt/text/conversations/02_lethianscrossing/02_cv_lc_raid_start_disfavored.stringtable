@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\02_cv_lc_raid_start_disfavored</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Fatebinder! Precisamos de sua ajuda!" O escudo de pedra corre, suas palavras pontuadas por sua respiração difícil. "Os [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] estão atacando [url=glossary:lethian's crossing]A travessia de Lethian[/url], liderados por aquela cadela, Ring-Dropper Ceratha!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>[Ataque ambos os grupos] "Na verdade eu acho que esta é uma ótima oportunidade para tomar [url=glossary:lethian's crossing]A travessia de Lethian[/url] para mim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[Ataque o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url]] "Vamos cuide desses vagabundos órfãos!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Honestamente, vocês são incapazes de fazer qualquer coisa sem minha ajuda? O que você me dará se eu fizer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Vou morrer antes de deixar isso acontecer!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Ela parece chocada e gagueja sua resposta, "W... vamos garantir que você seja devidamente compensado, Fatebinder! Mas se você não ajudar agora, não haverá uma cidade para salvar!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Vitara está tentando manter a linha. Eles estão no centro da cidade, perto do rio. Corra antes que fiquemos sobrecarregados!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Para levantar uma lâmina contra meus próprios compatriotas... [url=glossary:kyros]Kyros[/url] me perdoe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Vamos acabar com esses tolos sem país. Vamos emprestar nossa força para a glória do Norte!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>[Intimidar/Atacar os dois grupos] "Se você quiser deixar esta cidade vivo, vá agora. Vou eliminar todos vocês."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>O escudo de pedra dá um passo para trás. "Leva tanto no [url=glossary:disfavored]Desfavorecido[/url] quanto na Irmandade?" Ela dá mais um passo. "Já ouvi falar de você - e você provavelmente vencerá essa luta. Estou fora daqui!" Ela se vira e foge de você.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

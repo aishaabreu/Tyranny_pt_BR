@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\05_cairnplains\fq_rb_qst_riseoftheearthshakers</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>A Ascensão do Tremedores de terra</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Viajar para Gulfglow Oldwalls</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Fale com Manjericão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Fale com Red-Fang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Mate todos os Homens-fera.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Sobreviva ao [url=glossary:stonestalkers]Perseguidores de Pedras[/url]' Rito de Selvageria e Pedra.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Voltar para Vermelho-Fang.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Fale com Manjericão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Fale com Manjericão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Fale com Manjericão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Isadora pediu para você recuperar o Tremedores de terra de Gulfglow Oldwalls junto com três fragmentos de Azurelith.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Viaje para Gulfglow Oldwalls em busca de fragmentos de Azurelith para o ritual Earthshaker.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Fale com Basilon em Gulfglow Oldwalls para obter uma atualização de status sobre a situação atual do Tremedores de terra'.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Faça o seu caminho através do Gulfglow e siga para o Pináculo da Aurora. Encontre-se com o [url=glossary:stonestalker]Perseguidor de Pedras[/url] Red-Fang dentro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Você ligou o Homens-fera e deve matar todos eles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Sobreviva aos [url=glossary:stonestalker]Perseguidor de Pedras[/url]'s Rito de Selvageria e Pedra para ganhar uma classificação respeitada dentro da tribo. Encontre seus oponentes no Gulfglow Oldwalls, em um dos platôs rochosos perto do Pináculo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Retorne para Presa Vermelha no Pilar do Céu de Gulfglow Oldwalls e deixe-a saber que você ganhou um lugar dentro da tribo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText>Informar Basilon que o [url=glossary:stonestalkers]Perseguidores de Pedras[/url] permitirá que seu Tremedores de terra vá embora com vida, desde que levem apenas os cristais que já reuniram e prometam nunca mais voltar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10016</ID>
+      <DefaultText>Fale com Basilon em Gulfglow Oldwalls e diga a ele que os Beastmen não são mais uma ameaça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10020</ID>
+      <DefaultText>Informar Basilon que o [url=glossary:stonestalkers]Perseguidores de Pedras[/url] permitirá que seu Tremedores de terra vá embora com vida, desde que levem apenas os cristais que já reuniram e prometam nunca mais voltar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você matou todos os Homens-Besta em Gulfglow Oldwalls e acabou com a ameaça ao Tremedores de terra. Os sacudidores de terra poderá continuar coletando cristais sem mais perigo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você resolveu o conflito entre o [url=glossary:stonestalkers]Perseguidores de Pedras[/url] e o Earthshakers em Gulfglow Oldwalls pacificamente, embora o Tremedores de terra agora deva deixar a área.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>A oportunidade de resolver esta tarefa passou.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

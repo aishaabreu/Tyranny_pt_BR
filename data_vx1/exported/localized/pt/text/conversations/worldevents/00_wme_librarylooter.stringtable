@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\worldevents\00_wme_librarylooter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Uma mulher corpulenta em um avental manchado de sujeira acena para você enquanto seus caminhos se cruzam perto das ruínas de uma cidade sem nome nas pedras de crack do antigo Azure. Ela acena animadamente, quase pulando de um pé para o outro. "Você," ela grita, "parece uma viajante do MEIO!" Sua voz ecoa pela fenda abissal entre vocês.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Aproxime-se dela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Evite ela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Você passa sem muita interação, deixando de lado as tentativas dela de conversar. Enquanto você se afasta, ela continua na direção oposta, olhando para baixo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Olhos verde-oliva olham para você acima de um nariz de botão e bochechas com covinhas enquanto ela animadamente informa sobre os raros e potentes textos secretos que ela tem para oferecer... por um preço.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Examinar suas mercadorias.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Interrogue-a.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Condená-la.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Deixe-a.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Ela bate palmas animadamente e começa a recitar os diversos pergaminhos que ela coletou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Você pergunta a ela como ela descobriu tais segredos, e ela admite que</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>À conversa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Você imediatamente a informa que ela está violando as disposições Soberano contra a posse de conhecimento proibido. Ela começa a gaguejar uma desculpa, mas você vê seus dedos formando sigilos experientes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Execute-a.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Poupe-a.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Você a ataca antes que ela tenha a oportunidade de terminar seu feitiço. O primeiro golpe arruína suas mãos, e ela grita, segurando os apêndices mutilados contra o peito. Seu segundo golpe acaba com a vida dela. 
+
+Você vasculha as vestes dela, descobrindo um pequeno pacote de pergaminho. É possível que o mago tenha escondido mais nas proximidades, mas se houver alguma verdade nessa suposição, ele morreu com ela.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Você garante a ela que ela não está em perigo de sua parte, apesar de seu pronunciamento, e ela se acalma, as mãos ainda livres para formar feitiços se for necessário.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Deixe-a.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Ela agradece sua clemência e oferece alguns pergaminhos empoeirados e desgastados por sua misericórdia.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\00_recruits\00_cv_library_missions_velos</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>10</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Minhas desculpas Vinculador do Destino, não consegui fazer nada desde que o Pináculo passou por manutenção, volte mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Velos faz uma careta e contorce o rosto em um nó apertado. "Sim, era assim que costumava ser chamado antes de [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] cair sobre todos nós, levando milhares de anos de conhecimento e reduzindo-o a cinzas. " Ele rapidamente recupera a compostura. "Minhas desculpas Vinculador do Destino, a ferida ainda está fresca para muitos de nós, por favor, deixe-me ser útil a você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"O que você fez para mim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Deixar.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Velos aperta os olhos para você, como se quisesse farejar algum motivo oculto, mas não encontra nenhum. "Você ainda o chama pelo nome antigo. Hoje em dia, a maioria se refere a ele como o [url=glossary:burning library]Biblioteca em chamas[/url], ou o monte de merda em chamas." 
+
+Sua postura está visivelmente desleixada. "Sim, eu tive muitos colegas e mentores muito mais acadêmicos sobre o assunto da palavra escrita e suas muitas formas do que eu jamais poderia entender." Seu olhar vagueia por você, escapando para alguma memória distante. "Perdemos muitos bons pergaminhos quando o [url=glossary:edict]Edital[/url] caiu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Saudações, Vinculador do Destino. Você precisa de algo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Deixe-me mostrar a você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Não tenho nada para você no momento. Volte mais tarde."
+
+[Recrutas podem gerar itens para você enquanto você ganha experiência ao se aventurar no mundo.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>O sábio examina um pergaminho, observando cada detalhe de sua obra. "Você sabia que existem sete maneiras de escrever fogo, mas apenas duas para água?" Ele continua examinando o pergaminho sem o menor sinal de que esperava uma resposta. "Será que o fogo tem mais significado em nossa era?" Há uma pequena pausa antes que ele perceba que você realmente se aproximou dele para alguma coisa. "Oh, minhas desculpas Vinculador do Destino, eu posso ser levado para um passeio pelos meus próprios pensamentos. Tenho certeza de que você precisa de algo de mim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Você parece bastante versado no idioma comum, você estudou no [url=glossary:vellum citadel]Cidadela de Velino[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

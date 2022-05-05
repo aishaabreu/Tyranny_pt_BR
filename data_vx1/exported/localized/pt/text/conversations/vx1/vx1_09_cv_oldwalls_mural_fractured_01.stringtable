@@ -1,0 +1,804 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\vx1\vx1_09_cv_oldwalls_mural_fractured_01</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>158</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Reef-Talon fica em silêncio solene, observando a parede manchada de tinta com uma intensidade normalmente reservada para presas em potencial. Próximo, Lexeme rabisca furiosamente com caneta e pergaminho na mão, balançando a cabeça ocasionalmente para manter seu foco minguante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>[url=glossary:sage]Sábio[/url] para de rabiscar. "Recife-Talon infelizmente pode estar certo." Seu tom fica cada vez mais amargo enquanto ela fala. "Seu toque, é claro, me despojou de todas as facilidades mágicas, e o Maldito notoriamente demônio por todas as coisas mágicas. Quem pode dizer que seu mural não é um testemunho condenatório sobre sua espécie e seu papel no nascimento dessas abominações?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>[Examine a Mulher-Besta.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Examine as figuras agachadas.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>[Deixar.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>As espirais coloridas que saem da ferida da mulher-fera parecem um pouco estilizadas demais para serem simplesmente sangue e vísceras, e detalhes como olhos e garras nas espirais sugerem que as espirais coloridas são Maldito. Se a Mulher-Besta está se rasgando ou o Maldito está explodindo dentro dela parece aberto à interpretação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Vários Homens-Besta foram dispostos em uma linha, as cabeças dobradas em um ângulo para baixo, agachadas de quatro. Em comparação com o Mulher-Besta apresentado com destaque na pintura, as figuras restantes foram desenhadas com muito menos detalhes - suas características faciais foram deixadas totalmente em branco, complicando sua interpretação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Parece que o Mulher-Besta está liberando o Maldito." Ela folheia um diário e faz uma pausa momentânea em uma passagem. "Eu pensei que isso parecia estranhamente familiar. Você sabia que os Homens-Besta têm o hábito de consumir amigos e inimigos ao morrer? Não que tenha sobrado muito de Maldito depois de uma luta, mas tenho observado Woundkin ocasionalmente tomando a essência de Flagelo. A julgar por suas expressões faciais, foi uma decisão muitas vezes lamentada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Não! Sinta apenas ódio pelas Bestas do Flagelo! Precisa rasgar-rasgar-rasgar Oldwalls-presa queima forte em todos os Homens-fera. A pintura não faz sentido. Como pode a mulher-fera dá à luz Maldito se caçar Maldito ao mesmo tempo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Examinar o Bane.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Com certeza parece que este Homem-Besta está morrendo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Talvez isso seja mais parecido com um display, como se o Homem-Besta estivesse mostrando algo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Isso parece suicídio. Faça Homens-Besta nunca... fez algo assim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Não. A Mulher-Besta sempre luta até o fim. Quando a velha podridão se instalar, talvez busque a morte em batalha para aliviar o fardo da tribo, mas nunca reivindique a própria vida - esse é o jeito dos humanos moles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Hmm. Não posso dizer que essa imagem lembre qualquer coisa que eu tenha visto do Woundkin, ou qualquer registro que eu tenha encontrado sobre o assunto. Homens-fera tendem a cair lutando - a autodestruição é profundamente desaprovada em sua espécie."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Um zumbido contemplativo emana de seu peito. "Que ligante do destino diz que é possível. Mulher-Fera Pintada está diante de outros como [url=glossary:prima]Prima[/url] da tribo. Poderoso. Mesmo com companheiros de matilha, Reef-Talon deve mostrar as presas e ficar de pé para quietos filhotes insolentes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"O estudioso em mim hesita em oferecer uma interpretação muito segura, mas é difícil ver de outra maneira... a menos que os Homens-Besta possam passar sem suas costelas? Eu não acho que eles são tão fortes..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Claro, existem muitas maneiras de interpretar essas vagas relíquias da história. O que você vê, Fatebinder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"É postura de [url=glossary:bolverk]Bolverk[/url] submetendo-se a Alfa. Bestas Pintadas peça para pintar Mulher-Besta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Há muito poucos detalhes para ter certeza disso. Essas figuras podem estar se encolhendo de medo - essa certamente seria minha reação se monstros começassem a sair de suas entranhas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>A Mulher-Fera olha o pintado Bestas com cautela. "Recife-Talon pensa que guerreiros pintados se abaixam para atacar. Pounce-leap-lunge, rápido-rápido como Flagelo-bestas derramam de morrer [url=glossary:prima]Prima[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Isso se parece com como o homem-fera se submete a um Alfa. Você está falando com o [url=glossary:prima]Prima[/url] do [url=glossary:stonestalkers]Perseguidores de Pedras[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Não está claro o que os Homens-fera estão fazendo. Eles podem facilmente estar respondendo com agressividade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Veja como eles são desenhados. Os Homens-Besta não estão mostrando suas presas ou garras. Eles não estão sendo agressivos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Isso parece mais provável de ser submissão por parte do Homens-fera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Não está realmente claro o que isso pretende transmitir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Isso parece muito ambíguo para ter certeza de alguma coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Seus olhos azul-gelo observam você com interesse renovado. Ela caminha em sua direção e pressiona o focinho úmido em seu pescoço, respirando seu cheiro com cada rapé curioso. "Recife-Talon pode sentir o cheiro da confiança no Fatebinder suor junto com o sangue de muitos inimigos caídos. Bom perfume. Recife-Talon acredita na afirmação humana e dará o devido peso às palavras de [url=glossary:prima]Prima[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Uma observação interessante - vou anotá-la junto com o resto das minhas descobertas." Ela franze os lábios no meio do rabisco. "As intenções dos artistas Homens-fera falecidos são difíceis de esclarecer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Mulher-Fera não hesitaria em matar Oldwalls-feras ou mãe que dá vida a criaturas das trevas. Mataria mesmo se Mulher-Besta é Woundkin companheiro de matilha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Um palpite razoável, embora eu não tenha certeza de que isso faça alguma coisa para acalmar seus medos. Esta pintura ainda pode ser um aviso sobre quais são os perigos de Homens-fera específicos, afinal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Sim. Recife-Talon deve considerar o perigo. A pintura antiga pode falar de um destino sombrio especial para Homens-fera." Ela olha para as mãos, virando-as lentamente. "Para mulher-fera com toque corruptor, como Recife-Talon."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Conjecturar é uma tática inerentemente falha, mas devemos pelo menos avançar algumas hipóteses se quisermos avançar em nossa investigação. Mas você está certo, não podemos saber com certeza o que alguém pretendia com essas imagens. E é preciso alguma arrogância para supor que podemos extrair seu significado apenas da inferência."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Esfregando tinta verde em sua mão, Lexeme suspira com um aceno de cabeça. "Uma afirmação verdadeira. A especulação leva a águas perigosas... embora a falta de curiosidade não nos leve a lugar nenhum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Você escova uma camada de poeira acumulada na parede para observar melhor esta seção. As criaturas que emergem da caixa torácica da mulher-fera parecem estar voando para fora e para longe, em várias direções. Listras de tinta roxa, azul e vermelha foram usadas para formar gavinhas finas, com dicas de garras embutidas nas formas amorfas. Após um exame mais detalhado, as garras parecem estar quebradas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Formas estranhas devem ser Oldwalls-bestas. A pintura deve ser um aviso da tribo passada - não vejo outra razão para confundir a gravura."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Talvez seja uma expressão de emoção e não algo literal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"As cores que vemos aqui não podem ser coincidência. Azul para Wisps, roxo para Malícias, vermelho para Flagelos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Olhar, as garras e os dentes parecem quebrados. Isso pode sugerir que o Maldito perdeu seu poder de alguma forma."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"É difícil dizer se esta é uma representação literal ou abstrata. Não adianta adivinhar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Embora eu não tenha [url=glossary:sage]Sábio[/url] notas de Quillborne sobre o assunto, seu trabalho notou muito poucos exemplos de expressão abstrata em Homens-fera pinturas. Claro, não sabemos ao certo que isso foi feito por Bestas, mas é uma pintura alta para um humano gerenciar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Mulher-sem-sono sabe pouco. Sim, os Homens-Besta pintam em negrito, pintam direto, mas podem ser sutis na caça e sutis de outras maneiras também."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Ela acena com a cabeça por alguns segundos antes de sacudir-se para fora do estupor momentâneo. "Sim! Concordo. O fato de essas cores diferentes terem sido incluídas de maneira tão específica implica que elas foram importantes. É improvável que essas sejam as três cores de pigmento espalhadas por aí..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Ah... observação inteligente... Eu sei que me sentiria um pouco melhor em dar à luz um Maldito inofensivo do que um monstro de tamanho normal. Se eu tivesse que escolher."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Ela se senta de cócoras, observando o mural com uma curiosa inclinação de cabeça. "Vinculador do Destino palavras são verdadeiras. Todos os guerreiros da ilha devem ter presas e garras fortes para defender a tribo. Um [url=glossary:prima]Prima[/url] com presas quebradas não pode liderar guerreiros de clã. A Besta do Flagelo com garras quebradas é uma presa fácil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Pintura ancestral mostra momento importante no Oldwalls passado. Mesmo o mais forte [url=glossary:prima]Prima[/url] não pode rasgar o peito e sobreviver. Se Flagelo-bestas podem explodir de da mulher-fera baú... talvez ainda mais bruto de sombras escuras surgirá dos ossos de Recife-Talon quando Mulher-Besta estiver morto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"A imagem não é tranquilizadora, é verdade, mas não vamos tirar conclusões definitivas ainda. Faça humor e finja que estou certo, e esses murais são como pergaminhos - símbolos que ensinam. Estar aqui no Ferimento desbloqueou algo em você, e se for apenas o começo do seu poder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>Um choque repentino sacode o chão quando Recife-Talon o marca em desaprovação. "Não. Recife-Talon não pode ignorar portentos ancestrais. A força mística já corrompeu Woundkin. Corrompeu Lexeme. A Mulher-Besta não correrá o risco de dar à luz terrores sombrios. Deve primeiro saber que a ruminação profunda não trará danos a Ferimento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Há mais do que esta pintura para nos informar, há outras nestas profundezas. Reef-Talon me ouviu tagarelar sobre o que vi, mas agora ouvimos o Vinculador do Destino. [Player Name], explore as outras pinturas e conte-nos quais significados e presságios você infere. Reef-Talon, se você ouvir o Vinculador do Destino, essa será a última vez que pressionaremos sobre esse assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>O [url=glossary:sage]Sábio[/url] balança levemente em seus pés, alheio ao seu entorno. O som de seus passos desperta sua atenção. "Oh, Vinculador do Destino... você estudou os murais restantes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Eu tenho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Ainda não. Voltarei em breve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"Já dei uma boa olhada neles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>[Deixar] "Voltarei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Não tenho tempo para resolver isso agora. Talvez mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>Ela bufa impaciente. "Falar agora, rápido-rápido. Reef-Talon não quer mais olhar para a parede suja. O que tem Fatebinder visto em paredes pintadas antigas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>[Mentira] "Já vi todos, mas nem todos estavam intactos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>[Mentira] "Já vi todos eles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"Vi uma pintura que mostrava um corte transversal do Oldwalls, com muitas figuras diferentes entrando nela."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Vi uma representação do Oldwalls sendo retido por dois Homens-fera."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Eu vi uma parede com uma infinidade de impressões de mãos diferentes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Mulher-Fera não se importa com foto. Que significado o Fatebinder viu na mensagem dos ancestrais?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"As Velhas Muralhas já teve muitos habitantes diferentes, mas apenas uma tribo deles sobreviveu. Seus ancestrais provavelmente eram dessa tribo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"As Velhas Muralhas provavelmente transformou seus habitantes originais em Maldito. Pode ser que alguém aqui encontre o mesmo destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Inúmeras tribos chegaram ao Oldwalls, todas elas encontraram a morte com o Maldito à espreita abaixo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Os olhos da [url=glossary:sage]Sábio[/url] se arregalam, a notícia concedendo-lhe uma onda de energia. "Extraordinário, se for verdade. Isso também significaria que os ancestrais de Recife-Talon tiveram que deixar esses Oldwalls em algum momento para vagar e se tornar o Mantaborn. Talvez seja uma espécie de regresso a casa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"As palavras de Fatebinder não mudam nada. Maldito sempre se esconde no escuro, não é novidade. Recife-Talon deve saber se Maldito pode viver dentro do sangue e manchar todos os Recife-Talon toques."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>A Mulher-Fera é incapaz de abafar um gemido ansioso. "Então Fatebinder concorda. A corrupção é o que Recife-Talon temia. Ainda, Mulher-Fera prefere saber o que Vinculador do Destino sabe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Reef-Talon não entende. O que significa pintura estranha?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Beastmen foram feitos para lutar Maldito. Quaisquer poderes que você ganhou podem ser feitos para fortalecer isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"Os Homens-Besta há muito tempo são administradores do Oldwalls, e eles estão enfrentando o Bane há muito tempo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Parece sugerir que o Maldito e o Bestas são ambos habitantes do Oldwalls, cada um feito de magias semelhantes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Verdadeiramente? Isso é decepcionante." Ela leva a mão à têmpora e faz uma careta. "Eu poderia jurar que havia mais espécimes intactos, mas minha memória está tão instável quanto o vento hoje em dia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Sim, eu me lembro daquele de quem você fala!" Ela tira um diário de seus bolsos e rapidamente passa para uma determinada página. "Isso é certo - um dos Homens-fera parecia ansioso. Com fome, pode-se dizer, como se fosse uma caçada. Os redemoinhos coloridos naquele mural devem ter sido sua maneira de retratar o Maldito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Caça Maldito IS bom. Reef-Talon está cercado de dúvidas e enigmas em Oldwalls. Filhotes insones zurram e se escondem. Mágicas corruptoras fluem pelas mãos da mulher-fera. Mas Recife-Talon não questiona o desejo de matar Flagelo-bestas. O desejo é claro e bom como a lua cheia durante a longa noite do oceano."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Seus olhos traçam a parede próxima e seguem sua ascensão na escuridão. "Mantaborn companheiros de clã há muito contam histórias de ancestrais tribais que construíram o Oldwalls. Se a história é verdadeira não diz Recife-Talon se a força mística está corrompendo o mal que deve ser interrompido. A natureza dos poderes de reparação é tudo o que Mulher-Besta procura."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>[url=glossary:sage]Sábio[/url] recupera um diário de seus bolsos e rapidamente o folheia. "Hmm... bom, eu fiz anotações sobre isso. Sua teoria potencialmente corresponde aos detalhes. Os Homens-Besta foram desenhados com Maldito sobre eles - sugere uma conexão misteriosa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Então... A força mística de Reef-Talon é a mesma coisa que Scourge-beast? E Scourge-Beast é a mesma coisa que Beastwoman? Se o que Vinculador do Destino diz for verdade..." Reef-Talon fica em silêncio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Impressões... sim, isso soa familiar. Diga-me, como você interpretou tudo isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Muitas das impressões foram feitas com magia, não com tinta. Homens-fera antigos exerciam poderes incríveis que provavelmente fazem seus ritos de conserto parecerem triviais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"As impressões provavelmente mostravam uma grande variedade de Homens-fera guerreiros e místicos que patrulhavam esses Oldwalls ao longo dos tempos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Muitas das estampas foram formadas com essência extraída do Maldito. Aqueles que caçavam Maldito foram transformados por suas presas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Boa observação. A menos que um flagelo cortou uma parede e deixou uma marca da mesma forma que uma garra Homem-Besta... mas quais são as chances disso? Parece mais provavelmente a magia do Maldito está se espalhando pelas mãos dos místicos que tocaram aquela parede."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>A Mulher-Fera caminha pelo mural, agitado pelas implicações de sua discussão. "Muitos enigmas! Eram Homens-Besta ancestrais corrompidos em Bestas do Flagelo? Ou talvez Homens-fera meramente pintou paredes com sangue de Oldwalls inimigos. Fatebinder não retorna com respostas. Apenas dúvida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Minhas notas concordam. Parecia que muitas das impressões foram deixadas por meios mágicos - místicos, o resto por tinta - os guerreiros. Gerações de Bestas deve ter dado certo aqui. Sua presença aqui é, de certa forma, um retorno à tradição."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Mas Reef-Talon é místico demais para ser guerreiro, e perigoso demais para ser místico... é o terceiro tipo de Fera - pária corrupta!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Eu pensei que estava apenas com privação de sono, mas me lembro de ver algumas gravuras que foram queimadas na parede sem pigmento ou tinta. Sua teoria tem mérito, o Bestas desses Oldwalls tinha magia suficiente para deformar pedra. Quem sabe que magias poderosas eles deixaram para seus filhotes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Olhar." Reef-Talon levanta um pé e abre os dedos dos pés, revelando a teia grossa entre eles. "Todos os Homens-Besta saiba que cada tribo tem características diferentes para ajudar a reivindicar as terras escolhidas. O clã Shadowhunter tem pelo escuro como a meia-noite. Bom para furtividade e batalha covarde. Mantaborn tem teias nos dedos dos pés para caça rápida em alto mar." Ela levanta as mãos, as almofadas voltadas para cima. "Talvez poder dos ritos de conserto veio para ajudar Woundkin domar Oldwallsferas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"As palavras de Fatebinder são interessantes. Histórias e mensagens antigas têm muitas camadas de significado, como aromas antigos liberados da terra recém-cavada." Reef-Talon volta sua atenção para o Homem-Besta e Bane imortalizado na parede diante de você. "Mas o que Fatebinder tem a dizer sobre Mulher-Besta dar à luz as Bestas do Flagelo? Reef-Talon só vê a criação de horror sombrio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"Esta mulher-fera está mostrando seu domínio sobre Bolverks. E não é uma autodestruição literal, é o alívio da raiva de um guerreiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Bane é o inimigo principal Homens-fera', sempre será. Esta é uma expressão de raiva pela batalha sem fim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"É assim que parece. Os Homens-Besta e Bane são extraídas das mesmas forças místicas e estão inextricavelmente ligadas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Um estrondo pensativo emana do peito maciço da mulher-fera. "Vinculador do Destino vê com Alfa olhos. Tem Fatebinder sentiu os pulmões pesados depois de rasgar Flagelo-besta com garras? Recife-Talon... quer acreditar em Fatebinder palavras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Mulher-Fera não tem certeza das palavras humanas. Bestas do Flagelo devem ser vitais para pinturas estranhas ou ancestrais não as colocariam na parede." Ela exala bruscamente, provavelmente o equivalente a um suspiro. "Recife-Talon espera que Vinculador do Destino esteja correto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Não!" Ela varre a parede do mural com um golpe poderoso, arrancando pedaços da pedra antiga. "Recife-Talon já corrompeu Ferimento companheiros de matilha com toque envenenado. Se Oldwalls feras podem rastejar da carne dos mortos Mulher-Besta, que horror surgirá do Recife-cadáver de Talon?" O pelo de suas costas estremece visivelmente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Não vale a pena tentar entender melhor sua magia de cura? Eu sei que tudo isso é muito confuso, mas o Ferimento ainda precisa de você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Ela ouve em silêncio, ainda salvo pelo lampejo de chama verde em seus olhos. Devagar, ela balança a cabeça concordando. "Mulher-Besta viu pinturas antigas e não teve esperança. Acreditava que a corrupção Sem dormir era sinal da própria escuridão. Mas os humanos ofereceram novos insights. Reef-Talon não acredita que ritos de conserto possam ser aperfeiçoados, mas... deve tentar, para Ferimento clã." Ela bufa bruscamente, várias vezes em rápida sucessão. "Mulher-Besta MPrecisamos aprender a controlar a força mística. Começará agora e ponderará na presença de paredes pintadas antigas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Ela se move em direção ao agitado Mulher-Besta, colocando a mão em seu ombro musculoso. "Você não deve ceder à dúvida. Suas habilidades não são mais perigosas do que uma lâmina afiada nas mãos de uma criança humana! Não treinado, ele é tão propenso a ferir aqueles que ele pretende proteger quanto seus inimigos. Você deve explorar ainda mais seus talentos para evitar danos, não abandoná-los completamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Após várias horas de meditação silenciosa, a Mulher-Besta levanta-se lentamente. "Recife-Talon terminou a ruminação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Quando Recife-Talon primeiro curou kith ferido, sentiu desespero, medo - mas não desejou mal. Apenas duas opções - Recife-Talon tenta novamente sem medo, ou Recife-Talon desiste para sempre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Uma decisão sábia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Se você dominar sua habilidade de cura, sua tribo nunca vacilará."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>"Já era hora. A ferida precisa de um líder forte, não de um filhote choroso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Eu esperava que isso acontecesse. Você não deve ficar mais neste poço sujo, então. Retorne ao Ferimento e faça sua presença ser conhecida. As pessoas podem temer você, mas isso vai evaporar no momento em que perceberem que você está pronto para assumir o controle de seus poderes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Se o Fatebinder deseja ver força, continue pressionando Recife-Talon!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Wound saberá de [url=glossary:sage]Sábio[/url] chamado Lexeme. Vai voltar e ruminar mais por pinturas antigas. Talvez a força mística possa domar até mesmo a corrupção sem sonhos." 
+
+Ela se vira para você, seus olhos selvagens com uma cor azul-gelo. "Mulher-Besta subirá à superfície e enfrentará Woundkin novamente. Procurará por Vinculador do Destino em áreas de ninhada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Estou decidida." Ela se eleva em toda a sua altura, elevando-se acima do [url=glossary:sage]Sábio[/url] ao seu lado. "Mulher-Besta retornará a Ferimento para ajudar o clã. Terminada a ruminação... as histórias pintadas têm uma visão confusa do passado. Reef-Talon não tentará mais corrupção da força mística."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Não. Reef-Talon mantém a escuridão por dentro, não melhor do que Flagelo-feras que assombram a escuridão profunda. Deve subir mais fundo nas Oldwalls profundezas e ir para longe da antiga tribo."
+
+Ela inclina a cabeça para o teto preto acima e solta um gemido baixo e triste. "Não siga. Reef-Talon irá para onde as abominações sombrias chamam de lar." Sem outra palavra, ela salta para a escuridão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"A verdade das pinturas é desconhecida. Não deixe que eles determinem se você é um perigo - um líder deve decidir por si mesmo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Devo acreditar que sua covardia o impede? Isso é tudo bem se você quiser ser um filhote sorridente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Acredite nas palavras do [url=glossary:prima]Prima[/url] do [url=glossary:stonestalkers]Perseguidores de Pedras[/url] - ignore as pinturas. Nenhum bom líder vive com medo de sua força. Ela o aperfeiçoa, em vez disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"O que você está vendo é um registro histórico que deixa claro que o Bane's inimigo mais odiado é Homens-fera. É disso que o Ferimento precisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"Mulher-Fera não espera por respostas de pinturas antigas!" Ela estufa o peito, mas não consegue disfarçar seu orgulho ferido. "Vinculador do Destino fala a verdade. Reef-Talon deve confiar em seus próprios instintos em vez de buscar orientação em histórias empoeiradas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>A Mulher-Fera fica assustada com seu insulto, mas rapidamente mostra suas presas em resposta. "Reef-Talon não está chorando [url=glossary:bolverk]Bolverk[/url], com medo de mergulhar nas profundezas do oceano. Reef-Talon sobreviveu ao oceano sem fim, matou captores de ferro e liderou a tribo Ferimento como [url=glossary:prima]Prima[/url]! Vinculador do Destino não vai-" Ela se interrompe com uma bufada, calada por um momento. "Vinculador do Destino está... correto. Reef-Talon não se esgueirará em profundidades sombrias como covarde. Se Ferido precisa de ajuda, Beastwoman retornará."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>Ela balança a cabeça, relutantemente. "Vinculador do Destino está correto. Reef-Talon vive para Oldwalls caça às feras. A força mística nubla os pensamentos da mulher-fera com dúvidas, mas caçar Flagelo-feras não. Reef-Talon é o melhor caçador em Ferimento e ainda tem muitas lições para os filhotes da tribo. Matando Oldwalls feras não podem ser coisa ruim, sim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>Seus olhos azuis penetrantes observam você com intenso interesse. "Humano fala como [url=glossary:prima]Prima[/url]. Fala a verdade." Seu peito ronca apreciativamente enquanto ela balança a cabeça. "Caminho para o chefe da Homens-fera matilha começa aqui." Ela bate na pele acima do seio esquerdo. "Recife-Talon deve ter vontade de se tornar mais forte e vencer os medos." A Mulher-Fera olha para as mãos, virando-as. "Vontade retornar para Ferimento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>A Mulher-Fera finalmente quebra seu olhar ansioso. "Viu? Os ancestrais de Oldwalls deixaram avisos terríveis de Homens-fera destino." Ela varre suas garras violentamente contra o mural iminente. "Flagelo-as feras nasceram de Mulher-Besta na pintura! Recife-Talon primeiro temeu o poder corruptor da força mística, mas agora vê que TODOS os Homens-fera podem conter corrupção no fundo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>Um olhar de dor aparece em seu rosto. "Eu não vou me juntar a você, infelizmente. Posso sentir minha mente decaindo a cada momento... em breve tudo isso será apenas uma memória desbotada. Além do mais, as pessoas não vão gostar de ter Sem dormir andando no Ferimento, e minha presença certamente não vai ajudá-los a aceitá-lo. Essa batalha ainda deve ser vencida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>O mural diante de você é de tamanho e detalhes consideráveis, estendendo-se para cobrir uma grande faixa de alvenaria Oldwalls ininterrupta. Nele, uma figura do tipo Mulher-Besta adota uma pose dramática, a cabeça arqueada para trás no meio de um tremendo rugido. As garras da criatura engancharam em suas próprias costelas, rasgando-as. Sangue e vísceras brotam de seu peito, junto com gavinhas coloridas. Na base, muitos espectadores agachados são pintados em tons sombrios.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"A fera está rugindo diante dos espectadores, isso é um aviso ou uma demonstração de vitória?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Talvez esteja sugerindo que o Maldito que você mata se torne parte de você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Nenhuma mulher-fera rasgaria as tripas para agradar a multidão! Loucura - está avisando!" Recife-Talon bate seus primeiros no chão para pontuar seu ponto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Pode ser... explicaria maldição da mesma forma. Flagelo Sujo-bestas contaminam o sangue de Recife-Talon, e assim Recife-O toque de cura de Talon passa a mácula para parentes e amigos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>[Recife Swat-Talon.] "Suficiente de suas lamentações. Como uma miserável autodepreciativa como você se chamava [url=glossary:prima]Prima[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Há também a possibilidade de ela ser uma Arconte. Ninguém lhe ensinou essa magia... por definição estrita, ela está manifestando um poder inato."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Esqueça Lexeme, esta é uma causa perdida. Acho que o único mistério que resta para resolver é se ela tem medo de entender seus próprios poderes, ou é muito estúpida para fazê-lo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>[Olha silenciosamente.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Que possível razão Lexeme tem para te enganar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>[Aceno para Kills-in-Shadow] "Ajuda ela entende."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>Lançando-se com uma passada longa, Mortes-in-Shadow arremessa um golpe com as costas da mão na mandíbula de Recife-Talon. "Chorando filhote vai ouvir! Recife-Talon tem medo do poder? Recife-Talon tem medo de força?" Mortes-in-Shadows cheira o rosnado Recife-Talon. "Engraçado, cheira a Fera, mas fala e age como um filhote humano."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Humanos que NÃO cheiram a Sábios sempre dizem que humanos que cheiram a Sábios nunca são confiáveis! Por que Recife-Talon agora confia em [url=glossary:sage]Sábio[/url] chamado Lexeme? Por quê?!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Não!" A postura de Reef-Talon começa a se inclinar para frente para atacar, mas ela hesita, em vez disso, cai de cócoras. "Mulher-Besta tem medo de prejudicar a ninhada... mas nunca tem medo do próprio poder. Reef-Talon vai... ouvir [url=glossary:sage]Sábio[/url] chamado Lexeme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>Recuando do golpe, ela olha para você através dos dedos esticados em seu rosto. "Recife-Talon está sendo... humano purulento... pode fazer melhor. Deve fazer melhor. Recife-Talon ouvirá [url=glossary:sage]Sábio[/url] chamado Lexeme."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Um Arconte? Você acha que ela é-"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Ela? Suponho que seja possível. Existem bestas arcontes. Existem Arcontes Bestiais? Eu acho que não há nenhum que eu saiba, mas..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Um Arconte Mulher-Besta? Isso é uma coisa que acontece? Eu pensei que eles eram mais do tipo limpando lama em seus focinhos e chamando isso de tipo mágico."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Não é... impossível. Quero dizer, ouvi dizer que o Arconte das Serpentes é uma cobra gigante falante, mas também ouvi dizer que ele se transforma em uma. [url=glossary:sage]Sábio[/url] Quillborne especulou que houve Homens-fera com o dom do 'exarca', por assim dizer, de ter o potencial de ser Arcontes, mas a competição brutal e a falta de treinamento os impediram de fazê-lo para o Crônica."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"Ludico! Postular que um Fera poderia chegar à estatura do Grande General beira a heresia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Mulher-Besta Arconte viveu na tribo Mortes-in-Shadow, era poderoso Caçador da sombra - o segundo mais poderoso de todos Caçadores de Sombras. Os humanos não contam histórias de Mulher-Besta Arconte, mas não significa que Mulher-Besta Arconte não viveu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Tente não confundir o título de Arconte com o fenômeno de ser uma fonte de poder de feitiçaria. O primeiro é concedido por [url=glossary:kyros]Kyros[/url]. O último por... bem, NÃO por [url=glossary:kyros]Kyros[/url]. O Senhor Supremo provavelmente quer que as pessoas pensem que ele tem o poder de elevar Arcontes, mas eu sou a prova de que não está em suas mãos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Isso PODERIA ser o que está acontecendo aqui... algum tipo de talento latente ganhando vida. Acho uma estranha coincidência que aqui é onde tais poderes vêm à luz. Se isso for verdade, mais uma razão para entendermos isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"Basta! Recife-Talon cansa de ser discutido como uma refeição. Se os humanos pensam que Recife-Talon é tão poderoso, Recife-Talon vai ouvir, mas no final provará que os humanos estão errados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>"Tudo bem!" Os olhos de Lexeme se arregalam e por um momento, ela parece totalmente acordada. . Suae vou fingir por um momento que minha compreensão da teoria da magia excede a sua e você vai OUVIR o que temos a dizer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Mas eu... não vamos a lugar nenhum." Lexeme desaba com um suspiro. "Espero que você reconsidere. Precisamos conversar com esse animal teimoso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>"Sempre tentarei novamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>"Mulher-Fera começará com aqueles que já estão presos morrem sem ajuda, mas aprenderão a curar sem fazer Sem dormir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Ah, não sei. Grande, corpulento, peludo. Tem certeza que Ashe NÃO É um Homem-Besta?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>O mural diante de você é de tamanho e detalhes consideráveis, estendendo-se para cobrir uma grande faixa de alvenaria Oldwalls ininterrupta. Nele, uma figura do tipo Mulher-Besta adota uma pose dramática, a cabeça arqueada para trás no meio de um tremendo rugido. As garras da criatura engancharam em suas próprias costelas, rasgando-as. Sangue e vísceras brotam de seu peito, junto com gavinhas coloridas. Na base, muitos espectadores agachados são pintados em tons sombrios.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>"Humanos se queixaram como místicos perdidos em transe sem fim. Reef-Talon não sabe mais nada sobre toque miserável... apenas que Reef-Talon é uma maldição, um perigo para todos."
+
+A enorme Mulher-Besta balança a cabeça, resmungando com descontentamento. Seu olhar continua mudando de você, para Lexeme, e vice-versa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>[Levante a voz.] "Eu não fico tagarelando para me ouvir falar. Estou tentando mostrar-lhe sabedoria, dar-lhe força."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>"É tudo apenas especulação. Até onde você sabe, estamos cheios de mentiras e desorientação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Fatebinder?! Achei que estávamos aqui para iluminar, não para semear dúvidas!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>[Deixar] "Vou dar uma olhada neles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>194</ID>
+      <DefaultText>[Deixar] "Vou procurar os outros."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Já vi alguns deles, talvez não todos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>[Mentira] "Foi tudo o que vi."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

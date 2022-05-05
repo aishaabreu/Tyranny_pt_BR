@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\00_recruits\00_cv_traininggrounds_skilltrainer_verus</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>28</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Manutenção. Volte mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Vinculador do Destino." O Juramento Vinculado acena com a cabeça. "Você traz honra à legião. O que posso fazer por você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Você tem algo para mim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Deixar] "Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>O Juramento Vinculado cruza os braços e fica em silêncio, esperando você falar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Vinculador do Destino." O Juramento Vinculado oferece um sorriso acolhedor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>soldado robusto faz uma saudação imediata, o punho batendo contra o peitoral. "[url=glossary:graven ashe]Cinza esculpida[/url] protege!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>[Saudação] "[url=glossary:graven ashe]Cinza esculpida[/url] protege."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>[Não diga nada.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Eu não poderia estar mais orgulhoso de estar no topo deste Pináculo com um verdadeiro amigo da legião, Vinculador do Destino." Ele olha para o horizonte e respira fundo. "Estou longe de casa há muito tempo, e é bom ver o Norte desse ponto de vista."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Ele lhe dá uma expressão mista e trava os pés juntos. "Claro que eu não deveria esperar que você se envolvesse com a base. As desculpas da minha suposição comprometeram a dignidade do Tribunal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Como você chegou aqui, soldado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Agora que você está aqui, qual é o seu plano?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Continue sem dizer nada.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Sua postura rígida oscila com a incerteza. "Em vez de de conversa fiada, talvez você esteja mais interessado em minhas qualificações? Sou um Juramento e, entre outras coisas, isso significa que sou um escoteiro e caçador distinto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Se você estiver interessado em peles, seria uma honra vasculhar o deserto além do Pináculo e colocar algumas armadilhas. Qualquer coisa que eu traga de volta é sua por direito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Você tem alguma coisa para mim agora?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>[Deixar] "Vou verificar com você mais tarde. Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>[Acene com a cabeça para indicar que você quer alguma coisa.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Deixar]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Ele sorri. "Vou mostrar o que tenho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Ainda não tenho nada comigo, mas me encontre novamente mais tarde, quando tiver a chance de inspecionar minhas armadilhas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Você não é um estranho para a legião. Você já deve saber que cada um de nós está vinculado ao dever, e nenhum desafio está em nosso caminho sem oposição - nenhuma parede, rio, [url=glossary:edict]Edital[/url] ou inimigo nos impedirá de seguir nossas ordens. Nenhum Spire é tão alto que não chegaremos ao topo de alguma forma."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Então, quando [url=glossary:graven ashe]Cinza esculpida[/url] me mandou reportar ao seu Pináculo, eu obedeci. Contra toda a lógica que me diz que ascender é um luxo impossível concedido a muito poucos," ele o favorece com um aceno de cabeça, "Estou aqui. Nem a lógica nem a razão me impediram de seguir Ashe ordens no passado, e eu não estava disposta a deixá-las começar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Isso não responde exatamente à minha pergunta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Ok, seguindo em frente. O que você pode fazer por mim, soldado?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Talvez não, mas é toda a resposta que tenho para dar, implorando seu perdão." Ele acena com a cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Sou um Juramento e, entre outras coisas, isso significa que sou um distinto batedor e caçador. Pretendo fazer o que faço de melhor."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

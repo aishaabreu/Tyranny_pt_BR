@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\vx1\vx1_qst_fatebindersjudgement</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>19</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Julgamento de Fatebinder</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Teleporte para Wellspring Cascade</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Investigue a área</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Matar Jaspos</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Matar Wagstaff</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Mate Jaspos e Wagstaff</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>As tensões dentro de Ferida do Bastardo chegaram a um ponto de ruptura. Se a liderança sobre a Ferida não for decidida em breve, ela provavelmente se despedaçará.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Você tem uma keystone de Recife-Talon que pode ser usada em um teletransportador perto da forja Ferida do Bastardo. O teletransportador o levará para Cascata da Fonte.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Como fonte de água para Ferida do Bastardo vale a pena dar uma olhada antes que todos cheguem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>Irritado com a decisão que você tomou em relação à liderança de Ferida do Bastardo, Jaspos o atacou. Mate ele.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Irritado com a decisão que você tomou em relação à liderança de Ferida do Bastardo, Wagstaff o atacou. Mate ele.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Irritado com a decisão que você tomou em relação à liderança de Ferida do Bastardo, Jaspos e Wagstaff o atacou. Mate eles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você coloca Jaspos responsável por Ferida do Bastardo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>Você coloca Wagstaff responsável por Ferida do Bastardo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Você coloca Recife-Talon encarregado de Ferida do Bastardo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30003</ID>
+      <DefaultText>Você se encarrega de Ferida do Bastardo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30004</ID>
+      <DefaultText>Você se colocou no comando de Ferida do Bastardo e nomeou Jaspos como seu vice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30005</ID>
+      <DefaultText>Você se colocou no comando de Ferida do Bastardo e nomeou Wagstaff como seu vice.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30006</ID>
+      <DefaultText>Você se colocou no comando de Ferida do Bastardo e nomeou Recife-Talon como seu vice.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

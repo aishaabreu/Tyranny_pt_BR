@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\worldevents\00_wme_randomrebels02</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>44</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Você para de repente quando um dardo se finca no chão aos seus pés. Diversos [url=glossary:unbroken]ininterrupto[/url] soldados aparentemente se materializam do nada na estrada à frente, machados erguidos e dardos desembainhados. A areia se agarra à armadura de bronze manchada e a poeira se esconde nas dobras do tecido puído.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Você vê os soldados marchando em formação na estrada à sua frente. Eles não parecem abertamente agressivos, mas à medida que se aproximam, você percebe que eles estão voando no padrão de Velho robusto. Ao notar você, o líder levanta a mão enluvada em punho e o grupo para. O porta-estandarte afunda sua bandeira no solo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Você faz uma curva na estrada e fica cara a cara com um grupo de guerreiros em cota de malha de bronze e elmos pesados e irregulares, cada um sentado em uma rocha ou encostado em uma árvore. Eles olham para você, levantando-se lentamente, preparando machados e marretas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Stormcaller!" o líder chama. "Somos os verdadeiros filhos e filhas de Velho robusto. Você arruinou nossas cidades e campos com seu [url=glossary:edict]Edital[/url], destruiu a linha real de nossa nação e roubou nossa maior cidadela, mas persistimos. Enquanto o sangue de Robusto correr por essas veias," ele bater com a palma da mão aberta no braço da espada, "o soberano será resistido! Sua sangue, no entanto, molhará essas estradas. Para o vazio com você, ruína de Robusto!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Governador," um te cumprimenta com uma reverência zombeteira. "Alguém pensaria que Raetommon o mataria quando você voltasse, considerando tudo o que você fez conosco. Mas ele não o fez, e agora está morto." Os guerreiros abaixam os ombros e dobram os joelhos, prontos para atacar. "Aqueles de nós foram embora, não temos intenção de repetir esse erro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Vinculador do Destino," diz-se sombriamente. "Certamente você não achou que o fraternidade terminava com Raetommon. Certamente você não achou que iríamos esquecer ou perdoar seu fim." Os guerreiros abaixam os ombros e dobram os joelhos, prontos para atacar. "Certamente você sabia que chegaria a isso: o fim do fraternidade ou o seu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Fatebinder!" o líder grita, estendendo o dedo indicador em sua direção. "Somos os verdadeiros filhos e filhas de Robusto. Você pode ter massacrado nosso Regente, mas não nos derrotou. Enquanto o sangue de Robusto correr por essas veias," ele bater com a palma da mão aberta no braço da espada, "o soberano será resistido! Sua sangue, no entanto, molhará essas estradas. Morra, escravo de [url=glossary:kyros]Kyros[/url]!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Um dos homens dá um passo à frente, golpeando a lâmina contra o escudo como se já não tivesse sua atenção. "Para Mattias e para Robusto!" ele grita. "Morte a todos os tiranos!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Ataque-os.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>Fale com eles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>O irmão de bronze solta um apito estridente e sua coorte se move para atacar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Suas mãos perto de suas armas, você considera suas palavras cuidadosamente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Desarme a situação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Ameaçá-los.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[10.000 anéis.] Suborná-los.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Você mal conseguiu dizer as primeiras palavras quando o Irmão de Bronze o corta com um golpe de sua lâmina. "Nós somose não estou aqui para palavras." Ele assobia, e sua coorte ataca.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Você ri dos mercenários. Eles realmente o consideram uma marca tão fácil, você pergunta. Quantos deles você terá que matar antes que eles o deixem em paz?</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Ele tem razão," um homem alto com um martelo murmura. O líder mercenário olha para ele, então entre seus compatriotas. Ele faz uma careta para você. "Vamos deixar você ir. Desta vez." Os irmãos deixa você continuar sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Os mercenários se entreolham, mas o líder não parece convencido. "Vá se ferrar de lado, babaca," ele late. Com a mão levantada e um apito, ele sinaliza o ataque.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Os mercenários se entreolham quando você lhes oferece um anel de ferro. "Você acha que um ferro paga pelas vidas que você tirou? Não começa a!" Gritos subir de seus companheiros. "Que disse, não somos irracionais. Faça cinco ferros e esqueceremos que vimos você. Por hoje, pelo menos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Aceite a oferta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Declínio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>O irmão de bronze pega os anéis de ferro oferecidos. Ele olha de volta para você enquanto leva sua coorte para longe. "Te vejo, [Título do jogador]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Ataque-os.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Fale com eles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Você prepara suas armas e se prepara para o combate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Suas palavras passam despercebidas como a acusação [url=glossary:unbroken]ininterrupto[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Ataque-os.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Fale com eles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Você prepara suas armas e se prepara para o combate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Suas mãos perto de suas armas, você considera suas palavras cuidadosamente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Desarme a situação.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>Ameaçá-los.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[10.000 anéis.] Suborná-los.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Você OUSA nos oferecer ferro como penitência?!" o soldado grita, saliva saltando de seus lábios. "Até sua vida não deve equilibrar seus crimes!" Elas rugir como um e avançar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Você grita com os soldados, lembrando-lhes que você tirou o sustento deles, já matou dezenas deles e chamou Editais.
+
+"Você deve estar com essa impressão," o líder deles diz sombriamente, " que temos algo a perder." Ele ergue sua arma e seus homens atacam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Mãos levantadas e palmas abertas, você fala com os soldados na calma praticada do Tribunal de Vinculadores do Destino...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Você fala de sua bravura e do povo de sua terra natal. A morte de Straydus foi uma necessidade lamentável para libertar a região do jugo do [url=glossary:edict]Edital[/url] de Tempestades. Este ciclo de violência não precisa continuar aqui hoje. Eles não precisam jogar fora suas vidas, vidas que seriam mais bem servidas ajudando na reconstrução de sua casa.
+
+O líder do esquadrão enxuga o rosto. "Talvez você está certo. Talvez ainda há trabalho a ser feito em Robusto." Ele olha para seus companheiros, e eles concordam com a cabeça. "Despedida, Vinculador do Destino. Que nunca mais nos encontremos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Enfie suas palavras melosas para cima [url=glossary:kyros]Kyros[/url]' bunda!" o Regente grita. Seus soldados rugem em apoio enquanto atacam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>Fuja da área.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Você escapa ileso e continua sua jornada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

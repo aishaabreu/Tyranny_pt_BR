@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\worldevents\03_wme_threewayfight</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>34</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>À medida que você abre caminho por colinas escarpadas e destruídas salpicadas com os restos carbonizados de árvores, a brisa fraca leva aos seus ouvidos gritos abafados à distância de algum lugar a leste.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Aproxime-se abertamente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Aproxime-se silenciosamente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Ignore-os e continue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Em vez de permitir que o caos que tomou conta do Camadas o distraia de seu objetivo, você continua pelo Terrenos Contestados e em direção ao seu destino.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Você chega ao topo e vê abaixo de você três grupos travados em discussão, palavras acaloradas irrompendo por todos os lados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Ouça o argumento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Junte-se ao argumento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Ataque todo mundo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Esgueirar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Você fica para trás e tenta identificar os significados dos gritos caóticos. Rapidamente fica claro que a luta é principalmente entre a líder de gangue Refrão e sua contraparte entre os [url=glossary:disfavored]Desfavorecido[/url]: os dois estão brigando sobre quem fica com os três Sábios custódia. A liderança [url=glossary:sage]Sábio[/url], no entanto, intervém sem entusiasmo para objetar, alegando que seu povo não será levado vivo.
+
+Você percebe que as sacolas Sábios' estão cheias de pergaminhos. Dada a sua proximidade com as ruínas do [url=glossary:burning library]Biblioteca em chamas[/url], há todas as possibilidades de que esses Sábios carreguem escritos arcanos resgatados da antiga fortaleza Sábios'.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Salve os sábios.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Você desce a colina em direção à comoção, suas botas batendo na pedra, suas armas abaixadas contra guerreiros vestindo tanto escarlate quanto violeta. Com eficiência praticada, o [url=glossary:disfavored]Desfavorecido[/url] levanta lâminas, dardos e escudos para atender sua carga. O Arconte dos Segredos' o líder da gangue grita um comando e o Coristas puxa bronze e madeira. "Traidor!" ela grita, cuspe chovendo de seus lábios.
+
+Os Sábios dê um passo para trás, dedos torcendo sigilos de proteção diante deles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>A conversa se esvai quando você se aproxima dos homens e mulheres armados. "Que porra você quer?" o líder da gangue Refrão rosna. "Tolo!" o [url=glossary:disfavored]Desfavorecido[/url] sargento late. "Este é o [Título do jogador] do Pináculo da Montanha." Ele se vira para você, sua manopla batendo contra seu peitoral em saudação. "Vontade você resolve isso, vassalo juramentado do Árbitro?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Você desce a colina em direção à comoção, suas botas batendo na pedra, decidida a não fazer prisioneiros...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>Notando que o grupo ainda não o notou, você decide não se envolver. Você vira as costas para o argumento e pressiona o Terrenos Contestados em direção ao seu destino.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Armas foram sacadas, e os membros de cada grupo gesticulam descontroladamente. Eles ainda não o viram, distraídos como estão com seus próprios argumentos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Ataque o [url=glossary:disfavored]Desfavorecido[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Ataque o coro gangue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Você desce a colina em direção à comoção, suas botas batendo na pedra, suas armas abaixadas contra os legionários de [url=glossary:graven ashe]Cinza esculpida[/url]. Com eficiência praticada, eles levantam lâminas, dardos e escudos para enfrentar sua carga.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Você desce a colina em direção à comoção, suas botas batendo na pedra, suas armas abaixadas contra os bajuladores desorganizados do Arconte dos Segredos. Seu líder grita um comando e o Coristas começa a desenhar bronze e madeira.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"O Vinculador do Destino?" o [url=glossary:disfavored]Desfavorecido[/url] o tenente pergunta, piscando. Suas feições se enchem de raiva. "Uma emboscada! Acabe com os covardes!" Ferro pisca enquanto os encouraçados avançam sobre você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Que porra é essa?" o Refrão líder da gangue pergunta, os olhos voando entre você e o [url=glossary:disfavored]Desfavorecido[/url]. "Esta é a sua grande honra, férrea? Uma maldita emboscada?" Ela cospe na terra maldita antes de gritar, "Matar todos eles!" Bronze armas prontas enquanto os Coristas avançam sobre você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"O Vinculador do Destino?" o [url=glossary:disfavored]Desfavorecido[/url] pergunta o tenente. Ele olha para o líder da gangue Refrão. "Este cão da lei com você?" Ela balança a cabeça. "Não tenho uso para traidores!" ela grita de volta. "Bem, então," ele aponta sua lâmina em sua direção. "Afinal, parece que temos uma causa comum." A mulher vestida de escarlate sorri, desenhando bronze. "[url=glossary:tunon]Tunon[/url]'s Tribunal de Vinculadores do Destino, sempre aproximando as pessoas." Seu choro vem em uníssono: "Carregar!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>Você sobe uma elevação, mantendo-se abaixado no solo enegrecido, e vê abaixo de você três grupos travados em discussão, palavras acaloradas irrompendo por todos os lados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Terratus parece balançar abaixo de você enquanto o solo seco cai, enviando você ao chão, esparramado diante dos adversários quietos. Por um momento, tudo é silêncio enquanto os guerreiros olham para você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>Tinta vermelha brilhante espalhada sobre couros de má qualidade identificam uma pequena gangue de Coristas, capas violetas se agarram a membros de ferro de um esquadrão [url=glossary:disfavored]Desfavorecido[/url], e penas e pergaminhos pendurados nas roupas empoeiradas de um trio de Sábios.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Tinta vermelha brilhante espalhada sobre couros de má qualidade identificam uma pequena gangue de Coristas, capas violetas se agarram a membros de ferro de um esquadrão [url=glossary:disfavored]Desfavorecido[/url], e penas e pergaminhos pendurados nas roupas empoeiradas de um trio de Sábios.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Armas foram sacadas, e os membros de cada grupo gesticulam descontroladamente. Eles ainda não o viram, distraídos como estão com seus próprios argumentos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

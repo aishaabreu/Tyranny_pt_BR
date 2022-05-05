@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\02_cv_swanson_fb</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Svansen bate sem entusiasmo em uma bigorna. Ele percebe sua aproximação e para no meio do que está fazendo, olhando para você com um ressentimento frio e morto. "Se não for o Vinculador do Destino, apenas juiz e [url=lore:lc_redanvil]prenúncio da minha morte lenta e indesejável."[/url]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"...Sim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>A forja-Master volta ao seu trabalho e Svansen começa a cambalear de volta para a bigorna antes de perceber que você ainda não saiu. "Certamente, não pode haver mais que você queira de mim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Você é um [url=glossary:forge-bound]Forge-Bound[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Onde estão suas tatuagens?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Por que você quis se juntar ao [url=glossary:scarlet chorus]Coro Escarlate[/url] em primeiro lugar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Não por escolha. Não entendo como você pode passar o dia todo falando sobre depósitos de minério. Depósitos ORE?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Me disseram que você os ganha com base no tempo que passou na forja, mas como sou considerado um traidor, perco minhas chances de ser um mestre." Ele chuta um pedaço de sucata. "Não que eu tivesse a ambição de fabricar armas que não posso usar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Ele sorri com um sorriso que exala aborrecimento. "Sua curiosidade repentina na minha vida é encantadora. Eu entrei pela mesma razão que qualquer um faz. Sua opções desaparecem rapidamente uma vez que [url=glossary:kyros]Kyros[/url] conquista a terra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Deixar]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>[url=glossary:forge-bound]Forge-Bound[/url] Comerciante ouve Svansen e se vira para você. "Ah, Vinculador do Destino." Ele move Svansen para o lado, apenas conseguindo um gemido insatisfeito. "Não posso agradecer o suficiente por nos ajudar na produção de armas e armaduras, fornecendo-nos mão de obra tão confiável." 
+
+Ele se volta para Svansen e lhe dá um tapa forte nas costas que é recebido com um sorriso tenso. "Sem Svansen aqui, teríamos ficado atrasados."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

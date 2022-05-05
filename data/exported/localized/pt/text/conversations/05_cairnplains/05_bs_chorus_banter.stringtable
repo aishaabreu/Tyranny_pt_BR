@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\05_cairnplains\05_bs_chorus_banter</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Este parece uma tarefa fácil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Cala a boca. Você não reconhece [url=glossary:tunon]Tunon[/url]Vinculador do Destino quando o vê?"</DefaultText>
+      <FemaleText>"Cala a boca. Você não reconhece [url=glossary:tunon]Tunon[/url]Vinculador do Destino quando a vê?"</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Nó do banco3</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

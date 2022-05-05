@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\06_endgame\06_cv_beastwoman_mage_cc_spellsigilgiver</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Mulher-Besta poderia matar, esmagar humanos e roubar marcas místicas sagradas. Mas não consegue entender os estranhos arranhões dos humanos - não consegue dar vida a essa magia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Então mulher-fera deixará o humano chamado Vinculador do Destino manter a marcação mística por enquanto." Ela zomba.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Obrigado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Mulher-Fera ainda pode esmagar e destruir humanos em pedaços. Então mantenha distância, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

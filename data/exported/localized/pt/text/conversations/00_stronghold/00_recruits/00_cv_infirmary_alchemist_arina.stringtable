@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\00_recruits\00_cv_infirmary_alchemist_arina</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>17</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Eu não me importo se você está doente - a enfermaria precisa de reparos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Vinculador do Destino, você está horrível. Quero dizer isso como um elogio - lamentável é aquele que não tem nada para melhorar."</DefaultText>
+      <FemaleText>"Vinculador do Destino, você está horrível. Quero dizer isso como um elogio - lamentável é ela que não tem nada para melhorar."</FemaleText>
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"O que preciso tomar para me sentir melhor?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Deixar] "Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Pálido, doente, fraco." Ela balança a cabeça. "Eu te daria uma quinzena a menos que você equilibrasse os líquidos nojentos que se espalham pelo seu corpo, mas mesmo assim pode ser tarde demais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Sentindo-se doente? A partir de sua aparência só posso supor que a resposta seja 'sim', então fale."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Um alquimista olha você de cima a baixo com uma expressão de curiosidade aberta. "Razoavelmente saudável, razoavelmente em forma, exposição evidente a doenças do acampamento militar e condições de combate..." Ela estreita os olhos e acena com a cabeça. "Sem dúvida, algum verme invadiu as entranhas e triplicou de tamanho agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Ela faz um aceno de desprezo. "Você euestarei morto em breve."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"O que te faz dizer isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Com licença?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"É uma triste realidade da vida militar. Muito tempo gasto em aposentos apertados, dividindo um beliche com algum soldado meio morto que não consegue controlar seus fluidos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Eu costumo manter distância de tais imundícies para evitar pegar o que eu trato." Ela gesticula em torno do Pináculo. "Como você pode ver. Mas no seu ritmo, é quase inevitável que algum parasita ou veneno o devore por dentro, a menos que você tome um cuidado especial."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>Ela cobre a boca. "Eu disse que você estaria MORTO EM BREVE!" Ela suspira e balança a cabeça. "Adicione perda auditiva à lista."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Por que você não me mostra o que posso fazer para me tratar e evitar essa desgraça inevitável?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Deixar] "Já cansei dessa conversa nojenta. Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Dê uma olhada nas minhas mercadorias. Seus humores agradecerão quando não borbulharem por todos os orifícios."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Eu adoraria ajudar, mas preciso de algum tempo para reabastecer meu estoque. Volte mais tarde."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

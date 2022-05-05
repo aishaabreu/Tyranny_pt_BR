@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\02_lethianscrossing\fq_dis_qst_thebronzethief</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>18</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>O ladrão de bronze</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Viajar para Twin Rivers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Derrote os [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] soldados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Localize o comandante [url=glossary:bronze brotherhood]Irmandade de Bronze[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Ir para a Marcha do Desertor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Recupere a Pedra Angular de Myrek.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Retorno a Twin Rivers.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Pesquisar Flatfoot Ferris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Raetommon levou o Elmo Magebane e Mestre da Forja Zdenya - [url=glossary:graven ashe]Cinza esculpida[/url] não ficará feliz que seu prêmio [url=glossary:forge-bound]Forge-Bound[/url] e o artefato tenham desaparecido. Perseguir Raetommon e recupere Zedyna e o Leme.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Você aprendeu que o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] tem um acampamento em Rios gêmeos. Comece sua busca por Raetommon lá.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Os [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] em Rios gêmeos estão atualmente em combate com Flagelos. Esta é uma excelente oportunidade para matá-los enquanto estão distraídos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>É provável que o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] comandante em Rios gêmeos saiba onde encontrar Raetommon.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>O [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] comandante, Welby, disse que Raetommon havia entrado no Oldwalls em Twin Rivers. Ela também disse que um homem chamado Myrek tem o Pedra angular necessário para entrar no Oldwalls - Myrek estava indo em direção ao Marcha do Desertor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Myrek tem a Keystone para a entrada Oldwalls em Rios gêmeos. Ele está em algum lugar em Marcha do Desertor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Com a pedra-chave em mãos, você deve retornar ao Rios gêmeos e digitar o Oldwalls.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Ferris Pé chato provavelmente tem algo que ajudará a alcançar Raetommon mais profundamente dentro do Oldwalls. Procure seu corpo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>Use a pedra-chave para entrar no Oldwalls e enfrentar o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] dentro.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você perseguiu Raetommon, que levou o [url=glossary:forge-bound]Forge-Bound[/url] Mestre, para o Oldwalls em Twin Rivers.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

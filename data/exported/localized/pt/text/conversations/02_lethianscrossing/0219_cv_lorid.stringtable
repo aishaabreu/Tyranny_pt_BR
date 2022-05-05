@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\0219_cv_lorid</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Bem-vindo! Bem-vindo à Senhora de Lethian!" O homem grande flexiona seus enormes bíceps, sua pele de carvão brilhando na luz. "O que Lorid pode fazer por você? Precisa de companhia hoje?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Fale-me sobre você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"O que você pode oferecer que os outros não podem?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Deixar] "Vou voltar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Minha história de vida? Lamento dizer que é curto e chato. Tive uma infância feliz - nada de ruim aconteceu. Cresci grande e forte e nunca tive problemas de saúde. Abordei Senhora Sofia sobre um trabalho porque gosto do que - e de quem - posso fazer aqui!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Tudo e muito mais!" Lorid solta uma gargalhada. "Mas minha especialidade é o Vendrien Swell. Deixe sua imaginação correr solta - e é ainda melhor do que isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Você está de volta!" Lorid canta as palavras, sorrindo amplamente enquanto faz uma pose. "Aqui para se divertir um pouco?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

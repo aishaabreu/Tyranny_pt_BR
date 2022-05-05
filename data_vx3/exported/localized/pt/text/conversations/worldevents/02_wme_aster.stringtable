@@ -1,0 +1,487 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\worldevents\02_wme_aster</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>93</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Você vê à sua frente um trio de carroças paradas, seus caixotes e barris de mercadorias derramados na grama alta que margeia a estrada desgastada pela viagem. Mesmo à distância, você pode distinguir um pequeno bando de Homens-fera circulando uma figura solitária em um xale amarelo brilhante.
+
+Seus rosnados baixos carregam o vento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Evite-os.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Aproxime-se deles.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Ataque os homens-fera.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Você sai da estrada, afastando as feras e suas vítimas. Uma hora depois, você acha que ouve uivos distantes no vento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Ao se aproximar da caravana, você vê que os Homens-fera estão sendo usados para transportar o trabalho. Seu pelo está emaranhado e imundo, cheirando a mofo e suor, e as rodas da carroça afundaram na lama, deixando sulcos compridos e enrugados na estrada. 
+
+As feras, dedos com pontas de garras abertas em agressão, rosnam para o humano solitário, que você reconhece, com alguma surpresa, como o mercador que você conheceu na ponte de pedágio Irmandade de Bronze em Trilha Ironhaul. Percebendo você, ele clama por uma ajuda Fatebinder.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Fale com a caravana.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Deixar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Decidindo não intervir, você continua na estrada, surdo aos apelos do comerciante - pelo menos até que eles sejam silenciados pelo Homens-fera. Soluços e rosnados seguem você até que a caravana esteja bem fora de vista.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Você cai no Homens-fera sem hesitar, e o primeiro atinge o chão imediatamente, a vida extinguida de seus olhos. Os outros dois se voltam contra você, pêlos eriçados e saliva escorrendo das presas à mostra. Dado um alívio momentâneo, o mercador mergulha atrás de uma das carroças.
+
+O mais próximo dos dois Homens-fera abaixa os nós dos dedos no chão enquanto se prepara para atacar. O outro agarra uma pedra na beira da estrada, puxando-a com um grunhido rouco, seus músculos ondulando em suas costas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Ataque o Homem-Besta mais próximo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Ataque o outro Homem-Besta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Intimidar os Homens-Besta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Você se prepara quando o Homem-Besta mais próximo ataca, enfiando sua arma em sua boca aberta, esperando até que ela saia da parte de trás de seu crânio, pedaços de cérebro caindo na terra como chuva. Você se vira para a segunda criatura a tempo de ver uma pedra com crostas de lama vindo em sua direção. Você recebe o peso do golpe em seu ombro e o mundo gira quando suas costas batem na lama.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>mais próximo Homens-fera ataca e você se esquiva e passa por ele, deixando-o derrapar e se debater na lama atrás de você. Você encontra a segunda criatura enquanto ela arranca a pedra do chão, ainda de costas para você. Você pega aquela abertura, enfiando sua arma na espinha dele com um estalo úmido.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>As duas Bestas encaram você, mas eles estão parados. A criatura mais próxima o ataca com um latido truncado e um hálito fétido, mas recua. Com um último olhar para você, o par se vira e se afasta, deixando você com o mercador.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>A fera corre em sua direção nas quatro patas, babando por sua carne. Você ataca com o pé, pegando a criatura no joelho no momento em que ela levanta suas garras dianteiras. Ele uiva em agonia, oferecendo a você uma abertura para enfiar sua arma profundamente entre suas costelas.
+
+Ele cai ao seu lado na lama, estremecendo antes que sua vida finalmente escape.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>O mercador se aproxima de você, olhos enevoados acima de um sorriso tímido, agradecendo profusamente por salvá-lo dos brutos que ele contratou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Confesso que falei mal de você depois do nosso encontro em Ironhaul, mas agora me arrependo inteiramente." Aster tira lama de seu bigode caído. "Por favor permita-me retribuir sua ajuda. Vou reduzir pela metade o preço dos meus produtos para você, o que você quiser!" Ele gesticula sobre suas carroças pesadamente carregadas. "Vê alguma coisa que você gosta?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Já é duas vezes agora que você me ajudou, bom Fatebinder!" Aster diz, limpando a lama de seu queixo por fazer. "Talvez eu pode ajudá-lo em espécie. Todos os meus produtos pela metade do preço!" Ele olha para o carrinho. "Realmente será um favor. Não faço ideia de como vou levar este produto para o Irmãos agora." Ele balança a cabeça. "Nós vamos, isso é problema meu, não seu! Vê algo que você gostaria?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Os Homens-Besta olhe para cima do mercador trêmulo, olhos amarelos pálidos caindo em você, observando você, avaliando você como se estivesse julgando a qualidade de uma refeição. "Humano interrompe o transporte de carrinhos. Humano deve fugir enquanto ainda tem pernas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>O mercador encolhido balança a cabeça. "Por favor! Esperar! Você é um Fatebinder, certo? Você tem que me ajudar!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Um tapa alto de pata na pele corta o ar quando um dos Homens-fera dá um tapa nas costas do mercador, fazendo-o cair de joelhos. 
+
+O líder Homem-Besta olha de volta para seu companheiro de matilha, então volta sua atenção carrancuda para você. "Correr-fugir, nanico humano. Agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Ataque com a magia Incêndio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Você assina um sigilo que ilumina suas feições com uma cor pálida e trêmula. Você libera o poder arcano à medida que o Homem-Besta mais próximo carrega, e o feitiço rasga sua carne, enviando a fera esparramada na sujeira. Quanto mais longe Fera leva menos o impacto do feitiço, administrando um uivo agonizante antes de se afastar, a pele em carne viva e cheia de bolhas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Devo, devo? O que faz você pensar isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Qual parece ser o problema?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Pare com essa bobagem imediatamente ou todos vocês vão morrer pelas minhas mãos e [url=glossary:kyros]Kyros[/url]' lei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>[Para Áster:] "Você simplesmente não sabe como ficar longe de problemas, não é?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Nós vamos... você é um Vinculador do Destino, e eu sou um cidadão - você não tem o dever de me ajudar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Você tem licenças para seus produtos?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>[Endereço Beastmen.] "Ele tem razão. Qual é o problema aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Assistência jurídica não é isenta de despesas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Claro! E eu fique feliz em fornecê-los, contanto que esses brutos não os tenham pisoteado na lama!" Ele olha tristemente para o Homem-Besta que o esbofeteou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Ele solta uma gargalhada áspera. "Ah, claro. Eu entendo, Vinculador do Destino. Pagarei meu quinhão de impostos se você tirar essas coisas de mim!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Problema?" A cabeça de chumbo Homem-Besta se inclina levemente, uma orelha se contorcendo enquanto ele olha para você. "Homem é problema. O homem paga os anéis para Slackneck e faz as malas. O pacote de Slackneck puxa a carga. Mas as estradas prendem-se aos pés, às rodas das carroças. O homem zurra constantemente. 'Acelerar! Rápido rápido!' Insultos Slackneck. Pacote de insultos. A matilha deve responder a insultos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>O comerciante dá de ombros tristemente. "Acho que tenho a boa aparência da minha mãe em vez de sua boa sorte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>O silêncio paira no ar. Os Homens-Besta afundam de cócoras enquanto o mercador volta a se levantar. Dois dos Homens-fera se afastam, colocando algum espaço entre eles e você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Sim, eu paguei a eles para transportar minhas mercadorias, e eles estão fazendo uma bagunça total! Olhe para os meus eixos de carrinho! E não me inicie no ritmo! As estrelas cruzam o céu mais rápido!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Homem Áster não digno de respeito." Ele gesticula para você. "Não forte, não como humano que cheira a poder e sangue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Slackneck - você foi contratado para transportar essas mercadorias, correto?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Áster, quanto você está pagando a eles?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Já decidi como vamos lidar com isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>[Deixar.] "Vou deixar vocês quatro resolverem isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Por todos os meios, Vinculador do Destino, diga-nos." O olhar de Aster cai para as Homem-Besta garras. "Antes a antecipação nos mata."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Decidiu o quê?" Slackneck coça a cabeça. "O que precisa decidir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>"Não vejo como isso importa." Ele cruza os braços. "Multar. Um bronze cada da Travessia para o Irmãos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Três anéis de bronze pendurados como armadilhas humanas. Nenhuma grande horda de tesouros a longo prazo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"O quê? Claro que ele era! Paguei anéis e provisões para alguns dias de trabalho, mas tudo o que estou recebendo são mãos ociosas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>Slackneck assiste Áster gritar, então vira seus olhos amarelos para você. "Áster homem dá anéis. Anéis compram transporte. Anéis não compram velocidade impossível. Anéis não compram respeito. Anéis não compram insultos." Ele franze a testa, inclinando a cabeça, uma garra batendo em seu queixo. "Bronze não significa que a matilha deve ouvir insultos humanos!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Insulto? Não é um insulto chamá-lo mais lento do que a secagem do corante se for preciso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Você e seu pacote foram pagos, Slackneck. Leve-os de volta ao trabalho e não prejudique Áster."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Áster, o trabalho é claramente mais difícil do que você esperava. Dobrar o pagamento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>[Ataque os homens-fera.] "Suas feras são claramente um perigo para pessoas honestas. É melhor acabar com você agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>Aster suspira e embala o rosto na palma da mão. "Eu sabia que um Vinculador do Destino chegando era bom demais para ser verdade."
+
+Você vai embora, deixando a caravana com seus próprios problemas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Por Lethian bunda sardenta! Primeiro Ironhaul, agora isso! Seu único propósito neste mundo é pisar nos comerciantes?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Eu não ouvi você barganhando por mais." Aster revira os olhos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>O lábio de Slackneck se curva para trás de presas amarelas. "Homens-fera forte. Grunts do humano [url=glossary:prima]Prima[/url] de [url=glossary:primas]Primas[/url] não importa para Homens-fera!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Você se comprometeu com as leis de [url=glossary:kyros]Kyros[/url] quando fechou um acordo com um dos Soberano comerciantes licenciados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"E Áster, por sua vez, vai parar de descarregar suas frustrações em você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>[Intimidar.] "Você quer que eu FAÇA você obedecer, Homem-Besta?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Slackneck rosna, mas depois assente. "Homens-fera transportará de Áster cargas. Desta vez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Aster suspira. "Multar. Vamos começar então." Ele olha para você. "Agradecer você, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Duplo? Mas isso é... isso é aceitável. Dois bronzes cada. Desde que você leve os carrinhos para o Irmãos dentro do período!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"Sim. Dois bronzes servirão, sim. Vai até ouvir choramingar por dois bronzes." Ele olha Áster. "Pode ser."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>Você fica de pé, pés bem plantados, e rosna uma ameaça enquanto brande sua arma ensanguentada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>Você se transforma na carga renovada do primeiro Homem-Besta, dividindo seu crânio com facilidade. Ele desaba na lama, salpicando você com sujeira e sangue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>Você se vira para o primeiro Homem-Besta com um rugido, sua mão descuidada se abaixa e agarra um punhado do cabelo Homem-Besta caído. Com um grunhido, você o levanta pela cabeça antes de esmagar o crânio da criatura morta contra uma pedra. Sua mão sai coberta de sangue e osso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>Ataque o segundo Homem-Besta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Intimidar o Homem-Besta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>Ataque o restante Homem-Besta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>Intimidar o Homem-Besta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>Você rola de pé com um rugido, sua mão descuidada se abaixa e agarra um punhado do cabelo Homem-Besta caído. Com um grunhido, você o levanta pela cabeça antes de esmagar o crânio da criatura morta contra uma pedra. Sua mão sai coberta de sangue e osso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>Fale com o comerciante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>Ir embora.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>Ignorando o mercador, você limpa o sangue de seu rosto e o arremessa de suas mãos com um movimento de seu pulso. Você se afasta do homem de amarelo e vai embora, e suas declarações de gratidão caem em silêncio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>Ignorando o mercador, você limpa o sangue de seu rosto e o arremessa de suas mãos com um movimento de seu pulso. Você se afasta do homem de amarelo e vai embora, e suas declarações de gratidão caem em silêncio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Confesso que falei mal de você depois do nosso encontro em Ironhaul, mas agora me arrependo inteiramente." Aster tira lama de seu bigode caído. "Por favor permita-me retribuir sua ajuda. Vou reduzir pela metade o preço dos meus produtos para você, o que você quiser!" Ele gesticula sobre suas carroças pesadamente carregadas. "Vê alguma coisa que você gosta?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Já é duas vezes agora que você me ajudou, bom Fatebinder!" Aster diz, limpando a lama de seu queixo por fazer. "Talvez eu pode ajudá-lo em espécie. Todos os meus produtos pela metade do preço!" Ele olha para o carrinho. "Realmente será um favor. Não faço ideia de como vou levar este produto para o Irmãos agora." Ele balança a cabeça. "Nós vamos, isso é problema meu, não seu! Vê algo que você gostaria?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Suficiente, Áster. Temos outras coisas para discutir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Por todos os meios, Vinculador do Destino. Julgue!" Ele coloca as mãos nos quadris.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>Você liga suas feridas enquanto continua em direção ao seu destino.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Você continua em direção ao seu destino.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>O Homem-Besta de pé dá um passo para trás, rosna, e então salta para dentro da floresta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>O Homem-Besta de pé dá um passo para trás, rosna, e então salta para dentro da floresta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>As duas Bestas encara você, lábios curvados sobre presas amarelas. A criatura mais próxima salta em sua direção, e você mal desvia seu ataque, empurrando-a para trás. O outro, no entanto, aproveita sua distração, enfiando suas garras imundas em um de seus braços, separando a carne com facilidade.
+
+O sangue quente pinga na grama enquanto as feras circulam...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Continuar...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Ataque com a magia geada.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Ataque com a magia Raio.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

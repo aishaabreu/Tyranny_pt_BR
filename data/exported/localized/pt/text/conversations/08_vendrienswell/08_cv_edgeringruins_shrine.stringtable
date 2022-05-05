@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\08_vendrienswell\08_cv_edgeringruins_shrine</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>23</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>O homem lança uma pedra do tamanho de um punho no ar em direção à estátua chorosa que paira no alto. Um segundo depois, a rocha lasca inofensivamente contra a velha terraplenagem.
+
+"Isso afrouxou! Se eu encontre uma pedra maior, a próxima a derrubará!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Você é um idiota e eu sinto que estou ficando mais burro vendo você tentar isso. O que precisamos é de duas gangues e muita corda - como se estivéssemos tirando um navio da maré baixa, mas puxamos para baixo, não para cima."
+
+O cavaleiro acena para sua presença. "Não lembre-se de nós, Fatebinder - apenas brincando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Sabe alguma coisa sobre esta estátua ou o santuário?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Você deve ser do norte. Esta é uma estátua de Rainha Lycaerus, Rainha de Occon há algumas centenas de anos - acho que ela é famosa por trazer paz ao Camadas ou algo assim."
+
+Ele dá de ombros com um sorriso. "Qualquer que seja a paz que ela trouxe não durou, então imaginei que a burra não merecia uma estátua." Seus olhos percorrem o chão, procurando outra pedra para jogar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Deixe a estátua em paz."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Merece ou não, os moradores reverenciam Lycaerus e até mantêm um pequeno santuário para ela. Já que não temos tempo para reesculpir a estátua em [url=glossary:kyros]Kyros[/url]', é nosso dever derrubar este ícone blasfemo." Ela olha por cima do ombro para a estátua enorme. "Além do mais, quero saber se a água ainda flui se você arrancar a cabeça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"O quê? Deixá-lo sozinho? E por que devemos fazer isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Continue, Vinculador do Destino." Os soldados acenam para você e se afastam.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Você, de todas as pessoas, deveria estar ansioso para ver a Soberano lei aplicada - esta é uma estátua de alguém que não se curvou a [url=glossary:kyros]Kyros[/url], então desce."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>[Mentira] "Mais tarde, posso ordenar o Tremedores de terra para afundar esta estátua em um instante. Seu trabalho está concluído."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>[Bata no soldado.] "O que foram minhas ordens, peão?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Há uma rebelião para reprimir. Lide primeiro com as ameaças animadas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"Um argumento justo. Continue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Agora o que vamos fazer para nos divertir?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Esta estátua nunca para de chorar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Não tenho certeza se gosto do seu tom, Vinculador do Destino. Você está certo, problemas estão se formando em [url=glossary:vendrien's well]Poço de Vendrien[/url], mas nós dois estando lá não vamos mudar o rumo da batalha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Os soldados cambaleiam com o golpe, apoiando sua bochecha enquanto ele aperta a mandíbula por causa da dor.
+
+Quando ele recupera sua postura e compostura, ele abre a boca e fica em silêncio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Entendido, meu senhor." O soldado se curva profundamente, e então olha para seu companheiro de gangue.
+
+"Já chega de você. Continue falando e você vai me matar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"E compartilhar a glória com algum [url=glossary:disfavored]Desfavorecido[/url] bruxo? Prefiro ganhar mil anéis nas costas e dá-los a [url=glossary:graven ashe]Cinza esculpida[/url] de presente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Orgulhoso e estúpido! Você faria arremessar pedras até que seu braço apodreça e você não faça nem uma lasca na Lycaerus' cara estúpida e chorosa."
+
+Ela olha para você com um aceno de cabeça. "Nós vamosPreciso da magia deles se quisermos derrubar essa monstruosidade. Podemos ficar aqui e esperar por mais algumas mãos. Obrigado Fatebinder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Você é um soldado ou um vândalo insignificante? Limpar \ limpo aja."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"Olhe para o Vinculador do Destino - nos ensinando como se estivéssemos presos às regras tolas de "
+
+[/url]!" Ele zomba, balançando a cabeça, "Se você tiver reclamações, você pode pegá-los com [url=glossary:the voices of nerat]o Vozes de Nerat[/url], ou com meus punhos."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

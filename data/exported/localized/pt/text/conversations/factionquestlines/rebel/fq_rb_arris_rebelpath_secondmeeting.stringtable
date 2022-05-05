@@ -1,0 +1,766 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\factionquestlines\rebel\fq_rb_arris_rebelpath_secondmeeting</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>148</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Não posso dizer que tenho prazer em dividir o pão com gente como você, mercenário. Sua banda não ajudou a conquistar os Tiers em primeiro lugar? Estranho que você daria as costas ao seu antigo mestre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Vinculador do Destino, queria agradecer sua ajuda em [url=glossary:lethian's crossing]A travessia de Lethian[/url]. O trabalho na forja foi renovado e em breve teremos as melhores armas e armaduras para esta sua coalizão. Contanto que você mantenha [url=glossary:lethian's crossing]A travessia de Lethian[/url] a salvo do outro Arcontes, vamos entreter o desafio de armar qualquer heterogêneo que você conseguir montar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Arri está certo em ser cauteloso. Sua lealdade será comprovada com ação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Welby enfrentou seus líderes para defender a sanidade. Acredito que o fraternidade merece uma segunda chance."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Você fala como se nunca tivéssemos provado a um cliente antes. Quando chegar a hora, você verá a Fraternidade em toda a nossa glória comprometida com sua causa. Temos motivos de sobra para nivelar nossa fúria em [url=glossary:kyros]Kyros[/url] - nunca duvide disso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Raciocínio sólido. Só espero que compense a nosso favor. Você já liderou nossa coalizão até aqui, então suponho que saiba o que está fazendo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Nossas diferenças à parte, agora que demonstramos a influência da coalizão em [url=glossary:lethian's crossing]A travessia de Lethian[/url], precisamos ampliar nossos horizontes."
+
+"Por onde começar é problemático. Entre a guerra civil e as rebeliões isoladas em Camadas, pode ser difícil definir em quem confiar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Eu entendo você e as forças de [url=glossary:kyros]Kyros[/url]' fizeram um grande número em Azure. Nós vamos, que tal uma segunda visita?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"O que vocês dois podem me dizer sobre essas rebeliões isoladas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Ela estuda você por um longo momento, e então suspira. "Quem sou eu discutir com o rompedor de cercos? O [url=glossary:stonestalkers]Perseguidores de Pedras[/url] é uma ideia não convencional, eu garanto, mas pode trazer mais problemas do que vale a pena." "Apenas mantenha sua mente aberta para a possibilidade do [url=glossary:unbroken]ininterrupto[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Raciocínio sólido, mas esta coalizão tem mais do que sua parcela de força e pouco intelecto precioso. Sem ofensa. Precisamos de apoio arcano para ajudar a levar essa luta. Eu trabalhei com os Earthshakers no passado, e não acho que seria preciso muito para convencê-los a abandonar o navio. Se eles deixassem o [url=glossary:disfavored]Desfavorecido[/url], isso enfraqueceria o Ashe exército e fortaleceria o nosso por uma margem considerável."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Você abriu caminho através de Robusto durante a conquista, então você deve saber algo sobre seus problemas atuais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Os sacudidores de terra parece nossa melhor aposta, vou tentar recrutá-los."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Vou procurar o [url=glossary:unbroken]ininterrupto[/url] no [url=glossary:blade grave]Sepultura de Lâminas[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Essa é sua ideia - Homens-Besta? Convidar uma horda de selvagens picados por pulgas para [url=glossary:ascension hall]Salão da Ascensão[/url] está fora de questão. Podemos também abrir nossas portas para o [url=glossary:scarlet chorus]Coro Escarlate[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"O que o [url=glossary:stonestalkers]Perseguidores de Pedras[/url] pode adicionar à nossa coalizão?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Eu escolho o [url=glossary:stonestalkers]Perseguidores de Pedras[/url]. Precisamos de um pouco de brutalidade do nosso lado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Eu serei o juiz de quem está apto para esta aliança."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Todas as armas do Camadas significarão pouco se não houver ninguém para empunhá-las. Sugiro que busquemos o [url=glossary:unbroken]ininterrupto[/url] como nosso próximo aliado. Eles causaram danos irreparáveis ao [url=glossary:disfavored]Desfavorecido[/url] com armas recuperadas. Imagine o que eles poderiam fazer com [url=glossary:kyros]Kyros[/url]' próprio ferro?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>"E o [url=glossary:burning library]Biblioteca em chamas[/url]? Poderia buscamos ajuda lá?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"O que mais devo saber sobre o [url=glossary:blade grave]Sepultura de Lâminas[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Tivemos alguns Sábios se juntando à nossa causa - eles lutaram conosco - e morreram - durante o cerco. Pelo que me disseram, o [url=glossary:burning library]Biblioteca em chamas[/url] está abandonado, exceto por algumas Refrão gangues saqueando o que sobrou do local."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Um ponto justo. Vou levar isso em consideração."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Não se deixe levar pelos caprichos da tradição passada. Quando chegar a hora, você precisará de toda a ajuda possível. Além do mais, você não gostaria que as forças [url=glossary:kyros]Kyros[/url]' recrutassem os [url=glossary:stonestalkers]Perseguidores de Pedras[/url] antes que você tivesse a chance de conquistá-los."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"As pessoas de Robusto são tipos independentes. Há pouca dúvida de que a guerra fortaleceu seu senso de orgulho nacional, mas pode tê-lo distorcido também. Ouvimos dizer que os [url=glossary:unbroken]ininterrupto[/url] não têm amor perdido pelos antigos governantes de Robusto - os Regentes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Força bruta! Selvagembrutalidade! Tenacidade perde apenas para a Irmandade! Os [url=glossary:stonestalkers]Perseguidores de Pedras[/url] não são apenas uma velha tribo de idiotas peludos, essa tribo prosperou em um reino atormentado por[url=lore:edict_stone]o Édito de Pedra.[/url] Precisamos desse tipo de fortaleza do nosso lado !"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Você pode escolher o mais forte - o [url=glossary:unbroken]ininterrupto[/url] do [url=glossary:blade grave]Sepultura de Lâminas[/url], ou o [url=glossary:stonestalkers]Perseguidores de Pedras[/url] do [url=glossary:stone sea]Mar de Pedra[/url]. Quem quer que você escolha, é melhor colocá-los do nosso lado em breve. A guerra civil tornou as forças [url=glossary:kyros]Kyros[/url]' mais agressivas para reivindicar território. Nenhuma dessas rebeliões pode durar sem a ajuda de nossa coalizão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Os filhos e filhas de Robusto formaram sua própria coalizão chamada '[url=glossary:unbroken]ininterrupto[/url]', e eles lutaram mais do que qualquer um para empurrar as forças de [url=glossary:kyros]Kyros[/url] de suas terras. Poderíamos fazer bem em convidá-los para o nosso coletivo - para não mencionar trazer a luta para a porta de [url=glossary:graven ashe]Cinza esculpida[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Nó do banco 31</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Meus anéis estão no [url=glossary:stonestalkers]Perseguidores de Pedras[/url]. Já trabalhamos com Homem-Besta tribos no passado. Eles podem ser selvagens, mas reconhecem a força e a lealdade melhor do que a maioria dos humanos. Se você gosta do corte de seu jib, você pode localizá-los no [url=glossary:stone sea]Mar de Pedra[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Vou procurar o [url=glossary:unbroken]ininterrupto[/url]. Precisamos da força do velho Stalwart do nosso lado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"Com essa mentalidade, eu diria que já vencemos." Welby abre um sorriso feroz. "Tenho conexões em [url=glossary:stone sea]Mar de Pedra[/url] que conhecem as rotas de patrulha [url=glossary:scarlet chorus]Coro Escarlate[/url]. Eles podem levá-lo para a região sem um arranhão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Excelente escolha. Eu sei que os [url=glossary:unbroken]ininterrupto[/url] são ocupados pelos [url=glossary:disfavored]Desfavorecido[/url] e os [url=lore:edict_storms]Édito das Tempestades,[/url], mas você pode achá-los cooperativos se ajudar a resolver seus problemas . Welby, podemos enviar uma força para limpar as patrulhas inimigas que guardam o Posto Sentinela? Apenas para espalhá-los."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Uma boa escolha. Navegar na tempestade é difícil, mas vou enviar uma equipe de batedores para traçar uma rota para suas viagens. Sua passagem para o [url=glossary:blade grave]Sepultura de Lâminas[/url] será clara."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"Então você deve entrar em contato com um membro de sua guilda o mais rápido possível. Qualquer soldado operando sob o comando de [url=glossary:graven ashe]Cinza esculpida[/url] corre o risco de enfurecer os locais, e os Tremedores de terra estão atualmente separados da força principal [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Há uma vitória simbólica em conquistar um Arconte servos leais à nossa causa - e se eles sabem magia, essa é uma vantagem tática que não podemos ignorar." Arri bate o queixo em pensamento. "Se tivermos certeza de que Tremedores de terra não permanecerá leal a seus [url=glossary:disfavored]Desfavorecido[/url] e nos atacará por dentro, então talvez este seja o curso de ação correto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] nunca foi nosso mestre. Fomos pagos com anéis e promessas, e recebemos metade do pagamento por nossos problemas. Aquela fanática órfã Raetommon também não ajudou nossa causa."
+
+"Chame-nos como quiser, mulher Apex. Viemos para uma chance de contra-atacar as forças [url=glossary:kyros]Kyros[/url]'. Se você não nos quer, podemos encontrar nosso próprio caminho com menos insultos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"Silêncio, vocês dois! Você não vê que essa briga só fortalece as forças [url=glossary:kyros]Kyros[/url]'?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Estou mais do que feliz em ignorar o fato de que esta coalizão é liderada por um servo de [url=glossary:kyros]Kyros[/url]. Se isso não for cooperação, então não sei o significado da palavra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Eu odeio que você esteja certo. Isso me faz pensar como a batalha no [url=lore:gates_judgment]Portões do Julgamento[/url] teria sido se você estivesse lutando do nosso lado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Não entre em pânico, Arri. Só porque marchamos com bolsos tilintantes não nos torna menos um exército."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Por que tão desconfiado de seus compatriotas?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>"Podemos compartilhar este continente, mas todos aqui têm uma agenda que coloca seus interesses à frente dos demais. Nunca houve uma razão para o Camadas se unir em torno de um objetivo comum... até agora."
+
+"Podemos dizer objetivamente que ninguém se beneficiará da subjugação sob a regra [url=glossary:kyros]Kyros[/url]'. Quanto a isso, concordaremos, se nada mais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Sem dúvida, os outros levantes se recusarão a se juntar à nossa coalizão, a menos que os ajudemos primeiro. Gestos de boa fé - você sabe como é."
+
+"Mas nosso tempo e recursos são limitados, então acho que a primeira ordem é pesar quem merece nossa ajuda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Fiquei de olho no [url=glossary:blade grave]Sepultura de Lâminas[/url] e seu conflito em desenvolvimento. Acho que seria um bom lugar para começar, mas só posso dizer o que sei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Você também pode encontrar ajuda nas ruínas de Azure. Não é uma região bonita, mas você não vai encontrar falta de coragem lá."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>"Podemos encontrar alguns retardatários nas ruínas, mas precisamos de mais do que apenas alguns voluntários, precisamos de um exército. Vou enviar outro par de batedores para ver se podemos fazer contato com a liderança Sábios' - o que resta dela - mas, por enquanto, vamos concentrar nossos esforços em quantidades conhecidas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>"Cuidado se você digitar o [url=glossary:blade grave]Sepultura de Lâminas[/url]. Dizem que as tempestades em torno de Posto de Sentinela são poderosas o suficiente para arrancar a carne do osso. O [url=glossary:edict]Edital[/url] de Tempestades devastou o reino no último ano da conquista e continua até hoje."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>"O [url=glossary:edict]Edital[/url] era uma maldição para os [url=glossary:kyros]Kyros[/url]' inimigos, embora tenha tocado ainda mais alguns de nós."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>"Os Tiersmen do [url=glossary:stone sea]Mar de Pedra[/url] são um povo isolado e gostam disso. Eles se agarrarão aos valores do antigo Azure mesmo quando o reino desmoronar ao seu redor. Eles não toleram Homem-Besta, [url=glossary:kyros]Kyros[/url]' ou quase qualquer pessoa que venha de fora de suas fronteiras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>"Isso não deve ser um problema. Meus meninos vão adorar a oportunidade." Ela acena para você. "Quando você chegar, esperamos que tenhamos liberado o caminho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>"Boa sorte, Vinculador do Destino. Nossas esperanças vão com você. Eu sei que as paredes externas de Posto de Sentinela são muito patrulhadas por [url=glossary:kyros]Kyros[/url]' e as [url=glossary:unbroken]ininterrupto[/url] igualmente. Você pode encontrar alguma ajuda entre a devastação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>"É melhor você começar no Stone Downs. Os Homens-Besta que buscamos tomaram essa área para si. Eles podem não gostar da sua vinda, mas apreciarão sua força se você mostrar." "Vou marcar o local em seu mapa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>"Cuidado ao recrutar essas... coisas. Muitos dos Homens-Besta de Azure eram escravos antes da guerra destruir a região, então você pode encontrá-los sem pressa para ajudar nossa causa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url]' o domínio afeta a todos nós, humanos e Fera igualmente. Não é por isso que estamos aqui, porque buscamos um terreno comum?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>"Talvez... talvez."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>"Os sacudidores de terra juraram lutar com o [url=glossary:disfavored]Desfavorecido[/url]. Você tem alguma noção de como podemos convencê-los a virar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>"Precisamos dar a eles uma razão convincente para arriscar Ashe ira, mas é importante notar que os Tremedores de terra são aliados mágicos dos [url=glossary:disfavored]Desfavorecido[/url] e nada mais. Salvo algumas exceções, eles não compartilham os laços familiares que unem a legião."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>"Os Sábios e os Lançadores de maré resistiram por um longo tempo, mas é claro que eles passaram por tempos difíceis. Os sacudidores de terra optou pelo caminho mais fácil. Sua pesquisa e crescimento floresceram com o apoio de [url=glossary:kyros]Kyros[/url] e Arcontes, embora, é claro, ao custo de alienar quaisquer colegas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>"São pessoas que fizeram uma vida estudando [url=glossary:cairn]Cairn[/url] - [url=glossary:graven ashe]Cinza esculpida[/url] é apenas o chefe do chefe, não o verdadeiro objeto de sua lealdade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>"O que mais devo saber sobre o [url=glossary:blade grave]Sepultura de Lâminas[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>"Os [url=glossary:unbroken]ininterrupto[/url] mostram uma persistência incrível para permanecer na área. Parece que eles não vão desistir de seu país enquanto algum deles ainda estiver de pé. Não consigo nem imaginar como eles aguentaram tanto tempo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>"O [url=glossary:edict]Edital[/url] de Tempestades rasga as ruínas do antigo Robusto, então prepare-se para se proteger contra um ataque de poeira e detritos. Agora, mais do que nunca, é um território duro e implacável."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"O [url=glossary:edict]Edital[/url] era uma maldição para os [url=glossary:kyros]Kyros[/url]' inimigos, embora tenha tocado ainda mais alguns de nós."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Nós poderíamos fazer muito pior do que colocar [url=glossary:forge-bound]Forge-Bound[/url] espadas em mãos merecedoras." Zdenya sorri com orgulho. "Qualquer que seja acontecer, certifique-se de voltar para [url=glossary:ascension hall]Salão da Ascensão[/url] inteiro. Esta coalizão precisa de seu líder, e eu odiaria que o [url=glossary:forge-bound]Forge-Bound[/url] voltasse às mãos de [url=glossary:kyros]Kyros[/url]'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>"Se vamos conquistá-los, comece entrando em contato com meu amigo Isadora. Quando trocamos missivas pela última vez, ela estava perto de [Plainsgate] e pode ainda estar lá."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Se vamos conquistá-los, comece entrando em contato com meu amigo Isadora. Quando trocamos missivas pela última vez, ela estava perto de [Plainsgate] e pode ainda estar lá."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"A vulnerabilidade dos magos pode torná-los mais receptivos à nossa oferta. Talvez nunca tenhamos uma chance melhor de colocá-los do nosso lado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Como o [url=glossary:stone sea]Mar de Pedra[/url] está rastejando com o Refrão, imagino que o Isadora pode renunciar ao traje tradicional Earthshaker. Sempre dissemos um ao outro que, se tivéssemos que falar sobre assuntos terríveis e preocupássemos estar sendo observados, usávamos a frase 'eu venderia meu braço esquerdo por um pouco de vinho de raiz de zibelina' e respondíamos com 'desculpe, compartilhei o último meu com o Bestas.' se for seguro falar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Encontre-a - ajude-a, se puder - e faça o que puder para trazê-los."
+
+"Estaremos aqui, reunindo nossas forças e montando forjas para armar a coalizão. Boa sorte, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Como o [url=glossary:stone sea]Mar de Pedra[/url] está rastejando com o Refrão, imagino que o Isadora pode renunciar ao traje tradicional Earthshaker. Sempre dissemos um ao outro que, se tivéssemos que falar sobre assuntos terríveis e preocupássemos estar sendo observados, usávamos a frase 'eu venderia meu braço esquerdo por um pouco de vinho de raiz de zibelina' e respondíamos com 'desculpe, compartilhei o último meu com o Bestas.' se for seguro falar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Encontre-a - ajude-a, se puder - e faça o que puder para trazê-los."
+
+"Estaremos aqui, reunindo nossas forças e montando forjas para armar a coalizão. Boa sorte, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Vinculador do Destino, ofereço meu apoio nesta missão. O [url=glossary:blade grave]Sepultura de Lâminas[/url] é um lugar de... de memória. Deixei muitas coortes enterradas entre as ruínas, e uma parte pequena de mim também."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Você poderia elaborar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Vou considerar sua oferta, mas não prometo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Prefiro manter temas de guerra entre nós. Você é livre para fazer tratados como achar melhor, mas estou menos inclinado a colocar minha confiança no Sul." Ele olha para o Arri e de volta para você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"Perdi centenas de conterrâneos no último dia da campanha Robusto, e pelos meus problemas fiquei fundido nesta armadura. O [url=glossary:blade grave]Sepultura de Lâminas[/url] é o último lugar em que me senti... humano. Isso é tudo o que vou dizer agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>"Você investiu muito nesta missão. Claro que você pode me acompanhar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>"Eu aprecio isso, Vinculador do Destino. [url=glossary:graven ashe]Cinza esculpida[/url] é atencioso e compreensivo com cada uma de suas tropas, e me agrada ver o exemplo dele em você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Boa sorte, Vinculador do Destino. Nossas esperanças vão com você. Eu sei que as paredes externas de Posto de Sentinela são muito patrulhadas por [url=glossary:kyros]Kyros[/url]' e as [url=glossary:unbroken]ininterrupto[/url] igualmente. Você pode encontrar alguma ajuda entre a devastação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>"Vou apontar o caminho para Posto de Sentinela. Levaria cem vidas para esquecer aquelas velhas paredes, ou o dia em que [url=glossary:edict]Edital[/url] quebrou nosso avanço..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Eu entendo que você tem suas prioridades e sua maneira de fazer as coisas. Eu apenas pensei..." Ele desvia o olhar, incapaz ou sem vontade de terminar o pensamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Isso é tudo? Sua maneira mudou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>Barik fica mais ereto, e por um momento você não pode dizer se ele vai atacar ou se encolher. Você está preparado para qualquer coisa. Depois de uma longa pausa, seus ombros caíram um pouco.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>"Minha coorte marchou em Posto de Sentinela para completar uma missão... falhamos. As paredes da fortaleza nos desafiaram, e o último Regente de Stalwart se recusou a nos enfrentar na batalha. A chegada de [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] nos afastou do nosso objetivo. Por isso, o [url=glossary:blade grave]Sepultura de Lâminas[/url] também é um lugar de arrependimento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>Nó de conversão de gatilho 94</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Se a coalizão já degenerou para isso, então não posso deixar de lamentar nossas chances."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Não devemos julgar a Irmandade pelas ações do falecido Primeiro Irmão, e seríamos tolos em tornar alguém corajoso o suficiente para lutar pelo Camadas."
+
+Eb acena com um sorriso satisfeito. "Além do mais, ter mercenários do nosso lado faz com que pareça uma guerra adequada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Lembre-se de que seus idiotas estão aqui porque toleramos a ideia de cooperação. Isso tem seus limites." Ela acena para você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Eu tive que dizer isso a eles quantas vezes?" Eb revira os olhos. "Talvez tudo o que Arcontes precisa fazer é sentar e nos deixar discutir e brigar até nos separarmos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Mulheres-Feras são as lutadoras mais selvagens e ferozes de todas as Camadasterras. A maior tribo - [url=glossary:stonestalkers]Perseguidores de Pedras[/url] em Azure-lands - seguirá Alfa para matar-in-Shadow. Lutará ao lado do humano mais forte para sobreviver."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>[Para Matar-in-Shadow] "Que tal convidarmos alguns Homens-fera para nossa pequena 'tribo' aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Ela ofega alegremente, língua pendurada, pingando saliva sobre os dentes. Ela lambe o sangue de seus lábios e rosna ansiosamente. "Mulheres-Feras lutarão por Alfa. Ajudará Mortes-in-Shadow a vingar a tribo caída - rasgará [url=glossary:kyros]Kyros[/url] em pedaços e devorará o fígado humano [url=glossary:prima]Prima[/url]!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>A Mulher-Fera encolhe os ombros carnudos. "Sempre os humanos temem a natureza. Tumulto em Pedra-lands tornou a tribo [url=glossary:stonestalker]Perseguidor de Pedras[/url] mais forte do que nunca. O que é bom para as tribos, é bom para Alfa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>"Sério? Você está me dizendo que não posso vê-los se afogar em um lago de lava?" Ela cruza os braços e exala em exasperação.
+
+"Contanto que eu tenha uma chance logo..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Você espera que eu coopere com os guerreiros de Stalwart? Foi a teimosia deles que me colocou nesta armadura, e entristeceu o Em geral com perdas incontáveis!" Barik massageia a testa de seu elmo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>O [url=glossary:forge-bound]Forge-Bound[/url] Mestre volta a olhar para Barik de uma posição de segurança. "Ninguém está tirando conclusões precipitadas aqui, meu amigo de ferro. Eu prefiro nos ver aliados ao Tremedores de terra, eu mesmo. Essa coalizão precisa de inteligência e estratégia se quisermos evitar os erros do passado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>Ela pisca para ele duas vezes. "Você é um espécime notável, não é? Quando esse conflito acabou, você deve me permitir inspecionar esse seu terno."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>"Nós poderíamos fazer muito pior do que colocar [url=glossary:forge-bound]Forge-Bound[/url] espadas em mãos merecedoras." Zdenya sorri com orgulho. "Qualquer que seja acontecer, certifique-se de voltar para [url=glossary:ascension hall]Salão da Ascensão[/url] inteiro. Esta coalizão precisa de seu líder, e eu odiaria que o [url=glossary:forge-bound]Forge-Bound[/url] voltasse às mãos de [url=glossary:kyros]Kyros[/url]'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Vinculador do Destino, ofereço meu apoio nesta missão. O [url=glossary:blade grave]Sepultura de Lâminas[/url] é um lugar de... de memória. Deixei muitas coortes enterradas entre as ruínas, e uma parte pequena de mim também."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Você poderia elaborar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"Prefiro manter temas de guerra entre nós. Você é livre para fazer tratados como achar melhor, mas estou menos inclinado a colocar minha confiança no Sul." Ele olha para o Arri e de volta para você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"Perdi centenas de conterrâneos no último dia da campanha Robusto, e pelos meus problemas fiquei fundido nesta armadura. O [url=glossary:blade grave]Sepultura de Lâminas[/url] é o último lugar em que me senti... humano. Isso é tudo o que vou dizer agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"Isso é tudo? Sua maneira mudou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>Barik fica mais ereto, e por um momento você não pode dizer se ele vai atacar ou se encolher. Você está preparado para qualquer coisa. Depois de uma longa pausa, seus ombros caíram um pouco.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Minha coorte marchou em Posto de Sentinela para completar uma missão... falhamos. As paredes da fortaleza nos desafiaram, e o último Regente de Stalwart se recusou a nos enfrentar na batalha. A chegada de [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] nos afastou do nosso objetivo. Por isso, o [url=glossary:blade grave]Sepultura de Lâminas[/url] também é um lugar de arrependimento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>"Vou considerar sua oferta, mas não prometo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Eu entendo que você tem suas prioridades e sua maneira de fazer as coisas. Eu apenas pensei..." Ele desvia o olhar, incapaz ou sem vontade de terminar o pensamento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Vou apontar o caminho para Posto de Sentinela. Levaria cem vidas para esquecer aquelas velhas paredes, ou o dia em que [url=glossary:edict]Edital[/url] quebrou nosso avanço..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Você investiu muito nesta missão. Claro que você pode me acompanhar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>"Eu aprecio isso, Vinculador do Destino. [url=glossary:graven ashe]Cinza esculpida[/url] é atencioso e compreensivo com cada uma de suas tropas, e me agrada ver o exemplo dele em você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"As paredes externas da Fortaleza Sentinela estão em ruínas, mas são muito patrulhadas por [url=glossary:unbroken]ininterrupto[/url] batedores. Procure aliados entre a devastação e você poderá encontrar alguns."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"As paredes externas da Fortaleza Sentinela estão em ruínas, mas são muito patrulhadas por [url=glossary:unbroken]ininterrupto[/url] batedores. Procure aliados entre a devastação e você poderá encontrar alguns."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>124</ID>
+      <DefaultText>"Ah sim, vamos adicionar os discípulos do traidor Arconte ao nosso pequeno bando." Ela joga seu cajado no chão com um beicinho. "O que poderia dar errado?"
+
+"Eu aplaudo a ideia de negar o conhecimento arcano do inimigo... mas não tenho certeza se quero o Tremedores de terra sentado em nossa mesa se isso acabar bem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>"Ênfase em SE as coisas terminarem bem." Lantry levanta um dedo em protesto. "E não podemos recusar um aliado poderoso se quisermos ter sucesso. Confie em mim, eu também tenho minhas reservas sobre isso... nós já temos mais do que nosso quinhão de rivalidade arcana nesta sala."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>126</ID>
+      <DefaultText>"Lantry tem razão, precisamos de tudo o que pudermos, não vou recusar uma poderosa guilda mágica se for uma opção."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>127</ID>
+      <DefaultText>"Há poucas garantias de que os seguidores de [url=glossary:cairn]Cairn[/url] vão jogar bem com os outros que lutam pela causa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>128</ID>
+      <DefaultText>"Vocês dois estão me dando dor de cabeça com essa conversa. Já tomei minha decisão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Assim como não vou recusar a chance de dizer 'eu avisei' com bastante antecedência."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"Sim, sim, suponho que se você assumir traição e discordância, essas coisas têm uma maneira de auto-realização."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Cheira a ferrugem e desespero. Pouco ou nada resta do Stalwart's velho orgulho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"Você se lembra de alguém? Não? Vou guardar meus pensamentos para mim, então."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"Com essa mentalidade, eu diria que já vencemos." Welby abre um sorriso feroz. "Tenho conexões em [url=glossary:stone sea]Mar de Pedra[/url] que conhecem as rotas de patrulha [url=glossary:scarlet chorus]Coro Escarlate[/url]. Eles podem levá-lo para a região sem um arranhão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Por que não tentamos recrutar os dois?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"O povo de Robusto tem uma batalha no sangue. Por mais que me mate admitir isso, ouvi de várias fontes que o [url=glossary:disfavored]Desfavorecido[/url] considera o [url=glossary:unbroken]ininterrupto[/url] 'quase digno' no que diz respeito aos adversários. Se o [url=glossary:disfavored]Desfavorecido[/url] respeitar a contragosto suas proezas, isso diz muito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Ah, certamente deveríamos tentar... supondo que todos estejam dispostos a compartilhar a mesma barraca... e supondo que outros poderes não cheguem a eles primeiro. Com o tempo, devemos procurar reunir o máximo de aliados que pudermos... mas você é nosso principal representante e não pode estar em dois lugares ao mesmo tempo, então... quem você deseja abordar primeiro?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>"Qual valor o [url=glossary:unbroken]ininterrupto[/url] forneceria?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Embora os Earthshakers não são um grupo muito grande, seus feitiços para moldar, mover e destruir pedra seriam um benefício extraordinário para sua coalizão... e uma vantagem importante para negar o [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>"E mais importante, como o [url=glossary:vendrien guard]Guarda Vendrien[/url], o [url=glossary:unbroken]ininterrupto[/url] ainda desafia abertamente [url=glossary:kyros]Kyros[/url] - mesmo o [url=glossary:edict]Edital [/url] de Storms não silenciou completamente sua vontade. Qualquer um que esteja determinado a lutar fará uma forte adição à nossa causa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>"O que o Guilda Earthshakers pode oferecer à nossa coalizão?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>"Com [url=glossary:cairn]Cairn[/url], Radix é seu novo líder, mas Isadora, seu associado próximo, é como o antigo Arconte de Pedra - teimoso e independente. E sua mentalidade dificilmente é incomum entre seus pares. Eu sei que muitos magos da terra consideram [url=glossary:cairn]Cairn[/url] seu mestre, não [url=glossary:kyros]Kyros[/url] ou Ashe - um sentimento mantido em silêncio, mas que poderíamos explorar para dividir eles do rebanho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"Acho imprudente nos cercar de místicos - especialmente aqueles extraídos de nossos inimigos. Precisamos de corpos mais quentes para defender nossas propriedades. Dito isso... de fato estaríamos roubando de nosso inimigo para nos fortalecer e... bem, não posso argumentar contra uma estratégia sólida como essa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"Vou até o [url=glossary:stone sea]Mar de Pedra[/url] e procuro o Isadora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Então... você organiza mensagens enigmáticas para se comunicar em situações de comprometimento com todos os seus amigos? O que é a história aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Esperamos que este seu amigo seja útil."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"É um hábito que adquirimos por causa de [url=glossary:disfavored]Desfavorecido[/url] sensibilidades. Embora Isadora e eu são ambos cidadãos o Império do Norte, ambos nascemos e crescemos e Refúgio - e ambos juramos fidelidade aos Arcontes do Norte por nossa própria vontade, antes desta guerra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"Os [url=glossary:forge-bound]Forge-Bound[/url] não se importam com o meu passado, eles acham que é estranho, realmente, mas os Earthshaker [url=glossary:disfavored]Desfavorecido[/url] são aliados profundamente desconfiado daqueles que não nasceram sob o regime Soberano. Como a [url=glossary:disfavored]Desfavorecido[/url] não precisa de mais motivos para desconfiar dela e dela Guilda, ela e eu adquirimos o hábito de discutir nostalgia através do código."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"Rancid-fraco Chorus whelps não pode comparar a força de [url=glossary:stonestalkers]Perseguidores de Pedras[/url]. Alfa não quer tribo de caçadores-guerreiros do seu lado? Mulher-Besta são mais resistentes. Têm melhor destreza e são mais leais que os humanos. Mas Alfa prefere lutar [url=glossary:stonestalkers]Perseguidores de Pedras[/url] como inimigos? Por quê?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Por que não tentamos recrutar os dois?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Ah, certamente deveríamos tentar... supondo que todos estejam dispostos a compartilhar a mesma barraca... e supondo que outros poderes não cheguem a eles primeiro. Com o tempo, devemos procurar reunir o máximo de aliados que pudermos... mas você é nosso principal representante e não pode estar em dois lugares ao mesmo tempo, então... quem você deseja abordar primeiro?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"E o [url=glossary:burning library]Biblioteca em chamas[/url]? Poderia buscamos ajuda lá?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>152</ID>
+      <DefaultText>"Tivemos alguns Sábios se juntando à nossa causa - eles lutaram conosco - e morreram - durante o cerco. Pelo que me disseram, o [url=glossary:burning library]Biblioteca em chamas[/url] está abandonado, exceto por algumas Refrão gangues saqueando o que sobrou do local."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>153</ID>
+      <DefaultText>"Podemos encontrar alguns retardatários nas ruínas, mas precisamos de mais do que apenas alguns voluntários, precisamos de um exército. Vou enviar outro par de batedores para ver se podemos fazer contato com a liderança Sábios' - o que resta dela - mas, por enquanto, vamos concentrar nossos esforços em quantidades conhecidas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Em épocas passadas, armar o Homens-fera é muitas vezes um sinal de desespero... estes são tempos desesperados. Acho que os [url=glossary:stonestalkers]Perseguidores de Pedras[/url] podem ser um aliado difícil de conquistar, mas eles são a tribo mais forte da terra agora - é melhor tê-los como amigos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"O [url=glossary:disfavored]Desfavorecido[/url] derrotou o [url=glossary:unbroken]ininterrupto[/url], mas eles nunca reivindicaram o Guarda Sentinela. Os últimos vestígios dos Regentes, os governantes de Stalwart, provavelmente ainda estão escondidos em sua fortaleza. Você também pode ter alguma sorte rondando as selvas do [url=glossary:blade grave]Sepultura de Lâminas[/url] para [url=glossary:unbroken]ininterrupto[/url] partisans... imagine como eles vivem sendo perseguidos pelo [url=glossary:disfavored]Desfavorecido[/url] e atormentados pelo [url=glossary:edict]Edital[/url] de Tempestades."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"O [url=glossary:disfavored]Desfavorecido[/url] derrotou o [url=glossary:unbroken]ininterrupto[/url], mas eles nunca reivindicaram o Guarda Sentinela. Os últimos vestígios dos Regentes, os governantes de Stalwart, provavelmente ainda estão escondidos em sua fortaleza. Você também pode ter alguma sorte rondando as selvas do [url=glossary:blade grave]Sepultura de Lâminas[/url] para [url=glossary:unbroken]ininterrupto[/url] partisans... imagine como eles vivem sendo perseguidos pelo [url=glossary:disfavored]Desfavorecido[/url] e atormentados pelo [url=glossary:edict]Edital[/url] de Tempestades."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"O [url=glossary:disfavored]Desfavorecido[/url] derrotou o [url=glossary:unbroken]ininterrupto[/url], mas eles nunca reivindicaram o Guarda Sentinela. Os últimos vestígios dos Regentes, os governantes de Stalwart, provavelmente ainda estão escondidos em sua fortaleza. Você também pode ter alguma sorte rondando as selvas do [url=glossary:blade grave]Sepultura de Lâminas[/url] para [url=glossary:unbroken]ininterrupto[/url] partisans... imagine como eles vivem sendo perseguidos pelo [url=glossary:disfavored]Desfavorecido[/url] e atormentados pelo [url=glossary:edict]Edital[/url] de Tempestades."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"O [url=glossary:disfavored]Desfavorecido[/url] derrotou o [url=glossary:unbroken]ininterrupto[/url], mas eles nunca reivindicaram o Guarda Sentinela. Os últimos vestígios dos Regentes, os governantes de Stalwart, provavelmente ainda estão escondidos em sua fortaleza. Você também pode ter alguma sorte rondando as selvas do [url=glossary:blade grave]Sepultura de Lâminas[/url] para [url=glossary:unbroken]ininterrupto[/url] partisans... imagine como eles vivem sendo perseguidos pelo [url=glossary:disfavored]Desfavorecido[/url] e atormentados pelo [url=glossary:edict]Edital[/url] de Tempestades."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

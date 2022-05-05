@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>quests\06_endgame\06_qst_opportuneoffensive</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>15</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Ofensiva Oportuna</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Mate o tenente [url=glossary:disfavored]Desfavorecido[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Mate os esquadrões [url=glossary:disfavored]Desfavorecido[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Viaje para o Deserto das Planícies Partidas.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>(Opcional) Recruta os feridos [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] soldados.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Retorno à Cacofonia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>Os batedores do coro relataram que os [url=glossary:disfavored]Desfavorecido[/url] e [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] estão lutando entre si no deserto não muito longe de [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Splinter acha que esta seria uma boa oportunidade para dar um golpe contra os [url=glossary:disfavored]Desfavorecido[/url] enquanto eles estão enfraquecidos e distraídos.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>Mate o tenente responsável pelo [url=glossary:disfavored]Desfavorecido[/url] na área.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText>Mate todos os [url=glossary:disfavored]Desfavorecido[/url] soldados que encontrar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>Descubra onde os [url=glossary:disfavored]Desfavorecido[/url] e [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] estão envolvidos em combate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText>Ofereça aos soldados feridos [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] um lugar dentro do [url=glossary:scarlet chorus]Coro Escarlate[/url].</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Retorne ao Splinter in Cacophony e relate seu sucesso.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30000</ID>
+      <DefaultText>Você desferiu um golpe contra o [url=glossary:disfavored]Desfavorecido[/url] matando um tenente e seu batalhão.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30001</ID>
+      <DefaultText>A oportunidade de resolver esta tarefa passou.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30002</ID>
+      <DefaultText>Você traiu seus aliados e não pode mais completar esta tarefa.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

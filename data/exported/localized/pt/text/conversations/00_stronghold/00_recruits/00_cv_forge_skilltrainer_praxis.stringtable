@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\00_recruits\00_cv_forge_skilltrainer_praxis</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>22</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"De fato, uma instituição de poder é muito mais difícil de quebrar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Sim, o poder de uma pessoa é frequentemente medido pelo quão grande percebemos esse poder."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"O que você fez para mim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Deixar.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Eu não tinha considerado isso - quando os ventos podem ser agitados por sua própria declaração, quem pode questionar seu controle?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Minhas desculpas Vinculador do Destino, mas a forja está em manutenção. Não posso vender nenhum produto até que esteja terminado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Deixe-me mostrar a você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Não tenho nada para você no momento. Volte mais tarde."
+
+[Recrutas podem gerar itens para você enquanto você ganha experiência ao se aventurar no mundo.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>O rosto do homem se ilumina no momento em que você se aproxima. "Ah, Governador [Player Name], tudo bem se eu me referir a você pelo seu antigo endereço? Nós ainda temos que ter alguém correndo [url=glossary:lethian's crossing]A travessia de Lethian[/url] tão bem quanto você - até onde eu sei, o manto sempre será seu." Ele mexe com seu martelo ansiosamente por um momento antes baixando a voz. "Se posso ser tão ousado, tenho uma pergunta para você..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>O homem se curva profundamente diante de você. "Estimado Vinculador do Destino [Player Name], com tantas horas passadas na forja, nós artesãos somos um pouco propensos a fofocas. Escusado será dizer que o Fatebinder do Pináculo da Montanha foi o assunto de muitas conversas enquanto trabalhava no fole." Ele mexe com o martelo ansiosamente por um momento antes de baixar a voz. "Se posso ser tão ousado, tenho uma pergunta para você..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Pergunte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Não tenho tempo para conversa fiada, o que você tem para mim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Praxis abaixa a cabeça, cabisbaixo. "Sim, há assuntos mais importantes em mãos do que essas perguntas bobas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>Os olhos de Praxis se iluminam com a mesma intensidade da forja atrás dele. "A partir de onde o poder [url=glossary:kyros]Kyros[/url]' realmente se origina? É da magia dos Editais? É de Arcontes, ou talvez dos súditos leais e sua labuta?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Arcons são a verdadeira fonte de poder [url=glossary:kyros]Kyros[/url]'. Com criaturas tão poderosas à disposição do Soberano, ele pode delegar muitos de seus assuntos, e seu alcance se torna ilimitado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Eu diria que os plebeus do mundo são a fonte do [url=glossary:kyros]Kyros[/url]' poder. É a submissão coletiva que legitima a regra [url=glossary:kyros]Kyros[/url]'."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"Os decretos são o cerne do poder [url=glossary:kyros]Kyros[/url]'. Magia poderosa que pode moldar a própria paisagem dá [url=glossary:kyros]Kyros[/url] domínio sobre nossa realidade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Praxis silenciosamente acena para si mesmo por um momento, quase esquecendo que você esteve lá. "Ah, minhas desculpas por me entregar ao filosófico. Há algo que eu possa fazer por você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>[Dar de ombros]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"...Indiferença iluminada - uma virtude incomum."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Você voltou, Vinculador do Destino." Ele acena com a cabeça. "O que posso fazer por você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Você tinha uma pergunta para mim?"</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

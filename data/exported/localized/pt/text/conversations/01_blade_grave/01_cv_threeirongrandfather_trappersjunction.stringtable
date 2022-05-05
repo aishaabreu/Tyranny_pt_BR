@@ -1,0 +1,1228 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\01_blade_grave\01_cv_threeirongrandfather_trappersjunction</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>236</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Nós vamos, bem. Veja o que temos aqui." O esquelético Lança Carmesim pigarreia e o encara com interesse analítico e desapegado. "Uma fatia de carne fresca para abrir e desmanchar à luz de velas. O que será? Venha baixinho, ou vem ruidosamente?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>O fortemente blindado Lança Carmesim está atualmente ocupado usando um pedaço de bronze afiado em uma ferida auto-infligida em seu antebraço. Ele olha para você e faz uma careta - de dor ou de reconhecimento, é difícil dizer. 
+
+"O Vinculador do Destino de [url=glossary:tunon]Tunon[/url] é reconhecido no meu acampamento. Saudação. Eles me chamam de Remédio irregular."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"O que você ainda está fazendo aqui? Eu tenho não explicou o que se espera de você? Vá em frente!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Você está muito longe de [url=glossary:tunon]Tunon[/url] de Tribunal. Você se perdeu ou está aqui por algum motivo? Falar up - minha gangue está ocupada o suficiente sem receber convidados."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Esses rebeldes não vão desistir sem lutar, mas eles são inúteis para mim como cadáveres - a menos que Robusto carne fique melhor do que porco." Nada em seu tom sugere que ele está brincando. "Quero que você os convença a se juntar à minha equipe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Os [url=glossary:unbroken]ininterrupto[/url] devem ser fáceis agora - nós os sangramos quase até secar, e eles se mostrarão maleáveis. Mas falar, negociar..." Ele estremece um pouco. "Não é meu forte." 
+
+"Fale com eles. Convença-os a largar seus postes enferrujados e se juntar às nossas fileiras."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Vou ajudá-lo a recrutar o maior número possível de [url=glossary:unbroken]ininterrupto[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Ataque] "Na realidade, decidi formar minha própria 'gangue', sem Nerat ou o Refrão. Submeta-se a mim ou morra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Ele não parece nem um pouco surpreso com esse desenvolvimento. "Como eu suspeito. Sua postura inclinada, o formato de sua cabeça - tudo traiu suas intenções para mim. Não somos estranhos à ambição no Refrão, mas sua vez é extremamente tola. Estou curioso para saber qual desequilíbrio de humores pode ter provocado sua resposta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Você não é generoso com seu tempo? As vozes ouvirá falar de sua devoção à nossa causa... supondo que o [url=glossary:unbroken]ininterrupto[/url] não destrua seus ossos da corte." Ele ri baixinho para si mesmo. "Deixe-me saber quando você convencer aquele grupo maltrapilho de novatos a se juntar às nossas fileiras honradas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Bom trabalho. Você conseguiu obter um bom número deles para participar. E menos deles morreram do que se fôssemos com nossos... métodos usuais."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Bom trabalho. Espero vê-lo no Posto Sentinela se a tempestade diminuir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Vou pensar nisso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Ele estica o pescoço para observar as tempestades de ferrugem girando em cima. "O clima se volta contra nós. Não vamos esperar para sempre - então ou nos ajude ou fique de lado. Não tenho paciência para atrasos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Os [url=glossary:unbroken]ininterrupto[/url] aqui já estão mortos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Que lamentável. Poderíamos ter lidado com a... disposição deles nós mesmos." Ele suspira. "Tal é a natureza da guerra que as pessoas devem morrer, e eu devo ficar eternamente desapontado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Embora eu esteja arrasado por termos negado alguns novos recrutas, devo admitir que fiquei impressionado por você ter despachado todos eles sozinho." Ele franze a testa. "Eu não deveria recompensar tal comportamento, mas a longo prazo precisamos de mais assassinos do que pacifistas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"Não mencione isso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Ataque] "Ainda não terminei de matar. Não preciso do Coro ou Nerat... e você é o próximo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Ele não parece nem um pouco surpreso com esse desenvolvimento. "Como eu suspeito. Sua postura inclinada, o formato de sua cabeça - tudo traiu suas intenções para mim. Não somos estranhos à ambição no Refrão, mas sua vez é extremamente tola. Estou curioso para saber qual desequilíbrio de humores pode ter provocado sua resposta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Ele coloca um dedo curioso na borda de sua máscara e estuda você. "Extraordinário espécime. Aqui, tome alguns toques para seus problemas. Você os conquistou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"Já cuidei do [url=glossary:unbroken]ininterrupto[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Você estava me avaliando antes. Por quê?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Sem intenção de ofender. Eu faço da anatomia humana o meu negócio. Quando vejo um espécime de interesse, fico animado." Ele ri para si mesmo e acena com a cabeça.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"O que os [url=glossary:scarlet chorus]Coro Escarlate[/url] querem do [url=glossary:blade grave]Sepultura de Lâminas[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Ele ri. "Você quer dizer além de ter prazer em assistir a [url=glossary:disfavored]Desfavorecido[/url] disputar a compra nesta triste pequena guerra deles?" Ele aponta para um grupo de cativos. "Recrutamento. Os desesperados e derrotados são os melhores guerreiros, capazes do sacrifício final. O que mais eles têm a perder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"O [url=glossary:unbroken]ininterrupto[/url] líder pode ser influenciado se você libertar alguns de seus prisioneiros."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>"E desistir dos meus prêmios? Esses são os melhores do lote - entre os melhores espécimes que tirei ultimamente. Eu não ousaria me separar deles. Os que não guardo para meus estudos vão para [url=glossary:the voices of nerat]o Vozes de Nerat[/url]." Ele bate no queixo para considerar.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>"O resto da tripulação Mattias' deve ser a mais forte para ter sobrevivido por tanto tempo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"O [url=glossary:unbroken]ininterrupto[/url] nunca recua. Pense no golpe que você daria nas fileiras se eles se rendessem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Ele vale mais que Mattias, o [url=glossary:unbroken]ininterrupto[/url] líder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>Ele olha para você com uma carranca questionadora. "Suponho que um lutador tão experiente quanto você saberia quando encontrasse seu adversário. Multa - o [url=glossary:unbroken]ininterrupto[/url] pode ser liberado em troca do recrutamento da unidade maior. Suponho que um gesto de boa fé terá que servir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Que tal apenas os [url=glossary:unbroken]ininterrupto[/url] prisioneiros?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Que tal apenas o Caminhante de Ferro? Tenho certeza de que eles se divertiriam atormentando-o."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>"Você está bravo? Ele é vale o dobro do ferro que ele usa no corpo!" Remédio irregular balança a cabeça. "Você deve perceber que é raro ao ponto de ser impossível capturar um oficial superior no [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Ele balança a cabeça. "Aqueles dois conseguiram sobreviver a um ataque de Fúrias Escarlates. Eles valem o dobro de seus conterrâneos - os mais resistentes que já vi fora da legião Ashe. Além do mais, eles são os mais propensos a fugir Junção do Trapper e informar o resto do [url=glossary:unbroken]ininterrupto[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>"Como você planeja convencê-los?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Ele coça o queixo. "Você tem razão. Se destruíssemos o moral deles, seria possível recrutar todo o exército sob nossa bandeira." Ele faz um aceno de desdém. "Assim seja. Os prisioneiros podem ser soltos se o resto da unidade se submeter. Chame isso de meu investimento no futuro desta guerra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>"Um ultimato - elegante em sua simplicidade. Direi ao [url=glossary:unbroken]ininterrupto[/url] que os reforços [url=glossary:scarlet chorus]Coro Escarlate[/url] estão a caminho. Quando chegarem, não farão prisioneiros e todos morrerão." "Essas mulheres e homens são patriotas, mas também são sobreviventes. Eles escolherão viver seus dias vestindo vermelho se isso significar manter a herança do antigo Robusto viva, ou algo parecido."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>"Está [url=glossary:the voices of nerat]o Vozes de Nerat[/url] enviando forças adicionais para o [url=glossary:blade grave]Sepultura de Lâminas[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>"Nada na ordem de grandeza que sugeri. Suas forças estão espalhadas o suficiente sem ir contra Ashe forças em seu território natal... agora, pelo menos."
+
+"Isso é o que chamamos de 'incentivar' a presa. Um blefe. Agora siga seu caminho - esses mestiços certamente morderão a isca."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>"Mmm." Ele bate na mandíbula. "As vozes está à procura de sangue novo que possa trazer mais para o rebanho." Ele acena para si mesmo. "Muito bem. Eu libero o Caminhante de Ferro para o acampamento [url=glossary:unbroken]ininterrupto[/url], se isso convencer Mattias e seus compatriotas de nossas boas intenções. Envie meus cumprimentos ao capitão corajoso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>Ele coça o queixo. "Você tem razão. Se destruíssemos o moral deles, seria possível recrutar todo o exército sob nossa bandeira." Ele faz um aceno de desdém. "Assim seja. Os prisioneiros podem ser soltos se o resto da unidade se submeter. Chame isso de meu investimento no futuro desta guerra."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>"Estou aqui para ajudar. Qual é o problema?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>"Você tem dificuldade em recrutar soldados?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>Seus olhos se enchem de prazer. "Soldados fazem um grande show de resistência a nós, mas isso só torna sua conquista ainda mais doce. Pressionar marinheiros bêbados para o serviço não tem a satisfação de um trabalho bem feito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>"Mantenha sua guarda em torno deste, Vinculador do Destino. Ele se chama de médico, mas está tão disposto a tentar suas 'terapias' nos saudáveis quanto nos feridos - e isso geralmente envolve a remoção de algo vital."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>"O que há de tão especial no [url=glossary:unbroken]ininterrupto[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>"Eles são um povo mais teimoso e resistente do que você encontrará em qualquer outro lugar no Camadas. Fora o Homens-fera, claro. E ajuda que eles tenham uma luta decente contra o [url=glossary:disfavored]Desfavorecido[/url]. Eu convidaria essa força para minha gangue qualquer dia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>"Achei que Ashe proibia o [url=glossary:scarlet chorus]Coro Escarlate[/url] de entrar no [url=glossary:blade grave]Sepultura de Lâminas[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>"Você vê [url=glossary:graven ashe]Cinza esculpida[/url] aqui, balançando seu martelo com selvagem abandono?" Remédio irregular faz um show de olhar sobre a área. "Nem eu."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>"Estamos no meio de uma guerra civil. Até a poeira baixar, [url=glossary:graven ashe]Cinza esculpida[/url] não possui esta região mais do que eu possuo o martelo de [url=glossary:tunon]Tunon[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>"Duas coisas. Primeiro, os [url=glossary:unbroken]ininterrupto[/url] não são burros o suficiente para se juntar ao Refrão. Segundo, eles também não são inteligentes o suficiente. E você tem que pensar, os [url=glossary:unbroken]ininterrupto[/url] ainda vivos hoje são os endurecidos e amargos. Se algum deles sentisse simpatia pelo Refrão, eles já teriam muitas chances de se juntar - duvido que você perguntando vai conquistá-los. E mesmo se você os convencesse... o Refrão realmente precisa de selvagens mais beligerantes? Eu sei a resposta, alguém só precisa perguntar essas coisas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>"Estou usando o [url=glossary:scarlet chorus]Coro Escarlate[/url] para meus próprios fins, mas precisamos nos comprometer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>"Os [url=glossary:unbroken]ininterrupto[/url] são traidores, e vou vê-los eliminados do Camadas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>"Bem, é claro que você acha que tem vantagem sobre Nerat. Eu não acho que você pode ser o Arconte dos Segredos sem saber como construir a ilusão da desvantagem. Sua mente é singular, a de Nerat parece ser plural - espero que você não esteja dançando involuntariamente com o plano dele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>"As pessoas de Stalwart podem ser muitas coisas - inatas, mentalmente desafiadas, com cheiro hediondo, mas eles são NOSSOS primos idiotas, nós deveríamos ser os únicos a matá-los! Eu deveria saber... tudo o que você está fazendo é carregar água para Nerat. Surpreendeu o Arconte não te deu uma cavilha para usar seu traseiro para que você fique flexível para ele."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>"Não podemos falar sobre isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>"Sua insinuação precisa ser trabalhada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>[Ataque] "Eu nunca venho em silêncio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>"Eu vou falar quando você estiver na laje, e você não terá que dizer uma palavra. Eu estava ansioso para estudar intestinos frescos, mas os espécimes vivos são poucos e distantes entre si."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>"Encantador. Ficarei curioso para ver por quanto tempo seu senso de humor vencerá quando eu fizer a primeira fatia em seu fígado exposto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>"Eu suspeitava disso. Assim que eu remover suas cordas vocais, você estará mais de acordo com minhas necessidades."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>Ele se volta para seus soldados. "Subjugar este, mas tente não danificar o tecido além do reconhecimento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>"As vozes quer convidar algumas pessoas influentes para o Refrão. Estou aqui para ajudar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>"Com essa boca esperta, é uma maravilha que você ainda esteja vivo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>"Estou mais curioso para saber o que você está fazendo aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>"Estranho ver um servo de [url=glossary:tunon]Tunon[/url] escolhendo lados, mas suponho que estes são tempos estranhos e você tem suas razões. Nossos objetivos se complementam muito bem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>"Encurralamos um grupo de soldados na passagem. Eu entendo que um deles é o [url=glossary:unbroken]ininterrupto[/url] líder, Mattias. [url=glossary:the voices of nerat]As vozes de Nerat[/url] tem sido inflexível sobre 'convidar' pessoas de influência para nossas fileiras. Ele deseja aprender o máximo que puder antes de quebrá-los." Remédio irregular parece encantado com o próprio conceito. "De acordo com a diretiva Vozes', quero recrutar Mattias e sua unidade e adicionar sua força à minha gangue. A coisa toda provou... problemática, mas estamos prestes a apresentar a esses habitantes locais outrora orgulhosos seu ponto de ruptura."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>"Você é mais corajoso do que eu esperava. Bom. O [url=glossary:scarlet chorus]Coro Escarlate[/url] precisa de pessoas apaixonadas para colocar o resto em forma."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>"Se fôssemos inimigos, eu drenaria seus órgãos um por um - só para ver o que o desequilíbrio dos humores poderia fazer com você. Eu abriria buracos em seu crânio e colocaria marionetes em seus tendões expostos." Ele suspira. "Infelizmente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>"Esse plano não vai funcionar. O [url=glossary:unbroken]ininterrupto[/url] prefere morrer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>"Se for nosso único plano, então boa sorte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>"Talvez sim. Nesse caso, pegaremos suas armas, sairemos dessa área destruída e caçaremos outra patrulha [url=glossary:unbroken]ininterrupto[/url]. Precisamos engrossar as fileiras, mas não podemos perder nosso tempo nos preocupando com dezenas enquanto outras centenas não são reclamadas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>"Nós os sangramos até aqui - encurralamos a grande [url=glossary:unbroken]ininterrupto[/url]. Podemos perder alguns se e quando lançarmos o ataque final, mas estou confiante de que teremos acrescentado carne fresca à gangue. Isso é tudo o que importa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Você ouve um chefe de gangue [url=glossary:scarlet chorus]Coro Escarlate[/url] falando entre seus recrutas. Ele não parece notar você ainda.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>"Nós vamos, se você tem um desejo de morte, fique à vontade." O esquelético Lança Carmesim limpa a garganta e olha para você com interesse analítico e desapegado. "Uma fatia de carne fresca para abrir e desmanchar à luz de velas. O que será? Venha baixinho, ou vem ruidosamente?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>"Vinculador do Destino, Vinculador do Destino..." Remédio irregular balança a cabeça em desaprovação. 
+
+"Eu ouvi sua briga lá do outro lado do Junção. Diga-me que você deixou [url=glossary:unbroken]ininterrupto[/url] sobreviventes para recrutar? Eu queria recebê-los em minha gangue, não matá-los por atacado! Recrutamento é um trabalho delicado e precisa de uma mão controlada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>"Mattias, seu líder, se juntará ao Refrão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>111</ID>
+      <DefaultText>"Considerando que você demorou muito, você não está em posição de questionar meus métodos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>112</ID>
+      <DefaultText>"É mesmo? Um líder não é um prêmio pequeno, mas o resto de sua unidade poderia ter preenchido as linhas de frente. Suponho que não seja uma perda total." Ele dá de ombros. "Inevitável, em qualquer caso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>113</ID>
+      <DefaultText>"O [url=glossary:unbroken]ininterrupto[/url] nunca recua. Pense no golpe que você daria nas fileiras se eles se rendessem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>114</ID>
+      <DefaultText>"O que está acontecendo aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>115</ID>
+      <DefaultText>[Ouço]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>116</ID>
+      <DefaultText>"Não estamos apenas adicionando novos recrutas à mistura aqui. Assim que estes [url=glossary:unbroken]ininterrupto[/url] forem recrutados para as nossas fileiras, [url=glossary:the voices of nerat]the Vozes de Nerat[/url] terá todas as informações de que precisa sobre a região. Lareira de Ferro, Posto de Sentinela - o [url=glossary:blade grave]Sepultura de Lâminas[/url] será nosso em tudo, menos no nome." 
+
+Antes que ele possa continuar, ele pega você pelo canto do olho.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>117</ID>
+      <DefaultText>Ele se levanta e pisca para você. "Um Fatebinder em Trapper's Junction, hein? Nós somose muito longe da quadra de [url=glossary:tunon]Tunon[/url], pequena."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>118</ID>
+      <DefaultText>"Eu não me importo de atrair a ira de [url=glossary:tunon]Tunon[/url] para essa gangue se eu puder evitar, então tome isso como sua única chance de sair com seus órgãos intactos." Ele oferece um aceno de desprezo e se afasta.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>119</ID>
+      <DefaultText>"Como você administrou o recrutamento até agora?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>120</ID>
+      <DefaultText>"Da mesma forma que você caça qualquer animal grande e desajeitado - ferindo-o até que fique exausto e sangrando na lama. Ataques noturnos, emboscadas diurnas e o corte de seus suprimentos de comida suavizaram a carne para o quarteirão do açougueiro. Uma vez que esses Sulistas aprendam a desistir de seu orgulho, eles serão nossos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>121</ID>
+      <DefaultText>Este magro Lança Carmesim avalia você com interesse desapegado. "Você é o pequeno miserável de [url=glossary:tunon]Tunon#770004, não é? Não poderia vira as costas para o [url=glossary:scarlet chorus]Coro Escarlate[/url] rápido o suficiente, e agora o [url=glossary:the voices of nerat]o Vozes de Nerat[/url] grita seu nome com raiva quando pensa que ninguém está ouvindo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>122</ID>
+      <DefaultText>"O Arconte ficará muito satisfeito quando eu entregar sua cabeça. O resto do seu corpo, porém... vou guardá-lo para meus próprios experimentos em anatomia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>123</ID>
+      <DefaultText>"Não deveríamos falar sobre isso primeiro?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>125</ID>
+      <DefaultText>[Ataque] "Venha para mim então, aberração."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>129</ID>
+      <DefaultText>"Eu nunca fui muito de falar. Na verdade, tenho pensado em remover minhas cordas vocais para estudar."
+
+"Receio que essas sejam nossas últimas gentilezas compartilhadas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>130</ID>
+      <DefaultText>"O que os [url=glossary:unbroken]ininterrupto[/url] estavam fazendo antes de você encurralá-los?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>131</ID>
+      <DefaultText>"Eles passaram o último ano tentando alcançar Guarda Sentinela, o coração do velho Stalwart e um bastião de força."
+
+"Claro, [url=lore:edict_storms]o Édito das Tempestades[/url] cortou o antigo forte do resto do reino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>132</ID>
+      <DefaultText>"A unidade aqui em Junção do Trapper parece ter alguns grandes jogadores na hierarquia [url=glossary:unbroken]ininterrupto[/url] - se é que isso existe. Interceptamos alguns pássaros que eles despacharam às pressas, e eles parecem estar direcionando outros [url=glossary:unbroken]ininterrupto[/url] oficiais da região."
+
+"Se pegarmos o líder, Mattias, isso pode abrir o caminho para mais recrutas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>133</ID>
+      <DefaultText>"O que você sabe sobre o [url=glossary:edict]Edital[/url] de Tempestades?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>134</ID>
+      <DefaultText>"Só o necessário. Os problemas desta região são [url=glossary:graven ashe]Cinza esculpida[/url]'s para lidar. Estamos aqui apenas para piorar as coisas para ele." Ele sorri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>135</ID>
+      <DefaultText>"Straydus Herodin, o Regente do antigo Robusto, se escondeu atrás das paredes de Posto de Sentinela durante a guerra. De toda a linhagem dominante para lutar pela liberdade do país, ele foi o último. Para puni-lo por sua covardia, [url=glossary:kyros]Kyros[/url] elaborou este [url=glossary:edict]Edital[/url] e [url=lore:edict_storms_resolution]amaldiçoou a linhagem Regente.[/url] Enquanto Herodin viver, o as tempestades continuarão inabaláveis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>136</ID>
+      <DefaultText>"Claro, não estamos aqui para acabar com o [url=glossary:edict]Edital[/url]. Isso estaria ajudando [url=glossary:graven ashe]Cinza esculpida[/url] e suas tropas. As vozes só quer trazer mais Sulistas para o Refrão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>137</ID>
+      <DefaultText>Ele se volta para seus soldados. "Subjugar este, mas tente não danificar o tecido além do reconhecimento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>138</ID>
+      <DefaultText>"Você, então? E deixou um bom número vivo para o recrutamento?" Ele cruza os braços e bate no ombro pensativo.
+
+"Hm. Você foi e superou minhas expectativas reconhecidamente baixas. Muito bem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>139</ID>
+      <DefaultText>Ele se volta para seus soldados. "Subjugar este, mas tente não danificar o tecido além do reconhecimento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>140</ID>
+      <DefaultText>Ele olha para você. "Suae também quem decidiu a meu favor quando envenenamos aqueles [url=glossary:disfavored]Desfavorecido[/url] miseráveis, embora pareça que foi sua última decisão sensata."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>141</ID>
+      <DefaultText>Ele olha para você. "Suae também quem decidiu a meu favor quando envenenamos aqueles [url=glossary:disfavored]Desfavorecido[/url] miseráveis, embora pareça que foi sua última decisão sensata."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>142</ID>
+      <DefaultText>"E antes que você pergunte... é claro que eu reconheço você." Ele olha para seus recrutas. "Este é o corrupto Vinculador do Destino que governou a nosso favor quando envenenamos aqueles [url=glossary:disfavored]Desfavorecido[/url] batedores. Tão triste por termos caído das boas graças um do outro." "Mas eu me precipito... haverá tempo para conversar mais tarde. Você virá silenciosamente ou ruidosamente?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>143</ID>
+      <DefaultText>"E como não reconhecer um velho amigo da campanha Ápice?" Ele te dá um tapinha no ombro. "Você decidiu a meu favor depois daquele incidente de envenenamento, e eu nunca esqueço um rosto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>144</ID>
+      <DefaultText>"Os soldados precisam de menos arrombamento. Eles não vão chorar até dormir como um lavrador ou uma parteira recrutada para as linhas de frente. Eles simplesmente pegarão suas armas para lutar por uma causa melhor. Nosso."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>145</ID>
+      <DefaultText>"Novos recrutas são descartáveis. Eles provavelmente não sobreviverão à primeira batalha, então não faz sentido armá-los com algo melhor do que um bastão afiado. Soldados, porém - eles vêm com seus equipamentos e treinamento a reboque. Eles são o verdadeiro prêmio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>146</ID>
+      <DefaultText>"Ele é um degenerado e um pervertido, mas isso não deve impedi-lo de seguir seu conselho. Ele é um bom chefe." Ela acena para Remédio irregular.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>147</ID>
+      <DefaultText>"...Obrigado, Versículo, por sua perspectiva franca e elucidativa das minhas qualidades." Ele a encara antes de voltar a se concentrar em você.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>148</ID>
+      <DefaultText>"O degenerado está certo sobre isso, se nada mais. A força necessária para quebrar a lealdade [url=glossary:disfavored]Desfavorecido[/url] poderia facilmente derrubar um Pináculo de lado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>149</ID>
+      <DefaultText>"Hm. Eu deveria matá-lo por isso, mas isso privaria o Refrão de suas tão necessárias presas."
+
+"Se você estiver interessado em uma mudança de carreira, você faria um chefe de gangue de grande renome."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>150</ID>
+      <DefaultText>"Sentinel Stand é a sede do antigo Regente Robusto - o poder dominante do reino. Amelia não é vista desde o segundo ano da conquista. Se ela estiver viva e em Robusto, aposto que ela está lá."
+
+"Desde Mattias conhece a região, vou pedir para ele te encontrar lá para analisar seu próximo movimento." Ele sorri. "Vou mandá-lo com uma escolta Refrão, para que ele seja devidamente 'bem-vindo' nas fileiras, se você me entende."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>151</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] me deu uma pista sobre sua missão. Com Mattias absorvido nas fileiras, nosso prêmio final é Amélia, a filha rebelde de [url=glossary:graven ashe]Cinza esculpida[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>154</ID>
+      <DefaultText>"Vou cooperar com uma condição - quero entrar Posto de Sentinela e matar o último Regente." Seu olhar abatido se ergue com um pouco de esperança. "Lutamos por vingança contra Straydus Herodin e o fim deste [url=glossary:edict]Edital[/url]. Mesmo que eu não levante mais minha espada sob a bandeira [url=glossary:unbroken]ininterrupto[/url], eu veria nosso trabalho feito antes de sucumbir ao Refrão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>155</ID>
+      <DefaultText>"Isso é aceitável. Você tem um acordo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>156</ID>
+      <DefaultText>"Remédio irregular, você concorda?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>157</ID>
+      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] não quer que isso [url=glossary:edict]Edital[/url] termine... por enquanto, pelo menos. As coisas podem mudar depois da guerra, mas enquanto isso queremos Straydus Herodin vivo." 
+
+Ele suspira e oferece um aceno conciliatório. "Não tenho o hábito de me curvar a exigências, mas também precisamos alcançar Posto de Sentinela para buscar Ashe filhote rebelde."
+
+"Mattias, se você cooperar, eu 'permitirá que você participe da operação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>158</ID>
+      <DefaultText>"Então está resolvido. Assim que violarmos o Posto de Sentinela e tirarmos o antigo Regente do poder, vou me submeter ao [url=glossary:the voices of nerat]o Vozes de Nerat[/url]."
+
+"Encontre-me no quebra-vento do lado de fora do Posto de Sentinela. É importante que você veja o que estamos enfrentando antes de decidirmos os próximos passos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>159</ID>
+      <DefaultText>"Essa não é uma decisão sua. [url=glossary:the voices of nerat]As vozes de Nerat[/url] quer que o [url=glossary:edict]Edital[/url] de Tempestades permaneça e prague [url=glossary:graven ashe]Cinza esculpida[/url]. Por enquanto, não temos motivos para matar Straydus Herodin." 
+
+"No entanto, posso pensar em muitas razões pelas quais devemos assumir o controle de Posto de Sentinela - principalmente para seguro Ashe filhote rebelde, Amélia." 
+
+Ele suspira. "Mattias, seu desejo é concedido, mas somente se você cooperar e fizer o que dizemos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>160</ID>
+      <DefaultText>"Bom. Nunca deixe de desafiar o Refrão. Espera-se que um chefe de gangue se defenda até mesmo contra o recruta mais inexperiente. Não que eu esteja dizendo algo em particular sobre você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>161</ID>
+      <DefaultText>"O [url=glossary:unbroken]ininterrupto[/url] tem muitos lutadores. Pretendo tirar alguns."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>162</ID>
+      <DefaultText>Sua boca se abre em um largo sorriso, seus dentes muito retos e brancos. "Você canta a música do [url=glossary:scarlet chorus]Coro Escarlate[/url] assim como qualquer chefe de gangue, Vinculador do Destino. Estamos em perfeita harmonia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>163</ID>
+      <DefaultText>"Você não vai convencer o [url=glossary:unbroken]ininterrupto[/url] a participar sem incentivo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>164</ID>
+      <DefaultText>Ele te respeita com respeito. "Meus pensamentos exatamente. Enfraquecê-los pela força apenas reduz seu número, o que é o oposto de nossa intenção. Eu não os conheço bem o suficiente para adivinhar o que eles querem, e eles dificilmente estão abertos a negociações." Ele suspira. "É uma pena ver bons soldados que preferem morrer a lutar por uma causa nobre..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>165</ID>
+      <DefaultText>"Você já considerou uma oferta de anéis para esses [url=glossary:unbroken]ininterrupto[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>166</ID>
+      <DefaultText>"Uma solução inteligente que me decepcionou várias vezes." Ele retruca. "Receio que táticas mercenárias funcionem melhor em lavradores do que em patriotas. Sem dúvida, o [url=glossary:unbroken]ininterrupto[/url] não apreciaria a ironia de aceitar [url=lore:edict_storms_resolution]a Soberano moeda[/url] em troca de seu recrutamento."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>167</ID>
+      <DefaultText>"Embora como o Arconte escolha definir 'influente' seja uma incógnita. E tenho certeza que chegará o dia em que de repente você será influente o suficiente para ser de Nerat o próximo desejo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>168</ID>
+      <DefaultText>"É chefe para chefe, Remedy! Os durões do Fatebinder contra os seus. Talvez não sejamos uma gangue adequada, mas ainda podemos matá-lo como se fosse um." Verse lhe envia um olhar de agradecimento.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>169</ID>
+      <DefaultText>"Nerat não precisa de mais sangue para seu exército. Já lhe ocorreu que ele o enviou aqui para sua própria diversão, ou simplesmente para matá-lo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>171</ID>
+      <DefaultText>"É verdade. [url=glossary:unbroken]ininterrupto[/url] são os humanos mais difíceis chamados Tiersmen. São apenas humanos que podem lutar e sobreviver com armaduras de ferro." Ela coça a planície tensa de sua barriga e boceja.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>172</ID>
+      <DefaultText>"Apenas um covarde fica para trás enquanto outros lutam. Eu não competi pelo meu lugar no exército [url=glossary:kyros]Kyros[/url]' para dividir a guerra com gente como esse aproveitador."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>174</ID>
+      <DefaultText>"Vamos falar sobre isso primeiro, Remédio." Verse prepara sua arma e enfrenta o chefe da gangue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>175</ID>
+      <DefaultText>Ele hesita. "Vejo você correr com o Vinculador do Destino hoje em dia, Versículo. Sua escolha de empresa não melhorou."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>176</ID>
+      <DefaultText>"Eles cheiram melhor, pelo menos. Eles não mantêm cadáveres à mão para estudar como eles apodrecem, como alguns fodidos doentes que eu conhecia." Enquanto ela está falando, Verse alisa uma das penas em seu cabelo e acena.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>177</ID>
+      <DefaultText>[Vá direto para Remédio irregular.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>178</ID>
+      <DefaultText>"Viu? Somos todos amigos aqui. Podemos nos comprometer."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>179</ID>
+      <DefaultText>Ela revira os olhos. "Sem pistas. Precisamos trabalhar em nossos sinais." Tomando a iniciativa, ela avança sobre o chefe da gangue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>180</ID>
+      <DefaultText>Ele estremece quando um novo corte aparece em seu braço e olha para você com fúria desenfreada. "Eu teria te mantido vivo por um tempo, mas minha paciência acabou." Ele sinaliza para seus soldados atacarem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>181</ID>
+      <DefaultText>"Merda. Esse cara é problema. Ele se imagina um médico de campo, mas na verdade ele deixa seu atiçador todo amarrado cortando corpos abertos. Os vivos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>182</ID>
+      <DefaultText>[Acenar para o verso e ouça em silêncio.]</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>183</ID>
+      <DefaultText>Seus olhos brilham com o reconhecimento. "Versículo, um prazer raro ver você por aí. Espero que você cuide melhor dessa gangue do que da última."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>184</ID>
+      <DefaultText>"Foda-se, Remédio. Não sou tão verde quanto costumava ser." Ela prepara uma arma. "E se você não tomar cuidado, você está prestes a ficar vermelho por completo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>185</ID>
+      <DefaultText>"Outro bravo lutador desperdiçado na multidão uivante. Se a escolha dele fosse minha, eu teria caído lutando."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>186</ID>
+      <DefaultText>Um rosnado baixo soa de algum lugar na armadura Barik's. "Mantenha suas mãos longe da Arconte filha, coitada."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>187</ID>
+      <DefaultText>"Você terá sua força e seu ferro, mas nunca sua lealdade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>188</ID>
+      <DefaultText>Ele acena com a cabeça junto com suas palavras. "Claro que você está certo. Ele não teria ascendido nas fileiras da legião se já não estivesse devotado à sua causa... Se eu tivesse tempo de quebrar tal espécime." Ondas de remédio. "O [url=glossary:unbroken]ininterrupto[/url] pode ter seu animal de estimação Caminhante de Ferro, se isso os convencer de nossas boas intenções. Espero que eu faça um bom esporte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>189</ID>
+      <DefaultText>"Trocar alguns soldados por muitos, além de um líder? Eu chamo isso de um investimento sábio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>190</ID>
+      <DefaultText>Ele toma sua medida com uma sobrancelha levantada. "Você é mais racional do que qualquer membro da corte que já encontrei, e isso significa alguma coisa. Muito bem. Aceito suas palavras persuasivas e doces e liberto os [url=glossary:unbroken]ininterrupto[/url] de volta à natureza. Que eles nos tragam fortuna."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>191</ID>
+      <DefaultText>"Você [url=lore:better_dead]ajudou-nos a recrutar[/url] neste deserto imundo, então isso deve contar para alguma coisa. Não vai poupar você da ira do meu mestre." Ele lambe os lábios e sorri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>192</ID>
+      <DefaultText>"Você [url=lore:better_dead]ajudou-nos a recrutar[/url] neste deserto imundo, então isso deve contar para alguma coisa. Não vai poupar você da ira do meu mestre." Ele lambe os lábios e sorri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>193</ID>
+      <DefaultText>"Você [url=lore:better_dead]ajudou-nos a recrutar[/url] neste deserto imundo, então isso deve contar para alguma coisa. Não vai poupar você da ira do meu mestre." Ele lambe os lábios e sorri.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>195</ID>
+      <DefaultText>"Desde que você [url=lore:better_dead]nos ajudou a recrutar[/url] neste deserto imundo, eu sabia que o Tribunal não era totalmente inútil. Membros dele, pelo menos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>196</ID>
+      <DefaultText>"Não tenho vontade de comparar histórias de guerra, mas nunca esquecerei [url=lore:conq_fallregents]aquele desgraçado que você entregou ao Arconte.[/url] Os [url=glossary:disfavored]Desfavorecido[/url] têm seu lado do história, mas minha gangue a enfraqueceu no campo de batalha. Uma pena que nos encontremos em lados opostos... você é um aliado melhor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>197</ID>
+      <DefaultText>"Não tenho vontade de comparar histórias de guerra, mas nunca esquecerei [url=lore:conq_fallregents]aquele desgraçado que você entregou ao Arconte.[/url] Os [url=glossary:disfavored]Desfavorecido[/url] têm seu lado do história, mas minha gangue a enfraqueceu no campo de batalha. Uma pena que nos encontremos em lados opostos... você é um aliado melhor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>198</ID>
+      <DefaultText>"Não tenho vontade de comparar histórias de guerra, mas nunca esquecerei [url=lore:conq_fallregents]aquele desgraçado que você entregou ao Arconte.[/url] Os [url=glossary:disfavored]Desfavorecido[/url] têm seu lado do história, mas minha gangue a enfraqueceu no campo de batalha. Uma pena que nos encontremos em lados opostos... você é um aliado melhor."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>199</ID>
+      <DefaultText>"Não tenho vontade de comparar histórias de guerra, mas nunca esquecerei [url=lore:conq_fallregents]aquele desgraçado que você entregou ao Arconte.[/url] Os [url=glossary:disfavored]Desfavorecido[/url] têm seu lado do história, mas minha gangue a enfraqueceu no campo de batalha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>200</ID>
+      <DefaultText>"No entanto, você permitiu que nossos soldados [url=lore:negative_conscription]ficassem entre as Robusto fileiras.[/url] A inteligência que esses espiões reuniram foi crucial para nós, mas suas decisões recentes contra nós são mais preocupantes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>201</ID>
+      <DefaultText>"Eu nunca esqueço um amigo, e você [url=lore:negative_conscription]ajudou nossos agentes[/url] espreitam entre o inimigo... mas a história recente me diz que você não é mais um amigo, não é? Tut tut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>202</ID>
+      <DefaultText>"Eu nunca esqueço um amigo, e você [url=lore:negative_conscription]ajudou nossos agentes[/url] espreitam entre o inimigo... mas a história recente me diz que você não é mais um amigo, não é? Tut tut."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>203</ID>
+      <DefaultText>"Você permitiu que nossos soldados ficassem entre as Robusto fileiras. A inteligência que esses espiões obtiveram foi crucial para nós. É bom ver você ainda trabalhando no lado inteligente da luta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>204</ID>
+      <DefaultText>"As chances são justas de que vamos recrutá-los de qualquer maneira quando nossas intenções estiverem claras para o resto deste grupo... mas não quero arriscar que nenhum desses prisioneiros escorregue por entre meus dedos. Mattias ou um de seus intrépidos oficiais poderia despachá-los para buscar ajuda."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>205</ID>
+      <DefaultText>"Corte seus saltos. Eles não vão muito longe."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>206</ID>
+      <DefaultText>Sua sobrancelha se ergue com interesse. "Verdadeiro o suficiente... e embora eu odeie receber lutadores danificados, sou eminentemente qualificado para curar qualquer ferimento - especialmente aqueles que infligir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>207</ID>
+      <DefaultText>"Mattias já prometeu sua fidelidade ao Refrão. Ele promete que o resto virá."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>208</ID>
+      <DefaultText>"E você ficou tão convencido que acreditou na invenção dele? Mesmo agora ele poderia estar conspirando contra nós, tolo! Não aceito ofertas de fidelidade a menos que o prisioneiro esteja deitado de bruços e na ponta da minha lança. O que este Mattias se dignou a lhe oferecer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>209</ID>
+      <DefaultText>"Ele fez uma oferta de sangue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>210</ID>
+      <DefaultText>"Ele fez um juramento a [url=glossary:the voices of nerat]o Vozes de Nerat[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>211</ID>
+      <DefaultText>"Ele me deu alguns anéis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>212</ID>
+      <DefaultText>"Ele me deu muitos anéis."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>213</ID>
+      <DefaultText>O chefe da gangue estuda você com interesse. "Ligar eu... impressionado. É curioso que um servo do Tribunal receba tal oferta. Talvez ainda haja esperança para as leis do nosso império justo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>214</ID>
+      <DefaultText>Ele suspira e faz um aceno de desprezo. "Parece que você conquistou suficientemente a confiança do jovem capitão. Se ele garantir que seus soldados entrarão na fila sem luta, podemos entreter esse gesto simbólico deles. O que mais te agradaria, Fatebinder?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>215</ID>
+      <DefaultText>"Envie a eles o [url=glossary:disfavored]Desfavorecido[/url] prisioneiro. Ele será um bom esporte."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>216</ID>
+      <DefaultText>"Liberte os [url=glossary:unbroken]ininterrupto[/url] prisioneiros. Um ato de boa vontade deve definir o tom apropriado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>217</ID>
+      <DefaultText>"Espero que você saiba o que está fazendo. Não é todo dia que temos a oportunidade de quebrar um filho da legião de ferro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>218</ID>
+      <DefaultText>"Sempre o diplomata. Prefiro manter meus compromissos com os outros mais simples, deixando facas e sanguessugas falarem por mim. Cada um na sua, suponho."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>219</ID>
+      <DefaultText>"Qualquer um pode dizer algumas palavras bem escolhidas e mentir descaradamente, mas... [url=glossary:the voices of nerat]o Vozes de Nerat[/url] aprecia um pouco de atenção ao seu ego, mesmo que venha de longe. Ele tem ouvido para essas coisas. Pelo menos tantas orelhas quanto ele tem Olhos." Remédio irregular franze a testa.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>220</ID>
+      <DefaultText>"Ele fez isso agora. Hum. Se tudo o que é preciso para mandá-lo para outro lugar é um suborno bem colocado, eu me pergunto se ainda não tentei."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>221</ID>
+      <DefaultText>"Tente não parecer tão satisfeito consigo mesmo, Vinculador do Destino. É impróprio em um oficial de sua estação. "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>222</ID>
+      <DefaultText>"No entanto, seu pequeno gesto é... significativo. A analogia de anéis e conexões forjadas, etc. [url=glossary:the voices of nerat]As vozes de Nerat[/url] aprecia poucas coisas mais do que um símbolo que ele pode desconstruir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>223</ID>
+      <DefaultText>Ele se vira para seus lutadores e acena com a cabeça. "Considerar pronto. Vá tratar com o jovem capitão e certifique-se de que seus soldados estejam prontos para o que vem a seguir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>224</ID>
+      <DefaultText>Ele se vira para seus lutadores e acena com a cabeça. "Considerar pronto. Vá tratar com o jovem capitão e certifique-se de que seus soldados estejam prontos para o que vem a seguir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>225</ID>
+      <DefaultText>"Tenho perguntas sobre você, e como [url=glossary:tunon]Tunon[/url]Vinculador do Destino I acho que você deveria me tratar com o devido respeito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>226</ID>
+      <DefaultText>"Estou procurando por presas mais corajosas do que você e sua gangue aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>227</ID>
+      <DefaultText>Ele interrompe sua dissecação para olhar para você com interesse. 
+
+"Devido? Nada é 'devido' no [url=glossary:scarlet chorus]Coro Escarlate[/url], um fato que você saberia se tivesse um grama de vermelho no sangue. Parece-me que há muito da Corte em você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>228</ID>
+      <DefaultText>[Cabeça nele.] "Você primeiro."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>229</ID>
+      <DefaultText>Ele recebe o golpe e recua com os olhos arregalados de incompreensão. Ele leva a duração de um silêncio chocado para piscar de volta à consciência e olhar para você com desprezo.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>230</ID>
+      <DefaultText>"Agora é assim que você chama a atenção de um homem!" Ele sorri, revelando sangue em seus dentes da frente, que ele lambe para limpar. "O novo brinquedo do The Voices é tão estúpido quanto eu esperava."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>231</ID>
+      <DefaultText>"Tudo bem. O que você quer saber?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>232</ID>
+      <DefaultText>"Quem é você?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>233</ID>
+      <DefaultText>"Suas 'experiências?' "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>234</ID>
+      <DefaultText>[Aponte para o braço dele.] "O que você está fazendo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>235</ID>
+      <DefaultText>"Chega de perguntas sobre você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>236</ID>
+      <DefaultText>"Te digo o que. Já que estou me sentindo generoso e não quero ofender o novo brinquedo do Voices, responderei suas perguntas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>237</ID>
+      <DefaultText>"O chefe desses mestiços - a gangue Erupção Pútrida." Ele acena para seus recrutas com orgulho. "Eles sãoe meus companheiros, meus bloodletters e uma fonte útil de tecido vivo quando meus experimentos secam."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>238</ID>
+      <DefaultText>"Você satisfez sua curiosidade, então? Bom, já podemos seguir em frente, com você me dizendo por que está ocupando um valioso espaço para respirar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>239</ID>
+      <DefaultText>Ele concorda. "Alquimistas e os cirurgiões podem ter títulos extravagantes e todas as ervas raras nas quais você pode sacudir uma lança, mas todos eles compartilham uma coisa - eles não passam tempo na linha de frente. Eles não viram feridas evoluirem de frescas para grotescas, e não sabem nada sobre reunir soluções de cura a partir do que está praticamente disponível e longe de casa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>240</ID>
+      <DefaultText>"Não somos [url=glossary:disfavored]Desfavorecido[/url]. Não temos o luxo de feridas que se fecham pelo amor de nosso Arconte." Ele aponta para seu próprio corte. "Alguém tem que encontrar uma maneira melhor, então eu estudo meus prisioneiros das pontas de seus cabelos ao preto de seus humores, e eu aprendo." "E quando estamos com pouco prisioneiros, eu uso minha gangue - ou eu mesmo, aliás."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>241</ID>
+      <DefaultText>"Aprendendo, como sempre faço." Ele estremece e puxa uma mancha de sangue do ferimento. "Espero fazer um avanço na tolerância à dor e, neste caso, as melhores lições são autodidatas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>242</ID>
+      <DefaultText>"Eu me concentraria mais na minha gangue e os fortaleceria, mas..." Ele franze a testa para alguns de seus lutadores e dá de ombros. "Teste seus limites são arriscados. O tipo de atividade que implora por uma revolta, e eu não tenho tempo ou mão de obra para colocar essas doninhas em ordem enquanto estamos caçando [url=glossary:unbroken]ininterrupto[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>243</ID>
+      <DefaultText>[Para Versar.] "Você conhece esse cara?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>244</ID>
+      <DefaultText>Ela bufa. "Com medo então. Eu corri com ele um pouco, quando sua crueldade e depravação chegaram a algum lugar quando se tratava de chicotear novos recrutas na fila. Agora ele é apenas um açougueiro glorificado que passa por recrutas como uma foice no trigo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>245</ID>
+      <DefaultText>"Saí na hora em que ele começou a me olhar de um jeito que eu não gostava. Não me entenda mal, eu gosto de liberar minha agressividade no saco de dormir, mas com Remédio aqui achei que seria uma má ideia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>246</ID>
+      <DefaultText>"Te garanto, Versículo, que estava interessado em satisfazer uma delícia bem diferente. Eu queria ver quanto de sua pele eu poderia remover em uma única peça e substituir por painéis de madeira insensível. Não teria sido nada pessoal."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>247</ID>
+      <DefaultText>"Ah. Nesse caso, tudo está perdoado." Verse revira os olhos. "Mais louco do que um Oldwalls esfregando, este."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>248</ID>
+      <DefaultText>"O que você quis dizer com 'o novo brinquedo do Voices?' "</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>249</ID>
+      <DefaultText>"Você não pode ser tão estúpido assim, pode?" Ele balança a cabeça. "Sua carreira está em ascensão, e [url=glossary:the voices of nerat]o Vozes de Nerat[/url] se interessou. Ele tem olhos para assistir e Ouvidos para ouvir - ambos em abundância, garanto." 
+
+"Do jeito que ele gira, pode-se pensar que você está na fila para um lugar no segundo, mas o Vozes não funciona assim."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>250</ID>
+      <DefaultText>"Uma de duas coisas vai acontecer." Remédio irregular conta com dedos sujos. "Você eueu desapareço. Onde você vai parar, não tenho certeza se o Vozes sabe. Ou, uma manhã, simplesmente encontraremos você empalado em uma lança, e será isso." 
+
+"As vozes não tolera ambição por um instante a mais do que serve aos seus objetivos, e ele é muito velho para reter qualquer coisa que não o entretenha."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>251</ID>
+      <DefaultText>"Se o risco de lidar com um artista como os Voices for muito alto, talvez você devesse ter pensado nisso antes de chamar a atenção dele. Mas isso não é da minha conta."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>252</ID>
+      <DefaultText>"Estou em guerra desde que começou. Pelo menos temos muito em comum, [url=lore:edgering_verse_react]Prenúncio.[/url]" Um sorriso de estranha familiaridade pisca em seu rosto.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>253</ID>
+      <DefaultText>"Eu vim para persuadir alguns novatos contra o erro de seus caminhos. Parece que estou no lugar certo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>254</ID>
+      <DefaultText>"Tenho algumas técnicas próprias que adoraria compartilhar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>255</ID>
+      <DefaultText>"Certa vez li sobre alguns métodos arcanos de cura inspirados no Arconte de [url=glossary:wounds]Ferimentos[/url]. Apenas teorias, nada que coloquei em prática..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>256</ID>
+      <DefaultText>Seus olhos se arregalam. "Lições de um mestre da natureza? Claro, eu ficaria honrado!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>257</ID>
+      <DefaultText>Você passa vários minutos ensinando Remédio irregular algumas das lições que aprendeu em anos passados isolados da civilização. Ele é um aluno atencioso e, no final de seu tempo juntos, não é estranho a cataplasmas improvisados e soluções curativas que poderiam ter escapado a ele de outra forma.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>258</ID>
+      <DefaultText>"Você tem uma mente notável para sua arte, Vinculador do Destino." Ele se curva. "Agradecer você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>259</ID>
+      <DefaultText>Sua boca se abre de excitação, mas ele se lembra de si mesmo e a fecha. "Surpreendente. Se você tiver tempo, eu adoraria ouvir sobre os ensinamentos Arconte. A leitura de livros não estava entre minha... educação rudimentar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>260</ID>
+      <DefaultText>Você discute a teoria arcana de eras passadas recolhida de tomos de conhecimento obscuro. Jagged Remedy é um aluno atento, e as ideias que você apresenta ampliam seus horizontes significativamente. Ele deixa a experiência muito enriquecida.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>261</ID>
+      <DefaultText>"Você pode me ensinar algo que aprendeu?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>262</ID>
+      <DefaultText>"Voltando às minhas perguntas sobre você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>263</ID>
+      <DefaultText>"Sim, sim." Ele suspira. "Posso dizer que isso não chegará a lugar nenhum até que você tenha se saciado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>264</ID>
+      <DefaultText>Ele ri. "Como se eu transmitiria as lições que tirei da agonia e as distribuiria para todos os alunos grosseiros que passassem por aqui? Isso é um simples não."
+
+"Se você quisesse jurar sua lealdade a mim e se juntar à minha gangue, bem... isso seria outro assunto."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>265</ID>
+      <DefaultText>[Mentira] "Eu prometo minha vida e minha causa a você e sua gangue, Remédio Mestre."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>266</ID>
+      <DefaultText>Ele se afasta de você com uma expressão desconcertada. "Eu tomaria cuidado com suas palavras, Vinculador do Destino... Você nunca sabe quando o Vozes está ouvindo, e eu não gostaria que ele tivesse uma ideia errada." Ele limpa a garganta e fala em um tom claro para todos ouvirem. "Considerar sua solicitação foi negada!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>267</ID>
+      <DefaultText>"Mattias, seu líder, se juntará ao Refrão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>270</ID>
+      <DefaultText>"Você satisfez sua curiosidade, então? Bom, já podemos seguir em frente, com você me dizendo por que está ocupando um valioso espaço para respirar."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>271</ID>
+      <DefaultText>"Fale-me sobre você."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>272</ID>
+      <DefaultText>"Eu tenho um investimento egoísta em eviscerar o Vinculador do Destino que resolveu o [url=glossary:edict]Edital[/url] de Incêndio." Remédio irregular sorri para si mesmo. "Estou curioso para ver como [url=glossary:kyros]Kyros[/url]' a magia deformou seus órgãos."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>275</ID>
+      <DefaultText>"Talvez eu não devesse julgar tão severamente o Vinculador do Destino que apagou as chamas do [url=glossary:burning library]Biblioteca em chamas[/url]... a menos que você planeje me incendiar com [url=glossary:kyros]Kyros[/url] ' magic." Seu tom é sem humor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>276</ID>
+      <DefaultText>"Use esse charme e habilidade que lhe renderam o Pináculo do Pôr do Sol - como esses ingratos do sertão podem fazer outra coisa além de respeitar a pessoa que possui o prédio mais alto em [url=glossary:lethian's crossing]A travessia de Lethian[/url]?" Ele sorri para si mesmo .</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>278</ID>
+      <DefaultText>Ele olha para você com um brilho intrigado nos olhos. "Esse é o Magebane? Já vi capacetes mais sofisticados, mas acho que você gosta de mandar uma mensagem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>279</ID>
+      <DefaultText>"O Arquivo Silencioso... e aqui eu nunca pensei que veria o dia em que aquele pergaminho deixou o [url=glossary:burning library]Biblioteca em chamas[/url]. Devo estar ficando mole."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>280</ID>
+      <DefaultText>Ele cheira você com uma expressão de nojo. "Você se esfregou em Homem-Besta almíscar? Não, espere - é aquele escudo imundo que você tem aí! Nem mesmo os ventos da tempestade [url=glossary:kyros]Kyros[/url]' conseguiram limpar aquela coisa."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

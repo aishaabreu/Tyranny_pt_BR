@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\vx1\vx1_09_poi_beaconpuzzlecomments</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>6</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Mais balizas para mexer! Ergh, para mexer... sério Lantry, sóbrio."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"É traição ou blasfêmia pedir ajuda a [url=glossary:kyros]Kyros[/url] para encontrar pedras angulares em Oldwalls? Sem motivo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Volte e enfrente-nos, Besta! Covarde! Devemos perseguir, Vinculador do Destino. Vamos procurar mais dessas rochas brilhantes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Três aromas de sangue de terra congelado... não muito longe daqui, mas serão necessários para continuar a caçada!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Três balizas, uma pedra angular. Eu não suponho que todos eles precisam ser da mesma cor?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Se você está realmente determinado a perseguir aquele colossal Mulher-Besta naquele buraco escuro, provavelmente precisamos das pedras angulares para todos esses três pedestais."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

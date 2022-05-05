@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\vx1\vx1_09_cv_lullaby_fight_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>11</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Acorde! Carne fresca!" Lexeme ruge para o enorme Devastação pairando no centro da sala.
+
+Todos os pelos do seu corpo ficam em pé enquanto a sala incha com carga estática. Pequenos pedaços de detritos orbitam o Devastação enquanto seus tentáculos se contorcem e se movem.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Você está falando com essa coisa como se fosse sua amiga."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Por que em [url=glossary:kyros]Kyros[/url]' nome você manteria um Devastação, quanto mais nomeá-lo?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>[Ataque] "Esse a loucura acaba agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Bem, claro! Canção de ninar nunca prejudica aqueles de nós roubados do sono. Apenas os arrogantes e os perversos precisam temer seu abraço!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Não seja ridículo, Lullaby não é um animal de estimação. É NOSSO guardião, naturalmente." Ela balança a cabeça como se o detalhe mencionado acima fosse óbvio.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Pensando bem, poderíamos apenas conversar sobre as coisas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"O tempo para mentiras acabou. Talvez você devesse ter ouvido o soberano - esses Oldwalls estão fora dos limites para SUA proteção, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Enviar, e isso será rápido. Ou resista e torne as coisas interessantes... do jeito que você quiser."
+
+Lexeme bate palmas, rugindo sem sentido para o enorme Devastação que começa a se mexer...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Eu não estou alucinando... ela realmente enlouqueceu!" Lantry balança a cabeça, olhos arregalados de descrença. "Isso é um pesadelo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Eu não estou alucinando... ela realmente enlouqueceu!" Lantry balança a cabeça, olhos arregalados de descrença. "Isso é um pesadelo."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

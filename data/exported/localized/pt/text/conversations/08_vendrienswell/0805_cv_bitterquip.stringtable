@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\08_vendrienswell\0805_cv_bitterquip</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>12</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Muito bem! Enquanto você estava brincando com os infratores, minha turma teve a oportunidade de colocar uma corda na ponte desmoronada ali. As Fúrias espere para se juntar a você na batalha!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Qual é o plano agora?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Bom trabalho, sua gangue salvou essa bagunça."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"O plano agora é baixar essa ponte. Meus guerreiros não podem nadar em suas armaduras. As tropas mais leves," ele aponta diretamente para você, "podem se mover pela corda e depois abaixar a ponte. Nos encontraremos do outro lado."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Não exigimos agradecimentos por carregar o fardo que o [url=glossary:disfavored]Desfavorecido[/url] é muito fraco para levantar, estamos acostumados com essas coisas."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Pela primeira vez, concordo com o Antio!" Bitter Quip aponta para o outro lado da água em um alarme animado. "Minha gangue foi vista, vá agora - antes que eles fiquem sobrecarregados!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Vou sinalizar minha gangue. É melhor você ir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Pressa, Vinculador do Destino, antes que meus guerreiros morram e nos percamos!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"Obrigado, mas talvez se você tivesse ouvido Antio antes, isso não teria sido necessário."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>O Cantor de Sangue te olha friamente. "Achei que comentários tão maliciosos eram meu forte..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>"Atravessando por corda, estamos?" Barik pigarreia e muda de peso desajeitadamente. "Nesse caso, eu recomendo que eu vá por último."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>"Isso é uma vergonha! Os infratores do juramento devem estar rindo muito às nossas custas."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\08_vendrienswell\08_cv_vendrienswellkeep_act2_rebel_merchant</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>9</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"Saudações Fatebinder, Tarkis Arri me encarregou de garantir que esta nova aliança esteja bem armada e bem preparada para os desafios que virão."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Deixe-me ver o que você tem."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>"Despedida."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Há algo que você queria?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Vinculador do Destino, nossa aliança cresce a cada dia que passa."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Não é surpresa que a demanda por armas e armaduras tenha aumentado. Garanto que tenho feito todo o possível para atender nossos números crescentes."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>"Você tem um grande exército à sua disposição, Vinculador do Destino." Ele acena com determinação. "Podemos muito bem recuperar o Camadas de [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"Como você se juntou ao [url=glossary:vendrien guard]Guarda Vendrien[/url]?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Arri pediu que eu ajudasse o [url=glossary:vendrien guard]Guarda Vendrien[/url] através da minha conexão com o Matani Sybil, cujo primo é..." Ele faz uma pausa por um momento para traçar uma série de linhas angulares no ar com o dedo. "Irmão da minha esposa por casamento com a irmã da minha esposa, Dania." Ele inclina a cabeça levemente. "Pelo menos é assim que me lembro."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,233 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\02_lethianscrossing\02_cv_adjudication_dis_vs_merchants</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>45</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>"... e você conhece a lei. Esses produtos são contrabando. Você não tem permissão para trazê-los ou vendê-los em [url=glossary:lethian's crossing]A travessia de Lethian[/url]."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>"Você não pode fazer isso comigo!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>"Se você me envolver nisso, deve respeitar minha decisão. Vocês dois concordam?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>"Claro que sim! Estou certo e sei que você verá as coisas do meu jeito."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>"Vou respeitar sua decisão, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>[Para Lorent] "O que é sua queixa?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>[Para Aulo] "Por que você está ameaçando confiscar os bens deste homem?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>"Estou pronto para tomar minha decisão. Algum de vocês tem mais alguma coisa a dizer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>[Deixar] "Não tenho tempo para isso agora."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>"Por favor, Vinculador do Destino, preciso que você tome uma decisão antes que eles levem minhas mercadorias!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>[Para Lorent] "Você está tentando vender mercadorias de um fornecedor ilegal?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>[Para Aulo] "Esses mercadorias não são ilegais? Por que você os confiscaria?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>"Nós apenas desejamos vender esses itens aqui na cidade. As mercadorias em si não são contra a lei e não há nada de errado com elas, mas Aulo está tentando confiscá-las."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>"Ele está tentando trazer mercadorias obtidas de fontes ilegais. Não permitimos que produtos comprados Refrão sejam vendidos em [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Esta política é bem conhecida. Ele não deve se surpreender por estarmos levando suas mercadorias."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>"Onde os pegamos não tem importância. As mercadorias em si não são ilegais e são necessárias em [url=glossary:lethian's crossing]A travessia de Lethian[/url]. A disputa mesquinha entre o [url=glossary:disfavored]Desfavorecido[/url] e o [url=glossary:scarlet chorus]Coro Escarlate[/url] não tem importância nesta transação."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"Compra e venda de itens de [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] e [url=glossary:scarlet chorus]Coro Escarlate[/url] são ilegais. A lei é a lei. Só porque alguém não concorda com a lei não significa que pode ignorá-la."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Esses bens podem beneficiar as pessoas de [url=glossary:lethian's crossing]A travessia de Lethian[/url] e será um desperdício destruí-los. Deveríamos ter permissão para vendê-los aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"Estas mercadorias foram obtidas por meios ilegais. Devem ser confiscados. Eles estão infringindo a lei, todo o resto é irrelevante."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>[Peça um suborno a Lorent] "Eu gostaria de ver as coisas da sua perspectiva, mas sua história não 'soa' verdadeira."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>[Peça um suborno a Aulus] "Certamente alguém de vocês sabe como garantir que a justiça seja feita."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>"Lorent pode manter seus bens e vendê-los em [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Embora suas fontes possam ser suspeitas, as mercadorias em si são boas e beneficiarão a cidade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>"Aulus pode levar as mercadorias. Eles foram obtidos ilegalmente. Que isso sirva de lição para aqueles que distribuem bens adquiridos indevidamente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>"As mercadorias não serão confiscadas, mas sim distribuídas gratuitamente aos habitantes da cidade."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>"O quê? Eu não entendo... Ah. Você está me trabalhando. Sério? É assim que funciona? De alguma forma eu achou que o Vinculador do Destino seria mais honesto. Nós vamos, se é isso que eu preciso fazer - aqui está."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>"Você mancha seu título com exigências tão mesquinhas, Vinculador do Destino. Não vou pagar para você escolher o caminho certo."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>"Mas Vinculador do Destino! Você disse que governaria a meu favor!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>"Obrigado, Vinculador do Destino. Terminamos aqui."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>"Combinar atividade questionável em cima de atividade questionável não a torna correta. Da próxima vez você vai pensar duas vezes antes de agir."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"Mas Vinculador do Destino! Como pode ser isso?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Obrigado, Vinculador do Destino. É bom ver que cabeças mais sãs prevaleceram hoje."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Nó de script 32</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Obrigado por seu julgamento, Vinculador do Destino. Acho que nós dois aprendemos uma lição hoje."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>"É roubo! Isso é o problema aqui! Esse 'soldado' me parou e vai confiscar meus bens. Preciso que você julgue."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>"Vinculador do Destino, sua ajuda, por favor! Preciso da sua ajuda antes que esse bruto leve meus pertences!"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>"Qual é o problema aqui?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>"Você sabe que essa situação não é tão simples assim, Lorent, mas se você deseja solicitar a adjudicação, apresentarei meu caso ao Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>[Peça a Lorent um suborno maior] "Interessante. Estou chegando ao seu modo de pensar, mas talvez precise de um pouco mais de convencimento..."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>[Peça um suborno a Aulus novamente] "Lorent parece ter um argumento muito mais persuasivo do que você. Tem certeza de que não tem mais nada a acrescentar?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"Multar. Se é assim que devemos lidar com os negócios para manter a ordem, vou ceder. Aqui está minha 'adição'"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Se eu soubesse que é assim que a adjudicação funciona, teria encontrado outra maneira de manter meus bens. Multar. Talvez isso faça você mudar de ideia."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>"É uma pena que tal flagrante desrespeito à lei seja permitido, mas jurei manter sua decisão. Assim seja, Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>"Acho que não deveria me surpreender com esse resultado. Me faz bem acreditar que você teve alguma honra depois de pedir um suborno."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>"Concordamos em manter a decisão, Lorent, e assim o faremos. O Vinculador do Destino falou. Siga em frente."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>"Sou um executor do Arconte da Justiça. Uma vez invocada, minha decisão é final. Tem certeza que é isso que você quer?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>""</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

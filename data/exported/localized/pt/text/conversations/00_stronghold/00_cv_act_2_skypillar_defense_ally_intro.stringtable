@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StringTableFile>
+  <Name>conversations\00_stronghold\00_cv_act_2_skypillar_defense_ally_intro</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>5</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>Dobre de Morte corre em sua direção. Ela usa o traje de um Lança Carmesim, agora salpicado de sangue. "Vinculador do Destino, avistamos o exército inimigo do alto das muralhas - números maiores do que os que trouxemos para tomar esta fortaleza, meses atrás."
+
+"Ceveus já chegou, liderando sua vanguarda. Eles estão exigindo uma reunião com o Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>Ceveus corre em sua direção. Ele usa o traje de um [url=glossary:iron guard]Guarda de Ferro[/url], golpeado com amassados e cortes de armas. "Vinculador do Destino, o [url=glossary:scarlet chorus]Coro Escarlate[/url] foi visto à distância... muitos para contar." "Dobre de Morte já chegou, liderando sua vanguarda. Eles estão exigindo uma reunião com o Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Arri corre para o seu lado, com o braço perfurado e os olhos injetados. "Enfrentamos forças avançadas ao sul da fortaleza, mas tivemos que recuar. O Coro é demais, e suas forças estarão aqui em breve."
+
+"Sua vanguarda já chegou. Eles estão exigindo uma reunião com o Vinculador do Destino."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Isso deve ser tratado. Vamos falar com eles."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>"Deixe-os esperar. Ainda não estou pronto."</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
