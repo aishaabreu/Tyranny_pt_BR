@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Não sei porque, mas foi o que ouvi. Faz você se perguntar sobre as lealdades Fatebinder. São [url=glossary:tunon]Tunon[/url] e o Vozes consp-"</DefaultText>
+      <DefaultText>"Não sei porque, mas foi o que ouvi. Faz você se perguntar sobre as lealdades Vinculador do Destino. São [url=glossary:tunon]Tunon[/url] e o Vozes consp-"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -48,7 +48,7 @@
       <ID>11</ID>
       <DefaultText>"Não tenho certeza se há muito a dizer. Treinei em Resolução do Forte, esta é minha primeira campanha e tenho orgulho de estar com a legião."
 
-"Eu... fui ferido no Portões do Julgamento, mas [url=glossary:graven ashe]Cinza esculpida[/url]' A proteção de s me curou bem. Devo minha vida a ele."</DefaultText>
+"Eu... fui ferido no Portões do Julgamento, mas [url=glossary:graven ashe]Cinza Esculpida[/url] a proteção dele me curou bem. Devo minha vida a ele."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -72,17 +72,17 @@ Marcus olha para o acampamento. "Lá não somos muitos, mas é melhor assim. Som
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Você está se gabando de ter baixado a guarda e levado uma lança no estômago? Você realmente não deveria se gabar de um imundo Tierman superando você na batalha." Lucia revira os olhos.</DefaultText>
+      <DefaultText>"Você está se gabando de ter baixado a guarda e levado uma lança no estômago? Você realmente não deveria se gabar de um imundo habitante do Camadas superando você na batalha." Lucia revira os olhos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Você está apenas amargurado que Senhor Ashe nunca parece notar você."</DefaultText>
+      <DefaultText>"Você está apenas amargurado que Senhor Cinza nunca parece notar você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Preciso o suficiente," Lucia dá de ombros. "Depois vendo a desunião e as brigas dos Reino mais jovem defensores, sinto-me sortudo por estar na legião mais agradável de [url=glossary:kyros]Kyros[/url]' anfitrião. Mesmo que nem sempre sejamos os mais eficientes."</DefaultText>
+      <DefaultText>"Preciso o suficiente," Lucia dá de ombros. "Depois vendo a desunião e as brigas dos Reino mais jovem defensores, sinto-me sortudo por estar na legião mais agradável de [url=glossary:kyros]Kyros[/url] anfitrião. Mesmo que nem sempre sejamos os mais eficientes."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -94,7 +94,7 @@ Marcus olha para o acampamento. "Lá não somos muitos, mas é melhor assim. Som
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Saudações, Fatebinder!" Marcus liga para Lúcia. "Vejo que você voltou."</DefaultText>
+      <DefaultText>"Saudações, Vinculador do Destino!" Marcus liga para Lúcia. "Vejo que você voltou."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -146,7 +146,7 @@ Ela vira um olhar cauteloso em sua direção. "O Norte é minha casa, e consider
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Claro, Fatebinder!" Marcus bate o punho na armadura em saudação.</DefaultText>
+      <DefaultText>"Claro, Vinculador do Destino!" Marcus bate o punho na armadura em saudação.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -156,7 +156,7 @@ Ela vira um olhar cauteloso em sua direção. "O Norte é minha casa, e consider
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Toda batalha é um lembrete da superioridade da legião. Os violadores de juramento têm muito coração, mas nada que supere nossos valores Norte e o amor de [url=glossary:graven ashe]Cinza esculpida[/url]." 
+      <DefaultText>"Toda batalha é um lembrete da superioridade da legião. Os violadores de juramento têm muito coração, mas nada que supere nossos valores Norte e o amor de [url=glossary:graven ashe]Cinza Esculpida[/url]." 
 
 "Se você quiser desfrutar desse sentimento, posso lhe poupar o hora do dia para cruzar ferro."</DefaultText>
       <FemaleText />
@@ -205,7 +205,7 @@ Ela vira um olhar cauteloso em sua direção. "O Norte é minha casa, e consider
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"A história é de conhecimento geral, mas não a discutimos aqui, bem... não é considerada educada. Tem a ver com [url=glossary:graven ashe]Cinza esculpida[/url] e a ascensão do império [url=glossary:kyros]Kyros[/url]'. Tenho certeza que você pode juntar algumas peças."</DefaultText>
+      <DefaultText>"A história é de conhecimento geral, mas não a discutimos aqui, bem... não é considerada educada. Tem a ver com [url=glossary:graven ashe]Cinza Esculpida[/url] e a ascensão do império de [url=glossary:kyros]Kyros[/url]. Tenho certeza que você pode juntar algumas peças."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -225,7 +225,7 @@ Ela vira um olhar cauteloso em sua direção. "O Norte é minha casa, e consider
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Ashe e [url=glossary:kyros]Kyros[/url] nem sempre estavam nos melhores termos, mas tudo isso mudou. Por direito, deveríamos ter um nome digno de nossa alardeada reputação agora, mas..." ela dá de ombros. "Pode ser algum dia, depois que os filhos dos meus filhos herdarem minha armadura, teremos um título melhor para chamar de nosso."</DefaultText>
+      <DefaultText>"Cinza e [url=glossary:kyros]Kyros[/url] nem sempre estavam nos melhores termos, mas tudo isso mudou. Por direito, deveríamos ter um nome digno de nossa alardeada reputação agora, mas..." ela dá de ombros. "Pode ser algum dia, depois que os filhos dos meus filhos herdarem minha armadura, teremos um título melhor para chamar de nosso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

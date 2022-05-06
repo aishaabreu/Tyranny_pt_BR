@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Merda, Callias vai ter que esperar. Mate o Fatebinder!"</DefaultText>
+      <DefaultText>"Merda, Callias vai ter que esperar. Mate o Vinculador do Destino!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Pelo menos conseguimos a Fatebinder atenção. Assim que o portão da frente for arrombado, nenhum de vocês terá chance." Ela tosse sangue e depois fica mole.</DefaultText>
+      <DefaultText>"Pelo menos conseguimos a Vinculador do Destino atenção. Assim que o portão da frente for arrombado, nenhum de vocês terá chance." Ela tosse sangue e depois fica mole.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Vocês idiotas de ferro nunca dormem?!" Versículo coloca as mãos nos quadris. "Não é à toa que Ashe está sempre de mau humor."</DefaultText>
+      <DefaultText>"Vocês idiotas de ferro nunca dormem?!" Versículo coloca as mãos nos quadris. "Não é à toa que Cinza está sempre de mau humor."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>O soldado pisca. "Barik? Ouvi dizer que você estava correndo com o Vinculador do Destino, mas nunca acreditei até agora." Ela abre as narinas e fecha os punhos. "Traidor! Verei você ser trazido antes [url=glossary:graven ashe]Cinza esculpida[/url] acorrentado!"</DefaultText>
+      <DefaultText>O soldado pisca. "Barik? Ouvi dizer que você estava correndo com o Vinculador do Destino, mas nunca acreditei até agora." Ela abre as narinas e fecha os punhos. "Traidor! Verei você ser trazido antes [url=glossary:graven ashe]Cinza Esculpida[/url] acorrentado!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,7 +71,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Ashe ordenou que tomássemos o forte. Comandante Osmios também diz que há um Norte prisioneiro atrás daquelas paredes." Ele engole nervosamente, sua atenção indo de você para a paliçada.</DefaultText>
+      <DefaultText>"Cinza ordenou que tomássemos o forte. Comandante Osmios também diz que há um Norte prisioneiro atrás daquelas paredes." Ele engole nervosamente, sua atenção indo de você para a paliçada.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,12 +86,12 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Durante a guerra, os [url=glossary:unbroken]ininterrupto[/url] mantiveram este forte trancado contra as forças [url=glossary:kyros]Kyros[/url]'. Pode não ser muito para se olhar, mas as pessoas por trás dessas paredes são um bando espirituoso. Nem mesmo a tempestade quebrou a coragem deles."</DefaultText>
+      <DefaultText>"Durante a guerra, os [url=glossary:unbroken]Inquebrável[/url] mantiveram este forte trancado contra as forças de [url=glossary:kyros]Kyros[/url]. Pode não ser muito para se olhar, mas as pessoas por trás dessas paredes são um bando espirituoso. Nem mesmo a tempestade quebrou a coragem deles."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Eu sei o que o comandante diria - que um sulista é muito ignorante para limpar a sujeira de seus olhos. Mas os [url=glossary:unbroken]ininterrupto[/url] estão usando a tempestade contra nós, e bem... você tem que respeitar isso."</DefaultText>
+      <DefaultText>"Eu sei o que o comandante diria - que um sulista é muito ignorante para limpar a sujeira de seus olhos. Mas os [url=glossary:unbroken]Inquebrável[/url] estão usando a tempestade contra nós, e bem... você tem que respeitar isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,17 +111,17 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Durante a guerra, os [url=glossary:unbroken]ininterrupto[/url] mantiveram este forte trancado contra as forças [url=glossary:kyros]Kyros[/url]'. Pode não ser muito para se olhar, mas as pessoas por trás dessas paredes são um bando espirituoso. Nem mesmo a tempestade quebrou a coragem deles."</DefaultText>
+      <DefaultText>"Durante a guerra, os [url=glossary:unbroken]Inquebrável[/url] mantiveram este forte trancado contra as forças de [url=glossary:kyros]Kyros[/url]. Pode não ser muito para se olhar, mas as pessoas por trás dessas paredes são um bando espirituoso. Nem mesmo a tempestade quebrou a coragem deles."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Eu sei o que o comandante diria - que um sulista é muito ignorante para limpar a sujeira de seus olhos. Mas os [url=glossary:unbroken]ininterrupto[/url] estão usando a tempestade contra nós, e bem... você tem que respeitar isso."</DefaultText>
+      <DefaultText>"Eu sei o que o comandante diria - que um sulista é muito ignorante para limpar a sujeira de seus olhos. Mas os [url=glossary:unbroken]Inquebrável[/url] estão usando a tempestade contra nós, e bem... você tem que respeitar isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Eles não vêm mais decorados que Osmios. Ele enfrentou o Refrão durante a campanha Robusto - algo a ver com o [url=lore:beasts_stalwart]Cantores de Sangue e Bestas.[/url] Não me lembro dos detalhes, mas ele tem sido nosso comandante de unidade desde então."</DefaultText>
+      <DefaultText>"Eles não vêm mais decorados que Osmios. Ele enfrentou o Refrão durante a campanha Robusto - algo a ver com o [url=lore:beasts_stalwart]Cantores de Sangue e Bestas[/url]. Não me lembro dos detalhes, mas ele tem sido nosso comandante de unidade desde então."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -146,7 +146,7 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Fazemos o que [url=glossary:kyros]Kyros[/url]' legião de ferro faz melhor - reivindicamos o forte, e quem não cooperar é morto. Nosso comandante gosta de manter as ordens simples."</DefaultText>
+      <DefaultText>"Fazemos o que legião de ferro de [url=glossary:kyros]Kyros[/url] faz melhor - reivindicamos o forte, e quem não cooperar é morto. Nosso comandante gosta de manter as ordens simples."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

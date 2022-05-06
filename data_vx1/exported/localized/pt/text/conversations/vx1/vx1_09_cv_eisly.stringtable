@@ -6,14 +6,14 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Com um suspiro desanimado, a [url=glossary:forge-bound]Forge-Bound[/url] ferreira solta a alça em torno de uma de suas ombreiras e deixa cair o apêndice de metal no chão, expondo uma figura musculosa. Ela rapidamente traça um sigilo com a mão sem luva e toca um martelo pendurado em sua blusa, franzindo a testa enquanto teimosamente permanece inerte e antipático às suas súplicas mágicas. 
+      <DefaultText>Com um suspiro desanimado, a [url=glossary:forge-bound]Vinculado à Forja[/url] ferreira solta a alça em torno de uma de suas ombreiras e deixa cair o apêndice de metal no chão, expondo uma figura musculosa. Ela rapidamente traça um sigilo com a mão sem luva e toca um martelo pendurado em sua blusa, franzindo a testa enquanto teimosamente permanece inerte e antipático às suas súplicas mágicas. 
 
 Ela olha para cima quando você se aproxima.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Embora ela tenha olhado diretamente para você um momento antes, o olhar do [url=glossary:forge-bound]Forge-Bound[/url] agora parece desfocado e suave, fixado em nada em particular. Seus passos quebram seu devaneio silencioso - ela retorna ao presente com um rápido aceno de cabeça. "Ah, Vinculador do Destino... desculpe, me distraio facilmente esses dias, parece."</DefaultText>
+      <DefaultText>Embora ela tenha olhado diretamente para você um momento antes, o olhar do [url=glossary:forge-bound]Vinculado à Forja[/url] agora parece desfocado e suave, fixado em nada em particular. Seus passos quebram seu devaneio silencioso - ela retorna ao presente com um rápido aceno de cabeça. "Ah, Vinculador do Destino... desculpe, me distraio facilmente esses dias, parece."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -45,7 +45,7 @@ Ela olha para cima quando você se aproxima.</DefaultText>
       <ID>9</ID>
       <DefaultText>"Sim. Jaspos me apresentou ao knapping, e veio mais fácil do que cerâmica, meu primeiro ofício."
 
-"Se não tivéssemos nos apaixonado e casado, eu poderia ter retornado ao Norte e ficado em [url=glossary:kyros]Kyros[/url]' boas graças." Ela balança a cabeça lentamente, como se recordando uma memória há muito esquecida.</DefaultText>
+"Se não tivéssemos nos apaixonado e casado, eu poderia ter retornado ao Norte e ficado em boas graças de [url=glossary:kyros]Kyros[/url]." Ela balança a cabeça lentamente, como se recordando uma memória há muito esquecida.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -75,7 +75,7 @@ Ela olha para cima quando você se aproxima.</DefaultText>
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Eu tenho realmente me dedicado ao meu trabalho ultimamente, perdido no cinzel, eu acho, e me encontrando acordado quando a maior parte do Ferimento está dormindo. Nem toda tarefa precisa de uma bancada, então, eu pego meu chert, eu pego minha coragem, vou dar uma volta, Eu vejo o apelido de Insípido. Se fosse apenas uma noite eu a visse fazer isso... mas..."</DefaultText>
+      <DefaultText>"Eu tenho realmente me dedicado ao meu trabalho ultimamente, perdido no cinzel, eu acho, e me encontrando acordado quando a maior parte do Ferimento está dormindo. Nem toda tarefa precisa de uma bancada, então, eu pego meu cherte, eu pego minha coragem, vou dar uma volta, Eu vejo o apelido de Insípido. Se fosse apenas uma noite eu a visse fazer isso... mas..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -147,7 +147,7 @@ Ela olha para cima quando você se aproxima.</DefaultText>
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Ouvi dizer que Wagstaff está ensinando sua magia, mas de jeito nenhum ela poderia... bem, não sozinha." Eisly segura o queixo pensativamente. "Incêndio me faz pensar Cantores de Sangue - talvez ela tenha 'liberado' algo de um antigo Refrão rival? Ou ela descobriu uma maneira de controlar uma armadilha Oldwalls, mas, até onde sei, essas armadilhas não usam fogo, mas algumas... outras, tipo de energia arcana."</DefaultText>
+      <DefaultText>"Ouvi dizer que Wagstaff está ensinando sua magia, mas de jeito nenhum ela poderia... bem, não sozinha." Eisly segura o queixo pensativamente. "Incêndio me faz pensar Cantores de Sangue - talvez ela tenha 'liberado' algo de um antigo Refrão rival? Ou ela descobriu uma maneira de controlar uma armadilha Muralhas Antigas, mas, até onde sei, essas armadilhas não usam fogo, mas algumas... outras, tipo de energia arcana."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -172,7 +172,7 @@ Ela olha para cima quando você se aproxima.</DefaultText>
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>[Mentira] "Como você, ela tem problemas para dormir. Ao contrário de você, ela lida com isso visitando o Oldwalls. Nada mais."</DefaultText>
+      <DefaultText>[Mentira] "Como você, ela tem problemas para dormir. Ao contrário de você, ela lida com isso visitando as Muralhas Antigas. Nada mais."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -242,7 +242,7 @@ Ela olha para cima quando você se aproxima.</DefaultText>
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>Ela gagueja baixinho para si mesma, incapaz de organizar seus pensamentos. "F-me perdoe. Eu estava errado em questionar você. Não cabe a mim entender um julgamento Fatebinder, apenas aceitá-lo. Não vou incomodá-lo com isso novamente." Ela faz uma reverência trêmula e se vira abruptamente.</DefaultText>
+      <DefaultText>Ela gagueja baixinho para si mesma, incapaz de organizar seus pensamentos. "F-me perdoe. Eu estava errado em questionar você. Não cabe a mim entender um julgamento Vinculador do Destino, apenas aceitá-lo. Não vou incomodá-lo com isso novamente." Ela faz uma reverência trêmula e se vira abruptamente.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -292,7 +292,7 @@ Ela olha para cima quando você se aproxima.</DefaultText>
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Um final horrível. Torturado e depois deixado para se enfurecer e morrer desnorteado. Tiersmen certamente foram reduzidos a pior... outra maneira que nós e os Woundkin somos mais parecidos do que diferentes." Ela suspira. "Estou feliz que acabou. Graças a você, ninguém mais enfrentará tamanha crueldade. Você tem minha gratidão, Vinculador do Destino."</DefaultText>
+      <DefaultText>"Um final horrível. Torturado e depois deixado para se enfurecer e morrer desnorteado. Homens dos Caminhos certamente foram reduzidos a pior... outra maneira que nós e os Woundkin somos mais parecidos do que diferentes." Ela suspira. "Estou feliz que acabou. Graças a você, ninguém mais enfrentará tamanha crueldade. Você tem minha gratidão, Vinculador do Destino."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -379,7 +379,7 @@ Ela olha para cima quando você se aproxima.</DefaultText>
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Fui seduzido por seu talento e paixão... e algumas palavras doces. Eu não deveria ter ficado surpresa que nosso amor não fosse uma coisa exclusiva. Aquele Earthshaker, Argaen, começou a agradar meu marido rapidamente. O suficiente para casar com ele, de qualquer maneira."</DefaultText>
+      <DefaultText>"Fui seduzido por seu talento e paixão... e algumas palavras doces. Eu não deveria ter ficado surpresa que nosso amor não fosse uma coisa exclusiva. Aquele Tremedor de Terra, Argaen, começou a agradar meu marido rapidamente. O suficiente para casar com ele, de qualquer maneira."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -414,7 +414,7 @@ Ela olha para cima quando você se aproxima.</DefaultText>
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Mas para que algo tão hediondo continue, deve haver uma explicação. Tudo o que peço é que você me diga por quê." Os olhos de Eisly percorrem seu rosto em busca de respostas, sua respiração saindo em ofegos rasos. Sem garantias a serem encontradas, seus ombros caíram em derrota. "Acho que é demais esperar uma explicação de uma Fatebinder justiça. Que assim seja. Só espero que você tenha nossos interesses no coração." Com um suspiro, ela volta às suas tarefas.</DefaultText>
+      <DefaultText>"Mas para que algo tão hediondo continue, deve haver uma explicação. Tudo o que peço é que você me diga por quê." Os olhos de Eisly percorrem seu rosto em busca de respostas, sua respiração saindo em ofegos rasos. Sem garantias a serem encontradas, seus ombros caíram em derrota. "Acho que é demais esperar uma explicação de uma Vinculador do Destino justiça. Que assim seja. Só espero que você tenha nossos interesses no coração." Com um suspiro, ela volta às suas tarefas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -424,7 +424,7 @@ Ela olha para cima quando você se aproxima.</DefaultText>
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Knapping não era originalmente minha especialidade. Aprendi com Mestre Erasma em [url=glossary:lethian's crossing]A travessia de Lethian[/url], mas um acidente estranho fez com que ela levasse seus segredos das artes cerâmicas para o vazio."</DefaultText>
+      <DefaultText>"Knapping não era originalmente minha especialidade. Aprendi com Mestre Erasma em [url=glossary:lethian's crossing]A Travessia de Lethian[/url], mas um acidente estranho fez com que ela levasse seus segredos das artes cerâmicas para o vazio."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -439,7 +439,7 @@ Ela olha para cima quando você se aproxima.</DefaultText>
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Espero não estar incomodando você por nada. Insipid Moniker é de Wagstaff nobre lacaio - ou aprendiz, dependendo da sua perspectiva. Ela está indo para Oldwalls na calada da noite, todas as noites."</DefaultText>
+      <DefaultText>"Espero não estar incomodando você por nada. Insipid Moniker é de Wagstaff nobre lacaio - ou aprendiz, dependendo da sua perspectiva. Ela está indo para Muralhas Antigas na calada da noite, todas as noites."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -464,7 +464,7 @@ Ela olha para cima quando você se aproxima.</DefaultText>
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"Então eu... acho que estou com repulsa pela minha curiosidade intrometida. Obrigado Fatebinder, desculpe por incomodá-lo com algo que não era meu para questionar."</DefaultText>
+      <DefaultText>"Então eu... acho que estou com repulsa pela minha curiosidade intrometida. Obrigado Vinculador do Destino, desculpe por incomodá-lo com algo que não era meu para questionar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

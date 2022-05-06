@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>O soldado [url=glossary:unbroken]ininterrupto[/url] cruza os braços em um nó apertado quando você se aproxima. 
+      <DefaultText>O soldado [url=glossary:unbroken]Inquebrável[/url] cruza os braços em um nó apertado quando você se aproxima. 
 
 "Irentis, anteriormente o guarda pessoal de Regente Haptia. Pelo menos antes que a guerra acabasse com ela. Agora corro com Mattias e o que resta dos verdadeiros patriotas."</DefaultText>
       <FemaleText />
@@ -28,7 +28,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Ele acena para você com nojo. "Sobrevivência a que custo? Você não tem ideia do que significa viver fora da [url=glossary:kyros]Kyros[/url]' autoridade, então eu não esperaria que você entendesse." "Valorizamos mais do que nossos mestres e qualquer outra coisa sistema arbitrário de direito que eles impõem. Temos mais a perder, mas arriscaremos tudo para protegê-lo." "Lamento que você não veja dessa forma."</DefaultText>
+      <DefaultText>Ele acena para você com nojo. "Sobrevivência a que custo? Você não tem ideia do que significa viver fora da autoridade de [url=glossary:kyros]Kyros[/url], então eu não esperaria que você entendesse." "Valorizamos mais do que nossos mestres e qualquer outra coisa sistema arbitrário de direito que eles impõem. Temos mais a perder, mas arriscaremos tudo para protegê-lo." "Lamento que você não veja dessa forma."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -40,7 +40,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"No velho robusto, era costume de Regentes cada um carregar um artefato de poder. Um deles empunhava uma lâmina chamada Destemido. Isso foi mais do que uma mera arma, mas um símbolo de rally que inspirou as tropas." "O Destemido foi perdido em uma batalha perto do Oldwalls. Com [url=glossary:kyros]Kyros[/url]' e as forças [url=glossary:edict]Edital[/url] que assolam o reino, diz-se que a espada está onde quer que tenha caído pela última vez."</DefaultText>
+      <DefaultText>"No velho robusto, era costume de Regentes cada um carregar um artefato de poder. Um deles empunhava uma lâmina chamada Destemido. Isso foi mais do que uma mera arma, mas um símbolo de rally que inspirou as tropas." "O Destemido foi perdido em uma batalha perto do Muralhas Antigas. Com as forças do [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] que assolam o reino, diz-se que a espada está onde quer que tenha caído pela última vez."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -52,7 +52,7 @@ Ele se recompõe e exala. "Aqui - Marquei a última localização conhecida do D
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"O Destemido blade deve estar próximo ao Oldwalls."</DefaultText>
+      <DefaultText>"O Destemido blade deve estar próximo ao Muralhas Antigas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -107,7 +107,7 @@ Ele se recompõe e exala. "Aqui - Marquei a última localização conhecida do D
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Ele se vira para os soldados. "Ficar comigo se você deseja lutar como filhos de Robusto, e morrer lutando contra aqueles que querem tomar nossa terra e enterrar nossos costumes! Vinculador do Destino, você dividiu nossa coalizão com promessas vazias. Se não por minha autoridade, então por meu direito como filho do [url=glossary:unbroken]ininterrupto[/url], você não deixará Junção do Trapper vivo."</DefaultText>
+      <DefaultText>Ele se vira para os soldados. "Ficar comigo se você deseja lutar como filhos de Robusto, e morrer lutando contra aqueles que querem tomar nossa terra e enterrar nossos costumes! Vinculador do Destino, você dividiu nossa coalizão com promessas vazias. Se não por minha autoridade, então por meu direito como filho do [url=glossary:unbroken]Inquebrável[/url], você não deixará Junção de Armadilhas vivo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -117,7 +117,7 @@ Ele se recompõe e exala. "Aqui - Marquei a última localização conhecida do D
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Paz em [url=glossary:kyros]Kyros[/url]' termos. Meus ancestrais teriam caído sobre suas espadas antes de verem o dia em que [url=glossary:kyros]Kyros[/url]' banners decorados Guarda Sentinela." Ele passa um olhar severo para Mattias. "Qualquer líder meu estaria preparado para fazer o mesmo."</DefaultText>
+      <DefaultText>"Paz em termos de [url=glossary:kyros]Kyros[/url]. Meus ancestrais teriam caído sobre suas espadas antes de verem o dia em que banners decorados de [url=glossary:kyros]Kyros[/url] da Guarda Sentinela." Ele passa um olhar severo para Mattias. "Qualquer líder meu estaria preparado para fazer o mesmo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -157,7 +157,7 @@ Ele se recompõe e exala. "Aqui - Marquei a última localização conhecida do D
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Nós vamos que parece patentemente falso. Quero dizer, se você me colocar no comando dos Tiers, veremos a paz. Nós vamos, depois de reunirmos e matarmos todos os Sábios - mas o passo dois seria a paz."</DefaultText>
+      <DefaultText>"Nós vamos que parece patentemente falso. Quero dizer, se você me colocar no comando dos Camadas, veremos a paz. Nós vamos, depois de reunirmos e matarmos todos os Sábios - mas o passo dois seria a paz."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -172,12 +172,12 @@ Ele se recompõe e exala. "Aqui - Marquei a última localização conhecida do D
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"No velho robusto, era costume de Regentes cada um carregar um artefato de poder. Um deles empunhava uma lâmina chamada Destemido. Isso foi mais do que uma mera arma, mas um símbolo de rally que inspirou as tropas." "O Destemido foi perdido em uma batalha perto do Oldwalls. Com [url=glossary:kyros]Kyros[/url]' e as forças [url=glossary:edict]Edital[/url] que assolam o reino, diz-se que a espada está onde quer que tenha caído pela última vez."</DefaultText>
+      <DefaultText>"No velho robusto, era costume de Regentes cada um carregar um artefato de poder. Um deles empunhava uma lâmina chamada Destemido. Isso foi mais do que uma mera arma, mas um símbolo de rally que inspirou as tropas." "O Destemido foi perdido em uma batalha perto do Muralhas Antigas. Com as forças do [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] que assolam o reino, diz-se que a espada está onde quer que tenha caído pela última vez."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Você nos ajudou imensamente, então se você conseguir recuperar este artefato do Oldwalls infestado, considere-o seu."</DefaultText>
+      <DefaultText>"Você nos ajudou imensamente, então se você conseguir recuperar este artefato do Muralhas Antigas infestado, considere-o seu."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -202,7 +202,7 @@ Ele se recompõe e exala. "Aqui - Marquei a última localização conhecida do D
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Fale-me sobre o [url=glossary:unbroken]ininterrupto[/url]."</DefaultText>
+      <DefaultText>"Fale-me sobre o [url=glossary:unbroken]Inquebrável[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -214,7 +214,7 @@ A maneira como ele olha para longe faz você se perguntar o quanto ele acredita 
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Nosso primeiro passo crucial é recuperar os [url=glossary:blade grave]Sepultura de Lâminas[/url] - não apenas das forças de [url=glossary:kyros]Kyros[/url]', mas de Stalwart's ex-líderes." "O último dos Regentes está agachado no Posto de Sentinela por muito tempo. Já é hora de quebrarmos a ostra e espetarmos a carne dentro dela."</DefaultText>
+      <DefaultText>"Nosso primeiro passo crucial é recuperar os [url=glossary:blade grave]Sepultura de Lâminas[/url] - não apenas das forças de [url=glossary:kyros]Kyros[/url], mas de Robustos ex-líderes." "O último dos Regentes está agachado no Posto de Sentinela por muito tempo. Já é hora de quebrarmos a ostra e espetarmos a carne dentro dela."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -224,7 +224,7 @@ A maneira como ele olha para longe faz você se perguntar o quanto ele acredita 
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Sentinel Stand é a nossa fortaleza no centro da [url=glossary:kyros]Kyros[/url]' devastação. O plano é recuperar aquela fortaleza e usá-la como base de operações para fortalecer a região." 
+      <DefaultText>"Sentinel Stand é a nossa fortaleza no centro da devastação de [url=glossary:kyros]Kyros[/url]. O plano é recuperar aquela fortaleza e usá-la como base de operações para fortalecer a região." 
 
 "Não que tenhamos uma chance, neste ritmo." Ele olha para Mattias com uma carranca pensativa.</DefaultText>
       <FemaleText />
@@ -271,17 +271,17 @@ A maneira como ele olha para longe faz você se perguntar o quanto ele acredita 
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Mas você não está facilitando para nós, está? Parte do Coro lixo. Espero que [url=glossary:the voices of nerat]o Vozes de Nerat[/url] te enrole com a ponta de seu cetro de ouro."</DefaultText>
+      <DefaultText>"Mas você não está facilitando para nós, está? Parte do Coro lixo. Espero que [url=glossary:the voices of nerat]As Vozes de Nerat[/url] te enrole com a ponta de seu cetro de ouro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Se ele não estiver apto a liderar, você deve desafiar Mattias pelo domínio sobre o [url=glossary:unbroken]ininterrupto[/url]."</DefaultText>
+      <DefaultText>"Se ele não estiver apto a liderar, você deve desafiar Mattias pelo domínio sobre o [url=glossary:unbroken]Inquebrável[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>Ele faz uma careta. "Sua instintos são verdadeiros, mas não somos os [url=glossary:scarlet chorus]Coro Escarlate[/url]. Não posso simplesmente matar meu conterrâneo porque desaprovo suas táticas." Irentis observa a devastação de Junção do Trapper, imerso em pensamentos.</DefaultText>
+      <DefaultText>Ele faz uma careta. "Sua instintos são verdadeiros, mas não somos os [url=glossary:scarlet chorus]Coro Escarlate[/url]. Não posso simplesmente matar meu conterrâneo porque desaprovo suas táticas." Irentis observa a devastação de Junção de Armadilhas, imerso em pensamentos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -311,7 +311,7 @@ A maneira como ele olha para longe faz você se perguntar o quanto ele acredita 
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"O [url=glossary:unbroken]ininterrupto[/url] nunca caiu nesse truque do 'inimigo do meu inimigo' no passado, quando nossos líderes tinham coragem de ficar em pé. Claramente as coisas mudaram." Irentis endurece sua postura e fecha as mãos em punhos.</DefaultText>
+      <DefaultText>"O [url=glossary:unbroken]Inquebrável[/url] nunca caiu nesse truque do 'inimigo do meu inimigo' no passado, quando nossos líderes tinham coragem de ficar em pé. Claramente as coisas mudaram." Irentis endurece sua postura e fecha as mãos em punhos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -321,12 +321,12 @@ A maneira como ele olha para longe faz você se perguntar o quanto ele acredita 
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Não. Se você me acha tão ingênuo a ponto de permitir que a agitação sem direção do meu capitão desgraçado dite como eu vivo ou morro, então você subestimou o [url=glossary:unbroken]ininterrupto[/url]. Talvez pior, você superestimou Mattias."</DefaultText>
+      <DefaultText>"Não. Se você me acha tão ingênuo a ponto de permitir que a agitação sem direção do meu capitão desgraçado dite como eu vivo ou morro, então você subestimou o [url=glossary:unbroken]Inquebrável[/url]. Talvez pior, você superestimou Mattias."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>Muitos dos [url=glossary:unbroken]ininterrupto[/url] seguem o exemplo Irentis' e te encaram, sacando suas armas uma a uma. Os seguidores de Mattias assumem ansiosamente posturas defensivas. O tempo todo, Irentis cruza os braços e te olha com um sorriso maroto.</DefaultText>
+      <DefaultText>Muitos dos [url=glossary:unbroken]Inquebrável[/url] seguem o exemplo Irentis' e te encaram, sacando suas armas uma a uma. Os seguidores de Mattias assumem ansiosamente posturas defensivas. O tempo todo, Irentis cruza os braços e te olha com um sorriso maroto.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -351,7 +351,7 @@ A maneira como ele olha para longe faz você se perguntar o quanto ele acredita 
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Você está preso às cordas do avental de [url=glossary:kyros]Kyros[/url]' militar - Eu não esperaria que você entendesse o significado de um último empurrão contra probabilidades impossíveis, mas aqui no Sul nós não não aceite inevitabilidades."</DefaultText>
+      <DefaultText>"Você está preso às cordas do avental militar de [url=glossary:kyros]Kyros[/url] - Eu não esperaria que você entendesse o significado de um último empurrão contra probabilidades impossíveis, mas aqui no Sul nós não não aceite inevitabilidades."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -371,7 +371,7 @@ A maneira como ele olha para longe faz você se perguntar o quanto ele acredita 
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Houve tempo para conversar quando as forças [url=glossary:kyros]Kyros[/url]' marcharam em nossas fronteiras? Não. Nunca se trata de negociação com vocês imperialistas imundos, e não permitirei que isso desça para outro impasse prolongado."</DefaultText>
+      <DefaultText>"Houve tempo para conversar quando as forças de [url=glossary:kyros]Kyros[/url] marcharam em nossas fronteiras? Não. Nunca se trata de negociação com vocês imperialistas imundos, e não permitirei que isso desça para outro impasse prolongado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -381,12 +381,12 @@ A maneira como ele olha para longe faz você se perguntar o quanto ele acredita 
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"De qualquer forma, esconda-se atrás de sua fachada inocente se funcionar na ralé, mas não vai me enganar. [url=glossary:kyros]Kyros[/url]' todos os lacaios degenerados usam o mesmo estratagema - oferecem termos impossíveis e ficam surpresos quando as hostilidades começam."</DefaultText>
+      <DefaultText>"De qualquer forma, esconda-se atrás de sua fachada inocente se funcionar na ralé, mas não vai me enganar. Todos os lacaios degenerados de [url=glossary:kyros]Kyros[/url] usam o mesmo estratagema - oferecem termos impossíveis e ficam surpresos quando as hostilidades começam."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Eu lhe ofereci termos de paz. Responder com violência desonra o [url=glossary:unbroken]ininterrupto[/url]."</DefaultText>
+      <DefaultText>"Eu lhe ofereci termos de paz. Responder com violência desonra o [url=glossary:unbroken]Inquebrável[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -401,12 +401,12 @@ A maneira como ele olha para longe faz você se perguntar o quanto ele acredita 
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Tudo o que você fez aqui foi dividir o [url=glossary:unbroken]ininterrupto[/url]. Você não tem ninguém para culpar além de si mesmo."</DefaultText>
+      <DefaultText>"Tudo o que você fez aqui foi dividir o [url=glossary:unbroken]Inquebrável[/url]. Você não tem ninguém para culpar além de si mesmo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Você está errado. O medo e a dúvida nos separaram. A coragem nos unirá. Isso não seria necessário se todos nós lembrássemos o que significa ser [url=glossary:unbroken]ininterrupto[/url]." Ele considera Mattias com desgosto.</DefaultText>
+      <DefaultText>"Você está errado. O medo e a dúvida nos separaram. A coragem nos unirá. Isso não seria necessário se todos nós lembrássemos o que significa ser [url=glossary:unbroken]Inquebrável[/url]." Ele considera Mattias com desgosto.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

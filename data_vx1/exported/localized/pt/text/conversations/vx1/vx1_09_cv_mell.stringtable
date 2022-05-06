@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Fatebinder! Bom dia para você." O jovem o cumprimenta com um sorriso enquanto gritos distantes reverberam por toda a área, crescendo constantemente em volume. "Como você deve ter observado, sua presença é uma surpresa. É um prazer inesperado, quero dizer, receber um estimado servo do Tribunal." Ele se curva rigidamente, revelando uma fileira de espinhos multiformados ao longo de suas costas.</DefaultText>
+      <DefaultText>"Vinculador do Destino! Bom dia para você." O jovem o cumprimenta com um sorriso enquanto gritos distantes reverberam por toda a área, crescendo constantemente em volume. "Como você deve ter observado, sua presença é uma surpresa. É um prazer inesperado, quero dizer, receber um estimado servo do Tribunal." Ele se curva rigidamente, revelando uma fileira de espinhos multiformados ao longo de suas costas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Por que todos vocês estão aqui? Entrada no Oldwalls é proibido."</DefaultText>
+      <DefaultText>"Por que todos vocês estão aqui? Entrada no Muralhas Antigas é proibido."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Faça o Bane não te ameaça?"</DefaultText>
+      <DefaultText>"Faça o Maldições não te ameaça?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -141,7 +141,7 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"A liquidação no Oldwalls é ilegal, pela lei [url=glossary:kyros]Kyros[/url]'. Todos devem sair."</DefaultText>
+      <DefaultText>"A liquidação no Muralhas Antigas é ilegal, pela lei de [url=glossary:kyros]Kyros[/url]. Todos devem sair."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -151,7 +151,7 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>[Ataque] "Declaro que este acordo viola a lei [url=glossary:kyros]Kyros[/url]'. Todos os seus habitantes são culpados e devem ser executados."</DefaultText>
+      <DefaultText>[Ataque] "Declaro que este acordo viola a lei de [url=glossary:kyros]Kyros[/url]. Todos os seus habitantes são culpados e devem ser executados."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -181,12 +181,12 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Recebemos luz solar suficiente para cultivar colheitas nos níveis superiores - repolho, gnashroot, rabanete. Cogumelos, mesmo. O maior desafio aqui é beber água, apesar das aparências." Ele se inclina para frente enquanto fala, seu tom enérgico. "Isso é um fenômeno bastante interessante, na verdade. Algo no ambiente Oldwalls se infiltra na água e a corrompe, produzindo uma doença muito curiosa nos aflitos. Não há febre ou calafrios, sangramento, vômito ou qualquer outra coisa, mas você vai definhar com o tempo, como se estivesse morrendo de fome."</DefaultText>
+      <DefaultText>"Recebemos luz solar suficiente para cultivar colheitas nos níveis superiores - repolho, gnashroot, rabanete. Cogumelos, mesmo. O maior desafio aqui é beber água, apesar das aparências." Ele se inclina para frente enquanto fala, seu tom enérgico. "Isso é um fenômeno bastante interessante, na verdade. Algo no ambiente Muralhas Antigas se infiltra na água e a corrompe, produzindo uma doença muito curiosa nos aflitos. Não há febre ou calafrios, sangramento, vômito ou qualquer outra coisa, mas você vai definhar com o tempo, como se estivesse morrendo de fome."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Ele balança a cabeça, distraidamente esfregando a tinta seca entre os dedos. "Sim, claro, mas temos um sistema para isso. Você conheceu nossa festa de boas-vindas nas cavernas, imagino? Aliás, o que aconteceu com-" Ele balança a cabeça, descartando o pensamento. "Não importa. A questão é que temos um contingente de Homens-fera conosco, e eles se adaptaram muito bem ao Oldwalls e mostram pouco medo das abominações."</DefaultText>
+      <DefaultText>Ele balança a cabeça, distraidamente esfregando a tinta seca entre os dedos. "Sim, claro, mas temos um sistema para isso. Você conheceu nossa festa de boas-vindas nas cavernas, imagino? Aliás, o que aconteceu com-" Ele balança a cabeça, descartando o pensamento. "Não importa. A questão é que temos um contingente de Homens-fera conosco, e eles se adaptaram muito bem ao Muralhas Antigas e mostram pouco medo das abominações."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -196,12 +196,12 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Obrigado, Vinculador do Destino. Direi apenas que este é um lugar incomum, e sua posição legal um tanto obscura. Nós nunca violaríamos conscientemente a lei [url=glossary:kyros]Kyros[/url]', é o que quero dizer."</DefaultText>
+      <DefaultText>"Obrigado, Vinculador do Destino. Direi apenas que este é um lugar incomum, e sua posição legal um tanto obscura. Nós nunca violaríamos conscientemente a lei de [url=glossary:kyros]Kyros[/url], é o que quero dizer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Lugar notável, não é?" Ele estica os braços, olhando ao redor para dar ênfase. "Nós Ve não tenho ideia de quantos anos esse canto do Oldwalls tem, mas o túnel que leva a ele surgiu há alguns anos. A fúria de [url=glossary:cairn]Cairn[/url] foi desencadeada em uma batalha no topo, e quaisquer poderes que ele usou se dividiram sob as montanhas e fraturaram esses Oldwalls."</DefaultText>
+      <DefaultText>"Lugar notável, não é?" Ele estica os braços, olhando ao redor para dar ênfase. "Nós Ve não tenho ideia de quantos anos esse canto do Muralhas Antigas tem, mas o túnel que leva a ele surgiu há alguns anos. A fúria de [url=glossary:cairn]Cairn[/url] foi desencadeada em uma batalha no topo, e quaisquer poderes que ele usou se dividiram sob as montanhas e fraturaram esses Muralhas Antigas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -211,12 +211,12 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Mestre Lexeme infelizmente não está entre nós. Ela desapareceu nos níveis mais baixos há algum tempo. Ela não era ela mesma..." Ele franze a testa, visivelmente angustiado. "Vida aqui é bastante complicado, e o Oldwalls nos 'abençoa' com inúmeros mistérios. Uma delas é a insônia sem fim, uma aflição que a deixou louca."</DefaultText>
+      <DefaultText>"Mestre Lexeme infelizmente não está entre nós. Ela desapareceu nos níveis mais baixos há algum tempo. Ela não era ela mesma..." Ele franze a testa, visivelmente angustiado. "Vida aqui é bastante complicado, e as Muralhas Antigas nos 'abençoa' com inúmeros mistérios. Uma delas é a insônia sem fim, uma aflição que a deixou louca."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Infelizmente, isso é uma questão de debate no momento. Por um tempo, dois homens em particular lideraram este acordo - Tidecaster Wagstaff, que está aqui há mais tempo, e [url=glossary:forge-bound]Forge-Bound[/url] Mestre Jaspos. Eles tornaram possível sobreviver aqui, mas raramente veem as coisas olho no olho. Se as condições aqui não fossem tão frágeis, tenho certeza de que elas teriam se chocado há muito tempo."</DefaultText>
+      <DefaultText>"Infelizmente, isso é uma questão de debate no momento. Por um tempo, dois homens em particular lideraram este acordo - Tidecaster Wagstaff, que está aqui há mais tempo, e [url=glossary:forge-bound]Vinculado à Forja[/url] Mestre Jaspos. Eles tornaram possível sobreviver aqui, mas raramente veem as coisas olho no olho. Se as condições aqui não fossem tão frágeis, tenho certeza de que elas teriam se chocado há muito tempo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -231,7 +231,7 @@
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Ele não gosta de gentilezas ou... carisma de qualquer tipo, mas ele é um mestre em seu ofício. Ele foi o primeiro a tratar as águas tóxicas nestes Oldwalls, e até hoje é a única cura que funciona. A ferida estaria mal sem ele."</DefaultText>
+      <DefaultText>"Ele não gosta de gentilezas ou... carisma de qualquer tipo, mas ele é um mestre em seu ofício. Ele foi o primeiro a tratar as águas tóxicas nestes Muralhas Antigas, e até hoje é a única cura que funciona. A ferida estaria mal sem ele."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,12 +241,12 @@
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Uma doença menor no início, mas cumulativa. Com o passar dos dias e semanas, eles se perdem. Depressão, mal-estar, paranóia, interminável em si mesma. Meu Mestre Lexema foi tratada por Recife-Talon, e no caso dela, ela perdeu a habilidade de fazer magia. Entre isso e algumas disputas sobre se é apropriado para um Mulher-Besta liderar humanos resultaram em um Recife-Talon deixando o Ferimento, desaparecendo nas profundezas do Oldwalls. Muitos dos Sem dormir se seguiram."</DefaultText>
+      <DefaultText>"Uma doença menor no início, mas cumulativa. Com o passar dos dias e semanas, eles se perdem. Depressão, mal-estar, paranóia, interminável em si mesma. Meu Mestre Lexema foi tratada por Recife-Talon, e no caso dela, ela perdeu a habilidade de fazer magia. Entre isso e algumas disputas sobre se é apropriado para um Mulher-Besta liderar humanos resultaram em um Recife-Talon deixando o Ferimento, desaparecendo nas profundezas do Muralhas Antigas. Muitos dos Sem dormir se seguiram."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Ah, claro, posso ver por que as coisas podem parecer assim." Ele gagueja, passando as mãos desajeitadamente sobre os pergaminhos ao longo de sua bandoleira. Ele pega um de seu laço e bate nele nervosamente. "Se você olhar para este desenho da área, estamos, por várias braças, abaixo dos Oldwalls que você vê subindo. Então, quem pode dizer se estamos nas paredes ou realmente apenas no subsolo."</DefaultText>
+      <DefaultText>"Ah, claro, posso ver por que as coisas podem parecer assim." Ele gagueja, passando as mãos desajeitadamente sobre os pergaminhos ao longo de sua bandoleira. Ele pega um de seu laço e bate nele nervosamente. "Se você olhar para este desenho da área, estamos, por várias braças, abaixo dos Muralhas Antigas que você vê subindo. Então, quem pode dizer se estamos nas paredes ou realmente apenas no subsolo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -290,12 +290,12 @@ Vários outros homens e mulheres assistem dos níveis superiores, ofegantes e re
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Visitantes são sempre motivo de alarme. Além disso, você não é apenas um estranho, você é um Fatebinder! Para muitos, é como se [url=glossary:tunon]Tunon[/url] acabasse de entrar em nossas casas! Sua dispensação de justiça pode ter profundas ramificações para um assentamento pouco conhecido e, uh, tecnicamente, oculto como o nosso. Alguns dos refugiados aqui não conhecem suas intenções. Sem dúvida eles têm... pouco a temer, certo?"</DefaultText>
+      <DefaultText>"Visitantes são sempre motivo de alarme. Além disso, você não é apenas um estranho, você é um Vinculador do Destino! Para muitos, é como se [url=glossary:tunon]Tunon[/url] acabasse de entrar em nossas casas! Sua dispensação de justiça pode ter profundas ramificações para um assentamento pouco conhecido e, uh, tecnicamente, oculto como o nosso. Alguns dos refugiados aqui não conhecem suas intenções. Sem dúvida eles têm... pouco a temer, certo?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>Você olha além do escriba, tomando nota dos detalhes nesta área cavernosa. Gigantescas paredes de pedra flanqueiam o espaço e sobem para um céu aberto, aparentemente separadas umas das outras. Cachoeiras estrondosas caem em cascata, quase circundando as ilhas de telhas de pedra que compõem o assentamento. Embora coberta por musgo úmido e tendas feitas pelo homem, a arquitetura de pedra aqui é inconfundivelmente do Oldwalls.</DefaultText>
+      <DefaultText>Você olha além do escriba, tomando nota dos detalhes nesta área cavernosa. Gigantescas paredes de pedra flanqueiam o espaço e sobem para um céu aberto, aparentemente separadas umas das outras. Cachoeiras estrondosas caem em cascata, quase circundando as ilhas de telhas de pedra que compõem o assentamento. Embora coberta por musgo úmido e tendas feitas pelo homem, a arquitetura de pedra aqui é inconfundivelmente do Muralhas Antigas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -367,7 +367,7 @@ Vários outros homens e mulheres assistem dos níveis superiores, ofegantes e re
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Obrigado, Vinculador do Destino. Ouvi dizer que você avisou os Sábios no [url=glossary:vellum citadel]Cidadela de Velino[/url], antes do [url=glossary:edict]Edital[/url] chegar. Fico feliz em ver que sua misericórdia se estende a nós também. As coisas aqui são complicadas - vou apenas dizer que este é um lugar incomum, e sua situação legal um tanto obscura. Nós nunca violaríamos conscientemente a lei [url=glossary:kyros]Kyros[/url]', é o que quero dizer."</DefaultText>
+      <DefaultText>"Obrigado, Vinculador do Destino. Ouvi dizer que você avisou os Sábios no [url=glossary:vellum citadel]Cidadela de Velino[/url], antes do [url=glossary:edict]Edital[/url] chegar. Fico feliz em ver que sua misericórdia se estende a nós também. As coisas aqui são complicadas - vou apenas dizer que este é um lugar incomum, e sua situação legal um tanto obscura. Nós nunca violaríamos conscientemente a lei de [url=glossary:kyros]Kyros[/url], é o que quero dizer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -387,7 +387,7 @@ Vários outros homens e mulheres assistem dos níveis superiores, ofegantes e re
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Você só precisa temer um Fatebinder se tiver feito algo errado - como violar as leis relacionadas ao Oldwalls."</DefaultText>
+      <DefaultText>"Você só precisa temer um Vinculador do Destino se tiver feito algo errado - como violar as leis relacionadas ao Muralhas Antigas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -397,7 +397,7 @@ Vários outros homens e mulheres assistem dos níveis superiores, ofegantes e re
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Por favor, Vinculador do Destino, garanto," seu rosto fica vermelho de ansiedade, "nenhum de nós pretendia estar aqui! Você passou pela passagem da caverna, não foi? Então você pode ver como tudo isso é um erro simples - pensamos que estávamos explorando uma caverna, certamente não partimos para explorar Oldwalls que nem sabíamos que estavam enterrados aqui."</DefaultText>
+      <DefaultText>"Por favor, Vinculador do Destino, garanto," seu rosto fica vermelho de ansiedade, "nenhum de nós pretendia estar aqui! Você passou pela passagem da caverna, não foi? Então você pode ver como tudo isso é um erro simples - pensamos que estávamos explorando uma caverna, certamente não partimos para explorar Muralhas Antigas que nem sabíamos que estavam enterrados aqui."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -427,7 +427,7 @@ Vários outros homens e mulheres assistem dos níveis superiores, ofegantes e re
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Me faz pensar se existem outros Oldwalls como este que estão escondidos da vista daqueles que estão apenas andando na superfície."</DefaultText>
+      <DefaultText>"Me faz pensar se existem outros Muralhas Antigas como este que estão escondidos da vista daqueles que estão apenas andando na superfície."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -437,7 +437,7 @@ Vários outros homens e mulheres assistem dos níveis superiores, ofegantes e re
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Mestre Lexeme infelizmente não está entre nós. Ela desapareceu nos níveis mais baixos há algum tempo. Ela não era ela mesma..." Ele franze a testa, visivelmente angustiado. "Vida aqui é bastante complicado, e o Oldwalls nos 'abençoa' com inúmeros mistérios. Uma delas é a insônia sem fim, uma aflição que a deixou louca."</DefaultText>
+      <DefaultText>"Mestre Lexeme infelizmente não está entre nós. Ela desapareceu nos níveis mais baixos há algum tempo. Ela não era ela mesma..." Ele franze a testa, visivelmente angustiado. "Vida aqui é bastante complicado, e as Muralhas Antigas nos 'abençoa' com inúmeros mistérios. Uma delas é a insônia sem fim, uma aflição que a deixou louca."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -537,7 +537,7 @@ Vários outros homens e mulheres assistem dos níveis superiores, ofegantes e re
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"De fato, mas Reef-Talon é uma fera muito incomum. Ela não é uh, não é como... a maioria das feras." Mell tosse nervosamente, afastando-se lentamente de Mortes-in-Shadow.</DefaultText>
+      <DefaultText>"De fato, mas Reef-Talon é uma fera muito incomum. Ela não é uh, não é como... a maioria das feras." Mell tosse nervosamente, afastando-se lentamente de Mortes nas Sombras.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -547,7 +547,7 @@ Vários outros homens e mulheres assistem dos níveis superiores, ofegantes e re
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"Hmph. [url=glossary:sage]Sábio[/url] cheira como qualquer outro humano que Mortes-in-Shadows já conheceu."</DefaultText>
+      <DefaultText>"Hmph. [url=glossary:sage]Sábio[/url] cheira como qualquer outro humano que Mortes nas Sombrass já conheceu."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -572,17 +572,17 @@ Vários outros homens e mulheres assistem dos níveis superiores, ofegantes e re
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>Esboçado sobre o pergaminho amassado está uma seção transversal do que parece ser Oldwalls atravessando a região montanhosa do Nível Bastardo. Se este mapa for preciso, esses Oldwalls correm quase inteiramente sob as montanhas - os trechos superiores desses Oldwalls estão apenas alguns andares acima do fundo do vale. A julgar pelo mapa, o Oldwalls se inclina para cima enquanto viaja para o norte e se inclina para baixo enquanto se dirige para o sul.</DefaultText>
+      <DefaultText>Esboçado sobre o pergaminho amassado está uma seção transversal do que parece ser Muralhas Antigas atravessando a região montanhosa do Nível Bastardo. Se este mapa for preciso, esses Muralhas Antigas correm quase inteiramente sob as montanhas - os trechos superiores desses Muralhas Antigas estão apenas alguns andares acima do fundo do vale. A julgar pelo mapa, as Muralhas Antigas se inclina para cima enquanto viaja para o norte e se inclina para baixo enquanto se dirige para o sul.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>[Amasse o pergaminho e jogue-o de lado.] "[url=glossary:kyros]Kyros[/url]' as leis proíbem a entrada no Oldwalls, para não falar da liquidação. Você e todos os outros aqui são culpados de transgressão."</DefaultText>
+      <DefaultText>[Amasse o pergaminho e jogue-o de lado.] "as leis de [url=glossary:kyros]Kyros[/url] proíbem a entrada no Muralhas Antigas, para não falar da liquidação. Você e todos os outros aqui são culpados de transgressão."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>"Até onde eu sei, ela entrou nas profundezas do Oldwalls. Para mim, isso é uma sentença de morte, especialmente se ela não for mais capaz de fazer sua mágica. Sinto muito, queria que você tivesse nos encontrado antes... talvez você pudesse ter se reconectado com ela."</DefaultText>
+      <DefaultText>"Até onde eu sei, ela entrou nas profundezas do Muralhas Antigas. Para mim, isso é uma sentença de morte, especialmente se ela não for mais capaz de fazer sua mágica. Sinto muito, queria que você tivesse nos encontrado antes... talvez você pudesse ter se reconectado com ela."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -734,7 +734,7 @@ Vários outros homens e mulheres assistem dos níveis superiores, ofegantes e re
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>Ele aponta para cima, passando pelas cachoeiras e em direção ao céu exposto. As paredes divididas se abrem para fora, uma goela gigante estendida em direção ao firmamento. "Rachado a porra inteira Oldwalls pela metade e agora a luz do sol e a água estão aqui pela primeira vez desde... sempre?"</DefaultText>
+      <DefaultText>Ele aponta para cima, passando pelas cachoeiras e em direção ao céu exposto. As paredes divididas se abrem para fora, uma goela gigante estendida em direção ao firmamento. "Rachado a porra inteira Muralhas Antigas pela metade e agora a luz do sol e a água estão aqui pela primeira vez desde... sempre?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -784,7 +784,7 @@ Vários outros homens e mulheres assistem dos níveis superiores, ofegantes e re
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>"Até onde eu sei, ela entrou nas profundezas do Oldwalls. Para mim, isso é uma sentença de morte, especialmente se ela não for mais capaz de fazer sua mágica. Sinto muito, queria que você tivesse nos encontrado antes... talvez você pudesse ter se reconectado com ela."</DefaultText>
+      <DefaultText>"Até onde eu sei, ela entrou nas profundezas do Muralhas Antigas. Para mim, isso é uma sentença de morte, especialmente se ela não for mais capaz de fazer sua mágica. Sinto muito, queria que você tivesse nos encontrado antes... talvez você pudesse ter se reconectado com ela."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -814,7 +814,7 @@ Vários outros homens e mulheres assistem dos níveis superiores, ofegantes e re
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>"Posso sugerir uma busca no Abismo? Nenhum em nossos grupos de caça viu Lexeme, então suspeito que ela esteja descendo para as Oldwalls' profundezas." Ele de repente se lembra de algo e rapidamente vasculha uma de suas bolsas. "Aqui! Pegue isso. Chama-se [url=glossary:warden's key]Chave do Guardião[/url] - um dos últimos, forjado em um raro momento de colaboração entre Jaspos e Wagstaff. Dizem que pode ser usado para interagir com esquisitices no Oldwalls à distância, como aqueles faróis que vemos com frequência."</DefaultText>
+      <DefaultText>"Posso sugerir uma busca no Abismo? Nenhum em nossos grupos de caça viu Lexeme, então suspeito que ela esteja descendo para as Muralhas Antigas' profundezas." Ele de repente se lembra de algo e rapidamente vasculha uma de suas bolsas. "Aqui! Pegue isso. Chama-se [url=glossary:warden's key]Chave do Guardião[/url] - um dos últimos, forjado em um raro momento de colaboração entre Jaspos e Wagstaff. Dizem que pode ser usado para interagir com esquisitices no Muralhas Antigas à distância, como aqueles faróis que vemos com frequência."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -834,7 +834,7 @@ Vários outros homens e mulheres assistem dos níveis superiores, ofegantes e re
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>"Para acessar as profundezas do Oldwalls, você precisará do Pedra angular que o Apelido Insípido carrega."</DefaultText>
+      <DefaultText>"Para acessar as profundezas do Muralhas Antigas, você precisará do Pedra angular que o Apelido Insípido carrega."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -889,7 +889,7 @@ Vários outros homens e mulheres assistem dos níveis superiores, ofegantes e re
     </Entry>
     <Entry>
       <ID>197</ID>
-      <DefaultText>"Eu não queria, er, ostentar as leis [url=glossary:kyros]Kyros[/url]', mas a maioria de nós já fez apostas em um ponto ou outro. Anéis não valem tanto aqui quanto na superfície - apostar com eles é apenas um passo além de usar pedras polidas."</DefaultText>
+      <DefaultText>"Eu não queria, er, ostentar as leis de [url=glossary:kyros]Kyros[/url], mas a maioria de nós já fez apostas em um ponto ou outro. Anéis não valem tanto aqui quanto na superfície - apostar com eles é apenas um passo além de usar pedras polidas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -944,7 +944,7 @@ Vários outros homens e mulheres assistem dos níveis superiores, ofegantes e re
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>"Eu sei de seus planos mais recentes." Ele pega caneta e pergaminho e rapidamente desenha um mapa para um local específico no Profundidades de Oldwalls.</DefaultText>
+      <DefaultText>"Eu sei de seus planos mais recentes." Ele pega caneta e pergaminho e rapidamente desenha um mapa para um local específico no Profundidades de Muralhas Antigas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1049,7 +1049,7 @@ Vários outros homens e mulheres assistem dos níveis superiores, ofegantes e re
     </Entry>
     <Entry>
       <ID>230</ID>
-      <DefaultText>"Você e Tonves estiveram envolvidos em atividades altamente ilegais, incluindo perder Fatebinder tempo. Espero pagamento adequado ao Tribunal em recompensa."</DefaultText>
+      <DefaultText>"Você e Tonves estiveram envolvidos em atividades altamente ilegais, incluindo perder Vinculador do Destino tempo. Espero pagamento adequado ao Tribunal em recompensa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1109,7 +1109,7 @@ Vários outros homens e mulheres assistem dos níveis superiores, ofegantes e re
     </Entry>
     <Entry>
       <ID>248</ID>
-      <DefaultText>"Pensando bem, não vi Apelido Insípido recentemente. Mesmo que eles se odeiem, ela às vezes se junta a Tonves em caçadas na superfície - eu suspeito que ela está insegura sem algo a ver com suas lâminas." Ele revira os olhos. "De qualquer forma, ela sempre mantém essa pedra angular por perto, então você não poderá entrar no Oldwalls sem encontrá-la primeiro."</DefaultText>
+      <DefaultText>"Pensando bem, não vi Apelido Insípido recentemente. Mesmo que eles se odeiem, ela às vezes se junta a Tonves em caçadas na superfície - eu suspeito que ela está insegura sem algo a ver com suas lâminas." Ele revira os olhos. "De qualquer forma, ela sempre mantém essa pedra angular por perto, então você não poderá entrar no Muralhas Antigas sem encontrá-la primeiro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1134,7 +1134,7 @@ Vários outros homens e mulheres assistem dos níveis superiores, ofegantes e re
     </Entry>
     <Entry>
       <ID>259</ID>
-      <DefaultText>"Ah sim, Lexeme está... viva? Talvez? Sua mente estava desaparecendo e ela partiu para as profundezas do Oldwalls há pouco tempo."</DefaultText>
+      <DefaultText>"Ah sim, Lexeme está... viva? Talvez? Sua mente estava desaparecendo e ela partiu para as profundezas do Muralhas Antigas há pouco tempo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1204,7 +1204,7 @@ Vários outros homens e mulheres assistem dos níveis superiores, ofegantes e re
     </Entry>
     <Entry>
       <ID>275</ID>
-      <DefaultText>"Lexeme, claro! Eu a seguiria em qualquer lugar. Ou assim eu pensei. Ela desceu profundamente no Oldwalls - mais longe do que nossas patrulhas se atrevem a se aventurar. Desculpe, ela não pode estar aqui para cumprimentá-lo."</DefaultText>
+      <DefaultText>"Lexeme, claro! Eu a seguiria em qualquer lugar. Ou assim eu pensei. Ela desceu profundamente no Muralhas Antigas - mais longe do que nossas patrulhas se atrevem a se aventurar. Desculpe, ela não pode estar aqui para cumprimentá-lo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1219,7 +1219,7 @@ Vários outros homens e mulheres assistem dos níveis superiores, ofegantes e re
     </Entry>
     <Entry>
       <ID>278</ID>
-      <DefaultText>"Ela e eu escondemos um desses esconderijos perto da fazenda, os outros estão, presumo, mais profundos no Oldwalls. Lexeme conhecia um velho truque [url=glossary:sage]Sábio[/url] que esconde os esconderijos, fazendo-os desaparecer de vista, a menos que outro Cronista esteja por perto. Quando sua magia começou a desvanecer, ela se apressou em esconder as coisas, mas além do único esconderijo na fazenda, só ela sabe onde estava o resto."</DefaultText>
+      <DefaultText>"Ela e eu escondemos um desses esconderijos perto da fazenda, os outros estão, presumo, mais profundos no Muralhas Antigas. Lexeme conhecia um velho truque [url=glossary:sage]Sábio[/url] que esconde os esconderijos, fazendo-os desaparecer de vista, a menos que outro Cronista esteja por perto. Quando sua magia começou a desvanecer, ela se apressou em esconder as coisas, mas além do único esconderijo na fazenda, só ela sabe onde estava o resto."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1249,12 +1249,12 @@ Vários outros homens e mulheres assistem dos níveis superiores, ofegantes e re
     </Entry>
     <Entry>
       <ID>285</ID>
-      <DefaultText>"Encanamento das Oldwalls por seus segredos é uma coisa... Tentar viver neles? Isso é uma combinação especial de estúpido e insalubre."</DefaultText>
+      <DefaultText>"Encanamento das Muralhas Antigas por seus segredos é uma coisa... Tentar viver neles? Isso é uma combinação especial de estúpido e insalubre."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>286</ID>
-      <DefaultText>"Agachar-se no Oldwalls... É uma maravilha que o Maldito não tenha recompensado sua arrogância com uma morte dolorosa."</DefaultText>
+      <DefaultText>"Agachar-se no Muralhas Antigas... É uma maravilha que o Maldito não tenha recompensado sua arrogância com uma morte dolorosa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1264,12 +1264,12 @@ Vários outros homens e mulheres assistem dos níveis superiores, ofegantes e re
     </Entry>
     <Entry>
       <ID>288</ID>
-      <DefaultText>"Eu uh... poderia pedir o mesmo de você! Levando abrigo no Oldwalls. Isso requer... nervos de ferro ou inteligência de pedra."</DefaultText>
+      <DefaultText>"Eu uh... poderia pedir o mesmo de você! Levando abrigo no Muralhas Antigas. Isso requer... nervos de ferro ou inteligência de pedra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>289</ID>
-      <DefaultText>"Aroma de Bane está distante. Muitas feras nas proximidades... explica por que os humanos não têm medo de estar em Oldwalls."</DefaultText>
+      <DefaultText>"Aroma de Maldições está distante. Muitas feras nas proximidades... explica por que os humanos não têm medo de estar em Muralhas Antigas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1284,7 +1284,7 @@ Vários outros homens e mulheres assistem dos níveis superiores, ofegantes e re
     </Entry>
     <Entry>
       <ID>293</ID>
-      <DefaultText>"Vejo que nada escapa ao seu conhecimento, Vinculador do Destino. Eu caracterizaria minha participação mais como 'facilitadora' do que como corrida, mas a distinção pode ser irrelevante aos olhos de [url=glossary:kyros]Kyros[/url]'." Ele pigarreia.</DefaultText>
+      <DefaultText>"Vejo que nada escapa ao seu conhecimento, Vinculador do Destino. Eu caracterizaria minha participação mais como 'facilitadora' do que como corrida, mas a distinção pode ser irrelevante aos olhos de [url=glossary:kyros]Kyros[/url]." Ele pigarreia.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1299,7 +1299,7 @@ Vários outros homens e mulheres assistem dos níveis superiores, ofegantes e re
     </Entry>
     <Entry>
       <ID>297</ID>
-      <DefaultText>"Os soldados de Ashe são um bando vigilante. Eu não deveria me surpreender se ela ouvir algo... bem, conclusivo." Seus ombros se curvam com decepção.</DefaultText>
+      <DefaultText>"Os soldados de Cinza são um bando vigilante. Eu não deveria me surpreender se ela ouvir algo... bem, conclusivo." Seus ombros se curvam com decepção.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1324,12 +1324,12 @@ Vários outros homens e mulheres assistem dos níveis superiores, ofegantes e re
     </Entry>
     <Entry>
       <ID>302</ID>
-      <DefaultText>"Certamente você acredita em mim, não é, Fatebinder? Eu não tenho nenhuma razão para enganá-lo sobre este assunto. Se eu desagradei você, por favor, me dê uma oportunidade de fazer as pazes." Ele observa você, esticando o pescoço levemente na expectativa de uma resposta.</DefaultText>
+      <DefaultText>"Certamente você acredita em mim, não é, Vinculador do Destino? Eu não tenho nenhuma razão para enganá-lo sobre este assunto. Se eu desagradei você, por favor, me dê uma oportunidade de fazer as pazes." Ele observa você, esticando o pescoço levemente na expectativa de uma resposta.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>303</ID>
-      <DefaultText>"Por favor, não quis ofender. Um Fatebinder merece divulgação completa e completa."</DefaultText>
+      <DefaultText>"Por favor, não quis ofender. Um Vinculador do Destino merece divulgação completa e completa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1339,7 +1339,7 @@ Vários outros homens e mulheres assistem dos níveis superiores, ofegantes e re
     </Entry>
     <Entry>
       <ID>305</ID>
-      <DefaultText>"Eu o vi voltando do Oldwalls tarde da noite com Homem-Besta sangue manchando sua bata e armas. Ele teve o cuidado de evitar o Manipuladores, mas não me pegou o observando. No dia seguinte, chegou a notícia de que um dos caçadores havia caído no Maldito. Quando eu vi Tonves depois com uma pele fresca para bronzear, ficou muito óbvio."</DefaultText>
+      <DefaultText>"Eu o vi voltando do Muralhas Antigas tarde da noite com Homem-Besta sangue manchando sua bata e armas. Ele teve o cuidado de evitar o Manipuladores, mas não me pegou o observando. No dia seguinte, chegou a notícia de que um dos caçadores havia caído no Maldito. Quando eu vi Tonves depois com uma pele fresca para bronzear, ficou muito óbvio."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1439,7 +1439,7 @@ Vários outros homens e mulheres assistem dos níveis superiores, ofegantes e re
     </Entry>
     <Entry>
       <ID>325</ID>
-      <DefaultText>"Por que todos vocês estão aqui? Entrada no Oldwalls é proibido."</DefaultText>
+      <DefaultText>"Por que todos vocês estão aqui? Entrada no Muralhas Antigas é proibido."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1469,7 +1469,7 @@ Vários outros homens e mulheres assistem dos níveis superiores, ofegantes e re
     </Entry>
     <Entry>
       <ID>332</ID>
-      <DefaultText>"Saudações Fatebinder, não esperava vê-lo de volta tão cedo. A ferida tem sido... principalmente harmonioso desde a última vez que você nos viu."</DefaultText>
+      <DefaultText>"Saudações Vinculador do Destino, não esperava vê-lo de volta tão cedo. A ferida tem sido... principalmente harmonioso desde a última vez que você nos viu."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1494,7 +1494,7 @@ Vários outros homens e mulheres assistem dos níveis superiores, ofegantes e re
     </Entry>
     <Entry>
       <ID>337</ID>
-      <DefaultText>[Blefe] "[url=glossary:kyros]Kyros[/url]' a lei proíbe expressamente o jogo."</DefaultText>
+      <DefaultText>[Blefe] "A lei de [url=glossary:kyros]Kyros[/url] proíbe expressamente o jogo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1519,7 +1519,7 @@ Vários outros homens e mulheres assistem dos níveis superiores, ofegantes e re
     </Entry>
     <Entry>
       <ID>344</ID>
-      <DefaultText>"Por muito pouco. A lei proíbe o abuso do nome [url=glossary:kyros]Kyros[/url]'. Desde que o Senhor controla todo o comércio, alguns Vinculadores do Destino equiparam qualquer jogo a colocar a responsabilidade de ganhar ou perder em [url=glossary:kyros]Kyros[/url]. O que tenho certeza de que não constitui um exagero judicial selvagem para reivindicar os anéis em jogo."</DefaultText>
+      <DefaultText>"Por muito pouco. A lei proíbe o abuso do nome de [url=glossary:kyros]Kyros[/url]. Desde que o Senhor controla todo o comércio, alguns Vinculadores do Destino equiparam qualquer jogo a colocar a responsabilidade de ganhar ou perder em [url=glossary:kyros]Kyros[/url]. O que tenho certeza de que não constitui um exagero judicial selvagem para reivindicar os anéis em jogo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1534,7 +1534,7 @@ Vários outros homens e mulheres assistem dos níveis superiores, ofegantes e re
     </Entry>
     <Entry>
       <ID>348</ID>
-      <DefaultText>"Ela e eu escondemos um desses esconderijos perto da fazenda, os outros estão, presumo, mais profundos no Oldwalls. Lexeme conhecia um velho truque [url=glossary:sage]Sábio[/url] que esconde os esconderijos, fazendo-os desaparecer de vista, a menos que outro Cronista esteja por perto. Quando sua magia começou a desvanecer, ela se apressou em esconder as coisas, mas além do único esconderijo na fazenda, só ela sabe onde estava o resto."</DefaultText>
+      <DefaultText>"Ela e eu escondemos um desses esconderijos perto da fazenda, os outros estão, presumo, mais profundos no Muralhas Antigas. Lexeme conhecia um velho truque [url=glossary:sage]Sábio[/url] que esconde os esconderijos, fazendo-os desaparecer de vista, a menos que outro Cronista esteja por perto. Quando sua magia começou a desvanecer, ela se apressou em esconder as coisas, mas além do único esconderijo na fazenda, só ela sabe onde estava o resto."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

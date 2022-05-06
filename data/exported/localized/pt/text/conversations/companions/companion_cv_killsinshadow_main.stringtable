@@ -13,7 +13,7 @@ Ela olha para cima, um movimento brusco e assustado quando você se aproxima.</D
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Kills-in-Shadow observa você, sem piscar, pupilas negras dilatando em seus olhos vermelhos. Ela separa os lábios enquanto cheira o ar.</DefaultText>
+      <DefaultText>Mortes nas Sombras observa você, sem piscar, pupilas negras dilatando em seus olhos vermelhos. Ela separa os lábios enquanto cheira o ar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -25,7 +25,7 @@ Ela olha para cima, um movimento brusco e assustado quando você se aproxima. Ma
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Fatebinder quer Mulher-Besta?"
+      <DefaultText>"Vinculador do Destino quer Mulher-Besta?"
 
 O fedor de um animal selvagem sujo, ensanguentado e desgastado pela batalha, envolve você como um cobertor molhado, e você respira pela boca para não vomitar.</DefaultText>
       <FemaleText />
@@ -84,7 +84,7 @@ Seu lábio superior descasca acima de uma fileira de presas afiadas.</DefaultTex
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"São descarados, inexperientes. Não são tão rápidos e selvagens quanto Mulher-Besta. Mas não são fracos. Fatebinder deu à luz uma matilha boa e forte." 
+      <DefaultText>"São descarados, inexperientes. Não são tão rápidos e selvagens quanto Mulher-Besta. Mas não são fracos. Vinculador do Destino deu à luz uma matilha boa e forte." 
 
 Ela balança enquanto pensa, olhando em volta, vigilante.</DefaultText>
       <FemaleText />
@@ -116,12 +116,12 @@ Ela balança enquanto pensa, olhando em volta, vigilante.</DefaultText>
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"O que mais Alfa para matar-in-Shadow deseja saber?"</DefaultText>
+      <DefaultText>"O que mais Alfa para Mortes nas Sombras deseja saber?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Kills-in-Shadow - esse é um... nome interessante."</DefaultText>
+      <DefaultText>"Mortes nas Sombras - esse é um... nome interessante."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -143,7 +143,7 @@ Ela balança enquanto pensa, olhando em volta, vigilante.</DefaultText>
       <ID>26</ID>
       <DefaultText>"Não matou fora do ventre da mãe. Todos os filhotes mamam primeiro, aprendem depois. O primogênito da Mulher-Besta foi na segunda temporada após o nascimento."
 
-Kills-in-Shadow hacks, um sinal claro de sua diversão.</DefaultText>
+Mortes nas Sombras hacks, um sinal claro de sua diversão.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -188,7 +188,7 @@ Kills-in-Shadow hacks, um sinal claro de sua diversão.</DefaultText>
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Foram caçados. Morto por [url=glossary:disfavored]Desfavorecido[/url]. Como o sonho escuro Mortes-in-Shadow não poderia acordar. Havia muito sangue uivante - a maioria de humanos, alguns de kith." 
+      <DefaultText>"Foram caçados. Morto por [url=glossary:disfavored]Desfavorecido[/url]. Como o sonho escuro Mortes nas Sombras não poderia acordar. Havia muito sangue uivante - a maioria de humanos, alguns de kith." 
 
 A Mulher-Fera se agacha, recusando-se a olhar para você. Ela mói suas garras na terra, marcando sua dor no chão.</DefaultText>
       <FemaleText />
@@ -210,7 +210,7 @@ A Mulher-Fera se agacha, recusando-se a olhar para você. Ela mói suas garras n
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Ferrão de escorpião. As víboras mordem. As mulheres-fera não culpam os predadores. Kills-in-Shadow não odeia [url=glossary:disfavored]Desfavorecido[/url]. Mas vai abater, rasgar. Vai matar extinto." 
+      <DefaultText>"Ferrão de escorpião. As víboras mordem. As mulheres-fera não culpam os predadores. Mortes nas Sombras não odeia [url=glossary:disfavored]Desfavorecido[/url]. Mas vai abater, rasgar. Vai matar extinto." 
 
 Ela fareja você, olhos escuros com desafio.</DefaultText>
       <FemaleText />
@@ -227,7 +227,7 @@ Ela fareja você, olhos escuros com desafio.</DefaultText>
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "Não-não." Kills-in-Shadow coça o quadril, garras arranhando um pedaço áspero de tecido cicatricial dividindo a saliência do osso .</DefaultText>
+      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "Não-não." Mortes nas Sombras coça o quadril, garras arranhando um pedaço áspero de tecido cicatricial dividindo a saliência do osso .</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -249,12 +249,12 @@ A Mulher-Fera flexiona e enrola suas garras no ar, a escuridão de breu delas re
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Em roubar território de Mulheres-feras terras - terras que os humanos chamam de reinos de Tiersmen? Conheça o território reivindicado pelo Fatebinder de [url=glossary:vendrien's well]Poço de Vendrien[/url]. É bom para o pacote. Bom para [url=glossary:scarlet chorus]Coro Escarlate[/url]. Deve matar-in-Shadow cuidados fora disso?" Ela se agacha e coça a curva inferior de suas costas.</DefaultText>
+      <DefaultText>"Em roubar território de Mulheres-feras terras - terras que os humanos chamam de reinos de Homens dos Caminhos? Conheça o território reivindicado pelo Vinculador do Destino de [url=glossary:vendrien's well]Poço de Vendrien[/url]. É bom para o pacote. Bom para [url=glossary:scarlet chorus]Coro Escarlate[/url]. Deve Mortes nas Sombras cuidados fora disso?" Ela se agacha e coça a curva inferior de suas costas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Fatebinder se saiu bem em Pedra-terras. Ficou duro como rochas salientes em Boca Recortada."</DefaultText>
+      <DefaultText>"Vinculador do Destino se saiu bem em Pedra-terras. Ficou duro como rochas salientes em Boca Recortada."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -264,22 +264,22 @@ A Mulher-Fera flexiona e enrola suas garras no ar, a escuridão de breu delas re
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Protegido Alfa [url=glossary:cairn]Cairn[/url] para [url=glossary:stonestalker]Perseguidor de Pedras[/url] tribo. Teria sido divertido matar Arconte, mas é melhor para Mulheres-feras se estiver vivo. A tribo será mais forte. Alpha fez uma boa escolha para Mulheres-feras. Kills-in-Shadow não esquecerá."</DefaultText>
+      <DefaultText>"Protegido Alfa [url=glossary:cairn]Cairn[/url] para [url=glossary:stonestalker]Perseguidor de Pedras[/url] tribo. Teria sido divertido matar Arconte, mas é melhor para Mulheres-feras se estiver vivo. A tribo será mais forte. Alpha fez uma boa escolha para Mulheres-feras. Mortes nas Sombras não esquecerá."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"[url=glossary:stonestalkers]Perseguidores de Pedras[/url] não queria [url=glossary:cairn]Cairn[/url] morto. Arconte de Pedra fortaleceu os místicos e toda a tribo. Mas mata-in-Shadow gosta daquele pacote Alfa matou Arconte. Kills-in-Shadow segue o forte Alfa. Arconte-assassino."</DefaultText>
+      <DefaultText>"[url=glossary:stonestalkers]Perseguidores de Pedras[/url] não queria [url=glossary:cairn]Cairn[/url] morto. Arconte de Pedra fortaleceu os místicos e toda a tribo. Mas Mortes nas Sombras gosta daquele pacote Alfa matou Arconte. Mortes nas Sombras segue o forte Alfa. Arconte-assassino."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Fatebinder reivindicou a rocha do horizonte chamada Pináculo da Montanha em [url=glossary:vendrien's well]Poço de Vendrien[/url]. Deve reivindicar mais. Tome o poder como seu. Torne-se cada vez mais forte."</DefaultText>
+      <DefaultText>"Vinculador do Destino reivindicou a rocha do horizonte chamada Pináculo da Montanha em [url=glossary:vendrien's well]Poço de Vendrien[/url]. Deve reivindicar mais. Tome o poder como seu. Torne-se cada vez mais forte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url] governa a própria tribo e esmaga as ameaças ao território com ataques chamados Editais. Fatebinder deve aprender a mesma força mística. Mesmo Arcontes não pode vencer contra Editais, sim? São o melhor ataque. Vai usar para matar-matar-matar, sobreviver."</DefaultText>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] governa a própria tribo e esmaga as ameaças ao território com ataques chamados Editais. Vinculador do Destino deve aprender a mesma força mística. Mesmo Arcontes não pode vencer contra Editais, sim? São o melhor ataque. Vai usar para matar-matar-matar, sobreviver."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -289,7 +289,7 @@ A Mulher-Fera flexiona e enrola suas garras no ar, a escuridão de breu delas re
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Mulher-Fera não gosta de [url=glossary:disfavored]Desfavorecido[/url]. Mas mata-in-Shadow gosta de Barik. Não vai matar humanos ainda. Quer caçar bom e longo. Faça sangrar-gritar-contorcer-se. Mangle antes de matar." 
+      <DefaultText>"Mulher-Fera não gosta de [url=glossary:disfavored]Desfavorecido[/url]. Mas Mortes nas Sombras gosta de Barik. Não vai matar humanos ainda. Quer caçar bom e longo. Faça sangrar-gritar-contorcer-se. Mangle antes de matar." 
 
 Seus olhos brilham sombriamente, e ela solta um suspiro ansioso, língua malva escorregadia de salivação.</DefaultText>
       <FemaleText />
@@ -311,7 +311,7 @@ Seus olhos brilham sombriamente, e ela solta um suspiro ansioso, língua malva e
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Fatebinder tem muitos aliados. Mais inimigos. Que fazem Fatebinder e Kills-caça nas sombras hoje?"</DefaultText>
+      <DefaultText>"Vinculador do Destino tem muitos aliados. Mais inimigos. Que fazem Vinculador do Destino e Kills-caça nas sombras hoje?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -321,19 +321,19 @@ Seus olhos brilham sombriamente, e ela solta um suspiro ansioso, língua malva e
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Humanos dessas terras - de Mulheres-feras terras. Humanos chamados Tiersmen que lutam-torcem-lutam contra a tribo Fatebinder." 
+      <DefaultText>"Humanos dessas terras - de Mulheres-feras terras. Humanos chamados Homens dos Caminhos que lutam-torcem-lutam contra a tribo Vinculador do Destino." 
 
-Kills-in-Shadow rosna um ruído suave de contemplação.</DefaultText>
+Mortes nas Sombras rosna um ruído suave de contemplação.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Muitos humanos vivem em Mulheres-feras terras. Kills-in-Shadow sabe que Tierman é bem embalado."</DefaultText>
+      <DefaultText>"Muitos humanos vivem em Mulheres-feras terras. Mortes nas Sombras sabe que habitante do Camadas é bem embalado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Humanos de mulheres-feras terras, humanos chamados Tiersmen, são muitos, vermes turvos que infestam, estragam boa carne."</DefaultText>
+      <DefaultText>"Humanos de mulheres-feras terras, humanos chamados Homens dos Caminhos, são muitos, vermes turvos que infestam, estragam boa carne."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -345,17 +345,17 @@ Ela bufa e bufa.</DefaultText>
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"A antiga tribo de Fatebinder. Matilhas viraram presas."</DefaultText>
+      <DefaultText>"A antiga tribo de Vinculador do Destino. Matilhas viraram presas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"O que você sabe sobre o [url=glossary:disfavored]Desfavorecido[/url] e o [url=glossary:graven ashe]Cinza esculpida[/url]?"</DefaultText>
+      <DefaultText>"O que você sabe sobre o [url=glossary:disfavored]Desfavorecido[/url] e o [url=glossary:graven ashe]Cinza Esculpida[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"O que você sabe sobre o [url=glossary:scarlet chorus]Coro Escarlate[/url] e o [url=glossary:the voices of nerat]o Vozes de Nerat[/url]?"</DefaultText>
+      <DefaultText>"O que você sabe sobre o [url=glossary:scarlet chorus]Coro Escarlate[/url] e o [url=glossary:the voices of nerat]As Vozes de Nerat[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -385,7 +385,7 @@ Ela bufa e bufa.</DefaultText>
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>Ela resmunga. "Talvez o Fatebinder entende melhor as formas dos místicos humanos. Talvez não. Pergunte e descubra."</DefaultText>
+      <DefaultText>Ela resmunga. "Talvez o Vinculador do Destino entende melhor as formas dos místicos humanos. Talvez não. Pergunte e descubra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -405,7 +405,7 @@ Ela bufa e bufa.</DefaultText>
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"O que você sabe sobre o [url=glossary:unbroken]ininterrupto[/url]?"</DefaultText>
+      <DefaultText>"O que você sabe sobre o [url=glossary:unbroken]Inquebrável[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -420,12 +420,12 @@ Ela bufa e bufa.</DefaultText>
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"O que você sabe sobre o [url=glossary:forge-bound]Forge-Bound[/url]?"</DefaultText>
+      <DefaultText>"O que você sabe sobre o [url=glossary:forge-bound]Vinculado à Forja[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"O que você sabe sobre o Tremedores de terra?"</DefaultText>
+      <DefaultText>"O que você sabe sobre o Tremedores de Terra?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -450,7 +450,7 @@ Ela bufa e bufa.</DefaultText>
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Broodmother era mística. Kills-in-Shadow pode ouvir a canção das sombras, pode sentir o cheiro do poder na escuridão, sim-sim."</DefaultText>
+      <DefaultText>"Broodmother era mística. Mortes nas Sombras pode ouvir a canção das sombras, pode sentir o cheiro do poder na escuridão, sim-sim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -462,17 +462,17 @@ A Mulher-Fera fixa seus olhos vermelho-sangue em você. É um olhar pesado, chei
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Fatebinder acha que Mulher-Besta místico não pode ser chamado de Arconte? Todas as tribos de Mulheres-Feras conhecem lendas, conhecem a vida de Trovão-Mane. Abateu intermináveis humanos. Atingido cinco Arcontes morto antes de ser morto por [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <DefaultText>"Vinculador do Destino acha que Mulher-Besta místico não pode ser chamado de Arconte? Todas as tribos de Mulheres-Feras conhecem lendas, conhecem a vida de Trovão-Mane. Abateu intermináveis humanos. Atingido cinco Arcontes morto antes de ser morto por [url=glossary:kyros]Kyros[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Mas são Tiersmen. Cheire mais de Pedra-terras. Mais sangue da terra do que [url=glossary:disfavored]Desfavorecido[/url], sim."</DefaultText>
+      <DefaultText>"Mas são Homens dos Caminhos. Cheire mais de Pedra-terras. Mais sangue da terra do que [url=glossary:disfavored]Desfavorecido[/url], sim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Você já teve negócios anteriores com o Tremedores de terra?"</DefaultText>
+      <DefaultText>"Você já teve negócios anteriores com o Tremedores de Terra?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -487,22 +487,22 @@ A Mulher-Fera fixa seus olhos vermelho-sangue em você. É um olhar pesado, chei
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"[url=glossary:stonestalker]Perseguidor de Pedras[/url] filhotes aprendem a lamber o mesmo sangue da terra que Tremedores de terra fazem, mas os métodos de Mulheres-feras são diferentes. Ambos caçam com as mesmas garras místicas, mas a técnica de corte varia."</DefaultText>
+      <DefaultText>"[url=glossary:stonestalker]Perseguidor de Pedras[/url] filhotes aprendem a lamber o mesmo sangue da terra que Tremedores de Terra fazem, mas os métodos de Mulheres-feras são diferentes. Ambos caçam com as mesmas garras místicas, mas a técnica de corte varia."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Sob o solo seco, o sangue úmido da terra pulsa. Tambores. Os ouvidos de Fatebinder não conseguem ouvir a música de sangue pulsante?"</DefaultText>
+      <DefaultText>"Sob o solo seco, o sangue úmido da terra pulsa. Tambores. Os ouvidos de Vinculador do Destino não conseguem ouvir a música de sangue pulsante?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Se por 'negociações' Vinculador do Destino significa caçadas e assassinatos, então sim. Tremedores de terra tribo esmagada Shardnip nas terras de pedra do sul. Então mata-in-Shadow abatido pacote de Tremedores de terra no norte perto de Rocha Uivante."</DefaultText>
+      <DefaultText>"Se por 'negociações' Vinculador do Destino significa caçadas e assassinatos, então sim. Tremedores de Terra tribo esmagada Shardnip nas terras de pedra do sul. Então Mortes nas Sombras abatido pacote de Tremedores de Terra no norte perto de Rocha Uivante."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"[url=glossary:forge-bound]Forge-Bound[/url] são construtores, não lutadores. São como escravos da própria matilha humana. Trabalho-trabalho-trabalho sem descanso. São fracos e submissos, mas podem moldar minérios duros e cinzentos como se fossem pegadas de patas na lama."</DefaultText>
+      <DefaultText>"[url=glossary:forge-bound]Vinculado à Forja[/url] são construtores, não lutadores. São como escravos da própria matilha humana. Trabalho-trabalho-trabalho sem descanso. São fracos e submissos, mas podem moldar minérios duros e cinzentos como se fossem pegadas de patas na lama."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -522,12 +522,12 @@ A Mulher-Fera fixa seus olhos vermelho-sangue em você. É um olhar pesado, chei
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Pacote estranho. Disperso. [url=glossary:sage]Sábio[/url] humanos se conhecem, mas preferem viajar de lobo solitário. São inteligentes, mais difíceis de caçar. Cheiro de tinta de carvão e árvores podres. Deixar mulheres-feras sozinho na maioria das vezes, então Mortes-in-Shadow gosta."</DefaultText>
+      <DefaultText>"Pacote estranho. Disperso. [url=glossary:sage]Sábio[/url] humanos se conhecem, mas preferem viajar de lobo solitário. São inteligentes, mais difíceis de caçar. Cheiro de tinta de carvão e árvores podres. Deixar mulheres-feras sozinho na maioria das vezes, então Mortes nas Sombras gosta."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>"Know pack foi derrotado pela tribo [url=glossary:kyros]Kyros[/url]'. Know pack lutou e sobreviveu. Não são muitas as matilhas que podem ficar de pé novamente quando feridas de morte. Faz a Mulher-Besta corrida de sangue com orgulho."</DefaultText>
+      <DefaultText>"Know pack foi derrotado pela tribo de [url=glossary:kyros]Kyros[/url]. Know pack lutou e sobreviveu. Não são muitas as matilhas que podem ficar de pé novamente quando feridas de morte. Faz a Mulher-Besta corrida de sangue com orgulho."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -547,7 +547,7 @@ A Mulher-Fera fixa seus olhos vermelho-sangue em você. É um olhar pesado, chei
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Não gosto de [url=glossary:disfavored]Desfavorecido[/url]. Mas os revestidos de ferro são os mais fortes dos humanos. Retorno dos estertores da morte. Fatebinder deve ajudar [url=glossary:disfavored]Desfavorecido[/url] derrotadores da morte. Deve sempre ficar do lado do pacote que vencerá."</DefaultText>
+      <DefaultText>"Não gosto de [url=glossary:disfavored]Desfavorecido[/url]. Mas os revestidos de ferro são os mais fortes dos humanos. Retorno dos estertores da morte. Vinculador do Destino deve ajudar [url=glossary:disfavored]Desfavorecido[/url] derrotadores da morte. Deve sempre ficar do lado do pacote que vencerá."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -557,7 +557,7 @@ A Mulher-Fera fixa seus olhos vermelho-sangue em você. É um olhar pesado, chei
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"Fatebinder e Kills-in-Shadow ajudará os humanos nas terras Mulheres-feras, humanos chamados Tiersmen. Usará para lutar contra a tribo [url=glossary:kyros]Kyros[/url]'. É o que Vinculador do Destino que cheira a Alfa quer fazer, sim?"</DefaultText>
+      <DefaultText>"Vinculador do Destino e Mortes nas Sombras ajudará os humanos nas terras Mulheres-feras, humanos chamados Homens dos Caminhos. Usará para lutar contra a tribo de [url=glossary:kyros]Kyros[/url]. É o que Vinculador do Destino que cheira a Alfa quer fazer, sim?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -572,7 +572,7 @@ A Mulher-Fera fixa seus olhos vermelho-sangue em você. É um olhar pesado, chei
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"O [url=glossary:disfavored]Desfavorecido[/url] mantém-se fiel ao [url=glossary:kyros]Kyros[/url]' - eles sozinhos incorporam a força Soberano."</DefaultText>
+      <DefaultText>"O [url=glossary:disfavored]Desfavorecido[/url] mantém-se fiel ao [url=glossary:kyros]Kyros[/url] - eles sozinhos incorporam a força Soberano."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -582,12 +582,12 @@ A Mulher-Fera fixa seus olhos vermelho-sangue em você. É um olhar pesado, chei
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"Fatebinder e Kills-in-Shadow usará [url=glossary:disfavored]Desfavorecido[/url] até que [url=glossary:disfavored]Desfavorecido[/url] não possa sair da agonia novamente. Até que cada um esteja morto."</DefaultText>
+      <DefaultText>"Vinculador do Destino e Mortes nas Sombras usará [url=glossary:disfavored]Desfavorecido[/url] até que [url=glossary:disfavored]Desfavorecido[/url] não possa sair da agonia novamente. Até que cada um esteja morto."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url]caça Mulheres-feras, mata tribos extintas. É ameaça à sobrevivência. [url=glossary:disfavored]Desfavorecido[/url] também caçar Mulheres-feras. Kills-in-Shadow não se submeterá como escravo, não morrerá. Vai matar-lutar-abater [url=glossary:disfavored]Desfavorecido[/url] primeiro."</DefaultText>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url]caça Mulheres-feras, mata tribos extintas. É ameaça à sobrevivência. [url=glossary:disfavored]Desfavorecido[/url] também caçar Mulheres-feras. Mortes nas Sombras não se submeterá como escravo, não morrerá. Vai matar-lutar-abater [url=glossary:disfavored]Desfavorecido[/url] primeiro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -607,17 +607,17 @@ A Mulher-Fera fixa seus olhos vermelho-sangue em você. É um olhar pesado, chei
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"Mulher-Besta também. Alfa para matar-in-Shadow é forte. Faz as melhores escolhas para sobreviver, matar, vencer. É o que Mulher-Besta gosta em Alfa."</DefaultText>
+      <DefaultText>"Mulher-Besta também. Alfa para Mortes nas Sombras é forte. Faz as melhores escolhas para sobreviver, matar, vencer. É o que Mulher-Besta gosta em Alfa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url]caça Mulheres-feras, mata tribos extintas. É ameaça à sobrevivência. Alfa pensa que [url=glossary:kyros]Kyros[/url] aceitará Mortes-in-Shadow se fizer parte do pacote [url=glossary:scarlet chorus]Coro Escarlate[/url]? Ou Alfa não se importa se Mulher-Besta morrer?"</DefaultText>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url]caça Mulheres-feras, mata tribos extintas. É ameaça à sobrevivência. Alfa pensa que [url=glossary:kyros]Kyros[/url] aceitará Mortes nas Sombras se fizer parte do pacote [url=glossary:scarlet chorus]Coro Escarlate[/url]? Ou Alfa não se importa se Mulher-Besta morrer?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"Kills-in-Shadow tem o bom Alfa. É um caçador forte e inteligente. Faz as melhores escolhas para sobreviver, matar, vencer. Usará o pacote [url=glossary:scarlet chorus]Coro Escarlate[/url] e depois abaterá."</DefaultText>
+      <DefaultText>"Mortes nas Sombras tem o bom Alfa. É um caçador forte e inteligente. Faz as melhores escolhas para sobreviver, matar, vencer. Usará o pacote [url=glossary:scarlet chorus]Coro Escarlate[/url] e depois abaterá."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -637,7 +637,7 @@ A Mulher-Fera fixa seus olhos vermelho-sangue em você. É um olhar pesado, chei
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"Lutar para sobreviver é o modo de vida em Mulheres-feras-terras. Não torna os humanos especiais. Se Tiersmen luta mais, é por causa da própria fraqueza." A Mulher-Fera zomba, mostrando uma língua áspera e arroxeada.</DefaultText>
+      <DefaultText>"Lutar para sobreviver é o modo de vida em Mulheres-feras-terras. Não torna os humanos especiais. Se Homens dos Caminhos luta mais, é por causa da própria fraqueza." A Mulher-Fera zomba, mostrando uma língua áspera e arroxeada.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -667,17 +667,17 @@ A Mulher-Fera fixa seus olhos vermelho-sangue em você. É um olhar pesado, chei
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>Kills-in-Shadow coça a bochecha, considerando seu comando.</DefaultText>
+      <DefaultText>Mortes nas Sombras coça a bochecha, considerando seu comando.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>"Kills-in-Shadow entende."</DefaultText>
+      <DefaultText>"Mortes nas Sombras entende."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>"Mulher-Fera gosta deste plano de caça. É bom. Plano inteligente. Deixe os humanos morrerem para que Fatebinder e Kills-in-Shadow possam vencer."</DefaultText>
+      <DefaultText>"Mulher-Fera gosta deste plano de caça. É bom. Plano inteligente. Deixe os humanos morrerem para que Vinculador do Destino e Mortes nas Sombras possam vencer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -687,7 +687,7 @@ A Mulher-Fera fixa seus olhos vermelho-sangue em você. É um olhar pesado, chei
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>"Menor. mais fraco. Usualmente, é tolice ficar do lado de uma tribo mais fraca. Vai precisar de um bom plano para caçar [url=glossary:kyros]Kyros[/url]' tribo."</DefaultText>
+      <DefaultText>"Menor. mais fraco. Usualmente, é tolice ficar do lado de uma tribo mais fraca. Vai precisar de um bom plano para caçar tribo de [url=glossary:kyros]Kyros[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -697,7 +697,7 @@ A Mulher-Fera fixa seus olhos vermelho-sangue em você. É um olhar pesado, chei
     </Entry>
     <Entry>
       <ID>134</ID>
-      <DefaultText>"[url=glossary:scarlet chorus]Coro Escarlate[/url] e [url=glossary:disfavored]Desfavorecido[/url] já detestam e temem Vinculador do Destino. É bom. Fatebinder e Kills-in-Shadow fará a presa ganir, implorar por misericórdia. Vai abater. Vai encher rios de sangue."</DefaultText>
+      <DefaultText>"[url=glossary:scarlet chorus]Coro Escarlate[/url] e [url=glossary:disfavored]Desfavorecido[/url] já detestam e temem Vinculador do Destino. É bom. Vinculador do Destino e Mortes nas Sombras fará a presa ganir, implorar por misericórdia. Vai abater. Vai encher rios de sangue."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -707,17 +707,17 @@ A Mulher-Fera fixa seus olhos vermelho-sangue em você. É um olhar pesado, chei
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>"Disse Fatebinder. Foi caçado. Foi morto por [url=glossary:disfavored]Desfavorecido[/url]." A Mulher-Fera carrancudos.</DefaultText>
+      <DefaultText>"Disse Vinculador do Destino. Foi caçado. Foi morto por [url=glossary:disfavored]Desfavorecido[/url]." A Mulher-Fera carrancudos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"[url=glossary:forge-bound]Forge-Bound[/url] faça garras de matar melhores que o ferro e peles duras o dia todo para amigos que não são da matilha. Por que dar aos outros se tem escolha?"</DefaultText>
+      <DefaultText>"[url=glossary:forge-bound]Vinculado à Forja[/url] faça garras de matar melhores que o ferro e peles duras o dia todo para amigos que não são da matilha. Por que dar aos outros se tem escolha?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>"Pedra. Minério. Coração e pele de Terrato. Cheira a ferro, mas é diferente. [url=glossary:forge-bound]Forge-Bound[/url] moldar minério cinza para dar dentes e garras às tribos. Esculpir melhor, cortar mais fundo do que os de ferro e bronze." A Mulher-Fera bufa e espirra.</DefaultText>
+      <DefaultText>"Pedra. Minério. Coração e pele de Terrato. Cheira a ferro, mas é diferente. [url=glossary:forge-bound]Vinculado à Forja[/url] moldar minério cinza para dar dentes e garras às tribos. Esculpir melhor, cortar mais fundo do que os de ferro e bronze." A Mulher-Fera bufa e espirra.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -777,12 +777,12 @@ A Mulher-Fera fixa seus olhos vermelho-sangue em você. É um olhar pesado, chei
     </Entry>
     <Entry>
       <ID>150</ID>
-      <DefaultText>Kills-in-Shadow dá um puxão de orelha quando você se aproxima. Ela continua acariciando sua pele, dedos longos e grisalhos roçando o cabelo áspero, cutucando sarna e esteiras, lama e sangue.</DefaultText>
+      <DefaultText>Mortes nas Sombras dá um puxão de orelha quando você se aproxima. Ela continua acariciando sua pele, dedos longos e grisalhos roçando o cabelo áspero, cutucando sarna e esteiras, lama e sangue.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>"Fatebinder quer que você tome banho."</DefaultText>
+      <DefaultText>"Vinculador do Destino quer que você tome banho."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -792,7 +792,7 @@ A Mulher-Fera fixa seus olhos vermelho-sangue em você. É um olhar pesado, chei
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>"Fatebinder pensou que Mortes-in-Shadow era [url=glossary:prima]Prima[/url]? Poderia foram. Era mais forte. Poderia foram tomadas pelo sangue."</DefaultText>
+      <DefaultText>"Vinculador do Destino pensou que Mortes nas Sombras era [url=glossary:prima]Prima[/url]? Poderia foram. Era mais forte. Poderia foram tomadas pelo sangue."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -822,7 +822,7 @@ A Mulher-Fera fixa seus olhos vermelho-sangue em você. É um olhar pesado, chei
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>"Vinculador do Destino anda, esfregando ombro contra ombro com [url=glossary:disfavored]Desfavorecido[/url]. Alinha-se com o predador mais forte. Kills-in-Shadow entende. Mas a mulher-fera não será escravizado. Vai matar Vinculador do Destino primeiro." Frio, olhos vermelhos cortam você - prometendo uma morte dolorosa e prolongada se você a trair.</DefaultText>
+      <DefaultText>"Vinculador do Destino anda, esfregando ombro contra ombro com [url=glossary:disfavored]Desfavorecido[/url]. Alinha-se com o predador mais forte. Mortes nas Sombras entende. Mas a mulher-fera não será escravizado. Vai matar Vinculador do Destino primeiro." Frio, olhos vermelhos cortam você - prometendo uma morte dolorosa e prolongada se você a trair.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -847,22 +847,22 @@ A Mulher-Fera fixa seus olhos vermelho-sangue em você. É um olhar pesado, chei
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>"Em roubar território de Mulheres-feras terras - terras que os humanos chamam de reinos de Tiersmen? Conheça o território reivindicado pelo Fatebinder de [url=glossary:vendrien's well]Poço de Vendrien[/url]. É bom para o pacote. Bom para [url=glossary:disfavored]Desfavorecido[/url]. Deve matar-in-Shadow cuidados fora disso?" Ela se agacha e coça a curva inferior de suas costas.</DefaultText>
+      <DefaultText>"Em roubar território de Mulheres-feras terras - terras que os humanos chamam de reinos de Homens dos Caminhos? Conheça o território reivindicado pelo Vinculador do Destino de [url=glossary:vendrien's well]Poço de Vendrien[/url]. É bom para o pacote. Bom para [url=glossary:disfavored]Desfavorecido[/url]. Deve Mortes nas Sombras cuidados fora disso?" Ela se agacha e coça a curva inferior de suas costas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>"Em roubar território de Mulheres-feras terras - terras que os humanos chamam de reinos de Tiersmen? Conheça o território reivindicado pelo Fatebinder de [url=glossary:vendrien's well]Poço de Vendrien[/url]. É bom para o pacote. Bom para Tiersmen. Deve matar-in-Shadow cuidados fora disso?" Ela se agacha e coça a curva inferior de suas costas.</DefaultText>
+      <DefaultText>"Em roubar território de Mulheres-feras terras - terras que os humanos chamam de reinos de Homens dos Caminhos? Conheça o território reivindicado pelo Vinculador do Destino de [url=glossary:vendrien's well]Poço de Vendrien[/url]. É bom para o pacote. Bom para Homens dos Caminhos. Deve Mortes nas Sombras cuidados fora disso?" Ela se agacha e coça a curva inferior de suas costas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>"Em roubar território de Mulheres-feras terras - terras que os humanos chamam de reinos de Tiersmen? Conheça o Fatebinder reivindicou o território de [url=glossary:vendrien's well]Poço de Vendrien[/url] para si mesmo. É bom para o pacote. Deve matar-in-Shadow cuidados fora disso?" Ela se agacha e coça a curva inferior de suas costas.</DefaultText>
+      <DefaultText>"Em roubar território de Mulheres-feras terras - terras que os humanos chamam de reinos de Homens dos Caminhos? Conheça o Vinculador do Destino reivindicou o território de [url=glossary:vendrien's well]Poço de Vendrien[/url] para si mesmo. É bom para o pacote. Deve Mortes nas Sombras cuidados fora disso?" Ela se agacha e coça a curva inferior de suas costas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>"Know pack foi derrotado pela tribo [url=glossary:kyros]Kyros[/url]'. Era pequeno, facilmente caçado na primeira vez. Lutou - lutou de volta para as patas e joelhos. Mas não poderia ter vencido pela segunda vez. Era como uma lebre desafiando o lobo."</DefaultText>
+      <DefaultText>"Know pack foi derrotado pela tribo de [url=glossary:kyros]Kyros[/url]. Era pequeno, facilmente caçado na primeira vez. Lutou - lutou de volta para as patas e joelhos. Mas não poderia ter vencido pela segunda vez. Era como uma lebre desafiando o lobo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -892,7 +892,7 @@ A Mulher-Fera fixa seus olhos vermelho-sangue em você. É um olhar pesado, chei
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>"Não que Mortes-in-Shadow tenha visto. [url=glossary:stonestalkers]Perseguidores de Pedras[/url] não faça marcas com garras - não entenda as coisas que... permanecem após a morte. [url=glossary:stonestalker]Perseguidor de Pedras[/url] o conhecimento existe apenas como transmitido pelos membros vivos da tribo."</DefaultText>
+      <DefaultText>"Não que Mortes nas Sombras tenha visto. [url=glossary:stonestalkers]Perseguidores de Pedras[/url] não faça marcas com garras - não entenda as coisas que... permanecem após a morte. [url=glossary:stonestalker]Perseguidor de Pedras[/url] o conhecimento existe apenas como transmitido pelos membros vivos da tribo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -907,7 +907,7 @@ A Mulher-Fera fixa seus olhos vermelho-sangue em você. É um olhar pesado, chei
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>"Fatebinder costuma ter sentimentos por Beastwomen? Não pode resistir à atração do melhor predador, sim-sim."</DefaultText>
+      <DefaultText>"Vinculador do Destino costuma ter sentimentos por Beastwomen? Não pode resistir à atração do melhor predador, sim-sim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -917,7 +917,7 @@ A Mulher-Fera fixa seus olhos vermelho-sangue em você. É um olhar pesado, chei
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>Kills-in-Shadow arranhões atrás de uma orelha.</DefaultText>
+      <DefaultText>Mortes nas Sombras arranhões atrás de uma orelha.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -937,17 +937,17 @@ A Mulher-Fera fixa seus olhos vermelho-sangue em você. É um olhar pesado, chei
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>"Talvez o Fatebinder mata mais de cinco para cada companheiro de tribo morto, como Mulher-Besta também? Mortes-in-Shadow vai ajudar, vai derramar sangue de humanos que machucam Vinculador do Destino."</DefaultText>
+      <DefaultText>"Talvez o Vinculador do Destino mata mais de cinco para cada companheiro de tribo morto, como Mulher-Besta também? Mortes nas Sombras vai ajudar, vai derramar sangue de humanos que machucam Vinculador do Destino."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>"Kills-in-Shadow é leal [url=glossary:bolverk]Bolverk[/url]. E não gosta de ameaças."</DefaultText>
+      <DefaultText>"Mortes nas Sombras é leal [url=glossary:bolverk]Bolverk[/url]. E não gosta de ameaças."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>184</ID>
-      <DefaultText>"Mística da sombra humana - Arconte da escuridão está morta? Mortes-in-Shadow acha que isso não pode ser verdade. As sombras são mais fortes. As sombras mentem. Distorce o sol e a visão com a escuridão. Ganhe com o engano."</DefaultText>
+      <DefaultText>"Mística da sombra humana - Arconte da escuridão está morta? Mortes nas Sombras acha que isso não pode ser verdade. As sombras são mais fortes. As sombras mentem. Distorce o sol e a visão com a escuridão. Ganhe com o engano."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -957,24 +957,24 @@ A Mulher-Fera fixa seus olhos vermelho-sangue em você. É um olhar pesado, chei
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>"Sangue de Arconte chamado [url=glossary:tunon]Tunon[/url] manchas Fatebinder mãos. Kills-in-Shadow quer lamber sangue, quer julgar o poder dos mortos Arconte." Seus lábios se curvam em um sorriso selvagem e exigente.</DefaultText>
+      <DefaultText>"Sangue de Arconte chamado [url=glossary:tunon]Tunon[/url] manchas Vinculador do Destino mãos. Mortes nas Sombras quer lamber sangue, quer julgar o poder dos mortos Arconte." Seus lábios se curvam em um sorriso selvagem e exigente.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>"Alfa para matar-in-Shadow morto [url=glossary:disfavored]Desfavorecido[/url] chamado [url=glossary:graven ashe]Cinza esculpida[/url]. Foi a melhor morte. Mas a mulher-fera teria gostado de arrancar músculo de osso, pele rasgada, mutilada e mutilada - mais. Não muito. Só mais um pouco." 
+      <DefaultText>"Alfa para Mortes nas Sombras morto [url=glossary:disfavored]Desfavorecido[/url] chamado [url=glossary:graven ashe]Cinza Esculpida[/url]. Foi a melhor morte. Mas a mulher-fera teria gostado de arrancar músculo de osso, pele rasgada, mutilada e mutilada - mais. Não muito. Só mais um pouco." 
 
 A Mulher-Fera suspira, definhando com o pensamento.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>"Mulher-Fera está feliz. Gosta quando Vinculador do Destino ganha. Gosta daquele Vinculador do Destino abatido Alfa de [url=glossary:scarlet chorus]Coro Escarlate[/url] sem piedade. Era cruel, astuto - Arconte com muitas vozes. Era Alfa do maior pacote. Significa Alfa de Kills-in-Shadow é maior, melhor. Mais forte. Sempre vencerá."</DefaultText>
+      <DefaultText>"Mulher-Fera está feliz. Gosta quando Vinculador do Destino ganha. Gosta daquele Vinculador do Destino abatido Alfa de [url=glossary:scarlet chorus]Coro Escarlate[/url] sem piedade. Era cruel, astuto - Arconte com muitas vozes. Era Alfa do maior pacote. Significa Alfa de Mortes nas Sombras é maior, melhor. Mais forte. Sempre vencerá."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText>"Little chitter bird prometeu Alfa das mortes-in-Shadow. É bom para a chance de sobrevivência do pássaro chitter. Mas ruim para as da mulher-fera orelhas." Ela esfrega o cume de uma orelha pontuda, os olhos perdidos em pensamentos.</DefaultText>
+      <DefaultText>"Little chitter bird prometeu Alfa das Mortes nas Sombras. É bom para a chance de sobrevivência do pássaro chitter. Mas ruim para as da mulher-fera orelhas." Ela esfrega o cume de uma orelha pontuda, os olhos perdidos em pensamentos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1004,7 +1004,7 @@ A Mulher-Fera suspira, definhando com o pensamento.</DefaultText>
     </Entry>
     <Entry>
       <ID>195</ID>
-      <DefaultText>Kills-in-Shadow observa você, sem piscar, pupilas negras dilatando em seus olhos vermelhos. Ela separa os lábios enquanto cheira o ar.</DefaultText>
+      <DefaultText>Mortes nas Sombras observa você, sem piscar, pupilas negras dilatando em seus olhos vermelhos. Ela separa os lábios enquanto cheira o ar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1014,12 +1014,12 @@ A Mulher-Fera suspira, definhando com o pensamento.</DefaultText>
     </Entry>
     <Entry>
       <ID>198</ID>
-      <DefaultText>"Fatebinder e Kills-in-Shadow ajudará os humanos nas terras Mulheres-feras, humanos chamados Tiersmen. Usará para lutar contra a tribo [url=glossary:kyros]Kyros[/url]'. É o que Vinculador do Destino que cheira a Alfa quer fazer, sim?"</DefaultText>
+      <DefaultText>"Vinculador do Destino e Mortes nas Sombras ajudará os humanos nas terras Mulheres-feras, humanos chamados Homens dos Caminhos. Usará para lutar contra a tribo de [url=glossary:kyros]Kyros[/url]. É o que Vinculador do Destino que cheira a Alfa quer fazer, sim?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>199</ID>
-      <DefaultText>"Não foram caçados como Mulheres-feras. Fatebinder sabe disso. Mortes feridas-in-Shadow's antigo pacote."</DefaultText>
+      <DefaultText>"Não foram caçados como Mulheres-feras. Vinculador do Destino sabe disso. Mortes nas Sombras feridas antigo pacote."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1029,7 +1029,7 @@ A Mulher-Fera suspira, definhando com o pensamento.</DefaultText>
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>"Não gosto de [url=glossary:disfavored]Desfavorecido[/url]. Mas os revestidos de ferro são os mais fortes dos humanos. Retorno dos estertores da morte. Fatebinder deve ajudar [url=glossary:disfavored]Desfavorecido[/url] derrotadores da morte. Deve sempre ficar do lado do pacote que vencerá."</DefaultText>
+      <DefaultText>"Não gosto de [url=glossary:disfavored]Desfavorecido[/url]. Mas os revestidos de ferro são os mais fortes dos humanos. Retorno dos estertores da morte. Vinculador do Destino deve ajudar [url=glossary:disfavored]Desfavorecido[/url] derrotadores da morte. Deve sempre ficar do lado do pacote que vencerá."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1054,7 +1054,7 @@ A Mulher-Fera suspira, definhando com o pensamento.</DefaultText>
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>"Fique e veja. Vai pensar Mortes-in-Shadow memorável quando o interior estiver sendo arrancado lentamente da casca de ferro."</DefaultText>
+      <DefaultText>"Fique e veja. Vai pensar Mortes nas Sombras memorável quando o interior estiver sendo arrancado lentamente da casca de ferro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1084,7 +1084,7 @@ A Mulher-Fera suspira, definhando com o pensamento.</DefaultText>
     </Entry>
     <Entry>
       <ID>214</ID>
-      <DefaultText>"Pode ter fome, mas não vai comer Mortes-in-Shadow. Não tenho medo de muitas vozes Arconte."</DefaultText>
+      <DefaultText>"Pode ter fome, mas não vai comer Mortes nas Sombras. Não tenho medo de muitas vozes Arconte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1099,7 +1099,7 @@ A Mulher-Fera suspira, definhando com o pensamento.</DefaultText>
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText>"O [url=glossary:disfavored]Desfavorecido[/url] pode não ter a atitude áspera e sádica do Refrão, mas sob seu verniz de honra há um ódio furioso pelo Tiersmen."</DefaultText>
+      <DefaultText>"O [url=glossary:disfavored]Desfavorecido[/url] pode não ter a atitude áspera e sádica do Refrão, mas sob seu verniz de honra há um ódio furioso pelo Homens dos Caminhos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1124,7 +1124,7 @@ A Mulher-Fera suspira, definhando com o pensamento.</DefaultText>
     </Entry>
     <Entry>
       <ID>222</ID>
-      <DefaultText>"Isso é fascinante. Você está tendo dificuldade em manter seus animais sob controle, Fatebinder? Você gostaria de um verdadeiro Arconte para mostrar como se faz?"</DefaultText>
+      <DefaultText>"Isso é fascinante. Você está tendo dificuldade em manter seus animais sob controle, Vinculador do Destino? Você gostaria de um verdadeiro Arconte para mostrar como se faz?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1139,12 +1139,12 @@ A Mulher-Fera suspira, definhando com o pensamento.</DefaultText>
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>Sirin sorri e se vira para Matar-in-Shadow, travando os olhos com ela. Ela canta uma música sem palavras, aproximando-se do Mulher-Besta. Ela levanta as mãos e as leva para os lados do rosto de Mortes-in-Shadow. Enquanto ela canta a nota final de sua música, ela abaixa lentamente as mãos, e a cabeça de Mortes-in-Shadow segue. Sirin se vira para você e aponta para o agora calmo Mulher-Besta.</DefaultText>
+      <DefaultText>Sirin sorri e se vira para Mortes nas Sombras, travando os olhos com ela. Ela canta uma música sem palavras, aproximando-se do Mulher-Besta. Ela levanta as mãos e as leva para os lados do rosto de Mortes nas Sombras. Enquanto ela canta a nota final de sua música, ela abaixa lentamente as mãos, e a cabeça de Mortes nas Sombras segue. Sirin se vira para você e aponta para o agora calmo Mulher-Besta.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>Mata-na-Shadow calça placidamente, olhos vermelhos embotados e distantes enquanto ela olha afetuosamente para o Arconte da Canção. Ela arrasta as mãos e os pés e, sem aviso, dá uma cabeçada no peito da garota. O impacto é forte o suficiente para que a adolescente tropece um passo para trás antes que o Mulher-Besta envolva seus braços ao redor de sua cintura fina. Kills-in-Shadow esfrega o rosto contra o pescoço do Sirin, ronronando profundo e lento.</DefaultText>
+      <DefaultText>Mata-na-Shadow calça placidamente, olhos vermelhos embotados e distantes enquanto ela olha afetuosamente para o Arconte da Canção. Ela arrasta as mãos e os pés e, sem aviso, dá uma cabeçada no peito da garota. O impacto é forte o suficiente para que a adolescente tropece um passo para trás antes que o Mulher-Besta envolva seus braços ao redor de sua cintura fina. Mortes nas Sombras esfrega o rosto contra o pescoço do Sirin, ronronando profundo e lento.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1241,7 +1241,7 @@ Ela sorri e arqueja alegremente, a língua pendendo entre suas presas.</DefaultT
     </Entry>
     <Entry>
       <ID>246</ID>
-      <DefaultText>"Não se deixe enganar pela reputação [url=glossary:unbroken]ininterrupto[/url]. As pessoas de Robusto gostam de reescrever a história em favor de uma versão que se ajuste às suas sensibilidades. Imagine que muitas pessoas se unindo em torno de uma ideia, uma história?"</DefaultText>
+      <DefaultText>"Não se deixe enganar pela reputação [url=glossary:unbroken]Inquebrável[/url]. As pessoas de Robusto gostam de reescrever a história em favor de uma versão que se ajuste às suas sensibilidades. Imagine que muitas pessoas se unindo em torno de uma ideia, uma história?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1365,17 +1365,17 @@ Ela abre um sorriso largo, a língua pendurada em seus dentes brilhantes e afiad
     </Entry>
     <Entry>
       <ID>271</ID>
-      <DefaultText>Kills-in-Shadow infla suas tetas peludas e nuas.</DefaultText>
+      <DefaultText>Mortes nas Sombras infla suas tetas peludas e nuas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>272</ID>
-      <DefaultText>"Melhores tribos. Tribos que cresceram das terras." Kills-in-Shadow coça uma mão calejada e desengonçada sob sua crina emaranhada. Ela bufa.</DefaultText>
+      <DefaultText>"Melhores tribos. Tribos que cresceram das terras." Mortes nas Sombras coça uma mão calejada e desengonçada sob sua crina emaranhada. Ela bufa.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>273</ID>
-      <DefaultText>"Kills-in-Shadow não entende o comportamento humano em relação aos místicos. As tribos devem valorizar, proteger os místicos. Não trate como párias, Caitiffs - forçados em bandos separados."</DefaultText>
+      <DefaultText>"Mortes nas Sombras não entende o comportamento humano em relação aos místicos. As tribos devem valorizar, proteger os místicos. Não trate como párias, Caitiffs - forçados em bandos separados."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1385,7 +1385,7 @@ Ela abre um sorriso largo, a língua pendurada em seus dentes brilhantes e afiad
     </Entry>
     <Entry>
       <ID>275</ID>
-      <DefaultText>"Earthshakers extraem poder do sangue da terra como [url=glossary:stonestalker]Perseguidor de Pedras[/url] místicos, como Mulheres-feras. O pacote [url=glossary:cairn]Cairn[/url], sim? São fortes. São [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <DefaultText>"Tremedores de Terra extraem poder do sangue da terra como [url=glossary:stonestalker]Perseguidor de Pedras[/url] místicos, como Mulheres-feras. O pacote [url=glossary:cairn]Cairn[/url], sim? São fortes. São [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1395,7 +1395,7 @@ Ela abre um sorriso largo, a língua pendurada em seus dentes brilhantes e afiad
     </Entry>
     <Entry>
       <ID>283</ID>
-      <DefaultText>Ela bufa. "[url=glossary:stonestalkers]Perseguidores de Pedras[/url] são fracos. Morrer de fome. Morrer para os humanos. Kills-in-Shadow é rápido-rápido-forte. Melhor caçador. Protege a matilha." Ela endireita os ombros e estufa o peito, desafiando você a contradizê-la.</DefaultText>
+      <DefaultText>Ela bufa. "[url=glossary:stonestalkers]Perseguidores de Pedras[/url] são fracos. Morrer de fome. Morrer para os humanos. Mortes nas Sombras é rápido-rápido-forte. Melhor caçador. Protege a matilha." Ela endireita os ombros e estufa o peito, desafiando você a contradizê-la.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1410,7 +1410,7 @@ Ela abre um sorriso largo, a língua pendurada em seus dentes brilhantes e afiad
     </Entry>
     <Entry>
       <ID>286</ID>
-      <DefaultText>"Talvez o Fatebinder que cheira a Alfa, ferro e morte ajudará o antigo bando de Mortes-in-Shadow. Talvez possa salvar Deixou-Claw. Talvez a Mulher-Besta não vai matar Vinculador do Destino hoje."
+      <DefaultText>"Talvez o Vinculador do Destino que cheira a Alfa, ferro e morte ajudará o antigo bando de Mortes nas Sombras. Talvez possa salvar Deixou-Claw. Talvez a Mulher-Besta não vai matar Vinculador do Destino hoje."
 
 Ela mexe na orelha, os olhos vermelho-sangue se estreitando em resposta.</DefaultText>
       <FemaleText />
@@ -1444,7 +1444,7 @@ Ela mexe na orelha, os olhos vermelho-sangue se estreitando em resposta.</Defaul
       <ID>292</ID>
       <DefaultText>"Mulheres-feras não choramingam para humanos." 
 
-Um rosnado baixo sai da garganta de Mortes-in-Shadow. Seus lábios puxam para trás, expondo presas amareladas, e sua voz retumba violentamente quando ela fala em seguida.</DefaultText>
+Um rosnado baixo sai da garganta de Mortes nas Sombras. Seus lábios puxam para trás, expondo presas amareladas, e sua voz retumba violentamente quando ela fala em seguida.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1493,10 +1493,10 @@ Ela mergulha a cabeça em pensamento, a língua comprida lavando sangue seco de 
     </Entry>
     <Entry>
       <ID>301</ID>
-      <DefaultText>"Sim-sim. Fatebinder é bom Alfa para matar-in-Shadow. Ouve Beastwoman's exige como todos os homens deveriam. Deve gostar de Mulher-Besta lutar pelo ex-cachorrinho."
+      <DefaultText>"Sim-sim. Vinculador do Destino é bom Alfa para Mortes nas Sombras. Ouve Beastwoman's exige como todos os homens deveriam. Deve gostar de Mulher-Besta lutar pelo ex-cachorrinho."
 
 Ela bufa e balança a cabeça.</DefaultText>
-      <FemaleText>"Sim-sim. Fatebinder é bom Alfa para matar-in-Shadow. Ouve Beastwoman's demandas. Deve gostar de Mulher-Besta lutar pelo ex-cachorrinho."
+      <FemaleText>"Sim-sim. Vinculador do Destino é bom Alfa para Mortes nas Sombras. Ouve Beastwoman's demandas. Deve gostar de Mulher-Besta lutar pelo ex-cachorrinho."
 
 Ela bufa e balança a cabeça.</FemaleText>
     </Entry>
@@ -1549,7 +1549,7 @@ Ela rói a ponta de um dedo com garras entre duas presas.</DefaultText>
     </Entry>
     <Entry>
       <ID>312</ID>
-      <DefaultText>"Mas mata-in-Shadow tentou ajudar [url=glossary:stonestalkers]Perseguidores de Pedras[/url], sim. Pensado em usar para ganhos próprios, para caçar [url=glossary:disfavored]Desfavorecido[/url], mas acabou liderando a matilha de bons e obedientes filhotes de pedra. Pode gostar de alguns poucos..."</DefaultText>
+      <DefaultText>"Mas Mortes nas Sombras tentou ajudar [url=glossary:stonestalkers]Perseguidores de Pedras[/url], sim. Pensado em usar para ganhos próprios, para caçar [url=glossary:disfavored]Desfavorecido[/url], mas acabou liderando a matilha de bons e obedientes filhotes de pedra. Pode gostar de alguns poucos..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1579,7 +1579,7 @@ Ela rói a ponta de um dedo com garras entre duas presas.</DefaultText>
     </Entry>
     <Entry>
       <ID>318</ID>
-      <DefaultText>"Não estou preocupado com [url=glossary:bleden mark]Marca de mistura[/url]."</DefaultText>
+      <DefaultText>"Não estou preocupado com [url=glossary:bleden mark]Marca de Mistura[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1594,12 +1594,12 @@ Ela rói a ponta de um dedo com garras entre duas presas.</DefaultText>
     </Entry>
     <Entry>
       <ID>321</ID>
-      <DefaultText>"Mulher-Besta concorda. Faça Arconte de Shadows curvar-se para Alfa. Ou deixe Kills-in-Shadow mangle Arconte em vez disso."</DefaultText>
+      <DefaultText>"Mulher-Besta concorda. Faça Arconte de Shadows curvar-se para Alfa. Ou deixe Mortes nas Sombras mangle Arconte em vez disso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>322</ID>
-      <DefaultText>"Archon com muitas vozes é cruel, astuto, selvagem. Bom, desejável Alfa. Mas pacote é classificação. Tem mancha de carne podre." 
+      <DefaultText>"Arconte com muitas vozes é cruel, astuto, selvagem. Bom, desejável Alfa. Mas pacote é classificação. Tem mancha de carne podre." 
 
 Mata-na-Sombra crava uma garra preta e curva na ponte de seu focinho.</DefaultText>
       <FemaleText />
@@ -1616,12 +1616,12 @@ Mata-na-Sombra crava uma garra preta e curva na ponte de seu focinho.</DefaultTe
     </Entry>
     <Entry>
       <ID>325</ID>
-      <DefaultText>"Mãe de ninhada humana, mística." Kills-in-Shadow inclina a cabeça para um lado como se estivesse ouvindo atentamente um som discernível apenas para seus ouvidos.</DefaultText>
+      <DefaultText>"Mãe de ninhada humana, mística." Mortes nas Sombras inclina a cabeça para um lado como se estivesse ouvindo atentamente um som discernível apenas para seus ouvidos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>326</ID>
-      <DefaultText>"Kills-in-Shadow entende - Tiersmen não são uma boa escolha, mas são a melhor escolha. Tiersmen não são predadores. São menores riscos para Mulheres-feras tribos."</DefaultText>
+      <DefaultText>"Mortes nas Sombras entende - Homens dos Caminhos não são uma boa escolha, mas são a melhor escolha. Homens dos Caminhos não são predadores. São menores riscos para Mulheres-feras tribos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1631,7 +1631,7 @@ Mata-na-Sombra crava uma garra preta e curva na ponte de seu focinho.</DefaultTe
     </Entry>
     <Entry>
       <ID>328</ID>
-      <DefaultText>"Não aperte Mulher-Besta novamente. O Fatebinder não vai gostar do que acontecer."</DefaultText>
+      <DefaultText>"Não aperte Mulher-Besta novamente. O Vinculador do Destino não vai gostar do que acontecer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1641,7 +1641,7 @@ Mata-na-Sombra crava uma garra preta e curva na ponte de seu focinho.</DefaultTe
     </Entry>
     <Entry>
       <ID>330</ID>
-      <DefaultText>"[url=glossary:bolverk]Bolverk[/url] ouvirá Alfa do pacote. Kills-in-Shadow é bom [url=glossary:bolverk]Bolverk[/url]. Leal ao Fatebinder. Por enquanto." Seus lábios se abrem em um sorriso fácil, sua língua pendurada entre os dentes enquanto ela prende você com um olhar maroto.</DefaultText>
+      <DefaultText>"[url=glossary:bolverk]Bolverk[/url] ouvirá Alfa do pacote. Mortes nas Sombras é bom [url=glossary:bolverk]Bolverk[/url]. Leal ao Vinculador do Destino. Por enquanto." Seus lábios se abrem em um sorriso fácil, sua língua pendurada entre os dentes enquanto ela prende você com um olhar maroto.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1651,27 +1651,27 @@ Mata-na-Sombra crava uma garra preta e curva na ponte de seu focinho.</DefaultTe
     </Entry>
     <Entry>
       <ID>332</ID>
-      <DefaultText>"Kills-in-Shadow entende - Tiersmen não são uma boa escolha, mas são a melhor escolha. Tiersmen não são predadores. São menores riscos para Mulheres-feras tribos."</DefaultText>
+      <DefaultText>"Mortes nas Sombras entende - Homens dos Caminhos não são uma boa escolha, mas são a melhor escolha. Homens dos Caminhos não são predadores. São menores riscos para Mulheres-feras tribos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>333</ID>
-      <DefaultText>"O cheiro de Fatebinder enfraquece, diminui à medida que a força morre."</DefaultText>
+      <DefaultText>"O cheiro de Vinculador do Destino enfraquece, diminui à medida que a força morre."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>334</ID>
-      <DefaultText>"Fatebinder tem um bom almíscar. Cheiro de sede de sangue, de predador. De forte selvagem Alfa."</DefaultText>
+      <DefaultText>"Vinculador do Destino tem um bom almíscar. Cheiro de sede de sangue, de predador. De forte selvagem Alfa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>335</ID>
-      <DefaultText>"Mas depois, Kills-in-Shadow vai massacrar, rasgar. Matará os blindados de ferro extintos. Não reterá mesmo por Alfa."</DefaultText>
+      <DefaultText>"Mas depois, Mortes nas Sombras vai massacrar, rasgar. Matará os blindados de ferro extintos. Não reterá mesmo por Alfa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>336</ID>
-      <DefaultText>"Mas depois, Kills-in-Shadow vai massacrar, rasgar. Matará os blindados de ferro extintos. Não reterá mesmo por Alfa."</DefaultText>
+      <DefaultText>"Mas depois, Mortes nas Sombras vai massacrar, rasgar. Matará os blindados de ferro extintos. Não reterá mesmo por Alfa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1757,7 +1757,7 @@ Suas mandíbulas escuras se abrem em um sorriso enorme e cheio de presas.</Defau
     </Entry>
     <Entry>
       <ID>352</ID>
-      <DefaultText>"Ah, entendi! Ok, eu rut Barik desde [url=glossary:kyros]Kyros[/url]' as forças precisam de um pouco de pilhagem e estupro em troca. Eu acasalaria com Versículo, principalmente para ficar com metade das terras que ela um dia conquistar. Obviamente, eu mataria Lantry. Quem não gostaria?"</DefaultText>
+      <DefaultText>"Ah, entendi! Ok, eu rut Barik desde as forças [url=glossary:kyros]Kyros[/url] precisam de um pouco de pilhagem e estupro em troca. Eu acasalaria com Versículo, principalmente para ficar com metade das terras que ela um dia conquistar. Obviamente, eu mataria Lantry. Quem não gostaria?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1794,7 +1794,7 @@ Suas mandíbulas escuras se abrem em um sorriso enorme e cheio de presas.</Defau
     </Entry>
     <Entry>
       <ID>359</ID>
-      <DefaultText>"Fatebinder pode ser Alfa, mas não é Mulher-Besta. Nem kith, nem tribo. Deve ganhar se quiser saber."</DefaultText>
+      <DefaultText>"Vinculador do Destino pode ser Alfa, mas não é Mulher-Besta. Nem kith, nem tribo. Deve ganhar se quiser saber."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1814,12 +1814,12 @@ Suas mandíbulas escuras se abrem em um sorriso enorme e cheio de presas.</Defau
     </Entry>
     <Entry>
       <ID>363</ID>
-      <DefaultText>"Era antes de [url=glossary:kyros]Kyros[/url]' tribo desafiada Mulheres-feras por terras."</DefaultText>
+      <DefaultText>"Era antes de [url=glossary:kyros]Kyros[/url] tribo desafiada Mulheres-feras por terras."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>364</ID>
-      <DefaultText>"Ninhada, Morte Rastejante, era [url=glossary:prima]Prima[/url] da Caçador da sombra tribo. Kills-in-Shadow foi [url=glossary:bolverk]Bolverk[/url] - segundo. Era duro, implacável, o melhor executor. Esburacado quando queria, comia quando queria. Criou muitos filhotes."</DefaultText>
+      <DefaultText>"Ninhada, Morte Rastejante, era [url=glossary:prima]Prima[/url] da Caçador da sombra tribo. Mortes nas Sombras foi [url=glossary:bolverk]Bolverk[/url] - segundo. Era duro, implacável, o melhor executor. Esburacado quando queria, comia quando queria. Criou muitos filhotes."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1834,12 +1834,12 @@ Suas mandíbulas escuras se abrem em um sorriso enorme e cheio de presas.</Defau
     </Entry>
     <Entry>
       <ID>367</ID>
-      <DefaultText>"Então abra bem os olhos, revestidos de ferro. Assista como Kills-in-Shadow rasga corpo após corpo. Começando com [url=glossary:disfavored]Desfavorecido[/url] no próprio pacote." Ela rosna violentamente e lambe sua língua áspera e roxa sobre suas presas.</DefaultText>
+      <DefaultText>"Então abra bem os olhos, revestidos de ferro. Assista como Mortes nas Sombras rasga corpo após corpo. Começando com [url=glossary:disfavored]Desfavorecido[/url] no próprio pacote." Ela rosna violentamente e lambe sua língua áspera e roxa sobre suas presas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>368</ID>
-      <DefaultText>"Pode esperar até que Mortes-in-Shadow não siga mais Vinculador do Destino. Mas vai caçar todos e todos os [url=glossary:disfavored]Desfavorecido[/url] na temporada em breve."</DefaultText>
+      <DefaultText>"Pode esperar até que Mortes nas Sombras não siga mais Vinculador do Destino. Mas vai caçar todos e todos os [url=glossary:disfavored]Desfavorecido[/url] na temporada em breve."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1849,7 +1849,7 @@ Suas mandíbulas escuras se abrem em um sorriso enorme e cheio de presas.</Defau
     </Entry>
     <Entry>
       <ID>370</ID>
-      <DefaultText>"Alfa para matar-in-Shadow cheira bem. Como corça da montanha. Faz a Mulher-Besta agitação do sangue, corra quente. Faz Mulher-Besta quer caçar, morder, fazer cio."</DefaultText>
+      <DefaultText>"Alfa para Mortes nas Sombras cheira bem. Como corça da montanha. Faz a Mulher-Besta agitação do sangue, corra quente. Faz Mulher-Besta quer caçar, morder, fazer cio."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1859,7 +1859,7 @@ Suas mandíbulas escuras se abrem em um sorriso enorme e cheio de presas.</Defau
     </Entry>
     <Entry>
       <ID>372</ID>
-      <DefaultText>"Depois que a tribo foi morta, Kills-in-Shadow correu para Pedra-terras, perseguindo em uma longa caçada por [url=glossary:disfavored]Desfavorecido[/url]. Mas logo se tornou necessário por filhotes fracos. Por [url=glossary:stonestalkers]Perseguidores de Pedras[/url] que foram escravos e não aprenderam a melhor forma de lutar."</DefaultText>
+      <DefaultText>"Depois que a tribo foi morta, Mortes nas Sombras correu para Pedra-terras, perseguindo em uma longa caçada por [url=glossary:disfavored]Desfavorecido[/url]. Mas logo se tornou necessário por filhotes fracos. Por [url=glossary:stonestalkers]Perseguidores de Pedras[/url] que foram escravos e não aprenderam a melhor forma de lutar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1869,7 +1869,7 @@ Suas mandíbulas escuras se abrem em um sorriso enorme e cheio de presas.</Defau
     </Entry>
     <Entry>
       <ID>374</ID>
-      <DefaultText>"Depois que a tribo foi morta, Kills-in-Shadow correu para Pedra-terras, perseguindo em uma longa caçada por [url=glossary:disfavored]Desfavorecido[/url]. Mas logo se tornou necessário por filhotes fracos. Por [url=glossary:stonestalkers]Perseguidores de Pedras[/url] que foram escravos e não aprenderam a melhor forma de lutar."</DefaultText>
+      <DefaultText>"Depois que a tribo foi morta, Mortes nas Sombras correu para Pedra-terras, perseguindo em uma longa caçada por [url=glossary:disfavored]Desfavorecido[/url]. Mas logo se tornou necessário por filhotes fracos. Por [url=glossary:stonestalkers]Perseguidores de Pedras[/url] que foram escravos e não aprenderam a melhor forma de lutar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1893,12 +1893,12 @@ Ela estende um dedo em forma de garra e esculpe uma linha de sangue na lateral d
     </Entry>
     <Entry>
       <ID>378</ID>
-      <DefaultText>"Alfa para matar-in-Shadow cheira bem. Como corça da montanha. Faz a Mulher-Besta agitação do sangue, corra quente. Faz Mulher-Besta quer caçar, morder, fazer cio."</DefaultText>
+      <DefaultText>"Alfa para Mortes nas Sombras cheira bem. Como corça da montanha. Faz a Mulher-Besta agitação do sangue, corra quente. Faz Mulher-Besta quer caçar, morder, fazer cio."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>379</ID>
-      <DefaultText>"Alfa. Alfa para matar-in-Shadow." Sua voz é baixa, um rosnado.</DefaultText>
+      <DefaultText>"Alfa. Alfa para Mortes nas Sombras." Sua voz é baixa, um rosnado.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1918,7 +1918,7 @@ Ela estende um dedo em forma de garra e esculpe uma linha de sangue na lateral d
     </Entry>
     <Entry>
       <ID>383</ID>
-      <DefaultText>"Fatebinder vê agora?"</DefaultText>
+      <DefaultText>"Vinculador do Destino vê agora?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1938,7 +1938,7 @@ Ela estende um dedo em forma de garra e esculpe uma linha de sangue na lateral d
     </Entry>
     <Entry>
       <ID>387</ID>
-      <DefaultText>"Alfa. Alfa para matar-in-Shadow." Sua voz é baixa, um rosnado.</DefaultText>
+      <DefaultText>"Alfa. Alfa para Mortes nas Sombras." Sua voz é baixa, um rosnado.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1963,7 +1963,7 @@ Ela estende um dedo em forma de garra e esculpe uma linha de sangue na lateral d
     </Entry>
     <Entry>
       <ID>392</ID>
-      <DefaultText>"Caçador inteligente se agachava atrás de humanos como cobertura de pedra durante a luta com a tribo [url=glossary:kyros]Kyros[/url]'. Deixe os Tiersmen morrerem para que Fatebinder e Beastwomen possa sobreviver. Ganhe."</DefaultText>
+      <DefaultText>"Caçador inteligente se agachava atrás de humanos como cobertura de pedra durante a luta com a tribo de [url=glossary:kyros]Kyros[/url]. Deixe os Homens dos Caminhos morrerem para que Vinculador do Destino e Beastwomen possa sobreviver. Ganhe."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1973,12 +1973,12 @@ Ela estende um dedo em forma de garra e esculpe uma linha de sangue na lateral d
     </Entry>
     <Entry>
       <ID>394</ID>
-      <DefaultText>"O que é Archon se não apenas um nome como [url=glossary:prima]Prima[/url]?" A Mulher-Fera lábios divididos em um sorriso ameaçador, todas presas e língua áspera e escura.</DefaultText>
+      <DefaultText>"O que é Arconte se não apenas um nome como [url=glossary:prima]Prima[/url]?" A Mulher-Fera lábios divididos em um sorriso ameaçador, todas presas e língua áspera e escura.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>395</ID>
-      <DefaultText>"Mas o Fatebinder curva-se para [url=glossary:tunon]Tunon[/url]. Não pode lutar dentro da matilha sem responder ao [url=glossary:bolverk]Bolverk[/url] da matilha. Arconte chamou [url=glossary:bleden mark]Marca de mistura[/url]."</DefaultText>
+      <DefaultText>"Mas o Vinculador do Destino curva-se para [url=glossary:tunon]Tunon[/url]. Não pode lutar dentro da matilha sem responder ao [url=glossary:bolverk]Bolverk[/url] da matilha. Arconte chamou [url=glossary:bleden mark]Marca de Mistura[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2029,7 +2029,7 @@ Ela ofega alegremente com a memória, a língua pendurada entre os dentes.</Defa
     </Entry>
     <Entry>
       <ID>404</ID>
-      <DefaultText>"Kills-in-Shadow é um caçador inteligente de muitas estações. Às vezes caça com truques em vez de garras." 
+      <DefaultText>"Mortes nas Sombras é um caçador inteligente de muitas estações. Às vezes caça com truques em vez de garras." 
 
 Ela sorri, os olhos vermelhos brilhando de orgulho.</DefaultText>
       <FemaleText />
@@ -2053,12 +2053,12 @@ Ela coça três unhas com pontas de lança em sua juba grossa e escura e enruga 
     </Entry>
     <Entry>
       <ID>409</ID>
-      <DefaultText>"Fui espreitar o comprimento de Oldwalls durante o anoitecer. Matou muitos Maldito, mas não conseguiu matar todos. Maldito são uma caça forte e difícil, mesmo para Mulheres-feras. Tive que correr-correr-fugir."</DefaultText>
+      <DefaultText>"Fui espreitar o comprimento de Muralhas Antigas durante o anoitecer. Matou muitos Maldito, mas não conseguiu matar todos. Maldito são uma caça forte e difícil, mesmo para Mulheres-feras. Tive que correr-correr-fugir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>410</ID>
-      <DefaultText>"Ouvi sussurros - boato de cio humano com Homens-Besta em Stalwart-terras. Estava curioso. Queria cavar a verdade, ver com os próprios olhos. Tão perseguido carregador de livros chamado Nerik na Baía de Presas."</DefaultText>
+      <DefaultText>"Ouvi sussurros - boato de cio humano com Homens-Besta em Robusto-terras. Estava curioso. Queria cavar a verdade, ver com os próprios olhos. Tão perseguido carregador de livros chamado Nerik na Baía de Presas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2095,7 +2095,7 @@ Ela bufa e balança a cabeça, dedos cutucando uma cicatriz enrugada em seu peit
     </Entry>
     <Entry>
       <ID>417</ID>
-      <DefaultText>"Por que sempre Alfa pergunta à Mulher-Besta? Talvez Alfa queira espreitar com Kills-in-Shadow? Quer vir também?"</DefaultText>
+      <DefaultText>"Por que sempre Alfa pergunta à Mulher-Besta? Talvez Alfa queira espreitar com Mortes nas Sombras? Quer vir também?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2129,7 +2129,7 @@ Ela imediatamente se anima, salivando e rosnando alegremente enquanto se levanta
     </Entry>
     <Entry>
       <ID>423</ID>
-      <DefaultText>"É hora de caçar. Venha comigo, Kills-in-Shadow."</DefaultText>
+      <DefaultText>"É hora de caçar. Venha comigo, Mortes nas Sombras."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2146,7 +2146,7 @@ Ela corre para frente, lábios entreabertos, língua pendurada entre suas presas
     </Entry>
     <Entry>
       <ID>426</ID>
-      <DefaultText>"Deveria deixar a Mulher-Besta casca de alavanca do revestimento de ferro. Então mata-in-Shadow pode jogar com [url=glossary:disfavored]Desfavorecido[/url] dentro, sim-sim?"</DefaultText>
+      <DefaultText>"Deveria deixar a Mulher-Besta casca de alavanca do revestimento de ferro. Então Mortes nas Sombras pode jogar com [url=glossary:disfavored]Desfavorecido[/url] dentro, sim-sim?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2166,7 +2166,7 @@ Ela corre para frente, lábios entreabertos, língua pendurada entre suas presas
     </Entry>
     <Entry>
       <ID>431</ID>
-      <DefaultText>"Não, não... Estou bem. Agradável e limpo já. Tomei banho esta manhã, na verdade! Então, enquanto eu aprecio a oferta, por que você não leva essa língua para outro lugar? Talvez o Fatebinder precisa de um pouco de cuidado!"</DefaultText>
+      <DefaultText>"Não, não... Estou bem. Agradável e limpo já. Tomei banho esta manhã, na verdade! Então, enquanto eu aprecio a oferta, por que você não leva essa língua para outro lugar? Talvez o Vinculador do Destino precisa de um pouco de cuidado!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2188,7 +2188,7 @@ Ela sacode suas garras curvas e pretas no ar, estudando-as como se estivesse pen
     </Entry>
     <Entry>
       <ID>435</ID>
-      <DefaultText>"Alfa para matar-in-Shadow morto [url=glossary:disfavored]Desfavorecido[/url] chamado [url=glossary:graven ashe]Cinza esculpida[/url]. Mulher-Fera dos Desejos poderia ter ajudado com a matança de ferro. Teria gostado de arrancar músculo de osso, pele rasgada, ferido e mutilado - até morrer muitas mais de cinco vezes." 
+      <DefaultText>"Alfa para Mortes nas Sombras morto [url=glossary:disfavored]Desfavorecido[/url] chamado [url=glossary:graven ashe]Cinza Esculpida[/url]. Mulher-Fera dos Desejos poderia ter ajudado com a matança de ferro. Teria gostado de arrancar músculo de osso, pele rasgada, ferido e mutilado - até morrer muitas mais de cinco vezes." 
 
 A Mulher-Fera suspira, definhando o pensamento.</DefaultText>
       <FemaleText />
@@ -2250,7 +2250,7 @@ A Mulher-Fera suspira, definhando o pensamento.</DefaultText>
     </Entry>
     <Entry>
       <ID>447</ID>
-      <DefaultText>"Garra-esquerda é um bom filhote. Caça blindados por Mortes-in-Shadow. Busca por vingança."</DefaultText>
+      <DefaultText>"Garra-esquerda é um bom filhote. Caça blindados por Mortes nas Sombras. Busca por vingança."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2265,7 +2265,7 @@ A Mulher-Fera suspira, definhando o pensamento.</DefaultText>
     </Entry>
     <Entry>
       <ID>450</ID>
-      <DefaultText>"Alpha tem planos para ajudar Left-Claw para Kills-in-Shadow, sim? Seria não quero chatear Mulher-Besta, sim?"</DefaultText>
+      <DefaultText>"Alpha tem planos para ajudar Left-Claw para Mortes nas Sombras, sim? Seria não quero chatear Mulher-Besta, sim?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2290,7 +2290,7 @@ A Mulher-Fera suspira, definhando o pensamento.</DefaultText>
     </Entry>
     <Entry>
       <ID>455</ID>
-      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "Não-não." Kills-in-Shadow coça o quadril, garras arranhando um pedaço áspero de tecido cicatricial dividindo a saliência do osso .</DefaultText>
+      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "Não-não." Mortes nas Sombras coça o quadril, garras arranhando um pedaço áspero de tecido cicatricial dividindo a saliência do osso .</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2315,7 +2315,7 @@ A Mulher-Fera suspira, definhando o pensamento.</DefaultText>
     </Entry>
     <Entry>
       <ID>460</ID>
-      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "Não-não." Kills-in-Shadow coça o quadril, garras arranhando um pedaço áspero de tecido cicatricial dividindo a saliência do osso .</DefaultText>
+      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "Não-não." Mortes nas Sombras coça o quadril, garras arranhando um pedaço áspero de tecido cicatricial dividindo a saliência do osso .</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2340,7 +2340,7 @@ A Mulher-Fera suspira, definhando o pensamento.</DefaultText>
     </Entry>
     <Entry>
       <ID>466</ID>
-      <DefaultText>Torcendo-se contra o ataque de Mortes-in-Shadow, você desliza sua arma afiada profundamente entre suas costelas, provocando um grito assustado do fundo de sua garganta. Ela rosna e cava com mais força em você, sua mão nodosa tateando pela lâmina em seu lado, mas você puxa a arma ainda mais fundo, e ela é forçada a recuar, recuando da luta.</DefaultText>
+      <DefaultText>Torcendo-se contra o ataque de Mortes nas Sombras, você desliza sua arma afiada profundamente entre suas costelas, provocando um grito assustado do fundo de sua garganta. Ela rosna e cava com mais força em você, sua mão nodosa tateando pela lâmina em seu lado, mas você puxa a arma ainda mais fundo, e ela é forçada a recuar, recuando da luta.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2366,7 +2366,7 @@ Seus dedos flexionam mais apertados ao redor de sua garganta em um aperto breve 
       <ID>470</ID>
       <DefaultText>Mãos segurando seus ombros peludos para se firmar, você bate sua testa o mais forte que pode em seu focinho moreno.
 
-Osso estala audivelmente e Mortes-in-Shadow uiva, recuando enquanto o sangue escorre pela frente de seu queixo e garganta.
+Osso estala audivelmente e Mortes nas Sombras uiva, recuando enquanto o sangue escorre pela frente de seu queixo e garganta.
 
 Ela range suas presas tingidas de vermelho, dolorida e furiosa e parecendo por um momento como se ela pudesse muito bem rasgar sua garganta. Mas então ela lambe o sangue que cobre seus lábios e sorri para você perigosamente.</DefaultText>
       <FemaleText />
@@ -2383,7 +2383,7 @@ Ela range suas presas tingidas de vermelho, dolorida e furiosa e parecendo por u
     </Entry>
     <Entry>
       <ID>473</ID>
-      <DefaultText>"Alpha deu a Mortes-in-Shadow uma nova cicatriz," ela comenta com partes iguais de admiração e entusiasmo. Ela arranca a arma de seu lado e a joga no chão, a ferida exposta em carne viva e chorando. 
+      <DefaultText>"Alpha deu a Mortes nas Sombras uma nova cicatriz," ela comenta com partes iguais de admiração e entusiasmo. Ela arranca a arma de seu lado e a joga no chão, a ferida exposta em carne viva e chorando. 
 
 "É uma boa cicatriz. Corte profundo. Mesmo agora dói."</DefaultText>
       <FemaleText />
@@ -2400,7 +2400,7 @@ Ela range suas presas tingidas de vermelho, dolorida e furiosa e parecendo por u
     </Entry>
     <Entry>
       <ID>476</ID>
-      <DefaultText>"Estou com raiva de um humano chamado Vinculador do Destino. Como Alfa poderia ignorar os desejos do próprio [url=glossary:bolverk]Bolverk[/url]? Como Alfa para matar-in-Shadow pode matar Deixou-Claw apesar de da mulher-fera protestar?" Ela range as presas, claramente furiosa.</DefaultText>
+      <DefaultText>"Estou com raiva de um humano chamado Vinculador do Destino. Como Alfa poderia ignorar os desejos do próprio [url=glossary:bolverk]Bolverk[/url]? Como Alfa para Mortes nas Sombras pode matar Deixou-Claw apesar de da mulher-fera protestar?" Ela range as presas, claramente furiosa.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2430,7 +2430,7 @@ Ela range suas presas tingidas de vermelho, dolorida e furiosa e parecendo por u
     </Entry>
     <Entry>
       <ID>482</ID>
-      <DefaultText>"Não pense que Mortes-in-Shadow esquecerá tão facilmente Fatebinder promessas. Estou seguindo Alfa - estou lutando por Vinculador do Destino para que as tribos sobrevivam."</DefaultText>
+      <DefaultText>"Não pense que Mortes nas Sombras esquecerá tão facilmente Vinculador do Destino promessas. Estou seguindo Alfa - estou lutando por Vinculador do Destino para que as tribos sobrevivam."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2507,7 +2507,7 @@ Ela sorri, mostrando uma fileira de dentes de matar irregulares, embora não haj
     </Entry>
     <Entry>
       <ID>498</ID>
-      <DefaultText>"Alfa." A Mulher-Fera rosna. "Mortes-in-Shadow deve falar com Alfa. Agora-agora."</DefaultText>
+      <DefaultText>"Alfa." A Mulher-Fera rosna. "Mortes nas Sombras deve falar com Alfa. Agora-agora."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2537,22 +2537,22 @@ Ela sorri, mostrando uma fileira de dentes de matar irregulares, embora não haj
     </Entry>
     <Entry>
       <ID>504</ID>
-      <DefaultText>"Já caçou muitos, senão todos [url=glossary:stonestalkers]Perseguidores de Pedras[/url]. Tinha razão, sim? Mas e as outras tribos? O que dizer de Mantaborn de Stalwart-mar? E quanto a Katvanas ou Westreavers no extremo norte de Camadas-terras?"</DefaultText>
+      <DefaultText>"Já caçou muitos, senão todos [url=glossary:stonestalkers]Perseguidores de Pedras[/url]. Tinha razão, sim? Mas e as outras tribos? O que dizer de Mantaborn de Robusto-mar? E quanto a Katvanas ou Westreavers no extremo norte de Camadas-terras?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>505</ID>
-      <DefaultText>"Caçaria mais tribos até a morte? Por quê? Kith não caça desnecessariamente kith! Mortes-in-Shadow não caçará cegamente Mulheres-feras extinto! Nem mesmo para sobreviver ao predador chamado [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <DefaultText>"Caçaria mais tribos até a morte? Por quê? Kith não caça desnecessariamente kith! Mortes nas Sombras não caçará cegamente Mulheres-feras extinto! Nem mesmo para sobreviver ao predador chamado [url=glossary:kyros]Kyros[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>506</ID>
-      <DefaultText>"É verdade? Fatebinder não está mentindo?" Ela dá um suspiro de alívio mesmo quando olha para você com cautela. Contra seu melhor julgamento, ela quer confiar em você.</DefaultText>
+      <DefaultText>"É verdade? Vinculador do Destino não está mentindo?" Ela dá um suspiro de alívio mesmo quando olha para você com cautela. Contra seu melhor julgamento, ela quer confiar em você.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>507</ID>
-      <DefaultText>"Kills-in-Shadow luta por Vinculador do Destino para que os kith não morram como Caçadores de Sombras. Para que todos os Mulheres-feras possam prosperar."</DefaultText>
+      <DefaultText>"Mortes nas Sombras luta por Vinculador do Destino para que os kith não morram como Caçadores de Sombras. Para que todos os Mulheres-feras possam prosperar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2594,12 +2594,12 @@ Que seja uma lição para os outros.</DefaultText>
     </Entry>
     <Entry>
       <ID>516</ID>
-      <DefaultText>Sirin olha para você, um olhar de horror em seu rosto. "O que você fez, Fatebinder? O que foi para isso? Não vou derramar uma lágrima por um Fera caído, mas isso foi...brutal!"</DefaultText>
+      <DefaultText>Sirin olha para você, um olhar de horror em seu rosto. "O que você fez, Vinculador do Destino? O que foi para isso? Não vou derramar uma lágrima por um Fera caído, mas isso foi...brutal!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>517</ID>
-      <DefaultText>Esboçando o cadáver de Mortes-in-Shadow, a pena de Lantry se move com uma deselegância lenta e trêmula. "Eu lhe asseguro, você não ouvirá nenhuma oposição ao seu plano de mim."</DefaultText>
+      <DefaultText>Esboçando o cadáver de Mortes nas Sombras, a pena de Lantry se move com uma deselegância lenta e trêmula. "Eu lhe asseguro, você não ouvirá nenhuma oposição ao seu plano de mim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2624,7 +2624,7 @@ Que seja uma lição para os outros.</DefaultText>
     </Entry>
     <Entry>
       <ID>526</ID>
-      <DefaultText>"Alfa para matar-in-Shadow não pensaria em caçar impiedosamente Mulheres-feras extinto. E não pensaria que Alfa poderia sobreviver à fúria e presas de [url=glossary:bolverk]Bolverk[/url] - uma vez que Mulher-Besta percebeu o plano humano?" Com a ameaça, ela estala seus dedos finos, garras se curvando contra o palma da mão dela. Eles mordem a pele calejada até que seu punho pinga sangue.</DefaultText>
+      <DefaultText>"Alfa para Mortes nas Sombras não pensaria em caçar impiedosamente Mulheres-feras extinto. E não pensaria que Alfa poderia sobreviver à fúria e presas de [url=glossary:bolverk]Bolverk[/url] - uma vez que Mulher-Besta percebeu o plano humano?" Com a ameaça, ela estala seus dedos finos, garras se curvando contra o palma da mão dela. Eles mordem a pele calejada até que seu punho pinga sangue.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2666,7 +2666,7 @@ Finalmente, ela balança a cabeça, satisfeita.</DefaultText>
     </Entry>
     <Entry>
       <ID>534</ID>
-      <DefaultText>"Se Alfa deseja tanto matar todas as Mulheres-feras tribos, então Mortes-in-Shadow não ficará. Vai sair e vagar livremente. Vai caçar e proteger os kith à sua maneira."</DefaultText>
+      <DefaultText>"Se Alfa deseja tanto matar todas as Mulheres-feras tribos, então Mortes nas Sombras não ficará. Vai sair e vagar livremente. Vai caçar e proteger os kith à sua maneira."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2681,7 +2681,7 @@ Finalmente, ela balança a cabeça, satisfeita.</DefaultText>
     </Entry>
     <Entry>
       <ID>537</ID>
-      <DefaultText>"Mulheres-feras não são fracas! São mais fortes que os humanos chamados Tiersmen e Coro combinados."</DefaultText>
+      <DefaultText>"Mulheres-feras não são fracas! São mais fortes que os humanos chamados Homens dos Caminhos e Coro combinados."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2691,7 +2691,7 @@ Finalmente, ela balança a cabeça, satisfeita.</DefaultText>
     </Entry>
     <Entry>
       <ID>539</ID>
-      <DefaultText>"Não importa se Kills-in-Shadow não é apenas o último Caçador da sombra, mas também o último de todas as tribos! Com quem Mulher-Besta transaria então? Como Mulher-Besta geraria mais ninhadas para reformar tribos?!"</DefaultText>
+      <DefaultText>"Não importa se Mortes nas Sombras não é apenas o último Caçador da sombra, mas também o último de todas as tribos! Com quem Mulher-Besta transaria então? Como Mulher-Besta geraria mais ninhadas para reformar tribos?!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2701,7 +2701,7 @@ Finalmente, ela balança a cabeça, satisfeita.</DefaultText>
     </Entry>
     <Entry>
       <ID>541</ID>
-      <DefaultText>"Se o Fatebinder não é nem amigo nem amigo de Mulheres-feras então talvez Kills-in-Shadow não tenha mais motivos para seguir humanos."</DefaultText>
+      <DefaultText>"Se o Vinculador do Destino não é nem amigo nem amigo de Mulheres-feras então talvez Mortes nas Sombras não tenha mais motivos para seguir humanos."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

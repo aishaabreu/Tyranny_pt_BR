@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Mestre Fatebinder." Um homem encapuzado inclina a cabeça para você, o rosto escondido sob um capuz grosso e escuro. Quando ele olha para você, levantando o rosto das sombras, você percebe um sorriso irônico em seus lábios torcidos e cheios de cicatrizes. "Eu quase não te reconheci sem [url=lore:BCity_Tychon]o fedor que o acompanha[/url]."</DefaultText>
+      <DefaultText>"Mestre Vinculador do Destino." Um homem encapuzado inclina a cabeça para você, o rosto escondido sob um capuz grosso e escuro. Quando ele olha para você, levantando o rosto das sombras, você percebe um sorriso irônico em seus lábios torcidos e cheios de cicatrizes. "Eu quase não te reconheci sem [url=lore:BCity_Tychon]o fedor que o acompanha[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,12 +51,12 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Já ouvi canções de sua selvageria, sim." O ladrão curva os ombros para a frente e puxa o capuz ainda mais sobre o rosto antes de continuar, "Posso lhe garantir, Mestre Fatebinder, eu seria muito útil para você como um aliado em vez de uma cabeça em um pico."</DefaultText>
+      <DefaultText>"Já ouvi canções de sua selvageria, sim." O ladrão curva os ombros para a frente e puxa o capuz ainda mais sobre o rosto antes de continuar, "Posso lhe garantir, Mestre Vinculador do Destino, eu seria muito útil para você como um aliado em vez de uma cabeça em um pico."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Incontáveis. De quais o Mestre Fatebinder gostaria de saber?"</DefaultText>
+      <DefaultText>"Incontáveis. De quais o Mestre Vinculador do Destino gostaria de saber?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -93,7 +93,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Foi um prazer rastejar por várias léguas de esgoto e catacumbas com você, Mestre Fatebinder. Continua sendo uma das noites mais memoráveis da minha vida - como se costuma dizer, o fedor permanece por mais tempo."</DefaultText>
+      <DefaultText>"Foi um prazer rastejar por várias léguas de esgoto e catacumbas com você, Mestre Vinculador do Destino. Continua sendo uma das noites mais memoráveis da minha vida - como se costuma dizer, o fedor permanece por mais tempo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -103,8 +103,8 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"E, é claro, houve aquela vez em que eu enganei uma cidade inteira de sua liberdade roubando um Fatebinder e suas forças dos esgotos. Eu lucrei bastante com esse empreendimento."</DefaultText>
-      <FemaleText>"E, é claro, houve aquela vez em que eu enganei uma cidade inteira de sua liberdade, roubando um Fatebinder e suas forças dos esgotos. Eu lucrei bastante com esse empreendimento."</FemaleText>
+      <DefaultText>"E, é claro, houve aquela vez em que eu enganei uma cidade inteira de sua liberdade roubando um Vinculador do Destino e suas forças dos esgotos. Eu lucrei bastante com esse empreendimento."</DefaultText>
+      <FemaleText>"E, é claro, houve aquela vez em que eu enganei uma cidade inteira de sua liberdade, roubando um Vinculador do Destino e suas forças dos esgotos. Eu lucrei bastante com esse empreendimento."</FemaleText>
     </Entry>
     <Entry>
       <ID>24</ID>
@@ -115,7 +115,7 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Então você desejará falar com Harchiand Bronze em [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Posso dizer que ele tem acesso às melhores rotas de suprimentos no Camadas, embora ele negue isso em seus estertores."</DefaultText>
+      <DefaultText>"Então você desejará falar com Harchiand Bronze em [url=glossary:lethian's crossing]A Travessia de Lethian[/url]. Posso dizer que ele tem acesso às melhores rotas de suprimentos no Camadas, embora ele negue isso em seus estertores."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -145,7 +145,7 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Por favor, entenda, Mestre Fatebinder, se os ouvidos errados ouvissem esses sussurros, eu poderia perder minha língua. Espero que você seja discreto com minhas informações."</DefaultText>
+      <DefaultText>"Por favor, entenda, Mestre Vinculador do Destino, se os ouvidos errados ouvissem esses sussurros, eu poderia perder minha língua. Espero que você seja discreto com minhas informações."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -170,7 +170,7 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Mestre Fatebinder, você me feriu. Você realmente se esqueceu de quem lhe entregou o [url=glossary:bastard city]Cidade bastarda[/url] quando não havia abatimento do seu cerco à vista?"</DefaultText>
+      <DefaultText>"Mestre Vinculador do Destino, você me feriu. Você realmente se esqueceu de quem lhe entregou o [url=glossary:bastard city]Cidade bastarda[/url] quando não havia abatimento do seu cerco à vista?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -190,7 +190,7 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Mestre Fatebinder, espero que você esteja bem desde a última vez que nos vimos. Ou devo dizer, 'desde que você me viu pela última vez', como muitas vezes tenho visto você através dos muitos olhos que possuo."</DefaultText>
+      <DefaultText>"Mestre Vinculador do Destino, espero que você esteja bem desde a última vez que nos vimos. Ou devo dizer, 'desde que você me viu pela última vez', como muitas vezes tenho visto você através dos muitos olhos que possuo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -225,12 +225,12 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Aqui vai uma dica inteligente para você - fique fora do Oldwalls, meu amigo."</DefaultText>
+      <DefaultText>"Aqui vai uma dica inteligente para você - fique fora do Muralhas Antigas, meu amigo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Ouvi dizer que feitiços são realmente eficazes contra o Maldito, ao contrário do que muitos temiam anteriormente. Mas mesmo o menor gasto mágico no Oldwalls pode atrair todos os Maldito dentro de 50 passos. Recomenda-se extrema cautela."</DefaultText>
+      <DefaultText>"Ouvi dizer que feitiços são realmente eficazes contra o Maldito, ao contrário do que muitos temiam anteriormente. Mas mesmo o menor gasto mágico no Muralhas Antigas pode atrair todos os Maldito dentro de 50 passos. Recomenda-se extrema cautela."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -245,12 +245,12 @@
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Supostamente, [url=glossary:bleden mark]Marca de mistura[/url] uma vez usou duas algemas de casamento no costume de sua cultura. Acho uma perspectiva assustadora - dois grilhões, significando dois casamentos, unidos em união ao mesmo tempo. Não tenho certeza se invejo ou tenho pena do homem."</DefaultText>
+      <DefaultText>"Supostamente, [url=glossary:bleden mark]Marca de Mistura[/url] uma vez usou duas algemas de casamento no costume de sua cultura. Acho uma perspectiva assustadora - dois grilhões, significando dois casamentos, unidos em união ao mesmo tempo. Não tenho certeza se invejo ou tenho pena do homem."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"O único homem no Camadas que ouve mais sussurros do que eu é [url=glossary:the voices of nerat]o Vozes de Nerat[/url]. Posso garantir isso."</DefaultText>
+      <DefaultText>"O único homem no Camadas que ouve mais sussurros do que eu é [url=glossary:the voices of nerat]As Vozes de Nerat[/url]. Posso garantir isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -260,12 +260,12 @@
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Quando líderes proeminentes do [url=glossary:scarlet chorus]Coro Escarlate[/url] desaparecem, eles geralmente ressurgem mais tarde dentro do [url=glossary:the voices of nerat]o Vozes de Nerat[/url]."</DefaultText>
+      <DefaultText>"Quando líderes proeminentes do [url=glossary:scarlet chorus]Coro Escarlate[/url] desaparecem, eles geralmente ressurgem mais tarde dentro do [url=glossary:the voices of nerat]As Vozes de Nerat[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Receio que minha fonte de informação tenha se esgotado no momento, Mestre Fatebinder. Talvez você tenha a gentileza de me retornar mais tarde."</DefaultText>
+      <DefaultText>"Receio que minha fonte de informação tenha se esgotado no momento, Mestre Vinculador do Destino. Talvez você tenha a gentileza de me retornar mais tarde."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -300,7 +300,7 @@
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Posso te dizer isso, Mestre Fatebinder, o [url=glossary:scarlet chorus]Coro Escarlate[/url] não desgosta totalmente de você. Alguns deles até foram ouvidos cantando seus elogios."</DefaultText>
+      <DefaultText>"Posso te dizer isso, Mestre Vinculador do Destino, o [url=glossary:scarlet chorus]Coro Escarlate[/url] não desgosta totalmente de você. Alguns deles até foram ouvidos cantando seus elogios."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -320,7 +320,7 @@
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Há algo estranho em Verso e Barik, você não acha, Mestre Fatebinder? Tão diferentes e ao mesmo tempo tão semelhantes. Ou assim dizem minhas fontes."</DefaultText>
+      <DefaultText>"Há algo estranho em Verso e Barik, você não acha, Mestre Vinculador do Destino? Tão diferentes e ao mesmo tempo tão semelhantes. Ou assim dizem minhas fontes."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -417,7 +417,7 @@ O vigarista se encolhe em suas vestes, o rosto enfiado no capuz e a expressão e
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Receio que minha fonte de informação tenha se esgotado no momento, Mestre Fatebinder. Talvez você tenha a gentileza de me retornar mais tarde."</DefaultText>
+      <DefaultText>"Receio que minha fonte de informação tenha se esgotado no momento, Mestre Vinculador do Destino. Talvez você tenha a gentileza de me retornar mais tarde."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

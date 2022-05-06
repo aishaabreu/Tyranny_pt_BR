@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Embora eu aprecie sua ajuda para lidar com aquele comerciante, temo que não posso deixá-lo passar até que você tenha falado com nosso líder, Raetommon. Pessoalmente, achei que ele estava louco dizendo que você estaria visitando [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Parece que devo alguns anéis a ele."</DefaultText>
+      <DefaultText>"Embora eu aprecie sua ajuda para lidar com aquele comerciante, temo que não posso deixá-lo passar até que você tenha falado com nosso líder, Raetommon. Pessoalmente, achei que ele estava louco dizendo que você estaria visitando [url=glossary:lethian's crossing]A Travessia de Lethian[/url]. Parece que devo alguns anéis a ele."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Você está andando em uma linha perigosa, Vinculador do Destino. O [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] nunca recua diante de ameaças." Ele faz uma pausa por um momento, avaliando você. "Normalmente eu te derrubaria onde você está por me ameaçar, mas Raetommon exigia vê-lo se você viesse por aqui. Achei que ele estava louco dizendo que você estaria visitando [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Parece que devo alguns anéis a ele."</DefaultText>
+      <DefaultText>"Você está andando em uma linha perigosa, Vinculador do Destino. O [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] nunca recua diante de ameaças." Ele faz uma pausa por um momento, avaliando você. "Normalmente eu te derrubaria onde você está por me ameaçar, mas Raetommon exigia vê-lo se você viesse por aqui. Achei que ele estava louco dizendo que você estaria visitando [url=glossary:lethian's crossing]A Travessia de Lethian[/url]. Parece que devo alguns anéis a ele."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -43,12 +43,12 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Ele aponta para o sul. "Ele é ali mesmo, inspecionando os cadáveres de algumas das [url=glossary:kyros]Kyros[/url]' soldas. Ele é deve estar de bom humor agora." Ele pisca para você. "Todos aqueles cadáveres? Devo seja o paraíso para ele!" A cor desaparece de seu rosto assim que as palavras saem de seus lábios. "Por favor não diga a ele que eu disse isso."</DefaultText>
+      <DefaultText>Ele aponta para o sul. "Ele é ali mesmo, inspecionando os cadáveres de algumas das soldas de [url=glossary:kyros]Kyros[/url]. Ele é deve estar de bom humor agora." Ele pisca para você. "Todos aqueles cadáveres? Devo seja o paraíso para ele!" A cor desaparece de seu rosto assim que as palavras saem de seus lábios. "Por favor não diga a ele que eu disse isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Will retorna à sua posição e olha para você, seu antigo humor genial se foi. "Então, um Fatebinder em nosso cantinho do mundo. Quem poderia imaginar que isso aconteceria." Ele cospe entre os pés e o esmaga na terra com a bota.</DefaultText>
+      <DefaultText>Will retorna à sua posição e olha para você, seu antigo humor genial se foi. "Então, um Vinculador do Destino em nosso cantinho do mundo. Quem poderia imaginar que isso aconteceria." Ele cospe entre os pés e o esmaga na terra com a bota.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -90,7 +90,7 @@ Ele estende a mão, palma para cima, e bate o dedo no meio dela. "Dinheiro é o 
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"O que este humilde servo da Irmandade pode fazer por você, Fatebinder? E não me peça para deixar você passar, porque isso não está acontecendo."</DefaultText>
+      <DefaultText>"O que este humilde servo da Irmandade pode fazer por você, Vinculador do Destino? E não me peça para deixar você passar, porque isso não está acontecendo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -109,7 +109,7 @@ Ele estende a mão, palma para cima, e bate o dedo no meio dela. "Dinheiro é o 
       <ID>21</ID>
       <DefaultText>"Claro que isso significa algum tipo de desafio. E isso sempre termina com a morte de um - ou mais - dos participantes."
 
-"Raetommon sobreviveu uma noite no Oldwalls. Isso foi o suficiente para provar à maioria dos fraternidade que ele era o homem certo para o trabalho."</DefaultText>
+"Raetommon sobreviveu uma noite no Muralhas Antigas. Isso foi o suficiente para provar à maioria dos fraternidade que ele era o homem certo para o trabalho."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -134,7 +134,7 @@ Ele estende a mão, palma para cima, e bate o dedo no meio dela. "Dinheiro é o 
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Sudorese, humano fraco que guarda a ponte está incomodando Alpha para Kills-in-Shadow? Deixe a Mulher-Besta assumir a liderança. Deixe a Mulher-Besta caçar humanos."</DefaultText>
+      <DefaultText>"Sudorese, humano fraco que guarda a ponte está incomodando Alpha para Mortes nas Sombras? Deixe a Mulher-Besta assumir a liderança. Deixe a Mulher-Besta caçar humanos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -192,7 +192,7 @@ Verse balança o punho e acerta um soco com um golpe carnudo, tirando a cabeça 
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Will ri e olha para Kills-in-Shadow por alguns momentos.
+      <DefaultText>Will ri e olha para Mortes nas Sombras por alguns momentos.
 
 "Você pode tentar, Fofo, mas tenho certeza que lhe daria uma indigestão. E mesmo que eu tenha desaparecido, Raetommon ainda quer ver você. Você não está conseguindo."</DefaultText>
       <FemaleText />
@@ -271,7 +271,7 @@ Verse balança o punho e acerta um soco com um golpe carnudo, tirando a cabeça 
       <ID>64</ID>
       <DefaultText>Ela olha para você e zomba, a mão abaixando levemente no ar. Mas então ela golpeia com força o rosto dele - garras arranhando o comprimento de sua bochecha.
 
-"Mulher-Besta não será insultada tão facilmente. Choram humano, choramingam por Kills-in-Shadow se não quiserem morrer."</DefaultText>
+"Mulher-Besta não será insultada tão facilmente. Choram humano, choramingam por Mortes nas Sombras se não quiserem morrer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Atenciosamente, Mestre Fatebinder. Como vai?"</DefaultText>
+      <DefaultText>"Atenciosamente, Mestre Vinculador do Destino. Como vai?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"O que você pode me dizer sobre a [url=glossary:scarlet chorus]Coro Escarlate[/url]' presença aqui?"</DefaultText>
+      <DefaultText>"O que você pode me dizer sobre a presença do [url=glossary:scarlet chorus]Coro Escarlate[/url] aqui?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,12 +31,12 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Só que eles estão fazendo bagunça, causando problemas há semanas - tentando recrutar muitos de nós. Eu gostaria que eles se apressassem. Nós, pessoas gentis, não gostamos de seus métodos, Mestre Fatebinder."</DefaultText>
+      <DefaultText>"Só que eles estão fazendo bagunça, causando problemas há semanas - tentando recrutar muitos de nós. Eu gostaria que eles se apressassem. Nós, pessoas gentis, não gostamos de seus métodos, Mestre Vinculador do Destino."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Um grupo de [url=glossary:disfavored]Desfavorecido[/url] se entrincheirou em Howling Rock há pouco tempo. Malditos Earthshakers não vai embora, não importa o que tenhamos tentado." Ela funga, indignada com a lembrança. "O que quer que estejam fazendo com aquele estrondo Arconte, está piorando os terremotos. Ficaríamos felizes em nos livrar deles apenas para acalmar a terra."</DefaultText>
+      <DefaultText>"Um grupo de [url=glossary:disfavored]Desfavorecido[/url] se entrincheirou em Howling Rock há pouco tempo. Malditos Tremedores de Terra não vai embora, não importa o que tenhamos tentado." Ela funga, indignada com a lembrança. "O que quer que estejam fazendo com aquele estrondo Arconte, está piorando os terremotos. Ficaríamos felizes em nos livrar deles apenas para acalmar a terra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Todo mundo sabe que tem Tremedores de terra acampado em Rocha Uivante. O que quer que eles estejam mexendo lá, os [url=glossary:scarlet chorus]Coro Escarlate[/url] querem parar. Ou talvez eles só queiram causar derramamento de sangue. De qualquer forma, eles precisariam de corpos para um ataque, não é?"</DefaultText>
+      <DefaultText>"Todo mundo sabe que tem Tremedores de Terra acampado em Rocha Uivante. O que quer que eles estejam mexendo lá, os [url=glossary:scarlet chorus]Coro Escarlate[/url] querem parar. Ou talvez eles só queiram causar derramamento de sangue. De qualquer forma, eles precisariam de corpos para um ataque, não é?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,8 +76,8 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Mestre Fatebinder. Exatamente o homem que eu esperava ver."</DefaultText>
-      <FemaleText>"Mestre Fatebinder. Exatamente a senhora que eu esperava ver."</FemaleText>
+      <DefaultText>"Mestre Vinculador do Destino. Exatamente o homem que eu esperava ver."</DefaultText>
+      <FemaleText>"Mestre Vinculador do Destino. Exatamente a senhora que eu esperava ver."</FemaleText>
     </Entry>
     <Entry>
       <ID>26</ID>
@@ -111,7 +111,7 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"É um prazer vê-lo novamente, Mestre Fatebinder."</DefaultText>
+      <DefaultText>"É um prazer vê-lo novamente, Mestre Vinculador do Destino."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,22 +121,22 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Ela se encolhe, alarmada com o pensamento. "Eu não sou um lutador, bom senhor. Se alguém vai morrer em nome [url=glossary:kyros]Kyros[/url]', deve ser um guerreiro, como um Homem-Besta, certo? Eu não serviria para nada, lá fora no campo de batalha."</DefaultText>
-      <FemaleText>Ela se encolhe, alarmada com o pensamento. "Eu não sou lutador, boa senhorita. Se alguém vai morrer em nome [url=glossary:kyros]Kyros[/url]', deve ser um guerreiro, como um Homem-Besta, certo? Eu não serviria para nada, lá fora no campo de batalha."</FemaleText>
+      <DefaultText>Ela se encolhe, alarmada com o pensamento. "Eu não sou um lutador, bom senhor. Se alguém vai morrer em nome de [url=glossary:kyros]Kyros[/url], deve ser um guerreiro, como um Homem-Besta, certo? Eu não serviria para nada, lá fora no campo de batalha."</DefaultText>
+      <FemaleText>Ela se encolhe, alarmada com o pensamento. "Eu não sou lutador, boa senhorita. Se alguém vai morrer em nome de [url=glossary:kyros]Kyros[/url], deve ser um guerreiro, como um Homem-Besta, certo? Eu não serviria para nada, lá fora no campo de batalha."</FemaleText>
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>Ela se encolhe, alarmada com o pensamento. "Eu não sou um lutador, bom senhor. Se alguém vai morrer em nome [url=glossary:kyros]Kyros[/url]', deve ser um guerreiro, como um Homem-Besta, certo? Eu não serviria para nada, lá fora no campo de batalha."</DefaultText>
-      <FemaleText>Ela se encolhe, alarmada com o pensamento. "Eu não sou lutador, boa senhorita. Se alguém vai morrer em nome [url=glossary:kyros]Kyros[/url]', deve ser um guerreiro, como um Homem-Besta, certo? Eu não serviria para nada, lá fora no campo de batalha."</FemaleText>
+      <DefaultText>Ela se encolhe, alarmada com o pensamento. "Eu não sou um lutador, bom senhor. Se alguém vai morrer em nome de [url=glossary:kyros]Kyros[/url], deve ser um guerreiro, como um Homem-Besta, certo? Eu não serviria para nada, lá fora no campo de batalha."</DefaultText>
+      <FemaleText>Ela se encolhe, alarmada com o pensamento. "Eu não sou lutador, boa senhorita. Se alguém vai morrer em nome de [url=glossary:kyros]Kyros[/url], deve ser um guerreiro, como um Homem-Besta, certo? Eu não serviria para nada, lá fora no campo de batalha."</FemaleText>
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Mesmo que o Homem-Besta tenha matado um de vocês, ele não cometeu nenhum crime. Você não jurou a nenhum Arconte e, portanto, não está sujeito à proteção de [url=glossary:kyros]Kyros[/url]' Paz."</DefaultText>
+      <DefaultText>"Mesmo que o Homem-Besta tenha matado um de vocês, ele não cometeu nenhum crime. Você não jurou a nenhum Arconte e, portanto, não está sujeito à proteção de Paz de [url=glossary:kyros]Kyros[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"E a qual Arconte a filha de um pobre fazendeiro deve jurar sua vida? Você acha que [url=glossary:tunon]Tunon[/url] me levaria aos tribunais? Ou devo jurar [url=glossary:cairn]Cairn[/url] o Traidor - quem destruiu nosso reino? Então estarei protegido por [url=glossary:kyros]Kyros[/url]' Paz, Mestre Fatebinder?"</DefaultText>
+      <DefaultText>"E a qual Arconte a filha de um pobre fazendeiro deve jurar sua vida? Você acha que [url=glossary:tunon]Tunon[/url] me levaria aos tribunais? Ou devo jurar [url=glossary:cairn]Cairn[/url] o Traidor - quem destruiu nosso reino? Então estarei protegido por Paz de [url=glossary:kyros]Kyros[/url], Mestre Vinculador do Destino?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -146,22 +146,22 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Eu sabia que você faria o certo por nós, Mestre Fatebinder. Sempre cuidando dos inocentes, aposto que você está. Nós vamos, não se preocupe, bom senhor. Faremos aquele vira-lata pagar pelo que fez, é só esperar."</DefaultText>
-      <FemaleText>"Eu sabia que você faria o certo por nós, Mestre Fatebinder. Sempre cuidando dos inocentes, aposto que você está. Nós vamos, não se preocupe, boa senhorita. Faremos aquele vira-lata pagar pelo que fez, é só esperar."</FemaleText>
+      <DefaultText>"Eu sabia que você faria o certo por nós, Mestre Vinculador do Destino. Sempre cuidando dos inocentes, aposto que você está. Nós vamos, não se preocupe, bom senhor. Faremos aquele vira-lata pagar pelo que fez, é só esperar."</DefaultText>
+      <FemaleText>"Eu sabia que você faria o certo por nós, Mestre Vinculador do Destino. Sempre cuidando dos inocentes, aposto que você está. Nós vamos, não se preocupe, boa senhorita. Faremos aquele vira-lata pagar pelo que fez, é só esperar."</FemaleText>
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Eu sabia que você faria o certo por nós, Mestre Fatebinder. Sempre cuidando dos inocentes, aposto que você está. Nós vamos, não se preocupe, bom senhor. Faremos aquele vira-lata pagar pelo que fez, é só esperar."</DefaultText>
-      <FemaleText>"Eu sabia que você faria o certo por nós, Mestre Fatebinder. Sempre cuidando dos inocentes, aposto que você está. Nós vamos, não se preocupe, boa senhorita. Faremos aquele vira-lata pagar pelo que fez, é só esperar."</FemaleText>
+      <DefaultText>"Eu sabia que você faria o certo por nós, Mestre Vinculador do Destino. Sempre cuidando dos inocentes, aposto que você está. Nós vamos, não se preocupe, bom senhor. Faremos aquele vira-lata pagar pelo que fez, é só esperar."</DefaultText>
+      <FemaleText>"Eu sabia que você faria o certo por nós, Mestre Vinculador do Destino. Sempre cuidando dos inocentes, aposto que você está. Nós vamos, não se preocupe, boa senhorita. Faremos aquele vira-lata pagar pelo que fez, é só esperar."</FemaleText>
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Não gosto da ideia de deixá-lo ir, mas certamente não serei o único a me opor à sua autoridade sobre a situação, Mestre Fatebinder. Você verá que a justiça será feita. Tenho certeza."</DefaultText>
+      <DefaultText>"Não gosto da ideia de deixá-lo ir, mas certamente não serei o único a me opor à sua autoridade sobre a situação, Mestre Vinculador do Destino. Você verá que a justiça será feita. Tenho certeza."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Não gosto da ideia de deixá-lo ir, mas certamente não serei o único a me opor à sua autoridade sobre a situação, Mestre Fatebinder. Você verá que a justiça será feita. Tenho certeza."</DefaultText>
+      <DefaultText>"Não gosto da ideia de deixá-lo ir, mas certamente não serei o único a me opor à sua autoridade sobre a situação, Mestre Vinculador do Destino. Você verá que a justiça será feita. Tenho certeza."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -171,17 +171,17 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Duvido que esta mulher saiba a primeira coisa sobre a teoria arcana... mas ela provavelmente não está totalmente errada em sua especulação. O Soberano mágico [url=glossary:edict]Edital[/url] é a verdadeira fonte dos tremores - nenhum mago simples poderia abalar a terra nesta escala - mas sem dúvida o Tremedores de terra está jogando algum jogo perigoso com magia muito além de seu alcance ."</DefaultText>
+      <DefaultText>"Duvido que esta mulher saiba a primeira coisa sobre a teoria arcana... mas ela provavelmente não está totalmente errada em sua especulação. O Soberano mágico [url=glossary:edict]Edital[/url] é a verdadeira fonte dos tremores - nenhum mago simples poderia abalar a terra nesta escala - mas sem dúvida o Tremedores de Terra está jogando algum jogo perigoso com magia muito além de seu alcance ."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Só que eles estavam brincando, causando problemas por semanas - tentando recrutar muitos de nós. Estou feliz que você nos livrou deles - nós, pessoas gentis, não gostamos de seus métodos, Mestre Fatebinder."</DefaultText>
+      <DefaultText>"Só que eles estavam brincando, causando problemas por semanas - tentando recrutar muitos de nós. Estou feliz que você nos livrou deles - nós, pessoas gentis, não gostamos de seus métodos, Mestre Vinculador do Destino."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Parar os terremotos seria uma bênção, com certeza. Não acho que você tenha alguma ideia de como fazer isso, não é? O [url=glossary:scarlet chorus]Coro Escarlate[/url] alegou ter um plano - antes que você os matasse." Se segurando, ela tosse desconfortavelmente antes de enxugar o canto da boca com um trapo esfarrapado. "Agora, eu não quis dizer nada com isso, Mestre Fatebinder. Mesmo se você não tivesse vindo, eu não confiaria muito em uma promessa Refrão'. Certo, eles têm outros por aí no [url=glossary:stone sea]Mar de Pedra[/url], mas quem sabe do que eles são capazes, se alguma coisa."</DefaultText>
+      <DefaultText>"Parar os terremotos seria uma bênção, com certeza. Não acho que você tenha alguma ideia de como fazer isso, não é? O [url=glossary:scarlet chorus]Coro Escarlate[/url] alegou ter um plano - antes que você os matasse." Se segurando, ela tosse desconfortavelmente antes de enxugar o canto da boca com um trapo esfarrapado. "Agora, eu não quis dizer nada com isso, Mestre Vinculador do Destino. Mesmo se você não tivesse vindo, eu não confiaria muito em uma promessa Refrão'. Certo, eles têm outros por aí no [url=glossary:stone sea]Mar de Pedra[/url], mas quem sabe do que eles são capazes, se alguma coisa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Fatebinder? Onde você estava antes? Você poderia ter impedido este ácaro do cólon de se desviar do plano."</DefaultText>
+      <DefaultText>"Vinculador do Destino? Onde você estava antes? Você poderia ter impedido este ácaro do cólon de se desviar do plano."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,7 +46,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Você não estava aqui, Binder! E não encoraje este tolo Antio, ele está rapidamente se tornando o Arconte da Retrospectiva."</DefaultText>
+      <DefaultText>"Você não estava aqui, Vinculador! E não encoraje este tolo Antio, ele está rapidamente se tornando o Arconte da Retrospectiva."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,7 +81,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Bem, podemos sentar e esperar que [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] nos mate, ou podemos fazer alguma coisa."</DefaultText>
+      <DefaultText>"Bem, podemos sentar e esperar que [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] nos mate, ou podemos fazer alguma coisa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,7 +91,7 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Sim, é melhor você estar me agradecendo. E o Fatebinder. Salvamos o [url=glossary:disfavored]Desfavorecido[/url] várias vezes, o que é mais um?"</DefaultText>
+      <DefaultText>"Sim, é melhor você estar me agradecendo. E o Vinculador do Destino. Salvamos o [url=glossary:disfavored]Desfavorecido[/url] várias vezes, o que é mais um?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,7 +101,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Não há tempo a perder, vamos torcer para que sua gangue entregue." Antio se vira para você, assentindo com uma carranca pesada. "Obrigado Fatebinder, e boa caçada."</DefaultText>
+      <DefaultText>"Não há tempo a perder, vamos torcer para que sua gangue entregue." Antio se vira para você, assentindo com uma carranca pesada. "Obrigado Vinculador do Destino, e boa caçada."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -151,7 +151,7 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"E assim termina a conquista. [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] nos mata porque primos se casam, Antio nasce, e nosso melhor Soberano cai em uma armadilha. Você é o escolhido, Antio... [url=glossary:kyros]Kyros[/url] escolheu você para nos matar. Sabedoria infinita minha porca gangrenosa!"</DefaultText>
+      <DefaultText>"E assim termina a conquista. [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] nos mata porque primos se casam, Antio nasce, e nosso melhor Soberano cai em uma armadilha. Você é o escolhido, Antio... [url=glossary:kyros]Kyros[/url] escolheu você para nos matar. Sabedoria infinita minha porca gangrenosa!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -166,7 +166,7 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Bem feito. Essa distração era exatamente o que precisávamos! [url=glossary:graven ashe]Cinza esculpida[/url] protege - meus camaradas estão recebendo seu segundo fôlego e prontos para tentar isso mais uma vez."</DefaultText>
+      <DefaultText>"Bem feito. Essa distração era exatamente o que precisávamos! [url=glossary:graven ashe]Cinza Esculpida[/url] protege - meus camaradas estão recebendo seu segundo fôlego e prontos para tentar isso mais uma vez."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -226,7 +226,7 @@
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Por que você deve me colocar nesta posição?" O Cantador coça o queixo, olhando além de você com uma carranca. "Não posso dizer não ao Encadernador que ajudou a domar os segredos do fogo para o Refrão." Ele solta um longo suspiro. "Se você exigir, eu cumprirei."</DefaultText>
+      <DefaultText>"Por que você deve me colocar nesta posição?" O Cantador coça o queixo, olhando além de você com uma carranca. "Não posso dizer não ao Vinculador que ajudou a domar os segredos do fogo para o Refrão." Ele solta um longo suspiro. "Se você exigir, eu cumprirei."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -266,12 +266,12 @@
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Basta! Seu interrogatório deixa a desejar, Encadernador. Isso não está nos levando a lugar nenhum."</DefaultText>
+      <DefaultText>"Basta! Seu interrogatório deixa a desejar, Vinculador. Isso não está nos levando a lugar nenhum."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Fale por você, mas minhas velas estão desfraldadas." Ele enxuga um fio de sangue do lábio, depois passa a mão pela língua, sorrindo ao sentir o gosto do próprio sangue. "Não sei que você gostava tanto de preliminares, Encadernador."</DefaultText>
+      <DefaultText>"Fale por você, mas minhas velas estão desfraldadas." Ele enxuga um fio de sangue do lábio, depois passa a mão pela língua, sorrindo ao sentir o gosto do próprio sangue. "Não sei que você gostava tanto de preliminares, Vinculador."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -286,7 +286,7 @@
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Acho que terei que dizer ao [url=glossary:the voices of nerat]o Vozes de Nerat[/url] que seus agentes foram brandos e covardes diante da oposição."</DefaultText>
+      <DefaultText>"Acho que terei que dizer ao [url=glossary:the voices of nerat]As Vozes de Nerat[/url] que seus agentes foram brandos e covardes diante da oposição."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -346,7 +346,7 @@
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>[Mentira] "Acho que [url=glossary:bleden mark]Marca de mistura[/url] queria saber onde-... Já falei demais."</DefaultText>
+      <DefaultText>[Mentira] "Acho que [url=glossary:bleden mark]Marca de Mistura[/url] queria saber onde-... Já falei demais."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -366,7 +366,7 @@
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"[url=glossary:bleden mark]Marca de mistura[/url]?!" Quip amargo olhos se arregalam. "Se o Arconte das Sombras está procurando meu Fúrias... o que eu... existe algum... bem merda."</DefaultText>
+      <DefaultText>"[url=glossary:bleden mark]Marca de Mistura[/url]?!" Quip amargo olhos se arregalam. "Se o Arconte das Sombras está procurando meu Fúrias... o que eu... existe algum... bem merda."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -386,7 +386,7 @@
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Antio, esse plano é ridículo e você é um idiota. Mas se o Fatebinder estiver no comando, funcionará." Piada Amarga acena para você com um sorriso radiante. "Encadernador, minha turma ficará honrada em ajudar."</DefaultText>
+      <DefaultText>"Antio, esse plano é ridículo e você é um idiota. Mas se o Vinculador do Destino estiver no comando, funcionará." Piada Amarga acena para você com um sorriso radiante. "Vinculador, minha turma ficará honrada em ajudar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -421,7 +421,7 @@
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"Por [url=glossary:kyros]Kyros[/url]' punho!" Comando Antio vira a cabeça para o lado, cuspindo maldições meio murmuradas. "Multar. Por favor, por favor, ajude-nos Piada Amarga. Sem a sua intervenção, esta missão [url=glossary:disfavored]Desfavorecido[/url] certamente falhará." Ele se afasta do Chanter's sorriso travesso para olhar para você com irritação lancinante.</DefaultText>
+      <DefaultText>"Pelo punho de [url=glossary:kyros]Kyros[/url]!" Comando Antio vira a cabeça para o lado, cuspindo maldições meio murmuradas. "Multar. Por favor, por favor, ajude-nos Piada Amarga. Sem a sua intervenção, esta missão [url=glossary:disfavored]Desfavorecido[/url] certamente falhará." Ele se afasta do Chanter's sorriso travesso para olhar para você com irritação lancinante.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -433,7 +433,7 @@ O Cantador acena com um sorriso satisfeito. "Agora que temos ISSO resolvido..."<
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"Bem, minhas velas estão desfraldadas." Ele limpa um fio de sangue do lábio, depois passa a mão pela língua, sorrindo ao sentir o gosto de seu próprio sangue. "Não sei que você gostava tanto de preliminares, Encadernador."</DefaultText>
+      <DefaultText>"Bem, minhas velas estão desfraldadas." Ele limpa um fio de sangue do lábio, depois passa a mão pela língua, sorrindo ao sentir o gosto de seu próprio sangue. "Não sei que você gostava tanto de preliminares, Vinculador."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

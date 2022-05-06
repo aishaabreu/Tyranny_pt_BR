@@ -41,12 +41,12 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Pare de desperdiçar o Fatebinder tempo! Ele tem coisas melhores para fazer do que ouvir o choro de algum criminoso."</DefaultText>
-      <FemaleText>"Pare de desperdiçar o Fatebinder tempo! Ela tem coisas melhores para fazer do que ouvir o choro de algum criminoso."</FemaleText>
+      <DefaultText>"Pare de desperdiçar o Vinculador do Destino tempo! Ele tem coisas melhores para fazer do que ouvir o choro de algum criminoso."</DefaultText>
+      <FemaleText>"Pare de desperdiçar o Vinculador do Destino tempo! Ela tem coisas melhores para fazer do que ouvir o choro de algum criminoso."</FemaleText>
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Soldados me pegaram do lado de fora de uma brecha no Oldwalls. É isso. Eu não estava lá dentro, não tinha enfiado o dedo do pé na soleira e não estava dançando com nenhum Maldito. Tenho uma relação saudável com a autopreservação."</DefaultText>
+      <DefaultText>"Soldados me pegaram do lado de fora de uma brecha no Muralhas Antigas. É isso. Eu não estava lá dentro, não tinha enfiado o dedo do pé na soleira e não estava dançando com nenhum Maldito. Tenho uma relação saudável com a autopreservação."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,14 +66,14 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Você está ouvindo apenas um lado da história. Vinculador do Destino. Nossos batedores observaram este miserável se preparando para entrar no Oldwalls. Seu relato é falho, sua culpa é testemunhada por múltiplos confiáveis nortistas." O soldado faz questão de ficar ainda mais reto quando se dirige a você.</DefaultText>
+      <DefaultText>"Você está ouvindo apenas um lado da história. Vinculador do Destino. Nossos batedores observaram este miserável se preparando para entrar no Muralhas Antigas. Seu relato é falho, sua culpa é testemunhada por múltiplos confiáveis nortistas." O soldado faz questão de ficar ainda mais reto quando se dirige a você.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
       <DefaultText>"Desculpe, 'pronto para entrar' é o melhor que você tem? Porque eu poderia facilmente argumentar que você está 'pronto para ser esfaqueado entre suas omoplatas', mas isso não conta nada até eu ver sangue e bronze."
 
-"Eu não entrei no Oldwalls. Caso encerrado."</DefaultText>
+"Eu não entrei no Muralhas Antigas. Caso encerrado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -83,17 +83,17 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"O que sua gangue estava fazendo no Oldwalls?"</DefaultText>
+      <DefaultText>"O que sua gangue estava fazendo no Muralhas Antigas?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Então você não tinha interesse em entrar no Oldwalls?"</DefaultText>
+      <DefaultText>"Então você não tinha interesse em entrar no Muralhas Antigas?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"O que você estava fazendo fora do Oldwalls?"</DefaultText>
+      <DefaultText>"O que você estava fazendo fora do Muralhas Antigas?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -123,7 +123,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Se você não estava no Oldwalls, você não estava no Oldwalls. Eu governo a seu favor."</DefaultText>
+      <DefaultText>"Se você não estava no Muralhas Antigas, você não estava no Muralhas Antigas. Eu governo a seu favor."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -133,7 +133,7 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Não me deixe em suspense, Fatebinder!"</DefaultText>
+      <DefaultText>"Não me deixe em suspense, Vinculador do Destino!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -168,14 +168,14 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Não havia gangue - apenas uma oportunista solitária para fazer sua fortuna quebrando [url=glossary:kyros]Kyros[/url]' leis. Os batedores podiam dizer só de olhar para ela que ela estava indo para a brecha."
+      <DefaultText>"Não havia gangue - apenas uma oportunista solitária para fazer sua fortuna quebrando lei de [url=glossary:kyros]Kyros[/url]. Os batedores podiam dizer só de olhar para ela que ela estava indo para a brecha."
 
 "Ela é fogosa. Aguentei bastante quando a levaram sob custódia. Não tenho motivos para duvidar das cobranças."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Nunca. Eu cresci no Camadas. Mesmo nós sabíamos que não deveria entrar na Oldwalls - se não por causa da lei [url=glossary:kyros]Kyros[/url]', porque as coisas que espreitavam lá dentro pareciam nos comer."</DefaultText>
+      <DefaultText>"Nunca. Eu cresci no Camadas. Mesmo nós sabíamos que não deveria entrar na Muralhas Antigas - se não por causa da lei de [url=glossary:kyros]Kyros[/url], porque as coisas que espreitavam lá dentro pareciam nos comer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -190,7 +190,7 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Nosso chefe estava obcecado em manter sua posição, o que é saudável quando você está no [url=glossary:scarlet chorus]Coro Escarlate[/url]. Quando chegou à conclusão de que o Oldwalls poderia ter alguns artefatos poderosos, resolveu encontrar um a todo custo."</DefaultText>
+      <DefaultText>"Nosso chefe estava obcecado em manter sua posição, o que é saudável quando você está no [url=glossary:scarlet chorus]Coro Escarlate[/url]. Quando chegou à conclusão de que as Muralhas Antigas poderia ter alguns artefatos poderosos, resolveu encontrar um a todo custo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -205,7 +205,7 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Eu nunca os vi sair do Oldwalls, então ou eles conseguiram... ou não. Meu dinheiro está no último."</DefaultText>
+      <DefaultText>"Eu nunca os vi sair do Muralhas Antigas, então ou eles conseguiram... ou não. Meu dinheiro está no último."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -240,7 +240,7 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url]' nós dos dedos! Você balbucia alto o suficiente para derrubar um Pináculo! Fatebinder, obrigado pelo seu tempo."</DefaultText>
+      <DefaultText>"Nós dos dedos de [url=glossary:kyros]Kyros[/url]! Você balbucia alto o suficiente para derrubar um Pináculo! Vinculador do Destino, obrigado pelo seu tempo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -260,7 +260,7 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Vou ficar de fora do Oldwalls, mas é tudo o que posso prometer."</DefaultText>
+      <DefaultText>"Vou ficar de fora do Muralhas Antigas, mas é tudo o que posso prometer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -335,7 +335,7 @@
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Sua gangue causou a violação no Oldwalls?"</DefaultText>
+      <DefaultText>"Sua gangue causou a violação no Muralhas Antigas?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -345,7 +345,7 @@
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Qualquer um dos [url=glossary:kyros]Kyros[/url]' Editais ou algum mago local causou a violação. Seja qual for a decisão que você tomar, não coloque isso em mim."</DefaultText>
+      <DefaultText>"Qualquer um dos [url=glossary:edict]Editais[/url] de [url=glossary:kyros]Kyros[/url] ou algum mago local causou a violação. Seja qual for a decisão que você tomar, não coloque isso em mim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

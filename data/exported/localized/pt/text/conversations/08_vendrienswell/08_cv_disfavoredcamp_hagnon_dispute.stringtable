@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Esta é a [url=glossary:kyros]Kyros[/url]' Lei."</DefaultText>
+      <DefaultText>"Esta é a Lei de [url=glossary:kyros]Kyros[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"O que há para discutir? Devemos matar esse vira-lata e..." a guerreira faz uma pausa, colocando a mão na frente da boca. "Se o Fatebinder deseja opinar sobre o assunto, a cortesia exige que ouçamos." O soldado pigarreia, olhando para você com expectativa. "Este é um assunto [url=glossary:disfavored]Desfavorecido[/url] mas eu sei que os agentes do Tribunal adoram lançar seus julgamentos por aí."</DefaultText>
+      <DefaultText>"O que há para discutir? Devemos matar esse vira-lata e..." a guerreira faz uma pausa, colocando a mão na frente da boca. "Se o Vinculador do Destino deseja opinar sobre o assunto, a cortesia exige que ouçamos." O soldado pigarreia, olhando para você com expectativa. "Este é um assunto [url=glossary:disfavored]Desfavorecido[/url] mas eu sei que os agentes do Tribunal adoram lançar seus julgamentos por aí."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,7 +81,7 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Obrigado Fatebinder, sei que outros de sua laia se intrometeriam alegremente em nossos assuntos em todas as oportunidades." O soldado volta sua atenção para o mercador. "Eu por meio deste recupero essas armadilhas do Soberano para uso pelo [url=glossary:disfavored]Desfavorecido[/url]. Se você quer viver, dê dois passos para a esquerda e não mova um músculo."</DefaultText>
+      <DefaultText>"Obrigado Vinculador do Destino, sei que outros de sua laia se intrometeriam alegremente em nossos assuntos em todas as oportunidades." O soldado volta sua atenção para o mercador. "Eu por meio deste recupero essas armadilhas do Soberano para uso pelo [url=glossary:disfavored]Desfavorecido[/url]. Se você quer viver, dê dois passos para a esquerda e não mova um músculo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -233,7 +233,7 @@
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Como você sabe que um Tierman está mentindo? Seus lábios estão se movendo." O soldado acena para seus companheiros e, com um rápido lampejo de ferro, o mercador é eviscerado.</DefaultText>
+      <DefaultText>"Como você sabe que um habitante do Camadas está mentindo? Seus lábios estão se movendo." O soldado acena para seus companheiros e, com um rápido lampejo de ferro, o mercador é eviscerado.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -253,7 +253,7 @@
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>[Para o [url=glossary:disfavored]Desfavorecido[/url].] "Acho que este Tiersmen precisa de um pouco de desbaste."</DefaultText>
+      <DefaultText>[Para o [url=glossary:disfavored]Desfavorecido[/url].] "Acho que este Homens dos Caminhos precisa de um pouco de desbaste."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -288,7 +288,7 @@
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Deixe este carrinho como presente para [url=glossary:graven ashe]Cinza esculpida[/url], depois saia e nunca mais volte."</DefaultText>
+      <DefaultText>"Deixe este carrinho como presente para [url=glossary:graven ashe]Cinza Esculpida[/url], depois saia e nunca mais volte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -303,12 +303,12 @@
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Mas ele não tem permissão! Suae permitindo que este miserável de baixo nascimento lucrar quando ele deveria trabalhar como qualquer outro Tiersmen conquistado! Fatebinder, é seu direito resolver disputas quando travamos chifres com o Refrão, mas você não tem autoridade sobre esse assunto!"</DefaultText>
+      <DefaultText>"Mas ele não tem permissão! Suae permitindo que este miserável de baixo nascimento lucrar quando ele deveria trabalhar como qualquer outro Homens dos Caminhos conquistado! Vinculador do Destino, é seu direito resolver disputas quando travamos chifres com o Refrão, mas você não tem autoridade sobre esse assunto!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Vamos escolher o que é útil. Se você encontrar algo de mérito, denuncie para o Marechal de Ferro. E Fatebinder, obrigado por tomar a decisão certa. Toda vez que mostramos aos locais um trago de civilidade, eles cospem em nossa boa índole. Nunca mais vamos cair na traição deles."</DefaultText>
+      <DefaultText>"Vamos escolher o que é útil. Se você encontrar algo de mérito, denuncie para o Marechal de Ferro. E Vinculador do Destino, obrigado por tomar a decisão certa. Toda vez que mostramos aos locais um trago de civilidade, eles cospem em nossa boa índole. Nunca mais vamos cair na traição deles."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -368,7 +368,7 @@
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Você parece tão empenhado em proteger este Tierman... que assim seja, mas poupe-nos do pergaminho."
+      <DefaultText>"Você parece tão empenhado em proteger este habitante do Camadas... que assim seja, mas poupe-nos do pergaminho."
 
 Ela se aproxima de Hagnon e dá um empurrão no mascate. "Mascate suas mercadorias, mas saiba que você está a um erro de ficar amarrado nas paliçadas como um aviso para os outros."</DefaultText>
       <FemaleText />

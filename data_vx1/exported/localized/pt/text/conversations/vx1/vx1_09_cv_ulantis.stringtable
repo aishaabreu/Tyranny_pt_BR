@@ -6,14 +6,14 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ele ainda está vivo? de ninguém ouvi falar dele em anos! Eu estava meio convencido de que ele foi vítima de bandidos. Ou pior, estava trancado em alguma loja Tierman, trabalhando para o inimigo." Ele aponta para as chamas rugindo da lareira de pedra. "Lohara mal o reconheceu, mas ele fez um bom trabalho aqui. O trabalho em pedra é o melhor que eu já vi, e as fogueiras sempre esquentam."
+      <DefaultText>"Ele ainda está vivo? de ninguém ouvi falar dele em anos! Eu estava meio convencido de que ele foi vítima de bandidos. Ou pior, estava trancado em alguma loja habitante do Camadas, trabalhando para o inimigo." Ele aponta para as chamas rugindo da lareira de pedra. "Lohara mal o reconheceu, mas ele fez um bom trabalho aqui. O trabalho em pedra é o melhor que eu já vi, e as fogueiras sempre esquentam."
 
 "Então o que aconteceu com ele?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Ele sorri para você e acena obedientemente. "Sim, claro. Estradas perigosas ao longo do caminho para o norte, certo Fatebinder? Selvagem por leões da montanha, sem dúvida. Ouvi dizer que essas feridas levam anos para se recuperar."</DefaultText>
+      <DefaultText>Ele sorri para você e acena obedientemente. "Sim, claro. Estradas perigosas ao longo do caminho para o norte, certo Vinculador do Destino? Selvagem por leões da montanha, sem dúvida. Ouvi dizer que essas feridas levam anos para se recuperar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -40,12 +40,12 @@ Ele passa a mão pela testa, substituindo o suor por listras cheias de fuligem. 
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Sua sobrancelha arqueia para cima. "Sério, Fatebinder? Jaspos deve ter ultrapassado seus limites. Interessante que ele deve ter um aliado em você. O que quer que ele esteja fazendo não é da minha conta. Francamente, duvido que o soberano tenha notado sua ausência. Conquistamos a maior parte do mundo conhecido... restam poucas forjas para serem construídas."</DefaultText>
+      <DefaultText>Sua sobrancelha arqueia para cima. "Sério, Vinculador do Destino? Jaspos deve ter ultrapassado seus limites. Interessante que ele deve ter um aliado em você. O que quer que ele esteja fazendo não é da minha conta. Francamente, duvido que o soberano tenha notado sua ausência. Conquistamos a maior parte do mundo conhecido... restam poucas forjas para serem construídas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Qualquer maneira, as ferramentas que você procura não estão aqui. Recebi recentemente uma missiva destinada a Lohara. Aparentemente, [url=glossary:forge-bound]Forge-Bound[/url] Cassandra levou os knappers restantes para South Haven. Eles planejavam retornar ao Norte pelo rio, mas foram adiados por algum motivo. Se você quiser encontrar essas ferramentas, vá até lá e fale com ela."</DefaultText>
+      <DefaultText>"Qualquer maneira, as ferramentas que você procura não estão aqui. Recebi recentemente uma missiva destinada a Lohara. Aparentemente, [url=glossary:forge-bound]Vinculado à Forja[/url] Cassandra levou os knappers restantes para South Haven. Eles planejavam retornar ao Norte pelo rio, mas foram adiados por algum motivo. Se você quiser encontrar essas ferramentas, vá até lá e fale com ela."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

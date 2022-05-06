@@ -151,7 +151,7 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>Os ventos de [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] enchem o ar com nuvens espessas de ferrugem das armas e armaduras decadentes que cobrem o chão. Sem vento natural, dificulta todos os seus movimentos.</DefaultText>
+      <DefaultText>Os ventos de [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] enchem o ar com nuvens espessas de ferrugem das armas e armaduras decadentes que cobrem o chão. Sem vento natural, dificulta todos os seus movimentos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,7 +161,7 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>O Senhor Supremo decretou que todos no vale em [url=glossary:kyros]Kyros[/url]' Dia de Espadas devem morrer a menos que [url=glossary:kyros]Kyros[/url]' representante mantenha [url=glossary:ascension hall]Salão da Ascensão[/url].</DefaultText>
+      <DefaultText>O Senhor Supremo decretou que todos no vale em [url=lore:kyros_day_swords]Dia de Espadas[/url] de [url=glossary:kyros]Kyros[/url] devem morrer a menos que o representante de [url=glossary:kyros]Kyros[/url] mantenha [url=glossary:ascension hall]Salão da Ascensão[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -326,7 +326,7 @@
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>Ventos uivantes ecoam pelos cânions do [url=glossary:stone sea]Mar de Pedra[/url], enlouquecendo o Homens-fera com os ecos constantes. O movimento torna-se difícil para todos na área e as defesas são reduzidas para os inimigos. O Fatebinder se beneficia de um aumento de [url=glossary:dodge]Desviar[/url] e [url=glossary:parry]Defesa[/url] durante a tempestade.</DefaultText>
+      <DefaultText>Ventos uivantes ecoam pelos cânions do [url=glossary:stone sea]Mar de Pedra[/url], enlouquecendo o Homens-fera com os ecos constantes. O movimento torna-se difícil para todos na área e as defesas são reduzidas para os inimigos. O Vinculador do Destino se beneficia de um aumento de [url=glossary:dodge]Desviar[/url] e [url=glossary:parry]Defesa[/url] durante a tempestade.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -341,17 +341,17 @@
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>Pequenas poças de lava e magma derretido começam a espreitar da terra quebrada e ao redor da terra. Armadilhas de lava volátil ameaçam a área. O grupo recebe uma redução para Incêndio de dano e todos os personagens têm sua habilidade mágica aumentada. Bane na área são empoderados.</DefaultText>
+      <DefaultText>Pequenas poças de lava e magma derretido começam a espreitar da terra quebrada e ao redor da terra. Armadilhas de lava volátil ameaçam a área. O grupo recebe uma redução para Incêndio de dano e todos os personagens têm sua habilidade mágica aumentada. Maldições na área são empoderados.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>Um deserto exaustivo como o calor murcha a região e seca todas as fontes naturais de água. Todos os personagens têm sua habilidade mágica aumentada. O Fatebinder party também cura uma parte do geada dano recebido e os consumíveis são muito mais eficazes. Os inimigos se tornam [url=glossary:fatigued]Cansado[/url] e têm uma penalidade de [url=glossary:quickness]Rapidez[/url].</DefaultText>
+      <DefaultText>Um deserto exaustivo como o calor murcha a região e seca todas as fontes naturais de água. Todos os personagens têm sua habilidade mágica aumentada. O Vinculador do Destino party também cura uma parte do geada dano recebido e os consumíveis são muito mais eficazes. Os inimigos se tornam [url=glossary:fatigued]Cansado[/url] e têm uma penalidade de [url=glossary:quickness]Rapidez[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>Jatos de vapor saem periodicamente de bolsões porosos na terra e desfiladeiros da região. Rios, lagos e outras fontes de água são aquecidos a uma temperatura próxima à ebulição. Todos os personagens têm seus [url=glossary:resolve]Determinação[/url] penalizados e suas habilidades mágicas aumentadas. Bane na área se torna mais poderoso e as aflições causadas pela festa Fatebinder duram mais. Água e vapor queimam aliados e inimigos.</DefaultText>
+      <DefaultText>Jatos de vapor saem periodicamente de bolsões porosos na terra e desfiladeiros da região. Rios, lagos e outras fontes de água são aquecidos a uma temperatura próxima à ebulição. Todos os personagens têm seus [url=glossary:resolve]Determinação[/url] penalizados e suas habilidades mágicas aumentadas. Maldições na área se torna mais poderoso e as aflições causadas pela festa Vinculador do Destino duram mais. Água e vapor queimam aliados e inimigos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -621,7 +621,7 @@
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>Violação de Oldwalls</DefaultText>
+      <DefaultText>Violação de Muralhas Antigas</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -646,7 +646,7 @@
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>Delícia de Earthshaker</DefaultText>
+      <DefaultText>Delícia de Tremedor de Terra</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

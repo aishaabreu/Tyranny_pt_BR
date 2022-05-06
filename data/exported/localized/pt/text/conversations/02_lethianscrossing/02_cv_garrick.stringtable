@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Eu estava procurando na área perto da entrada Oldwalls por metais ou runas únicas que eu pudesse usar em minha criação." 
+      <DefaultText>"Eu estava procurando na área perto da entrada Muralhas Antigas por metais ou runas únicas que eu pudesse usar em minha criação." 
 
 "Estou... Estou tentando avançar para o próximo nível de minha aprendizagem. Impressionar mestres de forja é muito mais difícil do que parece e Mestre Lohara é especialmente exigente. Você realmente precisa se destacar, e achei que essa era minha chance."</DefaultText>
       <FemaleText />
@@ -45,7 +45,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Assim que consegui sair de vista, comecei a correr para encontrar uma saída. Deve haver um caminho para [url=glossary:lethian's crossing]A travessia de Lethian[/url] em algum lugar..." Ele balança a cabeça, "Mas isso pode ser apenas uma história. Claro que dei meia volta e não consegui encontrar o caminho de volta." "Eu me tranquei aqui para ficar longe das [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] patrulhas e Flagelos vagando por aí. Se você não tivesse aparecido, seria apenas uma questão de tempo até que algo me encontrasse."</DefaultText>
+      <DefaultText>"Assim que consegui sair de vista, comecei a correr para encontrar uma saída. Deve haver um caminho para [url=glossary:lethian's crossing]A Travessia de Lethian[/url] em algum lugar..." Ele balança a cabeça, "Mas isso pode ser apenas uma história. Claro que dei meia volta e não consegui encontrar o caminho de volta." "Eu me tranquei aqui para ficar longe das [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] patrulhas e Flagelos vagando por aí. Se você não tivesse aparecido, seria apenas uma questão de tempo até que algo me encontrasse."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -60,7 +60,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Pelos fogos na forja, isso é uma notícia fantástica! Finalmente posso deixar este lugar! Agradecer você - vou garantir que o [url=glossary:forge-bound]Forge-Bound[/url] saiba que você me ajudou a escapar."</DefaultText>
+      <DefaultText>"Pelos fogos na forja, isso é uma notícia fantástica! Finalmente posso deixar este lugar! Agradecer você - vou garantir que o [url=glossary:forge-bound]Vinculado à Forja[/url] saiba que você me ajudou a escapar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -80,7 +80,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Obrigado! Agora tenho que explorar o resto do Oldwalls... sem você."</DefaultText>
+      <DefaultText>"Obrigado! Agora tenho que explorar o resto do Muralhas Antigas... sem você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -151,7 +151,7 @@ Garrick se lança em você.</DefaultText>
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"O caminho para [url=glossary:lethian's crossing]A travessia de Lethian[/url] é claro."</DefaultText>
+      <DefaultText>"O caminho para [url=glossary:lethian's crossing]A Travessia de Lethian[/url] é claro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -183,14 +183,14 @@ Garrick se lança em você.</DefaultText>
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Prometo que nunca mais entrarei no Oldwalls. A guarnição me viu depois da primeira vez, mas desviou o olhar. Acho que era apenas uma questão de tempo antes que minha sorte acabasse comigo."
+      <DefaultText>"Prometo que nunca mais entrarei no Muralhas Antigas. A guarnição me viu depois da primeira vez, mas desviou o olhar. Acho que era apenas uma questão de tempo antes que minha sorte acabasse comigo."
 
 Ele envolve seus braços em volta de você, esmagando você em um abraço apertado. Ele te solta, faz um pequeno som desesperado e foge para a escuridão.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Você não sabe que é ilegal invadir o Oldwalls?"</DefaultText>
+      <DefaultText>"Você não sabe que é ilegal invadir as Muralhas Antigas?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -215,7 +215,7 @@ Ele envolve seus braços em volta de você, esmagando você em um abraço aperta
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>[Ataque] "Eu o considero culpado de violar a lei [url=glossary:kyros]Kyros[/url]'. Prepare-se para morrer."</DefaultText>
+      <DefaultText>[Ataque] "Eu o considero culpado de violar a lei de [url=glossary:kyros]Kyros[/url]. Prepare-se para morrer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -225,12 +225,12 @@ Ele envolve seus braços em volta de você, esmagando você em um abraço aperta
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Estou no Oldwalls também, não estou? Vamos manter esse segredo entre nós."</DefaultText>
+      <DefaultText>"Estou no Muralhas Antigas também, não estou? Vamos manter esse segredo entre nós."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Às vezes esqueço que você Vinculadores do Destino está em dívida com a lei [url=glossary:kyros]Kyros[/url]'. É claro! Se eu sair daqui, não mencionarei a ninguém."</DefaultText>
+      <DefaultText>"Às vezes esqueço que você Vinculadores do Destino está em dívida com a lei de [url=glossary:kyros]Kyros[/url]. É claro! Se eu sair daqui, não mencionarei a ninguém."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -245,14 +245,14 @@ Ele envolve seus braços em volta de você, esmagando você em um abraço aperta
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Prometo que nunca mais entrarei no Oldwalls. A guarnição me viu depois da primeira vez, mas desviou o olhar. Acho que era apenas uma questão de tempo antes que minha sorte acabasse comigo."
+      <DefaultText>"Prometo que nunca mais entrarei no Muralhas Antigas. A guarnição me viu depois da primeira vez, mas desviou o olhar. Acho que era apenas uma questão de tempo antes que minha sorte acabasse comigo."
 
 Ele envolve seus braços em volta de você, esmagando você em um abraço apertado. Ele te solta, faz um pequeno som desesperado e foge para a escuridão.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Prometo que nunca mais entrarei no Oldwalls. A guarnição me viu depois da primeira vez, mas desviou o olhar. Acho que era apenas uma questão de tempo antes que minha sorte acabasse comigo."
+      <DefaultText>"Prometo que nunca mais entrarei no Muralhas Antigas. A guarnição me viu depois da primeira vez, mas desviou o olhar. Acho que era apenas uma questão de tempo antes que minha sorte acabasse comigo."
 
 Ele envolve seus braços em volta de você, esmagando você em um abraço apertado. Ele te solta, faz um pequeno som desesperado e foge para a escuridão.</DefaultText>
       <FemaleText />
@@ -274,7 +274,7 @@ Ele envolve seus braços em volta de você, esmagando você em um abraço aperta
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Direita, claro. Eu sou Garrick, [url=glossary:forge-bound]Forge-Bound[/url] aprendiz de [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Estou muito longe do assentamento, eu sei. Acho que você pode dizer que eu... me perdi." Ele balança a cabeça. "Da pior maneira possível, devo acrescentar."</DefaultText>
+      <DefaultText>"Direita, claro. Eu sou Garrick, [url=glossary:forge-bound]Vinculado à Forja[/url] aprendiz de [url=glossary:lethian's crossing]A Travessia de Lethian[/url]. Estou muito longe do assentamento, eu sei. Acho que você pode dizer que eu... me perdi." Ele balança a cabeça. "Da pior maneira possível, devo acrescentar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -284,7 +284,7 @@ Ele envolve seus braços em volta de você, esmagando você em um abraço aperta
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Pelos fogos na forja, isso é uma notícia fantástica! Finalmente posso deixar este lugar! Agradecer você - vou garantir que o [url=glossary:forge-bound]Forge-Bound[/url] saiba que você me ajudou a escapar."</DefaultText>
+      <DefaultText>"Pelos fogos na forja, isso é uma notícia fantástica! Finalmente posso deixar este lugar! Agradecer você - vou garantir que o [url=glossary:forge-bound]Vinculado à Forja[/url] saiba que você me ajudou a escapar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -294,7 +294,7 @@ Ele envolve seus braços em volta de você, esmagando você em um abraço aperta
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Eu teria, mas estava empenhado em encontrar essa conexão com [url=glossary:lethian's crossing]A travessia de Lethian[/url] e deixei para trás a armadura fraternidade que encontrei. Era mal ajustado e barulhento, e não me ajudou a fugir do Maldito, que posso garantir que é uma preocupação muito mais premente até aqui no Oldwalls do que alguns bandidos cabeça-quente!"</DefaultText>
+      <DefaultText>"Eu teria, mas estava empenhado em encontrar essa conexão com [url=glossary:lethian's crossing]A Travessia de Lethian[/url] e deixei para trás a armadura fraternidade que encontrei. Era mal ajustado e barulhento, e não me ajudou a fugir do Maldito, que posso garantir que é uma preocupação muito mais premente até aqui no Muralhas Antigas do que alguns bandidos cabeça-quente!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -314,7 +314,7 @@ Ele envolve seus braços em volta de você, esmagando você em um abraço aperta
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Pelos fogos na forja, isso é uma notícia fantástica! Finalmente posso deixar este lugar! Agradecer você - vou garantir que o [url=glossary:forge-bound]Forge-Bound[/url] saiba que você me ajudou a escapar."</DefaultText>
+      <DefaultText>"Pelos fogos na forja, isso é uma notícia fantástica! Finalmente posso deixar este lugar! Agradecer você - vou garantir que o [url=glossary:forge-bound]Vinculado à Forja[/url] saiba que você me ajudou a escapar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

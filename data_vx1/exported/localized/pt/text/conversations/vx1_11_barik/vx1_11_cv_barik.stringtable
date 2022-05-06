@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"...shell desde [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] de Tempestades fez um túmulo do antigo Robusto. Ocorreu a serviço do soberano, e peço que o soberano me livre de seu fardo."</DefaultText>
+      <DefaultText>"...shell desde [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] de Tempestades fez um túmulo do antigo Robusto. Ocorreu a serviço do soberano, e peço que o soberano me livre de seu fardo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -146,7 +146,7 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"A guilda [url=glossary:forge-bound]Forge-Bound[/url] prestou seus serviços à Árbitro. Se existe alguma esperança de minha libertação desta carapaça, ela está com eles."</DefaultText>
+      <DefaultText>"A guilda [url=glossary:forge-bound]Vinculado à Forja[/url] prestou seus serviços à Árbitro. Se existe alguma esperança de minha libertação desta carapaça, ela está com eles."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -201,7 +201,7 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"O Arconte decisão não muda nada. Eu perseverei até aqui. Vou continuar a fazê-lo. Pelo bem do General Ashe e do Norte."</DefaultText>
+      <DefaultText>"O Arconte decisão não muda nada. Eu perseverei até aqui. Vou continuar a fazê-lo. Pelo bem do General Cinza e do Norte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -226,7 +226,7 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Seu mestre foi muito específico em sua frase. Ele proibiu não apenas a assistência do [url=glossary:forge-bound]Forge-Bound[/url], mas de qualquer pessoa, em qualquer lugar do mundo!"</DefaultText>
+      <DefaultText>"Seu mestre foi muito específico em sua frase. Ele proibiu não apenas a assistência do [url=glossary:forge-bound]Vinculado à Forja[/url], mas de qualquer pessoa, em qualquer lugar do mundo!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -266,7 +266,7 @@
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Você divide os cabelos, Encadernador. O mundo inteiro se ajoelha diante do soberano."</DefaultText>
+      <DefaultText>"Você divide os cabelos, Vinculador. O mundo inteiro se ajoelha diante do soberano."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -366,7 +366,7 @@
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Existe uma maneira simples de remover o Égide. Matamos [url=glossary:graven ashe]Cinza esculpida[/url]."</DefaultText>
+      <DefaultText>"Existe uma maneira simples de remover o Égide. Matamos [url=glossary:graven ashe]Cinza Esculpida[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -406,17 +406,17 @@
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url] ordenou que o Arcontes determine um governante do Camadas entre si. Este é o momento de ir para Arconte Ashe. Submeta-se a ele e implore clemência!"</DefaultText>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] ordenou que o Arcontes determine um governante do Camadas entre si. Este é o momento de ir para Arconte Cinza. Submeta-se a ele e implore clemência!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Não. Ashe se curvará a mim... ou ele perecerá."</DefaultText>
+      <DefaultText>"Não. Cinza se curvará a mim... ou ele perecerá."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"Agora sou igual entre os Arcontes. Talvez [url=glossary:graven ashe]Cinza esculpida[/url] estaria disposto a liberá-lo para meu serviço... e de sua proteção."</DefaultText>
+      <DefaultText>"Agora sou igual entre os Arcontes. Talvez [url=glossary:graven ashe]Cinza Esculpida[/url] estaria disposto a liberá-lo para meu serviço... e de sua proteção."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -426,7 +426,7 @@
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Quantos [url=glossary:disfavored]Desfavorecido[/url] matamos juntos? Isso não é uma ofensa capital em sua Legião? Dê o passo final - rejeite Ashe e comprometa-se comigo."</DefaultText>
+      <DefaultText>"Quantos [url=glossary:disfavored]Desfavorecido[/url] matamos juntos? Isso não é uma ofensa capital em sua Legião? Dê o passo final - rejeite Cinza e comprometa-se comigo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -451,12 +451,12 @@
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Eu sou o escudo de [url=glossary:graven ashe]Cinza esculpida[/url] antes de todos os outros, e nada que você possa dizer me convencerá do contrário."</DefaultText>
+      <DefaultText>"Eu sou o escudo de [url=glossary:graven ashe]Cinza Esculpida[/url] antes de todos os outros, e nada que você possa dizer me convencerá do contrário."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Nada. Nada mudou, Fatebinder! Você... você me convenceu a renunciar ao Arconte. Por nada! Eu... cometi traição..."</DefaultText>
+      <DefaultText>"Nada. Nada mudou, Vinculador do Destino! Você... você me convenceu a renunciar ao Arconte. Por nada! Eu... cometi traição..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -476,7 +476,7 @@
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Sua causa alinhada com a do [url=glossary:disfavored]Desfavorecido[/url] no passado. Tenho certeza de que vocês dois podem chegar a um acordo se entrarem em contato com Arconte Ashe. Ele é obstinado, mas não irracional. Por favor, considere cuidadosamente, Arconte."</DefaultText>
+      <DefaultText>"Sua causa alinhada com a do [url=glossary:disfavored]Desfavorecido[/url] no passado. Tenho certeza de que vocês dois podem chegar a um acordo se entrarem em contato com Arconte Cinza. Ele é obstinado, mas não irracional. Por favor, considere cuidadosamente, Arconte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -616,7 +616,7 @@
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>"Os ventos daquele dia varreram tudo. Eles caíram Tiersmen e gado como brinquedos de crianças. A poeira sufocou nossas bocas e olhos. As árvores apareceram como por magia, apenas para serem esmagadas em lascas contra pedras. E esses estilhaços cortam como facas."</DefaultText>
+      <DefaultText>"Os ventos daquele dia varreram tudo. Eles caíram Homens dos Caminhos e gado como brinquedos de crianças. A poeira sufocou nossas bocas e olhos. As árvores apareceram como por magia, apenas para serem esmagadas em lascas contra pedras. E esses estilhaços cortam como facas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -676,7 +676,7 @@
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>"Se tal curso fosse sustentável, eu nunca o faria. [url=glossary:graven ashe]Cinza esculpida[/url] é como um pai para mim... e para todos os outros membros da Legião."</DefaultText>
+      <DefaultText>"Se tal curso fosse sustentável, eu nunca o faria. [url=glossary:graven ashe]Cinza Esculpida[/url] é como um pai para mim... e para todos os outros membros da Legião."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -686,7 +686,7 @@
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>"Eu aceitaria uma armadura duas vezes mais pesada do que a que uso, se ela viesse com Arconte Ashe proteção e liderança."</DefaultText>
+      <DefaultText>"Eu aceitaria uma armadura duas vezes mais pesada do que a que uso, se ela viesse com Arconte Cinza proteção e liderança."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -701,7 +701,7 @@
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>"Chegará um momento em que você terá que escolher entre [url=glossary:graven ashe]Cinza esculpida[/url] e eu. Você pode escolher agora e rejeitar sua conexão com Ashe."</DefaultText>
+      <DefaultText>"Chegará um momento em que você terá que escolher entre [url=glossary:graven ashe]Cinza Esculpida[/url] e eu. Você pode escolher agora e rejeitar sua conexão com Cinza."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -731,7 +731,7 @@
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>"Eu... você não pode me pedir para fazer essa escolha, Fatebi- Archon. Tenho o maior respeito por você, mas o Em geral foi como um pai para mim."</DefaultText>
+      <DefaultText>"Eu... você não pode me pedir para fazer essa escolha, Fatebi- Arconte. Tenho o maior respeito por você, mas o Em geral foi como um pai para mim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -741,17 +741,17 @@
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>"Você pretende me convencer de que é uma fraqueza que Geral Ashe ama seus legionários?"</DefaultText>
+      <DefaultText>"Você pretende me convencer de que é uma fraqueza que Geral Cinza ama seus legionários?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>"A devoção admirável de Ashe por suas tropas se transformou em obsessão, Barik. Para proteger seu povo, ele queimaria todos os camponeses e cidades do Camadas e salgaria os restos."</DefaultText>
+      <DefaultText>"A devoção admirável de Cinza por suas tropas se transformou em obsessão, Barik. Para proteger seu povo, ele queimaria todos os camponeses e cidades do Camadas e salgaria os restos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>"Estou tentando nos guiar pela [url=glossary:kyros]Kyros[/url]' proclamação, Barik. Se conseguirmos livrar você da armadura dessa maneira, significa que poderemos sobreviver ao comando Soberano."</DefaultText>
+      <DefaultText>"Estou tentando nos guiar pela proclamação de [url=glossary:kyros]Kyros[/url], Barik. Se conseguirmos livrar você da armadura dessa maneira, significa que poderemos sobreviver ao comando Soberano."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -776,7 +776,7 @@
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url].] "Não tenho dúvidas de que você poderia me destruir, Vinculador do Destino. No entanto, não vou rastejar aos seus pés ou abandonar [url=glossary:graven ashe]Cinza esculpida[/url] por você."</DefaultText>
+      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url].] "Não tenho dúvidas de que você poderia me destruir, Vinculador do Destino. No entanto, não vou rastejar aos seus pés ou abandonar [url=glossary:graven ashe]Cinza Esculpida[/url] por você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -791,7 +791,7 @@
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>"Não, Vinculador do Destino. Eu não vou abandonar [url=glossary:graven ashe]Cinza esculpida[/url] por você."</DefaultText>
+      <DefaultText>"Não, Vinculador do Destino. Eu não vou abandonar [url=glossary:graven ashe]Cinza Esculpida[/url] por você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -821,7 +821,7 @@
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>"Você rejeita o Égide de [url=glossary:graven ashe]Cinza esculpida[/url], Barik do Escudos de Pedra?"</DefaultText>
+      <DefaultText>"Você rejeita o Égide de [url=glossary:graven ashe]Cinza Esculpida[/url], Barik do Escudos de Pedra?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -866,7 +866,7 @@
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>"Então isso confirma - apenas [url=glossary:graven ashe]Cinza esculpida[/url] pode rescindir sua proteção."</DefaultText>
+      <DefaultText>"Então isso confirma - apenas [url=glossary:graven ashe]Cinza Esculpida[/url] pode rescindir sua proteção."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -961,7 +961,7 @@
     </Entry>
     <Entry>
       <ID>203</ID>
-      <DefaultText>"Geral Ashe prometeu o [url=glossary:disfavored]Desfavorecido[/url] para você. Ele me deu a seu serviço, e agora eu me disfarço de igual a ele."</DefaultText>
+      <DefaultText>"Geral Cinza prometeu o [url=glossary:disfavored]Desfavorecido[/url] para você. Ele me deu a seu serviço, e agora eu me disfarço de igual a ele."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -971,7 +971,7 @@
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>"Isso nunca será o caso, é claro. Mesmo prometido a você, [url=glossary:graven ashe]Cinza esculpida[/url] é um Arconte. Mas além disso, ele é um ideal pelo qual lutar."</DefaultText>
+      <DefaultText>"Isso nunca será o caso, é claro. Mesmo prometido a você, [url=glossary:graven ashe]Cinza Esculpida[/url] é um Arconte. Mas além disso, ele é um ideal pelo qual lutar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1051,7 +1051,7 @@
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText>"Eu? Eu... suponho que se você realmente deseja minha orientação, posso tentar lhe ensinar o que sei sobre honra. Como fui ensinado pelo General Ashe e meu pai antes dele."</DefaultText>
+      <DefaultText>"Eu? Eu... suponho que se você realmente deseja minha orientação, posso tentar lhe ensinar o que sei sobre honra. Como fui ensinado pelo General Cinza e meu pai antes dele."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1256,7 +1256,7 @@
     </Entry>
     <Entry>
       <ID>264</ID>
-      <DefaultText>"O caminho à minha frente nunca foi menos claro, Encadernador. Preciso de tempo para entender isso antes de ter pensamentos de sobra para... outras preocupações."</DefaultText>
+      <DefaultText>"O caminho à minha frente nunca foi menos claro, Vinculador. Preciso de tempo para entender isso antes de ter pensamentos de sobra para... outras preocupações."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1276,32 +1276,32 @@
     </Entry>
     <Entry>
       <ID>269</ID>
-      <DefaultText>"Sem considerar, devemos falar com o [url=glossary:forge-bound]Forge-Bound[/url], apenas para saber quais são nossas opções."</DefaultText>
+      <DefaultText>"Sem considerar, devemos falar com o [url=glossary:forge-bound]Vinculado à Forja[/url], apenas para saber quais são nossas opções."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>270</ID>
-      <DefaultText>[Mentira] "Juro solenemente a você que não falarei com o [url=glossary:forge-bound]Forge-Bound[/url] sobre sua armadura. Feliz?"</DefaultText>
+      <DefaultText>[Mentira] "Juro solenemente a você que não falarei com o [url=glossary:forge-bound]Vinculado à Forja[/url] sobre sua armadura. Feliz?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>271</ID>
-      <DefaultText>[Conquista] "Eu supervisionei [url=glossary:lethian's crossing]A travessia de Lethian[/url] durante a guerra. O [url=glossary:forge-bound]Forge-Bound[/url] me conhece."</DefaultText>
+      <DefaultText>[Conquista] "Eu supervisionei [url=glossary:lethian's crossing]A Travessia de Lethian[/url] durante a guerra. O [url=glossary:forge-bound]Vinculado à Forja[/url] me conhece."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>272</ID>
-      <DefaultText>"O [url=glossary:forge-bound]Forge-Bound[/url] ficará curioso sobre você de qualquer maneira. A articulação em sua armadura é incrível. No mínimo, devemos deixá-los dar uma olhada em você."</DefaultText>
+      <DefaultText>"O [url=glossary:forge-bound]Vinculado à Forja[/url] ficará curioso sobre você de qualquer maneira. A articulação em sua armadura é incrível. No mínimo, devemos deixá-los dar uma olhada em você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>273</ID>
-      <DefaultText>"Eu trouxe o [url=glossary:forge-bound]Forge-Bound[/url] para minha coalizão. Vou falar com Mestre Zdenya em [url=glossary:ascension hall]Salão da Ascensão[/url]."</DefaultText>
+      <DefaultText>"Eu trouxe o [url=glossary:forge-bound]Vinculado à Forja[/url] para minha coalizão. Vou falar com Mestre Zdenya em [url=glossary:ascension hall]Salão da Ascensão[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>274</ID>
-      <DefaultText>"Não há opções além de deferência ao soberano. Mas se você insistir em nos arrastar antes do [url=glossary:forge-bound]Forge-Bound[/url], você encontrará a oficina principal deles em [url=glossary:lethian's crossing]A travessia de Lethian[/url]."</DefaultText>
+      <DefaultText>"Não há opções além de deferência ao soberano. Mas se você insistir em nos arrastar antes do [url=glossary:forge-bound]Vinculado à Forja[/url], você encontrará a oficina principal deles em [url=glossary:lethian's crossing]A Travessia de Lethian[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1316,7 +1316,7 @@
     </Entry>
     <Entry>
       <ID>277</ID>
-      <DefaultText>"Minha armadura é... única. Talvez possa ensinar-lhes algo que ajudará o [url=glossary:disfavored]Desfavorecido[/url]. Podemos encontrar o [url=glossary:forge-bound]Forge-Bound[/url] em sua ferraria em [url=glossary:lethian's crossing]A travessia de Lethian[/url]." Ele acena com a cabeça.</DefaultText>
+      <DefaultText>"Minha armadura é... única. Talvez possa ensinar-lhes algo que ajudará o [url=glossary:disfavored]Desfavorecido[/url]. Podemos encontrar o [url=glossary:forge-bound]Vinculado à Forja[/url] em sua ferraria em [url=glossary:lethian's crossing]A Travessia de Lethian[/url]." Ele acena com a cabeça.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1351,17 +1351,17 @@
     </Entry>
     <Entry>
       <ID>285</ID>
-      <DefaultText>"Por suas ações, Arconte Ashe está morto. Que eu sofra cada momento na ausência de sua proteção parece apenas uma penitência por minha falha em evitar isso." Através das fendas em seu elmo, você o vê estremecer. Ele se afasta de você e se retira para o silêncio.</DefaultText>
+      <DefaultText>"Por suas ações, Arconte Cinza está morto. Que eu sofra cada momento na ausência de sua proteção parece apenas uma penitência por minha falha em evitar isso." Através das fendas em seu elmo, você o vê estremecer. Ele se afasta de você e se retira para o silêncio.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>287</ID>
-      <DefaultText>Ele solta um suspiro prolongado. "Para o bem ou para o mal, Geral Ashe jurou lealdade a você. Talvez agora possamos encontrar uma maneira de rescindir sua proteção... pelo menos o tempo suficiente para me libertar desta concha."</DefaultText>
+      <DefaultText>Ele solta um suspiro prolongado. "Para o bem ou para o mal, Geral Cinza jurou lealdade a você. Talvez agora possamos encontrar uma maneira de rescindir sua proteção... pelo menos o tempo suficiente para me libertar desta concha."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>288</ID>
-      <DefaultText>Ocorre a você que, na ausência de Égide de Ashe, agora você pode libertar Barik de sua armadura.</DefaultText>
+      <DefaultText>Ocorre a você que, na ausência de Égide de Cinza, agora você pode libertar Barik de sua armadura.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

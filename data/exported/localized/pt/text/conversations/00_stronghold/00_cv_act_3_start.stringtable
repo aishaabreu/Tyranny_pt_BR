@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Continuo ouvindo sobre esse pequeno Pináculo que você está chamando de seu." Assentindo com um sorriso malicioso, Fatebinder Calio espia por cima da borda da torre. "Agora que você matou aqueles que querem tomar suas terras, acho que sua reivindicação é tão oficial quanto possível."</DefaultText>
+      <DefaultText>"Continuo ouvindo sobre esse pequeno Pináculo que você está chamando de seu." Assentindo com um sorriso malicioso, Vinculador do Destino Calio espia por cima da borda da torre. "Agora que você matou aqueles que querem tomar suas terras, acho que sua reivindicação é tão oficial quanto possível."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,12 +16,12 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Esta é uma intimação judicial do assassino de [url=glossary:bleden mark]Marca de mistura[/url], [url=glossary:tunon]Tunon[/url]. Sugiro que você leia com atenção como parte de seus preparativos. Sua sobrevivência pode depender disso."</DefaultText>
+      <DefaultText>"Esta é uma intimação judicial do assassino de [url=glossary:bleden mark]Marca de Mistura[/url], [url=glossary:tunon]Tunon[/url]. Sugiro que você leia com atenção como parte de seus preparativos. Sua sobrevivência pode depender disso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"O que eu fiz para ganhar a visita de um Fatebinder? Você tem um [url=glossary:edict]Edital[/url] para proclamar contra mim?"</DefaultText>
+      <DefaultText>"O que eu fiz para ganhar a visita de um Vinculador do Destino? Você tem um [url=glossary:edict]Edital[/url] para proclamar contra mim?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,9 +36,12 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Alfa gerou palavras de poder como a dos humanos [url=glossary:prima]Prima[/url] chamada [url=glossary:kyros]Kyros[/url]. É melhor mística do que a mãe da ninhada para Mortes-in-Shadow, do que "
+      <DefaultText>
+      "Alfa gerou palavras de poder como a dos humanos [url=glossary:prima]Prima[/url] chamado [url=glossary:kyros]Kyros[/url]. É melhor mística do que a mãe da ninhada para Mortes nas Sombras, do que [url=glossary:stonestalkers]Perseguidores de Pedras[/url] Com Sangue - do que Mulher-Besta Arconte massacrada por Marca das Sombras."
 
-[/url]' Cem Sangue - do que Mulher-Besta Arconte massacrada por Marca das Sombras." Ela bufa e sorri selvagemente. "Mortes-in-Shadow sabia que Alfa era o humano mais poderoso de todas as Camadas-terras." Uma garra curvada bate na lateral de seu focinho. "O nariz não estava errado."</DefaultText>
+      Ela bufa e sorri selvagemente.
+
+      "Mortes nas Sombras sabia que Alfa era o humano mais poderoso de todas as terras de Camadas." Uma garra curvada bate na lateral de seu focinho. "O nariz não estava errado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -68,7 +71,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"É natural ter duvidado de si mesmo. Os Editais sempre foi a magia de [url=glossary:kyros]Kyros[/url] e [url=glossary:kyros]Kyros[/url] sozinho! Alguém alegando ser capaz de lançar um [url=glossary:edict]Edital[/url] seria considerado louco. E, no entanto, um homem sensato observando o que você acabou de fazer veria o poder do soberano em sua voz."</DefaultText>
+      <DefaultText>"É natural ter duvidado de si mesmo. Os Editais sempre foi a magia de [url=glossary:kyros]Kyros[/url] e [url=glossary:kyros]Kyros[/url] apenas! Alguém alegando ser capaz de lançar um [url=glossary:edict]Edital[/url] seria considerado louco. E, no entanto, um homem sensato observando o que você acabou de fazer veria o poder do soberano em sua voz."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -97,7 +100,7 @@
 
 Seus lábios se abrem em um sorriso afiado e orgulhoso.
 
-"Alfa para matar-in-Shadow é a mais selvagem e astuta caçadora de místicos. Tem a mordida mais mortal."</DefaultText>
+"Alfa para Mortes nas Sombras é a mais selvagem e astuta caçadora de místicos. Tem a mordida mais mortal."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -112,7 +115,7 @@ Seus lábios se abrem em um sorriso afiado e orgulhoso.
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Você não é um mero Vinculador do Destino, disso podemos ter certeza. Você proclamou e quebrou o Éditos do Overlord talvez muitas vezes?"</DefaultText>
+      <DefaultText>"Você não é um mero Vinculador do Destino, disso podemos ter certeza. Você proclamou e quebrou o Éditos do Soberano talvez muitas vezes?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -157,7 +160,7 @@ Seus lábios se abrem em um sorriso afiado e orgulhoso.
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Uma última coisa." Hesitando antes de sair, Calio bate no pergaminho que está segurando na testa com uma zombaria autodepreciativa. "Toda essa conversa sobre você ser a segunda vinda do Overlord e eu quase esqueceu meus deveres."</DefaultText>
+      <DefaultText>"Uma última coisa." Hesitando antes de sair, Calio bate no pergaminho que está segurando na testa com uma zombaria autodepreciativa. "Toda essa conversa sobre você ser a segunda vinda do Soberano e eu quase esqueceu meus deveres."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -192,7 +195,7 @@ Seus lábios se abrem em um sorriso afiado e orgulhoso.
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"Um palpite justo. Eu estava esperando que [url=glossary:tunon]Tunon[/url] me entregasse uma caixa de pergaminho com o selo [url=glossary:kyros]Kyros[/url]'." Ela balança a cabeça com uma risada. "Depois o que você acabou de fazer, eu teria apostado meu último anel que [url=glossary:kyros]Kyros[/url] lançaria um [url=glossary:edict]Edital[/url] muito seletivo contra você... o soberano tem outros planos em mente."</DefaultText>
+      <DefaultText>"Um palpite justo. Eu estava esperando que [url=glossary:tunon]Tunon[/url] me entregasse uma caixa de pergaminho com o selo de [url=glossary:kyros]Kyros[/url]." Ela balança a cabeça com uma risada. "Depois o que você acabou de fazer, eu teria apostado meu último anel que [url=glossary:kyros]Kyros[/url] lançaria um [url=glossary:edict]Edital[/url] muito seletivo contra você... o soberano tem outros planos em mente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -292,19 +295,19 @@ Seus lábios se abrem em um sorriso afiado e orgulhoso.
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Todos menos um," Calio move a mão para frente e você pega um pequeno broche no estilo da insígnia [url=glossary:kyros]Kyros[/url]'.</DefaultText>
+      <DefaultText>"Todos menos um," Calio move a mão para frente e você pega um pequeno broche no estilo da insígnia de [url=glossary:kyros]Kyros[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>"Ah, fica melhor que isso!" Com um sorriso, ela joga um pequeno pedaço de metal em sua direção, e quando está em sua mão você o reconhece como um pequeno broche no estilo de [url=glossary:kyros]Kyros[/url]' insígnia.</DefaultText>
+      <DefaultText>"Ah, fica melhor que isso!" Com um sorriso, ela joga um pequeno pedaço de metal em sua direção, e quando está em sua mão você o reconhece como um pequeno broche no estilo da insígnia de [url=glossary:kyros]Kyros[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url] decretou que você é o mais novo Arconte." Fatebinder Calio arcos com floreios exagerados.
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] decretou que você é o mais novo Arconte." Vinculador do Destino Calio arcos com floreios exagerados.
 
-"Então os outros Arcontes agora têm ordens para controlar ou destruir você , e vice-versa." Seu rosto se transforma em um sorriso radiante. "Viu? É por isso que tento evitar [url=glossary:kyros]Kyros[/url]' atenção."</DefaultText>
+"Então os outros Arcontes agora têm ordens para controlar ou destruir você , e vice-versa." Seu rosto se transforma em um sorriso radiante. "Viu? É por isso que tento evitar a atenção de [url=glossary:kyros]Kyros[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -329,12 +332,12 @@ Seus lábios se abrem em um sorriso afiado e orgulhoso.
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"Se você quiser vadiar nos quartos traseiros, faça isso. Mas duvido que o outro Arcontes ignore esta ordem. Cada Arconte no Camadas recebeu rédea livre para matar os outros - nenhum é protegido por [url=glossary:kyros]Kyros[/url]' Paz. Não é mais crime Ashe ou Nerat matar você... ou o contrário."</DefaultText>
+      <DefaultText>"Se você quiser vadiar nos quartos traseiros, faça isso. Mas duvido que o outro Arcontes ignore esta ordem. Cada Arconte no Camadas recebeu rédea livre para matar os outros - nenhum é protegido por Paz de [url=glossary:kyros]Kyros[/url]. Não é mais crime Cinza ou Nerat matar você... ou o contrário."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>"Correto, não há [url=glossary:edict]Edital[/url] apoiando esta ordem," ela sorri um sorriso cheio de dentes, "tal incentivo dificilmente parece necessário quando a tarefa é sua própria recompensa. O Senhor Supremo apenas rescindiu [url=glossary:kyros]Kyros[/url]' Paz - os Arcontes podem matar e mutilar uns aos outros sem infringir nenhuma lei."</DefaultText>
+      <DefaultText>"Correto, não há [url=glossary:edict]Edital[/url] apoiando esta ordem," ela sorri um sorriso cheio de dentes, "tal incentivo dificilmente parece necessário quando a tarefa é sua própria recompensa. O Senhor Supremo apenas rescindiu Paz de [url=glossary:kyros]Kyros[/url] - os Arcontes podem matar e mutilar uns aos outros sem infringir nenhuma lei."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -356,7 +359,7 @@ Seus lábios se abrem em um sorriso afiado e orgulhoso.
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>"Porque Ashe e Nerat trabalham juntos como água e óleo, então deixar que cada um governe metade do Camadas é um exercício de mau planejamento? Porque não há mais terra para conquistar depois do Camadas e [url=glossary:kyros]Kyros[/url] precisa de menos generais?" Calio dá de ombros com um sorriso corado. "[url=glossary:tunon]Tunon[/url] não está aqui, então não me importo de apontar que [url=glossary:kyros]Kyros[/url] não é exatamente um governante amoroso, e os Arcontes são peões descartáveis , não assuntos amados. A terra foi conquistada, por que não se livrar dos conquistadores?"</DefaultText>
+      <DefaultText>"Porque Cinza e Nerat trabalham juntos como água e óleo, então deixar que cada um governe metade do Camadas é um exercício de mau planejamento? Porque não há mais terra para conquistar depois do Camadas e [url=glossary:kyros]Kyros[/url] precisa de menos generais?" Calio dá de ombros com um sorriso corado. "[url=glossary:tunon]Tunon[/url] não está aqui, então não me importo de apontar que [url=glossary:kyros]Kyros[/url] não é exatamente um governante amoroso, e os Arcontes são peões descartáveis , não assuntos amados. A terra foi conquistada, por que não se livrar dos conquistadores?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -376,12 +379,12 @@ Seus lábios se abrem em um sorriso afiado e orgulhoso.
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"O primeiro passo é decidir que você não vai se curvar a um dos outros Arcontes." Calio oferece um aceno presunçoso. "Desejo-lhe boa sorte em sua próxima luta. Saiba que quando você vier para [url=glossary:bleden mark]Marca de mistura[/url] e [url=glossary:tunon]Tunon[/url], eu e o outro Vinculadores do Destino não vamos interferir."</DefaultText>
+      <DefaultText>"O primeiro passo é decidir que você não vai se curvar a um dos outros Arcontes." Calio oferece um aceno presunçoso. "Desejo-lhe boa sorte em sua próxima luta. Saiba que quando você vier para [url=glossary:bleden mark]Marca de Mistura[/url] e [url=glossary:tunon]Tunon[/url], eu e o outro Vinculadores do Destino não vamos interferir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>[Reputação insuficiente] "Respeito você por não desistir desse desafio, mas me dói que isso só possa levar a sangue no Tribunal." Ela estreita os olhos, examinando você com um olhar severo. "E eu não ajudará na destruição de [url=glossary:tunon]Tunon[/url] ou [url=glossary:bleden mark]Marca de mistura[/url]. Você está sozinho com isso."</DefaultText>
+      <DefaultText>[Reputação insuficiente] "Respeito você por não desistir desse desafio, mas me dói que isso só possa levar a sangue no Tribunal." Ela estreita os olhos, examinando você com um olhar severo. "E eu não ajudará na destruição de [url=glossary:tunon]Tunon[/url] ou [url=glossary:bleden mark]Marca de Mistura[/url]. Você está sozinho com isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -405,7 +408,7 @@ Seus lábios se abrem em um sorriso afiado e orgulhoso.
       <ID>145</ID>
       <DefaultText>"E eu não pedi para ser uma Vinculador do Destino," Calio dá de ombros, apontando para si mesma, "mas eu faço parecer fácil."
 
-"Acho que ninguém pede para ser uma Arconte. Se alguma coisa, aqueles que tentam usar o título sem a bênção [url=glossary:kyros]Kyros[/url]' raramente sobrevivem para serem lembrados."</DefaultText>
+"Acho que ninguém pede para ser uma Arconte. Se alguma coisa, aqueles que tentam usar o título sem a bênção de [url=glossary:kyros]Kyros[/url] raramente sobrevivem para serem lembrados."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -422,7 +425,7 @@ Calio dá de ombros. "Tudo que eu sabe é que o soberano raramente improvisa."</
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>"Tenho uma estreita aliança com [url=glossary:graven ashe]Cinza esculpida[/url]. Esta ordem vai complicar as coisas... para dizer o mínimo."</DefaultText>
+      <DefaultText>"Tenho uma estreita aliança com [url=glossary:graven ashe]Cinza Esculpida[/url]. Esta ordem vai complicar as coisas... para dizer o mínimo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -437,7 +440,7 @@ Calio dá de ombros. "Tudo que eu sabe é que o soberano raramente improvisa."</
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>"Tenha em mente, a ordem é que todos devem se submeter a um Arconte ou morrer. Então você e Ashe não necessariamente terão que brigar, mas... não sei como você vai convencê-lo a se curvar a você."</DefaultText>
+      <DefaultText>"Tenha em mente, a ordem é que todos devem se submeter a um Arconte ou morrer. Então você e Cinza não necessariamente terão que brigar, mas... não sei como você vai convencê-lo a se curvar a você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -452,7 +455,7 @@ Calio dá de ombros. "Tudo que eu sabe é que o soberano raramente improvisa."</
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>"Ah, vamos, [Player Name], não me surpreenda com sua coragem e ousadia, eu posso desmaiar e despencar deste alto poleiro." Ela revira os olhos com um sorriso irônico. "Vamos esperança [url=glossary:bleden mark]Marca de mistura[/url] não está ouvindo." "Olhar, não vou lhe dizer o que fazer, mas contanto que outro Arconte está vivo, você precisará dormir com um olho aberto. Mas ei, talvez a covardia abjeta seja o seu estilo."</DefaultText>
+      <DefaultText>"Ah, vamos, [Player Name], não me surpreenda com sua coragem e ousadia, eu posso desmaiar e despencar deste alto poleiro." Ela revira os olhos com um sorriso irônico. "Vamos esperança [url=glossary:bleden mark]Marca de Mistura[/url] não está ouvindo." "Olhar, não vou lhe dizer o que fazer, mas contanto que outro Arconte está vivo, você precisará dormir com um olho aberto. Mas ei, talvez a covardia abjeta seja o seu estilo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -472,7 +475,7 @@ Calio dá de ombros. "Tudo que eu sabe é que o soberano raramente improvisa."</
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>"Vamos deixar uma coisa clara: não quero participar deste pequeno concurso. Fatebinder - desculpe, Arconte, eu me curvo a você. O resto de vocês, loucos, podem lutar pelo direito de governar este buraco montanhoso."</DefaultText>
+      <DefaultText>"Vamos deixar uma coisa clara: não quero participar deste pequeno concurso. Vinculador do Destino - desculpe, Arconte, eu me curvo a você. O resto de vocês, loucos, podem lutar pelo direito de governar este buraco montanhoso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -517,12 +520,12 @@ Calio dá de ombros. "Tudo que eu sabe é que o soberano raramente improvisa."</
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>"E o Tribunal? Você já ouviu o que [url=glossary:tunon]Tunon[/url] e [url=glossary:bleden mark]Marca de mistura[/url] acham disso?"</DefaultText>
+      <DefaultText>"E o Tribunal? Você já ouviu o que [url=glossary:tunon]Tunon[/url] e [url=glossary:bleden mark]Marca de Mistura[/url] acham disso?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>"Como de costume, [url=glossary:tunon]Tunon[/url] tem o alcance emocional de pedra-pomes, mas [url=glossary:bleden mark]Marca de mistura[/url] parecia quase tonto - acho que a velha sombra já está colocando nomes em suas adagas. Eu queria saber se [url=glossary:bleden mark]Marca de mistura[/url] ouviria esta ordem e prontamente esfaquearia [url=glossary:tunon]Tunon[/url]... mas não, parece que o Arconte das Sombras está feliz em servir [url=glossary:tunon]Tunon[/url]. Faz sentido, eu nunca soube que a velha sombra ansiava por esse tipo de poder."</DefaultText>
+      <DefaultText>"Como de costume, [url=glossary:tunon]Tunon[/url] tem o alcance emocional de pedra-pomes, mas [url=glossary:bleden mark]Marca de Mistura[/url] parecia quase tonto - acho que a velha sombra já está colocando nomes em suas adagas. Eu queria saber se [url=glossary:bleden mark]Marca de Mistura[/url] ouviria esta ordem e prontamente esfaquearia [url=glossary:tunon]Tunon[/url]... mas não, parece que o Arconte das Sombras está feliz em servir [url=glossary:tunon]Tunon[/url]. Faz sentido, eu nunca soube que a velha sombra ansiava por esse tipo de poder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -537,12 +540,12 @@ Calio dá de ombros. "Tudo que eu sabe é que o soberano raramente improvisa."</
     </Entry>
     <Entry>
       <ID>175</ID>
-      <DefaultText>"Tenho algo em mente para [url=glossary:the voices of nerat]o Vozes de Nerat[/url]. Vou emitir um [url=glossary:edict]Edital[/url] na Cacophony no [url=glossary:stone sea]Mar de Pedra[/url]."</DefaultText>
+      <DefaultText>"Tenho algo em mente para [url=glossary:the voices of nerat]As Vozes de Nerat[/url]. Vou emitir um [url=glossary:edict]Edital[/url] na Cacophony no [url=glossary:stone sea]Mar de Pedra[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>"Acho que [url=glossary:graven ashe]Cinza esculpida[/url] e sua legião pode desfrutar de um [url=glossary:edict]Edital[/url] em sua fortaleza de Iron Hearth no [url=glossary:blade grave]Sepultura de Lâminas[/url]."</DefaultText>
+      <DefaultText>"Acho que [url=glossary:graven ashe]Cinza Esculpida[/url] e sua legião pode desfrutar de um [url=glossary:edict]Edital[/url] em sua fortaleza de Iron Hearth no [url=glossary:blade grave]Sepultura de Lâminas[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -652,7 +655,7 @@ Calio dá de ombros. "Tudo que eu sabe é que o soberano raramente improvisa."</
     </Entry>
     <Entry>
       <ID>198</ID>
-      <DefaultText>[Faça uma proclamação contra Refúgio e o acordo de [url=glossary:lethian's crossing]A travessia de Lethian[/url].]</DefaultText>
+      <DefaultText>[Faça uma proclamação contra Refúgio e o acordo de [url=glossary:lethian's crossing]A Travessia de Lethian[/url].]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -722,7 +725,7 @@ Calio dá de ombros. "Tudo que eu sabe é que o soberano raramente improvisa."</
     </Entry>
     <Entry>
       <ID>212</ID>
-      <DefaultText>Ela limpa a garganta, sua voz ficando sombria. "Você euEu tenho que lidar com eles também... e temo muito como isso vai acabar. Imagino que [url=glossary:tunon]Tunon[/url] seja leal demais para se curvar a você, e [url=glossary:bleden mark]Marca de mistura[/url] orgulhoso demais para aceitá-lo como seu melhor." Ela acena silenciosamente por um longo momento. "Não há como isso terminar bem para alguns de nós."</DefaultText>
+      <DefaultText>Ela limpa a garganta, sua voz ficando sombria. "Você euEu tenho que lidar com eles também... e temo muito como isso vai acabar. Imagino que [url=glossary:tunon]Tunon[/url] seja leal demais para se curvar a você, e [url=glossary:bleden mark]Marca de Mistura[/url] orgulhoso demais para aceitá-lo como seu melhor." Ela acena silenciosamente por um longo momento. "Não há como isso terminar bem para alguns de nós."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -779,12 +782,12 @@ Calio dá de ombros. "Tudo que eu sabe é que o soberano raramente improvisa."</
     </Entry>
     <Entry>
       <ID>224</ID>
-      <DefaultText>"O Pináculo mais a leste dos Tiers é o Pináculo do Amanhecer, no [url=glossary:stone sea]Mar de Pedra[/url]. Aposto que o link que você tem com este Pináculo funcionará lá... não custa tentar, não é?"</DefaultText>
+      <DefaultText>"O Pináculo mais a leste dos Camadas é o Pináculo do Amanhecer, no [url=glossary:stone sea]Mar de Pedra[/url]. Aposto que o link que você tem com este Pináculo funcionará lá... não custa tentar, não é?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>"Metade do motivo [url=glossary:lethian's crossing]A travessia de Lethian[/url] foi escolhido para a [url=glossary:forge-bound]Forge-Bound[/url] fundição foi por causa do assentamento remanescente na sombra mágica de Pináculo do Pôr do Sol . A notícia teria se espalhado pelo Tribunal se fosse reivindicado... se alguém vai aproveitá-lo, por que não você?"</DefaultText>
+      <DefaultText>"Metade do motivo [url=glossary:lethian's crossing]A Travessia de Lethian[/url] foi escolhido para a [url=glossary:forge-bound]Vinculado à Forja[/url] fundição foi por causa do assentamento remanescente na sombra mágica de Pináculo do Pôr do Sol . A notícia teria se espalhado pelo Tribunal se fosse reivindicado... se alguém vai aproveitá-lo, por que não você?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

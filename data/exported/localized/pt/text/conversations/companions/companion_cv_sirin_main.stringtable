@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Fatebinder! É sempre um prazer falar com você!"
+      <DefaultText>"Vinculador do Destino! É sempre um prazer falar com você!"
 
 O rosto de Sirin se ilumina quando ela fala. Ela pega uma de suas mãos na dela e a aperta carinhosamente.</DefaultText>
       <FemaleText />
@@ -20,7 +20,7 @@ O rosto de Sirin mostra uma mistura de confusão e esperança.</DefaultText>
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Venha me atormentar ainda mais, Fatebinder?"
+      <DefaultText>"Venha me atormentar ainda mais, Vinculador do Destino?"
 
 Sirin suspira baixinho, observando você tristemente enquanto você se aproxima.</DefaultText>
       <FemaleText />
@@ -110,7 +110,7 @@ Sirin sorri e cora com suas palavras.</DefaultText>
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Conte-me sobre seu tempo com [url=glossary:the voices of nerat]o Vozes de Nerat[/url]."</DefaultText>
+      <DefaultText>"Conte-me sobre seu tempo com [url=glossary:the voices of nerat]As Vozes de Nerat[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -162,7 +162,7 @@ Ela ri baixinho, então balança a cabeça tristemente, baixando os olhos.</Defa
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"O que você acha de [url=glossary:graven ashe]Cinza esculpida[/url]?"</DefaultText>
+      <DefaultText>"O que você acha de [url=glossary:graven ashe]Cinza Esculpida[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -232,7 +232,7 @@ Ela ri baixinho, então balança a cabeça tristemente, baixando os olhos.</Defa
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Brevemente, em algumas das batalhas durante a conquista [url=glossary:kyros]Kyros[/url]'. Mas Nerat gostava de me manter trancado, então eu nunca dei uma boa olhada neles lutando."</DefaultText>
+      <DefaultText>"Brevemente, em algumas das batalhas durante a conquista de [url=glossary:kyros]Kyros[/url]. Mas Nerat gostava de me manter trancado, então eu nunca dei uma boa olhada neles lutando."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -242,7 +242,7 @@ Ela ri baixinho, então balança a cabeça tristemente, baixando os olhos.</Defa
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"O que há para dizer? [url=glossary:kyros]Kyros[/url]' dois grandes líderes não podem impedir a si mesmos ou seus exércitos de lutar como um bando de crianças."</DefaultText>
+      <DefaultText>"O que há para dizer? dois grandes líderes de [url=glossary:kyros]Kyros[/url] não podem impedir a si mesmos ou seus exércitos de lutar como um bando de crianças."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -374,7 +374,7 @@ Ela dá de ombros.</DefaultText>
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Fale-me sobre Mortes-in-Shadow."</DefaultText>
+      <DefaultText>"Fale-me sobre Mortes nas Sombras."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -439,7 +439,7 @@ Ela dá de ombros.</DefaultText>
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"Fale-me sobre o [url=glossary:unbroken]ininterrupto[/url]."</DefaultText>
+      <DefaultText>"Fale-me sobre o [url=glossary:unbroken]Inquebrável[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -459,7 +459,7 @@ Ela dá de ombros.</DefaultText>
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Fale-me sobre o Tremedores de terra."</DefaultText>
+      <DefaultText>"Fale-me sobre o Tremedores de Terra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -469,12 +469,12 @@ Ela dá de ombros.</DefaultText>
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"Eu não tive muita exposição a eles. Ashe estava decidida a lidar com esse problema, então eles não pediram minha ajuda."</DefaultText>
+      <DefaultText>"Eu não tive muita exposição a eles. Cinza estava decidida a lidar com esse problema, então eles não pediram minha ajuda."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>"Eles não são as pessoas mais úteis, mas parecem querer o melhor para [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Mais, foi muito mais fácil para mim recrutar meus próprios seguidores com eles por perto. Eu não precisava me preocupar com ninguém sendo levado pelo [url=glossary:scarlet chorus]Coro Escarlate[/url] ou morto pelo [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <DefaultText>"Eles não são as pessoas mais úteis, mas parecem querer o melhor para [url=glossary:lethian's crossing]A Travessia de Lethian[/url]. Mais, foi muito mais fácil para mim recrutar meus próprios seguidores com eles por perto. Eu não precisava me preocupar com ninguém sendo levado pelo [url=glossary:scarlet chorus]Coro Escarlate[/url] ou morto pelo [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -607,7 +607,7 @@ Seu rosto assume um comportamento zombeteiro enquanto ela fala e com suas palavr
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>"Você já me esqueceu, Fatebinder? Você se lembra? [url=lore:lc_sirin_followers]Você deixou a Desfavorecido matar meus seguidores[/url] - o bando de Sirin, a Arconte da Canção." A voz dela pinga com um ácido que você sente no fundo da sua mente. Seus olhos endurecem.
+      <DefaultText>"Você já me esqueceu, Vinculador do Destino? Você se lembra? [url=lore:lc_sirin_followers]Você deixou a Desfavorecido matar meus seguidores[/url] - o bando de Sirin, a Arconte da Canção." A voz dela pinga com um ácido que você sente no fundo da sua mente. Seus olhos endurecem.
 
 Ela dá um passo à frente, a multidão se separando diante dela. Eles se voltam e olham para você em confronto, alguns deles se interpondo entre você e a garota. Ela olha para eles revira os olhos. Quando ela o faz, a dor ardente em sua cabeça cessa.</DefaultText>
       <FemaleText />
@@ -631,7 +631,7 @@ Ela dá um passo à frente, a multidão se separando diante dela. Eles se voltam
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>"Você se lembra de mim, Fatebinder? Agora, não me decepcione. [url=lore:lc_sirin_followers]Você usou meu rebanho como palha para o Coro Escarlate.[/url] Você levou meu povo - os seguidores de Sirin, o Arconte da Canção." A brisa suave de suas palavras ganha força enquanto seus olhos endurecem sempre tão ligeiramente.
+      <DefaultText>"Você se lembra de mim, Vinculador do Destino? Agora, não me decepcione. [url=lore:lc_sirin_followers]Você usou meu rebanho como palha para o Coro Escarlate.[/url] Você levou meu povo - os seguidores de Sirin, o Arconte da Canção." A brisa suave de suas palavras ganha força enquanto seus olhos endurecem sempre tão ligeiramente.
 
 Ela dá um passo à frente, a multidão se separando diante dela. Eles se voltam e olham para você em confronto, alguns deles se interpondo entre você e a garota. Ela olha para eles revira os olhos. Quando ela o faz, o som da tempestade que se aproxima desaparece.</DefaultText>
       <FemaleText />
@@ -655,7 +655,7 @@ A voz dela tira você da guarda. É nua de qualquer inflexão, e ainda assim che
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>"Eu diria que é chato, mas você não acha meio lisonjeiro ter todo mundo me querendo tão desesperadamente? [url=glossary:kyros]Kyros[/url], [url=glossary:the voices of nerat]the Vozes de Nerat[/url], [url=glossary:tunon]Tunon[/url]...Você?" Ela pisca.</DefaultText>
+      <DefaultText>"Eu diria que é chato, mas você não acha meio lisonjeiro ter todo mundo me querendo tão desesperadamente? [url=glossary:kyros]Kyros[/url], [url=glossary:the voices of nerat]As Vozes de Nerat[/url], [url=glossary:tunon]Tunon[/url]...Você?" Ela pisca.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -756,7 +756,7 @@ Há uma pausa em sua conversa e ela abre os olhos.</DefaultText>
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText>"Nós vamos, veja quem está aqui - e o que o traz a [url=glossary:lethian's crossing]A travessia de Lethian[/url]? Eu não posso imaginar que é a paisagem ou os moradores pitorescos. Você veio para estragar minha diversão?" Ela franze a testa um pouco, momentaneamente perdida em pensamentos.</DefaultText>
+      <DefaultText>"Nós vamos, veja quem está aqui - e o que o traz a [url=glossary:lethian's crossing]A Travessia de Lethian[/url]? Eu não posso imaginar que é a paisagem ou os moradores pitorescos. Você veio para estragar minha diversão?" Ela franze a testa um pouco, momentaneamente perdida em pensamentos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -878,7 +878,7 @@ Sirin olha para o horizonte com a voz embargada.</DefaultText>
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>"Cinco anos. Dois anos de treinamento dedicado, dois anos com treinamento intercalado com viagens, realizando milagres em [url=glossary:kyros]Kyros[/url]' nome, depois um ano sendo seu animal de estimação."</DefaultText>
+      <DefaultText>"Cinco anos. Dois anos de treinamento dedicado, dois anos com treinamento intercalado com viagens, realizando milagres em nome de [url=glossary:kyros]Kyros[/url], depois um ano sendo seu animal de estimação."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -985,7 +985,7 @@ Sirin olha para o horizonte com a voz embargada.</DefaultText>
     </Entry>
     <Entry>
       <ID>237</ID>
-      <DefaultText>"Fale-me sobre o [url=glossary:forge-bound]Forge-Bound[/url]."</DefaultText>
+      <DefaultText>"Fale-me sobre o [url=glossary:forge-bound]Vinculado à Forja[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1042,7 +1042,7 @@ Sirin olha para o horizonte com a voz embargada.</DefaultText>
     </Entry>
     <Entry>
       <ID>250</ID>
-      <DefaultText>"Depois que meu pai me traiu e matou minha mãe, fui levado por [url=glossary:kyros]Kyros[/url]' homens. Sinceramente, não sei para onde fomos, exceto que pareceu levar uma eternidade para chegar lá."</DefaultText>
+      <DefaultText>"Depois que meu pai me traiu e matou minha mãe, fui levado por homens de [url=glossary:kyros]Kyros[/url]. Sinceramente, não sei para onde fomos, exceto que pareceu levar uma eternidade para chegar lá."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1167,7 +1167,7 @@ Sirin olha para o horizonte com a voz embargada.</DefaultText>
     </Entry>
     <Entry>
       <ID>290</ID>
-      <DefaultText>"Eu fui sua posse por três anos, preso fazendo o que queria até você aparecer e começar a mexer com os planos [url=glossary:kyros]Kyros[/url]'."</DefaultText>
+      <DefaultText>"Eu fui sua posse por três anos, preso fazendo o que queria até você aparecer e começar a mexer com os planos de [url=glossary:kyros]Kyros[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1214,7 +1214,7 @@ Sirin olha para o horizonte com a voz embargada.</DefaultText>
     </Entry>
     <Entry>
       <ID>301</ID>
-      <DefaultText>"Estou sendo claro o suficiente para você, Fatebinder?"</DefaultText>
+      <DefaultText>"Estou sendo claro o suficiente para você, Vinculador do Destino?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1281,12 +1281,12 @@ Sirin olha para o horizonte com a voz embargada.</DefaultText>
     </Entry>
     <Entry>
       <ID>316</ID>
-      <DefaultText>"Nerat e [url=glossary:kyros]Kyros[/url] são os únicos que sabem como remover isso sem me matar. A resposta está trancada em algum lugar em de Nerat cabeças insanas e [url=glossary:kyros]Kyros[/url]' atualmente não convenientemente localizadas."</DefaultText>
+      <DefaultText>"Nerat e [url=glossary:kyros]Kyros[/url] são os únicos que sabem como remover isso sem me matar. A resposta está trancada em algum lugar em de Nerat cabeças insanas e [url=glossary:kyros]Kyros[/url] atualmente não convenientemente localizadas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>318</ID>
-      <DefaultText>"Fatebinder - você gostaria de falar novamente? Estou um pouco ocupado com meus seguidores..." Sirin está diante da multidão em transe, cantarolando levemente e balançando de um lado para o outro.</DefaultText>
+      <DefaultText>"Vinculador do Destino - você gostaria de falar novamente? Estou um pouco ocupado com meus seguidores..." Sirin está diante da multidão em transe, cantarolando levemente e balançando de um lado para o outro.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1405,7 +1405,7 @@ Com a última palavra, Sirin bate um de seus pés no chão. Um 'pop' silencioso 
     </Entry>
     <Entry>
       <ID>344</ID>
-      <DefaultText>"Fatebinder! Acho que você recebeu minha missiva. Receber! Verdade seja dita, eu não tinha certeza se você realmente viria me ver."</DefaultText>
+      <DefaultText>"Vinculador do Destino! Acho que você recebeu minha missiva. Receber! Verdade seja dita, eu não tinha certeza se você realmente viria me ver."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1440,7 +1440,7 @@ Com a última palavra, Sirin bate um de seus pés no chão. Um 'pop' silencioso 
     </Entry>
     <Entry>
       <ID>355</ID>
-      <DefaultText>"Tecnicamente, quando fui levado, não havia mais família para ser tirada. Mas as forças [url=glossary:kyros]Kyros[/url]' ficaram sabendo dos meus talentos e decidiram que eu era melhor usado para dominar o mundo do que ajudar os agricultores locais."</DefaultText>
+      <DefaultText>"Tecnicamente, quando fui levado, não havia mais família para ser tirada. Mas as forças de [url=glossary:kyros]Kyros[/url] ficaram sabendo dos meus talentos e decidiram que eu era melhor usado para dominar o mundo do que ajudar os agricultores locais."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1450,7 +1450,7 @@ Com a última palavra, Sirin bate um de seus pés no chão. Um 'pop' silencioso 
     </Entry>
     <Entry>
       <ID>357</ID>
-      <DefaultText>"O que você acha? Eles sãoe morto. Meu pai pode não se importar comigo - conosco - mas minha mãe nunca deixaria ninguém me levar enquanto ela vivesse. Sem ninguém para me proteger, fui levado para o tribunal [url=glossary:kyros]Kyros[/url]'."</DefaultText>
+      <DefaultText>"O que você acha? Eles sãoe morto. Meu pai pode não se importar comigo - conosco - mas minha mãe nunca deixaria ninguém me levar enquanto ela vivesse. Sem ninguém para me proteger, fui levado para o tribunal de [url=glossary:kyros]Kyros[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1540,7 +1540,7 @@ Com a última palavra, Sirin bate um de seus pés no chão. Um 'pop' silencioso 
     </Entry>
     <Entry>
       <ID>376</ID>
-      <DefaultText>"Insensível até o fim, não é, Fatebinder? Eu abro meu coração para você e você aplica sal liberalmente. Sua preocupação foi registrada."</DefaultText>
+      <DefaultText>"Insensível até o fim, não é, Vinculador do Destino? Eu abro meu coração para você e você aplica sal liberalmente. Sua preocupação foi registrada."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1667,7 +1667,7 @@ Com a última palavra, Sirin bate um de seus pés no chão. Um 'pop' silencioso 
     </Entry>
     <Entry>
       <ID>403</ID>
-      <DefaultText>"Claro que sim! Mas eu vi como o mundo funciona - especialmente [url=glossary:kyros]Kyros[/url]' mundo. As pessoas não vivem muito e quando são eliminadas, é violento e repentino. Achei que estava morto de qualquer maneira, então por que não tentar livrar o mundo de uma ameaça horrível?"</DefaultText>
+      <DefaultText>"Claro que sim! Mas eu vi como o mundo funciona - especialmente mundo de [url=glossary:kyros]Kyros[/url]. As pessoas não vivem muito e quando são eliminadas, é violento e repentino. Achei que estava morto de qualquer maneira, então por que não tentar livrar o mundo de uma ameaça horrível?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1739,7 +1739,7 @@ Com a última palavra, Sirin bate um de seus pés no chão. Um 'pop' silencioso 
     </Entry>
     <Entry>
       <ID>418</ID>
-      <DefaultText>"Você tem dificuldade em lidar com a rejeição, não é, Fatebinder? Pare de me perguntar, eu não vou te dizer."</DefaultText>
+      <DefaultText>"Você tem dificuldade em lidar com a rejeição, não é, Vinculador do Destino? Pare de me perguntar, eu não vou te dizer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1751,7 +1751,7 @@ Com a última palavra, Sirin bate um de seus pés no chão. Um 'pop' silencioso 
     </Entry>
     <Entry>
       <ID>420</ID>
-      <DefaultText>"Você já tentou ser legal, Fatebinder? Ocorreu a você que eu poderia estar mais inclinado a compartilhar com você abertamente se você não fosse uma pessoa tão horrível?"</DefaultText>
+      <DefaultText>"Você já tentou ser legal, Vinculador do Destino? Ocorreu a você que eu poderia estar mais inclinado a compartilhar com você abertamente se você não fosse uma pessoa tão horrível?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1923,7 +1923,7 @@ Com a última palavra, Sirin bate um de seus pés no chão. Um 'pop' silencioso 
     </Entry>
     <Entry>
       <ID>460</ID>
-      <DefaultText>"E só porque você decidiu se juntar a eles não muda minha opinião sobre eles. Eles podem ter resistido às forças [url=glossary:kyros]Kyros[/url]', mas acho que qualquer um poderia fazer isso em uma antiga fortaleza com paredes quase impenetráveis."</DefaultText>
+      <DefaultText>"E só porque você decidiu se juntar a eles não muda minha opinião sobre eles. Eles podem ter resistido às forças de [url=glossary:kyros]Kyros[/url], mas acho que qualquer um poderia fazer isso em uma antiga fortaleza com paredes quase impenetráveis."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1940,7 +1940,7 @@ Ela se agacha no chão e abaixa a cabeça.</DefaultText>
     </Entry>
     <Entry>
       <ID>463</ID>
-      <DefaultText>"Kills-in-Shadow perdoa passarinho canoro. Ainda gosta de tagarelar Arconte."
+      <DefaultText>"Mortes nas Sombras perdoa passarinho canoro. Ainda gosta de tagarelar Arconte."
 
 Ela passa a língua sobre as presas, observando Sirin com a intensidade de um gato olhando um pássaro.</DefaultText>
       <FemaleText />
@@ -2027,7 +2027,7 @@ Ela passa a língua sobre as presas, observando Sirin com a intensidade de um ga
     </Entry>
     <Entry>
       <ID>480</ID>
-      <DefaultText>"Fatebinder! Estou chocado com você - mentindo para Eb assim! Embora seja meio difícil dizer sob toda essa armadura, não é?"</DefaultText>
+      <DefaultText>"Vinculador do Destino! Estou chocado com você - mentindo para Eb assim! Embora seja meio difícil dizer sob toda essa armadura, não é?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2037,7 +2037,7 @@ Ela passa a língua sobre as presas, observando Sirin com a intensidade de um ga
     </Entry>
     <Entry>
       <ID>617</ID>
-      <DefaultText>"Você se lembra de mim, Fatebinder? Agora, não me decepcione. Trabalhamos juntos no [url=glossary:vellum citadel]Cidadela de Velino[/url]. [url=lore:bl_sirin_song]Você usou minha voz para subjugar aqueles travessos Sábios que tentaram escapar.[/url]" A brisa suave de suas palavras ganha força enquanto ela fala.
+      <DefaultText>"Você se lembra de mim, Vinculador do Destino? Agora, não me decepcione. Trabalhamos juntos no [url=glossary:vellum citadel]Cidadela de Velino[/url]. [url=lore:bl_sirin_song]Você usou minha voz para subjugar aqueles travessos Sábios que tentaram escapar.[/url]" A brisa suave de suas palavras ganha força enquanto ela fala.
 
 Ela dá um passo à frente, a multidão se separando diante dela. Eles se voltam e olham para você em confronto, alguns deles se interpondo entre você e a garota. Ela olha para eles revira os olhos. Quando ela o faz, o som da tempestade que se aproxima desaparece.</DefaultText>
       <FemaleText />
@@ -2049,7 +2049,7 @@ Ela dá um passo à frente, a multidão se separando diante dela. Eles se voltam
     </Entry>
     <Entry>
       <ID>619</ID>
-      <DefaultText>"Ah, bem... A vida no emprego [url=glossary:kyros]Kyros[/url]' é perigosa. Pelo menos, é para a maioria das pessoas. Sou bem capaz de cuidar de mim mesma."</DefaultText>
+      <DefaultText>"Ah, bem... A vida no emprego de [url=glossary:kyros]Kyros[/url] é perigosa. Pelo menos, é para a maioria das pessoas. Sou bem capaz de cuidar de mim mesma."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2059,7 +2059,7 @@ Ela dá um passo à frente, a multidão se separando diante dela. Eles se voltam
     </Entry>
     <Entry>
       <ID>621</ID>
-      <DefaultText>"Ah, bem... A vida no emprego [url=glossary:kyros]Kyros[/url]' é perigosa. Pelo menos, é para a maioria das pessoas. Sou bem capaz de cuidar de mim mesma."</DefaultText>
+      <DefaultText>"Ah, bem... A vida no emprego de [url=glossary:kyros]Kyros[/url] é perigosa. Pelo menos, é para a maioria das pessoas. Sou bem capaz de cuidar de mim mesma."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2079,7 +2079,7 @@ Ela dá um passo à frente, a multidão se separando diante dela. Eles se voltam
     </Entry>
     <Entry>
       <ID>625</ID>
-      <DefaultText>"Ah, bem... A vida no emprego [url=glossary:kyros]Kyros[/url]' é perigosa. Pelo menos, é para a maioria das pessoas. Sou bem capaz de cuidar de mim mesma."</DefaultText>
+      <DefaultText>"Ah, bem... A vida no emprego de [url=glossary:kyros]Kyros[/url] é perigosa. Pelo menos, é para a maioria das pessoas. Sou bem capaz de cuidar de mim mesma."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2089,7 +2089,7 @@ Ela dá um passo à frente, a multidão se separando diante dela. Eles se voltam
     </Entry>
     <Entry>
       <ID>627</ID>
-      <DefaultText>"Quando eu soube que ele havia sido encontrado, eu o chamei para o [url=glossary:kyros]Kyros[/url]' tribunal. Eu queria ver o homem que me condenou à vida que eu estava levando."</DefaultText>
+      <DefaultText>"Quando eu soube que ele havia sido encontrado, eu o chamei para o tribunal de [url=glossary:kyros]Kyros[/url]. Eu queria ver o homem que me condenou à vida que eu estava levando."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2149,7 +2149,7 @@ Ela dá um passo à frente, a multidão se separando diante dela. Eles se voltam
     </Entry>
     <Entry>
       <ID>639</ID>
-      <DefaultText>"Eu era o Pássaro Canoro! Eu não fiz nada além de espalhar a vontade [url=glossary:kyros]Kyros[/url]' e reunir os exércitos. Você executaria sua melhor e mais amada ferramenta de recrutamento?"</DefaultText>
+      <DefaultText>"Eu era o Pássaro Canoro! Eu não fiz nada além de espalhar a vontade [url=glossary:kyros]Kyros[/url] e reunir os exércitos. Você executaria sua melhor e mais amada ferramenta de recrutamento?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2174,7 +2174,7 @@ Ela dá um passo à frente, a multidão se separando diante dela. Eles se voltam
     </Entry>
     <Entry>
       <ID>644</ID>
-      <DefaultText>"Oh, eles tiveram prazer nisso. Entre as aulas eles me davam tarefas, me repreendiam, me batiam. Eu era seu escravo. A única razão pela qual eu vivia era por [url=glossary:kyros]Kyros[/url]' capricho, mas fui torturado por todos os outros."</DefaultText>
+      <DefaultText>"Oh, eles tiveram prazer nisso. Entre as aulas eles me davam tarefas, me repreendiam, me batiam. Eu era seu escravo. A única razão pela qual eu vivia era por capricho de [url=glossary:kyros]Kyros[/url], mas fui torturado por todos os outros."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2233,7 +2233,7 @@ Sua voz falha novamente e ela fecha os olhos.</DefaultText>
     </Entry>
     <Entry>
       <ID>655</ID>
-      <DefaultText>"Nerat deixou escapar que meu pai me vendeu para [url=glossary:kyros]Kyros[/url] e foi o responsável pela morte de minha mãe. Alguém tinha que incitar a multidão. E alguém teve que dizer aos homens [url=glossary:kyros]Kyros[/url]' onde eu estava..."
+      <DefaultText>"Nerat deixou escapar que meu pai me vendeu para [url=glossary:kyros]Kyros[/url] e foi o responsável pela morte de minha mãe. Alguém tinha que incitar a multidão. E alguém teve que dizer aos homens de [url=glossary:kyros]Kyros[/url] onde eu estava..."
 
 "Não que isso importe. Ele está morto e estou melhor sem ele."</DefaultText>
       <FemaleText />
@@ -2250,7 +2250,7 @@ Sua voz falha novamente e ela fecha os olhos.</DefaultText>
     </Entry>
     <Entry>
       <ID>658</ID>
-      <DefaultText>"Tudo foi feito para a [url=glossary:kyros]Kyros[/url]' edificação. Eles pediram sinais de seu poder, e eu estava acostumado a trazê-los. As pessoas elogiavam meu nome - na medida em que era permitido. Mas se o foco da adoração realmente apontava para mim, foi rapidamente sufocado."</DefaultText>
+      <DefaultText>"Tudo foi feito para a edificação de [url=glossary:kyros]Kyros[/url]. Eles pediram sinais de seu poder, e eu estava acostumado a trazê-los. As pessoas elogiavam meu nome - na medida em que era permitido. Mas se o foco da adoração realmente apontava para mim, foi rapidamente sufocado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2307,14 +2307,14 @@ Sua voz falha novamente e ela fecha os olhos.</DefaultText>
     </Entry>
     <Entry>
       <ID>670</ID>
-      <DefaultText>"Você se lembra de mim, Fatebinder? Agora, não me decepcione. [url=lore:right_command]Eu estava me divertindo um pouco com o Coro Escarlate e você decidiu se envolver.[/url]" A brisa suave de suas palavras ganha força enquanto ela fala.
+      <DefaultText>"Você se lembra de mim, Vinculador do Destino? Agora, não me decepcione. [url=lore:right_command]Eu estava me divertindo um pouco com o Coro Escarlate e você decidiu se envolver.[/url]" A brisa suave de suas palavras ganha força enquanto ela fala.
 
 Ela dá um passo à frente, a multidão se separando diante dela . Eles se voltam e olham para você em confronto, alguns deles se interpondo entre você e a garota. Ela olha para eles revira os olhos. Quando ela o faz, o som da tempestade que se aproxima desaparece.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>671</ID>
-      <DefaultText>"A que devo essa incrível 'honra', Fatebinder? [url=glossary:tunon]Tunon[/url] está fazendo outra de suas birras? Ameaçador todos se não me encontrarem?"</DefaultText>
+      <DefaultText>"A que devo essa incrível 'honra', Vinculador do Destino? [url=glossary:tunon]Tunon[/url] está fazendo outra de suas birras? Ameaçador todos se não me encontrarem?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2351,7 +2351,7 @@ Ela dá um passo à frente, a multidão se separando diante dela . Eles se volta
     </Entry>
     <Entry>
       <ID>678</ID>
-      <DefaultText>"Como se estivesse obedecendo [url=glossary:kyros]Kyros[/url]' ordens? Não tente fingir ser um modelo virtuoso, Vinculador do Destino, porque essa história não vai vender aqui. Eu fiz o que você me pediu. E, não, eu não gostei."</DefaultText>
+      <DefaultText>"Como se estivesse obedecendo ordens de [url=glossary:kyros]Kyros[/url]? Não tente fingir ser um modelo virtuoso, Vinculador do Destino, porque essa história não vai vender aqui. Eu fiz o que você me pediu. E, não, eu não gostei."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2472,7 +2472,7 @@ Sua voz falha novamente e ela fecha os olhos.</DefaultText>
     </Entry>
     <Entry>
       <ID>701</ID>
-      <DefaultText>"Você está satisfeito, Fatebinder? A história foi tudo o que você esperava? Eu tenho explicou suficientemente 'De novo não' para você?" Ela passa a mão nos olhos, fungando.</DefaultText>
+      <DefaultText>"Você está satisfeito, Vinculador do Destino? A história foi tudo o que você esperava? Eu tenho explicou suficientemente 'De novo não' para você?" Ela passa a mão nos olhos, fungando.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2537,7 +2537,7 @@ Sua voz falha novamente e ela fecha os olhos.</DefaultText>
     </Entry>
     <Entry>
       <ID>714</ID>
-      <DefaultText>"Certamente, Fatebinder! Não me lembro de quanto do meu treinamento vou lembrar, mas tenho certeza de que poderia ajudá-lo."</DefaultText>
+      <DefaultText>"Certamente, Vinculador do Destino! Não me lembro de quanto do meu treinamento vou lembrar, mas tenho certeza de que poderia ajudá-lo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

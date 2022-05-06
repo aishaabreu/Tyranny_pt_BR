@@ -6,14 +6,14 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Então, aqui está o Vinculador do Destino." O homem fareja e cruza os braços, flexionando seus enormes bíceps. "Não precisamos de ninguém metendo o nariz em coisas que não lhe dizem respeito. Este é o Tier Smasher cidade e eu cuidarei disso."
+      <DefaultText>"Então, aqui está o Vinculador do Destino." O homem fareja e cruza os braços, flexionando seus enormes bíceps. "Não precisamos de ninguém metendo o nariz em coisas que não lhe dizem respeito. Este é o Esmagador de Camadas cidade e eu cuidarei disso."
 
 "Tenho cotas a cumprir. Seja o que você quiser, faça rápido."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Qual é o seu status aqui em [url=glossary:lethian's crossing]A travessia de Lethian[/url]?"</DefaultText>
+      <DefaultText>"Qual é o seu status aqui em [url=glossary:lethian's crossing]A Travessia de Lethian[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -35,7 +35,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"E o que é pior, eles estão agachados no Oldwalls!" Ele cospe um chumaço de catarro no chão. "Pelo menos o [url=glossary:disfavored]Desfavorecido[/url] teve a coragem de nos enfrentar em uma batalha aberta!"</DefaultText>
+      <DefaultText>"E o que é pior, eles estão agachados no Muralhas Antigas!" Ele cospe um chumaço de catarro no chão. "Pelo menos o [url=glossary:disfavored]Desfavorecido[/url] teve a coragem de nos enfrentar em uma batalha aberta!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -50,7 +50,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Está fora de [url=glossary:lethian's crossing]A travessia de Lethian[/url]. É selvagem, mas perto das estradas - perfeito para uma emboscada. Os [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] cavaram seus calcanhares anos atrás, e nem mesmo os Refrão foram capazes de libertá-los."</DefaultText>
+      <DefaultText>"Está fora de [url=glossary:lethian's crossing]A Travessia de Lethian[/url]. É selvagem, mas perto das estradas - perfeito para uma emboscada. Os [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] cavaram seus calcanhares anos atrás, e nem mesmo os Refrão foram capazes de libertá-los."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -65,12 +65,12 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Vou avisar que mais Ashe homens foram perdidos e o tamanho do Horda cresce cada vez mais! Que você sempre sinta seus inimigos quebrarem sob seus pés."</DefaultText>
+      <DefaultText>"Vou avisar que mais Cinza homens foram perdidos e o tamanho do Horda cresce cada vez mais! Que você sempre sinta seus inimigos quebrarem sob seus pés."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Eu só poderia..." Esmagador de Camadas pondera por um momento, depois assente. "Estou recebendo relatos de [url=glossary:disfavored]Desfavorecido[/url] soldados se movendo pela região. Meus homens avistaram um grupo deles em uma vila próxima." "Isso é inaceitável. Esta terra pertence a [url=glossary:the voices of nerat]o Vozes de Nerat[/url] e não serei eu quem deixará de mantê-la segura e trará a ira sobre nós."</DefaultText>
+      <DefaultText>"Eu só poderia..." Esmagador de Camadas pondera por um momento, depois assente. "Estou recebendo relatos de [url=glossary:disfavored]Desfavorecido[/url] soldados se movendo pela região. Meus homens avistaram um grupo deles em uma vila próxima." "Isso é inaceitável. Esta terra pertence a [url=glossary:the voices of nerat]As Vozes de Nerat[/url] e não serei eu quem deixará de mantê-la segura e trará a ira sobre nós."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -100,7 +100,7 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Sim. Ainda temos os [url=glossary:disfavored]Desfavorecido[/url] soldados na vila próxima. Isso é inaceitável. Esta terra pertence a [url=glossary:the voices of nerat]o Vozes de Nerat[/url] e não serei eu quem deixará de mantê-la segura e trará a ira sobre nós."</DefaultText>
+      <DefaultText>"Sim. Ainda temos os [url=glossary:disfavored]Desfavorecido[/url] soldados na vila próxima. Isso é inaceitável. Esta terra pertence a [url=glossary:the voices of nerat]As Vozes de Nerat[/url] e não serei eu quem deixará de mantê-la segura e trará a ira sobre nós."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -110,19 +110,19 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Você sabe quando o mestre [url=glossary:forge-bound]Forge-Bound[/url] está chegando?"</DefaultText>
+      <DefaultText>"Você sabe quando o mestre [url=glossary:forge-bound]Vinculado à Forja[/url] está chegando?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Com Eldian?" Tier Smasher acena com desdém na porta que Eldian passou. "O velho tolo está com raiva porque alguns dos colonos acabaram mortos enquanto estávamos lidando com uma disputa." Ele dá de ombros.
+      <DefaultText>"Com Eldian?" Esmagador de Camadas acena com desdém na porta que Eldian passou. "O velho tolo está com raiva porque alguns dos colonos acabaram mortos enquanto estávamos lidando com uma disputa." Ele dá de ombros.
 
 "Eu preferiria apenas matá-lo e acabar com isso, mas Nerat quer manter o maior número possível de colonos vivos para um possível recrutamento mais tarde. Não posso discutir com a lógica, mas Eldian está muito além de seus anos de luta."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Eu pareço o [url=glossary:forge-bound]Forge-Bound[/url] guardião? Eu não poderia me importar menos com aqueles fabricantes de armas tolos."
+      <DefaultText>"Eu pareço o [url=glossary:forge-bound]Vinculado à Forja[/url] guardião? Eu não poderia me importar menos com aqueles fabricantes de armas tolos."
 
 "Se você quer saber, fale com Eldian. Ele lida com todas aquelas coisas sem valor." Ele aponta para o nível acima de você. "Está no próximo nível quase diretamente atrás de nós."</DefaultText>
       <FemaleText />
@@ -168,7 +168,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Pfffft!" Tier Smasher diz com desdém. "Minha gangue é perfeitamente capaz de proteger [url=glossary:lethian's crossing]A travessia de Lethian[/url] por conta própria." Então seu rosto fica sóbrio. "No entanto... [url=glossary:the voices of nerat]o Vozes de Nerat[/url] provavelmente terá minha cabeça se descobrirem que o Leme está faltando. Vou falar com Eldian sobre isso."</DefaultText>
+      <DefaultText>"Pfffft!" Esmagador de Camadas diz com desdém. "Minha gangue é perfeitamente capaz de proteger [url=glossary:lethian's crossing]A Travessia de Lethian[/url] por conta própria." Então seu rosto fica sóbrio. "No entanto... [url=glossary:the voices of nerat]As Vozes de Nerat[/url] provavelmente terá minha cabeça se descobrirem que o Leme está faltando. Vou falar com Eldian sobre isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -183,7 +183,7 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"São os perigos da batalha, Fatebinder! Ele vai viver..."
+      <DefaultText>"São os perigos da batalha, Vinculador do Destino! Ele vai viver..."
 
 "Agora, você tem algo importante para me perguntar ou está aqui simplesmente para questionar minhas habilidades de luta?"</DefaultText>
       <FemaleText />
@@ -205,7 +205,7 @@
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Ei, não é meu Bane e não é problema meu. [url=lore:lc_ancient_threats]Você tem o Desfavorecido para limpar essa bagunça,[/url] então você sabe tanto quanto eu. A última coisa que preciso é um Flagelo assombrando meus sonhos."</DefaultText>
+      <DefaultText>"Ei, não é meu Maldições e não é problema meu. [url=lore:lc_ancient_threats]Você tem o Desfavorecido para limpar essa bagunça,[/url] então você sabe tanto quanto eu. A última coisa que preciso é um Flagelo assombrando meus sonhos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

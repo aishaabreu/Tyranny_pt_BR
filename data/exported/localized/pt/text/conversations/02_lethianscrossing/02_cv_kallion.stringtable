@@ -6,14 +6,14 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Saudações Fatebinder. Entendo que você nos ajudou quando o fraternidade atacou."
+      <DefaultText>"Saudações Vinculador do Destino. Entendo que você nos ajudou quando o fraternidade atacou."
 
 "Agora que as coisas se acalmaram, gostaria de saber se você poderia me ajudar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Minha irmã, Kalea, desapareceu quando a fraternidade apareceu, e não a vejo desde então." "Ela parece ter essa ideia de que [url=glossary:lethian's crossing]A travessia de Lethian[/url] faria melhor nas mãos do [url=glossary:bronze brotherhood]Irmandade de Bronze[/url]. Tentei convencê-la do contrário, mas ela não me ouve."</DefaultText>
+      <DefaultText>"Minha irmã, Kalea, desapareceu quando a fraternidade apareceu, e não a vejo desde então." "Ela parece ter essa ideia de que [url=glossary:lethian's crossing]A Travessia de Lethian[/url] faria melhor nas mãos do [url=glossary:bronze brotherhood]Irmandade de Bronze[/url]. Tentei convencê-la do contrário, mas ela não me ouve."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -90,7 +90,7 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>[Mentira] "Ela foi capturada pelas forças de [url=glossary:kyros]Kyros[/url]' e executada."</DefaultText>
+      <DefaultText>[Mentira] "Ela foi capturada pelas forças de [url=glossary:kyros]Kyros[/url] e executada."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -154,7 +154,7 @@ Ele enterra o rosto nas mãos e sufoca um soluço. "Apenas vai."</DefaultText>
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Ele solta uma lufada de ar. "Suae provavelmente certo. Ela é uma adulta e eu deveria parar de ser tão superprotetora com ela. Obrigado Fatebinder. Aqui, não é muito, mas é seu."</DefaultText>
+      <DefaultText>Ele solta uma lufada de ar. "Suae provavelmente certo. Ela é uma adulta e eu deveria parar de ser tão superprotetora com ela. Obrigado Vinculador do Destino. Aqui, não é muito, mas é seu."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -196,7 +196,7 @@ Ele enterra o rosto nas mãos e sufoca um soluço. "Apenas vai."</DefaultText>
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>Ele respira fundo, se equilibrando. "Minha irmã Kalea e eu assistiu o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] se defender de várias ondas de [url=glossary:kyros]Kyros[/url]' quando eles tentaram tomar o Cruzando. Eu estava apavorado, mas ela estava... animada. De certa forma, eu nunca a vi tão viva." Ele sufoca um soluço. "S-ela ficou tão empolgada que se juntou ao fraternidade na primeira chance que teve."</DefaultText>
+      <DefaultText>Ele respira fundo, se equilibrando. "Minha irmã Kalea e eu assistiu o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] se defender de várias ondas de [url=glossary:kyros]Kyros[/url] quando eles tentaram tomar o Cruzando. Eu estava apavorado, mas ela estava... animada. De certa forma, eu nunca a vi tão viva." Ele sufoca um soluço. "S-ela ficou tão empolgada que se juntou ao fraternidade na primeira chance que teve."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -243,7 +243,7 @@ Ele enterra o rosto nas mãos e sufoca um soluço. "Apenas vai."</DefaultText>
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Por favor, Fatebinder! Não há mais ninguém a quem eu possa perguntar!" Seus ombros caem e ele abaixa a cabeça. "Eu entendo. Avise-me se mudar de ideia."</DefaultText>
+      <DefaultText>"Por favor, Vinculador do Destino! Não há mais ninguém a quem eu possa perguntar!" Seus ombros caem e ele abaixa a cabeça. "Eu entendo. Avise-me se mudar de ideia."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -263,7 +263,7 @@ Ele enterra o rosto nas mãos e sufoca um soluço. "Apenas vai."</DefaultText>
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Saudações Fatebinder. Entendo que você nos ajudou quando o fraternidade atacou."
+      <DefaultText>"Saudações Vinculador do Destino. Entendo que você nos ajudou quando o fraternidade atacou."
 
 "Agora que as coisas se acalmaram, gostaria de saber se você poderia me ajudar."</DefaultText>
       <FemaleText />
@@ -275,7 +275,7 @@ Ele enterra o rosto nas mãos e sufoca um soluço. "Apenas vai."</DefaultText>
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Minha irmã, Kalea, desapareceu quando a fraternidade apareceu, e não a vejo desde então." "Ela parece ter essa ideia de que [url=glossary:lethian's crossing]A travessia de Lethian[/url] faria melhor nas mãos do [url=glossary:bronze brotherhood]Irmandade de Bronze[/url]. Tentei convencê-la do contrário, mas ela não me ouve."</DefaultText>
+      <DefaultText>"Minha irmã, Kalea, desapareceu quando a fraternidade apareceu, e não a vejo desde então." "Ela parece ter essa ideia de que [url=glossary:lethian's crossing]A Travessia de Lethian[/url] faria melhor nas mãos do [url=glossary:bronze brotherhood]Irmandade de Bronze[/url]. Tentei convencê-la do contrário, mas ela não me ouve."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -292,12 +292,12 @@ Ele enterra o rosto nas mãos e sufoca um soluço. "Apenas vai."</DefaultText>
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Fatebinder! O que te traz aqui? Venha para ver os horrores causados pelo seu [url=glossary:edict]edito[/url]?"</DefaultText>
+      <DefaultText>"Vinculador do Destino! O que te traz aqui? Venha para ver os horrores causados pelo seu [url=glossary:edict]edito[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Fatebinder? O que no Cruzando poderia interessar alguém do seu poder?"</DefaultText>
+      <DefaultText>"Vinculador do Destino? O que no Cruzando poderia interessar alguém do seu poder?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -307,7 +307,7 @@ Ele enterra o rosto nas mãos e sufoca um soluço. "Apenas vai."</DefaultText>
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>O desespero rasteja em sua voz enquanto ele fala. "A Irmandade violaram as leis [url=glossary:kyros]Kyros[/url]'. Como um Fatebinder, isso não deveria ser suficiente?"</DefaultText>
+      <DefaultText>O desespero rasteja em sua voz enquanto ele fala. "A Irmandade violaram as leis de [url=glossary:kyros]Kyros[/url]. Como um Vinculador do Destino, isso não deveria ser suficiente?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -317,7 +317,7 @@ Ele enterra o rosto nas mãos e sufoca um soluço. "Apenas vai."</DefaultText>
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"O [url=glossary:forge-bound]Forge-Bound[/url] ouvirá falar de sua grandeza por mim, posso garantir."</DefaultText>
+      <DefaultText>"O [url=glossary:forge-bound]Vinculado à Forja[/url] ouvirá falar de sua grandeza por mim, posso garantir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -327,22 +327,22 @@ Ele enterra o rosto nas mãos e sufoca um soluço. "Apenas vai."</DefaultText>
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Eu não diria 'com' mais como 'para'. Os [url=glossary:forge-bound]Forge-Bound[/url] exigem grandes quantidades de minério para sua criação. Eles usam vários de nós aqui em [url=glossary:lethian's crossing]A travessia de Lethian[/url] para suprir seus coletores regulares de minério."</DefaultText>
+      <DefaultText>"Eu não diria 'com' mais como 'para'. Os [url=glossary:forge-bound]Vinculado à Forja[/url] exigem grandes quantidades de minério para sua criação. Eles usam vários de nós aqui em [url=glossary:lethian's crossing]A Travessia de Lethian[/url] para suprir seus coletores regulares de minério."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Transportador de minério? Faz significa que você trabalha com o [url=glossary:forge-bound]Forge-Bound[/url]?"</DefaultText>
+      <DefaultText>"Transportador de minério? Faz significa que você trabalha com o [url=glossary:forge-bound]Vinculado à Forja[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Faça uma boa palavra para mim com o [url=glossary:forge-bound]Forge-Bound[/url], e eu o ajudarei a encontrar sua irmã."</DefaultText>
+      <DefaultText>"Faça uma boa palavra para mim com o [url=glossary:forge-bound]Vinculado à Forja[/url], e eu o ajudarei a encontrar sua irmã."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Diga ao [url=glossary:forge-bound]Forge-Bound[/url] para me dar um desconto em seus produtos ou sua irmã morrerá sozinha no deserto."</DefaultText>
+      <DefaultText>"Diga ao [url=glossary:forge-bound]Vinculado à Forja[/url] para me dar um desconto em seus produtos ou sua irmã morrerá sozinha no deserto."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -372,17 +372,17 @@ Ele enterra o rosto nas mãos e sufoca um soluço. "Apenas vai."</DefaultText>
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Anteriormente você mencionou que era um transportador de minério, isso significa que você trabalha com o [url=glossary:forge-bound]Forge-Bound[/url]?"</DefaultText>
+      <DefaultText>"Anteriormente você mencionou que era um transportador de minério, isso significa que você trabalha com o [url=glossary:forge-bound]Vinculado à Forja[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Como prometido, falei com o [url=glossary:forge-bound]Forge-Bound[/url] em relação ao seu... desconto. Levarei muitos anos de trabalho para trabalhar, mas vale a pena saber que Kalea está seguro em casa."</DefaultText>
+      <DefaultText>"Como prometido, falei com o [url=glossary:forge-bound]Vinculado à Forja[/url] em relação ao seu... desconto. Levarei muitos anos de trabalho para trabalhar, mas vale a pena saber que Kalea está seguro em casa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Como prometido, falei com o [url=glossary:forge-bound]Forge-Bound[/url] em relação ao seu... desconto. Levarei muitos anos de trabalho para trabalhar, mas vale a pena saber que Kalea está feliz."</DefaultText>
+      <DefaultText>"Como prometido, falei com o [url=glossary:forge-bound]Vinculado à Forja[/url] em relação ao seu... desconto. Levarei muitos anos de trabalho para trabalhar, mas vale a pena saber que Kalea está feliz."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -407,12 +407,12 @@ Ele enterra o rosto nas mãos e sufoca um soluço. "Apenas vai."</DefaultText>
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>Ele solta um suspiro profundo. "Suae certo, você merece saber a verdade. Antes [url=glossary:kyros]Kyros[/url] chegou a [url=glossary:lethian's crossing]A travessia de Lethian[/url], Raetommon e eu éramos próximos, muito próximos. Ele era uma pessoa muito diferente naquela época, e fomos felizes juntos até que os exércitos de [url=glossary:kyros]Kyros[/url] chegaram."</DefaultText>
+      <DefaultText>Ele solta um suspiro profundo. "Suae certo, você merece saber a verdade. Antes [url=glossary:kyros]Kyros[/url] chegou a [url=glossary:lethian's crossing]A Travessia de Lethian[/url], Raetommon e eu éramos próximos, muito próximos. Ele era uma pessoa muito diferente naquela época, e fomos felizes juntos até que os exércitos de [url=glossary:kyros]Kyros[/url] chegaram."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url]' invasão o mudou, para pior, infelizmente. Kalea sabe o quanto Raetommon significava para mim naquela época, como eu estava feliz. Meu palpite é que ela pensa que ao se juntar à Irmandade ela pode convencê-lo a voltar para mim."</DefaultText>
+      <DefaultText>"Invasão de [url=glossary:kyros]Kyros[/url] o mudou, para pior, infelizmente. Kalea sabe o quanto Raetommon significava para mim naquela época, como eu estava feliz. Meu palpite é que ela pensa que ao se juntar à Irmandade ela pode convencê-lo a voltar para mim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -449,14 +449,14 @@ Ele enterra o rosto nas mãos e sufoca um soluço. "Apenas vai."</DefaultText>
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Ela deixou [url=glossary:lethian's crossing]A travessia de Lethian[/url] para perseguir seus sonhos de explorar o Camadas. Eu realmente espero que ela encontre seus sonhos por aí."
+      <DefaultText>"Ela deixou [url=glossary:lethian's crossing]A Travessia de Lethian[/url] para perseguir seus sonhos de explorar o Camadas. Eu realmente espero que ela encontre seus sonhos por aí."
 
 "Se você a vir, por favor, fique de olho nela. O Camadas pode ser perigoso. Como prometido, aqui está o que lhe devo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Ela foi morta por Maldito perto do Oldwalls."</DefaultText>
+      <DefaultText>"Ela foi morta por Maldito perto do Muralhas Antigas."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

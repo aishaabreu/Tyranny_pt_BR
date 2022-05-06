@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Vinculador do Destino." Ela se curva profundamente. "Bem-vindo à Ferimentos fazenda, a única fonte de alimento dentro da Oldwalls. Aposto que você nunca imaginou algo assim aqui embaixo, não é?"</DefaultText>
+      <DefaultText>"Vinculador do Destino." Ela se curva profundamente. "Bem-vindo à Ferimentos fazenda, a única fonte de alimento dentro da Muralhas Antigas. Aposto que você nunca imaginou algo assim aqui embaixo, não é?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Fatebinder! Se importa se dobrar o ouvido por um momento?"</DefaultText>
+      <DefaultText>"Vinculador do Destino! Se importa se dobrar o ouvido por um momento?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,7 +111,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Nós vamos, as plantas estão todas murchando, e parece muito parecido com quando a água se misturou antes. Você tem tempo para investigar isso, Fatebinder? Estou preocupado com algo terrível, vamos perder toda a safra se nada for feito."</DefaultText>
+      <DefaultText>"Nós vamos, as plantas estão todas murchando, e parece muito parecido com quando a água se misturou antes. Você tem tempo para investigar isso, Vinculador do Destino? Estou preocupado com algo terrível, vamos perder toda a safra se nada for feito."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -456,7 +456,7 @@
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"Não importa o quão forte você é se sua cabeça está fraca. Seu amor pelo [url=glossary:forge-bound]Forge-Bound[/url] quase matou a todos nós. Não posso ter um homem assim perto da nossa comida."</DefaultText>
+      <DefaultText>"Não importa o quão forte você é se sua cabeça está fraca. Seu amor pelo [url=glossary:forge-bound]Vinculado à Forja[/url] quase matou a todos nós. Não posso ter um homem assim perto da nossa comida."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -561,7 +561,7 @@
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>Tycho pisca em Mortes-in-Shadow e dá um passo para trás antes de voltar para você.
+      <DefaultText>Tycho pisca em Mortes nas Sombras e dá um passo para trás antes de voltar para você.
 
 "...certo..."</DefaultText>
       <FemaleText />

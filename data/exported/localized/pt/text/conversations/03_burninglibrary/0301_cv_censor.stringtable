@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Fiquem com suas armas. Esta é [url=glossary:tunon]Tunon[/url]'s Vinculador do Destino." 
+      <DefaultText>"Fiquem com suas armas. Esta é Vinculador do Destino de [url=glossary:tunon]Tunon[/url]." 
 
 O Censor faz um movimento rápido para seus soldados, então faz uma pausa para olhar você de cima a baixo. 
 
@@ -35,8 +35,8 @@ O Censor faz um movimento rápido para seus soldados, então faz uma pausa para 
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Estamos sob ataque! Mate o Fatebinder - jogue-se nele se precisar!"</DefaultText>
-      <FemaleText>"Estamos sob ataque! Mate o Fatebinder - jogue-se nela se precisar!"</FemaleText>
+      <DefaultText>"Estamos sob ataque! Mate o Vinculador do Destino - jogue-se nele se precisar!"</DefaultText>
+      <FemaleText>"Estamos sob ataque! Mate o Vinculador do Destino - jogue-se nela se precisar!"</FemaleText>
     </Entry>
     <Entry>
       <ID>10</ID>
@@ -71,7 +71,7 @@ Ela ri de emoção.
       <ID>17</ID>
       <DefaultText>"Nossos batedores têm motivos para acreditar que ele sobreviveu. Alguma magia impede que a biblioteca seja engolida pelo fogo, então talvez ela também proteja o Arquivo Silencioso."
 
-"Viemos para destruir o Arquivo em [url=glossary:kyros]Kyros[/url]' nome."</DefaultText>
+"Viemos para destruir o Arquivo em nome de [url=glossary:kyros]Kyros[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -303,7 +303,7 @@ Ela olha para um dos estudiosos próximos.</DefaultText>
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>"Acredito que o Arquivo Silencioso, no coração do [url=glossary:vellum citadel]Cidadela de Velino[/url], nunca foi destruído." Ela diz isso quase de forma conspiratória. "Se isso for verdade, explicaria por que o [url=glossary:edict]edito[/url] está em andamento." Ela aponta para a entrada na parede da montanha. "Se alguém fosse lá e removesse o Arquivo Silencioso da biblioteca, estou disposto a apostar que poderia ser usado para cumprir o [url=glossary:kyros]Kyros[/url]' will."</DefaultText>
+      <DefaultText>"Acredito que o Arquivo Silencioso, no coração do [url=glossary:vellum citadel]Cidadela de Velino[/url], nunca foi destruído." Ela diz isso quase de forma conspiratória. "Se isso for verdade, explicaria por que o [url=glossary:edict]edito[/url] está em andamento." Ela aponta para a entrada na parede da montanha. "Se alguém fosse lá e removesse o Arquivo Silencioso da biblioteca, estou disposto a apostar que poderia ser usado para cumprir a vontade de [url=glossary:kyros]Kyros[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -391,7 +391,7 @@ Ela olha para um dos estudiosos próximos.</DefaultText>
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>"Agora, o que [url=lore:fq_path_decision]Ashe's plaything[/url] quer com minha biblioteca? Não foi o suficiente para trair Nerat e ficar do lado daquele maníaco por controle? Você está aqui para tentar tirar isso também?"</DefaultText>
+      <DefaultText>"Agora, o que [url=lore:fq_path_decision]Cinza's plaything[/url] quer com minha biblioteca? Não foi o suficiente para trair Nerat e ficar do lado daquele maníaco por controle? Você está aqui para tentar tirar isso também?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -497,7 +497,7 @@ Ela olha para um dos estudiosos próximos.</DefaultText>
     </Entry>
     <Entry>
       <ID>230</ID>
-      <DefaultText>"Claro, Fatebinder! Afinal, é um conhecimento proibido! E não é como se Nerat não tivesse um plano." Ela para e se endireita. "Nunca medo. Lidaremos com o Arquivo Silencioso adequadamente."</DefaultText>
+      <DefaultText>"Claro, Vinculador do Destino! Afinal, é um conhecimento proibido! E não é como se Nerat não tivesse um plano." Ela para e se endireita. "Nunca medo. Lidaremos com o Arquivo Silencioso adequadamente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -531,7 +531,7 @@ Ela se dirige a você novamente. "Sinto muito que você tenha testemunhado isso.
     </Entry>
     <Entry>
       <ID>236</ID>
-      <DefaultText>O Censor balança a cabeça vigorosamente. "Certamente não! Eu não tenho ideia de como você teve essa ideia, então tire isso da sua cabeça! Nerat conhece as leis [url=glossary:kyros]Kyros[/url]' e nunca faria nada para quebrá-las abertamente!"</DefaultText>
+      <DefaultText>O Censor balança a cabeça vigorosamente. "Certamente não! Eu não tenho ideia de como você teve essa ideia, então tire isso da sua cabeça! Nerat conhece as leis de [url=glossary:kyros]Kyros[/url] e nunca faria nada para quebrá-las abertamente!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -71,12 +71,12 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Ele circula ao redor da plataforma, falando tanto com os transeuntes quanto com você. "E pensar que muitos aqui a viam como uma líder! O que líder corre diante da adversidade? Aqueles de nós que permanecem, somos nós que continuamos segurando Ferida do Bastardo. Eu trabalho todos os dias para manter o fogo da minha forja funcionando, e as pessoas podem ver em quem podem realmente confiar!" Próximo espectadores gritam e levantam os punhos em apoio, provocando um punho erguido do [url=glossary :forge-bound]Forge-Bound[/url] Mestre em troca.</DefaultText>
+      <DefaultText>Ele circula ao redor da plataforma, falando tanto com os transeuntes quanto com você. "E pensar que muitos aqui a viam como uma líder! O que líder corre diante da adversidade? Aqueles de nós que permanecem, somos nós que continuamos segurando Ferida do Bastardo. Eu trabalho todos os dias para manter o fogo da minha forja funcionando, e as pessoas podem ver em quem podem realmente confiar!" Próximo espectadores gritam e levantam os punhos em apoio, provocando um punho erguido do [url=glossary :forge-bound]Vinculado à Forja[/url] Mestre em troca.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"As ferramentas de corte necessárias são bastante especializadas, e perco o sono sabendo que não posso substituir nada que quebre. Como estou desaparecido, imagino que minhas ferramentas tenham sido apropriadas por meus colegas em [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Lohara sem dúvida saberá de seu paradeiro. Com minhas ferramentas antigas, eu poderia realmente ficar por dentro do trabalho necessário para manter este lugar funcionando."</DefaultText>
+      <DefaultText>"As ferramentas de corte necessárias são bastante especializadas, e perco o sono sabendo que não posso substituir nada que quebre. Como estou desaparecido, imagino que minhas ferramentas tenham sido apropriadas por meus colegas em [url=glossary:lethian's crossing]A Travessia de Lethian[/url]. Lohara sem dúvida saberá de seu paradeiro. Com minhas ferramentas antigas, eu poderia realmente ficar por dentro do trabalho necessário para manter este lugar funcionando."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,7 +96,7 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Os [url=glossary:forge-bound]Forge-Bound[/url] não cooperaram e deixaram [url=glossary:lethian's crossing]A travessia de Lethian[/url]."</DefaultText>
+      <DefaultText>"Os [url=glossary:forge-bound]Vinculado à Forja[/url] não cooperaram e deixaram [url=glossary:lethian's crossing]A Travessia de Lethian[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -151,7 +151,7 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Liquidação na Oldwalls é proibida pela lei [url=glossary:kyros]Kyros[/url]'."</DefaultText>
+      <DefaultText>"Liquidação na Muralhas Antigas é proibida pela lei de [url=glossary:kyros]Kyros[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -166,7 +166,7 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Isso mesmo, Vinculador do Destino. De minha parte, eu nunca faria nada para desrespeitar a lei [url=glossary:kyros]Kyros[/url]'." Ele ergue as mãos calejadas em uma pose respeitosa. "A Ferida não é um assentamento normal. Antes [url=glossary:cairn]Cairn[/url] dividir esses Oldwalls em pedaços, eu estaria de pleno acordo. Mas com o céu visível acima e os rios aos nossos pés, parece razoável supor que não estamos mais dentro do Oldwalls, sim?"</DefaultText>
+      <DefaultText>"Isso mesmo, Vinculador do Destino. De minha parte, eu nunca faria nada para desrespeitar a lei de [url=glossary:kyros]Kyros[/url]." Ele ergue as mãos calejadas em uma pose respeitosa. "A Ferida não é um assentamento normal. Antes [url=glossary:cairn]Cairn[/url] dividir esses Muralhas Antigas em pedaços, eu estaria de pleno acordo. Mas com o céu visível acima e os rios aos nossos pés, parece razoável supor que não estamos mais dentro do Muralhas Antigas, sim?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -181,7 +181,7 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Então temos sorte de tê-lo aqui, Vinculador do Destino. Posso garantir que nunca faria ou aconselharia nada que fosse contra a vontade [url=glossary:kyros]Kyros[/url]'. A Ferida é um lugar complicado. Muitos vieram antes de mim, e eu fiz minha parte para orientar as coisas corretamente. Como você sabe, nem sempre é uma tarefa fácil!"</DefaultText>
+      <DefaultText>"Então temos sorte de tê-lo aqui, Vinculador do Destino. Posso garantir que nunca faria ou aconselharia nada que fosse contra a vontade [url=glossary:kyros]Kyros[/url]. A Ferida é um lugar complicado. Muitos vieram antes de mim, e eu fiz minha parte para orientar as coisas corretamente. Como você sabe, nem sempre é uma tarefa fácil!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -266,12 +266,12 @@
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Pior ainda, aqueles agraciados com magia perdem lentamente seus dons." Ele olha para o Forja, uma expressão de dor visível em seu rosto. "Agora eles são conhecidos apenas como Sem dormir. Toda a sua vida e vitalidade roubada e gasta. Um final terrível, Vinculador do Destino. Reef-Talon não conseguiu enfrentar seus erros e fugiu para o Oldwalls como uma covarde."</DefaultText>
+      <DefaultText>"Pior ainda, aqueles agraciados com magia perdem lentamente seus dons." Ele olha para o Forja, uma expressão de dor visível em seu rosto. "Agora eles são conhecidos apenas como Sem dormir. Toda a sua vida e vitalidade roubada e gasta. Um final terrível, Vinculador do Destino. Reef-Talon não conseguiu enfrentar seus erros e fugiu para as Muralhas Antigas como uma covarde."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Caso você não tenha notado, os Homens-fera conosco não são seus selvagens selvagens comuns. Algo sobre este lugar os concentra - se eles vêm como nossos trabalhadores ou por conta própria, todos eles acabam se fixando no Maldito. Eu vi alguns curvados, guardando nossos portais por horas. Se algum Bane chegassem, eles os atacariam instantaneamente. Mas tirando o Maldito, nosso Homens-fera não é violento. Estranho, mas bem-vindo."</DefaultText>
+      <DefaultText>"Caso você não tenha notado, os Homens-fera conosco não são seus selvagens selvagens comuns. Algo sobre este lugar os concentra - se eles vêm como nossos trabalhadores ou por conta própria, todos eles acabam se fixando no Maldito. Eu vi alguns curvados, guardando nossos portais por horas. Se algum Maldições chegassem, eles os atacariam instantaneamente. Mas tirando o Maldito, nosso Homens-fera não é violento. Estranho, mas bem-vindo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -291,17 +291,17 @@
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"O que você pretende, Fatebinder?"</DefaultText>
+      <DefaultText>"O que você pretende, Vinculador do Destino?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Este lugar viola diretamente [url=glossary:kyros]Kyros[/url]' proibições contra Oldwalls, e deve ser morto."</DefaultText>
+      <DefaultText>"Este lugar viola diretamente proibições de [url=glossary:kyros]Kyros[/url] contra Muralhas Antigas, e deve ser morto."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Este acordo estende a interpretação das leis [url=glossary:kyros]Kyros[/url]'. Para justificar sua existência, o Ferimento deve fornecer suporte material para o Tribunal."</DefaultText>
+      <DefaultText>"Este acordo estende a interpretação das leis de [url=glossary:kyros]Kyros[/url]. Para justificar sua existência, o Ferimento deve fornecer suporte material para o Tribunal."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -326,17 +326,17 @@
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Vejo como você pode chegar a essa conclusão." Jaspos franze a testa e um sorriso vacilante surge em seu rosto. "Mas não se esqueça, a [url=glossary:forge-bound]Forge-Bound[/url] resposta a [url=glossary:tunon]Tunon[/url], não sou totalmente ignorante sobre esses assuntos. Eu diria que não nos estabelecemos deliberadamente dentro do Oldwalls - se há água e céu acima, como está dentro de alguma coisa? Nem eu concluiria que resolvemos o Oldwalls!"</DefaultText>
+      <DefaultText>"Vejo como você pode chegar a essa conclusão." Jaspos franze a testa e um sorriso vacilante surge em seu rosto. "Mas não se esqueça, a [url=glossary:forge-bound]Vinculado à Forja[/url] resposta a [url=glossary:tunon]Tunon[/url], não sou totalmente ignorante sobre esses assuntos. Eu diria que não nos estabelecemos deliberadamente dentro do Muralhas Antigas - se há água e céu acima, como está dentro de alguma coisa? Nem eu concluiria que resolvemos as Muralhas Antigas!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Além disso, este lugar nunca foi marcado em nenhum mapa ou reconhecido por nenhum dos Arcontes. Eles podem até ser ilegais se não tiverem sido identificados pelos cartógrafos do tribunal? E eue nunca ouvi falar de Oldwalls com rios e plantas. Pelo que sabemos, essas são simplesmente ruínas antigas de um tipo diferente..."</DefaultText>
+      <DefaultText>"Além disso, este lugar nunca foi marcado em nenhum mapa ou reconhecido por nenhum dos Arcontes. Eles podem até ser ilegais se não tiverem sido identificados pelos cartógrafos do tribunal? E eue nunca ouvi falar de Muralhas Antigas com rios e plantas. Pelo que sabemos, essas são simplesmente ruínas antigas de um tipo diferente..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Ele solta o cinto, deixando os martelos e furadores baterem no chão ruidosamente. Ele chama através de Oldwalls com uma voz de comando. "Homens e mulheres do Ferimento, para mim! [url=glossary:kyros]Kyros[/url]' servo levanta as armas contra nós. Nós nos preparamos para este dia. Saque suas lâminas e defenda sua casa!"</DefaultText>
+      <DefaultText>Ele solta o cinto, deixando os martelos e furadores baterem no chão ruidosamente. Ele chama através de Muralhas Antigas com uma voz de comando. "Homens e mulheres do Ferimento, para mim! servo de [url=glossary:kyros]Kyros[/url] levanta as armas contra nós. Nós nos preparamos para este dia. Saque suas lâminas e defenda sua casa!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -363,12 +363,12 @@ Empolgado sussurros podem ser ouvidos atrás de você enquanto os espectadores r
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Nós não temos o luxo de negociar com o topside - isso pode atrair os tipos errados de atenção. Em vez de, criamos o que precisamos. No meu caso, consigo fazer uma grande variedade de ferramentas, mas não consigo fazer tudo. Quando estávamos construindo as forjas de [url=glossary:lethian's crossing]A travessia de Lethian[/url], tive acesso a alguns dos melhores cinzéis, serralheiros e abrasivos... Levei apenas meu kit de viagem comigo quando me vi aqui no Ferimento. Consegui criar alguns substitutos, mas, para meu desgosto, não recuperei a habilidade."</DefaultText>
+      <DefaultText>"Nós não temos o luxo de negociar com o topside - isso pode atrair os tipos errados de atenção. Em vez de, criamos o que precisamos. No meu caso, consigo fazer uma grande variedade de ferramentas, mas não consigo fazer tudo. Quando estávamos construindo as forjas de [url=glossary:lethian's crossing]A Travessia de Lethian[/url], tive acesso a alguns dos melhores cinzéis, serralheiros e abrasivos... Levei apenas meu kit de viagem comigo quando me vi aqui no Ferimento. Consegui criar alguns substitutos, mas, para meu desgosto, não recuperei a habilidade."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Ela está? Então espero que ela tenha morrido comprometida com o ofício. Ela era boa... embora um pouco ingrata. Eu não acho que ela realmente apreciou o trabalho que fiz para criar sua forja. É triste quando o colega [url=glossary:forge-bound]Forge-Bound[/url] considera as complexidades do knapping como garantidas. Mas a Forja continua funcionando bem, não é?"</DefaultText>
+      <DefaultText>"Ela está? Então espero que ela tenha morrido comprometida com o ofício. Ela era boa... embora um pouco ingrata. Eu não acho que ela realmente apreciou o trabalho que fiz para criar sua forja. É triste quando o colega [url=glossary:forge-bound]Vinculado à Forja[/url] considera as complexidades do knapping como garantidas. Mas a Forja continua funcionando bem, não é?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -463,7 +463,7 @@ Empolgado sussurros podem ser ouvidos atrás de você enquanto os espectadores r
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>"Eu sei que você sabe que digitar o Oldwalls é ilegal. Então essa sua pequena configuração... é um pouco contra a lei."</DefaultText>
+      <DefaultText>"Eu sei que você sabe que digitar as Muralhas Antigas é ilegal. Então essa sua pequena configuração... é um pouco contra a lei."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -513,7 +513,7 @@ Empolgado sussurros podem ser ouvidos atrás de você enquanto os espectadores r
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"Eu mencionei sua mudança de título não oficial e ela o exilou do [url=glossary:forge-bound]Forge-Bound[/url]."</DefaultText>
+      <DefaultText>"Eu mencionei sua mudança de título não oficial e ela o exilou do [url=glossary:forge-bound]Vinculado à Forja[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -538,7 +538,7 @@ Empolgado sussurros podem ser ouvidos atrás de você enquanto os espectadores r
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Recife-Talon está agora no fundo do Oldwalls e certamente morto. É um pedido medonho, mas preciso de alguém para enfrentar as profundezas e devolver seus restos mortais. Dói-me perguntar uma coisa dessas, mas sei que Recife-Talon gostaria de proteger a Ferida do Bastardo de qualquer maneira possível. Você não estaria apenas devolvendo o cadáver dela para casa, estaria dando aos vivos tudo o que precisa para ter água fresca por décadas."</DefaultText>
+      <DefaultText>"Recife-Talon está agora no fundo do Muralhas Antigas e certamente morto. É um pedido medonho, mas preciso de alguém para enfrentar as profundezas e devolver seus restos mortais. Dói-me perguntar uma coisa dessas, mas sei que Recife-Talon gostaria de proteger a Ferida do Bastardo de qualquer maneira possível. Você não estaria apenas devolvendo o cadáver dela para casa, estaria dando aos vivos tudo o que precisa para ter água fresca por décadas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -583,7 +583,7 @@ Empolgado sussurros podem ser ouvidos atrás de você enquanto os espectadores r
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>"Ela... fez o quê?" Até sobre o barulho de água corrente nas proximidades, você ouve os dentes dele rangerem. "Então ela usará suas mentiras para manchar minha posição dentro do Clã? Teria sido melhor se me considerassem morto do que me considerar um impostor! Presumi que se você estivesse disposto a aceitar nossa presença aqui no Oldwalls, então você também se esforçaria para manter minha existência em segredo - eu estava enganado."</DefaultText>
+      <DefaultText>"Ela... fez o quê?" Até sobre o barulho de água corrente nas proximidades, você ouve os dentes dele rangerem. "Então ela usará suas mentiras para manchar minha posição dentro do Clã? Teria sido melhor se me considerassem morto do que me considerar um impostor! Presumi que se você estivesse disposto a aceitar nossa presença aqui no Muralhas Antigas, então você também se esforçaria para manter minha existência em segredo - eu estava enganado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -608,7 +608,7 @@ Empolgado sussurros podem ser ouvidos atrás de você enquanto os espectadores r
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"Bem, já estamos mortos se formos culpados de estar no Oldwalls, então não vejo que acusação vai me dissuadir de irritá-lo. Vidas estão na balança de sua decisão, e não vou sofrer essas acusações sem defender nossas ações. Nenhum de nós veio conscientemente se estabelecer no Oldwalls, não houve intenção de violar a lei."</DefaultText>
+      <DefaultText>"Bem, já estamos mortos se formos culpados de estar no Muralhas Antigas, então não vejo que acusação vai me dissuadir de irritá-lo. Vidas estão na balança de sua decisão, e não vou sofrer essas acusações sem defender nossas ações. Nenhum de nós veio conscientemente se estabelecer no Muralhas Antigas, não houve intenção de violar a lei."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -618,12 +618,12 @@ Empolgado sussurros podem ser ouvidos atrás de você enquanto os espectadores r
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>"Você está no Oldwalls. A intenção é irrelevante. Rios e plantas são incidentais. Você infringiu a lei."</DefaultText>
+      <DefaultText>"Você está no Muralhas Antigas. A intenção é irrelevante. Rios e plantas são incidentais. Você infringiu a lei."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>"Ah, mas veja, você mesmo disse - Oldwalls - plural. Vê isso?" Jaspos aponta para o teto quebrado e os pedaços de céu vazando. "A estrutura se dividiu e, portanto, esse assentamento fica ao lado de AN Oldwall, mas no nosso caso, não estamos no Oldwalls."</DefaultText>
+      <DefaultText>"Ah, mas veja, você mesmo disse - Muralhas Antigas - plural. Vê isso?" Jaspos aponta para o teto quebrado e os pedaços de céu vazando. "A estrutura se dividiu e, portanto, esse assentamento fica ao lado de Muralha Antiga, mas no nosso caso, não estamos no Muralhas Antigas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -655,7 +655,7 @@ Sussurros animados podem ser ouvidos atrás de você enquanto os espectadores re
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>"E claro, não vamos esquecer, [url=glossary:kyros]Kyros[/url] proíbe viajar para o Oldwalls - plural! Esse lugar está rachado ao meio, veja!" Ele aponta para a fenda na alvenaria que parece correr ao longo do comprimento do Oldwalls. "Esses paredes foram divididas. Na pior das hipóteses, estabelecemos um Oldwall - singular. Se o que estamos fazendo é um crime, é melhor colocar todos [url=glossary:lethian's crossing]A travessia de Lethian[/url] na tocha!"</DefaultText>
+      <DefaultText>"E claro, não vamos esquecer, [url=glossary:kyros]Kyros[/url] proíbe viajar para as Muralhas Antigas - plural! Esse lugar está rachado ao meio, veja!" Ele aponta para a fenda na alvenaria que parece correr ao longo do comprimento do Muralhas Antigas. "Esses paredes foram divididas. Na pior das hipóteses, estabelecemos uma Muralha Antiga - singular. Se o que estamos fazendo é um crime, é melhor colocar todos [url=glossary:lethian's crossing]A Travessia de Lethian[/url] na tocha!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -675,7 +675,7 @@ Sussurros animados podem ser ouvidos atrás de você enquanto os espectadores re
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>"Expulsá-lo do Oldwalls seria para sua própria segurança. Mas se você quer tanto estar aqui, que assim seja. Vou olhar para o outro lado."</DefaultText>
+      <DefaultText>"Expulsá-lo do Muralhas Antigas seria para sua própria segurança. Mas se você quer tanto estar aqui, que assim seja. Vou olhar para o outro lado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -800,7 +800,7 @@ Sussurros animados podem ser ouvidos atrás de você enquanto os espectadores re
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>"Sabemos que ela desceu nas profundezas do Oldwalls - o teletransportador no lado leste do Ferimento pode levá-lo até lá. Eu gostaria de poder lhe dar dicas além disso, mas como você descobrirá, a Oldwalls torção e serpente enquanto descem - para onde Recife-Talon foi é uma incógnita."</DefaultText>
+      <DefaultText>"Sabemos que ela desceu nas profundezas do Muralhas Antigas - o teletransportador no lado leste do Ferimento pode levá-lo até lá. Eu gostaria de poder lhe dar dicas além disso, mas como você descobrirá, a Muralhas Antigas torção e serpente enquanto descem - para onde Recife-Talon foi é uma incógnita."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -842,12 +842,12 @@ Jaspos pigarreia, mal escondendo o sorriso atrás da mão. "Como você pode imag
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>"Segure isso..." Jaspos lhe entrega uma pedra brilhante presa a um cordão trançado. "Permitirá que você ative os teletransportadores e as pedras de sigilo nestes Oldwalls. Por favor, não perca."</DefaultText>
+      <DefaultText>"Segure isso..." Jaspos lhe entrega uma pedra brilhante presa a um cordão trançado. "Permitirá que você ative os teletransportadores e as pedras de sigilo nestes Muralhas Antigas. Por favor, não perca."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>"Isso ativa os sigilos Oldwalls? Mas parece que você conseguiu."</DefaultText>
+      <DefaultText>"Isso ativa os sigilos Muralhas Antigas? Mas parece que você conseguiu."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -857,7 +857,7 @@ Jaspos pigarreia, mal escondendo o sorriso atrás da mão. "Como você pode imag
     </Entry>
     <Entry>
       <ID>190</ID>
-      <DefaultText>"Imagino que [url=glossary:tunon]Tunon[/url] não permite que você fique muito no Oldwalls. Nós vamos, existem essas antigas pontes que abrem e fecham por magia, e o Chave do Diretor pode emular essa magia... pelo menos a uma curta distância."</DefaultText>
+      <DefaultText>"Imagino que [url=glossary:tunon]Tunon[/url] não permite que você fique muito no Muralhas Antigas. Nós vamos, existem essas antigas pontes que abrem e fecham por magia, e o Chave do Diretor pode emular essa magia... pelo menos a uma curta distância."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1137,7 +1137,7 @@ Jaspos pigarreia, mal escondendo o sorriso atrás da mão. "Como você pode imag
     </Entry>
     <Entry>
       <ID>251</ID>
-      <DefaultText>"Mas... garantir seu tempo é um desafio digno de um Arconte, então eu recomendo procurar Mestre Lohara, em [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Bater metais obstinados e pessoas é sua especialidade."</DefaultText>
+      <DefaultText>"Mas... garantir seu tempo é um desafio digno de um Arconte, então eu recomendo procurar Mestre Lohara, em [url=glossary:lethian's crossing]A Travessia de Lethian[/url]. Bater metais obstinados e pessoas é sua especialidade."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1187,7 +1187,7 @@ Jaspos pigarreia, mal escondendo o sorriso atrás da mão. "Como você pode imag
     </Entry>
     <Entry>
       <ID>261</ID>
-      <DefaultText>"Sabemos que ela desceu nas profundezas do Oldwalls - o teletransportador no lado leste do Ferimento pode levá-lo até lá. Eu gostaria de poder lhe dar dicas além disso, mas como você descobrirá, a Oldwalls torção e serpente enquanto descem - para onde Recife-Talon foi é uma incógnita."</DefaultText>
+      <DefaultText>"Sabemos que ela desceu nas profundezas do Muralhas Antigas - o teletransportador no lado leste do Ferimento pode levá-lo até lá. Eu gostaria de poder lhe dar dicas além disso, mas como você descobrirá, a Muralhas Antigas torção e serpente enquanto descem - para onde Recife-Talon foi é uma incógnita."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

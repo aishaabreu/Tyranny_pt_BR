@@ -36,22 +36,22 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Um dos [url=glossary:disfavored]Desfavorecido[/url] soldados se vira para você, parecendo cansado do debate. "Esse um aqui roubou da legião e acha que pode se safar." Ela aponta para o Refrão guerreiro segurando o capacete. "Se ele der mais um passo, seremos forçados a violar [url=glossary:kyros]Kyros[/url]' Paz."</DefaultText>
+      <DefaultText>Um dos [url=glossary:disfavored]Desfavorecido[/url] soldados se vira para você, parecendo cansado do debate. "Esse um aqui roubou da legião e acha que pode se safar." Ela aponta para o Refrão guerreiro segurando o capacete. "Se ele der mais um passo, seremos forçados a violar Paz de [url=glossary:kyros]Kyros[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Fatebinder! Você pode me ouvir? Estou sendo abordado por esses [url=glossary:disfavored]Desfavorecido[/url] bandidos!"</DefaultText>
+      <DefaultText>"Vinculador do Destino! Você pode me ouvir? Estou sendo abordado por esses [url=glossary:disfavored]Desfavorecido[/url] bandidos!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Não torne o Vinculador do Destino cúmplice do seu roubo. [url=glossary:disfavored]Desfavorecido[/url] armadura é propriedade da legião. Não é seu para saquear, e por [url=glossary:graven ashe]Cinza esculpida[/url] eu vou te matar se você tentar sair com essa relíquia."</DefaultText>
+      <DefaultText>"Não torne o Vinculador do Destino cúmplice do seu roubo. [url=glossary:disfavored]Desfavorecido[/url] armadura é propriedade da legião. Não é seu para saquear, e por [url=glossary:graven ashe]Cinza Esculpida[/url] eu vou te matar se você tentar sair com essa relíquia."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Alguém mencionou [url=glossary:kyros]Kyros[/url]' Paz sendo violada. Isso me envolve quer você goste ou não."</DefaultText>
+      <DefaultText>"Alguém mencionou Paz de [url=glossary:kyros]Kyros[/url] sendo violada. Isso me envolve quer você goste ou não."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,7 +86,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Chega!" A [url=glossary:disfavored]Desfavorecido[/url] levanta um punho cerrado antes de hesitar, sentindo seu lapso, e desajeitadamente retornando a mão ao seu lado. "Se a escolha for julgar ou lutar, então eu também... cumprirei o decreto Fatebinder."</DefaultText>
+      <DefaultText>"Chega!" A [url=glossary:disfavored]Desfavorecido[/url] levanta um punho cerrado antes de hesitar, sentindo seu lapso, e desajeitadamente retornando a mão ao seu lado. "Se a escolha for julgar ou lutar, então eu também... cumprirei o decreto Vinculador do Destino."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -168,7 +168,7 @@ Embora ela se dirija a você, seu olhar permanece fixo no Corista. "Eu não quer
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Malditos Tiersmen estragando nosso ferro!"</DefaultText>
+      <DefaultText>"Malditos Homens dos Caminhos estragando nosso ferro!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -178,7 +178,7 @@ Embora ela se dirija a você, seu olhar permanece fixo no Corista. "Eu não quer
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Por [url=glossary:kyros]Kyros[/url]' nethers, o que os [url=glossary:disfavored]Desfavorecido[/url] já fizeram para nós ganharmos minha caridade? Até [url=glossary:the voices of nerat]o Vozes de Nerat[/url] inicia um cântico ordenando que compartilhemos com Ashe copeiros, eles não verão nenhuma bondade imerecida de gente como eu."</DefaultText>
+      <DefaultText>"Por inferiores de [url=glossary:kyros]Kyros[/url], o que os [url=glossary:disfavored]Desfavorecido[/url] já fizeram para nós ganharmos minha caridade? Até [url=glossary:the voices of nerat]As Vozes de Nerat[/url] inicia um cântico ordenando que compartilhemos com Cinza copeiros, eles não verão nenhuma bondade imerecida de gente como eu."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -193,7 +193,7 @@ Embora ela se dirija a você, seu olhar permanece fixo no Corista. "Eu não quer
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Você nos venderia o que é nosso e chamaria isso de 'caridade?' Sujeira repugnante! Nós viemos para os Tiers com a missão de civilizar este reino, mas vocês, povo das colinas, não podem aprender honra a menos que isso seja golpeado em vocês!"</DefaultText>
+      <DefaultText>"Você nos venderia o que é nosso e chamaria isso de 'caridade?' Sujeira repugnante! Nós viemos para os Camadas com a missão de civilizar este reino, mas vocês, povo das colinas, não podem aprender honra a menos que isso seja golpeado em vocês!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -208,7 +208,7 @@ Embora ela se dirija a você, seu olhar permanece fixo no Corista. "Eu não quer
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>[Conquista] "Eu costumava supervisionar as forjas em [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Conheço as marcas do fabricante."</DefaultText>
+      <DefaultText>[Conquista] "Eu costumava supervisionar as forjas em [url=glossary:lethian's crossing]A Travessia de Lethian[/url]. Conheço as marcas do fabricante."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -270,7 +270,7 @@ Embora ela se dirija a você, seu olhar permanece fixo no Corista. "Eu não quer
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Muito feliz!" Os guerreiros recuam, curvando-se em um gesto profundo e zombeteiro. "Aproveitar seu passeio de volta ao acampamento Refrão. Senhor Ashe obrigado por sua caridade."</DefaultText>
+      <DefaultText>"Muito feliz!" Os guerreiros recuam, curvando-se em um gesto profundo e zombeteiro. "Aproveitar seu passeio de volta ao acampamento Refrão. Senhor Cinza obrigado por sua caridade."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -280,7 +280,7 @@ Embora ela se dirija a você, seu olhar permanece fixo no Corista. "Eu não quer
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Encadernador, você tem nervos de bronze ou cérebro de pudim. Você está tentando nos roubar. O que faz você pensar que terá sucesso?"</DefaultText>
+      <DefaultText>"Vinculador, você tem nervos de bronze ou cérebro de pudim. Você está tentando nos roubar. O que faz você pensar que terá sucesso?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -325,7 +325,7 @@ Embora ela se dirija a você, seu olhar permanece fixo no Corista. "Eu não quer
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Não estamos falando apenas de um capacete aqui, Binder - é o princípio, o precedente! [url=glossary:graven ashe]Cinza esculpida[/url] exige que honremos e preservemos nossas relíquias de batalha. Esse elmo pertence à cabeça de um legionário ou à lareira do parente mais próximo desse guerreiro!"</DefaultText>
+      <DefaultText>"Não estamos falando apenas de um capacete aqui, Vinculador - é o princípio, o precedente! [url=glossary:graven ashe]Cinza Esculpida[/url] exige que honremos e preservemos nossas relíquias de batalha. Esse elmo pertence à cabeça de um legionário ou à lareira do parente mais próximo desse guerreiro!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -365,7 +365,7 @@ Embora ela se dirija a você, seu olhar permanece fixo no Corista. "Eu não quer
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>[Sauda o [url=glossary:disfavored]Desfavorecido[/url].] "[url=glossary:graven ashe]Cinza esculpida[/url] protege."</DefaultText>
+      <DefaultText>[Sauda o [url=glossary:disfavored]Desfavorecido[/url].] "[url=glossary:graven ashe]Cinza Esculpida[/url] protege."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -410,7 +410,7 @@ Embora ela se dirija a você, seu olhar permanece fixo no Corista. "Eu não quer
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Nós dois concordamos em manter o julgamento Fatebinder. Você pode não receber o valor justo, mas sairá com seu equipamento de casamento intacto." O soldado [url=glossary:disfavored]Desfavorecido[/url] puxa um único cobre de seu cinto e o joga no Corista.</DefaultText>
+      <DefaultText>"Nós dois concordamos em manter o julgamento Vinculador do Destino. Você pode não receber o valor justo, mas sairá com seu equipamento de casamento intacto." O soldado [url=glossary:disfavored]Desfavorecido[/url] puxa um único cobre de seu cinto e o joga no Corista.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -422,7 +422,7 @@ Com um suspiro cabisbaixo, ele balança a cabeça e sai andando.</DefaultText>
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Obrigado, Encadernador. É bom você proteger a honra e a tradição da legião. Essas coisas podem não significar muito para todos aqui," ela olha para o Corista, ", mas elas são importantes para nós." Ela coloca a luva no peitoral. "[url=glossary:graven ashe]Cinza esculpida[/url] protege!"</DefaultText>
+      <DefaultText>"Obrigado, Vinculador. É bom você proteger a honra e a tradição da legião. Essas coisas podem não significar muito para todos aqui," ela olha para o Corista, ", mas elas são importantes para nós." Ela coloca a luva no peitoral. "[url=glossary:graven ashe]Cinza Esculpida[/url] protege!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -459,7 +459,7 @@ Quando ele estende a mão para passar o capacete, ela o arranca violentamente da
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"É disso que preciso, obrigado Encadernador." O guerreiro lhe entrega o capacete com um sorriso e se vira para sair.</DefaultText>
+      <DefaultText>"É disso que preciso, obrigado Vinculador." O guerreiro lhe entrega o capacete com um sorriso e se vira para sair.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -474,7 +474,7 @@ Quando ele estende a mão para passar o capacete, ela o arranca violentamente da
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>Batendo sua luva contra seu peitoral de ferro, ela retribui o gesto com desenvoltura. "Sou grato por sua visão sobre este assunto. Quase deixamos a relíquia de um veterano enferrujar. Obrigado Fatebinder, temos sorte de tê-lo em nosso acampamento."</DefaultText>
+      <DefaultText>Batendo sua luva contra seu peitoral de ferro, ela retribui o gesto com desenvoltura. "Sou grato por sua visão sobre este assunto. Quase deixamos a relíquia de um veterano enferrujar. Obrigado Vinculador do Destino, temos sorte de tê-lo em nosso acampamento."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -499,7 +499,7 @@ Quando ele estende a mão para passar o capacete, ela o arranca violentamente da
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>"Cachorro sem vergonha! Se [url=glossary:bleden mark]Marca de mistura[/url] estivesse ao alcance da voz, ele teria sua língua por insultar o Tribunal!"</DefaultText>
+      <DefaultText>"Cachorro sem vergonha! Se [url=glossary:bleden mark]Marca de Mistura[/url] estivesse ao alcance da voz, ele teria sua língua por insultar o Tribunal!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -539,7 +539,7 @@ Quando ele estende a mão para passar o capacete, ela o arranca violentamente da
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"Uma troca seria tão insultante para a legião quanto uma transação de anéis - ainda mais! Cada peça de equipamento aqui é destinada para [url=glossary:graven ashe]Cinza esculpida[/url] Norte legião - não a ralé que se agacha e luta pelo prazer de Vozes'."</DefaultText>
+      <DefaultText>"Uma troca seria tão insultante para a legião quanto uma transação de anéis - ainda mais! Cada peça de equipamento aqui é destinada para [url=glossary:graven ashe]Cinza Esculpida[/url] Norte legião - não a ralé que se agacha e luta pelo prazer de Vozes'."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

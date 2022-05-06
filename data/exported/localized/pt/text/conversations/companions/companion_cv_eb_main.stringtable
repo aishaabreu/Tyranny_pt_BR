@@ -6,8 +6,8 @@
   <Entries>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Saudações Fatebinder, ou devo agora chamá-lo de senhor de [url=glossary:vendrien's well]Poço de Vendrien[/url]? O Rei Espiral? Príncipe da sugestiva laje vertical?"</DefaultText>
-      <FemaleText>"Saudações Fatebinder, ou devo agora chamá-la de senhora de [url=glossary:vendrien's well]Poço de Vendrien[/url]? A Rainha do Pináculo? Princesa da sugestiva laje vertical?"</FemaleText>
+      <DefaultText>"Saudações Vinculador do Destino, ou devo agora chamá-lo de senhor de [url=glossary:vendrien's well]Poço de Vendrien[/url]? O Rei Espiral? Príncipe da sugestiva laje vertical?"</DefaultText>
+      <FemaleText>"Saudações Vinculador do Destino, ou devo agora chamá-la de senhora de [url=glossary:vendrien's well]Poço de Vendrien[/url]? A Rainha do Pináculo? Princesa da sugestiva laje vertical?"</FemaleText>
     </Entry>
     <Entry>
       <ID>3</ID>
@@ -66,12 +66,12 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Conheço muitos magos do Camadas, ou pelo menos sua história - a maioria está morta agora. Conheço um pouco menos as guildas juramentadas [url=glossary:kyros]Kyros[/url]' Arcontes, mas tento me esforçar para conhecer minha oposição."</DefaultText>
+      <DefaultText>"Conheço muitos magos do Camadas, ou pelo menos sua história - a maioria está morta agora. Conheço um pouco menos as guildas juramentadas Arcontes de [url=glossary:kyros]Kyros[/url], mas tento me esforçar para conhecer minha oposição."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Estamos trabalhando com o [url=glossary:disfavored]Desfavorecido[/url]... você quer meu conselho? Meu conselho seria chegar perto de [url=glossary:graven ashe]Cinza esculpida[/url] e enfiar uma faca envenenada em seu ouvido."</DefaultText>
+      <DefaultText>"Estamos trabalhando com o [url=glossary:disfavored]Desfavorecido[/url]... você quer meu conselho? Meu conselho seria chegar perto de [url=glossary:graven ashe]Cinza Esculpida[/url] e enfiar uma faca envenenada em seu ouvido."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,7 +116,7 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"E os resistores principais da regra [url=glossary:kyros]Kyros[/url]'?"</DefaultText>
+      <DefaultText>"E os resistores principais da regra de [url=glossary:kyros]Kyros[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -126,7 +126,7 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Sabe alguma coisa sobre Oldwalls e os Pináculos?"</DefaultText>
+      <DefaultText>"Sabe alguma coisa sobre Muralhas Antigas e os Pináculos?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -136,7 +136,7 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Fale-me do Tremedores de terra."</DefaultText>
+      <DefaultText>"Fale-me do Tremedores de Terra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -146,7 +146,7 @@
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"O que você pode me dizer sobre o [url=glossary:forge-bound]Forge-Bound[/url]?"</DefaultText>
+      <DefaultText>"O que você pode me dizer sobre o [url=glossary:forge-bound]Vinculado à Forja[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -283,12 +283,12 @@ Ela acena com a mão com desdém.</DefaultText>
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Eu conheço Fatebinder Rhogalus há muito tempo - eu o conheci de passagem há mais de uma década em um conselho em Ardente. Olhando para trás, agora sei que ele estava no Camadas em antecipação à conquista."</DefaultText>
+      <DefaultText>"Eu conheço Vinculador do Destino Rhogalus há muito tempo - eu o conheci de passagem há mais de uma década em um conselho em Ardente. Olhando para trás, agora sei que ele estava no Camadas em antecipação à conquista."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>Rhogalus, Fatebinder de [url=glossary:lore]Conhecimento[/url].</DefaultText>
+      <DefaultText>Rhogalus, Vinculador do Destino de [url=glossary:lore]Conhecimento[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -303,7 +303,7 @@ Ela acena com a mão com desdém.</DefaultText>
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>Escola de... espionando Fatebinder Rhogalus?</DefaultText>
+      <DefaultText>Escola de... espionando Vinculador do Destino Rhogalus?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -408,12 +408,12 @@ Ela acena com a mão com desdém.</DefaultText>
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Não é suficiente... nunca é suficiente!" Eb sorri, girando seu cajado nas mãos. "Quando criança eu tinha pavor do Oldwalls - acho que isso é verdade para a maioria das pessoas. Agora que posso [url=lore:eb_gravelight]arco Gravelight com um movimento de meus dedos...[/url] bem, acho que quando eu for uma bruxa velha e enrugada, morrer no Oldwalls seria um ótimo caminho a percorrer. "</DefaultText>
+      <DefaultText>"Não é suficiente... nunca é suficiente!" Eb sorri, girando seu cajado nas mãos. "Quando criança eu tinha pavor do Muralhas Antigas - acho que isso é verdade para a maioria das pessoas. Agora que posso [url=lore:eb_gravelight]arco Gravelight com um movimento de meus dedos...[/url] bem, acho que quando eu for uma bruxa velha e enrugada, morrer no Muralhas Antigas seria um ótimo caminho a percorrer. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"O que eu sei é em grande parte tirado do do Mestre Camberil trabalho e alguma experiência quase fatal se aventurando perto do Oldwalls."</DefaultText>
+      <DefaultText>"O que eu sei é em grande parte tirado do do Mestre Camberil trabalho e alguma experiência quase fatal se aventurando perto do Muralhas Antigas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -428,12 +428,12 @@ Ela acena com a mão com desdém.</DefaultText>
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"Se estou sendo objetivo, os Sábios afirmam ser estudiosos interessados em coletar, arquivar e preservar conhecimento de e para toda a humanidade. Eles estão muito interessados em reunir conhecimento, mas em nenhum sentido eles procuram compartilhar seu conhecimento com seus Tiersmen."</DefaultText>
+      <DefaultText>"Se estou sendo objetivo, os Sábios afirmam ser estudiosos interessados em coletar, arquivar e preservar conhecimento de e para toda a humanidade. Eles estão muito interessados em reunir conhecimento, mas em nenhum sentido eles procuram compartilhar seu conhecimento com seus Homens dos Caminhos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Há uma década, Robusto era o fim das piadas que Tiersmen contavam uns aos outros. O povo de Robusto está detestavelmente orgulhoso de uma longa história de ser invadido, mas nunca perdendo. O [url=glossary:disfavored]Desfavorecido[/url] pôs fim ao seu alardeado recorde de vitórias."</DefaultText>
+      <DefaultText>"Há uma década, Robusto era o fim das piadas que Homens dos Caminhos contavam uns aos outros. O povo de Robusto está detestavelmente orgulhoso de uma longa história de ser invadido, mas nunca perdendo. O [url=glossary:disfavored]Desfavorecido[/url] pôs fim ao seu alardeado recorde de vitórias."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -448,7 +448,7 @@ Ela acena com a mão com desdém.</DefaultText>
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"Fale-me sobre o [url=glossary:unbroken]ininterrupto[/url]."</DefaultText>
+      <DefaultText>"Fale-me sobre o [url=glossary:unbroken]Inquebrável[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -478,12 +478,12 @@ Ela acena com a mão com desdém.</DefaultText>
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>"O [url=glossary:unbroken]ininterrupto[/url] é o nome dos militares do agora caído Reino de Robusta. Cada cidadão de Robusto foi treinado para lutar, e esperava-se que todos respondessem ao grito de guerra do Regentes - o pequeno conselho governante do reino."</DefaultText>
+      <DefaultText>"O [url=glossary:unbroken]Inquebrável[/url] é o nome dos militares do agora caído Reino de Robusta. Cada cidadão de Robusto foi treinado para lutar, e esperava-se que todos respondessem ao grito de guerra do Regentes - o pequeno conselho governante do reino."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url]' a guerra foi desastrosa para o humano Reino do Azure, mas um golpe de boa sorte para numerosos Homens-fera que labutaram em do Azure campos de trigo sem fim. Com todos os senhores mortos, os servos foram libertados."</DefaultText>
+      <DefaultText>"A guerra de [url=glossary:kyros]Kyros[/url] foi desastrosa para o humano Reino do Azure, mas um golpe de boa sorte para numerosos Homens-fera que labutaram em do Azure campos de trigo sem fim. Com todos os senhores mortos, os servos foram libertados."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -493,7 +493,7 @@ Ela acena com a mão com desdém.</DefaultText>
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Os Earthshakers são as disciplinas de [url=glossary:cairn]Cairn[/url], Arconte de Pedra, e eles compartilham o comando de seus mestres sobre tremores e solo... e eles também compartilham [url=glossary:cairn]Cairn[/url]' tem um temperamento distante e pensativo."</DefaultText>
+      <DefaultText>"Os Tremedores de Terra são as disciplinas de [url=glossary:cairn]Cairn[/url], Arconte de Pedra, e eles compartilham o comando de seus mestres sobre tremores e solo... e eles também compartilham [url=glossary:cairn]Cairn[/url] tem um temperamento distante e pensativo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -503,7 +503,7 @@ Ela acena com a mão com desdém.</DefaultText>
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>"Os [url=glossary:forge-bound]Forge-Bound[/url] têm um tipo incomum de magia - eles se especializam em rituais lentos e meticulosos que não produzem as explosões deslumbrantes de energia e fragmentos de gelo voador como o meu Magia. Em vez de, seus feitiços os tornam imunes aos fogos da forja e em harmonia com suas ferramentas de ofício."</DefaultText>
+      <DefaultText>"Os [url=glossary:forge-bound]Vinculado à Forja[/url] têm um tipo incomum de magia - eles se especializam em rituais lentos e meticulosos que não produzem as explosões deslumbrantes de energia e fragmentos de gelo voador como o meu Magia. Em vez de, seus feitiços os tornam imunes aos fogos da forja e em harmonia com suas ferramentas de ofício."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -568,7 +568,7 @@ Ela acena com a mão com desdém.</DefaultText>
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>"Preciso de mais aliados entre os Tiersmen. Onde devemos olhar?"</DefaultText>
+      <DefaultText>"Preciso de mais aliados entre os Homens dos Caminhos. Onde devemos olhar?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -578,12 +578,12 @@ Ela acena com a mão com desdém.</DefaultText>
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>"A opção clássica para guerra terrestre no Camadas é contratar mercenários Cidades Livres. A maioria deles foi morta na guerra, mas o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] ainda está vivo e... se pavoneando. Eles estão estacionados em [url=glossary:lethian's crossing]A travessia de Lethian[/url]."</DefaultText>
+      <DefaultText>"A opção clássica para guerra terrestre no Camadas é contratar mercenários Cidades Livres. A maioria deles foi morta na guerra, mas o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] ainda está vivo e... se pavoneando. Eles estão estacionados em [url=glossary:lethian's crossing]A Travessia de Lethian[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>"Se você acha que pode convencer o [url=glossary:forge-bound]Forge-Bound[/url] de [url=glossary:lethian's crossing]A travessia de Lethian[/url] a apoiar seu lado 'neutro' da guerra, podemos redirecionar seus ferro para longe do inimigo e, em vez disso, para nossos aliados."</DefaultText>
+      <DefaultText>"Se você acha que pode convencer o [url=glossary:forge-bound]Vinculado à Forja[/url] de [url=glossary:lethian's crossing]A Travessia de Lethian[/url] a apoiar seu lado 'neutro' da guerra, podemos redirecionar seus ferro para longe do inimigo e, em vez disso, para nossos aliados."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -593,7 +593,7 @@ Ela acena com a mão com desdém.</DefaultText>
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>"Há também uma pequena chance de conseguirmos uma brecha entre os [url=glossary:disfavored]Desfavorecido[/url] e seus magos aliados, os Earthshakers no [url=glossary:stone sea]Mar de Pedra[/url]."</DefaultText>
+      <DefaultText>"Há também uma pequena chance de conseguirmos uma brecha entre os [url=glossary:disfavored]Desfavorecido[/url] e seus magos aliados, os Tremedores de Terra no [url=glossary:stone sea]Mar de Pedra[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -613,7 +613,7 @@ Ela acena com a mão com desdém.</DefaultText>
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>"Então, se eu puder perguntar, qual é o seu plano agora? O [url=glossary:edict]Edital[/url] não paira mais sobre a cabeça e [url=glossary:kyros]Kyros[/url]' conquista do Camadas parece estar escorregando, com os exércitos em guerra civil."</DefaultText>
+      <DefaultText>"Então, se eu puder perguntar, qual é o seu plano agora? O [url=glossary:edict]Edital[/url] não paira mais sobre a cabeça e conquista de [url=glossary:kyros]Kyros[/url] do Camadas parece estar escorregando, com os exércitos em guerra civil."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -628,7 +628,7 @@ Ela acena com a mão com desdém.</DefaultText>
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>"Fatebinder é bom, não há necessidade de outros títulos."</DefaultText>
+      <DefaultText>"Vinculador do Destino é bom, não há necessidade de outros títulos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -638,7 +638,7 @@ Ela acena com a mão com desdém.</DefaultText>
     </Entry>
     <Entry>
       <ID>184</ID>
-      <DefaultText>"Sim, bem-vindo mais uma vez ao nosso... bem, à luz de sua intervenção, não posso me referir a nós mesmos como uma causa perdida. Obrigado Fatebinder, agora, como vou sair com uma indignação justa?"
+      <DefaultText>"Sim, bem-vindo mais uma vez ao nosso... bem, à luz de sua intervenção, não posso me referir a nós mesmos como uma causa perdida. Obrigado Vinculador do Destino, agora, como vou sair com uma indignação justa?"
 
 Eb revira os olhos e balança a cabeça fingindo ofensa.</DefaultText>
       <FemaleText />
@@ -740,12 +740,12 @@ Eb revira os olhos e balança a cabeça fingindo ofensa.</DefaultText>
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url]' exércitos fizeram um trabalho rápido com o Camadas. Ainda há muito sentimento anti-[url=glossary:kyros]Kyros[/url], mas não há muita gente com qualquer luta sobrando. Mas temos algumas opções."</DefaultText>
+      <DefaultText>"exército de [url=glossary:kyros]Kyros[/url] fizeram um trabalho rápido com o Camadas. Ainda há muito sentimento anti-[url=glossary:kyros]Kyros[/url], mas não há muita gente com qualquer luta sobrando. Mas temos algumas opções."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>"Se realmente queremos nos odiar pela manhã... Stalwart é muito famoso por não ajudar seus vizinhos, mas também famoso por ser implacável na guerra. Os [url=glossary:disfavored]Desfavorecido[/url] têm sua liderança cercada, mas as pessoas no campo devastado pela tempestade ainda estão lutando."</DefaultText>
+      <DefaultText>"Se realmente queremos nos odiar pela manhã... Robusto é muito famoso por não ajudar seus vizinhos, mas também famoso por ser implacável na guerra. Os [url=glossary:disfavored]Desfavorecido[/url] têm sua liderança cercada, mas as pessoas no campo devastado pela tempestade ainda estão lutando."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -755,32 +755,32 @@ Eb revira os olhos e balança a cabeça fingindo ofensa.</DefaultText>
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>"A opção clássica para guerra terrestre no Camadas é contratar mercenários Cidades Livres. A maioria deles foi morta na guerra, mas o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] ainda está vivo e... se pavoneando. Eles estão estacionados em [url=glossary:lethian's crossing]A travessia de Lethian[/url]."</DefaultText>
+      <DefaultText>"A opção clássica para guerra terrestre no Camadas é contratar mercenários Cidades Livres. A maioria deles foi morta na guerra, mas o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] ainda está vivo e... se pavoneando. Eles estão estacionados em [url=glossary:lethian's crossing]A Travessia de Lethian[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>"Eu lutei contra o [url=glossary:disfavored]Desfavorecido[/url] e conheço muito bem sua habilidade e tenacidade. Destruindo o [url=glossary:disfavored]Desfavorecido[/url] embora... por onde começar? Matando [url=glossary:graven ashe]Cinza esculpida[/url] certamente seria o objetivo, mas ele é um guerreiro poderoso por si só e nunca está longe de sua legião."</DefaultText>
+      <DefaultText>"Eu lutei contra o [url=glossary:disfavored]Desfavorecido[/url] e conheço muito bem sua habilidade e tenacidade. Destruindo o [url=glossary:disfavored]Desfavorecido[/url] embora... por onde começar? Matando [url=glossary:graven ashe]Cinza Esculpida[/url] certamente seria o objetivo, mas ele é um guerreiro poderoso por si só e nunca está longe de sua legião."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>"Poderíamos tentar nos aconselhar com o inimigo do nosso inimigo... sem dúvida [url=glossary:the voices of nerat]o Vozes de Nerat[/url] estaria ansioso para destruir [url=glossary:graven ashe]Cinza esculpida[/url] mas... estou não tenho certeza se associar com o Arconte dos Segredos é sábio."</DefaultText>
+      <DefaultText>"Poderíamos tentar nos aconselhar com o inimigo do nosso inimigo... sem dúvida [url=glossary:the voices of nerat]As Vozes de Nerat[/url] estaria ansioso para destruir [url=glossary:graven ashe]Cinza Esculpida[/url] mas... estou não tenho certeza se associar com o Arconte dos Segredos é sábio."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>212</ID>
-      <DefaultText>"Então você tem todo o meu apoio. O [url=glossary:scarlet chorus]Coro Escarlate[/url] cresceu nos anos de conquista - entre a horda estão Tiersmen lutando porque sentiram que não havia escolha, assim como Tiersmen lutando para ver sua terra natal queimar. Dói-me ter que matar alguns dos primeiros."</DefaultText>
+      <DefaultText>"Então você tem todo o meu apoio. O [url=glossary:scarlet chorus]Coro Escarlate[/url] cresceu nos anos de conquista - entre a horda estão Homens dos Caminhos lutando porque sentiram que não havia escolha, assim como Homens dos Caminhos lutando para ver sua terra natal queimar. Dói-me ter que matar alguns dos primeiros."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>"O [url=glossary:disfavored]Desfavorecido[/url], o [url=glossary:scarlet chorus]Coro Escarlate[/url] - todos os Soberano minions cairão."</DefaultText>
+      <DefaultText>"O [url=glossary:disfavored]Desfavorecido[/url], o [url=glossary:scarlet chorus]Coro Escarlate[/url] - todos os Soberano lacaios cairão."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>214</ID>
-      <DefaultText>"Você não é um mal-humorado? Onde foi esse ódio por [url=glossary:kyros]Kyros[/url]' lacaios há alguns anos? Você parece tão ansioso para se voltar contra seus antigos aliados... mas eu não sou de criticar. Acho que é sábio se inclinar para os ventos da mudança."</DefaultText>
+      <DefaultText>"Você não é um mal-humorado? Onde foi esse ódio por lacaios de [url=glossary:kyros]Kyros[/url] há alguns anos? Você parece tão ansioso para se voltar contra seus antigos aliados... mas eu não sou de criticar. Acho que é sábio se inclinar para os ventos da mudança."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -875,7 +875,7 @@ Eb revira os olhos e balança a cabeça fingindo ofensa.</DefaultText>
     </Entry>
     <Entry>
       <ID>235</ID>
-      <DefaultText>"Você tem uma aliança com [url=glossary:graven ashe]Cinza esculpida[/url] - agora é a hora de aproveitar essa confiança. Talvez você possa apelar para o antigo Arconte de Guerra - fazer com que ele deponha as armas e seja seu vassalo? Isso é isso ou lutar com ele... e prefiro guardar nossas forças para [url=glossary:the voices of nerat]o Vozes de Nerat[/url]."</DefaultText>
+      <DefaultText>"Você tem uma aliança com [url=glossary:graven ashe]Cinza Esculpida[/url] - agora é a hora de aproveitar essa confiança. Talvez você possa apelar para o antigo Arconte de Guerra - fazer com que ele deponha as armas e seja seu vassalo? Isso é isso ou lutar com ele... e prefiro guardar nossas forças para [url=glossary:the voices of nerat]As Vozes de Nerat[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -925,17 +925,17 @@ Eb revira os olhos e balança a cabeça fingindo ofensa.</DefaultText>
     </Entry>
     <Entry>
       <ID>251</ID>
-      <DefaultText>"Isso é duas vezes agora que você desfez um dos [url=glossary:kyros]Kyros[/url]' Editais. Se você está tentando atrair a ira do soberano... bom trabalho?"</DefaultText>
+      <DefaultText>"Isso é duas vezes agora que você desfez um dos [url=glossary:edict]Editais[/url] de [url=glossary:kyros]Kyros[/url]. Se você está tentando atrair a ira do soberano... bom trabalho?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>252</ID>
-      <DefaultText>"O [url=glossary:edict]Edital[/url] de Tempestades prometia ser a morte da península. Não tenho ideia de como o [url=glossary:unbroken]ininterrupto[/url] durou tanto tempo, com colheitas arruinadas, estradas destruídas e inundações irregulares."</DefaultText>
+      <DefaultText>"O [url=glossary:edict]Edital[/url] de Tempestades prometia ser a morte da península. Não tenho ideia de como o [url=glossary:unbroken]Inquebrável[/url] durou tanto tempo, com colheitas arruinadas, estradas destruídas e inundações irregulares."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>253</ID>
-      <DefaultText>"Os Sábios têm sua cota de inimigos, e há alguns que podem ter pensado que o [url=glossary:edict]Edital[/url] de Incêndio um destino adequado. Independentemente do que os Sábios mereçam ou não, o conhecimento no [url=glossary:vellum citadel]Cidadela de Velino[/url] pertence a todos nós - e [url=glossary:kyros]Kyros[/url]' destruição desse conhecimento é o que realmente emaranhado minha linha."</DefaultText>
+      <DefaultText>"Os Sábios têm sua cota de inimigos, e há alguns que podem ter pensado que o [url=glossary:edict]Edital[/url] de Incêndio um destino adequado. Independentemente do que os Sábios mereçam ou não, o conhecimento no [url=glossary:vellum citadel]Cidadela de Velino[/url] pertence a todos nós - e [url=glossary:kyros]Kyros[/url] destruiu desse conhecimento é o que realmente emaranhado minha linha."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1129,7 +1129,7 @@ Eb dá de ombros, seus olhos olhando para longe.</DefaultText>
     </Entry>
     <Entry>
       <ID>294</ID>
-      <DefaultText>"Pelo que entendi, os Malditos são pedaços de vontade mágica que têm vida própria prolongada. Acredito que eles se aninham ou se reproduzem no Oldwalls - o único lugar em que você os encontra regularmente."</DefaultText>
+      <DefaultText>"Pelo que entendi, os Malditos são pedaços de vontade mágica que têm vida própria prolongada. Acredito que eles se aninham ou se reproduzem no Muralhas Antigas - o único lugar em que você os encontra regularmente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1156,7 +1156,7 @@ Ela olha para o chão com um sorriso torto.</DefaultText>
     </Entry>
     <Entry>
       <ID>304</ID>
-      <DefaultText>"A primeira Lançadores de maré recebeu o dom da magia do fundador da nossa escola, [url=lore:eb_occultedjade]Jade Oculto, Arconte das Marés.[/url] Embora ela não fosse da [url=glossary:kyros]Kyros[/url]' laia, ela era tão poderosa quanto qualquer Arconte, e de seu nome e legado podemos [url=lore:eb_moons]imitar a atração das luas sobre os mares[/url] e mudar as correntes."</DefaultText>
+      <DefaultText>"A primeira Lançadores de maré recebeu o dom da magia do fundador da nossa escola, [url=lore:eb_occultedjade]Jade Oculto, Arconte das Marés.[/url] Embora ela não fosse da laia de [url=glossary:kyros]Kyros[/url], ela era tão poderosa quanto qualquer Arconte, e de seu nome e legado podemos [url=lore:eb_moons]imitar a atração das luas sobre os mares[/url] e mudar as correntes."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1171,12 +1171,12 @@ Ela olha para o chão com um sorriso torto.</DefaultText>
     </Entry>
     <Entry>
       <ID>309</ID>
-      <DefaultText>"E o [url=glossary:the voices of nerat]o Vozes de Nerat[/url]?"</DefaultText>
+      <DefaultText>"E o [url=glossary:the voices of nerat]As Vozes de Nerat[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>310</ID>
-      <DefaultText>"O que você sabe sobre [url=glossary:graven ashe]Cinza esculpida[/url]?"</DefaultText>
+      <DefaultText>"O que você sabe sobre [url=glossary:graven ashe]Cinza Esculpida[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1211,7 +1211,7 @@ Ela olha para o chão com um sorriso torto.</DefaultText>
     </Entry>
     <Entry>
       <ID>321</ID>
-      <DefaultText>"Antes da conquista, eu assumi [url=glossary:graven ashe]Cinza esculpida[/url] um velho inofensivo - um Arconte-em-nome-apenas passado de seu auge. Eu não poderia estar mais errado."</DefaultText>
+      <DefaultText>"Antes da conquista, eu assumi [url=glossary:graven ashe]Cinza Esculpida[/url] um velho inofensivo - um Arconte-em-nome-apenas passado de seu auge. Eu não poderia estar mais errado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1246,17 +1246,17 @@ Ela olha para o chão com um sorriso torto.</DefaultText>
     </Entry>
     <Entry>
       <ID>331</ID>
-      <DefaultText>"Então devo perguntar, qual é o seu objetivo por trás de trabalhar com [url=glossary:the voices of nerat]o Vozes de Nerat[/url]?"</DefaultText>
+      <DefaultText>"Então devo perguntar, qual é o seu objetivo por trás de trabalhar com [url=glossary:the voices of nerat]As Vozes de Nerat[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>332</ID>
-      <DefaultText>"A Guilda Earthshakers não jura mais fidelidade a [url=glossary:graven ashe]Cinza esculpida[/url] por meio de [url=glossary:cairn]Cairn[/url], você é o novo líder deles. Você tem sua própria escola de magos do solo - estou quase com inveja." Sorrindo amplamente, Eb acena com a cabeça por vários longos momentos.</DefaultText>
+      <DefaultText>"A Guilda Tremedores de Terra não jura mais fidelidade a [url=glossary:graven ashe]Cinza Esculpida[/url] por meio de [url=glossary:cairn]Cairn[/url], você é o novo líder deles. Você tem sua própria escola de magos do solo - estou quase com inveja." Sorrindo amplamente, Eb acena com a cabeça por vários longos momentos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>333</ID>
-      <DefaultText>"Os [url=glossary:unbroken]ininterrupto[/url] comprometeram suas vidas à nossa causa. O reforjado [url=glossary:unbroken]ininterrupto[/url], como passei a pensar neles - boa viagem para o Regentes. Com eles do nosso lado, pode haver esperança para o Camadas... não diga a nenhum deles que eu disse isso."</DefaultText>
+      <DefaultText>"Os [url=glossary:unbroken]Inquebrável[/url] comprometeram suas vidas à nossa causa. O reforjado [url=glossary:unbroken]Inquebrável[/url], como passei a pensar neles - boa viagem para o Regentes. Com eles do nosso lado, pode haver esperança para o Camadas... não diga a nenhum deles que eu disse isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1266,7 +1266,7 @@ Ela olha para o chão com um sorriso torto.</DefaultText>
     </Entry>
     <Entry>
       <ID>337</ID>
-      <DefaultText>"Antes que a escuridão chegue para Vinculador do Destino - antes que as estações possam tornar humanos fracos, murchos e fracos como filhotes, choramingando para serem cortados - Mortes-in-Shadow vai rasgar Vinculador do Destino em pedaços. Dará boa morte em batalha."</DefaultText>
+      <DefaultText>"Antes que a escuridão chegue para Vinculador do Destino - antes que as estações possam tornar humanos fracos, murchos e fracos como filhotes, choramingando para serem cortados - Mortes nas Sombras vai rasgar Vinculador do Destino em pedaços. Dará boa morte em batalha."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1281,7 +1281,7 @@ Ela olha para o chão com um sorriso torto.</DefaultText>
     </Entry>
     <Entry>
       <ID>340</ID>
-      <DefaultText>"Os [url=glossary:forge-bound]Forge-Bound[/url] estão no seu bolso, podemos negar armas aos Arcontes' exércitos e mantê-los para nossos próprios atos nefastos relacionados à insurreição. Também, quando tudo isso acabar, farei você fazê-los compartilhar sua magia comigo."</DefaultText>
+      <DefaultText>"Os [url=glossary:forge-bound]Vinculado à Forja[/url] estão no seu bolso, podemos negar armas aos Arcontes' exércitos e mantê-los para nossos próprios atos nefastos relacionados à insurreição. Também, quando tudo isso acabar, farei você fazê-los compartilhar sua magia comigo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1368,22 +1368,22 @@ Eb solta um longo suspiro, seus olhos examinando o chão por um longo momento.</
     </Entry>
     <Entry>
       <ID>373</ID>
-      <DefaultText>"Refúgio, Azure, Ápice e Robusto foram as quatro principais forças dos Tiers nos últimos quatro séculos. Algumas outras dinastias tentaram sua sorte, mas todas foram derrotadas ou absorvidas pelas quatro que conhecemos hoje."</DefaultText>
+      <DefaultText>"Refúgio, Azure, Ápice e Robusto foram as quatro principais forças dos Camadas nos últimos quatro séculos. Algumas outras dinastias tentaram sua sorte, mas todas foram derrotadas ou absorvidas pelas quatro que conhecemos hoje."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>374</ID>
-      <DefaultText>"Não tenho certeza de quando o termo 'jovem' entrou na moda, mas sempre foi um termo de contraste humilde - basta olhar para o Oldwalls - alguém esteve aqui antes de nós e os construiu - não sei realmente nada sobre eles , mas é lógico que costumava haver um Reinos Antigos que fazia toda a construção."</DefaultText>
+      <DefaultText>"Não tenho certeza de quando o termo 'jovem' entrou na moda, mas sempre foi um termo de contraste humilde - basta olhar para as Muralhas Antigas - alguém esteve aqui antes de nós e os construiu - não sei realmente nada sobre eles , mas é lógico que costumava haver um Reinos Antigos que fazia toda a construção."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>375</ID>
-      <DefaultText>"Embora muitos costumavam brincar sobre o [url=glossary:bastard city]Cidade bastarda[/url] ser saqueado por cães raivosos, a captura da cidade por [url=glossary:tunon]Tunon[/url] foi um golpe terrível para o moral dos Tiersmen - sabíamos que aquele dia [url=glossary:kyros]Kyros[/url] era mais do que apenas uma história divertida para assustar seus filhos."</DefaultText>
+      <DefaultText>"Embora muitos costumavam brincar sobre o [url=glossary:bastard city]Cidade bastarda[/url] ser saqueado por cães raivosos, a captura da cidade por [url=glossary:tunon]Tunon[/url] foi um golpe terrível para o moral dos Homens dos Caminhos - sabíamos que aquele dia [url=glossary:kyros]Kyros[/url] era mais do que apenas uma história divertida para assustar seus filhos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>380</ID>
-      <DefaultText>"Acho que você descobrirá que cada um de nós se considera um filho de Refúgio - como no meu caso - ou um filho de Azure, filho de Ápice ou o que você quiser... Tiersmen temos nossos costumes compartilhados - o mais precioso desses costumes costumava ser o orgulho de estar livre da [url=glossary:kyros]Kyros[/url]' regra."</DefaultText>
+      <DefaultText>"Acho que você descobrirá que cada um de nós se considera um filho de Refúgio - como no meu caso - ou um filho de Azure, filho de Ápice ou o que você quiser... Homens dos Caminhos temos nossos costumes compartilhados - o mais precioso desses costumes costumava ser o orgulho de estar livre da regra de [url=glossary:kyros]Kyros[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1408,12 +1408,12 @@ Eb solta um longo suspiro, seus olhos examinando o chão por um longo momento.</
     </Entry>
     <Entry>
       <ID>385</ID>
-      <DefaultText>"Tiersmen vivem com um número maior de Homens-fera - como é isso?"</DefaultText>
+      <DefaultText>"Homens dos Caminhos vivem com um número maior de Homens-fera - como é isso?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>389</ID>
-      <DefaultText>"Colonos humanos chegaram há mais de quatrocentos anos. Deslocados de uma guerra entre o que são agora [url=glossary:kyros]Kyros[/url]' reinos de Trevn e Areias Férteis, uma flotilha de plataformas mal navegadas rumo ao oeste em alto mar."</DefaultText>
+      <DefaultText>"Colonos humanos chegaram há mais de quatrocentos anos. Deslocados de uma guerra entre o que são agora reinos de [url=glossary:kyros]Kyros[/url] de Trevn e Areias Férteis, uma flotilha de plataformas mal navegadas rumo ao oeste em alto mar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1448,7 +1448,7 @@ Eb solta um longo suspiro, seus olhos examinando o chão por um longo momento.</
     </Entry>
     <Entry>
       <ID>396</ID>
-      <DefaultText>"O [url=glossary:unbroken]ininterrupto[/url] ainda persiste - embora marginalmente - o [url=glossary:disfavored]Desfavorecido[/url] se retirou após o [url=glossary:edict]Edital[/url] de Tempestades começar a destruir a paisagem . Sua fortaleza de Guarda Sentinela nunca foi tomada, e o exército dos cidadãos, embora disperso, ainda pode ser reunido."</DefaultText>
+      <DefaultText>"O [url=glossary:unbroken]Inquebrável[/url] ainda persiste - embora marginalmente - o [url=glossary:disfavored]Desfavorecido[/url] se retirou após o [url=glossary:edict]Edital[/url] de Tempestades começar a destruir a paisagem . Sua fortaleza de Guarda Sentinela nunca foi tomada, e o exército dos cidadãos, embora disperso, ainda pode ser reunido."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1493,17 +1493,17 @@ Eb solta um longo suspiro, seus olhos examinando o chão por um longo momento.</
     </Entry>
     <Entry>
       <ID>405</ID>
-      <DefaultText>"Diga-me sua opinião sobre Mortes-in-Shadow."</DefaultText>
+      <DefaultText>"Diga-me sua opinião sobre Mortes nas Sombras."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>406</ID>
-      <DefaultText>"Minha única preocupação com Barik é que ele ainda é leal a [url=glossary:graven ashe]Cinza esculpida[/url] e não a você. Barik parece firme, fiel e confiável - mas se se trata de você versus [url=glossary:graven ashe]Cinza esculpida[/url]... aí está o teste."</DefaultText>
+      <DefaultText>"Minha única preocupação com Barik é que ele ainda é leal a [url=glossary:graven ashe]Cinza Esculpida[/url] e não a você. Barik parece firme, fiel e confiável - mas se se trata de você versus [url=glossary:graven ashe]Cinza Esculpida[/url]... aí está o teste."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>407</ID>
-      <DefaultText>"Devemos nos considerar afortunados que um dos membros mais mortais do Fúrias Escarlates considere você um líder de gangue adequado. Dito isso, acho que o envolvimento dela com você é totalmente suspeito - eu apostaria um bom dinheiro [url=glossary:the voices of nerat]o Vozes de Nerat[/url] está ouvindo através dela, ou talvez vendo o que ela vê."</DefaultText>
+      <DefaultText>"Devemos nos considerar afortunados que um dos membros mais mortais do Fúrias Escarlates considere você um líder de gangue adequado. Dito isso, acho que o envolvimento dela com você é totalmente suspeito - eu apostaria um bom dinheiro [url=glossary:the voices of nerat]As Vozes de Nerat[/url] está ouvindo através dela, ou talvez vendo o que ela vê."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1518,12 +1518,12 @@ Eb solta um longo suspiro, seus olhos examinando o chão por um longo momento.</
     </Entry>
     <Entry>
       <ID>410</ID>
-      <DefaultText>"Enquanto ela não perceber você fraco o suficiente para desafiar, Kills-in-Shadow deve provar ser um retentor temível e leal."</DefaultText>
+      <DefaultText>"Enquanto ela não perceber você fraco o suficiente para desafiar, Mortes nas Sombras deve provar ser um retentor temível e leal."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>411</ID>
-      <DefaultText>"Pelo que entendi, o Tremedores de terra serve o [url=glossary:disfavored]Desfavorecido[/url], mas o relacionamento foi profundamente tenso pela queda de [url=glossary:cairn]Cairn[/url] - eu poderia imaginar há o medo [url=glossary:cairn]Cairn[/url] compartilhado com eles algo subversivo ou traidor?"</DefaultText>
+      <DefaultText>"Pelo que entendi, o Tremedores de Terra serve o [url=glossary:disfavored]Desfavorecido[/url], mas o relacionamento foi profundamente tenso pela queda de [url=glossary:cairn]Cairn[/url] - eu poderia imaginar há o medo [url=glossary:cairn]Cairn[/url] compartilhado com eles algo subversivo ou traidor?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1548,12 +1548,12 @@ Eb solta um longo suspiro, seus olhos examinando o chão por um longo momento.</
     </Entry>
     <Entry>
       <ID>417</ID>
-      <DefaultText>"O fim da história você já deve saber - alguns Vinculadores do Destino fizeram com que os Ancião dos Titulares fossem levados acorrentados para o [url=glossary:the voices of nerat]o Vozes de Nerat[/url]. Não que eu ainda esteja amargo." Eb olha para você com uma carranca.</DefaultText>
+      <DefaultText>"O fim da história você já deve saber - alguns Vinculadores do Destino fizeram com que os Ancião dos Titulares fossem levados acorrentados para o [url=glossary:the voices of nerat]As Vozes de Nerat[/url]. Não que eu ainda esteja amargo." Eb olha para você com uma carranca.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>418</ID>
-      <DefaultText>"Eu sei que [url=glossary:the voices of nerat]o Vozes de Nerat[/url] gostaria de ter as mãos em nossos praticantes, então obrigado novamente por dar aos meus mentores a morte com dignidade. Pensar neles vivendo em tormento presos naquela... coisa, eck."</DefaultText>
+      <DefaultText>"Eu sei que [url=glossary:the voices of nerat]As Vozes de Nerat[/url] gostaria de ter as mãos em nossos praticantes, então obrigado novamente por dar aos meus mentores a morte com dignidade. Pensar neles vivendo em tormento presos naquela... coisa, eck."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1568,17 +1568,17 @@ Eb solta um longo suspiro, seus olhos examinando o chão por um longo momento.</
     </Entry>
     <Entry>
       <ID>421</ID>
-      <DefaultText>"Vou te dizer uma coisa, o ódio dela por [url=glossary:the voices of nerat]o Vozes de Nerat[/url] é genuíno ou um ato fantástico. Mas sendo um mentiroso gigante, reconheço outro mentiroso quando vejo um... e aposto que essa queixa é sincera."</DefaultText>
+      <DefaultText>"Vou te dizer uma coisa, o ódio dela por [url=glossary:the voices of nerat]As Vozes de Nerat[/url] é genuíno ou um ato fantástico. Mas sendo um mentiroso gigante, reconheço outro mentiroso quando vejo um... e aposto que essa queixa é sincera."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>422</ID>
-      <DefaultText>"Kills-in-Shadow adota esse otimismo mais do que qualquer outro. Parece que ela não tem espaço para ficar triste com o que o soberano destruiu - ela parece se importar apenas com o que pode ser esculpido do que resta. Eu tento encontrar inspiração nisso."</DefaultText>
+      <DefaultText>"Mortes nas Sombras adota esse otimismo mais do que qualquer outro. Parece que ela não tem espaço para ficar triste com o que o soberano destruiu - ela parece se importar apenas com o que pode ser esculpido do que resta. Eu tento encontrar inspiração nisso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>424</ID>
-      <DefaultText>"Há mais ou menos um ano, sob uma conversa de bandeira azul com um comandante, me disseram que o Arconte sabe o nome de todos os soldados sob seu comando - vivos e mortos. Da forma como o [url=glossary:disfavored]Desfavorecido[/url] fala de Ashe, você pensaria que ele ressuscitou cada um deles desde o berço."</DefaultText>
+      <DefaultText>"Há mais ou menos um ano, sob uma conversa de bandeira azul com um comandante, me disseram que o Arconte sabe o nome de todos os soldados sob seu comando - vivos e mortos. Da forma como o [url=glossary:disfavored]Desfavorecido[/url] fala de Cinza, você pensaria que ele ressuscitou cada um deles desde o berço."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1598,7 +1598,7 @@ Eb solta um longo suspiro, seus olhos examinando o chão por um longo momento.</
     </Entry>
     <Entry>
       <ID>430</ID>
-      <DefaultText>"Claro, estou deixando de fora a questão dos construtores do Oldwalls - quem sabe quando eles moravam aqui e por que eles se foram, mas aqueles Oldwalls não caíram do céu. "</DefaultText>
+      <DefaultText>"Claro, estou deixando de fora a questão dos construtores do Muralhas Antigas - quem sabe quando eles moravam aqui e por que eles se foram, mas aqueles Muralhas Antigas não caíram do céu. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1726,7 +1726,7 @@ Eb levanta a mão direita, curvando a palma da mão enquanto abre os dedos. Com 
     </Entry>
     <Entry>
       <ID>462</ID>
-      <DefaultText>"Bem, se você estiver trabalhando com [url=glossary:graven ashe]Cinza esculpida[/url], dê tudo de si. Ofereça-se para ajudar o Arconte de Guerra com o que ele precisar - quanto mais forte a legião, mais fraco o Refrão. E se você chegar perto o suficiente dele - bem, com confiança suficiente, você pode chegar muito perto do Arconte de Guerra."</DefaultText>
+      <DefaultText>"Bem, se você estiver trabalhando com [url=glossary:graven ashe]Cinza Esculpida[/url], dê tudo de si. Ofereça-se para ajudar o Arconte de Guerra com o que ele precisar - quanto mais forte a legião, mais fraco o Refrão. E se você chegar perto o suficiente dele - bem, com confiança suficiente, você pode chegar muito perto do Arconte de Guerra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1741,7 +1741,7 @@ Eb levanta a mão direita, curvando a palma da mão enquanto abre os dedos. Com 
     </Entry>
     <Entry>
       <ID>465</ID>
-      <DefaultText>"Os [url=glossary:disfavored]Desfavorecido[/url] zombaram de todos os exércitos do Camadas - mesmo o [url=glossary:unbroken]ininterrupto[/url] não conseguiu vencê-los. Contra tal inimigo, a jogada sensata é colocar outros em perigo - e o [url=glossary:scarlet chorus]Coro Escarlate[/url] não tem escassez de forragem."</DefaultText>
+      <DefaultText>"Os [url=glossary:disfavored]Desfavorecido[/url] zombaram de todos os exércitos do Camadas - mesmo o [url=glossary:unbroken]Inquebrável[/url] não conseguiu vencê-los. Contra tal inimigo, a jogada sensata é colocar outros em perigo - e o [url=glossary:scarlet chorus]Coro Escarlate[/url] não tem escassez de forragem."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1761,7 +1761,7 @@ Eb levanta a mão direita, curvando a palma da mão enquanto abre os dedos. Com 
     </Entry>
     <Entry>
       <ID>469</ID>
-      <DefaultText>"Bem, eu sou um mentiroso talentoso, mas não preciso contar uma história sobre nada disso. Meu marido, a maioria dos meus filhos, meus pais - [url=glossary:kyros]Kyros[/url]' bandidos levaram todos eles. Se eu não pareço quebrado, é porque eu não estou - eu não sinto mais essas coisas."</DefaultText>
+      <DefaultText>"Bem, eu sou um mentiroso talentoso, mas não preciso contar uma história sobre nada disso. Meu marido, a maioria dos meus filhos, meus pais - bandidos de [url=glossary:kyros]Kyros[/url] levaram todos eles. Se eu não pareço quebrado, é porque eu não estou - eu não sinto mais essas coisas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1895,7 +1895,7 @@ Eb levanta o tecido de seu sarongue para mostrar uma cicatriz profunda em seu qu
     </Entry>
     <Entry>
       <ID>501</ID>
-      <DefaultText>"Humano tem cicatrizes como Mortes-in-Shadow. É bom. Marca de ferida profunda e dolorosa. Prova Alfa é o melhor e mais forte humano."
+      <DefaultText>"Humano tem cicatrizes como Mortes nas Sombras. É bom. Marca de ferida profunda e dolorosa. Prova Alfa é o melhor e mais forte humano."
 
 Ela se anima, olhando a linha retorcida com interesse.</DefaultText>
       <FemaleText />
@@ -1937,17 +1937,17 @@ Ela se anima, olhando a linha retorcida com interesse.</DefaultText>
     </Entry>
     <Entry>
       <ID>515</ID>
-      <DefaultText>"E por 'força' quero dizer 'truque' - acho que ambos sabemos que [url=glossary:the voices of nerat]o Vozes de Nerat[/url] não é nada senão ambicioso. Ele vai tentar fazer VOCÊ se curvar a ele."</DefaultText>
+      <DefaultText>"E por 'força' quero dizer 'truque' - acho que ambos sabemos que [url=glossary:the voices of nerat]As Vozes de Nerat[/url] não é nada senão ambicioso. Ele vai tentar fazer VOCÊ se curvar a ele."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>516</ID>
-      <DefaultText>"O plano ideal seria colocar o [url=glossary:disfavored]Desfavorecido[/url] diretamente contra o Coro para que pudéssemos nos concentrar no [url=glossary:the voices of nerat]o Vozes de Nerat[/url] com a menor interferência possível de seu lacaio."</DefaultText>
+      <DefaultText>"O plano ideal seria colocar o [url=glossary:disfavored]Desfavorecido[/url] diretamente contra o Coro para que pudéssemos nos concentrar no [url=glossary:the voices of nerat]As Vozes de Nerat[/url] com a menor interferência possível de seu lacaio."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>517</ID>
-      <DefaultText>"Mas então há seu mestre [url=glossary:tunon]Tunon[/url] e [url=glossary:bleden mark]Marca de mistura[/url]. Teremos que lidar com eles também... não que eu tenha escrúpulos em matá-los, mas acho que eles combinarão forças e não cairão facilmente."</DefaultText>
+      <DefaultText>"Mas então há seu mestre [url=glossary:tunon]Tunon[/url] e [url=glossary:bleden mark]Marca de Mistura[/url]. Teremos que lidar com eles também... não que eu tenha escrúpulos em matá-los, mas acho que eles combinarão forças e não cairão facilmente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1957,12 +1957,12 @@ Ela se anima, olhando a linha retorcida com interesse.</DefaultText>
     </Entry>
     <Entry>
       <ID>519</ID>
-      <DefaultText>"Dito isso, eu ficaria mais preocupado com seus mentores - [url=glossary:tunon]Tunon[/url] e [url=glossary:bleden mark]Marca de mistura[/url]. [url=glossary:graven ashe]Cinza esculpida[/url] e Nerat são simples, podemos matá-los separadamente, duvido que possamos dividir e conquistar os Arcontes do Tribunal."</DefaultText>
+      <DefaultText>"Dito isso, eu ficaria mais preocupado com seus mentores - [url=glossary:tunon]Tunon[/url] e [url=glossary:bleden mark]Marca de Mistura[/url]. [url=glossary:graven ashe]Cinza Esculpida[/url] e Nerat são simples, podemos matá-los separadamente, duvido que possamos dividir e conquistar os Arcontes do Tribunal."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>520</ID>
-      <DefaultText>"[url=glossary:graven ashe]Cinza esculpida[/url] é meu aliado, não vou aceitar tal traição."</DefaultText>
+      <DefaultText>"[url=glossary:graven ashe]Cinza Esculpida[/url] é meu aliado, não vou aceitar tal traição."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1972,7 +1972,7 @@ Ela se anima, olhando a linha retorcida com interesse.</DefaultText>
     </Entry>
     <Entry>
       <ID>522</ID>
-      <DefaultText>"Eu nunca vou entender porque o engano é o primeiro instinto de todos Tiersmen. Você está certo em se ofender."</DefaultText>
+      <DefaultText>"Eu nunca vou entender porque o engano é o primeiro instinto de todos Homens dos Caminhos. Você está certo em se ofender."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1997,12 +1997,12 @@ Ela se anima, olhando a linha retorcida com interesse.</DefaultText>
     </Entry>
     <Entry>
       <ID>527</ID>
-      <DefaultText>"A maioria dos fraternidade pereceu na guerra, mas um punhado, a equipe contratada para trabalhar em [url=glossary:lethian's crossing]A travessia de Lethian[/url] - eles conseguiram tomar conta da [url=glossary:forge-bound]Forge- Vincule[/url] e sobreviva aos últimos anos com pequenas perdas."</DefaultText>
+      <DefaultText>"A maioria dos fraternidade pereceu na guerra, mas um punhado, a equipe contratada para trabalhar em [url=glossary:lethian's crossing]A Travessia de Lethian[/url] - eles conseguiram tomar conta da [url=glossary:forge-bound]Forge- Vincule[/url] e sobreviva aos últimos anos com pequenas perdas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>528</ID>
-      <DefaultText>"Você provavelmente os conhece como os mercenários bêbados em [url=glossary:lethian's crossing]A travessia de Lethian[/url]? [url=lore:eb_lcpast]Desde quando você era Governador?"[/url]</DefaultText>
+      <DefaultText>"Você provavelmente os conhece como os mercenários bêbados em [url=glossary:lethian's crossing]A Travessia de Lethian[/url]? [url=lore:eb_lcpast]Desde quando você era Governador?"[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2127,7 +2127,7 @@ Ela se anima, olhando a linha retorcida com interesse.</DefaultText>
     </Entry>
     <Entry>
       <ID>557</ID>
-      <DefaultText>"Oportunidade... foi isso que nos matou. Refúgio queria ver o Nível Bastardo cair primeiro, Apex esperava que Refúgio caísse, Azure queria que Stalwart fosse atacado primeiro."</DefaultText>
+      <DefaultText>"Oportunidade... foi isso que nos matou. Refúgio queria ver o Nível Bastardo cair primeiro, Apex esperava que Refúgio caísse, Azure queria que Robusto fosse atacado primeiro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2159,22 +2159,22 @@ Ela inala bruscamente, cruzando os braços com uma carranca.</DefaultText>
     </Entry>
     <Entry>
       <ID>563</ID>
-      <DefaultText>"Foi você? Eu não... eu não fazia ideia... eu não sabia que você realmente fez algo benéfico para nós Tiersmen... eu aprovo."</DefaultText>
+      <DefaultText>"Foi você? Eu não... eu não fazia ideia... eu não sabia que você realmente fez algo benéfico para nós Homens dos Caminhos... eu aprovo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>564</ID>
-      <DefaultText>"Se algum bando de tolos precisasse de uma surra, seriam eles. Aposto que as pessoas que realmente têm que viver em [url=glossary:lethian's crossing]A travessia de Lethian[/url] ficaram felizes por você comandar o show."</DefaultText>
+      <DefaultText>"Se algum bando de tolos precisasse de uma surra, seriam eles. Aposto que as pessoas que realmente têm que viver em [url=glossary:lethian's crossing]A Travessia de Lethian[/url] ficaram felizes por você comandar o show."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>567</ID>
-      <DefaultText>"A maioria dos Cidades Livres foram derrotados com pouco esforço pelas forças de [url=glossary:kyros]Kyros[/url]'. Do jeito que eu ouvi, Nerat só precisava que os agentes contratassem seus mercenários e ordenassem que eles simplesmente... estivessem em outro lugar quando os exércitos do soberano chegassem."</DefaultText>
+      <DefaultText>"A maioria dos Cidades Livres foram derrotados com pouco esforço pelas forças de [url=glossary:kyros]Kyros[/url]. Do jeito que eu ouvi, Nerat só precisava que os agentes contratassem seus mercenários e ordenassem que eles simplesmente... estivessem em outro lugar quando os exércitos do soberano chegassem."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>569</ID>
-      <DefaultText>"Ashe é um general notável - ele liderou seu pequeno grupo de [url=glossary:disfavored]Desfavorecido[/url] em uma fúria quase imparável do Camadas. E ele não parece vencer suas guerras com demonstrações óbvias de poderes místicos - mas com liderança antiquada e bons soldados."</DefaultText>
+      <DefaultText>"Cinza é um general notável - ele liderou seu pequeno grupo de [url=glossary:disfavored]Desfavorecido[/url] em uma fúria quase imparável do Camadas. E ele não parece vencer suas guerras com demonstrações óbvias de poderes místicos - mas com liderança antiquada e bons soldados."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2254,7 +2254,7 @@ Ela inala bruscamente, cruzando os braços com uma carranca.</DefaultText>
     </Entry>
     <Entry>
       <ID>585</ID>
-      <DefaultText>"Ah, eu não sei, o Arconte de Não é meu problema? Isso é tudo o que me resta que me torna especial, preservar o conhecimento para os contramestres prestes a herdar os Tiers não está na minha agenda."</DefaultText>
+      <DefaultText>"Ah, eu não sei, o Arconte de Não é meu problema? Isso é tudo o que me resta que me torna especial, preservar o conhecimento para os contramestres prestes a herdar os Camadas não está na minha agenda."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2274,7 +2274,7 @@ Ela inala bruscamente, cruzando os braços com uma carranca.</DefaultText>
     </Entry>
     <Entry>
       <ID>589</ID>
-      <DefaultText>"Eu me contentaria com... [url=glossary:kyros]Kyros[/url]' cabeça decepada? Certo, traga-me isso - bandeja de prata opcional - e eu lhe ensinarei tudo o que sei sobre magia e talvez até um pouco do que sei sobre dar nós."</DefaultText>
+      <DefaultText>"Eu me contentaria com... cabeça decepada de [url=glossary:kyros]Kyros[/url]? Certo, traga-me isso - bandeja de prata opcional - e eu lhe ensinarei tudo o que sei sobre magia e talvez até um pouco do que sei sobre dar nós."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2324,7 +2324,7 @@ Ela inala bruscamente, cruzando os braços com uma carranca.</DefaultText>
     </Entry>
     <Entry>
       <ID>599</ID>
-      <DefaultText>"Como o místico da água sabe que os fabricantes Oldwalls' se foram? Mulheres-feras ainda estão aqui, sim? Não pense que Mulheres-feras poderia ter esculpido Oldwalls mesmo que as tribos vivessem em terras muito antes dos humanos?"</DefaultText>
+      <DefaultText>"Como o místico da água sabe que os fabricantes Muralhas Antigas' se foram? Mulheres-feras ainda estão aqui, sim? Não pense que Mulheres-feras poderia ter esculpido Muralhas Antigas mesmo que as tribos vivessem em terras muito antes dos humanos?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2426,7 +2426,7 @@ Ela dá uma risada e coça suas tetas marcadas.</DefaultText>
     </Entry>
     <Entry>
       <ID>623</ID>
-      <DefaultText>"Acho estranho... em humanos, [url=glossary:kyros]Kyros[/url]' invasão gerou desespero, rendição, raiva... #, e inabalável pelo constante estado de guerra que os Camadas viram."</DefaultText>
+      <DefaultText>"Acho estranho... em humanos, invasão de [url=glossary:kyros]Kyros[/url] gerou desespero, rendição, raiva... , e inabalável pelo constante estado de guerra que os Camadas viram."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2451,7 +2451,7 @@ Ela dá uma risada e coça suas tetas marcadas.</DefaultText>
     </Entry>
     <Entry>
       <ID>634</ID>
-      <DefaultText>"Depois veio a guerra e... e aprendi que seria um dos últimos Tiersmen a viver livre de [url=glossary:kyros]Kyros[/url]. Desde então, acho que 'oathbreaker' tem sido tecnicamente minha profissão escolhida."</DefaultText>
+      <DefaultText>"Depois veio a guerra e... e aprendi que seria um dos últimos Homens dos Caminhos a viver livre de [url=glossary:kyros]Kyros[/url]. Desde então, acho que 'oathbreaker' tem sido tecnicamente minha profissão escolhida."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2466,7 +2466,7 @@ Ela dá uma risada e coça suas tetas marcadas.</DefaultText>
     </Entry>
     <Entry>
       <ID>637</ID>
-      <DefaultText>"Se alguém lançou um [url=glossary:edict]Edital[/url] além de [url=glossary:kyros]Kyros[/url] nos últimos 431 anos... Tenho certeza de que saberíamos. Haveria testemunhas e evidências que ultrapassaram [url=glossary:kyros]Kyros[/url]' marchando para o oeste, o Sábios teria ouvido falar disso."</DefaultText>
+      <DefaultText>"Se alguém lançou um [url=glossary:edict]Edital[/url] além de [url=glossary:kyros]Kyros[/url] nos últimos 431 anos... Tenho certeza de que saberíamos. Haveria testemunhas e evidências que ultrapassaram [url=glossary:kyros]Kyros[/url] marchando para o oeste, o Sábios teria ouvido falar disso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2516,17 +2516,17 @@ Ela dá uma risada e coça suas tetas marcadas.</DefaultText>
     </Entry>
     <Entry>
       <ID>647</ID>
-      <DefaultText>"Os [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] de [url=glossary:lethian's crossing]A travessia de Lethian[/url] não são necessariamente uma boa companhia, mas pelo menos será rápido e fácil descobrir onde estamos eles - nós podemos pagar ou não, eles aceitam um contrato ou não."</DefaultText>
+      <DefaultText>"Os [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] de [url=glossary:lethian's crossing]A Travessia de Lethian[/url] não são necessariamente uma boa companhia, mas pelo menos será rápido e fácil descobrir onde estamos eles - nós podemos pagar ou não, eles aceitam um contrato ou não."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>648</ID>
-      <DefaultText>"Nós vamos... a Corte tem um Guilda de magos, o [url=glossary:forge-bound]Forge-Bound[/url], certo? Elas são seus pares, visto que todos vocês juraram legalmente [url=glossary:tunon]Tunon[/url]. Talvez você consiga que eles sejam... mais leais a você, do que a [url=glossary:tunon]Tunon[/url]?"</DefaultText>
+      <DefaultText>"Nós vamos... a Corte tem um Guilda de magos, o [url=glossary:forge-bound]Vinculado à Forja[/url], certo? Elas são seus pares, visto que todos vocês juraram legalmente [url=glossary:tunon]Tunon[/url]. Talvez você consiga que eles sejam... mais leais a você, do que a [url=glossary:tunon]Tunon[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>649</ID>
-      <DefaultText>"Podemos também tentar colocar uma cunha entre o Tremedores de terra e o [url=glossary:disfavored]Desfavorecido[/url]. Os [url=glossary:disfavored]Desfavorecido[/url] são familiares, mas os Tremedores de terra são... família de casados? Elas eram seguidores de [url=glossary:cairn]Cairn[/url] e foram adotados."</DefaultText>
+      <DefaultText>"Podemos também tentar colocar uma cunha entre o Tremedores de Terra e o [url=glossary:disfavored]Desfavorecido[/url]. Os [url=glossary:disfavored]Desfavorecido[/url] são familiares, mas os Tremedores de Terra são... família de casados? Elas eram seguidores de [url=glossary:cairn]Cairn[/url] e foram adotados."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2561,7 +2561,7 @@ Ela dá uma risada e coça suas tetas marcadas.</DefaultText>
     </Entry>
     <Entry>
       <ID>656</ID>
-      <DefaultText>"Sabemos há muito tempo que o Pináculos irradia campos mágicos fortes, e todos, exceto o Pináculo da Montanha, conectam-se ao Oldwalls - então é o tipo de coisa que as pessoas comuns sabem de longe, mas evitam no dia a dia."</DefaultText>
+      <DefaultText>"Sabemos há muito tempo que o Pináculos irradia campos mágicos fortes, e todos, exceto o Pináculo da Montanha, conectam-se ao Muralhas Antigas - então é o tipo de coisa que as pessoas comuns sabem de longe, mas evitam no dia a dia."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2576,7 +2576,7 @@ Ela dá uma risada e coça suas tetas marcadas.</DefaultText>
     </Entry>
     <Entry>
       <ID>659</ID>
-      <DefaultText>"Se realmente queremos nos odiar pela manhã... Stalwart é muito famoso por não ajudar seus vizinhos, mas também famoso por ser implacável na guerra. Os [url=glossary:disfavored]Desfavorecido[/url] têm sua liderança cercada, mas as pessoas no campo devastado pela tempestade ainda estão lutando."</DefaultText>
+      <DefaultText>"Se realmente queremos nos odiar pela manhã... Robusto é muito famoso por não ajudar seus vizinhos, mas também famoso por ser implacável na guerra. Os [url=glossary:disfavored]Desfavorecido[/url] têm sua liderança cercada, mas as pessoas no campo devastado pela tempestade ainda estão lutando."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2676,7 +2676,7 @@ Ela dá uma risada e coça suas tetas marcadas.</DefaultText>
     </Entry>
     <Entry>
       <ID>680</ID>
-      <DefaultText>"Desde a traição de [url=glossary:cairn]Cairn[/url], temos confiado menos em nossos aliados arcanos. Os Earthshakers são um grupo inconstante e acadêmico. Seus princípios se alinham com sua ambição, não com as esperanças do Norte."</DefaultText>
+      <DefaultText>"Desde a traição de [url=glossary:cairn]Cairn[/url], temos confiado menos em nossos aliados arcanos. Os Tremedores de Terra são um grupo inconstante e acadêmico. Seus princípios se alinham com sua ambição, não com as esperanças do Norte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2701,12 +2701,12 @@ Ela dá uma risada e coça suas tetas marcadas.</DefaultText>
     </Entry>
     <Entry>
       <ID>685</ID>
-      <DefaultText>"Se você está disposto a se contentar com menos, deixe que isso seja da sua conta. Pelo menos [url=glossary:graven ashe]Cinza esculpida[/url] nos manteve em um padrão mais alto."</DefaultText>
+      <DefaultText>"Se você está disposto a se contentar com menos, deixe que isso seja da sua conta. Pelo menos [url=glossary:graven ashe]Cinza Esculpida[/url] nos manteve em um padrão mais alto."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>686</ID>
-      <DefaultText>"Se você fortalecer esses Tiersmen mesquinhos em detrimento da legião Norte, então eu questiono sua mente sobre táticas. Não deixe seu oportunismo fugir de você."</DefaultText>
+      <DefaultText>"Se você fortalecer esses Homens dos Caminhos mesquinhos em detrimento da legião Norte, então eu questiono sua mente sobre táticas. Não deixe seu oportunismo fugir de você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

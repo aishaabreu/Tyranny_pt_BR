@@ -118,7 +118,7 @@ Lantry se curva profundamente, seus olhos nunca encontram seu olhar.</DefaultTex
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"O que você sabe sobre os [url=glossary:kyros]Kyros[/url]' Editais?"</DefaultText>
+      <DefaultText>"O que você sabe sobre os [url=glossary:edict]Editais[/url] de [url=glossary:kyros]Kyros[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -133,7 +133,7 @@ Lantry se curva profundamente, seus olhos nunca encontram seu olhar.</DefaultTex
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Você conhece o Oldwalls?"</DefaultText>
+      <DefaultText>"Você conhece as Muralhas Antigas?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -158,7 +158,7 @@ Lantry se curva profundamente, seus olhos nunca encontram seu olhar.</DefaultTex
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Qual é a sua leitura em Mortes-in-Shadow?"</DefaultText>
+      <DefaultText>"Qual é a sua leitura em Mortes nas Sombras?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -193,12 +193,12 @@ Lantry se curva profundamente, seus olhos nunca encontram seu olhar.</DefaultTex
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Fale-me sobre [url=glossary:graven ashe]Cinza esculpida[/url], Arconte de Guerra."</DefaultText>
+      <DefaultText>"Fale-me sobre [url=glossary:graven ashe]Cinza Esculpida[/url], Arconte de Guerra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Fale-me sobre [url=glossary:the voices of nerat]o Vozes de Nerat[/url], Arconte dos Segredos."</DefaultText>
+      <DefaultText>"Fale-me sobre [url=glossary:the voices of nerat]As Vozes de Nerat[/url], Arconte dos Segredos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -208,7 +208,7 @@ Lantry se curva profundamente, seus olhos nunca encontram seu olhar.</DefaultTex
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Sabe alguma coisa sobre [url=glossary:bleden mark]Marca de mistura[/url], Arconte das Sombras?"</DefaultText>
+      <DefaultText>"Sabe alguma coisa sobre [url=glossary:bleden mark]Marca de Mistura[/url], Arconte das Sombras?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -223,7 +223,7 @@ Lantry se curva profundamente, seus olhos nunca encontram seu olhar.</DefaultTex
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Dele, sei muito pouco. Eu acredito que ele era o 'Homem Selvagem do Colinas' que o [url=glossary:graven ashe]Cinza esculpida[/url] subjugou em 402 - mas apenas uma fonte sugere esse link. Ele era famoso por ser... bem, um grande idiota azedo. Parece que ele deixou sua boca falar sobre [url=glossary:kyros]Kyros[/url] e esse foi o fim de sua história."</DefaultText>
+      <DefaultText>"Dele, sei muito pouco. Eu acredito que ele era o 'Homem Selvagem do Colinas' que o [url=glossary:graven ashe]Cinza Esculpida[/url] subjugou em 402 - mas apenas uma fonte sugere esse link. Ele era famoso por ser... bem, um grande idiota azedo. Parece que ele deixou sua boca falar sobre [url=glossary:kyros]Kyros[/url] e esse foi o fim de sua história."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -243,12 +243,12 @@ Lantry se curva profundamente, seus olhos nunca encontram seu olhar.</DefaultTex
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] é um dos [url=glossary:kyros]Kyros[/url]' servos mais perigosos e imprevisíveis. Ele pode extrair memórias - personalidades inteiras, se você acredita em alguns relatos - de suas vítimas e, com o tempo, isso criou um único Arconte com o conhecimento de inúmeras vidas."</DefaultText>
+      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] é um dos servos de [url=glossary:kyros]Kyros[/url] mais perigosos e imprevisíveis. Ele pode extrair memórias - personalidades inteiras, se você acredita em alguns relatos - de suas vítimas e, com o tempo, isso criou um único Arconte com o conhecimento de inúmeras vidas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Ashe serviu com [url=glossary:kyros]Kyros[/url] por apenas um século, mas ele tem sido um general confiável e um senhor da guerra sensato... certamente quando comparado a alguns dos mais sanguinários Arcontes para servir sob [url=glossary:kyros]Kyros[/url]. Não estou dizendo que os [url=glossary:disfavored]Desfavorecido[/url] são misericordiosos, estou apenas dizendo que li as histórias do Arconte de Sangue e sei que poderia ser pior."</DefaultText>
+      <DefaultText>"Cinza serviu com [url=glossary:kyros]Kyros[/url] por apenas um século, mas ele tem sido um general confiável e um senhor da guerra sensato... certamente quando comparado a alguns dos mais sanguinários Arcontes para servir sob [url=glossary:kyros]Kyros[/url]. Não estou dizendo que os [url=glossary:disfavored]Desfavorecido[/url] são misericordiosos, estou apenas dizendo que li as histórias do Arconte de Sangue e sei que poderia ser pior."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -308,12 +308,12 @@ Lantry se curva profundamente, seus olhos nunca encontram seu olhar.</DefaultTex
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url] lançou muitos ao longo dos tempos - e que eu saiba nunca escreveu dois Editais exatamente iguais. Editais desafia nossa compreensão da magia... [url=glossary:kyros]Kyros[/url]' a magia funciona a grandes distâncias, por durações indefinidas, e nenhum Arconte ou mero mago pode contrariar a força de um [url=glossary:edict]Edital[/url]."</DefaultText>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] lançou muitos ao longo dos tempos - e que eu saiba nunca escreveu dois Editais exatamente iguais. Editais desafia nossa compreensão da magia... a magia de [url=glossary:kyros]Kyros[/url] funciona a grandes distâncias, por durações indefinidas, e nenhum Arconte ou mero mago pode contrariar a força de um [url=glossary:edict]Edital[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Os Arcontes todos têm poderes mágicos que são intuitivos - quando [url=glossary:the voices of nerat]o Vozes de Nerat[/url] arranca a mente de alguém ou [url=glossary:graven ashe]Cinza esculpida[/url] protege seus soldados, essa 'mágica' não é um feitiço ou ritual assinado - para eles é mais perto de flexionar a mão."</DefaultText>
+      <DefaultText>"Os Arcontes todos têm poderes mágicos que são intuitivos - quando [url=glossary:the voices of nerat]As Vozes de Nerat[/url] arranca a mente de alguém ou [url=glossary:graven ashe]Cinza Esculpida[/url] protege seus soldados, essa 'mágica' não é um feitiço ou ritual assinado - para eles é mais perto de flexionar a mão."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -345,7 +345,7 @@ Sirin balança a cabeça de um lado para o outro como uma cobra na frente de sua
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Familiar é um termo relativo. Acho que sei mais do que a maioria, mas é um assunto de mistério até para os estudiosos. Embora eu deva admitir, além da minha leitura, eu me aventurei no Oldwalls de vez em quando... e sujei muitas roupas íntimas no processo."</DefaultText>
+      <DefaultText>"Familiar é um termo relativo. Acho que sei mais do que a maioria, mas é um assunto de mistério até para os estudiosos. Embora eu deva admitir, além da minha leitura, eu me aventurei no Muralhas Antigas de vez em quando... e sujei muitas roupas íntimas no processo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -365,7 +365,7 @@ Sirin balança a cabeça de um lado para o outro como uma cobra na frente de sua
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Ele é um nórdico adequado, com dever em seu sangue, o que me faz suspeitar que sua lealdade a Ashe é mais forte do que sua lealdade a você. Desde que seus interesses permaneçam alinhados a [url=glossary:graven ashe]Cinza esculpida[/url], isso não deve ser um problema."</DefaultText>
+      <DefaultText>"Ele é um nórdico adequado, com dever em seu sangue, o que me faz suspeitar que sua lealdade a Cinza é mais forte do que sua lealdade a você. Desde que seus interesses permaneçam alinhados a [url=glossary:graven ashe]Cinza Esculpida[/url], isso não deve ser um problema."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -445,7 +445,7 @@ Sirin balança a cabeça de um lado para o outro como uma cobra na frente de sua
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url] apelidou esta terra de [url=glossary:blade grave]Sepultura de Lâminas[/url] - o termo 'Realm of Stalwart' não deve mais ser usado no registro oficial."</DefaultText>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] apelidou esta terra de [url=glossary:blade grave]Sepultura de Lâminas[/url] - o termo 'Reino Robusto não deve mais ser usado no registro oficial."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -465,7 +465,7 @@ Sirin balança a cabeça de um lado para o outro como uma cobra na frente de sua
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"A maior parte do que sabemos está resumida no nome - o termo completo para eles é Mage Bane e há uma boa razão para isso. Eles atacam qualquer coisa que se mova, mas mostram favoritismo por humanos magicamente ativos."</DefaultText>
+      <DefaultText>"A maior parte do que sabemos está resumida no nome - o termo completo para eles é Mage Maldições e há uma boa razão para isso. Eles atacam qualquer coisa que se mova, mas mostram favoritismo por humanos magicamente ativos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -495,7 +495,7 @@ Sirin balança a cabeça de um lado para o outro como uma cobra na frente de sua
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"Os mais problemáticos dos Mage Bane são os Malícias. Embora eu nunca tenha experimentado isso, me disseram que um Malícia pode tomar conta de seu eu desperto - deixá-lo preso em um sonho enquanto ele o marionete. Se a evidência dessas criaturas não fosse anterior a [url=glossary:kyros]Kyros[/url], eu pensaria que o soberano a única criatura poderosa e cruel o suficiente para criar o Malícia."</DefaultText>
+      <DefaultText>"Os mais problemáticos dos Mage Maldições são os Malícias. Embora eu nunca tenha experimentado isso, me disseram que um Malícia pode tomar conta de seu eu desperto - deixá-lo preso em um sonho enquanto ele o marionete. Se a evidência dessas criaturas não fosse anterior a [url=glossary:kyros]Kyros[/url], eu pensaria que o soberano a única criatura poderosa e cruel o suficiente para criar o Malícia."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -550,7 +550,7 @@ Sirin balança a cabeça de um lado para o outro como uma cobra na frente de sua
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Lethian era um mercador - destemido por sinal. É preciso um tipo raro de aproveitador para arriscar resolver um canto do Oldwalls. Atualmente, o assentamento está movimentado... embora, na verdade, os refugiados de guerra deslocados sejam a razão do Travessia crescimento recente."</DefaultText>
+      <DefaultText>"Lethian era um mercador - destemido por sinal. É preciso um tipo raro de aproveitador para arriscar resolver um canto do Muralhas Antigas. Atualmente, o assentamento está movimentado... embora, na verdade, os refugiados de guerra deslocados sejam a razão do Travessia crescimento recente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -575,7 +575,7 @@ Sirin balança a cabeça de um lado para o outro como uma cobra na frente de sua
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>"Os primeiros colonos notaram o Homens-fera - então eles estavam antes de nós... mas não antes do Reinos Antigos. De acordo com todos os relatos, as tribos não têm registro de um tempo antes do Oldwalls - então a conclusão lógica é que eles chegaram depois do Reinos Antigos mas antes do Cinco esposas."</DefaultText>
+      <DefaultText>"Os primeiros colonos notaram o Homens-fera - então eles estavam antes de nós... mas não antes do Reinos Antigos. De acordo com todos os relatos, as tribos não têm registro de um tempo antes do Muralhas Antigas - então a conclusão lógica é que eles chegaram depois do Reinos Antigos mas antes do Cinco esposas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -717,12 +717,12 @@ Sirin balança a cabeça de um lado para o outro como uma cobra na frente de sua
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>"O que você sabe sobre o Tremedores de terra?"</DefaultText>
+      <DefaultText>"O que você sabe sobre o Tremedores de Terra?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>"Fale-me sobre o [url=glossary:forge-bound]Forge-Bound[/url]."</DefaultText>
+      <DefaultText>"Fale-me sobre o [url=glossary:forge-bound]Vinculado à Forja[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -744,22 +744,22 @@ Sirin balança a cabeça de um lado para o outro como uma cobra na frente de sua
       <ID>177</ID>
       <DefaultText>"É preciso um pássaro estranho para querer imitar [url=glossary:cairn]Cairn[/url], Arconte de Pedra, mas o que eu sei... todo um culto surgiu para adorar o homem!"
 
-"Esse culto se tornou conhecido como Guilda Earthshakers, e mesmo suas fracas imitações de sua magia podem encher a terra de tremores."</DefaultText>
+"Esse culto se tornou conhecido como Guilda Tremedores de Terra, e mesmo suas fracas imitações de sua magia podem encher a terra de tremores."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>"[url=glossary:cairn]Cairn[/url] respondeu a [url=glossary:graven ashe]Cinza esculpida[/url], significando que os Tremedores de terra são aliados militares dos [url=glossary:disfavored]Desfavorecido[/url] - pelo menos é assim was." "[url=glossary:cairn]Cairn[/url] exigiu retribuição de [url=glossary:kyros]Kyros[/url], e isso destruiu a reputação do Guilda Earthshaker - muitos assumem um professor traidor geraria discípulos traidores."</DefaultText>
+      <DefaultText>"[url=glossary:cairn]Cairn[/url] respondeu a [url=glossary:graven ashe]Cinza Esculpida[/url], significando que os Tremedores de Terra são aliados militares dos [url=glossary:disfavored]Desfavorecido[/url] - pelo menos é assim was." "[url=glossary:cairn]Cairn[/url] exigiu retribuição de [url=glossary:kyros]Kyros[/url], e isso destruiu a reputação do Guilda Tremedor de Terra - muitos assumem um professor traidor geraria discípulos traidores."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>"Os [url=glossary:forge-bound]Forge-Bound[/url] são um Guilda do Império do Norte. A magia deles é um pouco diferente dos sigilos que você ou eu conhecemos - eles estudam um estilo de magia mais lento e rígido que eles usam para se tornar um com suas ferramentas de forjamento."</DefaultText>
+      <DefaultText>"Os [url=glossary:forge-bound]Vinculado à Forja[/url] são um Guilda do Império do Norte. A magia deles é um pouco diferente dos sigilos que você ou eu conhecemos - eles estudam um estilo de magia mais lento e rígido que eles usam para se tornar um com suas ferramentas de forjamento."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>"Os [url=glossary:forge-bound]Forge-Bound[/url] conhecem o segredo de transformar rocha cinzenta em ferro fino, e ninguém ainda replicou esse feito artesanal. O que eles fazem é verdadeiramente único, e eles ensinam seu ofício pela prática e palestras, pouco disso é escrito."</DefaultText>
+      <DefaultText>"Os [url=glossary:forge-bound]Vinculado à Forja[/url] conhecem o segredo de transformar rocha cinzenta em ferro fino, e ninguém ainda replicou esse feito artesanal. O que eles fazem é verdadeiramente único, e eles ensinam seu ofício pela prática e palestras, pouco disso é escrito."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -774,7 +774,7 @@ Sirin balança a cabeça de um lado para o outro como uma cobra na frente de sua
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>"Fatebinders não discutem assuntos com estranhos."</DefaultText>
+      <DefaultText>"Vinculador do Destinos não discutem assuntos com estranhos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -804,7 +804,7 @@ Sirin balança a cabeça de um lado para o outro como uma cobra na frente de sua
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText>"[url=glossary:tunon]Tunon[/url], Arconte da Justiça existe em textos que remontam a centenas de anos. Não posso dizer que sei como ele se tornou o Juiz de Overlord - talvez você conheça esse - mas ele supervisionou a conquista do Soberanos da Tundra... e eles se curvaram para [url=glossary:kyros]Kyros[/url] em o ano 83."</DefaultText>
+      <DefaultText>"[url=glossary:tunon]Tunon[/url], Arconte da Justiça existe em textos que remontam a centenas de anos. Não posso dizer que sei como ele se tornou o Juiz de Soberano - talvez você conheça esse - mas ele supervisionou a conquista do Soberanos da Tundra... e eles se curvaram para [url=glossary:kyros]Kyros[/url] em o ano 83."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -914,7 +914,7 @@ Sirin balança a cabeça de um lado para o outro como uma cobra na frente de sua
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>"Parece que os Arcontes estavam prestes a se matar e a ameaça de destruição mútua era tudo o que [url=glossary:kyros]Kyros[/url] havia sobrado. Imagino que o medo seja a única maneira de fazer alguém como [url=glossary:the voices of nerat]o Vozes de Nerat[/url] seguir ordens, e o [url=glossary:edict]Edital[/url] certamente os colocou em ação."</DefaultText>
+      <DefaultText>"Parece que os Arcontes estavam prestes a se matar e a ameaça de destruição mútua era tudo o que [url=glossary:kyros]Kyros[/url] havia sobrado. Imagino que o medo seja a única maneira de fazer alguém como [url=glossary:the voices of nerat]As Vozes de Nerat[/url] seguir ordens, e o [url=glossary:edict]Edital[/url] certamente os colocou em ação."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -924,7 +924,7 @@ Sirin balança a cabeça de um lado para o outro como uma cobra na frente de sua
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText>"Eu li sobre um [url=glossary:edict]Edital[/url] lançado em Passe Ikenar em 282. [url=glossary:kyros]Kyros[/url]' magia inaugurou uma noite sem fim, bem sem fim até que os habitantes matassem seus próprios governantes, ou assim o [url=glossary:edict]Edital[/url] foi redigido."</DefaultText>
+      <DefaultText>"Eu li sobre um [url=glossary:edict]Edital[/url] lançado em Passe Ikenar em 282. magia de [url=glossary:kyros]Kyros[/url] inaugurou uma noite sem fim, bem sem fim até que os habitantes matassem seus próprios governantes, ou assim o [url=glossary:edict]Edital[/url] foi redigido."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1016,7 +1016,7 @@ Lantry aponta um dedo no ar de excitação enquanto Sirin revira os olhos.</Defa
     </Entry>
     <Entry>
       <ID>240</ID>
-      <DefaultText>"Eles parecem se reproduzir no Oldwalls... ou pelo menos, é onde eles existem em maior concentração... mas parece não haver interação social entre os Malditos e nenhum mecanismo lógico de... uh... moendo suas partes íntimas para fazer pequenos Malditos."</DefaultText>
+      <DefaultText>"Eles parecem se reproduzir no Muralhas Antigas... ou pelo menos, é onde eles existem em maior concentração... mas parece não haver interação social entre os Malditos e nenhum mecanismo lógico de... uh... moendo suas partes íntimas para fazer pequenos Malditos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1038,12 +1038,12 @@ Terminando sua nota com um floreio, Lantry lambe a ponta da pena - parando para 
     </Entry>
     <Entry>
       <ID>245</ID>
-      <DefaultText>"Então sua última aquisição me fez pensar um pouco mais no Pináculos. Por todas as contas, eles vão até o Oldwalls. Ao longo dos séculos, os nobres do Camadas 'reivindicaram' o Pináculos mas eles só lutaram pela terra no nível do solo dos monumentos."</DefaultText>
+      <DefaultText>"Então sua última aquisição me fez pensar um pouco mais no Pináculos. Por todas as contas, eles vão até as Muralhas Antigas. Ao longo dos séculos, os nobres do Camadas 'reivindicaram' o Pináculos mas eles só lutaram pela terra no nível do solo dos monumentos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>246</ID>
-      <DefaultText>"Isso é duas vezes agora... por [url=glossary:kyros]Kyros[/url]' gélido inferior... DUAS VEZES! Editais foram quebrados antes, mas nunca em todos os meus muitos anos ouvi falar de uma pessoa fazendo isso duas vezes."</DefaultText>
+      <DefaultText>"Isso é duas vezes agora... por [url=glossary:kyros]Kyros[/url] gélido inferior... DUAS VEZES! Editais foram quebrados antes, mas nunca em todos os meus muitos anos ouvi falar de uma pessoa fazendo isso duas vezes."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1103,7 +1103,7 @@ Terminando sua nota com um floreio, Lantry lambe a ponta da pena - parando para 
     </Entry>
     <Entry>
       <ID>267</ID>
-      <DefaultText>"No momento, o [url=glossary:scarlet chorus]Coro Escarlate[/url] pode ser considerado um aliado... esperemos que o Arconte dos Segredos continue a achar vocês divertidos o suficiente para continuarem amigos. O [url=glossary:disfavored]Desfavorecido[/url], por outro lado, será uma certa ameaça - a guerra civil removeu Ashe pretensão de jogar bem com os outros."</DefaultText>
+      <DefaultText>"No momento, o [url=glossary:scarlet chorus]Coro Escarlate[/url] pode ser considerado um aliado... esperemos que o Arconte dos Segredos continue a achar vocês divertidos o suficiente para continuarem amigos. O [url=glossary:disfavored]Desfavorecido[/url], por outro lado, será uma certa ameaça - a guerra civil removeu Cinza pretensão de jogar bem com os outros."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1128,7 +1128,7 @@ Terminando sua nota com um floreio, Lantry lambe a ponta da pena - parando para 
     </Entry>
     <Entry>
       <ID>272</ID>
-      <DefaultText>"Ainda estou debatendo o destino do Tiersmen."</DefaultText>
+      <DefaultText>"Ainda estou debatendo o destino do Homens dos Caminhos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1153,7 +1153,7 @@ Terminando sua nota com um floreio, Lantry lambe a ponta da pena - parando para 
     </Entry>
     <Entry>
       <ID>277</ID>
-      <DefaultText>"Sem dúvida, tudo isso faz parte do plano [url=glossary:kyros]Kyros[/url]' - um teste para decidir se [url=glossary:graven ashe]Cinza esculpida[/url] ou [url=glossary:the voices of nerat]o Vozes de Nerat[/url] deve governar. "</DefaultText>
+      <DefaultText>"Sem dúvida, tudo isso faz parte do plano de [url=glossary:kyros]Kyros[/url] - um teste para decidir se [url=glossary:graven ashe]Cinza Esculpida[/url] ou [url=glossary:the voices of nerat]As Vozes de Nerat[/url] deve governar. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1163,12 +1163,12 @@ Terminando sua nota com um floreio, Lantry lambe a ponta da pena - parando para 
     </Entry>
     <Entry>
       <ID>279</ID>
-      <DefaultText>"Um sentimento muito ousado! Mas você está certo, o soberano valoriza muito aqueles com iniciativa e força. Por que mais [url=glossary:kyros]Kyros[/url] manteria um capanga como [url=glossary:the voices of nerat]o Vozes de Nerat[/url]?"</DefaultText>
+      <DefaultText>"Um sentimento muito ousado! Mas você está certo, o soberano valoriza muito aqueles com iniciativa e força. Por que mais [url=glossary:kyros]Kyros[/url] manteria um capanga como [url=glossary:the voices of nerat]As Vozes de Nerat[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>280</ID>
-      <DefaultText>"Durante meu tempo como Refrão prisioneiro, ouvi muitos guerreiros falarem de '[url=glossary:tunon]Tunon[/url]'s Dilema' - a maioria dos recrutas acredita que o Arconte da Justiça deve e irá nomear o general maior para governar no final da guerra."</DefaultText>
+      <DefaultText>"Durante meu tempo como Refrão prisioneiro, ouvi muitos guerreiros falarem de 'Dilema de [url=glossary:tunon]Tunon[/url]' - a maioria dos recrutas acredita que o Arconte da Justiça deve e irá nomear o general maior para governar no final da guerra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1183,7 +1183,7 @@ Terminando sua nota com um floreio, Lantry lambe a ponta da pena - parando para 
     </Entry>
     <Entry>
       <ID>283</ID>
-      <DefaultText>"Vou ficar com [url=glossary:graven ashe]Cinza esculpida[/url] e o [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <DefaultText>"Vou ficar com [url=glossary:graven ashe]Cinza Esculpida[/url] e o [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1203,17 +1203,17 @@ Terminando sua nota com um floreio, Lantry lambe a ponta da pena - parando para 
     </Entry>
     <Entry>
       <ID>287</ID>
-      <DefaultText>"O Arconte da Guerra é tão nobre quanto um assassino profissional pode ser - e ao contrário de [url=glossary:the voices of nerat]o Vozes de Nerat[/url], ele não traz consigo um bando de estupradores e saqueadores em seu rastro. Os [url=glossary:disfavored]Desfavorecido[/url] precisam de sua ajuda - eles estão em menor número e, eu diria, enganados pela oposição."</DefaultText>
+      <DefaultText>"O Arconte da Guerra é tão nobre quanto um assassino profissional pode ser - e ao contrário de [url=glossary:the voices of nerat]As Vozes de Nerat[/url], ele não traz consigo um bando de estupradores e saqueadores em seu rastro. Os [url=glossary:disfavored]Desfavorecido[/url] precisam de sua ajuda - eles estão em menor número e, eu diria, enganados pela oposição."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>288</ID>
-      <DefaultText>"Enquanto [url=glossary:graven ashe]Cinza esculpida[/url] sabe mais sobre guerra, afirmo que [url=glossary:the voices of nerat]o Vozes de Nerat[/url] sabe mais sobre vitória. O [url=glossary:scarlet chorus]Coro Escarlate[/url] cresceu a cada ano que passa."</DefaultText>
+      <DefaultText>"Enquanto [url=glossary:graven ashe]Cinza Esculpida[/url] sabe mais sobre guerra, afirmo que [url=glossary:the voices of nerat]As Vozes de Nerat[/url] sabe mais sobre vitória. O [url=glossary:scarlet chorus]Coro Escarlate[/url] cresceu a cada ano que passa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>289</ID>
-      <DefaultText>"Devidamente falado. É dever de [url=glossary:tunon]Tunon[/url] arbitrar assuntos entre os Arcontes, então essa cisão entre Ashe e Nerat certamente cai sob sua jurisdição. E aqui está você, no meio da disputa - sem dúvida, o poderoso Árbitro estará confiando fortemente em você para chegar à verdade do assunto."</DefaultText>
+      <DefaultText>"Devidamente falado. É dever de [url=glossary:tunon]Tunon[/url] arbitrar assuntos entre os Arcontes, então essa cisão entre Cinza e Nerat certamente cai sob sua jurisdição. E aqui está você, no meio da disputa - sem dúvida, o poderoso Árbitro estará confiando fortemente em você para chegar à verdade do assunto."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1258,7 +1258,7 @@ Terminando sua nota com um floreio, Lantry lambe a ponta da pena - parando para 
     </Entry>
     <Entry>
       <ID>300</ID>
-      <DefaultText>"O que quer que você faça em seguida, considere que muitos olhos estarão sobre você - pois você entregou e tirou o Éditos do Overlord, e poucos saberão como entender o último. Você é uma exceção que o Arcontes não pode ignorar - eles provavelmente tentarão controlá-lo ou destruí-lo."</DefaultText>
+      <DefaultText>"O que quer que você faça em seguida, considere que muitos olhos estarão sobre você - pois você entregou e tirou o Éditos do Soberano, e poucos saberão como entender o último. Você é uma exceção que o Arcontes não pode ignorar - eles provavelmente tentarão controlá-lo ou destruí-lo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1295,12 +1295,12 @@ Lantry pigarreia nervosamente, girando a pena preguiçosamente.</DefaultText>
     </Entry>
     <Entry>
       <ID>307</ID>
-      <DefaultText>"A maioria dos [url=glossary:kyros]Kyros[/url]' Editais foram redigidos para terminar da maneira que o Soberano escolheu, ou o Editais simplesmente continuou em perpetuidade. Isso não quer dizer que não houve histórias de Editais quebrado - eles são apenas incomuns."</DefaultText>
+      <DefaultText>"A maioria dos [url=glossary:edict]Editais[/url] de [url=glossary:kyros]Kyros[/url] foram redigidos para terminar da maneira que o Soberano escolheu, ou o Editais simplesmente continuou em perpetuidade. Isso não quer dizer que não houve histórias de Editais quebrado - eles são apenas incomuns."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>308</ID>
-      <DefaultText>"Em todas essas histórias, [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] claramente dá às vítimas uma única maneira de escapar, e alguém a administra. O que nunca aconteceu é a pura redução de um [url=glossary:edict]Edital[/url] - como usar um feitiço de proteção ou cancelamento."</DefaultText>
+      <DefaultText>"Em todas essas histórias, [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] claramente dá às vítimas uma única maneira de escapar, e alguém a administra. O que nunca aconteceu é a pura redução de um [url=glossary:edict]Edital[/url] - como usar um feitiço de proteção ou cancelamento."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1332,7 +1332,7 @@ Lantry tira uma pena da manga e prepara um maço de pergaminho.</DefaultText>
     </Entry>
     <Entry>
       <ID>320</ID>
-      <DefaultText>"Fui enviado para garantir que o [url=glossary:forge-bound]Forge-Bound[/url] atingisse suas cotas. Sob minha supervisão, o assentamento floresceu. O resto é irrelevante."</DefaultText>
+      <DefaultText>"Fui enviado para garantir que o [url=glossary:forge-bound]Vinculado à Forja[/url] atingisse suas cotas. Sob minha supervisão, o assentamento floresceu. O resto é irrelevante."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1357,7 +1357,7 @@ Lantry tira uma pena da manga e prepara um maço de pergaminho.</DefaultText>
     </Entry>
     <Entry>
       <ID>325</ID>
-      <DefaultText>"Todo trabalhador de bronze no Camadas venderia seus filhos para aprender as lições do [url=glossary:forge-bound]Forge-Bound[/url]. [url=glossary:tunon]Tunon[/url] não teria eleito um tolo para pastorear [url=glossary:kyros]Kyros[/url]' magos mais valiosos."</DefaultText>
+      <DefaultText>"Todo trabalhador de bronze no Camadas venderia seus filhos para aprender as lições do [url=glossary:forge-bound]Vinculado à Forja[/url]. [url=glossary:tunon]Tunon[/url] não teria eleito um tolo para pastorear magos mais valiosos de [url=glossary:kyros]Kyros[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1392,7 +1392,7 @@ Lantry tira uma pena da manga e prepara um maço de pergaminho.</DefaultText>
     </Entry>
     <Entry>
       <ID>339</ID>
-      <DefaultText>"Eu estava na tomada de [url=glossary:the voices of nerat]o Vozes de Nerat[/url]. Ou pelo menos, um agente dele me enviou para o Escola de tinta e pena trinta anos atrás - seriam anos depois até eu fazer a conexão com o Arconte."</DefaultText>
+      <DefaultText>"Eu estava na tomada de [url=glossary:the voices of nerat]As Vozes de Nerat[/url]. Ou pelo menos, um agente dele me enviou para o Escola de tinta e pena trinta anos atrás - seriam anos depois até eu fazer a conexão com o Arconte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1402,7 +1402,7 @@ Lantry tira uma pena da manga e prepara um maço de pergaminho.</DefaultText>
     </Entry>
     <Entry>
       <ID>341</ID>
-      <DefaultText>"A maioria das pessoas pensa que a guerra começou há três anos, mas [url=glossary:the voices of nerat]o Vozes de Nerat[/url] teve suas mãos nas coisas antes disso. Eu fiz parte daquela invasão inicial - um garoto ansioso feliz em aceitar uma tarefa de trinta anos que vem com educação."</DefaultText>
+      <DefaultText>"A maioria das pessoas pensa que a guerra começou há três anos, mas [url=glossary:the voices of nerat]As Vozes de Nerat[/url] teve suas mãos nas coisas antes disso. Eu fiz parte daquela invasão inicial - um garoto ansioso feliz em aceitar uma tarefa de trinta anos que vem com educação."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1432,7 +1432,7 @@ Lantry tira uma pena da manga e prepara um maço de pergaminho.</DefaultText>
     </Entry>
     <Entry>
       <ID>347</ID>
-      <DefaultText>"Você leu o [url=glossary:edict]Edital[/url] de Incêndio - você foi o mensageiro do [url=glossary:kyros]Kyros[/url]' julgamento do meu trabalho. Foi então que decidi que precisaria me interessar pelo seu novelo."</DefaultText>
+      <DefaultText>"Você leu o [url=glossary:edict]Edital[/url] de Incêndio - você foi o mensageiro do julgamento de [url=glossary:kyros]Kyros[/url] do meu trabalho. Foi então que decidi que precisaria me interessar pelo seu novelo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1442,12 +1442,12 @@ Lantry tira uma pena da manga e prepara um maço de pergaminho.</DefaultText>
     </Entry>
     <Entry>
       <ID>349</ID>
-      <DefaultText>"Mas eu falhei. Os anciões do Escola ficaram desafiadores e as mentes militantes venceram - afinal, esses são Tiersmen. Não entreguei a rendição e foi preciso o Soberano [url=glossary:edict]Edital[/url] para acabar com o que me mandaram fazer."</DefaultText>
+      <DefaultText>"Mas eu falhei. Os anciões do Escola ficaram desafiadores e as mentes militantes venceram - afinal, esses são Homens dos Caminhos. Não entreguei a rendição e foi preciso o Soberano [url=glossary:edict]Edital[/url] para acabar com o que me mandaram fazer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>350</ID>
-      <DefaultText>"Na verdade, estou profundamente curioso sobre qualquer um que tenha vivido como recipiente para a [url=glossary:kyros]Kyros[/url]' magia suprema. Quando ouvi que você estava proclamando um segundo [url=glossary:edict]Edital[/url], tive que encontrar uma maneira de nos encontrarmos. Ficar preso em um campo de prisioneiros não era o plano pretendido."</DefaultText>
+      <DefaultText>"Na verdade, estou profundamente curioso sobre qualquer um que tenha vivido como recipiente para a magia de [url=glossary:kyros]Kyros[/url] suprema. Quando ouvi que você estava proclamando um segundo [url=glossary:edict]Edital[/url], tive que encontrar uma maneira de nos encontrarmos. Ficar preso em um campo de prisioneiros não era o plano pretendido."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1497,7 +1497,7 @@ Lantry tira uma pena da manga e prepara um maço de pergaminho.</DefaultText>
     </Entry>
     <Entry>
       <ID>360</ID>
-      <DefaultText>"Mas aqui, a resposta nos é dada pelo próprio Soberano senso de posteridade. Diz-se que o ano 0 do [url=glossary:kyros]Kyros[/url]' calendário corresponde ao dia [url=glossary:kyros]Kyros[/url] passou de senhor da guerra a portador de muitas coroas - uma vitória conquistada quando o primeiro [url=glossary:edict]Edital[/url] de Tempestades chocou tanto os Barões das Nuvens quanto os Reino de Medrev a capitular."</DefaultText>
+      <DefaultText>"Mas aqui, a resposta nos é dada pelo próprio Soberano senso de posteridade. Diz-se que o ano 0 do calendário de [url=glossary:kyros]Kyros[/url] corresponde ao dia [url=glossary:kyros]Kyros[/url] passou de senhor da guerra a portador de muitas coroas - uma vitória conquistada quando o primeiro [url=glossary:edict]Edital[/url] de Tempestades chocou tanto os Barões das Nuvens quanto os Reino de Medrev a capitular."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1507,7 +1507,7 @@ Lantry tira uma pena da manga e prepara um maço de pergaminho.</DefaultText>
     </Entry>
     <Entry>
       <ID>362</ID>
-      <DefaultText>"Boa pergunta. Nas partes ao norte, é comum dizer que [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] of Dust foi o primeiro, mas foi lançado no Ano 11 - foi apenas o primeiro [url=glossary:edict]Edital[/url] para ondular em todo o Terrato. Se você morava em algum lugar que costumava ter antílope, provavelmente acha que esse é o primeiro [url=glossary:edict]Edital[/url] do soberano."</DefaultText>
+      <DefaultText>"Boa pergunta. Nas partes ao norte, é comum dizer que [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] of Dust foi o primeiro, mas foi lançado no Ano 11 - foi apenas o primeiro [url=glossary:edict]Edital[/url] para ondular em todo o Terrato. Se você morava em algum lugar que costumava ter antílope, provavelmente acha que esse é o primeiro [url=glossary:edict]Edital[/url] do soberano."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1562,7 +1562,7 @@ Lantry tira uma pena da manga e prepara um maço de pergaminho.</DefaultText>
     </Entry>
     <Entry>
       <ID>373</ID>
-      <DefaultText>"Ao mesmo tempo... se você realmente fosse uma ameaça significativa, já teria sido vítima de um [url=glossary:edict]Edital[/url], ou [url=glossary:bleden mark]Marca de mistura[/url] punhais. Então isso me deixou bastante curioso - o que o soberano deseja fazer com você?"</DefaultText>
+      <DefaultText>"Ao mesmo tempo... se você realmente fosse uma ameaça significativa, já teria sido vítima de um [url=glossary:edict]Edital[/url], ou [url=glossary:bleden mark]Marca de Mistura[/url] punhais. Então isso me deixou bastante curioso - o que o soberano deseja fazer com você?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1684,7 +1684,7 @@ Lantry abaixa a cabeça, voltando seu foco para rabiscar furiosamente ao longo d
     </Entry>
     <Entry>
       <ID>401</ID>
-      <DefaultText>"Minha mente está voltando para [url=glossary:ascension hall]Salão da Ascensão[/url]. Eu me pergunto, se [url=glossary:graven ashe]Cinza esculpida[/url] ou Nerat o tivessem reivindicado como seu... o Pináculo ganharia vida para qualquer um deles do jeito que aconteceu com você?"</DefaultText>
+      <DefaultText>"Minha mente está voltando para [url=glossary:ascension hall]Salão da Ascensão[/url]. Eu me pergunto, se [url=glossary:graven ashe]Cinza Esculpida[/url] ou Nerat o tivessem reivindicado como seu... o Pináculo ganharia vida para qualquer um deles do jeito que aconteceu com você?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1714,7 +1714,7 @@ Lantry abaixa a cabeça, voltando seu foco para rabiscar furiosamente ao longo d
     </Entry>
     <Entry>
       <ID>408</ID>
-      <DefaultText>"Exatamente. Quero dizer... imagine se [url=glossary:the voices of nerat]o Vozes de Nerat[/url] tivesse o controle do Pináculos... pensando bem, não imagine tanto."</DefaultText>
+      <DefaultText>"Exatamente. Quero dizer... imagine se [url=glossary:the voices of nerat]As Vozes de Nerat[/url] tivesse o controle do Pináculos... pensando bem, não imagine tanto."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1921,7 +1921,7 @@ Lantry se curva profundamente, seu rosto corando quando ele volta a ficar de pé
     </Entry>
     <Entry>
       <ID>455</ID>
-      <DefaultText>"Governar pelo medo é certamente [url=glossary:kyros]Kyros[/url]' caminho."</DefaultText>
+      <DefaultText>"Governar pelo medo é certamente o caminho de [url=glossary:kyros]Kyros[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1956,12 +1956,12 @@ Lantry se curva profundamente, seu rosto corando quando ele volta a ficar de pé
     </Entry>
     <Entry>
       <ID>462</ID>
-      <DefaultText>"Posso dizer com confiança Arcontes não nascem, eles 'se tornam'. [url=glossary:graven ashe]Cinza esculpida[/url] é um bom estudo sobre isso. Antes de ser o Arconte de Guerra, ele era um comandante de sucesso, cada vitória mais ousada e gloriosa que a seguinte. Em algum lugar ao longo do caminho, sua liderança assumiu qualidades místicas."</DefaultText>
+      <DefaultText>"Posso dizer com confiança Arcontes não nascem, eles 'se tornam'. [url=glossary:graven ashe]Cinza Esculpida[/url] é um bom estudo sobre isso. Antes de ser o Arconte de Guerra, ele era um comandante de sucesso, cada vitória mais ousada e gloriosa que a seguinte. Em algum lugar ao longo do caminho, sua liderança assumiu qualidades místicas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>463</ID>
-      <DefaultText>"O [url=glossary:graven ashe]Cinza esculpida[/url] que conhecemos hoje pode estender a mão e proteger seus soldados do perigo - mas talvez no início ele pudesse apenas proteger aqueles que estão perto dele... Eu não saberia com certeza, mas todos vai atestar que ele não teve esse poder a vida toda."</DefaultText>
+      <DefaultText>"O [url=glossary:graven ashe]Cinza Esculpida[/url] que conhecemos hoje pode estender a mão e proteger seus soldados do perigo - mas talvez no início ele pudesse apenas proteger aqueles que estão perto dele... Eu não saberia com certeza, mas todos vai atestar que ele não teve esse poder a vida toda."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1981,17 +1981,17 @@ Lantry se curva profundamente, seu rosto corando quando ele volta a ficar de pé
     </Entry>
     <Entry>
       <ID>467</ID>
-      <DefaultText>"Eu sei que [url=glossary:graven ashe]Cinza esculpida[/url] pode defender seus soldados de longe - Aegis de Ashe é o termo que nós, arquenófilos, usamos para chamá-lo. Não surpreendentemente, [url=glossary:graven ashe]Cinza esculpida[/url] é amado por suas tropas. Quero dizer, se [url=glossary:tunon]Tunon[/url] pudesse protegê-lo misticamente de porretes e bastões afiados a léguas de distância, você gostaria mais dele."</DefaultText>
+      <DefaultText>"Eu sei que [url=glossary:graven ashe]Cinza Esculpida[/url] pode defender seus soldados de longe - Aegis de Cinza é o termo que nós, arquenófilos, usamos para chamá-lo. Não surpreendentemente, [url=glossary:graven ashe]Cinza Esculpida[/url] é amado por suas tropas. Quero dizer, se [url=glossary:tunon]Tunon[/url] pudesse protegê-lo misticamente de porretes e bastões afiados a léguas de distância, você gostaria mais dele."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>468</ID>
-      <DefaultText>"Ele e eu estávamos em contato por escrito como parte da tomada do [url=glossary:vellum citadel]Cidadela de Velino[/url]. Embora eu tenha trocado poucas palavras com ele, ficou claro que [url=glossary:the voices of nerat]o Vozes de Nerat[/url] não vê as pessoas, ele vê usos."</DefaultText>
+      <DefaultText>"Ele e eu estávamos em contato por escrito como parte da tomada do [url=glossary:vellum citadel]Cidadela de Velino[/url]. Embora eu tenha trocado poucas palavras com ele, ficou claro que [url=glossary:the voices of nerat]As Vozes de Nerat[/url] não vê as pessoas, ele vê usos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>469</ID>
-      <DefaultText>"Além disso, eu sei que ele serviu [url=glossary:kyros]Kyros[/url] por quase duzentos anos. Ele era um dos generais do [url=lore:lantry_northernwar]the Guerra da Unificação do Norte[/url] - e do mundo pequeno, [url=glossary:graven ashe]Cinza esculpida[/url] era seu inimigo na época."</DefaultText>
+      <DefaultText>"Além disso, eu sei que ele serviu [url=glossary:kyros]Kyros[/url] por quase duzentos anos. Ele era um dos generais do [url=lore:lantry_northernwar]Guerra da Unificação do Norte[/url] - e do mundo pequeno, [url=glossary:graven ashe]Cinza Esculpida[/url] era seu inimigo na época."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2098,7 +2098,7 @@ Lantry se curva profundamente, seu rosto corando quando ele volta a ficar de pé
     </Entry>
     <Entry>
       <ID>494</ID>
-      <DefaultText>"Parece uma continuação lógica de [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] de Execução. Os Arcontes ainda não estão jogando bem e então [url=glossary:kyros]Kyros[/url] deixaria seus filhos lutarem pelo título de Lord of the Camadas."</DefaultText>
+      <DefaultText>"Parece uma continuação lógica de [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] de Execução. Os Arcontes ainda não estão jogando bem e então [url=glossary:kyros]Kyros[/url] deixaria seus filhos lutarem pelo título de Senhor das Camadas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2108,12 +2108,12 @@ Lantry se curva profundamente, seu rosto corando quando ele volta a ficar de pé
     </Entry>
     <Entry>
       <ID>496</ID>
-      <DefaultText>"Você está perto o suficiente de [url=glossary:graven ashe]Cinza esculpida[/url] para poder convencê-lo de que lutar não é do interesse dele... tão digno de sua fidelidade quanto [url=glossary:kyros]Kyros[/url] é."</DefaultText>
+      <DefaultText>"Você está perto o suficiente de [url=glossary:graven ashe]Cinza Esculpida[/url] para poder convencê-lo de que lutar não é do interesse dele... tão digno de sua fidelidade quanto [url=glossary:kyros]Kyros[/url] é."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>497</ID>
-      <DefaultText>"Todos os outros Arcontes estão no mesmo barco - então eu suspeito que até mesmo seu aliado [url=glossary:the voices of nerat]o Vozes de Nerat[/url] está manobrando contra você enquanto falamos. Espero que você tenha algo na manga para lidar com esse nosso estranho companheiro de cama."</DefaultText>
+      <DefaultText>"Todos os outros Arcontes estão no mesmo barco - então eu suspeito que até mesmo seu aliado [url=glossary:the voices of nerat]As Vozes de Nerat[/url] está manobrando contra você enquanto falamos. Espero que você tenha algo na manga para lidar com esse nosso estranho companheiro de cama."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2244,12 +2244,12 @@ Lantry recoloca seus frascos em suas bandoleiras e volta sua atenção para escr
     </Entry>
     <Entry>
       <ID>524</ID>
-      <DefaultText>"Você sabia que, legalmente falando, minha palavra é a mesma que a palavra de [url=glossary:tunon]Tunon[/url], a menos que o Arconte contradiga minha palavra como Fatebinder? Rhogalus diz que o termo legal para isso é Decisão por procuração. Calio diz que o termo legal é 'foda-se, eu sou a lei.'"</DefaultText>
+      <DefaultText>"Você sabia que, legalmente falando, minha palavra é a mesma que a palavra de [url=glossary:tunon]Tunon[/url], a menos que o Arconte contradiga minha palavra como Vinculador do Destino? Rhogalus diz que o termo legal para isso é Decisão por procuração. Calio diz que o termo legal é 'foda-se, eu sou a lei.'"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>525</ID>
-      <DefaultText>"O que é [url=glossary:kyros]Kyros[/url]' problema? Não pode sair do seu maldito trono e realmente visitar seus súditos? Como sabemos que [url=glossary:kyros]Kyros[/url] já não está morto? Ou é como um título que é passado de mãe para filho. Eu passei três anos trabalhando no Camadas para essa bunda e você sabe o que - eu realmente não sei se o [url=glossary:kyros]Kyros[/url] existe!"</DefaultText>
+      <DefaultText>"O que é problema de [url=glossary:kyros]Kyros[/url]? Não pode sair do seu maldito trono e realmente visitar seus súditos? Como sabemos que [url=glossary:kyros]Kyros[/url] já não está morto? Ou é como um título que é passado de mãe para filho. Eu passei três anos trabalhando no Camadas para essa bunda e você sabe o que - eu realmente não sei se o [url=glossary:kyros]Kyros[/url] existe!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2371,7 +2371,7 @@ Lantry recoloca seus frascos em suas bandoleiras e volta sua atenção para escr
     </Entry>
     <Entry>
       <ID>550</ID>
-      <DefaultText>"Despistou, você diz? Você deve saber que os [url=glossary:disfavored]Desfavorecido[/url] possuem os estrategistas mais capazes dos [url=glossary:kyros]Kyros[/url]' exércitos!" "Se somos enganados, é porque os motivos e as táticas de nossos inimigos são muito desmioladas para qualquer soldado racional entender!"</DefaultText>
+      <DefaultText>"Despistou, você diz? Você deve saber que os [url=glossary:disfavored]Desfavorecido[/url] possuem os estrategistas mais capazes dos exército de [url=glossary:kyros]Kyros[/url]!" "Se somos enganados, é porque os motivos e as táticas de nossos inimigos são muito desmioladas para qualquer soldado racional entender!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2381,7 +2381,7 @@ Lantry recoloca seus frascos em suas bandoleiras e volta sua atenção para escr
     </Entry>
     <Entry>
       <ID>552</ID>
-      <DefaultText>"Ashe me emprestou seu melhor escudo de pedra em tempos de guerra. Sua perda - estou certo?"</DefaultText>
+      <DefaultText>"Cinza me emprestou seu melhor escudo de pedra em tempos de guerra. Sua perda - estou certo?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2391,7 +2391,7 @@ Lantry recoloca seus frascos em suas bandoleiras e volta sua atenção para escr
     </Entry>
     <Entry>
       <ID>554</ID>
-      <DefaultText>"Palavras mais verdadeiras nunca foram ditas. É impossível julgar [url=glossary:graven ashe]Cinza esculpida[/url] até que você tenha pisado em suas botas e suportado o fardo da liderança. Mesmo nós, seus seguidores, não compreendemos sua magnificência."</DefaultText>
+      <DefaultText>"Palavras mais verdadeiras nunca foram ditas. É impossível julgar [url=glossary:graven ashe]Cinza Esculpida[/url] até que você tenha pisado em suas botas e suportado o fardo da liderança. Mesmo nós, seus seguidores, não compreendemos sua magnificência."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2401,7 +2401,7 @@ Lantry recoloca seus frascos em suas bandoleiras e volta sua atenção para escr
     </Entry>
     <Entry>
       <ID>556</ID>
-      <DefaultText>"[url=glossary:graven ashe]Cinza esculpida[/url] mija sem ninguém. Enquanto outros expõem sua masculinidade flácida, [url=glossary:graven ashe]Cinza esculpida[/url] recua seu martelo para derrubá-los. É melhor você se lembrar disso antes de subestimá-lo novamente."</DefaultText>
+      <DefaultText>"[url=glossary:graven ashe]Cinza Esculpida[/url] mija sem ninguém. Enquanto outros expõem sua masculinidade flácida, [url=glossary:graven ashe]Cinza Esculpida[/url] recua seu martelo para derrubá-los. É melhor você se lembrar disso antes de subestimá-lo novamente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2466,7 +2466,7 @@ Lantry recoloca seus frascos em suas bandoleiras e volta sua atenção para escr
     </Entry>
     <Entry>
       <ID>575</ID>
-      <DefaultText>"Ancestrais das Mulheres-Feras percorreu terras muitas temporadas antes de Oldwalls crescer. Histórias passadas pelo sangue místico falam de um tempo sem paredes."</DefaultText>
+      <DefaultText>"Ancestrais das Mulheres-Feras percorreu terras muitas temporadas antes de Muralhas Antigas crescer. Histórias passadas pelo sangue místico falam de um tempo sem paredes."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2486,12 +2486,12 @@ Lantry recoloca seus frascos em suas bandoleiras e volta sua atenção para escr
     </Entry>
     <Entry>
       <ID>579</ID>
-      <DefaultText>"Bem, como podemos levar essas alegações a sério quando não há testemunho escrito ou evidência de arquivo! Qualquer um pode CLAIM ter construído o Oldwalls e gritar 'prove que estou errado' com todas as suas forças. Bah, eu não tenho tempo para explicar o inquérito escolar para todos vocês."</DefaultText>
+      <DefaultText>"Bem, como podemos levar essas alegações a sério quando não há testemunho escrito ou evidência de arquivo! Qualquer um pode CLAIM ter construído as Muralhas Antigas e gritar 'prove que estou errado' com todas as suas forças. Bah, eu não tenho tempo para explicar o inquérito escolar para todos vocês."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>580</ID>
-      <DefaultText>"Palavras humanas não podem ser mentiras se esculpidas em livros de árvores podres? Tribos não consegue se lembrar do nascimento de Tiers-lands? Por quê? Alpha deveria ouvir o pacote [url=glossary:bolverk]Bolverk[/url], não mentir místico de tinta."</DefaultText>
+      <DefaultText>"Palavras humanas não podem ser mentiras se esculpidas em livros de árvores podres? Tribos não consegue se lembrar do nascimento de Camadas-lands? Por quê? Alpha deveria ouvir o pacote [url=glossary:bolverk]Bolverk[/url], não mentir místico de tinta."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2528,7 +2528,7 @@ Ela grunhe e se eriça, erguendo-se mais alto em suas ancas.</DefaultText>
     </Entry>
     <Entry>
       <ID>587</ID>
-      <DefaultText>"Fatebinder é difícil Alfa. Mantém os machos da matilha devidamente obedientes, sim-sim."
+      <DefaultText>"Vinculador do Destino é difícil Alfa. Mantém os machos da matilha devidamente obedientes, sim-sim."
 
 Ela se diverte, satisfeita e divertida com sua demonstração de disciplina.</DefaultText>
       <FemaleText />
@@ -2582,7 +2582,7 @@ Ela agita suas garras, fixando Lantry com um olhar sombrio e desejoso.</DefaultT
     </Entry>
     <Entry>
       <ID>600</ID>
-      <DefaultText>"Ao atacar uns aos outros, os Arcontes quebraram [url=glossary:kyros]Kyros[/url]' Paz - acho que isso significa que você pode legalmente fazer o que for necessário para levá-los à justiça."</DefaultText>
+      <DefaultText>"Ao atacar uns aos outros, os Arcontes quebraram Paz de [url=glossary:kyros]Kyros[/url] - acho que isso significa que você pode legalmente fazer o que for necessário para levá-los à justiça."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2592,12 +2592,12 @@ Ela agita suas garras, fixando Lantry com um olhar sombrio e desejoso.</DefaultT
     </Entry>
     <Entry>
       <ID>603</ID>
-      <DefaultText>"Pense desta forma, você assumiu o controle de [url=glossary:vendrien's well]Poço de Vendrien[/url], irritou o Arcontes e [url=glossary:kyros]Kyros[/url] ainda não o matou. Dado como o soberano funciona, eu diria que sua existência continuada é um argumento de que você tem [url=glossary:kyros]Kyros[/url]' aprovação tácita."</DefaultText>
+      <DefaultText>"Pense desta forma, você assumiu o controle de [url=glossary:vendrien's well]Poço de Vendrien[/url], irritou o Arcontes e [url=glossary:kyros]Kyros[/url] ainda não o matou. Dado como o soberano funciona, eu diria que sua existência continuada é um argumento de que você tem aprovação tácita de [url=glossary:kyros]Kyros[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>604</ID>
-      <DefaultText>"Talvez, para o bem dos Tiers e de todo o Terrato, alguém deve ajudar a garantir que nenhum dos Arconte sobreviva? Enquanto eles estão focados um no outro, você pode instigar todo tipo de caos e derramamento de sangue."</DefaultText>
+      <DefaultText>"Talvez, para o bem dos Camadas e de todo o Terrato, alguém deve ajudar a garantir que nenhum dos Arconte sobreviva? Enquanto eles estão focados um no outro, você pode instigar todo tipo de caos e derramamento de sangue."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2612,7 +2612,7 @@ Ela agita suas garras, fixando Lantry com um olhar sombrio e desejoso.</DefaultT
     </Entry>
     <Entry>
       <ID>607</ID>
-      <DefaultText>Diz-se que "O Arconte de Pedra estava brincando com os locais e sugerindo que [url=glossary:kyros]Kyros[/url]' alegação de Camadas é inválida. Claro, os 'locais' em questão eram as Homem-Besta tribos, não as pessoas comuns."</DefaultText>
+      <DefaultText>Diz-se que "O Arconte de Pedra estava brincando com os locais e sugerindo que alegação de [url=glossary:kyros]Kyros[/url] do Camadas é inválida. Claro, os 'locais' em questão eram as Homem-Besta tribos, não as pessoas comuns."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2657,7 +2657,7 @@ Ela agita suas garras, fixando Lantry com um olhar sombrio e desejoso.</DefaultT
     </Entry>
     <Entry>
       <ID>616</ID>
-      <DefaultText>"Se você está perguntando se [url=glossary:kyros]Kyros[/url] os construiu ou os controla... #Kyros[/url] PODERIA controlar o outro Pináculos, esse fato seria descaradamente ostentado."</DefaultText>
+      <DefaultText>"Se você está perguntando se [url=glossary:kyros]Kyros[/url] os construiu ou os controla... [url=glossary:kyros]Kyros[/url] PODERIA controlar o outro Pináculos, esse fato seria descaradamente ostentado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2677,7 +2677,7 @@ Ela agita suas garras, fixando Lantry com um olhar sombrio e desejoso.</DefaultT
     </Entry>
     <Entry>
       <ID>621</ID>
-      <DefaultText>"O que você diz, moças núbeis rechonchudas com interesse em velhos que sabem história? Você precisa de um tratado definitivo sobre as provações e tribulações do Arconte dos Tiers? Bem, você está com sorte!"</DefaultText>
+      <DefaultText>"O que você diz, moças núbeis rechonchudas com interesse em velhos que sabem história? Você precisa de um tratado definitivo sobre as provações e tribulações do Arconte dos Camadas? Bem, você está com sorte!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2786,7 +2786,7 @@ Ele limpa a garganta e abaixa o olhar, nervosamente manuseando seus estojos de p
     </Entry>
     <Entry>
       <ID>643</ID>
-      <DefaultText>"Exatamente porque Jade insistiu em se chamar ARCHON of Tides. Ela não precisava da aprovação [url=glossary:kyros]Kyros[/url]' para usar o título que ela merece, e eu sei que ela adorou o fato de que isso deve ter incomodado [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <DefaultText>"Exatamente porque Jade insistiu em se chamar Arconte of Tides. Ela não precisava da aprovação de [url=glossary:kyros]Kyros[/url] para usar o título que ela merece, e eu sei que ela adorou o fato de que isso deve ter incomodado [url=glossary:kyros]Kyros[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2796,7 +2796,7 @@ Ele limpa a garganta e abaixa o olhar, nervosamente manuseando seus estojos de p
     </Entry>
     <Entry>
       <ID>645</ID>
-      <DefaultText>"Estudiosos não têm uma boa palavra para o que Arcontes DO quando lançam magia. Não saberia dizer como [url=glossary:graven ashe]Cinza esculpida[/url] 'lança' sua proteção sobre seus soldados, nem saberia como [url=glossary:bleden mark]Marca de mistura[/url] conscientemente decide se mover através de uma sombra."</DefaultText>
+      <DefaultText>"Estudiosos não têm uma boa palavra para o que Arcontes DO quando lançam magia. Não saberia dizer como [url=glossary:graven ashe]Cinza Esculpida[/url] 'lança' sua proteção sobre seus soldados, nem saberia como [url=glossary:bleden mark]Marca de Mistura[/url] conscientemente decide se mover através de uma sombra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2846,12 +2846,12 @@ Ele limpa a garganta e abaixa o olhar, nervosamente manuseando seus estojos de p
     </Entry>
     <Entry>
       <ID>655</ID>
-      <DefaultText>"Existem espirais em todo o Terrato, embora eu não saiba a contagem, talvez quarenta ou algo assim? Cinco deles estão no Camadas, e geralmente, o Pináculos segue o Oldwalls - ocorrendo frequentemente em junções na alvenaria antiga."</DefaultText>
+      <DefaultText>"Existem espirais em todo o Terrato, embora eu não saiba a contagem, talvez quarenta ou algo assim? Cinco deles estão no Camadas, e geralmente, o Pináculos segue as Muralhas Antigas - ocorrendo frequentemente em junções na alvenaria antiga."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>656</ID>
-      <DefaultText>"O Pináculo da Montanha é uma exceção notável - os outros Spires no Camadas conectam-se ao Oldwalls, mas o Pináculo da Montanha está apenas em pé livre - um polegar dolorido no meio do Camadas."</DefaultText>
+      <DefaultText>"O Pináculo da Montanha é uma exceção notável - os outros Spires no Camadas conectam-se ao Muralhas Antigas, mas o Pináculo da Montanha está apenas em pé livre - um polegar dolorido no meio do Camadas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2861,17 +2861,17 @@ Ele limpa a garganta e abaixa o olhar, nervosamente manuseando seus estojos de p
     </Entry>
     <Entry>
       <ID>658</ID>
-      <DefaultText>"Que tipo de coisas você viu no Oldwalls?"</DefaultText>
+      <DefaultText>"Que tipo de coisas você viu no Muralhas Antigas?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>659</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url] proíbe a exploração do Oldwalls. Será que os Tiersmen tem leis semelhantes?"</DefaultText>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] proíbe a exploração do Muralhas Antigas. Será que os Homens dos Caminhos tem leis semelhantes?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>660</ID>
-      <DefaultText>"Na moda típica [url=glossary:younger realms]Reinos mais jovens[/url], entrar no Oldwalls nunca foi ilegal, mas saqueá-los era - a lógica é que o que está no Oldwalls pertence ao seu governante local, não a você ."</DefaultText>
+      <DefaultText>"Na moda típica [url=glossary:younger realms]Reinos mais jovens[/url], entrar no Muralhas Antigas nunca foi ilegal, mas saqueá-los era - a lógica é que o que está no Muralhas Antigas pertence ao seu governante local, não a você ."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2881,7 +2881,7 @@ Ele limpa a garganta e abaixa o olhar, nervosamente manuseando seus estojos de p
     </Entry>
     <Entry>
       <ID>662</ID>
-      <DefaultText>"Além do terrível Bane? Bem, cada seção do Oldwalls tem sua própria arquitetura de cair o queixo. Já vi pontes que se movem quando alguém está próximo, barreiras místicas que devem estar de pé por eras..."</DefaultText>
+      <DefaultText>"Além do terrível Maldições? Bem, cada seção do Muralhas Antigas tem sua própria arquitetura de cair o queixo. Já vi pontes que se movem quando alguém está próximo, barreiras místicas que devem estar de pé por eras..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2891,12 +2891,12 @@ Ele limpa a garganta e abaixa o olhar, nervosamente manuseando seus estojos de p
     </Entry>
     <Entry>
       <ID>664</ID>
-      <DefaultText>"O que mais me fascina são os símbolos encontrados na arquitetura de interiores. Não posso deixar de pensar que, se compartilhássemos notas com outros Oldwalls exploradores, poderíamos algum dia decifrar os significados."</DefaultText>
+      <DefaultText>"O que mais me fascina são os símbolos encontrados na arquitetura de interiores. Não posso deixar de pensar que, se compartilhássemos notas com outros Muralhas Antigas exploradores, poderíamos algum dia decifrar os significados."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>665</ID>
-      <DefaultText>"É também onde o Reinos Jovens recebeu seu nome, indiretamente. Azure, Robusto, e todos eles são mais velhos que você e eu, mas comparados com o Oldwalls, eles são bebês."</DefaultText>
+      <DefaultText>"É também onde o Reinos Jovens recebeu seu nome, indiretamente. Azure, Robusto, e todos eles são mais velhos que você e eu, mas comparados com as Muralhas Antigas, eles são bebês."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2911,7 +2911,7 @@ Ele limpa a garganta e abaixa o olhar, nervosamente manuseando seus estojos de p
     </Entry>
     <Entry>
       <ID>668</ID>
-      <DefaultText>"As casas nobres faziam questão de comprar qualquer coisa que saísse do Oldwalls. Há muitas coisas antigas lá, mas às vezes você encontra coisas que têm apenas uma geração - deixadas pelo último tolo tentando procurar um tesouro."</DefaultText>
+      <DefaultText>"As casas nobres faziam questão de comprar qualquer coisa que saísse do Muralhas Antigas. Há muitas coisas antigas lá, mas às vezes você encontra coisas que têm apenas uma geração - deixadas pelo último tolo tentando procurar um tesouro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2971,12 +2971,12 @@ Ele limpa a garganta e abaixa o olhar, nervosamente manuseando seus estojos de p
     </Entry>
     <Entry>
       <ID>681</ID>
-      <DefaultText>"Os símbolos na estrutura certamente parecem estar relacionados aos símbolos encontrados no Oldwalls, então tenho quase certeza de que a estrutura foi construída pelo mesmo artesão que construiu o Pináculo."</DefaultText>
+      <DefaultText>"Os símbolos na estrutura certamente parecem estar relacionados aos símbolos encontrados no Muralhas Antigas, então tenho quase certeza de que a estrutura foi construída pelo mesmo artesão que construiu o Pináculo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>682</ID>
-      <DefaultText>"Se você já passou pelo Oldwalls, deve estar familiarizado com o Maldito."</DefaultText>
+      <DefaultText>"Se você já passou pelo Muralhas Antigas, deve estar familiarizado com o Maldito."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2986,7 +2986,7 @@ Ele limpa a garganta e abaixa o olhar, nervosamente manuseando seus estojos de p
     </Entry>
     <Entry>
       <ID>684</ID>
-      <DefaultText>"Ouvi todo tipo de teoria sobre o Maldito. Ouvi dizer que eles eram magos mortos, os pesadelos de Arcontes ganham vida - um [url=glossary:sage]Sábio[/url] acredita que eles são [url=glossary:kyros]Kyros[/url]' crianças. Acho que se você tiver tinta e pergaminho suficientes, você pode descartar qualquer ideia idiota."</DefaultText>
+      <DefaultText>"Ouvi todo tipo de teoria sobre o Maldito. Ouvi dizer que eles eram magos mortos, os pesadelos de Arcontes ganham vida - um [url=glossary:sage]Sábio[/url] acredita que eles são crianças de [url=glossary:kyros]Kyros[/url]. Acho que se você tiver tinta e pergaminho suficientes, você pode descartar qualquer ideia idiota."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3018,7 +3018,7 @@ Sua mão direita, uma vez se movendo em uma enxurrada de ditados, para repentina
     </Entry>
     <Entry>
       <ID>690</ID>
-      <DefaultText>A proclamação do fogo ainda perdura. Não importa onde você acorde, ainda cheira como uma fogueira, apenas Mortes-in-Shadows parece notar, e mesmo assim, é sempre como um rastro passageiro. As xícaras que você segura ficam quentes, o que seria bom se você estivesse em casa onde estava frio, mas neste calor miserável, uma bebida gelada é rara o suficiente. Você foi usado - um canal vivo para a magia que perdura por uma eternidade um tanto condicional - e os tecidos do seu corpo ainda estão crocantes nas bordas.</DefaultText>
+      <DefaultText>A proclamação do fogo ainda perdura. Não importa onde você acorde, ainda cheira como uma fogueira, apenas Mortes nas Sombrass parece notar, e mesmo assim, é sempre como um rastro passageiro. As xícaras que você segura ficam quentes, o que seria bom se você estivesse em casa onde estava frio, mas neste calor miserável, uma bebida gelada é rara o suficiente. Você foi usado - um canal vivo para a magia que perdura por uma eternidade um tanto condicional - e os tecidos do seu corpo ainda estão crocantes nas bordas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3043,7 +3043,7 @@ Sua mão direita, uma vez se movendo em uma enxurrada de ditados, para repentina
     </Entry>
     <Entry>
       <ID>697</ID>
-      <DefaultText>A primeira vez que você assinou depois de proclamar o [url=glossary:edict]Edital[/url] de Pedra, a magia voltou para seus dedos, obrigado [url=glossary:kyros]Kyros[/url] ninguém estava assistindo... exceto provavelmente [url=glossary:bleden mark]Marca de mistura[/url], aquele que deveria ter matado [url=glossary:cairn]Cairn[/url], mas em vez disso, eles usaram você, e você está lentamente se tornando mineral ao longo das margens.</DefaultText>
+      <DefaultText>A primeira vez que você assinou depois de proclamar o [url=glossary:edict]Edital[/url] de Pedra, a magia voltou para seus dedos, obrigado [url=glossary:kyros]Kyros[/url] ninguém estava assistindo... exceto provavelmente [url=glossary:bleden mark]Marca de Mistura[/url], aquele que deveria ter matado [url=glossary:cairn]Cairn[/url], mas em vez disso, eles usaram você, e você está lentamente se tornando mineral ao longo das margens.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3097,7 +3097,7 @@ Lantry se curva rapidamente e rapidamente reúne seus pertences.</DefaultText>
     </Entry>
     <Entry>
       <ID>707</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] de Pedra amassou a paisagem - as planícies outrora infinitas e férteis agora são cársticas irregulares. Quer apostar que terá outro nome em nossas vidas?"</DefaultText>
+      <DefaultText>"[url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] de Pedra amassou a paisagem - as planícies outrora infinitas e férteis agora são cársticas irregulares. Quer apostar que terá outro nome em nossas vidas?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3132,7 +3132,7 @@ Lantry se curva rapidamente e rapidamente reúne seus pertences.</DefaultText>
     </Entry>
     <Entry>
       <ID>715</ID>
-      <DefaultText>"Mantaborn de Stalwart-os mares são muito mais duros e implacáveis do que os chorosos filhotes de pedra. Caçadores de sombras da escuridão também eram assassinos melhores e mais inteligentes. Estão mortos, mas podem nascer de novo. Uma vez [url=glossary:disfavored]Desfavorecido[/url] foram caçados extintos, Kills-in-Shadow só precisa de bons companheiros para que a melhor tribo prospere novamente."</DefaultText>
+      <DefaultText>"Mantaborn de Robusto-os mares são muito mais duros e implacáveis do que os chorosos filhotes de pedra. Caçadores de sombras da escuridão também eram assassinos melhores e mais inteligentes. Estão mortos, mas podem nascer de novo. Uma vez [url=glossary:disfavored]Desfavorecido[/url] foram caçados extintos, Mortes nas Sombras só precisa de bons companheiros para que a melhor tribo prospere novamente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3264,7 +3264,7 @@ Lantry o guia através de inúmeras repetições da assinatura do sigilo místic
     </Entry>
     <Entry>
       <ID>742</ID>
-      <DefaultText>"Conhecemos sua magia por meio de um de seus primeiros discípulos, que migrou para o Camadas em 222 para espalhar sua sabedoria - um ato que era ilegal sob a lei [url=glossary:kyros]Kyros[/url]'. Por isso e uma série de outras transgressões, o Parteira órfã está preso há mais de um século, ou assim diz a história."</DefaultText>
+      <DefaultText>"Conhecemos sua magia por meio de um de seus primeiros discípulos, que migrou para o Camadas em 222 para espalhar sua sabedoria - um ato que era ilegal sob a lei de [url=glossary:kyros]Kyros[/url]. Por isso e uma série de outras transgressões, o Parteira órfã está preso há mais de um século, ou assim diz a história."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

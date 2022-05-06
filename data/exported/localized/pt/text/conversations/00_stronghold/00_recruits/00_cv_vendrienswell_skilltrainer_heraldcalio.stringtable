@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Sim, eu gostaria de ver a vista do monumento que você reivindicou. Vou visitar e conduzir algumas aulas de sparring enquanto estiver lá." Calio acena com a cabeça, concordando com sua sugestão, sua própria curiosidade inclinando a balança de sua decisão a seu favor.</DefaultText>
+      <DefaultText>"Sim, eu gostaria de ver a vista do monumento que você reivindicou. Vou visitar e conduzir algumas aulas de luta enquanto estiver lá." Calio acena com a cabeça, concordando com sua sugestão, sua própria curiosidade inclinando a balança de sua decisão a seu favor.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -110,7 +110,7 @@ Calio toca suavemente seu ombro com a mão.</DefaultText>
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"[url=glossary:tunon]Tunon[/url] é o nosso Soberano justo e exigente Árbitro. Ele fala com a voz da lei [url=glossary:kyros]Kyros[/url]', e sua palavra é julgamento."</DefaultText>
+      <DefaultText>"[url=glossary:tunon]Tunon[/url] é o nosso Soberano justo e exigente Árbitro. Ele fala com a voz da lei de [url=glossary:kyros]Kyros[/url], e sua palavra é julgamento."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -120,7 +120,7 @@ Calio toca suavemente seu ombro com a mão.</DefaultText>
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Nunoval foi enviado para Robusto para quebrar o impasse entre os locais e os [url=glossary:disfavored]Desfavorecido[/url]. Ele proclamou [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] de Tempestades, destruindo o país com ventos sem fim."</DefaultText>
+      <DefaultText>"Nunoval foi enviado para Robusto para quebrar o impasse entre os locais e os [url=glossary:disfavored]Desfavorecido[/url]. Ele proclamou [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] de Tempestades, destruindo o país com ventos sem fim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -147,7 +147,7 @@ Ela acena para os nobres reunidos no hall de entrada. "Já começou."</DefaultTe
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Não discordo de você, mas tenha em mente que esses Sulista bárbaros estão sendo bem-vindos no Império. [url=glossary:kyros]Kyros[/url] não valoriza uma montanha de Tierman cadáveres... pelo menos nenhum que eu pudesse imaginar."</DefaultText>
+      <DefaultText>"Não discordo de você, mas tenha em mente que esses Sulista bárbaros estão sendo bem-vindos no Império. [url=glossary:kyros]Kyros[/url] não valoriza uma montanha de habitante do Camadas cadáveres... pelo menos nenhum que eu pudesse imaginar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -159,7 +159,7 @@ Ela acena para os nobres reunidos no hall de entrada. "Já começou."</DefaultTe
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Será tratada, rápida e eficientemente, no ponto da lâmina de [url=glossary:bleden mark]Marca de mistura[/url]." O Vinculador do Destino desliza uma adaga fina das dobras de seu traje roxo, virando a arma quase à toa no ar. "Claro, isso supondo que eu não os despache primeiro. Levo meu dever a sério e sou muito, muito bom nisso."</DefaultText>
+      <DefaultText>"Será tratada, rápida e eficientemente, no ponto da lâmina de [url=glossary:bleden mark]Marca de Mistura[/url]." O Vinculador do Destino desliza uma adaga fina das dobras de seu traje roxo, virando a arma quase à toa no ar. "Claro, isso supondo que eu não os despache primeiro. Levo meu dever a sério e sou muito, muito bom nisso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -198,7 +198,7 @@ Ela acena para os nobres reunidos no hall de entrada. "Já começou."</DefaultTe
       <ID>42</ID>
       <DefaultText>"Há sabedoria por trás do seu raciocínio. As guerras são vencidas com astúcia, estratégia e força. Os [url=glossary:disfavored]Desfavorecido[/url] são superados apenas em número no campo de batalha."
 
-"Considerando sua oposição, Ashe e seus soldados mais do que compensam a diferença."</DefaultText>
+"Considerando sua oposição, Cinza e seus soldados mais do que compensam a diferença."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -208,7 +208,7 @@ Ela acena para os nobres reunidos no hall de entrada. "Já começou."</DefaultTe
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Seu humor escurece. "E então quem lideraria nossos avanços, ou seria deixado para entregar [url=glossary:kyros]Kyros[/url]' Paz? Você usaria essa responsabilidade como uma coroa sobre sua cabeça? Você pode achar um fardo pesado para carregar."</DefaultText>
+      <DefaultText>Seu humor escurece. "E então quem lideraria nossos avanços, ou seria deixado para entregar Paz de [url=glossary:kyros]Kyros[/url]? Você usaria essa responsabilidade como uma coroa sobre sua cabeça? Você pode achar um fardo pesado para carregar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -233,17 +233,17 @@ Ela acena para os nobres reunidos no hall de entrada. "Já começou."</DefaultTe
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Houve rumores de que [url=glossary:cairn]Cairn[/url] cresceu desleal ao comando de [url=glossary:graven ashe]Cinza esculpida[/url] durante a campanha em Azure. Assumi o manto da investigação perto de Plainsgate, e julgando os rumores como verdadeiros, despachei [url=glossary:cairn]Cairn[/url] proclamando [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] de Pedra. A própria terra se voltou contra o traidor Arconte enquanto a região se dividia em julgamento justo."</DefaultText>
+      <DefaultText>"Houve rumores de que [url=glossary:cairn]Cairn[/url] cresceu desleal ao comando de [url=glossary:graven ashe]Cinza Esculpida[/url] durante a campanha em Azure. Assumi o manto da investigação perto de Plainsgate, e julgando os rumores como verdadeiros, despachei [url=glossary:cairn]Cairn[/url] proclamando [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] de Pedra. A própria terra se voltou contra o traidor Arconte enquanto a região se dividia em julgamento justo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Rhogalus viajou para o [url=glossary:vellum citadel]Cidadela de Velino[/url] para proteger os arquivos do nosso gentil soberano. Os Sábios se mostrou mais teimoso do que havíamos previsto, então Rhogalus foi forçado a proclamar [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] de Incêndio, consumindo a Cidadela em um golfo de chamas eternas. Um caso triste."</DefaultText>
+      <DefaultText>"Rhogalus viajou para o [url=glossary:vellum citadel]Cidadela de Velino[/url] para proteger os arquivos do nosso gentil soberano. Os Sábios se mostrou mais teimoso do que havíamos previsto, então Rhogalus foi forçado a proclamar [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] de Incêndio, consumindo a Cidadela em um golfo de chamas eternas. Um caso triste."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Depois que você despachou [url=glossary:cairn]Cairn[/url] por [url=lore:EdictofStone_React]enterrando-o em pedra[/url], fui encarregado de investigar as circunstâncias que levaram à sua traição. O Arconte ignorou as ordens de [url=glossary:graven ashe]Cinza esculpida[/url] e virou as costas para [url=glossary:kyros]Kyros[/url] para seus próprios interesses egoístas." "Rhogalus queria assumir o comando da investigação, mas eu temia que o que quer que seduzisse [url=glossary:cairn]Cairn[/url] para longe de seus sentidos em Azure pudesse corromper nosso Rhogalus também, então eu assumi a tarefa."</DefaultText>
+      <DefaultText>"Depois que você despachou [url=glossary:cairn]Cairn[/url] por [url=lore:EdictofStone_React]enterrando-o em pedra[/url], fui encarregado de investigar as circunstâncias que levaram à sua traição. O Arconte ignorou as ordens de [url=glossary:graven ashe]Cinza Esculpida[/url] e virou as costas para [url=glossary:kyros]Kyros[/url] para seus próprios interesses egoístas." "Rhogalus queria assumir o comando da investigação, mas eu temia que o que quer que seduzisse [url=glossary:cairn]Cairn[/url] para longe de seus sentidos em Azure pudesse corromper nosso Rhogalus também, então eu assumi a tarefa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -309,7 +309,7 @@ Ela acena para os nobres reunidos no hall de entrada. "Já começou."</DefaultTe
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Algumas gerações atrás, o alto Regente de Stalwart era a rainha Hadrium. Ela deu à luz ao marido um par de filhas - Lucanun e Tatium."
+      <DefaultText>"Algumas gerações atrás, o alto Regente de Robusto era a rainha Hadrium. Ela deu à luz ao marido um par de filhas - Lucanun e Tatium."
 
 "Lucanun era o mais forte dos dois, mas como ela nasceu em segundo lugar, a regra de Robusto cairia para Tatium."</DefaultText>
       <FemaleText />
@@ -352,7 +352,7 @@ Ela acena para os nobres reunidos no hall de entrada. "Já começou."</DefaultTe
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Eu... indique seu nome... abdico formalmente da reivindicação de meu filho ou filha ao Regência de Stalwart - dissolvendo todos os laços, pactos, vassalos e propriedades. Perdemos todas as proteções e vantagens dadas pela antiga linhagem."</DefaultText>
+      <DefaultText>"Eu... indique seu nome... abdico formalmente da reivindicação de meu filho ou filha ao Regência de Robusto - dissolvendo todos os laços, pactos, vassalos e propriedades. Perdemos todas as proteções e vantagens dadas pela antiga linhagem."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -374,7 +374,7 @@ Ela acena para os nobres reunidos no hall de entrada. "Já começou."</DefaultTe
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>Ela pisca. "[url=glossary:kyros]Kyros[/url]' olhos, estamos quase no fim. Você quer a resposta ou não?"</DefaultText>
+      <DefaultText>Ela pisca. "Aos olhos de [url=glossary:kyros]Kyros[/url], estamos quase no fim. Você quer a resposta ou não?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -484,32 +484,32 @@ Ela limpa a garganta.</DefaultText>
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"Tente manter Ashe na coleira curta. Acho que o velho gosta de conhecer suas restrições, e ninguém define limitações com mais eficiência do que [url=glossary:kyros]Kyros[/url]. Mas acho que você vai conseguir."</DefaultText>
+      <DefaultText>"Tente manter Cinza na coleira curta. Acho que o velho gosta de conhecer suas restrições, e ninguém define limitações com mais eficiência do que [url=glossary:kyros]Kyros[/url]. Mas acho que você vai conseguir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"Ashe não deixou nenhum vestígio para trás, deixou? Arcontes geralmente não. Eu adoraria montar sua testa franzida nas paredes do Tribunal, mas terei que ficar sem."</DefaultText>
+      <DefaultText>"Cinza não deixou nenhum vestígio para trás, deixou? Arcontes geralmente não. Eu adoraria montar sua testa franzida nas paredes do Tribunal, mas terei que ficar sem."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Não tenho certeza de como você domou [url=glossary:the voices of nerat]o Vozes de Nerat[/url], e duvido que queira saber. Apenas tome cuidado com isso. Você não gostaria de ser adicionado à mistura de... o que quer que ele seja."</DefaultText>
+      <DefaultText>"Não tenho certeza de como você domou [url=glossary:the voices of nerat]As Vozes de Nerat[/url], e duvido que queira saber. Apenas tome cuidado com isso. Você não gostaria de ser adicionado à mistura de... o que quer que ele seja."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"Tenho minhas dúvidas de que [url=glossary:the voices of nerat]o Vozes de Nerat[/url] esteja morto. Isso parece algo que ele teria planejado há muito tempo. Tem certeza de que pegou o Arconte certo?" Calio dá de ombros.</DefaultText>
+      <DefaultText>"Tenho minhas dúvidas de que [url=glossary:the voices of nerat]As Vozes de Nerat[/url] esteja morto. Isso parece algo que ele teria planejado há muito tempo. Tem certeza de que pegou o Arconte certo?" Calio dá de ombros.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"Como você acha que o Tribunal se sairá sem o [url=glossary:bleden mark]Marca de mistura[/url]?"</DefaultText>
+      <DefaultText>"Como você acha que o Tribunal se sairá sem o [url=glossary:bleden mark]Marca de Mistura[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"[url=glossary:bleden mark]Marca de mistura[/url] está sob meu controle. O que devo fazer com ele?"</DefaultText>
+      <DefaultText>"[url=glossary:bleden mark]Marca de Mistura[/url] está sob meu controle. O que devo fazer com ele?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -178,7 +178,7 @@ Ela dá de ombros e coloca a lança na bainha nas costas. Mas ela cruza os braç
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Você pode ser o Fatebinder de estimação dos Voices, mas você não é o chefão por aqui. Se você veio ajudar, ajude, mas não se esqueça que esta é a minha raquete."
+      <DefaultText>"Você pode ser o Vinculador do Destino de estimação dos Voices, mas você não é o chefão por aqui. Se você veio ajudar, ajude, mas não se esqueça que esta é a minha raquete."
 
 Ela coloca a lança na bainha das costas e cruza os braços, cautelosa ao olhar para você.
 
@@ -222,7 +222,7 @@ Ela coloca a lança na bainha das costas e cruza os braços, cautelosa ao olhar 
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"É o que você diz." Ela desembainha sua lança pesada e a coloca sobre os ombros. "Eu não consegui chegar a esse nível sendo fácil de matar. Estarei de olho em você, Encadernador."</DefaultText>
+      <DefaultText>"É o que você diz." Ela desembainha sua lança pesada e a coloca sobre os ombros. "Eu não consegui chegar a esse nível sendo fácil de matar. Estarei de olho em você, Vinculador."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -266,7 +266,7 @@ Ela coloca a lança na bainha das costas e cruza os braços, cautelosa ao olhar 
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Sim, Encadernador, temos. Tive essa ideia muito cedo. Eu quase enlouqueci ouvindo o gemido daquele caroço de pedra, manhã após manhã e noite após noite. Pensamento, ei, agora, podemos rastrear isso. Mas os uivos ecoam em todos os picos e fendas de todo o vale. Especialmente quando os Homens-fera estão respondendo ao seu clamor."</DefaultText>
+      <DefaultText>"Sim, Vinculador, temos. Tive essa ideia muito cedo. Eu quase enlouqueci ouvindo o gemido daquele caroço de pedra, manhã após manhã e noite após noite. Pensamento, ei, agora, podemos rastrear isso. Mas os uivos ecoam em todos os picos e fendas de todo o vale. Especialmente quando os Homens-fera estão respondendo ao seu clamor."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -320,7 +320,7 @@ Ela fareja, sua expressão sombria ao olhar para Miséria.
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>[Assegurar Mortes-in-Shadow] "Não preocupação. Não vou deixá-los matar Deixou-Claw."</DefaultText>
+      <DefaultText>[Assegurar Mortes nas Sombras] "Não preocupação. Não vou deixá-los matar Deixou-Claw."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -550,7 +550,7 @@ Ela faz uma reverência simulada, abrindo os braços enluvados diante de você.
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Até que as pessoas de [Plainsgate] jurem um Arconte, eles não têm direitos sob a lei [url=glossary:kyros]Kyros[/url]'. Recrute-os na ponta da lança, se necessário."</DefaultText>
+      <DefaultText>"Até que as pessoas de [Plainsgate] jurem um Arconte, eles não têm direitos sob a lei de [url=glossary:kyros]Kyros[/url]. Recrute-os na ponta da lança, se necessário."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -560,7 +560,7 @@ Ela faz uma reverência simulada, abrindo os braços enluvados diante de você.
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"Certo, eu vou. Estamos perdendo corpos todos os dias. Para a fome, para Bestas, para [url=glossary:disfavored]Desfavorecido[/url], e brigando. As substituições têm que vir de algum lugar. E ao contrário das linhagens Ashe, não evitamos Tiersmen."</DefaultText>
+      <DefaultText>"Certo, eu vou. Estamos perdendo corpos todos os dias. Para a fome, para Bestas, para [url=glossary:disfavored]Desfavorecido[/url], e brigando. As substituições têm que vir de algum lugar. E ao contrário das linhagens Cinza, não evitamos Homens dos Caminhos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -570,7 +570,7 @@ Ela faz uma reverência simulada, abrindo os braços enluvados diante de você.
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"Garra-esquerda é um bom filhote. Caça blindados por Mortes-in-Shadow. Busca por vingança."</DefaultText>
+      <DefaultText>"Garra-esquerda é um bom filhote. Caça blindados por Mortes nas Sombras. Busca por vingança."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -707,7 +707,7 @@ Ela faz uma reverência simulada, abrindo os braços enluvados diante de você.
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"As vozes não dizer alguma coisa? Claro que planejamos tomar [Plainsgate] - após a quebra em [url=glossary:vendrien's well]Poço de Vendrien[/url]." Ela acena com a mão maliciosamente. "Nós nunca desafiaríamos abertamente [url=glossary:kyros]Kyros[/url]' will."</DefaultText>
+      <DefaultText>"As vozes não dizer alguma coisa? Claro que planejamos tomar [Plainsgate] - após a quebra em [url=glossary:vendrien's well]Poço de Vendrien[/url]." Ela acena com a mão maliciosamente. "Nós nunca desafiaríamos abertamente vontade de [url=glossary:kyros]Kyros[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -717,7 +717,7 @@ Ela faz uma reverência simulada, abrindo os braços enluvados diante de você.
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>Ela pega sua lança, mas ainda não a puxa, confiante e firme em sua postura. "Não mais do que o [url=glossary:disfavored]Desfavorecido[/url] marcou seu território em todo o Robusto." Ela dá de ombros. "Você acha que o Vozes não notaria como o Ashe aposta em uma ocupação [url=glossary:disfavored]Desfavorecido[/url]-apenas? Alguém com olhos o veriam como suspeito. E as vozes tem mais do que sua cota de olhos."</DefaultText>
+      <DefaultText>Ela pega sua lança, mas ainda não a puxa, confiante e firme em sua postura. "Não mais do que o [url=glossary:disfavored]Desfavorecido[/url] marcou seu território em todo o Robusto." Ela dá de ombros. "Você acha que o Vozes não notaria como o Cinza aposta em uma ocupação [url=glossary:disfavored]Desfavorecido[/url]-apenas? Alguém com olhos o veriam como suspeito. E as vozes tem mais do que sua cota de olhos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -800,14 +800,14 @@ Ela bufa e se diverte.</DefaultText>
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>Misery projeta seu queixo, impressionada. "Parece que o Fatebinder of War tem uma taxa de sobrevivência melhor do que a elite do [url=glossary:disfavored]Desfavorecido[/url]. Gostaria de saber como ele cura suas feridas - e por que ele é tão ruim em evitá-las para começar." Ela ri, um som rouco e sufocante.</DefaultText>
+      <DefaultText>Misery projeta seu queixo, impressionada. "Parece que o Vinculador do Destino of War tem uma taxa de sobrevivência melhor do que a elite do [url=glossary:disfavored]Desfavorecido[/url]. Gostaria de saber como ele cura suas feridas - e por que ele é tão ruim em evitá-las para começar." Ela ri, um som rouco e sufocante.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
       <DefaultText>"Deve ser meu dia de sorte." A Lança Carmesim inclina o rosto escondido no elmo para o lado, estudando você com cautela. 
 
-"Eu posso banhar minha Arabella em um Fatebinder sangue." Ela se agacha e gira sua longa lança sobre a cabeça. À medida que os movimentos de sua mão aceleram, a lança de bronze começa a bater e estalar no ar.</DefaultText>
+"Eu posso banhar minha Arabella em um Vinculador do Destino sangue." Ela se agacha e gira sua longa lança sobre a cabeça. À medida que os movimentos de sua mão aceleram, a lança de bronze começa a bater e estalar no ar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -834,7 +834,7 @@ Ela bufa e se diverte.</DefaultText>
     </Entry>
     <Entry>
       <ID>165</ID>
-      <DefaultText>"Não ameace da mulher-fera companheiro de matilha." Kills-in-Shadow carrancudos.</DefaultText>
+      <DefaultText>"Não ameace da mulher-fera companheiro de matilha." Mortes nas Sombras carrancudos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -875,7 +875,7 @@ Com isso, ela estala o pescoço audivelmente, levanta a lança e ataca você.</D
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>"Tch." Ela cospe com veemência no chão. "Seu pica-pau de ferro. Vou gostar de esfolar você, lentamente, nas próximas semanas. Melhor esperança pelo amor de Ashe, eu não te pego vivo, hein?"
+      <DefaultText>"Tch." Ela cospe com veemência no chão. "Seu pica-pau de ferro. Vou gostar de esfolar você, lentamente, nas próximas semanas. Melhor esperança pelo amor de Cinza, eu não te pego vivo, hein?"
 
 Com isso, ela estala o pescoço audivelmente, levanta sua lança e ataca você.</DefaultText>
       <FemaleText />
@@ -966,7 +966,7 @@ Ela golpeia você, lança estalando estrondosamente no ar.</DefaultText>
     </Entry>
     <Entry>
       <ID>190</ID>
-      <DefaultText>"[url=glossary:bleden mark]Marca de mistura[/url] manda lembranças."</DefaultText>
+      <DefaultText>"[url=glossary:bleden mark]Marca de Mistura[/url] manda lembranças."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1057,7 +1057,7 @@ Ela flexiona os dedos blindados, a mão estendida, impaciente. "Agora."</Default
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>"Nós vamos, olhe para você - um Vinculador do Destino, Archon-killer, e queller de terremotos - meu grande fodido herói."
+      <DefaultText>"Nós vamos, olhe para você - um Vinculador do Destino, Arconte-killer, e queller de terremotos - meu grande fodido herói."
 
 Ela ri duramente por trás de seu leme, varrendo uma reverência exagerada. Enquanto seu pé desliza no chão pedregoso e seus braços se abrem, ela chicoteia sua lança com força - quase perdendo o golpe em seu abdômen. 
 
@@ -1177,7 +1177,7 @@ Ela bate a lança contra o chão, levantando uma nuvem de poeira.
     </Entry>
     <Entry>
       <ID>237</ID>
-      <DefaultText>"Mate o Fatebinder ENTÃO o Arconte!" 
+      <DefaultText>"Mate o Vinculador do Destino ENTÃO o Arconte!" 
 
 Um som de surpresa fica preso em sua garganta com seu ataque apressado, mas ela não tropeça ou vacila. Em vez de, ela balança sua lança em um arco forte, apontando para sua garganta.</DefaultText>
       <FemaleText />
@@ -1189,14 +1189,14 @@ Um som de surpresa fica preso em sua garganta com seu ataque apressado, mas ela 
     </Entry>
     <Entry>
       <ID>239</ID>
-      <DefaultText>Mestre do Tremedores de terra acena com a cabeça para você com um ar grave de respeito.
+      <DefaultText>Mestre do Tremedores de Terra acena com a cabeça para você com um ar grave de respeito.
 
 "Vinculador do Destino, eu gostaria de convidá-lo a se juntar a mim para proteger os restos do meu Arconte e ferir esses gorgulhos imundos cuja existência absoluta é como um flagelo para esta terra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>240</ID>
-      <DefaultText>Mestre do Tremedores de terra acena com a cabeça para você com um ar grave de respeito.
+      <DefaultText>Mestre do Tremedores de Terra acena com a cabeça para você com um ar grave de respeito.
 
 "Vinculador do Destino, eu gostaria de convidá-lo a se juntar a mim para proteger os restos do meu Arconte e ferir esses gorgulhos imundos cuja existência absoluta é como um flagelo para esta terra."</DefaultText>
       <FemaleText />

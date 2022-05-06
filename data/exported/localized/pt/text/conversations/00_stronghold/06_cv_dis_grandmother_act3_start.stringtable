@@ -41,17 +41,17 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Cuide como você trata com [url=glossary:graven ashe]Cinza esculpida[/url]. Você não é mais um mero Vinculador do Destino. Você se encontrará com ele como Arconte para Arconte, e essas coisas são... mais complicadas. Boa sorte."</DefaultText>
+      <DefaultText>"Cuide como você trata com [url=glossary:graven ashe]Cinza Esculpida[/url]. Você não é mais um mero Vinculador do Destino. Você se encontrará com ele como Arconte para Arconte, e essas coisas são... mais complicadas. Boa sorte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Eu não gastaria muito tempo pensando. Você demonstrou um poder incrível, e este é um momento de ação. Vou enviar Ashe um pássaro para que ele saiba esperar você mais tarde, se não imediatamente."</DefaultText>
+      <DefaultText>"Eu não gastaria muito tempo pensando. Você demonstrou um poder incrível, e este é um momento de ação. Vou enviar Cinza um pássaro para que ele saiba esperar você mais tarde, se não imediatamente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Espere-espere. Kills-in-Shadow quer falar com Alfa."</DefaultText>
+      <DefaultText>"Espere-espere. Mortes nas Sombras quer falar com Alfa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Mulher-Besta tem sido paciente, sim-sim. Compreende caça longa. Ajudou Alfa mesmo que Alfa lute pelo exército de soldados de ferro. Mas mata-in-Shadow não pode esperar mais."
+      <DefaultText>"Mulher-Besta tem sido paciente, sim-sim. Compreende caça longa. Ajudou Alfa mesmo que Alfa lute pelo exército de soldados de ferro. Mas Mortes nas Sombras não pode esperar mais."
 
 Ela se eriça e se levanta sobre as patas traseiras, lábios roxos saindo de suas presas irregulares, seus músculos tensos estremecendo enquanto ela se eleva sobre você.</DefaultText>
       <FemaleText />
@@ -80,14 +80,14 @@ Ela se eriça e se levanta sobre as patas traseiras, lábios roxos saindo de sua
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>[Runhir e estalar em Mortes-in-Shadow.]</DefaultText>
+      <DefaultText>[Runhir e estalar em Mortes nas Sombras.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
       <DefaultText>Ela bufa, mais divertida do que intimidada. Seus olhos carmesins percorrem seu corpo com um desejo óbvio, e ela lambe suas presas com pontas afiadas.
 
-"Pode rosnar e rosnar para Mulher-Besta até a escuridão cair e a lua nascer, mas Alfa vai ouvir Kills-in-Shadow AGORA."
+"Pode rosnar e rosnar para Mulher-Besta até a escuridão cair e a lua nascer, mas Alfa vai ouvir Mortes nas Sombras AGORA."
 
 O não dito 'ou então' paira pesado no ar entre vocês. Seja qual for o problema dela, a da mulher-fera não vai deixar passar de ânimo leve.</DefaultText>
       <FemaleText />
@@ -156,14 +156,14 @@ Que seja uma lição para os outros.</DefaultText>
       <ID>27</ID>
       <DefaultText>Ela bufa, mas há pouca diversão por trás disso, e quando ela fala suas palavras ressoam em um grunhido quase imperceptível.
 
-"O ser humano pode olhar para da mulher-fera tetas até a escuridão cair e a lua nascer, mas Alfa vai ouvir para Kills-in-Shadow AGORA."
+"O ser humano pode olhar para da mulher-fera tetas até a escuridão cair e a lua nascer, mas Alfa vai ouvir para Mortes nas Sombras AGORA."
 
 O não dito 'ou então' paira pesado no ar entre vocês. Seja qual for o problema dela, a da mulher-fera não vai deixar passar de ânimo leve.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>[Runhir e estalar em Mortes-in-Shadow.]</DefaultText>
+      <DefaultText>[Runhir e estalar em Mortes nas Sombras.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -213,7 +213,7 @@ O não dito 'ou então' paira pesado no ar entre vocês. Seja qual for o problem
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>Ela bufa. "Multar. Kills-in-Shadow acredita em Alfa. Será paciente por mais algum tempo. Mas não se esqueça de da mulher-fera promessa." Enquanto ela anda de quatro, ela te lança um último olhar por cima do ombro, suas palavras ásperas enquanto ela avisa - "Na próxima temporada, Kills-in-Shadow WILL caçar todos os [url=glossary:disfavored]Desfavorecido[/url] mortos."</DefaultText>
+      <DefaultText>Ela bufa. "Multar. Mortes nas Sombras acredita em Alfa. Será paciente por mais algum tempo. Mas não se esqueça de da mulher-fera promessa." Enquanto ela anda de quatro, ela te lança um último olhar por cima do ombro, suas palavras ásperas enquanto ela avisa - "Na próxima temporada, Mortes nas Sombras WILL caçar todos os [url=glossary:disfavored]Desfavorecido[/url] mortos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -262,12 +262,12 @@ Ela inclina sua cabeça maciça e escura para um lado e arranha uma garra em sua
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>Sirin olha para você, um olhar de horror em seu rosto. "O que você fez, Fatebinder? O que foi para isso? Não vou derramar uma lágrima por um Fera caído, mas isso foi...brutal!"</DefaultText>
+      <DefaultText>Sirin olha para você, um olhar de horror em seu rosto. "O que você fez, Vinculador do Destino? O que foi para isso? Não vou derramar uma lágrima por um Fera caído, mas isso foi...brutal!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>Esboçando o cadáver de Mortes-in-Shadow, a pena de Lantry se move com uma deselegância lenta e trêmula. "Eu lhe asseguro, você não ouvirá nenhuma oposição ao seu plano de mim."</DefaultText>
+      <DefaultText>Esboçando o cadáver de Mortes nas Sombras, a pena de Lantry se move com uma deselegância lenta e trêmula. "Eu lhe asseguro, você não ouvirá nenhuma oposição ao seu plano de mim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

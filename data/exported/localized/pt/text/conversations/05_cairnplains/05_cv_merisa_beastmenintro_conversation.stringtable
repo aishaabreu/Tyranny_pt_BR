@@ -55,7 +55,7 @@ A mulher estremece e leva um lenço sujo à boca. Ela enxuga o lábio superior, 
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Você gosta de Homens-fera ou algo assim, Fatebinder? Você prefere ficar do lado deles do que dos humanos? Que assassino foi encontrado com sangue por todo o rosto e patas do lado de fora dos portões! Quem mais você acha que ele comeu se não fosse um de nós?"</DefaultText>
+      <DefaultText>"Você gosta de Homens-fera ou algo assim, Vinculador do Destino? Você prefere ficar do lado deles do que dos humanos? Que assassino foi encontrado com sangue por todo o rosto e patas do lado de fora dos portões! Quem mais você acha que ele comeu se não fosse um de nós?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -70,12 +70,12 @@ A mulher estremece e leva um lenço sujo à boca. Ela enxuga o lábio superior, 
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Para que a justiça seja feita adequadamente, ele merece uma Fatebinder arbitragem ou um julgamento justo."</DefaultText>
+      <DefaultText>"Para que a justiça seja feita adequadamente, ele merece uma Vinculador do Destino arbitragem ou um julgamento justo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Isso mesmo, Fatebinder? Por que você não vai perguntar a alguns dos outros por aí - veja quantos de nós estão interessados em seus pensamentos sobre justiça." 
+      <DefaultText>"Isso mesmo, Vinculador do Destino? Por que você não vai perguntar a alguns dos outros por aí - veja quantos de nós estão interessados em seus pensamentos sobre justiça." 
 
 Ela olha carrancuda, mãos apertando o tecido de seu vestido enquanto acrescenta, " Ele não merece andar livre, e você sabe disso."</DefaultText>
       <FemaleText />
@@ -106,12 +106,12 @@ Ela olha para a cativa Homem-Besta, ódio torcendo seus lábios finos em um sorr
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Você não pode deixar isso acontecer, Fatebinder! Um homem inteligente como você sabe tão bem quanto eu, ele não é inocente! Você não vai fazer alguma coisa? Essa Besta precisa ser punido!"</DefaultText>
-      <FemaleText>"Você não pode deixar isso acontecer, Fatebinder! Uma mulher inteligente como você sabe tão bem quanto eu que ele não é inocente! Você não vai fazer alguma coisa?"</FemaleText>
+      <DefaultText>"Você não pode deixar isso acontecer, Vinculador do Destino! Um homem inteligente como você sabe tão bem quanto eu, ele não é inocente! Você não vai fazer alguma coisa? Essa Besta precisa ser punido!"</DefaultText>
+      <FemaleText>"Você não pode deixar isso acontecer, Vinculador do Destino! Uma mulher inteligente como você sabe tão bem quanto eu que ele não é inocente! Você não vai fazer alguma coisa?"</FemaleText>
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Com a falta de provas físicas, vou ouvir o depoimento das pessoas e julgar o Homem-Besta de acordo com os costumes [url=glossary:kyros]Kyros[/url]'."</DefaultText>
+      <DefaultText>"Com a falta de provas físicas, vou ouvir o depoimento das pessoas e julgar o Homem-Besta de acordo com os costumes de [url=glossary:kyros]Kyros[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -141,7 +141,7 @@ Ela olha para a cativa Homem-Besta, ódio torcendo seus lábios finos em um sorr
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Você é fraco no Homens-fera ou algo assim, Fatebinder? É por isso que você tem um seguindo seus calcanhares? Você faria prefere ficar do lado deles do que de nós humanos, não é?"</DefaultText>
+      <DefaultText>"Você é fraco no Homens-fera ou algo assim, Vinculador do Destino? É por isso que você tem um seguindo seus calcanhares? Você faria prefere ficar do lado deles do que de nós humanos, não é?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -166,7 +166,7 @@ Ela olha para a cativa Homem-Besta, ódio torcendo seus lábios finos em um sorr
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>A mulher empalidece e dá um passo inconsciente para trás. "O-o que você vai fazer, Fatebinder? Você pretende achá-lo inocente?"</DefaultText>
+      <DefaultText>A mulher empalidece e dá um passo inconsciente para trás. "O-o que você vai fazer, Vinculador do Destino? Você pretende achá-lo inocente?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -181,7 +181,7 @@ Ela olha para a cativa Homem-Besta, ódio torcendo seus lábios finos em um sorr
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"O Homem-Besta julgamento será presidido por um Vinculador do Destino. Daqui em diante, ouvirei o depoimento do povo e julgarei o acusado de acordo com os costumes [url=glossary:kyros]Kyros[/url]'."</DefaultText>
+      <DefaultText>"O Homem-Besta julgamento será presidido por um Vinculador do Destino. Daqui em diante, ouvirei o depoimento do povo e julgarei o acusado de acordo com os costumes de [url=glossary:kyros]Kyros[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -211,7 +211,7 @@ Ela olha para a cativa Homem-Besta, ódio torcendo seus lábios finos em um sorr
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Gostaria de saber se [url=glossary:tunon]Tunon[/url] concordaria com você. Como você está em melhores condições com o Árbitro do que eu, suponho que isso seja o máximo que posso esperar da [url=glossary:kyros]Kyros[/url]' justiça."</DefaultText>
+      <DefaultText>"Gostaria de saber se [url=glossary:tunon]Tunon[/url] concordaria com você. Como você está em melhores condições com o Árbitro do que eu, suponho que isso seja o máximo que posso esperar da justiça de [url=glossary:kyros]Kyros[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -246,17 +246,17 @@ Ela olha para a cativa Homem-Besta, ódio torcendo seus lábios finos em um sorr
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"A justiça é reservada para quem aceita [url=glossary:kyros]Kyros[/url]' Paz. [Plainsgate] é apenas uma cidade ocupada."</DefaultText>
+      <DefaultText>"A justiça é reservada para quem aceita Paz de [url=glossary:kyros]Kyros[/url]. [Plainsgate] é apenas uma cidade ocupada."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Uma distinção confortável a ser feita quando isso o beneficia. Se combinasse com a lei [url=glossary:kyros]Kyros[/url]', tenho certeza que você poderia encontrar uma maneira de nos colocar entre os vassalos de alguns Arconte."</DefaultText>
+      <DefaultText>"Uma distinção confortável a ser feita quando isso o beneficia. Se combinasse com a lei de [url=glossary:kyros]Kyros[/url], tenho certeza que você poderia encontrar uma maneira de nos colocar entre os vassalos de alguns Arconte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>Ela suspira. "Como se eu estivesse em posição de questionar a lei [url=glossary:kyros]Kyros[/url]'. Vá, então. Nosso negócio está feito."</DefaultText>
+      <DefaultText>Ela suspira. "Como se eu estivesse em posição de questionar a lei de [url=glossary:kyros]Kyros[/url]. Vá, então. Nosso negócio está feito."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

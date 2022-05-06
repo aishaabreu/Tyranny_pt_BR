@@ -37,7 +37,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Você sabe o que vem a seguir, certo? [url=glossary:kyros]Kyros[/url] enviou outro bando de minions para o Camadas. Originalmente, eles estavam vindo para resolver a guerra civil, suas ordens atualizadas incluem derrubar você."</DefaultText>
+      <DefaultText>"Você sabe o que vem a seguir, certo? [url=glossary:kyros]Kyros[/url] enviou outro bando de lacaios para o Camadas. Originalmente, eles estavam vindo para resolver a guerra civil, suas ordens atualizadas incluem derrubar você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,9 +71,9 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"O norte... eles devem sofrer para provar seu ponto de vista? Lá ainda são boas pessoas que simplesmente vivem sob a regra [url=glossary:kyros]Kyros[/url]'." 
+      <DefaultText>"O norte... eles devem sofrer para provar seu ponto de vista? Lá ainda são boas pessoas que simplesmente vivem sob a regra de [url=glossary:kyros]Kyros[/url]." 
 
-"Eu não gosto disso, mas não vejo que tenhamos outra escolha . Nada menos vai chamar a atenção [url=glossary:kyros]Kyros[/url]'. Melhor ir para o seu Pináculo antes que o exército chegue até nós."</DefaultText>
+"Eu não gosto disso, mas não vejo que tenhamos outra escolha . Nada menos vai chamar a atenção de [url=glossary:kyros]Kyros[/url]. Melhor ir para o seu Pináculo antes que o exército chegue até nós."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -217,7 +217,7 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Nós levamos a batalha para [url=glossary:kyros]Kyros[/url]... é claro. Há planos se desenrolando na minha cabeça. Mapas, estratégias. Parece [url=glossary:the voices of nerat]o Vozes de Nerat[/url] era um gênio tático, o bastardo. Ele nunca usou isso em nosso benefício!" "Eu tenho muitas idéias para destilar algo de valor. Espero que você consiga pensar em algo."</DefaultText>
+      <DefaultText>"Nós levamos a batalha para [url=glossary:kyros]Kyros[/url]... é claro. Há planos se desenrolando na minha cabeça. Mapas, estratégias. Parece [url=glossary:the voices of nerat]As Vozes de Nerat[/url] era um gênio tático, o bastardo. Ele nunca usou isso em nosso benefício!" "Eu tenho muitas idéias para destilar algo de valor. Espero que você consiga pensar em algo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -329,7 +329,7 @@ Sua voz corta abruptamente quando sua cabeça vira para o lado e para baixo - en
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Sou humano! sou a mulher-fera não mais! Mortes-in-Shadow nunca deveria ter seguido Vinculador do Destino. Nunca deveria ter confiado no humano Alfa!"</DefaultText>
+      <DefaultText>"Sou humano! sou a mulher-fera não mais! Mortes nas Sombras nunca deveria ter seguido Vinculador do Destino. Nunca deveria ter confiado no humano Alfa!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -354,7 +354,7 @@ Sua voz corta abruptamente quando sua cabeça vira para o lado e para baixo - en
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Sim-sim... bom-bom. Alpha corrigirá para Mortes-in-Shadow - rápido, sim? Não quero ficar no corpo estranho Arconte. Quer ser Mulher-Besta novamente."</DefaultText>
+      <DefaultText>"Sim-sim... bom-bom. Alpha corrigirá para Mortes nas Sombras - rápido, sim? Não quero ficar no corpo estranho Arconte. Quer ser Mulher-Besta novamente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -446,7 +446,7 @@ Sua voz corta abruptamente quando sua cabeça vira para o lado e para baixo - en
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Eu não vou. O refrão eram Tiersmen, forçados a essa loucura. Agora que estou no topo, o único canto que vou começar é um canto de desarmamento - não vou jogá-los no túmulo."</DefaultText>
+      <DefaultText>"Eu não vou. O refrão eram Homens dos Caminhos, forçados a essa loucura. Agora que estou no topo, o único canto que vou começar é um canto de desarmamento - não vou jogá-los no túmulo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -497,7 +497,7 @@ Ela bufa e sacode o comprimento de sua túnica esfarrapada que se espalha entre 
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Pense em todos os Tiersmen que vingamos e em tudo que libertamos! Embora eu sinto um toque de tristeza por todas as mentes que tiveram que morrer com ele. Espero que agora estejam descansando."
+      <DefaultText>"Pense em todos os Homens dos Caminhos que vingamos e em tudo que libertamos! Embora eu sinto um toque de tristeza por todas as mentes que tiveram que morrer com ele. Espero que agora estejam descansando."
 
 Ela olha para a máscara de bronze do Arconte dos Segredos, agora fria e sem vida.</DefaultText>
       <FemaleText />
@@ -538,7 +538,7 @@ Ela olha para a máscara de bronze do Arconte dos Segredos, agora fria e sem vid
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Pense em todos os Tiersmen que vingamos e em tudo que libertamos! Embora eu sinto um toque de tristeza por todas as mentes que tiveram que morrer com ele. Espero que agora estejam descansando."
+      <DefaultText>"Pense em todos os Homens dos Caminhos que vingamos e em tudo que libertamos! Embora eu sinto um toque de tristeza por todas as mentes que tiveram que morrer com ele. Espero que agora estejam descansando."
 
 Ela olha para a máscara de bronze do Arconte dos Segredos, agora fria e sem vida.</DefaultText>
       <FemaleText />

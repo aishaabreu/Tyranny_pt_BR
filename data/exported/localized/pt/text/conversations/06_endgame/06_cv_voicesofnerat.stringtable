@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Fatebinder! Parece que faz muito tempo que trocamos palavras com o Arconte dos Barbas Cinzentas na tenda de guerra. Estamos muito felizes em vê-lo retornar ao nosso rebanho."</DefaultText>
+      <DefaultText>"Vinculador do Destino! Parece que faz muito tempo que trocamos palavras com o Arconte dos Barbas Cinzentas na tenda de guerra. Estamos muito felizes em vê-lo retornar ao nosso rebanho."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -18,14 +18,14 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Fatebinder! Que surpresa agradável! Estávamos observando este monte de insetos e comparando-o com o cerco de [url=glossary:vendrien's well]Poço de Vendrien[/url]. Este besouro particularmente gordo sob nosso polegar representa [url=glossary:graven ashe]Cinza esculpida[/url]. Ele não se contorce lindamente?"</DefaultText>
+      <DefaultText>"Vinculador do Destino! Que surpresa agradável! Estávamos observando este monte de insetos e comparando-o com o cerco de [url=glossary:vendrien's well]Poço de Vendrien[/url]. Este besouro particularmente gordo sob nosso polegar representa [url=glossary:graven ashe]Cinza Esculpida[/url]. Ele não se contorce lindamente?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
       <DefaultText>"Putridez! É o destino de todos e, no entanto, muitos de nós estão obcecados em fazer de cada momento de vigília que leva a isso uma nova miséria."
 
-"Esse é o nosso Fatebinder favorito? Se você não tivesse adivinhado, estávamos contemplando o resultado em [url=glossary:vendrien's well]Poço de Vendrien[/url]."</DefaultText>
+"Esse é o nosso Vinculador do Destino favorito? Se você não tivesse adivinhado, estávamos contemplando o resultado em [url=glossary:vendrien's well]Poço de Vendrien[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -47,14 +47,14 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Talvez devêssemos matar todos eles e começar de novo. Isso seria uma delícia. Bah! Sempre podemos despachar nossa multidão uivante quando Ashe e seus torrões de ferro são uma mancha neste país." 
+      <DefaultText>"Talvez devêssemos matar todos eles e começar de novo. Isso seria uma delícia. Bah! Sempre podemos despachar nossa multidão uivante quando Cinza e seus torrões de ferro são uma mancha neste país." 
 
 "Vinculador do Destino, sempre um prazer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"A morte nos cerca, mas seria inútil evitar a inevitabilidade. Essa é uma lição [url=glossary:graven ashe]Cinza esculpida[/url] e seu exército de coagulação rápida nunca entenderá enquanto lutam para evitar o túmulo." 
+      <DefaultText>"A morte nos cerca, mas seria inútil evitar a inevitabilidade. Essa é uma lição [url=glossary:graven ashe]Cinza Esculpida[/url] e seu exército de coagulação rápida nunca entenderá enquanto lutam para evitar o túmulo." 
 
 "Bem-vindo de volta, Vinculador do Destino."</DefaultText>
       <FemaleText />
@@ -68,12 +68,12 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Fatebinder! Venha se juntar a nós enquanto contemplamos a vastidão do infinito. Há coisas maravilhosas a serem aprendidas dentro do eu primitivo e irrestrito."</DefaultText>
+      <DefaultText>"Vinculador do Destino! Venha se juntar a nós enquanto contemplamos a vastidão do infinito. Há coisas maravilhosas a serem aprendidas dentro do eu primitivo e irrestrito."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Você está de volta! O que você acha do nosso trono? Por mais que detestemos uma cadeira fria e imóvel, esta nos convém. Sem um local para nos plantarmos, caminharíamos o comprimento do Oldwalls todos os dias em nossa contemplação."</DefaultText>
+      <DefaultText>"Você está de volta! O que você acha do nosso trono? Por mais que detestemos uma cadeira fria e imóvel, esta nos convém. Sem um local para nos plantarmos, caminharíamos o comprimento do Muralhas Antigas todos os dias em nossa contemplação."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -139,7 +139,7 @@ O Arconte tagarela por vários minutos, mudando abruptamente de assunto quando s
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"É como sempre dissemos - se as Homens-fera tribos reconhecessem um quarto de seu potencial, elas poderiam devastar as [url=glossary:kyros]Kyros[/url]' forças." Ele continua para o próximo assunto sem parar ou dar você tem espaço para falar.</DefaultText>
+      <DefaultText>"É como sempre dissemos - se as Homens-fera tribos reconhecessem um quarto de seu potencial, elas poderiam devastar as forças de [url=glossary:kyros]Kyros[/url]." Ele continua para o próximo assunto sem parar ou dar você tem espaço para falar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -159,7 +159,7 @@ O Arconte tagarela por vários minutos, mudando abruptamente de assunto quando s
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"[url=glossary:tunon]Tunon[/url] o martelo de # é tão poderoso quanto seu direito legal de empunhá-lo. Pense sobre isso. Confunde seus sentidos imaginar como..." Enquanto ele continua, você sente como se essa discussão bem-humorada estivesse entrando em território perigoso.</DefaultText>
+      <DefaultText>"O martelo de [url=glossary:tunon]Tunon[/url] é tão poderoso quanto seu direito legal de empunhá-lo. Pense sobre isso. Confunde seus sentidos imaginar como..." Enquanto ele continua, você sente como se essa discussão bem-humorada estivesse entrando em território perigoso.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -211,7 +211,7 @@ Você não se lembra de como a conversa chegou até aqui, e isso o assusta.</Def
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Nós te entediamos, Fatebinder? Talvez você encontre uma conversa mais envolvente com o [url=glossary:disfavored]Desfavorecido[/url]. Eles estão sempre dispostos a ter um debate animado sobre NADA."</DefaultText>
+      <DefaultText>"Nós te entediamos, Vinculador do Destino? Talvez você encontre uma conversa mais envolvente com o [url=glossary:disfavored]Desfavorecido[/url]. Eles estão sempre dispostos a ter um debate animado sobre NADA."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -265,7 +265,7 @@ Você não se lembra de como a conversa chegou até aqui, e isso o assusta.</Def
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Fale-me dos princípios [url=glossary:scarlet chorus]Coro Escarlate[/url]'."</DefaultText>
+      <DefaultText>"Fale-me dos princípios do [url=glossary:scarlet chorus]Coro Escarlate[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -275,7 +275,7 @@ Você não se lembra de como a conversa chegou até aqui, e isso o assusta.</Def
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Isso também significa que você pode matar quem quiser. [url=glossary:kyros]Kyros[/url]' A paz se estende aos servos do Império, mas estes Tierman ainda não desfrutaram do prazer de nossas leis. Até que eles o façam, você pode tratá-los como esporte, e nem mesmo o velho [url=glossary:tunon]Tunon[/url] ficará ofendido."</DefaultText>
+      <DefaultText>"Isso também significa que você pode matar quem quiser. A paz de [url=glossary:kyros]Kyros[/url] se estende aos servos do Império, mas estes habitante do Camadas ainda não desfrutaram do prazer de nossas leis. Até que eles o façam, você pode tratá-los como esporte, e nem mesmo o velho [url=glossary:tunon]Tunon[/url] ficará ofendido."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -320,7 +320,7 @@ Você não se lembra de como a conversa chegou até aqui, e isso o assusta.</Def
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Estou curioso sobre a história do [url=glossary:scarlet chorus]Coro Escarlate[/url]'."</DefaultText>
+      <DefaultText>"Estou curioso sobre a história do [url=glossary:scarlet chorus]Coro Escarlate[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -330,12 +330,12 @@ Você não se lembra de como a conversa chegou até aqui, e isso o assusta.</Def
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Os grandes desinformados pensam no [url=glossary:scarlet chorus]Coro Escarlate[/url] como um dos [url=glossary:kyros]Kyros[/url]' muitos exércitos. Na verdade, eles são nossa força pessoal. Começando nos primeiros dias de nosso poder, reunimos uma ralé de malfeitores de territórios recém-conquistados. O [url=glossary:scarlet chorus]Coro Escarlate[/url] sempre foi dragado dos alimentadores de fundo. Depois, há os seguidores do acampamento que se escondem em nossa longa sombra."</DefaultText>
+      <DefaultText>"Os grandes desinformados pensam no [url=glossary:scarlet chorus]Coro Escarlate[/url] como um dos muitos exércitos de [url=glossary:kyros]Kyros[/url]. Na verdade, eles são nossa força pessoal. Começando nos primeiros dias de nosso poder, reunimos uma ralé de malfeitores de territórios recém-conquistados. O [url=glossary:scarlet chorus]Coro Escarlate[/url] sempre foi dragado dos alimentadores de fundo. Depois, há os seguidores do acampamento que se escondem em nossa longa sombra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Como [url=glossary:kyros]Kyros[/url] forjou o resto do grande Império, estávamos acostumados a subjugar qualquer resistência remanescente. Aqueles que se opuseram [url=glossary:kyros]Kyros[/url]' A paz juntou-se à nossa desarmonia uivante e viveu, ou morreu, na [url=glossary:kyros]Kyros[/url]' guerra. Um destino adequado, não é?"</DefaultText>
+      <DefaultText>"Como [url=glossary:kyros]Kyros[/url] forjou o resto do grande Império, estávamos acostumados a subjugar qualquer resistência remanescente. Aqueles que se opuseram A paz de [url=glossary:kyros]Kyros[/url] juntou-se à nossa desarmonia uivante e viveu, ou morreu, na guerra de [url=glossary:kyros]Kyros[/url]. Um destino adequado, não é?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -417,14 +417,14 @@ Você não se lembra de como a conversa chegou até aqui, e isso o assusta.</Def
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Em nossa juventude, éramos os descendentes mais jovens de Casa Nerat. Estes seriam os primeiros anos do reinado [url=glossary:kyros]Kyros[/url]', se os números fizerem alguma diferença para sua matéria frágil."</DefaultText>
+      <DefaultText>"Em nossa juventude, éramos os descendentes mais jovens de Casa Nerat. Estes seriam os primeiros anos do reinado de [url=glossary:kyros]Kyros[/url], se os números fizerem alguma diferença para sua matéria frágil."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
       <DefaultText>"Fizemos o que veio naturalmente, é claro. Tomamos a iniciativa."
 
-"Antes que qualquer acusação pudesse surgir, nossa família foi levada para a praça da cidade e colocada no pelourinho entre as massas de [url=glossary:kyros]Kyros[/url]' infiéis."</DefaultText>
+"Antes que qualquer acusação pudesse surgir, nossa família foi levada para a praça da cidade e colocada no pelourinho entre as massas de [url=glossary:kyros]Kyros[/url] infiéis."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -466,7 +466,7 @@ Você não se lembra de como a conversa chegou até aqui, e isso o assusta.</Def
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"Para nosso eterno deleite, a desaprovação de um mosquito como você nunca terá importância. Quando você for cinzas na brisa, estaremos tocando um instrumento de júbilo enquanto dançamos o comprimento do Oldwalls."</DefaultText>
+      <DefaultText>"Para nosso eterno deleite, a desaprovação de um mosquito como você nunca terá importância. Quando você for cinzas na brisa, estaremos tocando um instrumento de júbilo enquanto dançamos o comprimento do Muralhas Antigas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -488,12 +488,12 @@ Você não se lembra de como a conversa chegou até aqui, e isso o assusta.</Def
       <ID>102</ID>
       <DefaultText>"Nós éramos proficientes em nosso trabalho. Nosso nome se espalhou além dos limites da criança Império enquanto as pessoas o sussurravam em particular ou gritavam de medo. Galerias inteiras foram erguidas para exibir nossas realizações, que foram estudadas e interpretadas por estudiosos de coçar a cabeça."
 
-"Nosso talento com a lâmina, corda e serra ficou tão famoso que [url=glossary:kyros]Kyros[/url]' fiéis e infiéis acreditava que poderíamos roubar verdades de suas mentes com pouco mais que um olhar."</DefaultText>
+"Nosso talento com a lâmina, corda e serra ficou tão famoso que fiéis e infiéis de [url=glossary:kyros]Kyros[/url] acreditava que poderíamos roubar verdades de suas mentes com pouco mais que um olhar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"E com o tempo, a vida imitou a arte. Tal é a beleza do domínio [url=glossary:kyros]Kyros[/url]' - que os notáveis reinam sobre os medíocres, e seus talentos são reconhecidos, nutridos, aperfeiçoados."</DefaultText>
+      <DefaultText>"E com o tempo, a vida imitou a arte. Tal é a beleza do domínio de [url=glossary:kyros]Kyros[/url] - que os notáveis reinam sobre os medíocres, e seus talentos são reconhecidos, nutridos, aperfeiçoados."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -530,7 +530,7 @@ Você não se lembra de como a conversa chegou até aqui, e isso o assusta.</Def
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"Como se proclamar e resolver o mesmo [url=glossary:edict]Edital[/url] não fosse impressionante o suficiente, você teve a temeridade de rejeitar [url=glossary:graven ashe]Cinza esculpida[/url] e apoiar nosso direito de conquistar essas terras." "Você merece uma recompensa justa quando isso acabar, mas é muito cedo para nos parabenizarmos enquanto ainda há muita guerra para lutar."</DefaultText>
+      <DefaultText>"Como se proclamar e resolver o mesmo [url=glossary:edict]Edital[/url] não fosse impressionante o suficiente, você teve a temeridade de rejeitar [url=glossary:graven ashe]Cinza Esculpida[/url] e apoiar nosso direito de conquistar essas terras." "Você merece uma recompensa justa quando isso acabar, mas é muito cedo para nos parabenizarmos enquanto ainda há muita guerra para lutar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -565,7 +565,7 @@ Você não se lembra de como a conversa chegou até aqui, e isso o assusta.</Def
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"Onde havia um, agora há muitos. Somos uma legião - um fluxo de consciência com forma, vontade e intenção. Somos [url=glossary:the voices of nerat]o Vozes de Nerat[/url]."</DefaultText>
+      <DefaultText>"Onde havia um, agora há muitos. Somos uma legião - um fluxo de consciência com forma, vontade e intenção. Somos [url=glossary:the voices of nerat]As Vozes de Nerat[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -616,7 +616,7 @@ Parecendo pairar sobre você, o Vozes se aproxima.</DefaultText>
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>"De onde vem o seu terror, Fatebinder? E quanto a nós o enerva tanto?"</DefaultText>
+      <DefaultText>"De onde vem o seu terror, Vinculador do Destino? E quanto a nós o enerva tanto?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -726,7 +726,7 @@ As vozes se aproxima, seu tom ganha um novo tom.</DefaultText>
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>"O [url=glossary:scarlet chorus]Coro Escarlate[/url] está aberto a qualquer pessoa que deseje colher os benefícios de [url=glossary:kyros]Kyros[/url]' Paz e nosso [url=lore:voices_angry]sabor único de liberdade.[/url]" "Na verdade é o melhor dos dois mundos - a segurança da proteção junto com o direito de infligir uma crueldade fantástica em seus inimigos, limitada apenas pela imaginação."</DefaultText>
+      <DefaultText>"O [url=glossary:scarlet chorus]Coro Escarlate[/url] está aberto a qualquer pessoa que deseje colher os benefícios de Paz de [url=glossary:kyros]Kyros[/url] e nosso [url=lore:voices_angry]sabor único de liberdade.[/url]" "Na verdade é o melhor dos dois mundos - a segurança da proteção junto com o direito de infligir uma crueldade fantástica em seus inimigos, limitada apenas pela imaginação."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -765,7 +765,7 @@ Sua voz ganha uma nova profundidade, enchendo sua cabeça com uma mistura de son
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>"Perceba isso agora, Fatebinder - podemos matar quem quisermos se isso se adequar ao nosso design de perfeição. Todos são dispensáveis, e [url=lore:voices_angry]qualquer um pode morrer."[/url]
+      <DefaultText>"Perceba isso agora, Vinculador do Destino - podemos matar quem quisermos se isso se adequar ao nosso desenho de perfeição. Todos são dispensáveis, e [url=lore:voices_angry]qualquer um pode morrer."[/url]
 
 "Não se iluda pensando o contrário."</DefaultText>
       <FemaleText />
@@ -823,7 +823,7 @@ Ele abre os braços para abraçar Sirin.</DefaultText>
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>"Estamos ansiosos para recuperar o atraso a tempo. Você nem sempre vai seguir os Fatebinder saltos, vai querida?"
+      <DefaultText>"Estamos ansiosos para recuperar o atraso a tempo. Você nem sempre vai seguir os Vinculador do Destino saltos, vai querida?"
 
 Ele se vira para você.</DefaultText>
       <FemaleText />
@@ -982,7 +982,7 @@ Ele se aproxima desconfortavelmente para sussurrar.</DefaultText>
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>"Tem certeza que quer saber, Fatebinder? Deixe-me esclarecer uma coisa: não importa como comece, sempre termina da mesma maneira - com uma morte horrível."</DefaultText>
+      <DefaultText>"Tem certeza que quer saber, Vinculador do Destino? Deixe-me esclarecer uma coisa: não importa como comece, sempre termina da mesma maneira - com uma morte horrível."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1042,7 +1042,7 @@ Ele se aproxima desconfortavelmente para sussurrar.</DefaultText>
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>"Você tem agora? Nós Ve dançou na nossa cota de tempestades, mas [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] é uma força intimidadora. Tais preocupações estão, sem dúvida, abaixo de você, realizador. Nenhuma barreira pode conter sua vontade indomável."</DefaultText>
+      <DefaultText>"Você tem agora? Nós Ve dançou na nossa cota de tempestades, mas [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] é uma força intimidadora. Tais preocupações estão, sem dúvida, abaixo de você, realizador. Nenhuma barreira pode conter sua vontade indomável."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1052,7 +1052,7 @@ Ele se aproxima desconfortavelmente para sussurrar.</DefaultText>
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>"Viajar para Trapper's Junction, onde nosso confiável agente Jagged Remedy e sua gangue têm uma posição no [url=glossary:blade grave]Sepultura de Lâminas[/url]. Fale com ele e traga-nos o descendente de Ashe! E tome cuidado, querido Vinculador do Destino, para que os ventos não desfiem a pele do seu corpo."</DefaultText>
+      <DefaultText>"Viajar para Junção de Armadilhas, onde nosso confiável agente Jagged Remedy e sua gangue têm uma posição no [url=glossary:blade grave]Sepultura de Lâminas[/url]. Fale com ele e traga-nos o descendente de Cinza! E tome cuidado, querido Vinculador do Destino, para que os ventos não desfiem a pele do seu corpo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1062,17 +1062,17 @@ Ele se aproxima desconfortavelmente para sussurrar.</DefaultText>
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>"Não se esqueça do nosso prêmio, Fatebinder - o Arquivo Silencioso. Vamos escravizar a própria sabedoria para a glória do [url=glossary:scarlet chorus]Coro Escarlate[/url]."</DefaultText>
+      <DefaultText>"Não se esqueça do nosso prêmio, Vinculador do Destino - o Arquivo Silencioso. Vamos escravizar a própria sabedoria para a glória do [url=glossary:scarlet chorus]Coro Escarlate[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>[Deixar] "[url=glossary:lethian's crossing]A travessia de Lethian[/url] parece uma boa perspectiva."</DefaultText>
+      <DefaultText>[Deixar] "[url=glossary:lethian's crossing]A Travessia de Lethian[/url] parece uma boa perspectiva."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>"Com o [url=glossary:forge-bound]Forge-Bound[/url] Mestre e o segredo do ferro do nosso lado, [url=glossary:graven ashe]Cinza esculpida[/url] e seu exército cairá como uma falange de pano bonecas."</DefaultText>
+      <DefaultText>"Com o [url=glossary:forge-bound]Vinculado à Forja[/url] Mestre e o segredo do ferro do nosso lado, [url=glossary:graven ashe]Cinza Esculpida[/url] e seu exército cairá como uma falange de pano bonecas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1099,7 +1099,7 @@ O Arconte fecha o punho determinado e te encara.</DefaultText>
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>"Tivemos a oportunidade de executar um Arconte ou dois quando [url=glossary:bleden mark]Marca de mistura[/url] estava indisponível. Isso tudo estava dentro dos limites da lei, você entende. Alguém tem um senso inflado de auto-importância e decide começar seu próprio pequeno império, e nós damos um passo à frente para oferecer nossos serviços voluntários."</DefaultText>
+      <DefaultText>"Tivemos a oportunidade de executar um Arconte ou dois quando [url=glossary:bleden mark]Marca de Mistura[/url] estava indisponível. Isso tudo estava dentro dos limites da lei, você entende. Alguém tem um senso inflado de auto-importância e decide começar seu próprio pequeno império, e nós damos um passo à frente para oferecer nossos serviços voluntários."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1136,7 +1136,7 @@ As vozes te adverte com um dedo levantado.</DefaultText>
     </Entry>
     <Entry>
       <ID>223</ID>
-      <DefaultText>"Viajar para Trapper's Junction, onde nosso confiável agente Jagged Remedy e sua gangue têm uma posição no [url=glossary:blade grave]Sepultura de Lâminas[/url]. Fale com ele e traga-nos o descendente de Ashe! E tome cuidado, querido Vinculador do Destino, para que os ventos não desfiem a pele do seu corpo."</DefaultText>
+      <DefaultText>"Viajar para Junção de Armadilhas, onde nosso confiável agente Jagged Remedy e sua gangue têm uma posição no [url=glossary:blade grave]Sepultura de Lâminas[/url]. Fale com ele e traga-nos o descendente de Cinza! E tome cuidado, querido Vinculador do Destino, para que os ventos não desfiem a pele do seu corpo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1193,7 +1193,7 @@ As vozes te adverte com um dedo levantado.</DefaultText>
       <ID>234</ID>
       <DefaultText>"Procure Harchiand Bronze, um comerciante que atendeu o Refrão com entusiasmo. Nós o pagamos generosamente por seus serviços, então ele deve estar prestando atenção em sua missão." As vozes arqueia os dedos e acena para si mesmo, como se concordasse com algo não dito.
 
-"Com o [url=glossary:forge- vinculado]Forge-Bound[/url] Mestre e o segredo do ferro do nosso lado, [url=glossary:graven ashe]Cinza esculpida[/url] e seu exército cairá como uma falange de bonecas de pano."</DefaultText>
+"Com o [url=glossary:forge- vinculado]Vinculado à Forja[/url] Mestre e o segredo do ferro do nosso lado, [url=glossary:graven ashe]Cinza Esculpida[/url] e seu exército cairá como uma falange de bonecas de pano."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

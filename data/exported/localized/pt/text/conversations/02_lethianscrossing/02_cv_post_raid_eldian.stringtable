@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Isso é inaceitável! Não só falhei em proteger o [url=glossary:forge-bound]Forge-Bound[/url], como permiti que seu Mestre fosse sequestrado."
+      <DefaultText>"Isso é inaceitável! Não só falhei em proteger o [url=glossary:forge-bound]Vinculado à Forja[/url], como permiti que seu Mestre fosse sequestrado."
 
 "Vou examinar os cadáveres fraternidade e ver se pode desenterrar qualquer informação. Venha me ver quando terminar aqui."</DefaultText>
       <FemaleText />
@@ -50,28 +50,28 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Isso não pode estar acontecendo... Simplesmente não pode..." Harchiand murmura as palavras baixinho enquanto se move em direção à porta. "Vinculador do Destino, venha falar comigo antes de sair [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Eu tenho alguns... digamos, 'suprimentos especiais' que você estará interessado em ver."</DefaultText>
+      <DefaultText>"Isso não pode estar acontecendo... Simplesmente não pode..." Harchiand murmura as palavras baixinho enquanto se move em direção à porta. "Vinculador do Destino, venha falar comigo antes de sair [url=glossary:lethian's crossing]A Travessia de Lethian[/url]. Eu tenho alguns... digamos, 'suprimentos especiais' que você estará interessado em ver."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
       <DefaultText>"Eu sei que é pedir muito depois de tudo que você já fez por nós, Vinculador do Destino, mas sem o capacete ou Zdenya, estamos na mesma situação de antes."
 
-"O [url=glossary:bronze brotherhood] Irmandade de Bronze[/url] tenha um acampamento perto de Oldwalls em Twin Rivers e use a Deserter's March como uma rota de viagem. Qualquer um desses lugares seria um bom lugar para começar a procurar Raetomon e Zdenya. Encontre-os."</DefaultText>
+"O [url=glossary:bronze brotherhood] Irmandade de Bronze[/url] tenha um acampamento perto de Muralhas Antigas em Twin Rivers e use a Deserter's March como uma rota de viagem. Qualquer um desses lugares seria um bom lugar para começar a procurar Raetomon e Zdenya. Encontre-os."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
       <DefaultText>"Eu sei que é pedir muito depois de tudo o que aconteceu, Vinculador do Destino, mas sem o capacete ou Zdenya, estamos na mesma situação de antes."
 
-"O [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] tem um acampamento perto de Oldwalls em Twin Rivers e usa Deserter's March como uma rota de viagem. Qualquer um desses lugares seria um bom lugar para começar a procurar Raetomon e Zdenya. Encontre-os."</DefaultText>
+"O [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] tem um acampamento perto de Muralhas Antigas em Twin Rivers e usa Deserter's March como uma rota de viagem. Qualquer um desses lugares seria um bom lugar para começar a procurar Raetomon e Zdenya. Encontre-os."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
       <DefaultText>"Eu sei que é pedir muito depois de tudo que você já fez por nós, Vinculador do Destino, mas sem o capacete ou Zdenya, estamos na mesma situação de antes."
 
-"O [url=glossary:bronze brotherhood] Irmandade de Bronze[/url] tem um acampamento perto do Oldwalls em Twin Rivers. Esse seria um bom lugar para começar a procurar Raetomon e Zdenya. Encontre-os."</DefaultText>
+"O [url=glossary:bronze brotherhood] Irmandade de Bronze[/url] tem um acampamento perto do Muralhas Antigas em Twin Rivers. Esse seria um bom lugar para começar a procurar Raetomon e Zdenya. Encontre-os."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,7 +101,7 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Há outra entrada para o Oldwalls lá e eu sei que a Irmandade usa a área como uma base externa de operações. Existem até rumores de que eles estão explorando o Oldwalls. Se isso for verdade, Raetommon é ainda mais insano do que as pessoas estão deixando transparecer!"</DefaultText>
+      <DefaultText>"Há outra entrada para as Muralhas Antigas lá e eu sei que a Irmandade usa a área como uma base externa de operações. Existem até rumores de que eles estão explorando as Muralhas Antigas. Se isso for verdade, Raetommon é ainda mais insano do que as pessoas estão deixando transparecer!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -126,7 +126,7 @@
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Correndo o risco de soar como Senhor eu te avisei, Arconte do Óbvio, qual em [url=glossary:kyros]Kyros[/url]' nome era o plano de longo prazo? Elas apenas deixe o Magebane ao ar livre? A não ser que eles estavam dispostos a colocar guardas armados dia e noite, é só pedir para alguém roubar."</DefaultText>
+      <DefaultText>"Correndo o risco de soar como Senhor eu te avisei, Arconte do Óbvio, qual em nome de [url=glossary:kyros]Kyros[/url] era o plano de longo prazo? Elas apenas deixe o Magebane ao ar livre? A não ser que eles estavam dispostos a colocar guardas armados dia e noite, é só pedir para alguém roubar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -223,7 +223,7 @@
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"A segurança deste assentamento é tudo o que importa para mim. Espero que tenhamos opiniões semelhantes sobre isso, Vinculador do Destino. Já que você é claramente capaz de lidar com ameaças, sobrenaturais ou não, vou fazer com que o Oldwalls permaneça aberto para você. A passagem que leva à base do Pináculo será aberta no seu retorno. Se acessá-lo puder ajudá-lo de alguma forma, use-o.”</DefaultText>
+      <DefaultText>"A segurança deste assentamento é tudo o que importa para mim. Espero que tenhamos opiniões semelhantes sobre isso, Vinculador do Destino. Já que você é claramente capaz de lidar com ameaças, sobrenaturais ou não, vou fazer com que as Muralhas Antigas permaneça aberto para você. A passagem que leva à base do Pináculo será aberta no seu retorno. Se acessá-lo puder ajudá-lo de alguma forma, use-o.”</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

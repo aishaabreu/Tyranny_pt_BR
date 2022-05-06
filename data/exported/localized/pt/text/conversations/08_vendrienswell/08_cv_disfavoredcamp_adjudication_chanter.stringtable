@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Lord Binder," o [url=glossary:disfavored]Desfavorecido[/url] o soldado acena para mais perto, "estamos esperando por você. Um dos Nerats cachorros enlouqueceram. Pelo menos ele fez a coisa certa em se apresentar aqui para um julgamento adequado. Eu gostaria de arrancar os dentes dele, e gostaria que fosse com sua bênção... para que eu pudesse usar seu julgamento sobre este assunto."</DefaultText>
+      <DefaultText>"Lord Vinculador," o [url=glossary:disfavored]Desfavorecido[/url] o soldado acena para mais perto, "estamos esperando por você. Um dos Nerats cachorros enlouqueceram. Pelo menos ele fez a coisa certa em se apresentar aqui para um julgamento adequado. Eu gostaria de arrancar os dentes dele, e gostaria que fosse com sua bênção... para que eu pudesse usar seu julgamento sobre este assunto."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Bom Fatebinder, sou Bitter Quip do Guilda dos Cantores de Sangue, vassalo orgulhoso do [url=glossary:the voices of nerat]o Vozes de Nerat[/url]." Ele oferece uma reverência curta. "Satisfeito para conhecê-lo."</DefaultText>
+      <DefaultText>"Bom Vinculador do Destino, sou Bitter Quip do Guilda dos Cantores de Sangue, vassalo orgulhoso do [url=glossary:the voices of nerat]As Vozes de Nerat[/url]." Ele oferece uma reverência curta. "Satisfeito para conhecê-lo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Sim," o guerreiro dá um passo à frente, saudando com um estrondo retumbante, "Salveros do [url=glossary:disfavored]Desfavorecido[/url], sou reclamante e testemunha em nome dos meus irmãos do escudo caídos, Devona e Ceveus the Swift."</DefaultText>
+      <DefaultText>"Sim," o guerreiro dá um passo à frente, saudando com um estrondo retumbante, "Salveros do [url=glossary:disfavored]Desfavorecido[/url], sou reclamante e testemunha em nome dos meus irmãos do escudo caídos, Devona e Ceveus, o Rápido."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -78,7 +78,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Aí! Ele acabou de sair e admitiu isso! Os violadores de juramentos geralmente não conseguem lutar para sair do saco de estopa... mas ele lhes concede o dom da coragem de um texugo fedorento." O guerreiro descansa a cabeça na mão. "Loucura, puro e simples. As Fúrias ficaram estupefatos e desistiram, e foi aí que Devona e Ceveus the Swift mergulhou na briga. Devona pegou um dardo no olho - apenas estupidamente azar. Quanto a Ceveus, após a batalha ele foi atropelado dezenove vezes - [url=glossary:graven ashe]Cinza esculpida[/url] não conseguiu salvá-lo."</DefaultText>
+      <DefaultText>"Aí! Ele acabou de sair e admitiu isso! Os violadores de juramentos geralmente não conseguem lutar para sair do saco de estopa... mas ele lhes concede o dom da coragem de um texugo fedorento." O guerreiro descansa a cabeça na mão. "Loucura, puro e simples. As Fúrias ficaram estupefatos e desistiram, e foi aí que Devona e Ceveus, o Rápido mergulhou na briga. Devona pegou um dardo no olho - apenas estupidamente azar. Quanto a Ceveus, após a batalha ele foi atropelado dezenove vezes - [url=glossary:graven ashe]Cinza Esculpida[/url] não conseguiu salvá-lo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -113,7 +113,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Você não é iluminado, então posso perdoar sua ignorância. Se você fosse iluminado nos caminhos do arcano, saberia que a lei [url=glossary:kyros]Kyros[/url]' não considera o mago culpado por aquilo que não pode ser controlado."</DefaultText>
+      <DefaultText>"Você não é iluminado, então posso perdoar sua ignorância. Se você fosse iluminado nos caminhos do arcano, saberia que a lei de [url=glossary:kyros]Kyros[/url] não considera o mago culpado por aquilo que não pode ser controlado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -123,7 +123,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Piada Amarga está citando A loucura do mago. Se em batalha pela glória [url=glossary:kyros]Kyros[/url]', um mago inadvertidamente ferir alguém protegido por [url=glossary:kyros]Kyros[/url]' Paz, o mago não é legalmente culpado."</DefaultText>
+      <DefaultText>"Piada Amarga está citando A loucura do mago. Se em batalha pela glória de [url=glossary:kyros]Kyros[/url], um mago inadvertidamente ferir alguém protegido por Paz de [url=glossary:kyros]Kyros[/url], o mago não é legalmente culpado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -133,7 +133,7 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>[Mentira] "Não tenho certeza - talvez algo [url=glossary:the voices of nerat]o Vozes de Nerat[/url] inventado."</DefaultText>
+      <DefaultText>[Mentira] "Não tenho certeza - talvez algo [url=glossary:the voices of nerat]As Vozes de Nerat[/url] inventado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -188,7 +188,7 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Bem, foi a magia dele que os transformou de tarambolas ariscos em chacais raivosos! Até em seu melhor dia, os Tiersmen não podem lutar tão bem quanto eles... o feitiço encorajou os assassinos - eu digo que faz Piada Amarga diretamente na raiz desses assassinatos."</DefaultText>
+      <DefaultText>"Bem, foi a magia dele que os transformou de tarambolas ariscos em chacais raivosos! Até em seu melhor dia, os Homens dos Caminhos não podem lutar tão bem quanto eles... o feitiço encorajou os assassinos - eu digo que faz Piada Amarga diretamente na raiz desses assassinatos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -213,7 +213,7 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"O bom Encadernador retorna. Você já refletiu sobre o que quer que seja que precisa ser ponderado? Seu veredicto de culpado aguarda."</DefaultText>
+      <DefaultText>"O bom Vinculador retorna. Você já refletiu sobre o que quer que seja que precisa ser ponderado? Seu veredicto de culpado aguarda."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -223,12 +223,12 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Nos encontramos novamente, Encadernador." Piada Amarga arcos.</DefaultText>
+      <DefaultText>"Nos encontramos novamente, Vinculador." Piada Amarga arcos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Ah, nos encontramos de novo, bom Binder!" O familiar Cantador de Sangue sorri de orelha a orelha. "Perfeito tempo. Eu estava pensando no nosso... trabalho em equipe em Travessia de ecochamada."</DefaultText>
+      <DefaultText>"Ah, nos encontramos de novo, bom Vinculador!" O familiar Cantador de Sangue sorri de orelha a orelha. "Perfeito tempo. Eu estava pensando no nosso... trabalho em equipe em Travessia de ecochamada."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -258,7 +258,7 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Você reclama, mas se essa lei não existisse, eu poderia argumentar que [url=glossary:graven ashe]Cinza esculpida[/url] não está protegendo o [url=glossary:scarlet chorus]Coro Escarlate[/url] do jeito que ele protegeu [url=glossary:disfavored]Desfavorecido[/url] - e eu poderia exigir que [url=glossary:tunon]Tunon[/url] punisse tal uso indevido de magia. Mas a lei existe - então eu não."</DefaultText>
+      <DefaultText>"Você reclama, mas se essa lei não existisse, eu poderia argumentar que [url=glossary:graven ashe]Cinza Esculpida[/url] não está protegendo o [url=glossary:scarlet chorus]Coro Escarlate[/url] do jeito que ele protegeu [url=glossary:disfavored]Desfavorecido[/url] - e eu poderia exigir que [url=glossary:tunon]Tunon[/url] punisse tal uso indevido de magia. Mas a lei existe - então eu não."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -273,7 +273,7 @@
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url]' A lei protege o mago da negligência na batalha. O assunto é trágico, mas não criminoso."</DefaultText>
+      <DefaultText>"A lei de [url=glossary:kyros]Kyros[/url] protege o mago da negligência na batalha. O assunto é trágico, mas não criminoso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -298,7 +298,7 @@
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url] seja louvado!" O guerreiro te saúda com ardor. "Permissão, bom Encadernador, para realizar sua execução?"</DefaultText>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] seja louvado!" O guerreiro te saúda com ardor. "Permissão, bom Vinculador, para realizar sua execução?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -330,7 +330,7 @@ Curvando sob a dor, o Cantor perde o equilíbrio e escorrega a um joelho.</Defau
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Permita-me mostrar-lhe a gratidão de um guerreiro, Encadernador." Salveros desembainha sua espada com um único e rápido movimento de seu braço e avança, entre vocês, um escudo pronto.</DefaultText>
+      <DefaultText>"Permita-me mostrar-lhe a gratidão de um guerreiro, Vinculador." Salveros desembainha sua espada com um único e rápido movimento de seu braço e avança, entre vocês, um escudo pronto.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -359,12 +359,12 @@ Você observa as metades que eram Piada Amarga tombarem no chão e dão ao solda
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Parece que nos encontramos novamente, Encadernador." Piada Amarga visivelmente empalidece sob sua pintura facial quando ele reconhece você. Ele se curva profundamente, a cabeça inclinada para a frente por vários momentos a mais do que parece necessário.</DefaultText>
+      <DefaultText>"Parece que nos encontramos novamente, Vinculador." Piada Amarga visivelmente empalidece sob sua pintura facial quando ele reconhece você. Ele se curva profundamente, a cabeça inclinada para a frente por vários momentos a mais do que parece necessário.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url]' A lei protege Piada Amarga de negligência na batalha. O assunto é trágico, mas não criminoso."</DefaultText>
+      <DefaultText>"A lei de [url=glossary:kyros]Kyros[/url] protege Piada Amarga de negligência na batalha. O assunto é trágico, mas não criminoso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -374,7 +374,7 @@ Você observa as metades que eram Piada Amarga tombarem no chão e dão ao solda
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Oh, merda! Eu posso ver onde isso está indo. Esta é a sua maneira de se vingar de mim, Binder? Ou você nasceu assim tão grande, hein?"
+      <DefaultText>"Oh, merda! Eu posso ver onde isso está indo. Esta é a sua maneira de se vingar de mim, Vinculador? Ou você nasceu assim tão grande, hein?"
 
 O Cantor de Sangue balança a cabeça de um lado para o outro, os olhos disparando descontroladamente em busca de fuga.</DefaultText>
       <FemaleText />

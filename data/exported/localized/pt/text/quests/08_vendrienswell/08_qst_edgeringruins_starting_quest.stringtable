@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>Você chegou nos arredores de [url=glossary:vendrien's well]Poço de Vendrien[/url], nos antigos restos do Forte de Borda. Assim como um dos Corredores crescentes estava deixando você atualizado sobre a situação, o [url=glossary:vendrien guard]Guarda Vendrien[/url] atacou. Ajuda [url=glossary:kyros]Kyros[/url]' forças combatem o ataque rebelde.</DefaultText>
+      <DefaultText>Você chegou nos arredores de [url=glossary:vendrien's well]Poço de Vendrien[/url], nos antigos restos do Forte de Borda. Assim como um dos Corredores crescentes estava deixando você atualizado sobre a situação, o [url=glossary:vendrien guard]Guarda Vendrien[/url] atacou. Ajuda forças de [url=glossary:kyros]Kyros[/url] combatem o ataque rebelde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,12 +36,12 @@
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>Você ajudou as forças [url=glossary:kyros]Kyros[/url]' a defender o campo Ruínas de borda de um ataque rebelde, salvando o comandante Drastus no processo.</DefaultText>
+      <DefaultText>Você ajudou as forças de [url=glossary:kyros]Kyros[/url] a defender o campo Ruínas de borda de um ataque rebelde, salvando o comandante Drastus no processo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30001</ID>
-      <DefaultText>Você ajudou as forças [url=glossary:kyros]Kyros[/url]' a defender o campo Ruínas de borda de um ataque rebelde, mas não conseguiu salvar Comandante Drastus.</DefaultText>
+      <DefaultText>Você ajudou as forças de [url=glossary:kyros]Kyros[/url] a defender o campo Ruínas de borda de um ataque rebelde, mas não conseguiu salvar Comandante Drastus.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

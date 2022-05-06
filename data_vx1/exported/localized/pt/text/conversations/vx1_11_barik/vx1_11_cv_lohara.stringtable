@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Como um Fatebinder, falo com a voz Arconte."</DefaultText>
+      <DefaultText>"Como um Vinculador do Destino, falo com a voz Arconte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,12 +76,12 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Permita-me declarar isso em termos inequívocos, Vinculador do Destino. O [url=glossary:forge-bound]Forge-Bound[/url] jurou nossa fidelidade a [url=glossary:tunon]Tunon[/url] a Árbitro, Arconte da Justiça. Não esquecemos facilmente esse juramento, nem nos apressamos em contorná-lo. Nossa meticulosidade não se limita ao nosso ofício."</DefaultText>
+      <DefaultText>"Permita-me declarar isso em termos inequívocos, Vinculador do Destino. O [url=glossary:forge-bound]Vinculado à Forja[/url] jurou nossa fidelidade a [url=glossary:tunon]Tunon[/url] a Árbitro, Arconte da Justiça. Não esquecemos facilmente esse juramento, nem nos apressamos em contorná-lo. Nossa meticulosidade não se limita ao nosso ofício."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Por que você nos trouxe aqui, Fatebinder?"</DefaultText>
+      <DefaultText>"Por que você nos trouxe aqui, Vinculador do Destino?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,7 +101,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Então chegamos à forja em [url=glossary:lethian's crossing]A travessia de Lethian[/url] por capricho. Que ridículo eu suspeitar do contrário."</DefaultText>
+      <DefaultText>"Então chegamos à forja em [url=glossary:lethian's crossing]A Travessia de Lethian[/url] por capricho. Que ridículo eu suspeitar do contrário."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -256,17 +256,17 @@
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Asseguro-lhe, Barik do Escudos de Pedra, que não tomarei nenhuma ação aqui que prejudique a honra do [url=glossary:forge-bound]Forge-Bound[/url] ou os interesses do [url=glossary:disfavored]Desfavorecido[/url] Legião que servimos tão bem no passado." Quando ele não diz nada, ela continua.</DefaultText>
+      <DefaultText>"Asseguro-lhe, Barik do Escudos de Pedra, que não tomarei nenhuma ação aqui que prejudique a honra do [url=glossary:forge-bound]Vinculado à Forja[/url] ou os interesses do [url=glossary:disfavored]Desfavorecido[/url] Legião que servimos tão bem no passado." Quando ele não diz nada, ela continua.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Eu teria pensado que meu serviço anterior ao [url=glossary:forge-bound]Forge-Bound[/url] teria me dado um pouco mais de latitude..."</DefaultText>
+      <DefaultText>"Eu teria pensado que meu serviço anterior ao [url=glossary:forge-bound]Vinculado à Forja[/url] teria me dado um pouco mais de latitude..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Você cumpriu seu dever para com o Adjudicator e para o soberano. Você tem tão pouco orgulho de sua posição que esta não é sua própria recompensa?" Ela faz uma careta, sua voz caindo meia oitava.</DefaultText>
+      <DefaultText>"Você cumpriu seu dever para com o Árbitro e para o soberano. Você tem tão pouco orgulho de sua posição que esta não é sua própria recompensa?" Ela faz uma careta, sua voz caindo meia oitava.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -336,7 +336,7 @@
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>"Entendo, Barik. Sparring é como dançar. Fica muito quente."</DefaultText>
+      <DefaultText>"Entendo, Barik. luta é como dançar. Fica muito quente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -421,7 +421,7 @@
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"O [url=glossary:forge-bound]Forge-Bound[/url] claramente não tocou nisso. Suponho que você faça pouca ou nenhuma manutenção nele também?"</DefaultText>
+      <DefaultText>"O [url=glossary:forge-bound]Vinculado à Forja[/url] claramente não tocou nisso. Suponho que você faça pouca ou nenhuma manutenção nele também?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -615,7 +615,7 @@ O ferro quente se projeta de suas costelas.</DefaultText>
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Suspeito que estamos testemunhando uma mistura de influências misteriosas - a do Arconte [url=glossary:graven ashe]Cinza esculpida[/url] e a do Soberano [url=glossary:edict]Edital[/url]." Ela franze a testa.</DefaultText>
+      <DefaultText>"Suspeito que estamos testemunhando uma mistura de influências misteriosas - a do Arconte [url=glossary:graven ashe]Cinza Esculpida[/url] e a do Soberano [url=glossary:edict]Edital[/url]." Ela franze a testa.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -645,7 +645,7 @@ O ferro quente se projeta de suas costelas.</DefaultText>
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>"Fatebinder!"</DefaultText>
+      <DefaultText>"Vinculador do Destino!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -730,17 +730,17 @@ O ferro quente se projeta de suas costelas.</DefaultText>
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>"Arconte Ashe compartilha uma forte conexão com seus soldados. Isso permite que ele assuma alguns dos seus danos enquanto também compartilha suas experiências."</DefaultText>
+      <DefaultText>"Arconte Cinza compartilha uma forte conexão com seus soldados. Isso permite que ele assuma alguns dos seus danos enquanto também compartilha suas experiências."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>"Fatebinder!" Seu suspiro contém raiva e descrença em igual medida.</DefaultText>
+      <DefaultText>"Vinculador do Destino!" Seu suspiro contém raiva e descrença em igual medida.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>"Ashe pode curar seus soldados."</DefaultText>
+      <DefaultText>"Cinza pode curar seus soldados."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -892,7 +892,7 @@ O outro lembra o soberano.</DefaultText>
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>"A remoção de Ashe sentinelas resolve um problema, mas cria outros. Essa armadura se fundiu com Barik, entrelaçando-se com sua carne, talvez, em alguns lugares, com seus ossos."</DefaultText>
+      <DefaultText>"A remoção de Cinza sentinelas resolve um problema, mas cria outros. Essa armadura se fundiu com Barik, entrelaçando-se com sua carne, talvez, em alguns lugares, com seus ossos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -902,7 +902,7 @@ O outro lembra o soberano.</DefaultText>
     </Entry>
     <Entry>
       <ID>189</ID>
-      <DefaultText>"Os [url=glossary:forge-bound]Forge-Bound[/url] possuem um ritual com o propósito de libertar um indivíduo de uma armadura que não pode ser removida. No entanto, para garantir que o alvo não expire durante o ritual, precisaremos de uma substância que compartilhe ressonância simpática tanto com o alvo quanto com a armadura - sangue."</DefaultText>
+      <DefaultText>"Os [url=glossary:forge-bound]Vinculado à Forja[/url] possuem um ritual com o propósito de libertar um indivíduo de uma armadura que não pode ser removida. No entanto, para garantir que o alvo não expire durante o ritual, precisaremos de uma substância que compartilhe ressonância simpática tanto com o alvo quanto com a armadura - sangue."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -967,7 +967,7 @@ O outro lembra o soberano.</DefaultText>
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>"Melhor ainda, o sangue apareceu depois que as forças [url=glossary:kyros]Kyros[/url]' chegaram ao Camadas, então já está ligado ao soberano."</DefaultText>
+      <DefaultText>"Melhor ainda, o sangue apareceu depois que as forças de [url=glossary:kyros]Kyros[/url] chegaram ao Camadas, então já está ligado ao soberano."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -992,7 +992,7 @@ O outro lembra o soberano.</DefaultText>
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>"E assim começa." O [url=glossary:forge-bound]Forge-Bound[/url] canta, levantando seu martelo diante dela, e as runas esculpidas em sua superfície começam a brilhar, depois a piscar com chamas que lambem toda a cabeça. Músculos tensos, ela balança o martelo, desenhando um sigilo no ar com ele. Ao terminar, o martelo explode em chamas ruidosas.
+      <DefaultText>"E assim começa." O [url=glossary:forge-bound]Vinculado à Forja[/url] canta, levantando seu martelo diante dela, e as runas esculpidas em sua superfície começam a brilhar, depois a piscar com chamas que lambem toda a cabeça. Músculos tensos, ela balança o martelo, desenhando um sigilo no ar com ele. Ao terminar, o martelo explode em chamas ruidosas.
 
 Ela o enfia no sangue, e o cheiro de cobre e ferro atinge você quando o vapor sai da banheira.</DefaultText>
       <FemaleText />
@@ -1088,7 +1088,7 @@ Ele grita.</DefaultText>
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>"Com o que você está preocupado? Não [url=glossary:graven ashe]Cinza esculpida[/url] proteger?"</DefaultText>
+      <DefaultText>"Com o que você está preocupado? Não [url=glossary:graven ashe]Cinza Esculpida[/url] proteger?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1153,12 +1153,12 @@ Ele grita.</DefaultText>
     </Entry>
     <Entry>
       <ID>239</ID>
-      <DefaultText>"Você vive toda a sua vida a serviço de [url=glossary:graven ashe]Cinza esculpida[/url] e do soberano. A carga adicional desta armadura é ridícula!"</DefaultText>
+      <DefaultText>"Você vive toda a sua vida a serviço de [url=glossary:graven ashe]Cinza Esculpida[/url] e do soberano. A carga adicional desta armadura é ridícula!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>240</ID>
-      <DefaultText>"Como posso libertar os Tiers do Arcontes e deixar meu aliado jurado preso?"</DefaultText>
+      <DefaultText>"Como posso libertar os Camadas do Arcontes e deixar meu aliado jurado preso?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1173,7 +1173,7 @@ Ele grita.</DefaultText>
     </Entry>
     <Entry>
       <ID>243</ID>
-      <DefaultText>"Como deve ser! Não sofro dessa armadura porque é justo! Eu sofro porque é [url=glossary:kyros]Kyros[/url]'vontade, e eu sou [url=glossary:kyros]Kyros[/url]' servo. Como você sempre afirmou ser!"</DefaultText>
+      <DefaultText>"Como deve ser! Não sofro dessa armadura porque é justo! Eu sofro porque é vontade de [url=glossary:kyros]Kyros[/url], e eu sou servo de [url=glossary:kyros]Kyros[/url]. Como você sempre afirmou ser!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1197,7 +1197,7 @@ Ele grita.</DefaultText>
     </Entry>
     <Entry>
       <ID>247</ID>
-      <DefaultText>"Não deveria ser uma surpresa. Arconte Ashe concede a seus soldados uma medida de regeneração mística. A prontidão desta liga para assumir a magia permitiu que esse poder se espalhasse para a armadura, talvez devido ao poder do Soberano [url=glossary:edict]Edital[/url]."</DefaultText>
+      <DefaultText>"Não deveria ser uma surpresa. Arconte Cinza concede a seus soldados uma medida de regeneração mística. A prontidão desta liga para assumir a magia permitiu que esse poder se espalhasse para a armadura, talvez devido ao poder do Soberano [url=glossary:edict]Edital[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1232,7 +1232,7 @@ Ele grita.</DefaultText>
     </Entry>
     <Entry>
       <ID>254</ID>
-      <DefaultText>"Barik deve permanecer em sua prisão até que seja dispensado do [url=glossary:disfavored]Desfavorecido[/url] ou [url=glossary:graven ashe]Cinza esculpida[/url] esteja morto."</DefaultText>
+      <DefaultText>"Barik deve permanecer em sua prisão até que seja dispensado do [url=glossary:disfavored]Desfavorecido[/url] ou [url=glossary:graven ashe]Cinza Esculpida[/url] esteja morto."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1292,7 +1292,7 @@ Ele grita.</DefaultText>
     </Entry>
     <Entry>
       <ID>267</ID>
-      <DefaultText>"Tente prejudicar o General Ashe em meu nome, Vinculador do Destino, e esse acordo terminará rapidamente."</DefaultText>
+      <DefaultText>"Tente prejudicar o General Cinza em meu nome, Vinculador do Destino, e esse acordo terminará rapidamente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1407,7 +1407,7 @@ Ele grita.</DefaultText>
     </Entry>
     <Entry>
       <ID>290</ID>
-      <DefaultText>"Mais fraco que Mortes-in-Shadow [url=glossary:prima]Prima[/url], no entanto. [url=glossary:prima]Prima[/url] que cheira a Arconteslew Centenas-Blood."</DefaultText>
+      <DefaultText>"Mais fraco que Mortes nas Sombras [url=glossary:prima]Prima[/url], no entanto. [url=glossary:prima]Prima[/url] que cheira a Arconteslew Centenas-Blood."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1514,7 +1514,7 @@ O fragmento vem de graça, com fios de carne sangrentos pendurados nele.</Defaul
     </Entry>
     <Entry>
       <ID>311</ID>
-      <DefaultText>"Aguente, Barik, acabamos de começar! Você acha que esse choro iria impressionar Ashe?"</DefaultText>
+      <DefaultText>"Aguente, Barik, acabamos de começar! Você acha que esse choro iria impressionar Cinza?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1699,7 +1699,7 @@ O fragmento vem de graça, com fios de carne sangrentos pendurados nele.</Defaul
     </Entry>
     <Entry>
       <ID>349</ID>
-      <DefaultText>"Não, Arconte. Um vai com você. O outro ajudará o [url=glossary:forge-bound]Forge-Bound[/url] e, portanto, sua causa."</DefaultText>
+      <DefaultText>"Não, Arconte. Um vai com você. O outro ajudará o [url=glossary:forge-bound]Vinculado à Forja[/url] e, portanto, sua causa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1831,12 +1831,12 @@ O fragmento vem de graça, com fios de carne sangrentos pendurados nele.</Defaul
     </Entry>
     <Entry>
       <ID>376</ID>
-      <DefaultText>O [url=glossary:forge-bound]Forge-Bound[/url] acena com a cabeça, franzindo a testa em pensamento.</DefaultText>
+      <DefaultText>O [url=glossary:forge-bound]Vinculado à Forja[/url] acena com a cabeça, franzindo a testa em pensamento.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>378</ID>
-      <DefaultText>"Por que você nos trouxe aqui, Fatebinder?"</DefaultText>
+      <DefaultText>"Por que você nos trouxe aqui, Vinculador do Destino?"</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -87,7 +87,7 @@ Sua voz se cala, seu corpo cai.</DefaultText>
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Novo no Coro? Capitão é um termo do sul. [url=glossary:kyros]Kyros[/url]' exércitos têm Comandantes. E eu também não."</DefaultText>
+      <DefaultText>"Novo no Coro? Capitão é um termo do sul. exército de [url=glossary:kyros]Kyros[/url] têm Comandantes. E eu também não."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -173,7 +173,7 @@ Sua voz se cala, seu corpo cai.</DefaultText>
       <ID>37</ID>
       <DefaultText>"O que é isso, então?" O homem musculoso e musculoso olha intensamente para vocês dois. 
 
-"Por que diabos você está incomodando meu coroinha, Fatebinder?" Seu tom é mordaz, impaciente e simultaneamente desdenhoso. "Não sei se você pode ver, mas eu tenho um jogo para vencer. E o menino tem botas para limpar."</DefaultText>
+"Por que diabos você está incomodando meu coroinha, Vinculador do Destino?" Seu tom é mordaz, impaciente e simultaneamente desdenhoso. "Não sei se você pode ver, mas eu tenho um jogo para vencer. E o menino tem botas para limpar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -271,8 +271,8 @@ Ele lança um olhar para seu Refrão comandante. Sua garganta se contrai enquant
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Cuidado, Capitão - ah, M-Master Fatebinder!"</DefaultText>
-      <FemaleText>"Cuidado, Capitão - ah, M-Senhorita Fatebinder!"</FemaleText>
+      <DefaultText>"Cuidado, Capitão - ah, M-Master Vinculador do Destino!"</DefaultText>
+      <FemaleText>"Cuidado, Capitão - ah, M-Senhorita Vinculador do Destino!"</FemaleText>
     </Entry>
     <Entry>
       <ID>60</ID>
@@ -304,10 +304,10 @@ Os anéis de bronze tilintam quando ele os aperta com força contra o peito. Ele
       <ID>64</ID>
       <DefaultText>Ele dá o primeiro golpe, mas consegue evitar o próximo, surpreendentemente hábil apesar de sua desengonçada e timidez.
 
-"Melhor se eu não fizer isso, Cap - ah, Mestre Fatebinder." Ele abaixa a cabeça timidamente. "Acho que Dois dentes não gostaria se me visse treinando. E eu levei lambidas suficientes dele para durar o resto da minha vida."</DefaultText>
+"Melhor se eu não fizer isso, Cap - ah, Mestre Vinculador do Destino." Ele abaixa a cabeça timidamente. "Acho que Dois dentes não gostaria se me visse treinando. E eu levei lambidas suficientes dele para durar o resto da minha vida."</DefaultText>
       <FemaleText>Ele dá o primeiro golpe, mas consegue evitar o próximo, surpreendentemente hábil apesar de sua desengonçada e timidez.
 
-"Melhor se eu não fizer isso, Cap - ah, Senhorita Fatebinder." Ele abaixa a cabeça timidamente. "Acho que Dois dentes não gostaria se me visse treinando. E eu levei lambidas suficientes dele para durar o resto da minha vida."</FemaleText>
+"Melhor se eu não fizer isso, Cap - ah, Senhorita Vinculador do Destino." Ele abaixa a cabeça timidamente. "Acho que Dois dentes não gostaria se me visse treinando. E eu levei lambidas suficientes dele para durar o resto da minha vida."</FemaleText>
     </Entry>
     <Entry>
       <ID>65</ID>
@@ -400,8 +400,8 @@ Seu rosto fica vermelho e ele olha para os pés enquanto responde. "Minha mãe m
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>De bruços em direção ao chão, olhando fixamente para suas botas, o garoto tenta, mas não consegue assentir. "R-certo, chefe! Muito desculpe incomodá-lo, Ca - Mestre Fatebinder. Não vai acontecer de novo, chefe, eu juro."</DefaultText>
-      <FemaleText>De bruços em direção ao chão, olhando fixamente para suas botas, o garoto tenta, mas não consegue assentir. "R-certo, chefe! Muito desculpe incomodá-lo, Ca - Mestre Fatebinder. Não vai acontecer de novo, chefe, eu juro."</FemaleText>
+      <DefaultText>De bruços em direção ao chão, olhando fixamente para suas botas, o garoto tenta, mas não consegue assentir. "R-certo, chefe! Muito desculpe incomodá-lo, Ca - Mestre Vinculador do Destino. Não vai acontecer de novo, chefe, eu juro."</DefaultText>
+      <FemaleText>De bruços em direção ao chão, olhando fixamente para suas botas, o garoto tenta, mas não consegue assentir. "R-certo, chefe! Muito desculpe incomodá-lo, Ca - Mestre Vinculador do Destino. Não vai acontecer de novo, chefe, eu juro."</FemaleText>
     </Entry>
     <Entry>
       <ID>85</ID>
@@ -479,7 +479,7 @@ O homem mais velho o agarra pela garganta e ele engasga.
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Acho que o do capitão - er, o que o Fatebinder está dizendo - é que você não pode mais me bater." 
+      <DefaultText>"Acho que o do capitão - er, o que o Vinculador do Destino está dizendo - é que você não pode mais me bater." 
 
 Ele sorri para você, olhos verdes grandes e brilhantes. 
 
@@ -544,10 +544,10 @@ Eventualmente, ele enxuga a franja emaranhada dos olhos e oferece um agradecimen
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"Não esquecerei meu treinamento, Mestre Fatebinder. Continuarei lutando e lutando, e ficarei mais forte - até que não haja ninguém que possa me empurrar."
+      <DefaultText>"Não esquecerei meu treinamento, Mestre Vinculador do Destino. Continuarei lutando e lutando, e ficarei mais forte - até que não haja ninguém que possa me empurrar."
 
 Com um aceno final, ele cambaleia para longe.</DefaultText>
-      <FemaleText>"Eu não vou esquecer meu treinamento, Senhorita Fatebinder. Continuarei lutando e lutando, e ficarei mais forte - até que não haja ninguém que possa me empurrar."</FemaleText>
+      <FemaleText>"Eu não vou esquecer meu treinamento, Senhorita Vinculador do Destino. Continuarei lutando e lutando, e ficarei mais forte - até que não haja ninguém que possa me empurrar."</FemaleText>
     </Entry>
     <Entry>
       <ID>111</ID>

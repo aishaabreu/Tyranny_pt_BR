@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>[Matar Maric] "Esqueça a Ashe pedidos. Você é um fraco e não merece viver."</DefaultText>
+      <DefaultText>[Matar Maric] "Esqueça a Cinza pedidos. Você é um fraco e não merece viver."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,12 +31,12 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Você deve ser Maric. Ashe me encarregou de destruir o Biblioteca, então preciso da sua ajuda para passar pelo Refrão."</DefaultText>
+      <DefaultText>"Você deve ser Maric. Cinza me encarregou de destruir o Biblioteca, então preciso da sua ajuda para passar pelo Refrão."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Maric parece consternado. "Então [url=glossary:graven ashe]Cinza esculpida[/url] enviei alguém para terminar o que eu não consegui fazer. Eu sabia que havia falhado em minha missão, mas não sabia que não teria a chance de me redimir." "Assim seja. Não adianta lamentar o que não posso mudar. Quanto ao seu problema - eu gostaria de poder ajudá-lo, Vinculador do Destino, mas no momento, eu não posso me ajudar." Maric olha para baixo em suas restrições.</DefaultText>
+      <DefaultText>Maric parece consternado. "Então [url=glossary:graven ashe]Cinza Esculpida[/url] enviei alguém para terminar o que eu não consegui fazer. Eu sabia que havia falhado em minha missão, mas não sabia que não teria a chance de me redimir." "Assim seja. Não adianta lamentar o que não posso mudar. Quanto ao seu problema - eu gostaria de poder ajudá-lo, Vinculador do Destino, mas no momento, eu não posso me ajudar." Maric olha para baixo em suas restrições.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,7 +116,7 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Ele estremece. "Mesmo agora, procuro acreditar em sua fidelidade, o que torna tudo mais difícil." "Jelena, você está liberado da proteção Ashe, e eu te entrego ao vazio, que o [url=glossary:disfavored]Desfavorecido[/url] pode ser mais forte para sua ausência."</DefaultText>
+      <DefaultText>Ele estremece. "Mesmo agora, procuro acreditar em sua fidelidade, o que torna tudo mais difícil." "Jelena, você está liberado da proteção Cinza, e eu te entrego ao vazio, que o [url=glossary:disfavored]Desfavorecido[/url] pode ser mais forte para sua ausência."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -135,7 +135,7 @@ Ele faz uma pausa.
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Obrigado por sua ajuda. Eu posso terminar qualquer outra coisa no Biblioteca que exija a atenção do [url=glossary:disfavored]Desfavorecido[/url] enquanto você retorna ao [url=glossary:graven ashe]Cinza esculpida[/url]. Enviarei a ele meu relatório completo assim que puder. Se você precisar de ajuda no futuro, você só precisa perguntar."</DefaultText>
+      <DefaultText>"Obrigado por sua ajuda. Eu posso terminar qualquer outra coisa no Biblioteca que exija a atenção do [url=glossary:disfavored]Desfavorecido[/url] enquanto você retorna ao [url=glossary:graven ashe]Cinza Esculpida[/url]. Enviarei a ele meu relatório completo assim que puder. Se você precisar de ajuda no futuro, você só precisa perguntar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -147,12 +147,12 @@ Ele se vira para ela. "Jelena, é por isso que temos planos, ordens, uma cadeia 
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Hora de ir, Jelena." "Sua vida é sua, mas você está liberado da Ashe proteção. Eu te entrego ao deserto, para que o [url=glossary:disfavored]Desfavorecido[/url] seja mais forte por sua ausência."</DefaultText>
+      <DefaultText>"Hora de ir, Jelena." "Sua vida é sua, mas você está liberado da Cinza proteção. Eu te entrego ao deserto, para que o [url=glossary:disfavored]Desfavorecido[/url] seja mais forte por sua ausência."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Fatebinder!" 
+      <DefaultText>"Vinculador do Destino!" 
 
 A expressão de Maric se transforma em uma careta.
 
@@ -192,7 +192,7 @@ Maric massageia a testa.</DefaultText>
       <ID>61</ID>
       <DefaultText>Ela endireita os ombros em uma saudação apertada. 
 
-"Eu estava morto no momento em que virei as costas para [url=glossary:graven ashe]Cinza esculpida[/url]. Esta é uma mera formalidade, então vamos acabar com isso." 
+"Eu estava morto no momento em que virei as costas para [url=glossary:graven ashe]Cinza Esculpida[/url]. Esta é uma mera formalidade, então vamos acabar com isso." 
 
 "Que seu swing seja verdadeiro, Maric. Pelo bem de nossos compatriotas, não me deixe sofrer."</DefaultText>
       <FemaleText />
@@ -223,7 +223,7 @@ Maric massageia a testa.</DefaultText>
       <ID>66</ID>
       <DefaultText>"Obrigado pela oportunidade, Vinculador do Destino."
 
-"Eu sabia que não poderia suportar o interrogatório Refrão para sempre. Ninguém menos que Ashe tem coragem para isso."</DefaultText>
+"Eu sabia que não poderia suportar o interrogatório Refrão para sempre. Ninguém menos que Cinza tem coragem para isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -245,7 +245,7 @@ Maric massageia a testa.</DefaultText>
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"Uma pena. [url=glossary:graven ashe]Cinza esculpida[/url] odeia perder um nortista para um inimigo, muito menos um aliado."</DefaultText>
+      <DefaultText>"Uma pena. [url=glossary:graven ashe]Cinza Esculpida[/url] odeia perder um nortista para um inimigo, muito menos um aliado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -319,7 +319,7 @@ Maric massageia a testa.</DefaultText>
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Vou contar tudo o que sei, só peço que faça algo por mim quando chegar ao Biblioteca. [url=glossary:graven ashe]Cinza esculpida[/url] encarregou a mim e ao meu grupo de destruí-lo. Infelizmente, fomos descobertos e encaminhados, mas sei como chegar até lá com segurança. Aqui, deixe-me marcar em seu mapa como contornar todas as Refrão patrulhas para chegar ao Biblioteca. Uma vez lá, você só precisa lidar com o Censor para entrar."</DefaultText>
+      <DefaultText>"Vou contar tudo o que sei, só peço que faça algo por mim quando chegar ao Biblioteca. [url=glossary:graven ashe]Cinza Esculpida[/url] encarregou a mim e ao meu grupo de destruí-lo. Infelizmente, fomos descobertos e encaminhados, mas sei como chegar até lá com segurança. Aqui, deixe-me marcar em seu mapa como contornar todas as Refrão patrulhas para chegar ao Biblioteca. Uma vez lá, você só precisa lidar com o Censor para entrar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -364,12 +364,12 @@ Maric massageia a testa.</DefaultText>
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>A expressão de Maric se transforma em uma careta. "Fatebinder! Senti a morte do meu Juramento com tanta certeza como se uma lâmina tivesse sido enfiada entre minhas próprias costelas. Longe de mim questionar suas decisões nestes assuntos, mas você não poderia ter resgatado meus homens antes de destruir a Biblioteca?" Ele olha para baixo, seu rosto desamparado. "Vou lamentar aqueles que caíram quando eu terminar aqui."</DefaultText>
+      <DefaultText>A expressão de Maric se transforma em uma careta. "Vinculador do Destino! Senti a morte do meu Juramento com tanta certeza como se uma lâmina tivesse sido enfiada entre minhas próprias costelas. Longe de mim questionar suas decisões nestes assuntos, mas você não poderia ter resgatado meus homens antes de destruir a Biblioteca?" Ele olha para baixo, seu rosto desamparado. "Vou lamentar aqueles que caíram quando eu terminar aqui."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Quando você terminar o que veio fazer aqui, venha falar comigo novamente. Não falhe Ashe como eu falhei com meus homens, Vinculador do Destino."</DefaultText>
+      <DefaultText>"Quando você terminar o que veio fazer aqui, venha falar comigo novamente. Não falhe Cinza como eu falhei com meus homens, Vinculador do Destino."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -436,14 +436,14 @@ Maric massageia a testa.</DefaultText>
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"Esteja ciente, Fatebinder - um dos meus soldados mencionou uma grande barricada mágica nas profundezas do Biblioteca. O Censor tem suas gangues procurando em todo o prédio por partes de algum tipo de senha para ir além dele. Se você pretende atingir seu objetivo, precisará encontrar a senha antes deles."
+      <DefaultText>"Esteja ciente, Vinculador do Destino - um dos meus soldados mencionou uma grande barricada mágica nas profundezas do Biblioteca. O Censor tem suas gangues procurando em todo o prédio por partes de algum tipo de senha para ir além dele. Se você pretende atingir seu objetivo, precisará encontrar a senha antes deles."
 
 "Gostaria de ter mais informações para você, mas espero que isso ajude você." Ele o saúda. "Agora, gostaria de fazer meu pedido a você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"Você deve ser Maric. Estou aqui para encontrar informações no Biblioteca. Ashe me disse para destruir o Biblioteca quando encontrasse o que estava procurando."</DefaultText>
+      <DefaultText>"Você deve ser Maric. Estou aqui para encontrar informações no Biblioteca. Cinza me disse para destruir o Biblioteca quando encontrasse o que estava procurando."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -453,12 +453,12 @@ Maric massageia a testa.</DefaultText>
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"Infelizmente não. Tudo o que sei é que todo o conhecimento proibido no Biblioteca deve ser destruído. [url=glossary:graven ashe]Cinza esculpida[/url] acredita que destruir o Arquivo Silencioso vai conseguir isso, mas com a barreira protegendo-o, ninguém pode chegar até ele. Pelo menos, parece que ninguém entrou ainda. Por outro lado, o [url=glossary:edict]Edital[/url] teria terminado."</DefaultText>
+      <DefaultText>"Infelizmente não. Tudo o que sei é que todo o conhecimento proibido no Biblioteca deve ser destruído. [url=glossary:graven ashe]Cinza Esculpida[/url] acredita que destruir o Arquivo Silencioso vai conseguir isso, mas com a barreira protegendo-o, ninguém pode chegar até ele. Pelo menos, parece que ninguém entrou ainda. Por outro lado, o [url=glossary:edict]Edital[/url] teria terminado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"Obrigado por sua ajuda. Eu posso terminar qualquer outra coisa no Biblioteca que exija a atenção do [url=glossary:disfavored]Desfavorecido[/url] enquanto você retorna ao [url=glossary:graven ashe]Cinza esculpida[/url]. Enviarei a ele meu relatório completo assim que puder. Se você precisar de ajuda no futuro, você só precisa perguntar."</DefaultText>
+      <DefaultText>"Obrigado por sua ajuda. Eu posso terminar qualquer outra coisa no Biblioteca que exija a atenção do [url=glossary:disfavored]Desfavorecido[/url] enquanto você retorna ao [url=glossary:graven ashe]Cinza Esculpida[/url]. Enviarei a ele meu relatório completo assim que puder. Se você precisar de ajuda no futuro, você só precisa perguntar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

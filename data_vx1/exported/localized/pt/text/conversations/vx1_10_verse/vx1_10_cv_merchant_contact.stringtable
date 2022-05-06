@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Não estou aberto a negócios, amigo, e não estou procurando problemas. Basila em [url=glossary:lethian's crossing]A travessia de Lethian[/url] me espera com esta remessa em breve. Não gostaria de deixá-la esperando." O mercador observa você cautelosamente enquanto você se aproxima, uma mochila pesada pendurada em seus ombros.</DefaultText>
+      <DefaultText>"Não estou aberto a negócios, amigo, e não estou procurando problemas. Basila em [url=glossary:lethian's crossing]A Travessia de Lethian[/url] me espera com esta remessa em breve. Não gostaria de deixá-la esperando." O mercador observa você cautelosamente enquanto você se aproxima, uma mochila pesada pendurada em seus ombros.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Então o que [url=glossary:the voices of nerat]o Vozes de Nerat[/url] quer que saibamos?"</DefaultText>
+      <DefaultText>"Então o que [url=glossary:the voices of nerat]As Vozes de Nerat[/url] quer que saibamos?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,13 +81,13 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Mesmo se eu for um Fatebinder de [url=glossary:tunon]Tunon[/url] o Árbitro?"</DefaultText>
+      <DefaultText>"Mesmo se eu for um Vinculador do Destino de [url=glossary:tunon]Tunon[/url] o Árbitro?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Lord Binder. Perdoe qualquer ofensa que eu tenha feito. Como posso ajudá-lo?" Seus olhos se arregalam um pouco, mas ela rapidamente se recupera em uma profunda reverência.</DefaultText>
-      <FemaleText>"Lady Binder. Perdoe qualquer ofensa que eu tenha feito. Como posso ajudá-lo?" Seus olhos se arregalam um pouco, mas ela rapidamente se recupera em uma profunda reverência.</FemaleText>
+      <DefaultText>"Lord Vinculador. Perdoe qualquer ofensa que eu tenha feito. Como posso ajudá-lo?" Seus olhos se arregalam um pouco, mas ela rapidamente se recupera em uma profunda reverência.</DefaultText>
+      <FemaleText>"Lady Vinculador. Perdoe qualquer ofensa que eu tenha feito. Como posso ajudá-lo?" Seus olhos se arregalam um pouco, mas ela rapidamente se recupera em uma profunda reverência.</FemaleText>
     </Entry>
     <Entry>
       <ID>19</ID>
@@ -101,7 +101,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Eu entendo que você pode me falar sobre um mercenário de [url=glossary:lethian's crossing]A travessia de Lethian[/url]."</DefaultText>
+      <DefaultText>"Eu entendo que você pode me falar sobre um mercenário de [url=glossary:lethian's crossing]A Travessia de Lethian[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,7 +111,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Por quê? Isto é simplesmente entre onde estou indo e onde estive. Agora estou transportando pigmentos de Ardente para [url=glossary:lethian's crossing]A travessia de Lethian[/url]. O [url=glossary:forge-bound]Forge-Bound[/url] precisa de corantes muito específicos que não reajam adversamente aos seus reagentes." Ela endireita a mochila nos ombros.</DefaultText>
+      <DefaultText>"Por quê? Isto é simplesmente entre onde estou indo e onde estive. Agora estou transportando pigmentos de Ardente para [url=glossary:lethian's crossing]A Travessia de Lethian[/url]. O [url=glossary:forge-bound]Vinculado à Forja[/url] precisa de corantes muito específicos que não reajam adversamente aos seus reagentes." Ela endireita a mochila nos ombros.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -136,7 +136,7 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Ah... bem, na verdade eu gosto bastante do meu trabalho, Encadernador. A viagem, especialmente, e as pessoas." Ela franze a testa e puxa um pequeno fio de anéis de seu cinto.</DefaultText>
+      <DefaultText>"Ah... bem, na verdade eu gosto bastante do meu trabalho, Vinculador. A viagem, especialmente, e as pessoas." Ela franze a testa e puxa um pequeno fio de anéis de seu cinto.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -231,7 +231,7 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Não é tudo sobre as palavras, Encadernador. Não que eu esteja revelando todos os nossos segredos. E verifiquei a área em busca de bisbilhoteiros antes mesmo de falarmos com ela. Dê-me um pouco de crédito." Ela aponta para a linha das árvores.</DefaultText>
+      <DefaultText>"Não é tudo sobre as palavras, Vinculador. Não que eu esteja revelando todos os nossos segredos. E verifiquei a área em busca de bisbilhoteiros antes mesmo de falarmos com ela. Dê-me um pouco de crédito." Ela aponta para a linha das árvores.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -246,7 +246,7 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url]' A paz protege Fúrias Escarlates."</DefaultText>
+      <DefaultText>"A paz de [url=glossary:kyros]Kyros[/url] protege Fúrias Escarlates."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -331,7 +331,7 @@
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Ah, para o... Isso é apenas Fatebinder para 'Agradecemos a informação.'"</DefaultText>
+      <DefaultText>"Ah, para o... Isso é apenas Vinculador do Destino para 'Agradecemos a informação.'"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -406,7 +406,7 @@
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Ele geralmente vai para Stalwart por meio do Pináculo do Oceano, mas ele está cortando para o leste para ganhar tempo e evitar o Bestas." Ela bate um dedo em uma linha grossa e preta.</DefaultText>
+      <DefaultText>"Ele geralmente vai para Robusto por meio do Pináculo do Oceano, mas ele está cortando para o leste para ganhar tempo e evitar o Bestas." Ela bate um dedo em uma linha grossa e preta.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

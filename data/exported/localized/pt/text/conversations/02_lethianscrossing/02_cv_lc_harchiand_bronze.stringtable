@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Saudações e saudações!" O alegre comerciante o cumprimenta com um sorriso e uma palmada no ombro. "E bem-vindo ao [url=glossary:lethian's crossing]A travessia de Lethian[/url]! Lar do melhor mercador de todos os níveis!" Ele faz uma pausa e pisca. "Que seria eu."</DefaultText>
+      <DefaultText>"Saudações e saudações!" O alegre comerciante o cumprimenta com um sorriso e uma palmada no ombro. "E bem-vindo ao [url=glossary:lethian's crossing]A Travessia de Lethian[/url]! Lar do melhor mercador de todos os níveis!" Ele faz uma pausa e pisca. "Que seria eu."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -162,7 +162,7 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Fatebinder? Gostaria de vê-lo aqui."</DefaultText>
+      <DefaultText>"Vinculador do Destino? Gostaria de vê-lo aqui."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -174,7 +174,7 @@
       <ID>36</ID>
       <DefaultText>"Que horror!" Harchiand Bronze coloca a mão no coração. "Talvez havia alguns Raetommon leais ainda à procura de sangue-" Ele percebe que suas palavras estão caindo em ouvidos surdos e abaixa as mãos. "Ah, foda-se tudo."
 
-"Você não me deu outra escolha!" Ele rapidamente se recompõe, antes de continuar mais discretamente. "Um Vinculador do Destino enviado de Cacofonia de repente aparece fazendo perguntas sobre minha lealdade?" Ele afasta a mão em direção ao Oldwalls. "Eu não sou tolo, qualquer Refrão membro que vale suas tatuagens vai te dizer que eles encontrariam qualquer razão para ser o próximo na fila para subir na hierarquia. Estou apenas dois passos à frente deles."</DefaultText>
+"Você não me deu outra escolha!" Ele rapidamente se recompõe, antes de continuar mais discretamente. "Um Vinculador do Destino enviado de Cacofonia de repente aparece fazendo perguntas sobre minha lealdade?" Ele afasta a mão em direção ao Muralhas Antigas. "Eu não sou tolo, qualquer Refrão membro que vale suas tatuagens vai te dizer que eles encontrariam qualquer razão para ser o próximo na fila para subir na hierarquia. Estou apenas dois passos à frente deles."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -204,7 +204,7 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Eles já foram uma organização comercial poderosa que... bem..." Ele coloca a boca em concha e olha ao redor, "Vamos apenas diga que você não queria ficar entre eles e um contrato ." "Com as novas leis de [url=glossary:tunon]Tunon[/url] no [url=glossary:bastard city]Cidade bastarda[/url], o Pena se escondeu nas sombras de [url=glossary:kyros]Kyros[/url]' autoridade, tentando manter um perfil mais baixo. Se você estiver envolvido em algum dos negócios deles, fique longe."</DefaultText>
+      <DefaultText>"Eles já foram uma organização comercial poderosa que... bem..." Ele coloca a boca em concha e olha ao redor, "Vamos apenas diga que você não queria ficar entre eles e um contrato ." "Com as novas leis de [url=glossary:tunon]Tunon[/url] no [url=glossary:bastard city]Cidade bastarda[/url], o Pena se escondeu nas sombras de [url=glossary:kyros]Kyros[/url] autoridade, tentando manter um perfil mais baixo. Se você estiver envolvido em algum dos negócios deles, fique longe."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -293,12 +293,12 @@ Harchiand sacode a bolsa uma vez e acena com a cabeça, contente que a quantia c
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>Ele abaixa a voz para um sussurro. "Mas um leal. Eu pensei que [url=glossary:the voices of nerat]the Vozes de Nerat[/url] gostaria de alguém que saiba jogar dos dois lados. Deixe-o saber que sua confiança não está perdida."</DefaultText>
+      <DefaultText>Ele abaixa a voz para um sussurro. "Mas um leal. Eu pensei que [url=glossary:the voices of nerat]As Vozes de Nerat[/url] gostaria de alguém que saiba jogar dos dois lados. Deixe-o saber que sua confiança não está perdida."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"O quê? Não! Você está pensando no [url=glossary:forge-bound]Forge-Bound[/url]." Ele olha para a esquerda e para a direita. "Quero dizer... se um [url=glossary:disfavored]Desfavorecido[/url] soldado compra uma espada ou capacete de segunda mão... então tecnicamente sim." Ele rapidamente acrescenta uma palavra final. "Mas apenas o [url=glossary:scarlet chorus]Coro Escarlate[/url] vê meus melhores produtos! Eu garanto!"</DefaultText>
+      <DefaultText>"O quê? Não! Você está pensando no [url=glossary:forge-bound]Vinculado à Forja[/url]." Ele olha para a esquerda e para a direita. "Quero dizer... se um [url=glossary:disfavored]Desfavorecido[/url] soldado compra uma espada ou capacete de segunda mão... então tecnicamente sim." Ele rapidamente acrescenta uma palavra final. "Mas apenas o [url=glossary:scarlet chorus]Coro Escarlate[/url] vê meus melhores produtos! Eu garanto!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -327,7 +327,7 @@ Ele percebe o que disse e cobre a boca. "Será que as vozes quer que eu os mante
       <ID>76</ID>
       <DefaultText>Ele deixa seu ponto de lado. "Como todos os comerciantes, falo em chavões e embelezamento. As pessoas acham divertido, e vende tecidos que minha avó não colocaria sobre seu cachorro doente."
 
-"Eu nunca falo sobre meus negócios com [url=glossary:the voices of nerat]o Vozes de Nerat[/url]."</DefaultText>
+"Eu nunca falo sobre meus negócios com [url=glossary:the voices of nerat]As Vozes de Nerat[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -371,7 +371,7 @@ Ele percebe o que disse e cobre a boca. "Será que as vozes quer que eu os mante
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>Desapontado, Harchiand Bronze cruza os braços e te encara com amarga resignação. "Ouço, você pode ficar aqui o dia todo questionando minha lealdade ao [url=glossary:scarlet chorus]Coro Escarlate[/url], mas nós dois sabemos a ironia em exigir respostas de alguém que serve o Arconte dos Segredos. Eu sou um mentiroso Vinculador do Destino, e [url=glossary:the voices of nerat]o Vozes de Nerat[/url] me paga generosamente por tal serviço." "Qual é exatamente a motivação por trás deste julgamento ao qual fui subjugado?"</DefaultText>
+      <DefaultText>Desapontado, Harchiand Bronze cruza os braços e te encara com amarga resignação. "Ouço, você pode ficar aqui o dia todo questionando minha lealdade ao [url=glossary:scarlet chorus]Coro Escarlate[/url], mas nós dois sabemos a ironia em exigir respostas de alguém que serve o Arconte dos Segredos. Eu sou um mentiroso Vinculador do Destino, e [url=glossary:the voices of nerat]As Vozes de Nerat[/url] me paga generosamente por tal serviço." "Qual é exatamente a motivação por trás deste julgamento ao qual fui subjugado?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -381,12 +381,12 @@ Ele percebe o que disse e cobre a boca. "Será que as vozes quer que eu os mante
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"Claro! Recebi uma missiva mencionando que você chegaria. Receio não ter muito a dizer no momento além do mestre [url=glossary:forge-bound]Forge-Bound[/url] que chegou em [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Você provavelmente deveria ir à forja e descobrir o que está acontecendo. O [url=glossary:forge-bound]Forge-Bound[/url] e eu não estamos nos melhores termos..."</DefaultText>
+      <DefaultText>"Claro! Recebi uma missiva mencionando que você chegaria. Receio não ter muito a dizer no momento além do mestre [url=glossary:forge-bound]Vinculado à Forja[/url] que chegou em [url=glossary:lethian's crossing]A Travessia de Lethian[/url]. Você provavelmente deveria ir à forja e descobrir o que está acontecendo. O [url=glossary:forge-bound]Vinculado à Forja[/url] e eu não estamos nos melhores termos..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Claro! Recebi uma missiva mencionando que você chegaria. Receio não ter muito a dizer no momento além do mestre [url=glossary:forge-bound]Forge-Bound[/url] está a caminho de [url=glossary:lethian's crossing]A travessia de Lethian[/url]. "
+      <DefaultText>"Claro! Recebi uma missiva mencionando que você chegaria. Receio não ter muito a dizer no momento além do mestre [url=glossary:forge-bound]Vinculado à Forja[/url] está a caminho de [url=glossary:lethian's crossing]A Travessia de Lethian[/url]. "
 
 "Você provavelmente deveria falar com Esmagador de Camadas antes de fazer qualquer outra coisa na cidade. Ele pode ser um pouco sensível se for deixado de fora do circuito."</DefaultText>
       <FemaleText />
@@ -408,7 +408,7 @@ Ele percebe o que disse e cobre a boca. "Será que as vozes quer que eu os mante
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"Onde está o Tier Smasher?"</DefaultText>
+      <DefaultText>"Onde está o Esmagador de Camadas?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -438,14 +438,14 @@ Ele percebe o que disse e cobre a boca. "Será que as vozes quer que eu os mante
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"Sim! Isso é simplesmente inaceitável! Enviei uma notificação para Nerat sobre o roubo e sequestro. Enquanto aguardo uma resposta, você deve procurar por [url=glossary:forge-bound]Forge-Bound[/url] Mestre. Se conseguirmos recuperá-la, Nerat provavelmente perdoará mais!"</DefaultText>
+      <DefaultText>"Sim! Isso é simplesmente inaceitável! Enviei uma notificação para Nerat sobre o roubo e sequestro. Enquanto aguardo uma resposta, você deve procurar por [url=glossary:forge-bound]Vinculado à Forja[/url] Mestre. Se conseguirmos recuperá-la, Nerat provavelmente perdoará mais!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>Harchiand balança a cabeça. "Não tenho certeza. Ouvi relatos do fraternidade escondido dentro do Oldwalls, mas não acho que você deva se deparar com o que poderia ser uma grande força fraternidade."
+      <DefaultText>Harchiand balança a cabeça. "Não tenho certeza. Ouvi relatos do fraternidade escondido dentro do Muralhas Antigas, mas não acho que você deva se deparar com o que poderia ser uma grande força fraternidade."
 
-"Eles também foram vistos recentemente no vizinhança de Marcha do Desertor. Pode ser uma boa ideia verificar isso primeiro e ver se você pode reunir alguma informação sobre o fraternidade dentro do Oldwalls."</DefaultText>
+"Eles também foram vistos recentemente no vizinhança de Marcha do Desertor. Pode ser uma boa ideia verificar isso primeiro e ver se você pode reunir alguma informação sobre o fraternidade dentro do Muralhas Antigas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -465,7 +465,7 @@ Ele percebe o que disse e cobre a boca. "Será que as vozes quer que eu os mante
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>Os olhos de Harchiand se arregalam quando ele vê o Pedra angular. "Esse é um dos Pedra angulars para entrar no Oldwalls!" Ele vira o Pedra angular em suas mãos enquanto fala. "Há apenas uma outra entrada que eu conheço e está em Rios gêmeos. É onde o fraternidade está hospedado, então provavelmente é onde eles estão entrando no Oldwalls." Ele devolve o Pedra angular para você. "Se você for lá, tome cuidado!"
+      <DefaultText>Os olhos de Harchiand se arregalam quando ele vê o Pedra angular. "Esse é um dos Pedra angulars para entrar no Muralhas Antigas!" Ele vira o Pedra angular em suas mãos enquanto fala. "Há apenas uma outra entrada que eu conheço e está em Rios gêmeos. É onde o fraternidade está hospedado, então provavelmente é onde eles estão entrando no Muralhas Antigas." Ele devolve o Pedra angular para você. "Se você for lá, tome cuidado!"
 
 "As coisas estão bem quietas aqui, então não acho que Raetommon tentará atacar novamente. Reforços do [url=glossary:scarlet chorus]Coro Escarlate[/url] estarão aparecendo em breve."</DefaultText>
       <FemaleText />
@@ -479,7 +479,7 @@ Ele percebe o que disse e cobre a boca. "Será que as vozes quer que eu os mante
       <ID>121</ID>
       <DefaultText>"Eu ouvi de Nerat enquanto você estava fora e ele está extremamente interessado em Raetommon. Parece que o ataque Raetommon's não irritou Nerat tanto quanto o intrigou e ele gostaria de conhecer Raetommon um pouco melhor." Ele fareja com desgosto.
 
-"Recuperando o [url= glossary:forge-bound]Forge-Bound[/url] Mestre ainda é prioridade, mas se você puder convencer Raetommon a considerar uma visita a Cacofonia, Nerat ficaria muito agradecido."</DefaultText>
+"Recuperando o [url= glossary:forge-bound]Vinculado à Forja[/url] Mestre ainda é prioridade, mas se você puder convencer Raetommon a considerar uma visita a Cacofonia, Nerat ficaria muito agradecido."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -491,7 +491,7 @@ Ele percebe o que disse e cobre a boca. "Será que as vozes quer que eu os mante
       <ID>123</ID>
       <DefaultText>"Contanto que você não fale comigo do jeito que você falou com a guarnição!" Ele ri nervosamente. "Você euTenho que me perdoar no momento, Vinculador do Destino, mas não tenho tempo para conversar. Minha barraca está um pouco bagunçada depois do recente aborrecimento."
 
-"Word é o [url=glossary:forge-bound]Forge-Bound[/url] Mestre chegou em [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Você provavelmente deveria ir à forja para descobrir o que está acontecendo. Poderei falar com você depois de me orientar aqui." Ele aponta para o nível acima de você. "A forja está no segundo nível na parte de trás do Cruzando."</DefaultText>
+"Word é o [url=glossary:forge-bound]Vinculado à Forja[/url] Mestre chegou em [url=glossary:lethian's crossing]A Travessia de Lethian[/url]. Você provavelmente deveria ir à forja para descobrir o que está acontecendo. Poderei falar com você depois de me orientar aqui." Ele aponta para o nível acima de você. "A forja está no segundo nível na parte de trás do Cruzando."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -511,7 +511,7 @@ Ele percebe o que disse e cobre a boca. "Será que as vozes quer que eu os mante
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Quero que você organize para que Eldian seja enviado para [url=glossary:the voices of nerat]o Vozes de Nerat[/url]."</DefaultText>
+      <DefaultText>"Quero que você organize para que Eldian seja enviado para [url=glossary:the voices of nerat]As Vozes de Nerat[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -568,7 +568,7 @@ Ele percebe o que disse e cobre a boca. "Será que as vozes quer que eu os mante
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>Harchiand desvia o olhar de você, perdido em um mar de pensamentos. Ele acena para si mesmo depois de um momento. "Eu posso ver que você pode dizer um bom mentiroso quando você vê um. O mesmo acontece com o Arconte dos Segredos, que é precisamente para o que ele me paga." Ele respira fundo. "Eu posso ter escorregado propositalmente para Raetommon que o [url=glossary:forge-bound]Forge-Bound[/url] Mestre estava indo para [url=glossary:lethian's crossing]A travessia de Lethian[/url], e talvez a intenção de sua visita . Veja bem, ele era a ferramenta perfeita para colocar o [url=glossary:forge-bound]Forge-Bound[/url] Mestre ao nosso alcance." Ele levanta as mãos. "E antes que você se levante sobre o que eu fiz, entenda que agi por conta própria. O The Voices não tem ideia de que eu estava por trás disso."</DefaultText>
+      <DefaultText>Harchiand desvia o olhar de você, perdido em um mar de pensamentos. Ele acena para si mesmo depois de um momento. "Eu posso ver que você pode dizer um bom mentiroso quando você vê um. O mesmo acontece com o Arconte dos Segredos, que é precisamente para o que ele me paga." Ele respira fundo. "Eu posso ter escorregado propositalmente para Raetommon que o [url=glossary:forge-bound]Vinculado à Forja[/url] Mestre estava indo para [url=glossary:lethian's crossing]A Travessia de Lethian[/url], e talvez a intenção de sua visita . Veja bem, ele era a ferramenta perfeita para colocar o [url=glossary:forge-bound]Vinculado à Forja[/url] Mestre ao nosso alcance." Ele levanta as mãos. "E antes que você se levante sobre o que eu fiz, entenda que agi por conta própria. O The Voices não tem ideia de que eu estava por trás disso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -608,7 +608,7 @@ Ele percebe o que disse e cobre a boca. "Será que as vozes quer que eu os mante
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>"Onde eu procuraria o [url=glossary:forge-bound]Forge-Bound[/url] Mestre?"</DefaultText>
+      <DefaultText>"Onde eu procuraria o [url=glossary:forge-bound]Vinculado à Forja[/url] Mestre?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -633,7 +633,7 @@ Ele percebe o que disse e cobre a boca. "Será que as vozes quer que eu os mante
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>"O que traz uma potência como você para [url=glossary:lethian's crossing]A travessia de Lethian[/url]? Depois o [url=glossary:edict]Edital[/url] em [url=glossary:vendrien's well]Poço de Vendrien[/url], eu assumi que você estaria começando seu próprio império e não confraternizando com o povo pequeno! Não que eu vá reclamar de ter a chance de ficar lado a lado com a elite!"</DefaultText>
+      <DefaultText>"O que traz uma potência como você para [url=glossary:lethian's crossing]A Travessia de Lethian[/url]? Depois o [url=glossary:edict]Edital[/url] em [url=glossary:vendrien's well]Poço de Vendrien[/url], eu assumi que você estaria começando seu próprio império e não confraternizando com o povo pequeno! Não que eu vá reclamar de ter a chance de ficar lado a lado com a elite!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -643,17 +643,17 @@ Ele percebe o que disse e cobre a boca. "Será que as vozes quer que eu os mante
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>"Sim, sim... Você sabe. No começo eu me perguntei se você era a pessoa com quem eu deveria falar, já que você não mencionou nada para mim da última vez que conversamos. Você nunca pode ser muito cuidadoso, especialmente quando [url=glossary:the voices of nerat]o Vozes de Nerat[/url] está envolvido. Isso é ruim o suficiente para não podermos conversar antes, mas agora isso? Isso é simplesmente inaceitável!"</DefaultText>
+      <DefaultText>"Sim, sim... Você sabe. No começo eu me perguntei se você era a pessoa com quem eu deveria falar, já que você não mencionou nada para mim da última vez que conversamos. Você nunca pode ser muito cuidadoso, especialmente quando [url=glossary:the voices of nerat]As Vozes de Nerat[/url] está envolvido. Isso é ruim o suficiente para não podermos conversar antes, mas agora isso? Isso é simplesmente inaceitável!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>"Sim, sim... Você sabe. No começo eu me perguntei se você era a pessoa com quem eu deveria falar, já que você não veio me ver antes de falar com Zdenya. Você nunca pode ser muito cuidadoso, especialmente quando [url=glossary:the voices of nerat]o Vozes de Nerat[/url] está envolvido. Isso é ruim o suficiente para não podermos conversar antes, mas agora isso? Isso é simplesmente inaceitável!"</DefaultText>
+      <DefaultText>"Sim, sim... Você sabe. No começo eu me perguntei se você era a pessoa com quem eu deveria falar, já que você não veio me ver antes de falar com Zdenya. Você nunca pode ser muito cuidadoso, especialmente quando [url=glossary:the voices of nerat]As Vozes de Nerat[/url] está envolvido. Isso é ruim o suficiente para não podermos conversar antes, mas agora isso? Isso é simplesmente inaceitável!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>"Enviei notificação para Nerat sobre o roubo e sequestro. Enquanto aguardo uma resposta, você deve procurar por [url=glossary:forge-bound]Forge-Bound[/url] Mestre. Se conseguirmos recuperá-la, Nerat provavelmente perdoará mais!"</DefaultText>
+      <DefaultText>"Enviei notificação para Nerat sobre o roubo e sequestro. Enquanto aguardo uma resposta, você deve procurar por [url=glossary:forge-bound]Vinculado à Forja[/url] Mestre. Se conseguirmos recuperá-la, Nerat provavelmente perdoará mais!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Um soldado se ajoelha atrás dos parapeitos em ruínas. Você pode dizer pelo seu traje - antigo Robusto equipamento - que ele é um [url=glossary:unbroken]ininterrupto[/url] soldado. Ele olha para você com uma mistura de cautela e curiosidade.</DefaultText>
+      <DefaultText>Um soldado se ajoelha atrás dos parapeitos em ruínas. Você pode dizer pelo seu traje - antigo Robusto equipamento - que ele é um [url=glossary:unbroken]Inquebrável[/url] soldado. Ele olha para você com uma mistura de cautela e curiosidade.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Você é o Fatebinder de [url=glossary:tunon]Tunon[/url], não é? Bonito longe do seu poleiro em [url=glossary:vendrien's well]Poço de Vendrien[/url]. O que o traz ao Posto Sentinela?" Ele olha para a esquerda e para a direita. "Não é o clima, eu acho."</DefaultText>
+      <DefaultText>"Você é o Vinculador do Destino de [url=glossary:tunon]Tunon[/url], não é? Bonito longe do seu poleiro em [url=glossary:vendrien's well]Poço de Vendrien[/url]. O que o traz ao Posto Sentinela?" Ele olha para a esquerda e para a direita. "Não é o clima, eu acho."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,17 +36,17 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Cheguei ao fim [url=glossary:kyros]Kyros[/url]' tempestades."</DefaultText>
+      <DefaultText>"Cheguei ao fim tempestade de [url=glossary:kyros]Kyros[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Eu tirei o canudo curto." Ele ri e balança a cabeça. "Os [url=glossary:unbroken]ininterrupto[/url] criam o hábito de patrulhar a fortaleza externa caso a tempestade desapareça ou alguém saia da fortaleza. Se pudéssemos encontrar uma maneira de atravessar o windwall, poderíamos retomar Posto de Sentinela e defender nosso país de uma posição de poder."</DefaultText>
+      <DefaultText>"Eu tirei o canudo curto." Ele ri e balança a cabeça. "Os [url=glossary:unbroken]Inquebrável[/url] criam o hábito de patrulhar a fortaleza externa caso a tempestade desapareça ou alguém saia da fortaleza. Se pudéssemos encontrar uma maneira de atravessar o quebra-vento, poderíamos retomar Posto de Sentinela e defender nosso país de uma posição de poder."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Se você tem negócios dentro de Guarda Sentinela, garanto que isso não acontecerá tão cedo." Ele acena com a cabeça na direção geral dos ventos rodopiantes. "[url=glossary:kyros]Kyros[/url]' a raiva tem estado furiosa sem pausa no último ano. Já é ruim o suficiente que ninguém possa entrar ou sair da fortaleza interna."</DefaultText>
+      <DefaultText>"Se você tem negócios dentro de Guarda Sentinela, garanto que isso não acontecerá tão cedo." Ele acena com a cabeça na direção geral dos ventos rodopiantes. "a raiva de [url=glossary:kyros]Kyros[/url] tem estado furiosa sem pausa no último ano. Já é ruim o suficiente que ninguém possa entrar ou sair da fortaleza interna."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"A fortaleza tinha provisões suficientes para engordar uma guarnição para o próximo século, sem mencionar alimentar aqueles [url=glossary:disfavored]Desfavorecido[/url] prisioneiros. É lógico que Stalwart's último Regente ainda está vivo lá." Janos aperta os olhos para o tornado distante e balança a cabeça. "Ele não é a fonte do nosso problema, mas está no centro dele."</DefaultText>
+      <DefaultText>"A fortaleza tinha provisões suficientes para engordar uma guarnição para o próximo século, sem mencionar alimentar aqueles [url=glossary:disfavored]Desfavorecido[/url] prisioneiros. É lógico que Robustos último Regente ainda está vivo lá." Janos aperta os olhos para o tornado distante e balança a cabeça. "Ele não é a fonte do nosso problema, mas está no centro dele."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,27 +86,27 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Alguns de nós pensam que há uma maneira. Se você realmente se considera amigo do [url=glossary:unbroken]ininterrupto[/url], então vá para Torre do Crepúsculo e fale com Capitão Agathon. Acho que você é exatamente o homem que ele está procurando."</DefaultText>
-      <FemaleText>"Alguns de nós pensam que há uma maneira. Se você realmente se considera amigo do [url=glossary:unbroken]ininterrupto[/url], então vá para Torre do Crepúsculo e fale com Capitão Agathon. Acho que você é a mulher que ele está procurando."</FemaleText>
+      <DefaultText>"Alguns de nós pensam que há uma maneira. Se você realmente se considera amigo do [url=glossary:unbroken]Inquebrável[/url], então vá para Torre do Crepúsculo e fale com Capitão Agathon. Acho que você é exatamente o homem que ele está procurando."</DefaultText>
+      <FemaleText>"Alguns de nós pensam que há uma maneira. Se você realmente se considera amigo do [url=glossary:unbroken]Inquebrável[/url], então vá para Torre do Crepúsculo e fale com Capitão Agathon. Acho que você é a mulher que ele está procurando."</FemaleText>
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Sua expressão amigável azedou. "Os Regentes carregava a linhagem da antiga família governante Stalwart's. Essa ligação - qualquer conexão com o passado, na verdade - tem muito peso." Ele fareja. "Pode ser até demais."</DefaultText>
+      <DefaultText>Sua expressão amigável azedou. "Os Regentes carregava a linhagem da antiga família governante Robustos. Essa ligação - qualquer conexão com o passado, na verdade - tem muito peso." Ele fareja. "Pode ser até demais."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Para piorar as coisas, a linhagem está ligada a [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url]. Enquanto eles viverem, as tempestades continuarão a destruir nosso país. E o último dos Regentes..." ele aponta para a obscuridade da parede de tempestade, "está preso lá."</DefaultText>
+      <DefaultText>"Para piorar as coisas, a linhagem está ligada a [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url]. Enquanto eles viverem, as tempestades continuarão a destruir nosso país. E o último dos Regentes..." ele aponta para a obscuridade da parede de tempestade, "está preso lá."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"O que os [url=glossary:unbroken]ininterrupto[/url] querem?"</DefaultText>
+      <DefaultText>"O que os [url=glossary:unbroken]Inquebrável[/url] querem?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Posto de Sentinela costumava ser um lugar de orgulho para o Regentes de Stalwart. Hoje em dia é uma ruína varrida pelo vento, mas poderia se tornar uma fortaleza inexpugnável para o [url=glossary:unbroken]ininterrupto[/url]... anseio.</DefaultText>
+      <DefaultText>"Posto de Sentinela costumava ser um lugar de orgulho para o Regentes de Robusto. Hoje em dia é uma ruína varrida pelo vento, mas poderia se tornar uma fortaleza inexpugnável para o [url=glossary:unbroken]Inquebrável[/url]... anseio.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,7 +116,7 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"A área ao redor de Crepúsculo está cheia de armaduras de [url=glossary:graven ashe]Cinza esculpida[/url], então pise levemente. Se você puder ajudar Agatão a despachá-los, melhor ainda. Vamos torcer para que nossos caminhos se cruzem novamente." Janos se vira e cai sobre a borda da ameia, desaparecendo na tempestade.</DefaultText>
+      <DefaultText>"A área ao redor de Crepúsculo está cheia de armaduras de [url=glossary:graven ashe]Cinza Esculpida[/url], então pise levemente. Se você puder ajudar Agatão a despachá-los, melhor ainda. Vamos torcer para que nossos caminhos se cruzem novamente." Janos se vira e cai sobre a borda da ameia, desaparecendo na tempestade.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -136,7 +136,7 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Antes do [url=glossary:edict]Edital[/url] de Tempestades nos atingir no ano passado, uma patrulha Robusto capturou uma companhia de [url=glossary:disfavored]Desfavorecido[/url]. Eu sei que pelo menos alguns dos prisioneiros chegaram a Posto de Sentinela. Ninguém esteve em contato com a fortaleza desde o golpe [url=glossary:edict]Edital[/url], mas tenho certeza de que uma das prisioneiras era filha de [url=glossary:graven ashe]Cinza esculpida[/url]."</DefaultText>
+      <DefaultText>"Antes do [url=glossary:edict]Edital[/url] de Tempestades nos atingir no ano passado, uma patrulha Robusto capturou uma companhia de [url=glossary:disfavored]Desfavorecido[/url]. Eu sei que pelo menos alguns dos prisioneiros chegaram a Posto de Sentinela. Ninguém esteve em contato com a fortaleza desde o golpe [url=glossary:edict]Edital[/url], mas tenho certeza de que uma das prisioneiras era filha de [url=glossary:graven ashe]Cinza Esculpida[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -146,7 +146,7 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Straydus Herodin, o último Regente, está se escondendo atrás de [url=glossary:kyros]Kyros[/url]', fingindo que ainda governa Robusto-que-era. Na primeira chance que tiver, vou enfiar minha lâmina no coração dele e acabar com esse [url=glossary:edict]Edital[/url] para sempre. Robusto já sofreu o suficiente."</DefaultText>
+      <DefaultText>"Straydus Herodin, o último Regente, está se escondendo atrás de [url=glossary:kyros]Kyros[/url], fingindo que ainda governa Robusto-que-era. Na primeira chance que tiver, vou enfiar minha lâmina no coração dele e acabar com esse [url=glossary:edict]Edital[/url] para sempre. Robusto já sofreu o suficiente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -166,14 +166,14 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Diga o [url=glossary:unbroken]ininterrupto[/url] atravessar as tempestades. Como eles esperam quebrar as paredes da fortaleza?"</DefaultText>
+      <DefaultText>"Diga o [url=glossary:unbroken]Inquebrável[/url] atravessar as tempestades. Como eles esperam quebrar as paredes da fortaleza?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
       <DefaultText>"Não é um desafio pequeno, é verdade, mas tivemos um ano para fazer os preparativos." Ele ri. "Nossos alquimistas criaram um pó desagradável e instável que explode quando jogado em quantidade. Eu chamo isso de 'Justiça Forte', embora o nome não tenha pegado."
 
-"Temos estoque suficiente para abrir um buraco em Oldwalls se decidirmos isso."</DefaultText>
+"Temos estoque suficiente para abrir um buraco em Muralhas Antigas se decidirmos isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -208,22 +208,22 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Não sou o Homem-Besta! Sou Mulher-Besta. Sou [url=glossary:bolverk]Bolverk[/url] a humana mais forte em Camadas-terras." Ela sorri, mostrando suas presas afiadas. "Rastejar para matar-in-Shadow, humano e Mulher-Besta esquecerão de ter sido provocado."</DefaultText>
+      <DefaultText>"Não sou o Homem-Besta! Sou Mulher-Besta. Sou [url=glossary:bolverk]Bolverk[/url] a humana mais forte em Camadas-terras." Ela sorri, mostrando suas presas afiadas. "Rastejar para Mortes nas Sombras, humano e Mulher-Besta esquecerão de ter sido provocado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"De todas as [url=glossary:younger realms]Reinos mais jovens[/url], a ordem dominante de Stalwart sempre foi a mais resistente a conflitos internos. A resposta irreverente é dizer que eles são todos fanáticos irrefletidos, mas coloque-se nos passos deles. Por tudo que eles sabem, o Regentes tem evitado todas as invasões estrangeiras por séculos, enquanto todos os outros reinos do Camadas não podem se gabar do mesmo. Essa é uma reputação muito respeitável, então é difícil culpar as pessoas comuns por serem tão dedicadas às suas dinastias."</DefaultText>
+      <DefaultText>"De todas as [url=glossary:younger realms]Reinos mais jovens[/url], a ordem dominante de Robusto sempre foi a mais resistente a conflitos internos. A resposta irreverente é dizer que eles são todos fanáticos irrefletidos, mas coloque-se nos passos deles. Por tudo que eles sabem, o Regentes tem evitado todas as invasões estrangeiras por séculos, enquanto todos os outros reinos do Camadas não podem se gabar do mesmo. Essa é uma reputação muito respeitável, então é difícil culpar as pessoas comuns por serem tão dedicadas às suas dinastias."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Estou reunindo uma coalizão para enfrentar [url=glossary:kyros]Kyros[/url], e procuro recrutar os [url=glossary:unbroken]ininterrupto[/url]."</DefaultText>
+      <DefaultText>"Estou reunindo uma coalizão para enfrentar [url=glossary:kyros]Kyros[/url], e procuro recrutar os [url=glossary:unbroken]Inquebrável[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Você está no lugar certo, mas os únicos [url=glossary:unbroken]ininterrupto[/url] que se reúnem aqui são os batedores azarados como eu, que olham para a parede de vento e esperam que algo mude." Ele acena com a cabeça ao tornado.</DefaultText>
+      <DefaultText>"Você está no lugar certo, mas os únicos [url=glossary:unbroken]Inquebrável[/url] que se reúnem aqui são os batedores azarados como eu, que olham para a parede de vento e esperam que algo mude." Ele acena com a cabeça ao tornado.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -238,7 +238,7 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Eu poderia ajudá-lo a acabar com [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] of Tempestades."</DefaultText>
+      <DefaultText>"Eu poderia ajudá-lo a acabar com [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] of Tempestades."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -248,12 +248,12 @@
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"O que posso fazer para ajudar o [url=glossary:unbroken]ininterrupto[/url]?"</DefaultText>
+      <DefaultText>"O que posso fazer para ajudar o [url=glossary:unbroken]Inquebrável[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Precisa tanto de nós do seu lado, não é?" Janos ri. "Nós somose tentando recuperar nossa nação de [url=glossary:kyros]Kyros[/url] e do antigo Regente. Colocar o [url=glossary:unbroken]ininterrupto[/url] dentro de Posto de Sentinela seria um passo na direção certa."</DefaultText>
+      <DefaultText>"Precisa tanto de nós do seu lado, não é?" Janos ri. "Nós somose tentando recuperar nossa nação de [url=glossary:kyros]Kyros[/url] e do antigo Regente. Colocar o [url=glossary:unbroken]Inquebrável[/url] dentro de Posto de Sentinela seria um passo na direção certa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -268,7 +268,7 @@
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Não perca a esperança, impaciente. Tenho certeza que você pode influenciar o [url=glossary:unbroken]ininterrupto[/url] para sua causa, mas precisamos de algo de você primeiro - acesso ao Posto de Sentinela Keep, e o velho Regente que se agacha atrás das paredes em terror."</DefaultText>
+      <DefaultText>"Não perca a esperança, impaciente. Tenho certeza que você pode influenciar o [url=glossary:unbroken]Inquebrável[/url] para sua causa, mas precisamos de algo de você primeiro - acesso ao Posto de Sentinela Keep, e o velho Regente que se agacha atrás das paredes em terror."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -278,12 +278,12 @@
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Estou aqui para matar Straydus Herodin por [url=glossary:graven ashe]Cinza esculpida[/url]."</DefaultText>
+      <DefaultText>"Estou aqui para matar Straydus Herodin por [url=glossary:graven ashe]Cinza Esculpida[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Estou procurando a filha de [url=glossary:graven ashe]Cinza esculpida[/url], Amélia. Há rumores de que ela está lá dentro."</DefaultText>
+      <DefaultText>"Estou procurando a filha de [url=glossary:graven ashe]Cinza Esculpida[/url], Amélia. Há rumores de que ela está lá dentro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -293,21 +293,21 @@
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"É mesmo? Os [url=glossary:scarlet chorus]Coro Escarlate[/url] deixaram este território em paz. É uma surpresa que eles enviem tropas para [url=glossary:disfavored]Desfavorecido[/url]-terras ocupadas para buscar um prisioneiro de guerra." "Não consigo imaginar o que [url=glossary:the voices of nerat]o Vozes de Nerat[/url] quer sair da Ashe filha. Se ele te despachou para a tarefa, ela deve ser algo especial.</DefaultText>
+      <DefaultText>"É mesmo? Os [url=glossary:scarlet chorus]Coro Escarlate[/url] deixaram este território em paz. É uma surpresa que eles enviem tropas para [url=glossary:disfavored]Desfavorecido[/url]-terras ocupadas para buscar um prisioneiro de guerra." "Não consigo imaginar o que [url=glossary:the voices of nerat]As Vozes de Nerat[/url] quer sair da Cinza filha. Se ele te despachou para a tarefa, ela deve ser algo especial.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
       <DefaultText>"Atirar-se contra a parede de vento vem à mente. Dê alguns passos para dentro e veja quanto tempo leva para o vento te reduzir a um esqueleto." 
 
-"Eu adoraria ficar e conversar, mas já é hora de informar sua presença ao meu superior Policial. Vejo você, Fatebinder! Embora você possa não me ver." 
+"Eu adoraria ficar e conversar, mas já é hora de informar sua presença ao meu superior Policial. Vejo você, Vinculador do Destino! Embora você possa não me ver." 
 
 Ele se esconde atrás do parapeito e desaparece na escuridão da tempestade.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Maldito seja esse vaidoso miserável do sul!" Rativek cospe. "Os [url=glossary:unbroken]ininterrupto[/url] conhecem o território melhor do que nós e aproveitam todas as oportunidades para exibi-lo." "O que aquele batedor estava fazendo aqui? Olhar, há um cadáver na parede. Pode suportar um olhar mais atento. Não sei dizer daqui, mas acho que está usando [url=glossary:disfavored]Desfavorecido[/url] cores."</DefaultText>
+      <DefaultText>"Maldito seja esse vaidoso miserável do sul!" Rativek cospe. "Os [url=glossary:unbroken]Inquebrável[/url] conhecem o território melhor do que nós e aproveitam todas as oportunidades para exibi-lo." "O que aquele batedor estava fazendo aqui? Olhar, há um cadáver na parede. Pode suportar um olhar mais atento. Não sei dizer daqui, mas acho que está usando [url=glossary:disfavored]Desfavorecido[/url] cores."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -317,7 +317,7 @@ Ele se esconde atrás do parapeito e desaparece na escuridão da tempestade.</De
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Mattias? Achei que você estivesse em campo com..." Ele para e franze a testa, olhando para o ex-capitão [url=glossary:unbroken]ininterrupto[/url] com um escrutínio mais atento. 
+      <DefaultText>"Mattias? Achei que você estivesse em campo com..." Ele para e franze a testa, olhando para o ex-capitão [url=glossary:unbroken]Inquebrável[/url] com um escrutínio mais atento. 
 
 "Eu não esperava encontrar você na companhia de um Vinculador do Destino."</DefaultText>
       <FemaleText />
@@ -338,7 +338,7 @@ Ele se esconde atrás do parapeito e desaparece na escuridão da tempestade.</De
       <ID>70</ID>
       <DefaultText>"Não posso fingir que aprovo sua decisão, Mattias. Se eu tivesse servido em sua unidade, teríamos tomado... uma direção diferente." Ele franze a testa com pena. 
 
-"O [url=glossary:unbroken]ininterrupto[/url] durará com ou sem você. Eu só espero que você encontre alguma paz no exército de [url=glossary:kyros]Kyros[/url]... apenas tente não me cruzar em nenhum campo de batalha." 
+"O [url=glossary:unbroken]Inquebrável[/url] durará com ou sem você. Eu só espero que você encontre alguma paz no exército de [url=glossary:kyros]Kyros[/url]... apenas tente não me cruzar em nenhum campo de batalha." 
 
 O batedor se vira para você. "Você desfilou seu novo recruta até aqui para zombar de nós, ou você tem negócios em Posto de Sentinela?"</DefaultText>
       <FemaleText />
@@ -350,14 +350,14 @@ O batedor se vira para você. "Você desfilou seu novo recruta até aqui para zo
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Sim, já ouvi falar, mas a tarefa me parece uma tarefa tola. Um dos regentes de Stalwart carregou a Destemido durante a guerra, mas os ventos ou alguma batalha levaram a espada para lugares desconhecidos. Dificilmente surpreendente. Em sua força total, esses ventos podem tirar pele de osso." 
+      <DefaultText>"Sim, já ouvi falar, mas a tarefa me parece uma tarefa tola. Um dos regentes de Robusto carregou a Destemido durante a guerra, mas os ventos ou alguma batalha levaram a espada para lugares desconhecidos. Dificilmente surpreendente. Em sua força total, esses ventos podem tirar pele de osso." 
 
 Ele gesticula para um corpo despojado a seus pés. "Venha aqui se você duvida. Não é uma visão bonita."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Eu teria imaginado que você procurou a entrada do Posto Sentinela e o preso nortistas, como [url=glossary:graven ashe]Cinza esculpida[/url] e seus encouraçados." Ele franze os lábios em pensamento. "Adivinhei errado." "A menos que você tenha vindo ao [url=glossary:blade grave]Sepultura de Lâminas[/url] para matar o último Regente e acabar com o [url=glossary:edict]Edital[/url] de Tempestades , os [url=glossary:unbroken]ininterrupto[/url] não têm motivos para ajudá-lo."</DefaultText>
+      <DefaultText>"Eu teria imaginado que você procurou a entrada do Posto Sentinela e o preso nortistas, como [url=glossary:graven ashe]Cinza Esculpida[/url] e seus encouraçados." Ele franze os lábios em pensamento. "Adivinhei errado." "A menos que você tenha vindo ao [url=glossary:blade grave]Sepultura de Lâminas[/url] para matar o último Regente e acabar com o [url=glossary:edict]Edital[/url] de Tempestades , os [url=glossary:unbroken]Inquebrável[/url] não têm motivos para ajudá-lo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -372,7 +372,7 @@ Ele gesticula para um corpo despojado a seus pés. "Venha aqui se você duvida. 
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Temos um bom soldado de CrepúsculoForte com o nome de Agatão. Ele provavelmente saberia mais sobre Mattias e a caça ao Destemido. A área ao redor de Crepúsculo está cheia de armaduras de [url=glossary:graven ashe]Cinza esculpida[/url], então pise levemente. Se você puder ajudar Agatão a despachá-los, melhor ainda." O batedor inclina a cabeça e se afasta do parapeito, desaparecendo na obscuridade da tempestade.</DefaultText>
+      <DefaultText>"Temos um bom soldado de CrepúsculoForte com o nome de Agatão. Ele provavelmente saberia mais sobre Mattias e a caça ao Destemido. A área ao redor de Crepúsculo está cheia de armaduras de [url=glossary:graven ashe]Cinza Esculpida[/url], então pise levemente. Se você puder ajudar Agatão a despachá-los, melhor ainda." O batedor inclina a cabeça e se afasta do parapeito, desaparecendo na obscuridade da tempestade.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -382,9 +382,9 @@ Ele gesticula para um corpo despojado a seus pés. "Venha aqui se você duvida. 
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Agora você sabe o que estamos enfrentando. agradecidamente, tenho uma pista para nos fazer atravessar o windwall até Posto de Sentinela." 
+      <DefaultText>"Agora você sabe o que estamos enfrentando. agradecidamente, tenho uma pista para nos fazer atravessar o quebra-vento até Posto de Sentinela." 
 
-"Um [url=glossary:unbroken]ininterrupto[/url] tenente chamado Elia está estacionado em Desfiladeiros de Ferrugem. Antes que Jagged Remedy me pegasse em suas garras, despachei Elia junto com meus melhores soldados para caçar Regente heranças perdidas durante a guerra."</DefaultText>
+"Um [url=glossary:unbroken]Inquebrável[/url] tenente chamado Elia está estacionado em Desfiladeiros de Ferrugem. Antes que Jagged Remedy me pegasse em suas garras, despachei Elia junto com meus melhores soldados para caçar Regente heranças perdidas durante a guerra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -411,7 +411,7 @@ Ele gesticula para um corpo despojado a seus pés. "Venha aqui se você duvida. 
       <ID>84</ID>
       <DefaultText>"Eles têm história suficiente para convencer até mesmo esse velho cético. Diz-se que o amuleto Nunca-Drowned dividiu as ondas durante conflitos antigos com o ilhéu Homens-fera." 
 
-"Existem itens de poder igualmente impressionantes fora de Robusto é claro, embora apenas pessoas notáveis os carreguem . Eu só ouvi isso da gangue Remédio irregular, mas [url=glossary:the voices of nerat]o Vozes de Nerat[/url] empunha um cetro chamado Grito Final. Dizem que causa confusão quando você fica muito perto do Arconte." Ele estremece.</DefaultText>
+"Existem itens de poder igualmente impressionantes fora de Robusto é claro, embora apenas pessoas notáveis os carreguem . Eu só ouvi isso da gangue Remédio irregular, mas [url=glossary:the voices of nerat]As Vozes de Nerat[/url] empunha um cetro chamado Grito Final. Dizem que causa confusão quando você fica muito perto do Arconte." Ele estremece.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -421,8 +421,8 @@ Ele gesticula para um corpo despojado a seus pés. "Venha aqui se você duvida. 
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"Você não se parece com o típico exército de [url=glossary:kyros]Kyros[/url]', mas você também não é filho de Robusto." Ele aperta os olhos para suas roupas e pega sua medir. "Não... você é o Vinculador do Destino que ultrapassou o [url=glossary:vendrien guard]Guarda Vendrien[/url]? Acho que você vai encontrar lá no windwall uma noz mais difícil de quebrar do que a Ápice cidadela." Ele ri.</DefaultText>
-      <FemaleText>"Você não se parece com as fileiras típicas do exército [url=glossary:kyros]Kyros[/url]', mas você também não é filha de Robusto." Ele aperta os olhos para suas roupas e pega sua medir. "Não... você é o Vinculador do Destino que ultrapassou o [url=glossary:vendrien guard]Guarda Vendrien[/url]? Acho que você vai encontrar lá no windwall uma noz mais difícil de quebrar do que a Ápice cidadela." Ele ri.</FemaleText>
+      <DefaultText>"Você não se parece com o típico exército de [url=glossary:kyros]Kyros[/url], mas você também não é filho de Robusto." Ele aperta os olhos para suas roupas e pega sua medir. "Não... você é o Vinculador do Destino que ultrapassou o [url=glossary:vendrien guard]Guarda Vendrien[/url]? Acho que você vai encontrar lá no quebra-vento uma noz mais difícil de quebrar do que a Ápice cidadela." Ele ri.</DefaultText>
+      <FemaleText>"Você não se parece com as fileiras típicas do exército de [url=glossary:kyros]Kyros[/url], mas você também não é filha de Robusto." Ele aperta os olhos para suas roupas e pega sua medir. "Não... você é o Vinculador do Destino que ultrapassou o [url=glossary:vendrien guard]Guarda Vendrien[/url]? Acho que você vai encontrar lá no quebra-vento uma noz mais difícil de quebrar do que a Ápice cidadela." Ele ri.</FemaleText>
     </Entry>
     <Entry>
       <ID>88</ID>
@@ -436,7 +436,7 @@ Ele gesticula para um corpo despojado a seus pés. "Venha aqui se você duvida. 
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Bom. Eu não me preocupo com os assuntos de [url=glossary:kyros]Kyros[/url]' grunhidos, embora eu ficaria surpreso se você conseguisse algo no [url=glossary:blade grave]Sepultura de Lâminas[/url]. Essas tempestades tornam impossível respirar direito, muito menos pensar direito."</DefaultText>
+      <DefaultText>"Bom. Eu não me preocupo com os assuntos de grunhidos de [url=glossary:kyros]Kyros[/url], embora eu ficaria surpreso se você conseguisse algo no [url=glossary:blade grave]Sepultura de Lâminas[/url]. Essas tempestades tornam impossível respirar direito, muito menos pensar direito."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -451,12 +451,12 @@ Ele gesticula para um corpo despojado a seus pés. "Venha aqui se você duvida. 
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Por que o [url=glossary:unbroken]ininterrupto[/url] odeia Straydus Herodin?"</DefaultText>
+      <DefaultText>"Por que o [url=glossary:unbroken]Inquebrável[/url] odeia Straydus Herodin?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Você sabe alguma coisa sobre a filha de [url=glossary:graven ashe]Cinza esculpida[/url], Amelia?"</DefaultText>
+      <DefaultText>"Você sabe alguma coisa sobre a filha de [url=glossary:graven ashe]Cinza Esculpida[/url], Amelia?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -478,12 +478,12 @@ Ele gesticula para um corpo despojado a seus pés. "Venha aqui se você duvida. 
       <ID>100</ID>
       <DefaultText>"Ele é um velho covarde que se esconde atrás de seus soldados e não possui nenhum dos valores que ele martela nos outros."
 
-"Oh, desculpe - eu estava falando sobre [url=glossary:graven ashe]Cinza esculpida[/url]!" Janos faz um sinal grosseiro com os dedos.</DefaultText>
+"Oh, desculpe - eu estava falando sobre [url=glossary:graven ashe]Cinza Esculpida[/url]!" Janos faz um sinal grosseiro com os dedos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>"Herodin é uma relíquia do passado, e estamos olhando para o futuro. Não temos nenhuma esperança de escapar do polegar [url=glossary:kyros]Kyros[/url]' enquanto o velho Regente aproveita seus anos crepusculares bebendo vinho empoeirado e se escondendo da guerra."</DefaultText>
+      <DefaultText>"Herodin é uma relíquia do passado, e estamos olhando para o futuro. Não temos nenhuma esperança de escapar do polegar de [url=glossary:kyros]Kyros[/url] enquanto o velho Regente aproveita seus anos crepusculares bebendo vinho empoeirado e se escondendo da guerra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -498,7 +498,7 @@ Ele gesticula para um corpo despojado a seus pés. "Venha aqui se você duvida. 
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"Você não sabe de nada? A desgraça são atraídos para [url=glossary:kyros]Kyros[/url]' magia como moscas ao redor de um cadáver. Toda esta região está poluída com o fedor Soberano - em nenhum lugar mais do que a parede de vento diante de nós."
+      <DefaultText>"Você não sabe de nada? A desgraça são atraídos para magia de [url=glossary:kyros]Kyros[/url] como moscas ao redor de um cadáver. Toda esta região está poluída com o fedor Soberano - em nenhum lugar mais do que a parede de vento diante de nós."
 
 "Cuide-se com as garras deles, Vinculador do Destino. Diz-se que uma vez que o Maldito tem você em suas garras, eles nunca o soltam."</DefaultText>
       <FemaleText />
@@ -515,7 +515,7 @@ Ele gesticula para um corpo despojado a seus pés. "Venha aqui se você duvida. 
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"Os Regentes eram nossa família real. Eles governaram o antigo Robusto, protegeram nossas fronteiras e reuniram nossos exércitos quando necessário. [url=glossary:kyros]Kyros[/url]' açougueiros deixaram apenas um Regente em pé, e ele é tão inútil quanto um bigode em um martelo."</DefaultText>
+      <DefaultText>"Os Regentes eram nossa família real. Eles governaram o antigo Robusto, protegeram nossas fronteiras e reuniram nossos exércitos quando necessário. Açougueiros de [url=glossary:kyros]Kyros[/url] deixaram apenas um Regente em pé, e ele é tão inútil quanto um bigode em um martelo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -535,7 +535,7 @@ Ele gesticula para um corpo despojado a seus pés. "Venha aqui se você duvida. 
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"Não que você deva se preocupar demais com o último Regente... o [url=glossary:edict]Edital[/url] está tornando a guerra um desafio impossível para [url=glossary:graven ashe]Cinza esculpida[/url] e sua legião de couraçados . Tenho certeza que só de pensar nisso deixa [url=glossary:the voices of nerat]o Vozes de Nerat[/url] tonto."</DefaultText>
+      <DefaultText>"Não que você deva se preocupar demais com o último Regente... o [url=glossary:edict]Edital[/url] está tornando a guerra um desafio impossível para [url=glossary:graven ashe]Cinza Esculpida[/url] e sua legião de couraçados . Tenho certeza que só de pensar nisso deixa [url=glossary:the voices of nerat]As Vozes de Nerat[/url] tonto."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -562,7 +562,7 @@ Ele gesticula para um corpo despojado a seus pés. "Venha aqui se você duvida. 
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"Tínhamos um palpite de que um pedaço do arsenal Regente poderia enviar uma força militar através do tornado em torno de Posto de Sentinela ileso. Se isso fosse verdade, teríamos usado para cruzar a barreira, matar Straydus Herodin e acabar com o [url=glossary:edict]Edital[/url] de Tempestades." Ele franze a testa. "Eu não imagino que você terminará o [url=glossary:edict]Edital[/url] no futuro próximo, embora... não enquanto [url=glossary:graven ashe]Cinza esculpida[/url] ocupar a região."</DefaultText>
+      <DefaultText>"Tínhamos um palpite de que um pedaço do arsenal Regente poderia enviar uma força militar através do tornado em torno de Posto de Sentinela ileso. Se isso fosse verdade, teríamos usado para cruzar a barreira, matar Straydus Herodin e acabar com o [url=glossary:edict]Edital[/url] de Tempestades." Ele franze a testa. "Eu não imagino que você terminará o [url=glossary:edict]Edital[/url] no futuro próximo, embora... não enquanto [url=glossary:graven ashe]Cinza Esculpida[/url] ocupar a região."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -586,7 +586,7 @@ Seus ombros caem com resignação.</DefaultText>
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>O batedor levanta a sobrancelha. "Essa não é uma afirmação que ouço frequentemente dos servos do soberano. Claro, se você acha que pode acabar com o [url=glossary:edict]Edital[/url], você terá que entrar no Posto Sentinela para fazer isso..." Ele acena na direção geral dos ventos rodopiantes . "[url=glossary:kyros]Kyros[/url]' a raiva tem estado furiosa sem pausa no último ano. Já é ruim o suficiente que ninguém possa entrar ou sair da fortaleza interna."</DefaultText>
+      <DefaultText>O batedor levanta a sobrancelha. "Essa não é uma afirmação que ouço frequentemente dos servos do soberano. Claro, se você acha que pode acabar com o [url=glossary:edict]Edital[/url], você terá que entrar no Posto Sentinela para fazer isso..." Ele acena na direção geral dos ventos rodopiantes . "a raiva de [url=glossary:kyros]Kyros[/url] tem estado furiosa sem pausa no último ano. Já é ruim o suficiente que ninguém possa entrar ou sair da fortaleza interna."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -623,7 +623,7 @@ Lantry acena com a cabeça em aprovação enquanto transcreve a discussão.</Def
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>"Minha honra está acima de qualquer dúvida ou censura. Dizer o contrário seria desprezar o cuidadoso recrutamento de [url=glossary:graven ashe]Cinza esculpida[/url]."</DefaultText>
+      <DefaultText>"Minha honra está acima de qualquer dúvida ou censura. Dizer o contrário seria desprezar o cuidadoso recrutamento de [url=glossary:graven ashe]Cinza Esculpida[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -708,12 +708,12 @@ Lantry acena com a cabeça em aprovação enquanto transcreve a discussão.</Def
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>"Estou aqui para recrutar novos amigos para [url=glossary:the voices of nerat]o Vozes de Nerat[/url]."</DefaultText>
+      <DefaultText>"Estou aqui para recrutar novos amigos para [url=glossary:the voices of nerat]As Vozes de Nerat[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>Ele faz uma careta. "E você pensou que as ruínas da Posto de Sentinela parede externa - ou qualquer lugar exposto, francamente - estariam cheias de moradores ansiosos para se comprometer com o [url=glossary:kyros]Kyros[/url]' exército? Eu sei que vocês Norte tendem a pensar em nós como crédulos, mas não somos tão ruins assim."
+      <DefaultText>Ele faz uma careta. "E você pensou que as ruínas da Posto de Sentinela parede externa - ou qualquer lugar exposto, francamente - estariam cheias de moradores ansiosos para se comprometer com o exército de [url=glossary:kyros]Kyros[/url]? Eu sei que vocês Norte tendem a pensar em nós como crédulos, mas não somos tão ruins assim."
 
 "Você não teria vindo a menos que tivesse um projeto ao entrar Posto de Sentinela."</DefaultText>
       <FemaleText />
@@ -740,7 +740,7 @@ Lantry acena com a cabeça em aprovação enquanto transcreve a discussão.</Def
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>"Por que você está interessado - quer enfiar uma lança em alguns dos Ashe melhores? Não que eu te culpe. Estou ansioso pela oportunidade."</DefaultText>
+      <DefaultText>"Por que você está interessado - quer enfiar uma lança em alguns dos Cinza melhores? Não que eu te culpe. Estou ansioso pela oportunidade."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -760,9 +760,9 @@ Lantry acena com a cabeça em aprovação enquanto transcreve a discussão.</Def
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url] decretou que as tempestades persistiriam até que o último dos Stalwart's governantes morresse. Foi um castigo pela Regente arrogância durante a última grande batalha da guerra." 
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] decretou que as tempestades persistiriam até que o último dos Robustos governantes morresse. Foi um castigo pela Regente arrogância durante a última grande batalha da guerra." 
 
-Ele olha para Janos com saudade. "Eu reuni o último dos [url=glossary:unbroken]ininterrupto[/url] com a esperança de matar o Regente nós mesmos. Ainda me agarro à minha esperança, embora agora lute sob uma bandeira diferente."</DefaultText>
+Ele olha para Janos com saudade. "Eu reuni o último dos [url=glossary:unbroken]Inquebrável[/url] com a esperança de matar o Regente nós mesmos. Ainda me agarro à minha esperança, embora agora lute sob uma bandeira diferente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -774,12 +774,12 @@ Inclinando a cabeça, o batedor dá um passo para trás e desaparece sobre o par
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>"Elia e seus [url=glossary:unbroken]ininterrupto[/url] necrófagos devem ter produzido algo de valor agora - talvez até algo que possamos usar para abrir caminho através da tempestade. Não saberemos com certeza, a menos que você verifique o progresso dela."</DefaultText>
+      <DefaultText>"Elia e seus [url=glossary:unbroken]Inquebrável[/url] necrófagos devem ter produzido algo de valor agora - talvez até algo que possamos usar para abrir caminho através da tempestade. Não saberemos com certeza, a menos que você verifique o progresso dela."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>"Só ter um pode inspirar seguidores ou fazer você balançar uma espada com mais força. Muito do Stalwart's orgulho nacional estava envolvido nessas Regente heranças, embora é claro que elas estejam espalhadas e quase perdidas..."</DefaultText>
+      <DefaultText>"Só ter um pode inspirar seguidores ou fazer você balançar uma espada com mais força. Muito do Robustos orgulho nacional estava envolvido nessas Regente heranças, embora é claro que elas estejam espalhadas e quase perdidas..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -801,7 +801,7 @@ Ele balança a cabeça e suspira. "As coisas que faço para Robusto."</DefaultTe
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>[[url=glossary:edict]Edital[/url] of Incêndio] "Dizer o que preciso saber antes de liberar [url=glossary:kyros]Kyros[/url]' magia em você em um dilúvio de chamas!"</DefaultText>
+      <DefaultText>[[url=glossary:edict]Edital[/url] of Incêndio] "Dizer o que preciso saber antes de liberar a magia de [url=glossary:kyros]Kyros[/url] em você em um dilúvio de chamas!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -811,12 +811,12 @@ Ele balança a cabeça e suspira. "As coisas que faço para Robusto."</DefaultTe
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>[[url=glossary:edict]Edital[/url] de Incêndio] "Resolvi [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] no [url=glossary:burning library]Biblioteca em chamas[/url] . Isso deve contar para alguma coisa."</DefaultText>
+      <DefaultText>[[url=glossary:edict]Edital[/url] de Incêndio] "Resolvi [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] no [url=glossary:burning library]Biblioteca em chamas[/url] . Isso deve contar para alguma coisa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>"Talvez sim. Você não está amarrado às cordas do avental [url=glossary:kyros]Kyros[/url]' tão firmemente quanto antes, está? Ainda, você me parece um daqueles que fazem as coisas certas pelos motivos errados, certo?"</DefaultText>
+      <DefaultText>"Talvez sim. Você não está amarrado às cordas do avental de [url=glossary:kyros]Kyros[/url] tão firmemente quanto antes, está? Ainda, você me parece um daqueles que fazem as coisas certas pelos motivos errados, certo?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -851,12 +851,12 @@ Ele balança a cabeça e suspira. "As coisas que faço para Robusto."</DefaultTe
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>"É mais atraente que o [url=glossary:edict]Edital[/url] de Pedra, eu garanto, embora eu não estivesse lá para assistir aquele colapso em torno de [url=glossary:cairn]Cairn[/url]' s permanece. Acho que você tem essa distinção."</DefaultText>
+      <DefaultText>"É mais atraente que o [url=glossary:edict]Edital[/url] de Pedra, eu garanto, embora eu não estivesse lá para assistir aquele colapso em torno de [url=glossary:cairn]Cairn[/url] permanece. Acho que você tem essa distinção."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>"Perseverence abriu o Pináculo do Pôr do Sol. Vai quebrar Stalwart's pequena parede de vento."</DefaultText>
+      <DefaultText>"Perseverence abriu o Pináculo do Pôr do Sol. Vai quebrar Robustos pequena parede de vento."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -871,7 +871,7 @@ Ele balança a cabeça e suspira. "As coisas que faço para Robusto."</DefaultTe
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>"Sempre me perguntei se o ar estava mais limpo no topo do Pináculos. Acho que você está se familiarizando muito com eles, se a palavra que ouço de [url=glossary:lethian's crossing]A travessia de Lethian[/url] é alguma indicação."</DefaultText>
+      <DefaultText>"Sempre me perguntei se o ar estava mais limpo no topo do Pináculos. Acho que você está se familiarizando muito com eles, se a palavra que ouço de [url=glossary:lethian's crossing]A Travessia de Lethian[/url] é alguma indicação."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

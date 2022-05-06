@@ -38,7 +38,7 @@
       <ID>8</ID>
       <DefaultText>Para começar a criar um feitiço, selecione o símbolo Testemunho para o tipo de magia seguido pelo Sigilo de Expressão para determinar a forma do feitiço. Por exemplo, se você quisesse criar um Feitiço de bola de fogo, você selecionaria o Sigil of Flame como o Testemunho, seguido pelo Sigilo da Força Dirigida para determinar sua forma.
 
-Feitiços têm nomes padrão baseados no #990001 selecionado #. Você pode renomear seus feitiços usando a interface de feitiços.</DefaultText>
+Feitiços têm nomes padrão com base no Núcleo e na Expressão selecionados. Você pode renomear seus feitiços usando a interface de feitiços.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -291,7 +291,7 @@ Imprensa [keymap=CHARACTER_SHEET] para abrir o Ficha de Personagem e ver sua exp
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>Os Tiers são um lugar perigoso cheio de inimigos à espreita e segredos cuidadosamente escondidos. Habilitar [url=glossary:scouting]Escotismo[/url] Modo pressionando [keymap=STEALTH_TOGGLE] para se mover furtivamente e procurar objetos escondidos como armadilhas e recipientes escondidos. A habilidade de um personagem de encontrar objetos escondidos é baseada em sua habilidade [url=glossary:subterfuge]Subterfúgio[/url]. Um [url=glossary:subterfuge]Subterfúgio[/url] mais alto permite que eles encontrem objetos a uma distância maior, bem como aqueles que estão escondidos de maneira mais inteligente.</DefaultText>
+      <DefaultText>Os Camadas são um lugar perigoso cheio de inimigos à espreita e segredos cuidadosamente escondidos. Habilitar [url=glossary:scouting]Escotismo[/url] Modo pressionando [keymap=STEALTH_TOGGLE] para se mover furtivamente e procurar objetos escondidos como armadilhas e recipientes escondidos. A habilidade de um personagem de encontrar objetos escondidos é baseada em sua habilidade [url=glossary:subterfuge]Subterfúgio[/url]. Um [url=glossary:subterfuge]Subterfúgio[/url] mais alto permite que eles encontrem objetos a uma distância maior, bem como aqueles que estão escondidos de maneira mais inteligente.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -475,7 +475,7 @@ Vários talentos concederão bônus ao seu personagem ao atacar furtivamente.</D
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>Você adquiriu seu primeiro Pináculo! Este Spire será sua base enquanto você se aventura pelas terras de [url=glossary:kyros]Kyros[/url]' Camadas. Seu pináculo oferece um local gratuito para descansar e se recuperar de suas viagens. Ao adquirir mais Pináculos, você descobrirá funcionalidades adicionais.</DefaultText>
+      <DefaultText>Você adquiriu seu primeiro Pináculo! Este Spire será sua base enquanto você se aventura pelas terras de [url=glossary:kyros]Kyros[/url] Camadas. Seu pináculo oferece um local gratuito para descansar e se recuperar de suas viagens. Ao adquirir mais Pináculos, você descobrirá funcionalidades adicionais.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -485,7 +485,7 @@ Vários talentos concederão bônus ao seu personagem ao atacar furtivamente.</D
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>Final [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] on [url=glossary:vendrien's well]Poço de Vendrien[/url] encheu você de muito poder! Esse sem dúvida será útil enquanto você viaja pelo Camadas. Você deve investigar as origens desse poder e encontrar maneiras de adquirir mais.</DefaultText>
+      <DefaultText>Final [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] on [url=glossary:vendrien's well]Poço de Vendrien[/url] encheu você de muito poder! Esse sem dúvida será útil enquanto você viaja pelo Camadas. Você deve investigar as origens desse poder e encontrar maneiras de adquirir mais.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -495,7 +495,7 @@ Vários talentos concederão bônus ao seu personagem ao atacar furtivamente.</D
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>O poder que você ganhou ao terminar [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] em [url=glossary:vendrien's well]Poço de Vendrien[/url] pode ser canalizado em suas habilidades de combinação com seus companheiros. Todos os seus combos ficaram mais poderosos como resultado. Talvez você descubra maneiras adicionais de usar esse poder enquanto se aventura pelo Camadas!</DefaultText>
+      <DefaultText>O poder que você ganhou ao terminar [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] em [url=glossary:vendrien's well]Poço de Vendrien[/url] pode ser canalizado em suas habilidades de combinação com seus companheiros. Todos os seus combos ficaram mais poderosos como resultado. Talvez você descubra maneiras adicionais de usar esse poder enquanto se aventura pelo Camadas!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -525,7 +525,7 @@ Vários talentos concederão bônus ao seu personagem ao atacar furtivamente.</D
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>Existem cinco recursos que você pode encontrar em [url=glossary:kyros]Kyros[/url]' Níveis que podem ser usados para aprimorar o seu Pináculo. São eles: Pergaminhos, Lingotes de Ferro, Lingotes de Bronze, Suprimentos de alquimia e Esconder. Cada atualização usa recursos diferentes.</DefaultText>
+      <DefaultText>Existem cinco recursos que você pode encontrar em Camadas de [url=glossary:kyros]Kyros[/url] que podem ser usados para aprimorar o seu Pináculo. São eles: Pergaminhos, Lingotes de Ferro, Lingotes de Bronze, Suprimentos de alquimia e Esconder. Cada atualização usa recursos diferentes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -595,7 +595,7 @@ Vários talentos concederão bônus ao seu personagem ao atacar furtivamente.</D
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>Você recebeu uma missiva! Missivas são mensagens curtas transportadas por pássaros entre partes distantes de [url=glossary:kyros]Kyros[/url]' Império. Clique no ícone da missiva ou pressione [keymap=MISSIVES] para abrir a interface da missiva e ler sua mensagem.</DefaultText>
+      <DefaultText>Você recebeu uma missiva! Missivas são mensagens curtas transportadas por pássaros entre partes distantes de [url=glossary:kyros]Kyros[/url] Império. Clique no ícone da missiva ou pressione [keymap=MISSIVES] para abrir a interface da missiva e ler sua mensagem.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -770,12 +770,12 @@ Usar uma poção de saúde é uma ação instantânea - os benefícios se aplica
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>[url=glossary:kyros]Kyros[/url]' Dia de Espadas</DefaultText>
+      <DefaultText>[url=lore:kyros_day_swords]Dia de Espadas[/url] de [url=glossary:kyros]Kyros[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>Agora que você entregou a palavra de [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] aos exércitos, o tempo restante até [url=glossary:kyros]Kyros[/url]' Dia de Espadas aparece ao lado de a data atual na barra de navegação. Os termos de [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] devem ser cumpridos até esta data, ou todos em [url=glossary:vendrien's well]Poço de Vendrien[/url] morrerão.</DefaultText>
+      <DefaultText>Agora que você entregou a palavra de [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] aos exércitos, o tempo restante até [url=lore:kyros_day_swords]Dia de Espadas[/url] de [url=glossary:kyros]Kyros[/url] aparece ao lado de a data atual na barra de navegação. Os termos de [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] devem ser cumpridos até esta data, ou todos em [url=glossary:vendrien's well]Poço de Vendrien[/url] morrerão.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

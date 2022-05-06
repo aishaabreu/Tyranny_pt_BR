@@ -8,7 +8,7 @@
       <ID>1</ID>
       <DefaultText>"Minha esposa está morta!" Ela coloca o rosto nas mãos e soluça. "Pobre Fedra..." 
 
-Ela afasta as mãos, uma paixão feroz em seus olhos. "Ela foi morta pelo [url=glossary:bronze brotherhood]Irmandade de Bronze[/url]! Esse não pode ficar de pé! Exijo uma Fatebinder justiça!"</DefaultText>
+Ela afasta as mãos, uma paixão feroz em seus olhos. "Ela foi morta pelo [url=glossary:bronze brotherhood]Irmandade de Bronze[/url]! Esse não pode ficar de pé! Exijo uma Vinculador do Destino justiça!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -45,7 +45,7 @@ Ela afasta as mãos, uma paixão feroz em seus olhos. "Ela foi morta pelo [url=g
       <ID>8</ID>
       <DefaultText>"Você perdeu sua mãe para a guerra? Pode ser ver seu pai ser forçado a cavar a própria cova?" Ela cospe em você, com as mãos levantadas em gestos fálicos.
 
-"Cadá sem coração! Você marcha para o sul, carregando bandeiras [url=glossary:kyros]Kyros[/url]', dizendo que é para nosso próprio bem - e ainda assim você não pode nos proteger de espadas comuns de venda!"</DefaultText>
+"Cadá sem coração! Você marcha para o sul, carregando bandeiras de [url=glossary:kyros]Kyros[/url], dizendo que é para nosso próprio bem - e ainda assim você não pode nos proteger de espadas comuns de venda!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -130,7 +130,7 @@ Após um momento de pensamento silencioso, ela respira fundo e olha para você c
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Obrigado Fatebinder. Obrigado de todo meu coração! Todo o assentamento vai apodrecer, mas eu encontrei um momento de paz."
+      <DefaultText>"Obrigado Vinculador do Destino. Obrigado de todo meu coração! Todo o assentamento vai apodrecer, mas eu encontrei um momento de paz."
 
 Sua mão emerge da dobra de sua túnica, alguns anéis agarrados em sua mão trêmula.
 
@@ -139,7 +139,7 @@ Sua mão emerge da dobra de sua túnica, alguns anéis agarrados em sua mão tr�
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>"Obrigado Fatebinder. Obrigado de todo meu coração! Todo o assentamento vai apodrecer, mas eu encontrei um momento de paz."
+      <DefaultText>"Obrigado Vinculador do Destino. Obrigado de todo meu coração! Todo o assentamento vai apodrecer, mas eu encontrei um momento de paz."
 
 Sua mão emerge da dobra de sua túnica, alguns anéis agarrados em sua mão trêmula.
 
@@ -180,7 +180,7 @@ O rosto de Deya muda de corado para estóico em um piscar de olhos. Ela cruza os
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Fatebinder!" Deya grita por você. "Preciso da sua ajuda! Isso é terrível!" Sua voz falha e ela passa a mão nos olhos.</DefaultText>
+      <DefaultText>"Vinculador do Destino!" Deya grita por você. "Preciso da sua ajuda! Isso é terrível!" Sua voz falha e ela passa a mão nos olhos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -200,7 +200,7 @@ O rosto de Deya muda de corado para estóico em um piscar de olhos. Ela cruza os
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Fatebinder!" A mulher loira parada perto da esquina do prédio grita para você quando você passa. "Preciso da sua ajuda! Isso é terrível!" Sua voz falha e ela passa a mão nos olhos.</DefaultText>
+      <DefaultText>"Vinculador do Destino!" A mulher loira parada perto da esquina do prédio grita para você quando você passa. "Preciso da sua ajuda! Isso é terrível!" Sua voz falha e ela passa a mão nos olhos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -381,7 +381,7 @@ Ela se curva brevemente para você antes de voltar para sua casa.</DefaultText>
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Multar. Se Sandro não te disse, Phaedra era neta de Lethiano. O que significa que ela possuía essencialmente [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Todo mês, ela coletava dos comerciantes e usava os anéis para manter as áreas do mercado para seu uso."</DefaultText>
+      <DefaultText>"Multar. Se Sandro não te disse, Phaedra era neta de Lethiano. O que significa que ela possuía essencialmente [url=glossary:lethian's crossing]A Travessia de Lethian[/url]. Todo mês, ela coletava dos comerciantes e usava os anéis para manter as áreas do mercado para seu uso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -416,7 +416,7 @@ Ela se curva brevemente para você antes de voltar para sua casa.</DefaultText>
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Eu originalmente não estava planejando fazer isso sozinho. Fedra deveria morrer quando [url=glossary:kyros]Kyros[/url]' exércitos chegaram a [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Essa foi a única razão pela qual me casei com o pequeno idiota."</DefaultText>
+      <DefaultText>"Eu originalmente não estava planejando fazer isso sozinho. Fedra deveria morrer quando exército de [url=glossary:kyros]Kyros[/url] chegaram a [url=glossary:lethian's crossing]A Travessia de Lethian[/url]. Essa foi a única razão pela qual me casei com o pequeno idiota."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -426,7 +426,7 @@ Ela se curva brevemente para você antes de voltar para sua casa.</DefaultText>
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Mas ela não estava disposta a se casar comigo naquele momento. Então eu fiquei com ela enquanto viajávamos e eventualmente nos instalamos aqui. [url=glossary:kyros]Kyros[/url]' forças seguiram logo depois. Seus exércitos rapidamente ocuparam [url=glossary:lethian's crossing]A travessia de Lethian[/url] e subjugaram a cidade."</DefaultText>
+      <DefaultText>"Mas ela não estava disposta a se casar comigo naquele momento. Então eu fiquei com ela enquanto viajávamos e eventualmente nos instalamos aqui. forças de [url=glossary:kyros]Kyros[/url] seguiram logo depois. Seus exércitos rapidamente ocuparam [url=glossary:lethian's crossing]A Travessia de Lethian[/url] e subjugaram a cidade."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -471,7 +471,7 @@ Ela se curva brevemente para você antes de voltar para sua casa.</DefaultText>
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Você só diz isso porque é um Fatebinder! As pessoas praticamente jogam anéis em você para resolver seus problemas."</DefaultText>
+      <DefaultText>"Você só diz isso porque é um Vinculador do Destino! As pessoas praticamente jogam anéis em você para resolver seus problemas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -510,7 +510,7 @@ Ela se curva brevemente para você antes de voltar para sua casa.</DefaultText>
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>Ela faz uma careta, intimidada por sua ameaça. "Olhar, ainda não tenho muitos anéis, mas posso lhe oferecer algo melhor. Como você gostaria de um desconto com quase todos os comerciantes da cidade? O [url=glossary:forge-bound]Forge-Bound[/url] e aquele idiota do Harchiand não aceitam bem intimidação, mas os outros eu consigo persuadir."</DefaultText>
+      <DefaultText>Ela faz uma careta, intimidada por sua ameaça. "Olhar, ainda não tenho muitos anéis, mas posso lhe oferecer algo melhor. Como você gostaria de um desconto com quase todos os comerciantes da cidade? O [url=glossary:forge-bound]Vinculado à Forja[/url] e aquele idiota do Harchiand não aceitam bem intimidação, mas os outros eu consigo persuadir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -523,7 +523,7 @@ Ela se curva brevemente para você antes de voltar para sua casa.</DefaultText>
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>"Se os anéis não forem suficientes, tenho certeza de que posso persuadir alguns comerciantes da cidade a lhe dar um desconto. Os [url=glossary:forge-bound]Forge-Bound[/url] e Harchiand Bronze são irrepreensíveis, mas os outros certamente concordarão."</DefaultText>
+      <DefaultText>"Se os anéis não forem suficientes, tenho certeza de que posso persuadir alguns comerciantes da cidade a lhe dar um desconto. Os [url=glossary:forge-bound]Vinculado à Forja[/url] e Harchiand Bronze são irrepreensíveis, mas os outros certamente concordarão."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -587,7 +587,7 @@ Ela se curva brevemente para você antes de voltar para sua casa.</DefaultText>
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"Multar. Como você provavelmente já sabe, Phaedra era neta de Lethiano. O que significa que ela possuía essencialmente [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Todo mês, ela coletava dos comerciantes e usava os anéis para manter as áreas do mercado para seu uso."</DefaultText>
+      <DefaultText>"Multar. Como você provavelmente já sabe, Phaedra era neta de Lethiano. O que significa que ela possuía essencialmente [url=glossary:lethian's crossing]A Travessia de Lethian[/url]. Todo mês, ela coletava dos comerciantes e usava os anéis para manter as áreas do mercado para seu uso."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

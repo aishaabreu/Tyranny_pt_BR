@@ -6,8 +6,8 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Então, um Fatebinder de [url=glossary:tunon]Tunon[/url] chega a [Plainsgate], e seu primeiro curso de ação é transformar o [url=glossary:scarlet chorus]Coro Escarlate[/url] em uma mancha vermelha."</DefaultText>
-      <FemaleText>"Então, um Fatebinder de [url=glossary:tunon]Tunon[/url] chega a [Plainsgate], e seu primeiro curso de ação é transformar o [url=glossary:scarlet chorus]Coro Escarlate[/url] em uma mancha vermelha."</FemaleText>
+      <DefaultText>"Então, um Vinculador do Destino de [url=glossary:tunon]Tunon[/url] chega a [Plainsgate], e seu primeiro curso de ação é transformar o [url=glossary:scarlet chorus]Coro Escarlate[/url] em uma mancha vermelha."</DefaultText>
+      <FemaleText>"Então, um Vinculador do Destino de [url=glossary:tunon]Tunon[/url] chega a [Plainsgate], e seu primeiro curso de ação é transformar o [url=glossary:scarlet chorus]Coro Escarlate[/url] em uma mancha vermelha."</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -45,12 +45,12 @@ Sua voz é pouco mais que um silvo entre os dentes cerrados enquanto ela pergunt
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Digo aos [url=glossary:disfavored]Desfavorecido[/url] que perguntam que há quase uma década, muito antes da guerra começar, viajei para o norte para treinar com o Arconte de Pedra. Alguns de nós realmente o fizeram e foram transferidos de volta para nossos reinos de origem quando a guilda foi alistada sob a bandeira de Ashe."</DefaultText>
+      <DefaultText>"Digo aos [url=glossary:disfavored]Desfavorecido[/url] que perguntam que há quase uma década, muito antes da guerra começar, viajei para o norte para treinar com o Arconte de Pedra. Alguns de nós realmente o fizeram e foram transferidos de volta para nossos reinos de origem quando a guilda foi alistada sob a bandeira de Cinza."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Eu falaria com o Tremedores de terra sobre o resultado inevitável desta guerra."</DefaultText>
+      <DefaultText>"Eu falaria com o Tremedores de Terra sobre o resultado inevitável desta guerra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -60,17 +60,17 @@ Sua voz é pouco mais que um silvo entre os dentes cerrados enquanto ela pergunt
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Há algo que eu deveria saber sobre o Tremedores de terra que me ajudaria a ganhar a lealdade da guilda?"</DefaultText>
+      <DefaultText>"Há algo que eu deveria saber sobre o Tremedores de Terra que me ajudaria a ganhar a lealdade da guilda?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Quem devo abordar para ganhar a fidelidade do Tremedores de terra?"</DefaultText>
+      <DefaultText>"Quem devo abordar para ganhar a fidelidade do Tremedores de Terra?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Como um Tierman como você se tornou um Earthshaker?"</DefaultText>
+      <DefaultText>"Como um habitante do Camadas como você se tornou um Tremedor de Terra?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -85,14 +85,14 @@ Sua voz é pouco mais que um silvo entre os dentes cerrados enquanto ela pergunt
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Metade de nós são nortistas, treinados pelo próprio [url=glossary:cairn]Cairn[/url] nas montanhas de Tortalus. Ou assim afirmam. O resto de nós foi absorvido pelo Camadas. Ashe teria nos visto mortos sob a lei [url=glossary:kyros]Kyros[/url]', mas [url=glossary:cairn]Cairn[/url] nos salvou. Ele nos levava para sua guilda, silenciosamente, um por um, sempre que cruzava nossos caminhos."</DefaultText>
+      <DefaultText>"Metade de nós são nortistas, treinados pelo próprio [url=glossary:cairn]Cairn[/url] nas montanhas de Tortalus. Ou assim afirmam. O resto de nós foi absorvido pelo Camadas. Cinza teria nos visto mortos sob a lei de [url=glossary:kyros]Kyros[/url], mas [url=glossary:cairn]Cairn[/url] nos salvou. Ele nos levava para sua guilda, silenciosamente, um por um, sempre que cruzava nossos caminhos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
       <DefaultText>"Base Ironcore é o herdeiro da guilda no lugar de [url=glossary:cairn]Cairn[/url]. Ele é nosso Mestre agora, embora ele tenha estado ausente nos últimos períodos, deixando-nos à nossa própria sorte para responder ao seu chamado Geral."
 
-"Ashe desconfia de nós e por isso mantém Base em rédea curta. Mas se Base zomba da coleira ou é um cão totalmente leal ainda está para ser visto."</DefaultText>
+"Cinza desconfia de nós e por isso mantém Base em rédea curta. Mas se Base zomba da coleira ou é um cão totalmente leal ainda está para ser visto."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -102,7 +102,7 @@ Sua voz é pouco mais que um silvo entre os dentes cerrados enquanto ela pergunt
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Então o [url=glossary:stonestalkers]Perseguidores de Pedras[/url] deixa você passar - de uma forma ou de outra. Perdoe-me por fazer minha própria rota, mas era um caminho que apenas um Earthshaker poderia seguir."</DefaultText>
+      <DefaultText>"Então o [url=glossary:stonestalkers]Perseguidores de Pedras[/url] deixa você passar - de uma forma ou de outra. Perdoe-me por fazer minha própria rota, mas era um caminho que apenas um Tremedor de Terra poderia seguir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -117,7 +117,7 @@ Sua voz é pouco mais que um silvo entre os dentes cerrados enquanto ela pergunt
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Desculpas, não reconheci você com o traje Earthshaker."</DefaultText>
+      <DefaultText>"Desculpas, não reconheci você com o traje Tremedor de Terra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -166,12 +166,12 @@ Ela se mexe desconfortavelmente, preocupando o cabo lascado de seu cajado entre 
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Suponho que o título de Mestre Earthshaker agora me cabe. Não me oponho a liderar a guilda, mas certamente Geral Ashe não ficarei satisfeito."</DefaultText>
+      <DefaultText>"Suponho que o título de Mestre Tremedor de Terra agora me cabe. Não me oponho a liderar a guilda, mas certamente Geral Cinza não ficarei satisfeito."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Você sabe que eu quero que o Tremedores de terra se junte a mim. Qual será o custo para que isso aconteça?"</DefaultText>
+      <DefaultText>"Você sabe que eu quero que o Tremedores de Terra se junte a mim. Qual será o custo para que isso aconteça?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -196,7 +196,7 @@ Ela se mexe desconfortavelmente, preocupando o cabo lascado de seu cajado entre 
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Me disseram que Basilon e um grupo de Tremedores de terra já estão escavando os Azurelith veios em [url=lore:Gulfglow]Gulfglow[/url]. Mas eles não enviaram notícias na última semana. Talvez pudesse ir até eles e perguntar sobre os cristais."</DefaultText>
+      <DefaultText>"Me disseram que Basilon e um grupo de Tremedores de Terra já estão escavando os Azurelith veios em [url=lore:Gulfglow]Gulfglow[/url]. Mas eles não enviaram notícias na última semana. Talvez pudesse ir até eles e perguntar sobre os cristais."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -248,7 +248,7 @@ Ela se mexe desconfortavelmente, preocupando o cabo lascado de seu cajado entre 
       <ID>49</ID>
       <DefaultText>Ela bate com seu cajado uma, duas, três vezes no chão. "Que a terra seja ouvida." 
 
-Ela continua enquanto Tremedores de terra se reúne, lentamente, cantando ao seu redor. "Deixe a terra ser movida. Deixe a terra legar [url=glossary:cairn]Cairn[/url] para nós, sua amada, suas esporas selvagens."</DefaultText>
+Ela continua enquanto Tremedores de Terra se reúne, lentamente, cantando ao seu redor. "Deixe a terra ser movida. Deixe a terra legar [url=glossary:cairn]Cairn[/url] para nós, sua amada, suas esporas selvagens."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -278,7 +278,7 @@ Ela continua enquanto Tremedores de terra se reúne, lentamente, cantando ao seu
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>Ela estuda você por um longo momento. Ela tem o olhar de uma mulher que antecipou sua oferta com ansiedade e pavor. "Você pode prometer que isso não atrairia [url=glossary:kyros]Kyros[/url]' ira sobre nós?"</DefaultText>
+      <DefaultText>Ela estuda você por um longo momento. Ela tem o olhar de uma mulher que antecipou sua oferta com ansiedade e pavor. "Você pode prometer que isso não atrairia ira de [url=glossary:kyros]Kyros[/url] sobre nós?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -303,17 +303,17 @@ Ela continua enquanto Tremedores de terra se reúne, lentamente, cantando ao seu
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Aguardo você em [url=lore:Howling_Rock]Rocha Uivante[/url]. Eu preciso evitar [url=lore:StoneDown]Apedrejar[/url] então estarei percorrendo os caminhos da montanha da maneira que apenas um Earthshaker pode. Tenha cuidado, Vinculador do Destino." Ela se curva brevemente em despedida. "Espero vê-lo novamente."</DefaultText>
+      <DefaultText>"Aguardo você em [url=lore:Howling_Rock]Rocha Uivante[/url]. Eu preciso evitar [url=lore:StoneDown]Apedrejar[/url] então estarei percorrendo os caminhos da montanha da maneira que apenas um Tremedor de Terra pode. Tenha cuidado, Vinculador do Destino." Ela se curva brevemente em despedida. "Espero vê-lo novamente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Verdade seja dita, eu sou um Havenite. Nunca pensei que acabaria em Azure, lutando pelo [url=glossary:disfavored]Desfavorecido[/url]. Mas aqui estou agora - um Earthshaker, jurado e treinado. Meu nome é Isadora."</DefaultText>
+      <DefaultText>"Verdade seja dita, eu sou um Havenite. Nunca pensei que acabaria em Azure, lutando pelo [url=glossary:disfavored]Desfavorecido[/url]. Mas aqui estou agora - um Tremedor de Terra, jurado e treinado. Meu nome é Isadora."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Ela acena com a cabeça, expressão sombria, mas determinada. "Eu tinha ouvido os rumores - que um Vinculador do Destino liberou o [url=glossary:forge-bound]Forge-Bound[/url] em [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Posso supor que você faria o mesmo por nós?"</DefaultText>
+      <DefaultText>Ela acena com a cabeça, expressão sombria, mas determinada. "Eu tinha ouvido os rumores - que um Vinculador do Destino liberou o [url=glossary:forge-bound]Vinculado à Forja[/url] em [url=glossary:lethian's crossing]A Travessia de Lethian[/url]. Posso supor que você faria o mesmo por nós?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -393,7 +393,7 @@ Ela sorri, olhos afiados avaliando você favoravelmente.</DefaultText>
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Cuidado onde pisa. Os terremotos e penhascos tiram mais vidas do que os exércitos [url=glossary:kyros]Kyros[/url]' atualmente."</DefaultText>
+      <DefaultText>"Cuidado onde pisa. Os terremotos e penhascos tiram mais vidas do que os exércitos de [url=glossary:kyros]Kyros[/url] atualmente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -403,7 +403,7 @@ Ela sorri, olhos afiados avaliando você favoravelmente.</DefaultText>
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Eu não me preocupo se a informação foi divulgada involuntariamente. Zdenya é dura como o ferro que ela funde." Ela abre um sorriso pálido, expressão sombria, mas determinada. "Eu tinha ouvido os rumores - que um Vinculador do Destino liberou o [url=glossary:forge-bound]Forge-Bound[/url] em [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Posso supor que você veio fazer o mesmo por nós?"</DefaultText>
+      <DefaultText>"Eu não me preocupo se a informação foi divulgada involuntariamente. Zdenya é dura como o ferro que ela funde." Ela abre um sorriso pálido, expressão sombria, mas determinada. "Eu tinha ouvido os rumores - que um Vinculador do Destino liberou o [url=glossary:forge-bound]Vinculado à Forja[/url] em [url=glossary:lethian's crossing]A Travessia de Lethian[/url]. Posso supor que você veio fazer o mesmo por nós?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -413,7 +413,7 @@ Ela sorri, olhos afiados avaliando você favoravelmente.</DefaultText>
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Como você sabe o [url=glossary:forge-bound]Forge-Bound[/url] Mestre, Zdenya?"</DefaultText>
+      <DefaultText>"Como você sabe o [url=glossary:forge-bound]Vinculado à Forja[/url] Mestre, Zdenya?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -428,7 +428,7 @@ Ela sorri, olhos afiados avaliando você favoravelmente.</DefaultText>
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>Ela funga, os olhos varrendo a distância. "Qualquer maneira, nosso líder é um [url=glossary:iron guard]Guarda de Ferro[/url], jurado em primeiro lugar a Ashe. Mas ele era o braço direito de [url=glossary:cairn]Cairn[/url] muito antes disso. Ele sabe sobre nós, os Tiersmen da guilda, mas não deixou escapar até onde eu posso dizer. Pegue o que isso significa como quiser."</DefaultText>
+      <DefaultText>Ela funga, os olhos varrendo a distância. "Qualquer maneira, nosso líder é um [url=glossary:iron guard]Guarda de Ferro[/url], jurado em primeiro lugar a Cinza. Mas ele era o braço direito de [url=glossary:cairn]Cairn[/url] muito antes disso. Ele sabe sobre nós, os Homens dos Caminhos da guilda, mas não deixou escapar até onde eu posso dizer. Pegue o que isso significa como quiser."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -515,7 +515,7 @@ Ela sorri, olhos afiados avaliando você favoravelmente.</DefaultText>
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Seu medo, embora compreensível, é infundado. Eu sou um Vinculador do Destino, sancionado pelo Tribunais de [url=glossary:tunon]Tunon[/url]. Minhas ações ainda [url=glossary:kyros]Kyros[/url]' vão trazer ordem à terra."</DefaultText>
+      <DefaultText>"Seu medo, embora compreensível, é infundado. Eu sou um Vinculador do Destino, sancionado pelo Tribunais de [url=glossary:tunon]Tunon[/url]. Minhas ações para [url=glossary:kyros]Kyros[/url] ainda vão trazer ordem à terra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -542,7 +542,7 @@ Ela sorri, olhos afiados avaliando você favoravelmente.</DefaultText>
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>"Muito bem, Vinculador do Destino. Nossa guilda apoiará seus esforços para aliviar o Camadas do [url=glossary:kyros]Kyros[/url]' reino de destruição."</DefaultText>
+      <DefaultText>"Muito bem, Vinculador do Destino. Nossa guilda apoiará seus esforços para aliviar o Camadas do reino de destruição de [url=glossary:kyros]Kyros[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -579,7 +579,7 @@ Ela se curva para você. "Vou cuidar dos preparativos para nossa próxima marcha
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>O Mestre Earthshaker se anima imediatamente. "Peso deslocamento para fins de levitação? Meu lançamento de pedregulhos poderia ser melhorado. Talvez você possa compartilhar este manuscrito comigo? Apenas uma espiada, é claro."</DefaultText>
+      <DefaultText>O Mestre Tremedor de Terra se anima imediatamente. "Peso deslocamento para fins de levitação? Meu lançamento de pedregulhos poderia ser melhorado. Talvez você possa compartilhar este manuscrito comigo? Apenas uma espiada, é claro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -589,7 +589,7 @@ Ela se curva para você. "Vou cuidar dos preparativos para nossa próxima marcha
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"Suponho que em seu lugar, o título de Mestre Earthshaker cairá para mim. Não me oponho a liderar a guilda, mas certamente Geral Ashe não ficarei satisfeito."</DefaultText>
+      <DefaultText>"Suponho que em seu lugar, o título de Mestre Tremedor de Terra cairá para mim. Não me oponho a liderar a guilda, mas certamente Geral Cinza não ficarei satisfeito."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -599,7 +599,7 @@ Ela se curva para você. "Vou cuidar dos preparativos para nossa próxima marcha
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>[Tosse em seu punho.] "Talvez depois. Sim... pois meu objetivo é capacitar o Tremedores de terra."</DefaultText>
+      <DefaultText>[Tosse em seu punho.] "Talvez depois. Sim... pois meu objetivo é capacitar o Tremedores de Terra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -614,12 +614,12 @@ Ela se curva para você. "Vou cuidar dos preparativos para nossa próxima marcha
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>"Nem tudo está perdido. Vou proteger o Tremedores de terra, para melhor ou para pior."</DefaultText>
+      <DefaultText>"Nem tudo está perdido. Vou proteger o Tremedores de Terra, para melhor ou para pior."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"Vamos colher sua energia e dispersá-la entre nós, infundindo assim nossas habilidades com a própria essência de [url=glossary:cairn]Cairn[/url]. Com isso, não só o Tremedores de terra alcançará novos patamares de poder, mas também vamos acabar com o [url=glossary:edict]Edital[/url] de Stone e colocar nosso Arconte para descansar."</DefaultText>
+      <DefaultText>"Vamos colher sua energia e dispersá-la entre nós, infundindo assim nossas habilidades com a própria essência de [url=glossary:cairn]Cairn[/url]. Com isso, não só o Tremedores de Terra alcançará novos patamares de poder, mas também vamos acabar com o [url=glossary:edict]Edital[/url] de Stone e colocar nosso Arconte para descansar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -634,7 +634,7 @@ Ela se curva para você. "Vou cuidar dos preparativos para nossa próxima marcha
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>"Ainda assim, através deste ritual você estaria cumprindo [url=glossary:kyros]Kyros[/url]' vontade própria. O Senhor Supremo lançou o [url=glossary:edict]Edital[/url] de Pedra em [url=glossary:cairn]Cairn[/url] como um ato de execução - um destino do qual ele não escapará. Eu acabaria com o sofrimento dele e salvaria a guilda. Você não vai nos ajudar?"</DefaultText>
+      <DefaultText>"Ainda assim, através deste ritual você estaria cumprindo a própria vontade de [url=glossary:kyros]Kyros[/url]. O Senhor Supremo lançou o [url=glossary:edict]Edital[/url] de Pedra em [url=glossary:cairn]Cairn[/url] como um ato de execução - um destino do qual ele não escapará. Eu acabaria com o sofrimento dele e salvaria a guilda. Você não vai nos ajudar?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -684,7 +684,7 @@ Ela se curva para você. "Vou cuidar dos preparativos para nossa próxima marcha
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>"Você pode começar a pagar sua dívida juntando-se a mim. Eu preciso do Tremedores de terra."</DefaultText>
+      <DefaultText>"Você pode começar a pagar sua dívida juntando-se a mim. Eu preciso do Tremedores de Terra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -739,7 +739,7 @@ Ela se curva para você. "Vou cuidar dos preparativos para nossa próxima marcha
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>"Havia muitas pessoas no [url=glossary:vendrien guard]Guarda Vendrien[/url] que admitiram que teriam se rendido a [url=glossary:graven ashe]Cinza esculpida[/url] se tivessem sido aceitos como escravos de combate - mas não teve essa sorte. O [url=glossary:disfavored]Desfavorecido[/url] aceitará escravos trabalhadores, mas eles nunca armarão um Tiersmen. O que significa que apenas o Refrão confia em um Tierman com uma arma?" Ela ri, batendo seu cajado no chão. "Não é à toa que a legião é fria com seus aliados mágicos. É mais do que apenas o comportamento traidor de [url=glossary:cairn]Cairn[/url], há também uma divisão cultural."</DefaultText>
+      <DefaultText>"Havia muitas pessoas no [url=glossary:vendrien guard]Guarda Vendrien[/url] que admitiram que teriam se rendido a [url=glossary:graven ashe]Cinza Esculpida[/url] se tivessem sido aceitos como escravos de combate - mas não teve essa sorte. O [url=glossary:disfavored]Desfavorecido[/url] aceitará escravos trabalhadores, mas eles nunca armarão um Homens dos Caminhos. O que significa que apenas o Refrão confia em um habitante do Camadas com uma arma?" Ela ri, batendo seu cajado no chão. "Não é à toa que a legião é fria com seus aliados mágicos. É mais do que apenas o comportamento traidor de [url=glossary:cairn]Cairn[/url], há também uma divisão cultural."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -764,7 +764,7 @@ Ela se curva para você. "Vou cuidar dos preparativos para nossa próxima marcha
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>"Se os tempos fossem menos desesperados, Ashe sem dúvida manteria suas unidades em um padrão mais alto - e isso inclui Tremedores de terra." Ele resmunga. "Pelo menos você respeita minhas dúvidas, quer você as atenda ou não."</DefaultText>
+      <DefaultText>"Se os tempos fossem menos desesperados, Cinza sem dúvida manteria suas unidades em um padrão mais alto - e isso inclui Tremedores de Terra." Ele resmunga. "Pelo menos você respeita minhas dúvidas, quer você as atenda ou não."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -829,7 +829,7 @@ Ela se curva para você. "Vou cuidar dos preparativos para nossa próxima marcha
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>"Não seja tão rápido em compartilhar o crédito, Encadernador. Eu sei que nada disso teria acontecido sem você e sua personalidade magnética, mas vamos lá. Alguns de nós estão fazendo mais do que apenas acompanhar o ritmo aqui."</DefaultText>
+      <DefaultText>"Não seja tão rápido em compartilhar o crédito, Vinculador. Eu sei que nada disso teria acontecido sem você e sua personalidade magnética, mas vamos lá. Alguns de nós estão fazendo mais do que apenas acompanhar o ritmo aqui."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -874,7 +874,7 @@ Ela se curva para você. "Vou cuidar dos preparativos para nossa próxima marcha
     </Entry>
     <Entry>
       <ID>176</ID>
-      <DefaultText>"Há uma poesia trágica nisso, não há? Capacitação [url=glossary:cairn]Cairn[/url] com seu poder para livrar-se de [url=glossary:kyros]Kyros[/url]' algemas. Ele finalmente se libertará de sua servidão e ajudará os outros a romper com a deles."</DefaultText>
+      <DefaultText>"Há uma poesia trágica nisso, não há? Capacitação [url=glossary:cairn]Cairn[/url] com seu poder para livrar-se de [url=glossary:kyros]Kyros[/url] algemas. Ele finalmente se libertará de sua servidão e ajudará os outros a romper com a deles."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -884,12 +884,12 @@ Ela se curva para você. "Vou cuidar dos preparativos para nossa próxima marcha
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>"E agora adicionamos o conhecimento de [url=glossary:cairn]Cairn[/url] ao nosso arsenal - magnífico." Eb solta um suspiro longo e ronronante. "Odeio dizer isso, mas sinto que entendo [url=glossary:the voices of nerat]o Vozes de Nerat[/url] - bem, um pouco, pelo menos. Esmagar seu inimigo em pedaços é muito divertido, mas na verdade subverter e roubar a força de seu inimigo... agora isso só me dá o orvalho da manhã."</DefaultText>
+      <DefaultText>"E agora adicionamos o conhecimento de [url=glossary:cairn]Cairn[/url] ao nosso arsenal - magnífico." Eb solta um suspiro longo e ronronante. "Odeio dizer isso, mas sinto que entendo [url=glossary:the voices of nerat]As Vozes de Nerat[/url] - bem, um pouco, pelo menos. Esmagar seu inimigo em pedaços é muito divertido, mas na verdade subverter e roubar a força de seu inimigo... agora isso só me dá o orvalho da manhã."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>"Místicos da Terra são espertos para se juntar ao pacote Alfa. Tem a melhor chance de sobrevivência." Ela funga, queixo erguido. "Mulher-Besta vai gostar de matar a tribo [url=glossary:kyros]Kyros[/url]' ao lado de Arconte de Pedra místicos. Mas não se esqueça de pedir em pacote - Mulher-Besta é o segundo, apenas para Alfa."</DefaultText>
+      <DefaultText>"Místicos da Terra são espertos para se juntar ao pacote Alfa. Tem a melhor chance de sobrevivência." Ela funga, queixo erguido. "Mulher-Besta vai gostar de matar a tribo de [url=glossary:kyros]Kyros[/url] ao lado de Arconte de Pedra místicos. Mas não se esqueça de pedir em pacote - Mulher-Besta é o segundo, apenas para Alfa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -901,7 +901,7 @@ Ela se curva para você. "Vou cuidar dos preparativos para nossa próxima marcha
       <ID>181</ID>
       <DefaultText>Ela hesita, limpando a garganta suavemente antes de deixar você com um pensamento final. 
 
-"Lembre-se de que, embora nosso Guilda o apoie, ainda há um número infeliz de nós estacionados em Lareira de Ferro. A notícia de nossa traição chegará a Ashe em breve, e os Earthshakers ao seu lado sofrerão." 
+"Lembre-se de que, embora nosso Guilda o apoie, ainda há um número infeliz de nós estacionados em Lareira de Ferro. A notícia de nossa traição chegará a Cinza em breve, e os Tremedores de Terra ao seu lado sofrerão." 
 
 Ela suspira, ombros pesados de arrependimento. 
 
@@ -910,12 +910,12 @@ Ela suspira, ombros pesados de arrependimento.
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>"Fatebinder! Apresse-se - termine o ritual!"</DefaultText>
+      <DefaultText>"Vinculador do Destino! Apresse-se - termine o ritual!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>"Earthshakers! Fique forte! Não vacile!"</DefaultText>
+      <DefaultText>"Tremedores de Terra! Fique forte! Não vacile!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

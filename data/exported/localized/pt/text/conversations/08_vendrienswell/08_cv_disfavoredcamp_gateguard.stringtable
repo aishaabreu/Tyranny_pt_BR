@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Eu sou [Player Name], Fatebinder de [url=glossary:tunon]Tunon[/url]. Trago palavras de [url=glossary:kyros]Kyros[/url], palavras para os ouvidos do seu comandante."</DefaultText>
+      <DefaultText>"Eu sou [Player Name], Vinculador do Destino de [url=glossary:tunon]Tunon[/url]. Trago palavras de [url=glossary:kyros]Kyros[/url], palavras para os ouvidos do seu comandante."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Fatebinder! O Marechal de Ferro deseja falar com você."</DefaultText>
+      <DefaultText>"Vinculador do Destino! O Marechal de Ferro deseja falar com você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[url=lore:proclaim_storms]"O Conjurador da Tempestade chegou!"[/url] O guarda acena com a cabeça quando você se aproxima. "É uma honra recebê-lo no [url=glossary:disfavored]Desfavorecido[/url] acampamento! Devo foi uma terrível honra ser o porta-voz da [url=glossary:kyros]Kyros[/url]' magia, seu sortudo!"</DefaultText>
+      <DefaultText>[url=lore:proclaim_storms]"O Conjurador da Tempestade chegou!"[/url] O guarda acena com a cabeça quando você se aproxima. "É uma honra recebê-lo no [url=glossary:disfavored]Desfavorecido[/url] acampamento! Devo foi uma terrível honra ser o porta-voz da magia de [url=glossary:kyros]Kyros[/url], seu sortudo!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Eu sou [url=glossary:tunon]Tunon[/url]'s Vinculador do Destino. Afaste-se, sou esperado."</DefaultText>
+      <DefaultText>"Eu sou Vinculador do Destino de [url=glossary:tunon]Tunon[/url]. Afaste-se, sou esperado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Ah, certo. Você é o Fatebinder que deveríamos estar esperando. Ainda bem que o Tribunal se importa o suficiente para enviar seu bobo da corte." O guarda assobia para sinalizar sua chegada e acena para você com um suspiro.</DefaultText>
+      <DefaultText>"Ah, certo. Você é o Vinculador do Destino que deveríamos estar esperando. Ainda bem que o Tribunal se importa o suficiente para enviar seu bobo da corte." O guarda assobia para sinalizar sua chegada e acena para você com um suspiro.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,7 +71,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Ah, então você é [url=lore:proclaim_fire]o Incendiário?[/url] Ceveus e as empresas que retornam do [url=glossary:burning library]Biblioteca em chamas[/url] estão contando algumas histórias angustiantes sobre o [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] de Incêndio. Acho-me corajoso, mas estou feliz por ter estado longe de tudo. Deve ter sido uma honra aterrorizante ser o mensageiro de uma força tão justa."</DefaultText>
+      <DefaultText>"Ah, então você é [url=lore:proclaim_fire]o Incendiário?[/url] Ceveus e as empresas que retornam do [url=glossary:burning library]Biblioteca em chamas[/url] estão contando algumas histórias angustiantes sobre o [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] de Incêndio. Acho-me corajoso, mas estou feliz por ter estado longe de tudo. Deve ter sido uma honra aterrorizante ser o mensageiro de uma força tão justa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,7 +111,7 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>[Saudação] "[url=glossary:graven ashe]Cinza esculpida[/url] protege."</DefaultText>
+      <DefaultText>[Saudação] "[url=glossary:graven ashe]Cinza Esculpida[/url] protege."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,7 +121,7 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Isso ele faz!" O guerreiro acena com a cabeça em aprovação, então bate duas vezes no portão para sinalizar sua chegada. "Fique bem, Fatebinder - glória a [url=glossary:kyros]Kyros[/url]!"</DefaultText>
+      <DefaultText>"Isso ele faz!" O guerreiro acena com a cabeça em aprovação, então bate duas vezes no portão para sinalizar sua chegada. "Fique bem, Vinculador do Destino - glória a [url=glossary:kyros]Kyros[/url]!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -221,7 +221,7 @@
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>Ele olha para vocês dois com incredulidade. "O quê? O comandante me mataria se eu derramasse o sangue de um aliado... muito menos um Fatebinder... muito menos no acampamento! Por favor, não!" Ele aperta as mãos em um gesto suplicante.</DefaultText>
+      <DefaultText>Ele olha para vocês dois com incredulidade. "O quê? O comandante me mataria se eu derramasse o sangue de um aliado... muito menos um Vinculador do Destino... muito menos no acampamento! Por favor, não!" Ele aperta as mãos em um gesto suplicante.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

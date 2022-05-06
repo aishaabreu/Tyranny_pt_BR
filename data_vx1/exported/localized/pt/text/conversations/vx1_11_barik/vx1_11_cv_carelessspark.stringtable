@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Fatebinder! Que bom que você finalmente apareceu." Uma mulher dá um passo à frente, sorrindo para você com dentes pequenos e irregulares e bem enrolada no pelo e couro de um Cantador de Sangue. Uma massa emaranhada de cabelo fuliginoso e soprado pelo vento cobre seus ombros, e seus grandes olhos examinam você avidamente.</DefaultText>
+      <DefaultText>"Vinculador do Destino! Que bom que você finalmente apareceu." Uma mulher dá um passo à frente, sorrindo para você com dentes pequenos e irregulares e bem enrolada no pelo e couro de um Cantador de Sangue. Uma massa emaranhada de cabelo fuliginoso e soprado pelo vento cobre seus ombros, e seus grandes olhos examinam você avidamente.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>[Dirija-se à turma:] "Vocês todos sabem como [url=glossary:the voices of nerat]o Vozes de Nerat[/url] e eu trabalhamos juntos. Estranho que ele tenha enviado outra pessoa para Barik quando ele mesmo poderia me perguntar. Você realmente quer morrer por Ember Desajeitado pequena manobra?"</DefaultText>
+      <DefaultText>[Dirija-se à turma:] "Vocês todos sabem como [url=glossary:the voices of nerat]As Vozes de Nerat[/url] e eu trabalhamos juntos. Estranho que ele tenha enviado outra pessoa para Barik quando ele mesmo poderia me perguntar. Você realmente quer morrer por Ember Desajeitado pequena manobra?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,12 +46,12 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Acho que seria pedir demais que [url=glossary:graven ashe]Cinza esculpida[/url] recrute alguém com algo além de ferro entre as orelhas." Ela acena para o outro Coristas.</DefaultText>
+      <DefaultText>"Acho que seria pedir demais que [url=glossary:graven ashe]Cinza Esculpida[/url] recrute alguém com algo além de ferro entre as orelhas." Ela acena para o outro Coristas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Esses são os salários da lealdade a um Fatebinder? E você reivindica o manto da justiça!" Saliva voa de seu leme.</DefaultText>
+      <DefaultText>"Esses são os salários da lealdade a um Vinculador do Destino? E você reivindica o manto da justiça!" Saliva voa de seu leme.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -131,12 +131,12 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Nada que acontece em [url=glossary:lethian's crossing]A travessia de Lethian[/url] fica em segredo por muito tempo. É realmente uma maravilha que atraia tantos bordéis."</DefaultText>
+      <DefaultText>"Nada que acontece em [url=glossary:lethian's crossing]A Travessia de Lethian[/url] fica em segredo por muito tempo. É realmente uma maravilha que atraia tantos bordéis."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Ela olha para sua gangue. "Você ouviu o Fatebinder! Lá vamos nós!" Ela se vira como se fosse sair, faz uma pausa, depois se vira.</DefaultText>
+      <DefaultText>Ela olha para sua gangue. "Você ouviu o Vinculador do Destino! Lá vamos nós!" Ela se vira como se fosse sair, faz uma pausa, depois se vira.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -146,7 +146,7 @@
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Ahoy, Verso! Faz um tempo! Dizendo ao Fatebinder naquela época encontramos aquela comuna [Plainsgate], amarrando aqueles garotos da fazenda e- "</DefaultText>
+      <DefaultText>"Ahoy, Verso! Faz um tempo! Dizendo ao Vinculador do Destino naquela época encontramos aquela comuna [Plainsgate], amarrando aqueles garotos da fazenda e- "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -226,7 +226,7 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"O Fatebinder julgamento provou ser sólido o suficiente. Até agora."</DefaultText>
+      <DefaultText>"O Vinculador do Destino julgamento provou ser sólido o suficiente. Até agora."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -261,8 +261,8 @@
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Seu amigo aí abandonou a Conquista do Camadas e se voltou contra o [url=glossary:kyros]Kyros[/url]' ungido Arcontes. Certamente sua honra exige que você o abandone." Ela gesticula em sua direção.</DefaultText>
-      <FemaleText>"Seu amigo aí abandonou a Conquista do Camadas e se voltou contra o [url=glossary:kyros]Kyros[/url]' ungido Arcontes. Certamente sua honra exige que você a abandone." Ela gesticula em sua direção.</FemaleText>
+      <DefaultText>"Seu amigo aí abandonou a Conquista do Camadas e se voltou contra o Arconte ungido de [url=glossary:kyros]Kyros[/url]. Certamente sua honra exige que você o abandone." Ela gesticula em sua direção.</DefaultText>
+      <FemaleText>"Seu amigo aí abandonou a Conquista do Camadas e se voltou contra o Arconte ungido de [url=glossary:kyros]Kyros[/url]. Certamente sua honra exige que você a abandone." Ela gesticula em sua direção.</FemaleText>
     </Entry>
     <Entry>
       <ID>53</ID>
@@ -296,7 +296,7 @@
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Apenas um tolo cruzaria o Vinculador do Destino pelo [url=glossary:the voices of nerat]o Vozes de Nerat[/url]."</DefaultText>
+      <DefaultText>"Apenas um tolo cruzaria o Vinculador do Destino pelo [url=glossary:the voices of nerat]As Vozes de Nerat[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -311,7 +311,7 @@
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Não seja idiota, Barik. Quaisquer que sejam as vozes quer de você, será muito pior do que os planos Fatebinder. E provavelmente envolvem mais penetração."</DefaultText>
+      <DefaultText>"Não seja idiota, Barik. Quaisquer que sejam as vozes quer de você, será muito pior do que os planos Vinculador do Destino. E provavelmente envolvem mais penetração."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -336,7 +336,7 @@
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Verdadeiro. Sua depravação não é igual à de [url=glossary:the voices of nerat]o Vozes de Nerat[/url]. Ainda." Seu elmo abobadado abaixa um pouco.</DefaultText>
+      <DefaultText>"Verdadeiro. Sua depravação não é igual à de [url=glossary:the voices of nerat]As Vozes de Nerat[/url]. Ainda." Seu elmo abobadado abaixa um pouco.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -351,7 +351,7 @@
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] sabe que sou aliado de [url=glossary:graven ashe]Cinza esculpida[/url]. Ele enviou você em uma missão tola."</DefaultText>
+      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] sabe que sou aliado de [url=glossary:graven ashe]Cinza Esculpida[/url]. Ele enviou você em uma missão tola."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -371,7 +371,7 @@
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Fatebinder!"</DefaultText>
+      <DefaultText>"Vinculador do Destino!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -413,7 +413,7 @@ Ela dá um tapinha em seu cajado. O outro Coristas tenso, pronto para atacar.</D
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Uma gangue esfarrapada Refrão contra um veterano [url=glossary:disfavored]Desfavorecido[/url] e um Fatebinder experiente? Já vi probabilidades piores, suponho."</DefaultText>
+      <DefaultText>"Uma gangue esfarrapada Refrão contra um veterano [url=glossary:disfavored]Desfavorecido[/url] e um Vinculador do Destino experiente? Já vi probabilidades piores, suponho."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -485,7 +485,7 @@ Sangue escorrendo de seu pescoço e boca, Faísca Descuidada cai de joelhos.</De
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Apenas um tolo cruzaria o Vinculador do Destino pelo [url=glossary:the voices of nerat]o Vozes de Nerat[/url]."</DefaultText>
+      <DefaultText>"Apenas um tolo cruzaria o Vinculador do Destino pelo [url=glossary:the voices of nerat]As Vozes de Nerat[/url]."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

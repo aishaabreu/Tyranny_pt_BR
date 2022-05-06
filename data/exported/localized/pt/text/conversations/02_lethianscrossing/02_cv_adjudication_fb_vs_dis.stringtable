@@ -21,12 +21,12 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>[Para Cressina] "Dizer eu o que aconteceu com Out-of-the-Way."</DefaultText>
+      <DefaultText>[Para Cressina] "Dizer eu o que aconteceu com Fora do Caminho."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>[Para Vitus] "Dizer eu o que aconteceu com Out-of-the-Way."</DefaultText>
+      <DefaultText>[Para Vitus] "Dizer eu o que aconteceu com Fora do Caminho."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Out-of-the-Way e eu estávamos levando uma carga de ferro do armazém para a forja. Esqueci o manifesto do dono da casa, então disse ao Out-of-the-Way que esperasse por mim enquanto eu voltava para pegá-lo."
+      <DefaultText>"Fora do Caminho e eu estávamos levando uma carga de ferro do armazém para a forja. Esqueci o manifesto do dono da casa, então disse ao Fora do Caminho que esperasse por mim enquanto eu voltava para pegá-lo."
 
 "Quando voltei, houve gritos e eu sabia que algo estava errado."</DefaultText>
       <FemaleText />
@@ -63,7 +63,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Sim! As pessoas de [url=glossary:lethian's crossing]A travessia de Lethian[/url] podem ser implacáveis. Sim, ela é apenas um animal, mas não era propriedade deles."</DefaultText>
+      <DefaultText>"Sim! As pessoas de [url=glossary:lethian's crossing]A Travessia de Lethian[/url] podem ser implacáveis. Sim, ela é apenas um animal, mas não era propriedade deles."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -98,12 +98,12 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Vitus está à direita. Out-of-the-Way pode ter sido provocado, mas Vitus fez o que era necessário para proteger a cidade."</DefaultText>
+      <DefaultText>"Vitus está à direita. Fora do Caminho pode ter sido provocado, mas Vitus fez o que era necessário para proteger a cidade."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>[Para ambos] "Vocês dois estão errados. Cressina não receberá nada de Vitus e Vitus comprará suprimentos e os entregará ao [url=glossary:forge-bound]Forge-Bound[/url] como pagamento."</DefaultText>
+      <DefaultText>[Para ambos] "Vocês dois estão errados. Cressina não receberá nada de Vitus e Vitus comprará suprimentos e os entregará ao [url=glossary:forge-bound]Vinculado à Forja[/url] como pagamento."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -128,7 +128,7 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Eu direi que esta é uma reviravolta que eu não esperava. Mas se esse é o seu desejo, então estou em dívida com ele. Sua palavra é lei, Vinculador do Destino, quer eu concorde ou não. Após minha patrulha, trabalharei com nosso fornecedor da guarnição e entregarei uma remessa para [url=glossary:forge-bound]Forge-Bound[/url] como pagamento pelo Homem-Besta." perdido. "Desperdício de dinheiro, bens e tempo, se você me perguntar...</DefaultText>
+      <DefaultText>"Eu direi que esta é uma reviravolta que eu não esperava. Mas se esse é o seu desejo, então estou em dívida com ele. Sua palavra é lei, Vinculador do Destino, quer eu concorde ou não. Após minha patrulha, trabalharei com nosso fornecedor da guarnição e entregarei uma remessa para [url=glossary:forge-bound]Vinculado à Forja[/url] como pagamento pelo Homem-Besta." perdido. "Desperdício de dinheiro, bens e tempo, se você me perguntar...</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -143,19 +143,19 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>Vitus começa a rir e balança um dedo em advertência para você. "Isso é algo que eu não esperava, Fatebinder! Belo movimento! Acho que me serve bem por supor que todos estavam jogando no mesmo nível. Posso não concordar com a decisão, mas jurei cumpri-la e assim o farei."</DefaultText>
+      <DefaultText>Vitus começa a rir e balança um dedo em advertência para você. "Isso é algo que eu não esperava, Vinculador do Destino! Belo movimento! Acho que me serve bem por supor que todos estavam jogando no mesmo nível. Posso não concordar com a decisão, mas jurei cumpri-la e assim o farei."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Fatebinder - um momento do seu tempo! Uma caricatura da mais alta ordem foi lançada contra mim e eu imploro que retifique essa atrocidade!"</DefaultText>
+      <DefaultText>"Vinculador do Destino - um momento do seu tempo! Uma caricatura da mais alta ordem foi lançada contra mim e eu imploro que retifique essa atrocidade!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
       <DefaultText>O soldado [url=glossary:disfavored]Desfavorecido[/url] zomba. "'Travestida?' 'Suplicar?' 'Atrocidade?' O que há com o aumento repentino na estação, Cressina? Estamos tentando impressionar o Vinculador do Destino?"
 
-"Você é um escravo glorificado." Ele pontua cada frase contando-as nos dedos. "Você carrega ferro. Você atiça o fogo na forja. Você limpa após o real [url=glossary:forge-bound]Forge-Bound[/url]. Ninguém se importa com você, então não incomode o Vinculador do Destino com seus problemas sem sentido."</DefaultText>
+"Você é um escravo glorificado." Ele pontua cada frase contando-as nos dedos. "Você carrega ferro. Você atiça o fogo na forja. Você limpa após o real [url=glossary:forge-bound]Vinculado à Forja[/url]. Ninguém se importa com você, então não incomode o Vinculador do Destino com seus problemas sem sentido."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -210,7 +210,7 @@
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Eu corri de volta para onde eu tinha deixado Out-of-the-Way e eu podia ouvir alguém provocando ela, chamando-a de animal irracional e outras coisas terríveis. Então ouvi gritos e gritos. Quando virei a esquina, Vitus estava atropelando-a!"
+      <DefaultText>"Eu corri de volta para onde eu tinha deixado Fora do Caminho e eu podia ouvir alguém provocando ela, chamando-a de animal irracional e outras coisas terríveis. Então ouvi gritos e gritos. Quando virei a esquina, Vitus estava atropelando-a!"
 
 Ela dá a Vitus um olhar azedo e cospe nele.</DefaultText>
       <FemaleText />
@@ -234,7 +234,7 @@ Ela dá a Vitus um olhar azedo e cospe nele.</DefaultText>
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>"Quando todos apareceram, eu vi Out-of-the-Way de pé sobre alguém com as garras levantadas e o resto dos espectadores se encolhendo para longe dela. Eu gritei para ela parar, e ela se virou para olhar para mim com um olhar insano em seus olhos. Ela se virou e foi balançar, então eu a apressei e fiz o que tinha que fazer."</DefaultText>
+      <DefaultText>"Quando todos apareceram, eu vi Fora do Caminho de pé sobre alguém com as garras levantadas e o resto dos espectadores se encolhendo para longe dela. Eu gritei para ela parar, e ela se virou para olhar para mim com um olhar insano em seus olhos. Ela se virou e foi balançar, então eu a apressei e fiz o que tinha que fazer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -244,14 +244,14 @@ Ela dá a Vitus um olhar azedo e cospe nele.</DefaultText>
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Eu matei um animal enlouquecido que era um perigo para todos na cidade. Não sinto nenhum remorso pela ação. Não nego e faria de novo se isso significasse manter [url=glossary:lethian's crossing]A travessia de Lethian[/url] seguro."</DefaultText>
+      <DefaultText>"Eu matei um animal enlouquecido que era um perigo para todos na cidade. Não sinto nenhum remorso pela ação. Não nego e faria de novo se isso significasse manter [url=glossary:lethian's crossing]A Travessia de Lethian[/url] seguro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
       <DefaultText>"Você não está tão ansioso para contar os detalhes sangrentos?" Ele balança a cabeça.
 
-"Não há um morador da cidade. Pelo menos, não mais. Eu não fui rápido o suficiente para responder à perturbação. Out-of-the-Way já o havia matado e estripado quando cheguei. Claro, eu não sabia que ele já estava morto quando a atropelei, mas isso não mudaria nada. Ela estava louca e eu fiz o que pude para impedi-la de machucar mais alguém."</DefaultText>
+"Não há um morador da cidade. Pelo menos, não mais. Eu não fui rápido o suficiente para responder à perturbação. Fora do Caminho já o havia matado e estripado quando cheguei. Claro, eu não sabia que ele já estava morto quando a atropelei, mas isso não mudaria nada. Ela estava louca e eu fiz o que pude para impedi-la de machucar mais alguém."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -286,7 +286,7 @@ Ela dá a Vitus um olhar azedo e cospe nele.</DefaultText>
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Eu nunca neguei! Deixe-me declarar novamente - para que conste - eu matei Out-of-the-Way. Fiz isso para proteger as pessoas de [url=glossary:lethian's crossing]A travessia de Lethian[/url]. Eu não estou arrependido. Eu faria isso de novo. E eu não deveria ser punido por cumprir meu dever. Fim da história."</DefaultText>
+      <DefaultText>"Eu nunca neguei! Deixe-me declarar novamente - para que conste - eu matei Fora do Caminho. Fiz isso para proteger as pessoas de [url=glossary:lethian's crossing]A Travessia de Lethian[/url]. Eu não estou arrependido. Eu faria isso de novo. E eu não deveria ser punido por cumprir meu dever. Fim da história."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -333,7 +333,7 @@ Ele saúda. "Bom dia para você, Vinculador do Destino."</DefaultText>
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Cuidadoso, Cressina. Nós dois juramos cumprir a decisão Fatebinder. As coisas podem ficar muito ruins se você optar por voltar atrás." Ele olha para você e balança a cabeça. "Você acredita em algumas pessoas?"</DefaultText>
+      <DefaultText>"Cuidadoso, Cressina. Nós dois juramos cumprir a decisão Vinculador do Destino. As coisas podem ficar muito ruins se você optar por voltar atrás." Ele olha para você e balança a cabeça. "Você acredita em algumas pessoas?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

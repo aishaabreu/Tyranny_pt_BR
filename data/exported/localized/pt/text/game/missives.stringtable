@@ -16,17 +16,17 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Calio, Fatebinder de equilíbrio. Embora ela supere todos, exceto [url=glossary:tunon]Tunon[/url], o papel de Calio é incomum - ela deve investigar falhas nas ações dos agentes de [url=glossary:tunon]Tunon[/url] e fornecer advocacia para aqueles que ela acredita serem julgados injustamente. Dito de outra forma, ela é um cheque e equilíbrio para [url=glossary:tunon]Tunon[/url] - aquela Vinculador do Destino esperada para argumentativa, insubordinada. É trabalho de Calio espionar outros Vinculadores do Destino e colher as maçãs podres da colheita - e ela é frequentemente chamada para ensinar aos novos Vinculadores do Destino as habilidades de furtividade, subterfúgio e assassinato.</DefaultText>
+      <DefaultText>Calio, Vinculador do Destino de equilíbrio. Embora ela supere todos, exceto [url=glossary:tunon]Tunon[/url], o papel de Calio é incomum - ela deve investigar falhas nas ações dos agentes de [url=glossary:tunon]Tunon[/url] e fornecer advocacia para aqueles que ela acredita serem julgados injustamente. Dito de outra forma, ela é um cheque e equilíbrio para [url=glossary:tunon]Tunon[/url] - aquela Vinculador do Destino esperada para argumentativa, insubordinada. É trabalho de Calio espionar outros Vinculadores do Destino e colher as maçãs podres da colheita - e ela é frequentemente chamada para ensinar aos novos Vinculadores do Destino as habilidades de furtividade, subterfúgio e assassinato.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>[url=glossary:kyros]Kyros[/url]' Vontade</DefaultText>
+      <DefaultText>Vontade de [url=glossary:kyros]Kyros[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Arconte e Juiz de [url=glossary:kyros]Kyros[/url]' leis, [url=glossary:tunon]Tunon[/url] é responsável pela lei e ordem do território conquistado - civilizando os Tiers para o soberano. Ele também é seu senhor e soberano e pode matar você livremente, ou qualquer lacaio que viole suas regras.</DefaultText>
+      <DefaultText>Arconte e Juiz de lei de [url=glossary:kyros]Kyros[/url], [url=glossary:tunon]Tunon[/url] é responsável pela lei e ordem do território conquistado - civilizando os Camadas para o soberano. Ele também é seu senhor e soberano e pode matar você livremente, ou qualquer lacaio que viole suas regras.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>[url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] de...?</DefaultText>
+      <DefaultText>[url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] de...?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,12 +66,12 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>[url=glossary:graven ashe]Cinza esculpida[/url] o lendário líder de uma famosa e temida [url=glossary:disfavored]Desfavorecido[/url] legião. Temperado e obediente, [url=glossary:graven ashe]Cinza esculpida[/url] é um oficial leal a [url=glossary:kyros]Kyros[/url], e espera e exige grande respeito de seus soldados.</DefaultText>
+      <DefaultText>[url=glossary:graven ashe]Cinza Esculpida[/url] o lendário líder de uma famosa e temida [url=glossary:disfavored]Desfavorecido[/url] legião. Temperado e obediente, [url=glossary:graven ashe]Cinza Esculpida[/url] é um oficial leal a [url=glossary:kyros]Kyros[/url], e espera e exige grande respeito de seus soldados.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>O Arconte conhecido como [url=glossary:the voices of nerat]o Vozes de Nerat[/url] é o autodenominado regente da enorme horda [url=glossary:scarlet chorus]Coro Escarlate[/url]. Embora as histórias sobre seu poder arcano e senso de humor cruel, há pouca palavra definida sobre a verdadeira natureza Vozes'. Sabe-se que ele é capaz de 'coletar' as memórias (e possivelmente mentes inteiras dos outros) - dando-lhe uma base de conhecimento perturbadoramente expansiva.</DefaultText>
+      <DefaultText>O Arconte conhecido como [url=glossary:the voices of nerat]As Vozes de Nerat[/url] é o autodenominado regente da enorme horda [url=glossary:scarlet chorus]Coro Escarlate[/url]. Embora as histórias sobre seu poder arcano e senso de humor cruel, há pouca palavra definida sobre a verdadeira natureza Vozes'. Sabe-se que ele é capaz de 'coletar' as memórias (e possivelmente mentes inteiras dos outros) - dando-lhe uma base de conhecimento perturbadoramente expansiva.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,7 +86,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>[TEMP] Retorne para Ashe</DefaultText>
+      <DefaultText>[TEMP] Retorne para Cinza</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,7 +101,7 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>[TEMP] Ashe exige informações sobre o Editais</DefaultText>
+      <DefaultText>[TEMP] Cinza exige informações sobre o Editais</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -141,7 +141,7 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>[TEMP] Reúna-se com [url=glossary:bleden mark]Marca de mistura[/url]</DefaultText>
+      <DefaultText>[TEMP] Reúna-se com [url=glossary:bleden mark]Marca de Mistura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -40,7 +40,7 @@
       <ID>8</ID>
       <DefaultText>"Você está sendo julgado por transgredir a autoridade Soberano - infringir as leis do Império, trazer caos a uma conquista ordenada e se intrometer em preocupações que estavam além de sua posição."
 
-"Nossa diretriz de trazer [url=glossary:kyros]Kyros[/url]' A paz para o Camadas sofreu, e você responderá pelo papel que desempenhou."</DefaultText>
+"Nossa diretriz de trazer A paz de [url=glossary:kyros]Kyros[/url] para o Camadas sofreu, e você responderá pelo papel que desempenhou."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -85,12 +85,12 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Você concedeu o controle de [url=glossary:lethian's crossing]A travessia de Lethian[/url] ao [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] - uma ralé mercenária que perdeu todos os direitos à cidade durante a campanha Refúgio. Explique-se."</DefaultText>
+      <DefaultText>"Você concedeu o controle de [url=glossary:lethian's crossing]A Travessia de Lethian[/url] ao [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] - uma ralé mercenária que perdeu todos os direitos à cidade durante a campanha Refúgio. Explique-se."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"[url=glossary:lethian's crossing]A travessia de Lethian[/url] está sob minha proteção, e ainda assim você roubou o Elmo Magebane. Sem a proteção arcana que encomendei do [url=glossary:forge-bound]Forge-Bound[/url], a cidade é colocada diante do Maldito como uma oferenda." "Por que você a roubou? "</DefaultText>
+      <DefaultText>"[url=glossary:lethian's crossing]A Travessia de Lethian[/url] está sob minha proteção, e ainda assim você roubou o Elmo Magebane. Sem a proteção arcana que encomendei do [url=glossary:forge-bound]Vinculado à Forja[/url], a cidade é colocada diante do Maldito como uma oferenda." "Por que você a roubou? "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -105,12 +105,12 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url]' forças não teriam feito melhor."</DefaultText>
+      <DefaultText>"forças de [url=glossary:kyros]Kyros[/url] não teriam feito melhor."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"O [url=glossary:disfavored]Desfavorecido[/url] não aguentava um forte modesto. Poupei [url=glossary:kyros]Kyros[/url]' exército de sua unidade mais fraca."</DefaultText>
+      <DefaultText>"O [url=glossary:disfavored]Desfavorecido[/url] não aguentava um forte modesto. Poupei exército de [url=glossary:kyros]Kyros[/url] de sua unidade mais fraca."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -140,7 +140,7 @@
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Seu raciocínio soa mais à vontade com o [url=glossary:scarlet chorus]Coro Escarlate[/url], mas seu ponto de vista está correto. Se a legião não conseguiu vencer o [url=glossary:unbroken]ininterrupto[/url] e um agente do Tribunal, talvez seu treinamento tenha sido falho."</DefaultText>
+      <DefaultText>"Seu raciocínio soa mais à vontade com o [url=glossary:scarlet chorus]Coro Escarlate[/url], mas seu ponto de vista está correto. Se a legião não conseguiu vencer o [url=glossary:unbroken]Inquebrável[/url] e um agente do Tribunal, talvez seu treinamento tenha sido falho."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -215,8 +215,8 @@
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url]' A paz é uma mentira. O Senhor Supremo detém o domínio porque ignoramos as alternativas. O melhor soberano está diante de você, pronto para definir a justiça como achar melhor."</DefaultText>
-      <FemaleText>"[url=glossary:kyros]Kyros[/url]' A paz é uma mentira. O Senhor Supremo detém o domínio porque ignoramos as alternativas. A melhor soberano está diante de você, pronta para definir a justiça como achar melhor."</FemaleText>
+      <DefaultText>"A paz de [url=glossary:kyros]Kyros[/url] é uma mentira. O Senhor Supremo detém o domínio porque ignoramos as alternativas. O melhor soberano está diante de você, pronto para definir a justiça como achar melhor."</DefaultText>
+      <FemaleText>"A paz de [url=glossary:kyros]Kyros[/url] é uma mentira. O Senhor Supremo detém o domínio porque ignoramos as alternativas. A melhor soberano está diante de você, pronta para definir a justiça como achar melhor."</FemaleText>
     </Entry>
     <Entry>
       <ID>81</ID>
@@ -274,7 +274,7 @@
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>"Inocente. Contra todas as razões ou expectativas, eu o considero inocente. Seu testemunho foi suficiente para justificar suas ações, sua auto-nomeada autoridade e seu enfraquecimento da lei [url=glossary:kyros]Kyros[/url]'. Eu... mal posso acreditar." 
+      <DefaultText>"Inocente. Contra todas as razões ou expectativas, eu o considero inocente. Seu testemunho foi suficiente para justificar suas ações, sua auto-nomeada autoridade e seu enfraquecimento da lei de [url=glossary:kyros]Kyros[/url]. Eu... mal posso acreditar." 
 
 [url=glossary:tunon]Tunon[/url] levanta a mão trêmula para a máscara.</DefaultText>
       <FemaleText />
@@ -298,10 +298,10 @@
       <ID>97</ID>
       <DefaultText>"Hubris em face da aniquilação. Minha Corte, e o mundo em geral, está melhor se livrar de você, coitada."
 
-"[url=glossary:bleden mark]Marca de mistura[/url], execute-o!"</DefaultText>
+"[url=glossary:bleden mark]Marca de Mistura[/url], execute-o!"</DefaultText>
       <FemaleText>"Hubris em face da aniquilação. Minha corte, e o mundo em geral, está melhor se livrar de você, coitada."
 
-"[url=glossary:bleden mark]Marca de mistura[/url], execute-a!"</FemaleText>
+"[url=glossary:bleden mark]Marca de Mistura[/url], execute-a!"</FemaleText>
     </Entry>
     <Entry>
       <ID>98</ID>
@@ -315,7 +315,7 @@
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Arconte... sua apresentação no Tribunal hoje abalou muitas das minhas crenças centrais. Coisas que eu considerava sagradas sob a lei [url=glossary:kyros]Kyros[/url]' agora são... incertas." Ele olha para o martelo com uma sensação de perplexidade.</DefaultText>
+      <DefaultText>"Arconte... sua apresentação no Tribunal hoje abalou muitas das minhas crenças centrais. Coisas que eu considerava sagradas sob a lei de [url=glossary:kyros]Kyros[/url] agora são... incertas." Ele olha para o martelo com uma sensação de perplexidade.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -411,7 +411,7 @@ No entanto [url=glossary:tunon]Tunon[/url] mantém um exterior estóico, algo so
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Minha adesão à lei [url=glossary:kyros]Kyros[/url]' e minha devoção à justiça me puxam em direções opostas. Estou... em conflito." 
+      <DefaultText>"Minha adesão à lei de [url=glossary:kyros]Kyros[/url] e minha devoção à justiça me puxam em direções opostas. Estou... em conflito." 
 
 "Você fez isso comigo... você fez o caos fora de ordem."</DefaultText>
       <FemaleText />
@@ -433,14 +433,14 @@ No entanto [url=glossary:tunon]Tunon[/url] mantém um exterior estóico, algo so
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url]' as leis são injustas. Aqueles que se governam devem continuar a fazê-lo."</DefaultText>
+      <DefaultText>"as leis de [url=glossary:kyros]Kyros[/url] são injustas. Aqueles que se governam devem continuar a fazê-lo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
       <DefaultText>"Você lutou ao lado de ambos os exércitos durante a conquista, então não devo duvidar de sua perspectiva sobre o assunto. Embora eu ache preocupante."
 
-"[url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] at [url=glossary:vendrien's well]Poço de Vendrien[/url] deveria ter destruído o Arcontes, ou forçou-os a cooperar, mas sua intervenção por si só foi o fator decisivo..." 
+"[url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] at [url=glossary:vendrien's well]Poço de Vendrien[/url] deveria ter destruído o Arcontes, ou forçou-os a cooperar, mas sua intervenção por si só foi o fator decisivo..." 
 
 [url=glossary:tunon]Tunon[/url] aparece profundamente em pensamento.</DefaultText>
       <FemaleText />
@@ -457,7 +457,7 @@ No entanto [url=glossary:tunon]Tunon[/url] mantém um exterior estóico, algo so
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>"Você digitou o Oldwalls, uma clara violação da lei [url=glossary:kyros]Kyros[/url]'. Como você responde por essa perversão da justiça? Você se considera acima da lei?"</DefaultText>
+      <DefaultText>"Você digitou as Muralhas Antigas, uma clara violação da lei de [url=glossary:kyros]Kyros[/url]. Como você responde por essa perversão da justiça? Você se considera acima da lei?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -482,7 +482,7 @@ No entanto [url=glossary:tunon]Tunon[/url] mantém um exterior estóico, algo so
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"Isso pode levar a uma investigação mais aprofundada, mas o tempo para isso já passou. Estou disposto a acreditar que suas ações no Camadas o levaram a esses lugares proibidos, e você não viu outra opção. Isso não altera a imutabilidade da lei [url=glossary:kyros]Kyros[/url]'."</DefaultText>
+      <DefaultText>"Isso pode levar a uma investigação mais aprofundada, mas o tempo para isso já passou. Estou disposto a acreditar que suas ações no Camadas o levaram a esses lugares proibidos, e você não viu outra opção. Isso não altera a imutabilidade da lei de [url=glossary:kyros]Kyros[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -492,7 +492,7 @@ No entanto [url=glossary:tunon]Tunon[/url] mantém um exterior estóico, algo so
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>"Durante a conquista, você aceitou um suborno em troca de armar um comandante com [url=glossary:forge-bound]Forge-Bound[/url] ferro - um privilégio reservado a poucos merecedores. Como você responde por sua corrupção?"</DefaultText>
+      <DefaultText>"Durante a conquista, você aceitou um suborno em troca de armar um comandante com [url=glossary:forge-bound]Vinculado à Forja[/url] ferro - um privilégio reservado a poucos merecedores. Como você responde por sua corrupção?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -507,12 +507,12 @@ No entanto [url=glossary:tunon]Tunon[/url] mantém um exterior estóico, algo so
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>"Uma espada não poderia ter sido uma ruptura tão grande para o [url=glossary:forge-bound]Forge-Bound[/url]."</DefaultText>
+      <DefaultText>"Uma espada não poderia ter sido uma ruptura tão grande para o [url=glossary:forge-bound]Vinculado à Forja[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>"Era seu dever respeitar a lei [url=glossary:kyros]Kyros[/url]', não a doação de bugigangas. E, no entanto, dada a conduta de ambos os exércitos, estou disposto a acreditar em seu relato."</DefaultText>
+      <DefaultText>"Era seu dever respeitar a lei de [url=glossary:kyros]Kyros[/url], não a doação de bugigangas. E, no entanto, dada a conduta de ambos os exércitos, estou disposto a acreditar em seu relato."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -522,12 +522,12 @@ No entanto [url=glossary:tunon]Tunon[/url] mantém um exterior estóico, algo so
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>"Todo ofício de ferro representa tempo e esforço, e toda interrupção tem suas consequências. Não subestime o trabalho dos [url=glossary:kyros]Kyros[/url]' ferreiros."</DefaultText>
+      <DefaultText>"Todo ofício de ferro representa tempo e esforço, e toda interrupção tem suas consequências. Não subestime o trabalho dos ferreiros de [url=glossary:kyros]Kyros[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>"Você enviou o [url=glossary:forge-bound]Forge-Bound[/url] Master para [url=glossary:the voices of nerat]the Vozes de Nerat[/url], onde [url=glossary:kyros]Kyros[/url] só sabe que destino terrível ela sofreu. Ela estava sob minha proteção."</DefaultText>
+      <DefaultText>"Você enviou o [url=glossary:forge-bound]Vinculado à Forja[/url] Master para [url=glossary:the voices of nerat]As Vozes de Nerat[/url], onde [url=glossary:kyros]Kyros[/url] só sabe que destino terrível ela sofreu. Ela estava sob minha proteção."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -601,14 +601,14 @@ No entanto [url=glossary:tunon]Tunon[/url] mantém um exterior estóico, algo so
       <ID>171</ID>
       <DefaultText>"Eu tenho uma pergunta final, Vinculador do Destino."
 
-"Você foi trazido para esta campanha para julgar as divergências entre os dois exércitos. Após sua chegada, as coisas rapidamente se transformaram em uma guerra civil." "Você se juntou conscientemente à conquista dos Tiers para semear discórdia em seu rastro, ou você foi apenas uma vítima das circunstâncias?"</DefaultText>
+"Você foi trazido para esta campanha para julgar as divergências entre os dois exércitos. Após sua chegada, as coisas rapidamente se transformaram em uma guerra civil." "Você se juntou conscientemente à conquista dos Camadas para semear discórdia em seu rastro, ou você foi apenas uma vítima das circunstâncias?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>172</ID>
       <DefaultText>"Tenho apenas uma pergunta, Vinculador do Destino."
 
-"Você foi trazido para esta campanha para julgar as divergências entre os dois exércitos. Após sua chegada, as coisas rapidamente se transformaram em uma guerra civil." "Você se juntou conscientemente à conquista dos Tiers para semear discórdia em seu rastro, ou você foi apenas uma vítima das circunstâncias?"</DefaultText>
+"Você foi trazido para esta campanha para julgar as divergências entre os dois exércitos. Após sua chegada, as coisas rapidamente se transformaram em uma guerra civil." "Você se juntou conscientemente à conquista dos Camadas para semear discórdia em seu rastro, ou você foi apenas uma vítima das circunstâncias?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -702,7 +702,7 @@ No entanto [url=glossary:tunon]Tunon[/url] mantém um exterior estóico, algo so
     </Entry>
     <Entry>
       <ID>191</ID>
-      <DefaultText>"Você acha que o humor vai poupar você da minha justiça, Fatebinder? Acho que não."</DefaultText>
+      <DefaultText>"Você acha que o humor vai poupar você da minha justiça, Vinculador do Destino? Acho que não."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -757,7 +757,7 @@ No entanto [url=glossary:tunon]Tunon[/url] mantém um exterior estóico, algo so
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>"Você... você quer que eu fale, Adjudicator?" 
+      <DefaultText>"Você... você quer que eu fale, Árbitro?" 
 
 A armadura de Barik faz um som distinto de chocalho que ecoa no tribunal enquanto ele avança.</DefaultText>
       <FemaleText />
@@ -769,7 +769,7 @@ A armadura de Barik faz um som distinto de chocalho que ecoa no tribunal enquant
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>"Archon dá ordens para Mulher-Besta. Pensa Mata-in-Shadow vai obedecer?"
+      <DefaultText>"Arconte dá ordens para Mulher-Besta. Pensa Mortes nas Sombras vai obedecer?"
 
 Ela inclina a cabeça para um lado e encara o Arconte por um longo momento, seus lábios torcidos com violência mal contida. Então, com um bufo irritado, ela avança.</DefaultText>
       <FemaleText />
@@ -803,7 +803,7 @@ Ela inclina a cabeça para um lado e encara o Arconte por um longo momento, seus
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>"Para ser perfeitamente justo, o Fatebinder não é do tipo que compartilha histórias de guerra. Respeito o silêncio, mas se você está procurando minha opinião honesta, não tenho nada para dar." Ele olha em sua direção com incerteza.</DefaultText>
+      <DefaultText>"Para ser perfeitamente justo, o Vinculador do Destino não é do tipo que compartilha histórias de guerra. Respeito o silêncio, mas se você está procurando minha opinião honesta, não tenho nada para dar." Ele olha em sua direção com incerteza.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -815,7 +815,7 @@ Barik acena para você.</DefaultText>
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>"O Fatebinder e eu se dão bem como um casal de gatos. Nós arranhamos aqui e ali, mas há respeito a ser tido. Às vezes acho que concordamos demais, mas eh. Você não pode lutar contra todos."</DefaultText>
+      <DefaultText>"O Vinculador do Destino e eu se dão bem como um casal de gatos. Nós arranhamos aqui e ali, mas há respeito a ser tido. Às vezes acho que concordamos demais, mas eh. Você não pode lutar contra todos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -845,7 +845,7 @@ Barik acena para você.</DefaultText>
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText>"Você tem o Arquivo Silencioso em sua posse - um repositório de conhecimento proibido como poucos no Norte já compreenderam. Como você fala com essa clara violação da lei [url=glossary:kyros]Kyros[/url]'?"</DefaultText>
+      <DefaultText>"Você tem o Arquivo Silencioso em sua posse - um repositório de conhecimento proibido como poucos no Norte já compreenderam. Como você fala com essa clara violação da lei de [url=glossary:kyros]Kyros[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -865,12 +865,12 @@ Barik acena para você.</DefaultText>
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>"Você não está isento da lei [url=glossary:kyros]Kyros[/url]', mas seu ponto é aceito. Se você não usou conhecimento além do seu alcance para espalhar o caos, então o Tribunal está disposto a perdoar."</DefaultText>
+      <DefaultText>"Você não está isento da lei de [url=glossary:kyros]Kyros[/url], mas seu ponto é aceito. Se você não usou conhecimento além do seu alcance para espalhar o caos, então o Tribunal está disposto a perdoar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>"Você não entendeu um ponto crucial desta conquista. Não é suficiente simplesmente subjugar o Camadas - precisávamos fazê-lo dentro dos limites ordenados da lei [url=glossary:kyros]Kyros[/url]'. Mesmo que trouxessemos a paz ao Camadas hoje, cada caso de burlar a lei coloca nossa vitória em dúvida."</DefaultText>
+      <DefaultText>"Você não entendeu um ponto crucial desta conquista. Não é suficiente simplesmente subjugar o Camadas - precisávamos fazê-lo dentro dos limites ordenados da lei de [url=glossary:kyros]Kyros[/url]. Mesmo que trouxessemos a paz ao Camadas hoje, cada caso de burlar a lei coloca nossa vitória em dúvida."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -880,7 +880,7 @@ Barik acena para você.</DefaultText>
     </Entry>
     <Entry>
       <ID>229</ID>
-      <DefaultText>"Você seguiu [url=glossary:graven ashe]Cinza esculpida[/url] e sua legião [url=glossary:disfavored]Desfavorecido[/url] com um coração leal, e ainda assim você ligou o Arconte quando eu o chamei para o julgamento. Explique suas motivações."</DefaultText>
+      <DefaultText>"Você seguiu [url=glossary:graven ashe]Cinza Esculpida[/url] e sua legião [url=glossary:disfavored]Desfavorecido[/url] com um coração leal, e ainda assim você ligou o Arconte quando eu o chamei para o julgamento. Explique suas motivações."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -895,7 +895,7 @@ Barik acena para você.</DefaultText>
     </Entry>
     <Entry>
       <ID>232</ID>
-      <DefaultText>"Ashe perdeu a vantagem. É hora do velho se aposentar."</DefaultText>
+      <DefaultText>"Cinza perdeu a vantagem. É hora do velho se aposentar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -910,7 +910,7 @@ Barik acena para você.</DefaultText>
     </Entry>
     <Entry>
       <ID>235</ID>
-      <DefaultText>"Eu só esperava lutar com um a menos Arconte, e [url=glossary:the voices of nerat]o Vozes de Nerat[/url] me assustou mais."</DefaultText>
+      <DefaultText>"Eu só esperava lutar com um a menos Arconte, e [url=glossary:the voices of nerat]As Vozes de Nerat[/url] me assustou mais."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -962,12 +962,12 @@ Barik acena para você.</DefaultText>
     </Entry>
     <Entry>
       <ID>248</ID>
-      <DefaultText>"Você resolveu [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] de Tempestades com um dispositivo legal. Além do mais, você poupou Stalwart's linhagem dominante - burlando o propósito do [url=glossary:edict][/url]." "Você achou que a fúria do Soberano era um enigma para você desvendar?"</DefaultText>
+      <DefaultText>"Você resolveu [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] de Tempestades com um dispositivo legal. Além do mais, você poupou Robustos linhagem dominante - burlando o propósito do [url=glossary:edict]Edital[/url]." "Você achou que a fúria do Soberano era um enigma para você desvendar?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>249</ID>
-      <DefaultText>"Se o Overlord vontade pode ser superada por uma brecha legal, você não vê a implicação? [url=glossary:kyros]Kyros[/url] é falível."</DefaultText>
+      <DefaultText>"Se o Soberano vontade pode ser superada por uma brecha legal, você não vê a implicação? [url=glossary:kyros]Kyros[/url] é falível."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -987,12 +987,12 @@ Barik acena para você.</DefaultText>
     </Entry>
     <Entry>
       <ID>253</ID>
-      <DefaultText>"Na verdade não, mas havia condições a serem cumpridas, e você as enganou. Você subverteu a vontade Soberano para se adequar ao seu design. Isso não pode ser tolerado."</DefaultText>
+      <DefaultText>"Na verdade não, mas havia condições a serem cumpridas, e você as enganou. Você subverteu a vontade Soberano para se adequar ao seu desenho. Isso não pode ser tolerado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>254</ID>
-      <DefaultText>"Não, não foi. Eu o enviei para os Tiers como representante da lei [url=glossary:kyros]Kyros[/url]'. Em vez de cumprir seus deveres, você encontrou maneiras convenientes de contorná-los completamente."</DefaultText>
+      <DefaultText>"Não, não foi. Eu o enviei para os Camadas como representante da lei de [url=glossary:kyros]Kyros[/url]. Em vez de cumprir seus deveres, você encontrou maneiras convenientes de contorná-los completamente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1039,7 +1039,7 @@ Barik acena para você.</DefaultText>
     </Entry>
     <Entry>
       <ID>263</ID>
-      <DefaultText>"Mas acusar Ashe de alta traição contra [url=glossary:kyros]Kyros[/url]... não consigo resolver o assunto na minha cabeça. Parece-me um erro de julgamento."</DefaultText>
+      <DefaultText>"Mas acusar Cinza de alta traição contra [url=glossary:kyros]Kyros[/url]... não consigo resolver o assunto na minha cabeça. Parece-me um erro de julgamento."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1049,7 +1049,7 @@ Barik acena para você.</DefaultText>
     </Entry>
     <Entry>
       <ID>265</ID>
-      <DefaultText>"Alguém mais falará em nome de Fatebinder?"</DefaultText>
+      <DefaultText>"Alguém mais falará em nome de Vinculador do Destino?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1106,12 +1106,12 @@ Ela estufa o peito nu, orgulhosa e ostentando.</DefaultText>
     </Entry>
     <Entry>
       <ID>278</ID>
-      <DefaultText>"Sou leal [url=glossary:bolverk]Bolverk[/url] ao humano mais duro e cruel de todas as Camadas terras. Não se voltaria tão facilmente contra Alfa, não-não. Ter visto com os próprios olhos coisas Alfa que Kills-in-Shadow pode fazer. Lutar contra Alfa significaria da mulher-fera a própria morte."</DefaultText>
+      <DefaultText>"Sou leal [url=glossary:bolverk]Bolverk[/url] ao humano mais duro e cruel de todas as Camadas terras. Não se voltaria tão facilmente contra Alfa, não-não. Ter visto com os próprios olhos coisas Alfa que Mortes nas Sombras pode fazer. Lutar contra Alfa significaria da mulher-fera a própria morte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>279</ID>
-      <DefaultText>"Pensamento Alfa protegeria Mulher-Besta de [url=glossary:kyros]Kyros[/url]. O pensamento era a melhor chance de sobreviver. Mas Alfa ainda não se provou para Mortes-in-Shadow. Então agora - estou pensando que talvez seja porque Alfa é fraco. É mais uma presa do que um predador, sim?"</DefaultText>
+      <DefaultText>"Pensamento Alfa protegeria Mulher-Besta de [url=glossary:kyros]Kyros[/url]. O pensamento era a melhor chance de sobreviver. Mas Alfa ainda não se provou para Mortes nas Sombras. Então agora - estou pensando que talvez seja porque Alfa é fraco. É mais uma presa do que um predador, sim?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1281,7 +1281,7 @@ Ela estufa o peito nu, orgulhosa e ostentando.</DefaultText>
     </Entry>
     <Entry>
       <ID>319</ID>
-      <DefaultText>"Como dito anteriormente, isso foi apenas uma formalidade. Suas ações no Camadas mostraram que você procura trazer ordem ao caos deixado pelas forças [url=glossary:kyros]Kyros[/url]'."</DefaultText>
+      <DefaultText>"Como dito anteriormente, isso foi apenas uma formalidade. Suas ações no Camadas mostraram que você procura trazer ordem ao caos deixado pelas forças de [url=glossary:kyros]Kyros[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1306,12 +1306,12 @@ Ela estufa o peito nu, orgulhosa e ostentando.</DefaultText>
     </Entry>
     <Entry>
       <ID>325</ID>
-      <DefaultText>"Passei minha vida sendo usado, degradado e humilhado por todos em quem me disseram para confiar. O Fatebinder não é exceção. Sua crueldade e insensibilidade aparecem em tudo que ele faz. Se eu estivesse no controle de meus poderes, não hesitaria em acabar com a vida dele."</DefaultText>
-      <FemaleText>"Passei minha vida sendo usado, degradado e humilhado por todos em quem me disseram para confiar. O Fatebinder não é exceção. Sua crueldade e insensibilidade transparecem em tudo o que ela faz. Se eu estivesse no controle de meus poderes, não hesitaria em acabar com a vida dela."</FemaleText>
+      <DefaultText>"Passei minha vida sendo usado, degradado e humilhado por todos em quem me disseram para confiar. O Vinculador do Destino não é exceção. Sua crueldade e insensibilidade aparecem em tudo que ele faz. Se eu estivesse no controle de meus poderes, não hesitaria em acabar com a vida dele."</DefaultText>
+      <FemaleText>"Passei minha vida sendo usado, degradado e humilhado por todos em quem me disseram para confiar. O Vinculador do Destino não é exceção. Sua crueldade e insensibilidade transparecem em tudo o que ela faz. Se eu estivesse no controle de meus poderes, não hesitaria em acabar com a vida dela."</FemaleText>
     </Entry>
     <Entry>
       <ID>326</ID>
-      <DefaultText>"Quaisquer que sejam minhas queixas, o Arconte mostra decência com as pessoas do Camadas - mais do que os outros, com certeza. Provavelmente não significa nada para você, mas se todos os agentes [url=glossary:kyros]Kyros[/url]' fossem assim, talvez você não precisasse nos conquistar da maneira mais difícil."</DefaultText>
+      <DefaultText>"Quaisquer que sejam minhas queixas, o Arconte mostra decência com as pessoas do Camadas - mais do que os outros, com certeza. Provavelmente não significa nada para você, mas se todos os agentes de [url=glossary:kyros]Kyros[/url] fossem assim, talvez você não precisasse nos conquistar da maneira mais difícil."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1326,12 +1326,12 @@ Ela estufa o peito nu, orgulhosa e ostentando.</DefaultText>
     </Entry>
     <Entry>
       <ID>330</ID>
-      <DefaultText>"Alfa para matar-in-Shadow matou e massacrou impiedosamente, deixando um rastro de cadáveres de presas por todo Camadas-terras. É o melhor lutador - pode fazer até mesmo os blindados fugirem, ganindo, com medo. Não encontrará melhor predador em outro lugar."</DefaultText>
+      <DefaultText>"Alfa para Mortes nas Sombras matou e massacrou impiedosamente, deixando um rastro de cadáveres de presas por todo Camadas-terras. É o melhor lutador - pode fazer até mesmo os blindados fugirem, ganindo, com medo. Não encontrará melhor predador em outro lugar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>331</ID>
-      <DefaultText>"Alfa para matar-in-Shadow matou e abateu impiedosamente, deixando um rastro de cadáveres de presas por todo Camadas-terras. É o melhor lutador - pode fazer até [url=glossary:unbroken]ininterrupto[/url] humanos fugirem, ganindo, com medo. Não encontrará melhor predador em outro lugar."</DefaultText>
+      <DefaultText>"Alfa para Mortes nas Sombras matou e abateu impiedosamente, deixando um rastro de cadáveres de presas por todo Camadas-terras. É o melhor lutador - pode fazer até [url=glossary:unbroken]Inquebrável[/url] humanos fugirem, ganindo, com medo. Não encontrará melhor predador em outro lugar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1341,7 +1341,7 @@ Ela estufa o peito nu, orgulhosa e ostentando.</DefaultText>
     </Entry>
     <Entry>
       <ID>338</ID>
-      <DefaultText>"Receio que devo concordar, Árbitro. O relato de Ashe e a conduta Vozes' durante o cerco de [url=glossary:vendrien's well]Poço de Vendrien[/url] é preocupante, como você mesmo concordou."</DefaultText>
+      <DefaultText>"Receio que devo concordar, Árbitro. O relato de Cinza e a conduta Vozes' durante o cerco de [url=glossary:vendrien's well]Poço de Vendrien[/url] é preocupante, como você mesmo concordou."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1361,7 +1361,7 @@ Ela estufa o peito nu, orgulhosa e ostentando.</DefaultText>
     </Entry>
     <Entry>
       <ID>342</ID>
-      <DefaultText>"A lei estava no caminho de..." Fatebinder Calio balança a cabeça em confusão. "Espero que você se ouça, porque essa afirmação por si só mostra um desprezo extraordinário pelo nosso trabalho!" Ela olha para [url=glossary:tunon]Tunon[/url] para aprovação.</DefaultText>
+      <DefaultText>"A lei estava no caminho de..." Vinculador do Destino Calio balança a cabeça em confusão. "Espero que você se ouça, porque essa afirmação por si só mostra um desprezo extraordinário pelo nosso trabalho!" Ela olha para [url=glossary:tunon]Tunon[/url] para aprovação.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1381,7 +1381,7 @@ Ela estufa o peito nu, orgulhosa e ostentando.</DefaultText>
     </Entry>
     <Entry>
       <ID>346</ID>
-      <DefaultText>"Claramente o Fatebinder havia esgotado todos os aliados possíveis e precisava da ajuda dos inimigos para manter a ordem. Uma situação triste."</DefaultText>
+      <DefaultText>"Claramente o Vinculador do Destino havia esgotado todos os aliados possíveis e precisava da ajuda dos inimigos para manter a ordem. Uma situação triste."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1396,7 +1396,7 @@ Ela estufa o peito nu, orgulhosa e ostentando.</DefaultText>
     </Entry>
     <Entry>
       <ID>349</ID>
-      <DefaultText>"Um ponto convincente, Árbitro. As ordens deste foram vagas por design - imagino oferecer as mais amplas concessões possíveis?" Calio franze os lábios e observa a reação de [url=glossary:tunon]Tunon[/url].</DefaultText>
+      <DefaultText>"Um ponto convincente, Árbitro. As ordens deste foram vagas por desenho - imagino oferecer as mais amplas concessões possíveis?" Calio franze os lábios e observa a reação de [url=glossary:tunon]Tunon[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1421,7 +1421,7 @@ Ela estufa o peito nu, orgulhosa e ostentando.</DefaultText>
     </Entry>
     <Entry>
       <ID>354</ID>
-      <DefaultText>"Se eu pudesse encaixar uma palavra?" Rhogalus aperta as mãos e suspira. "O Tribunal é uma expressão legal do testamento [url=glossary:kyros]Kyros[/url]' assim como um testamento [url=glossary:edict]Edital[/url]. Um cancelou o outro, o que não é, por si só, ilegal?" Ele abre as mãos e sorri.</DefaultText>
+      <DefaultText>"Se eu pudesse encaixar uma palavra?" Rhogalus aperta as mãos e suspira. "O Tribunal é uma expressão legal do testamento de [url=glossary:kyros]Kyros[/url] assim como um testamento [url=glossary:edict]Edital[/url]. Um cancelou o outro, o que não é, por si só, ilegal?" Ele abre as mãos e sorri.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1471,7 +1471,7 @@ Ela estufa o peito nu, orgulhosa e ostentando.</DefaultText>
     </Entry>
     <Entry>
       <ID>364</ID>
-      <DefaultText>"Conduta à parte, o fato de que a corrupção Arcontes' é um fato presumido fala do sucesso desta missão Fatebinder. Não sei quanto a vocês," ele olha para o outro Vinculadores do Destino, "mas acho isso levemente encorajador."</DefaultText>
+      <DefaultText>"Conduta à parte, o fato de que a corrupção Arcontes' é um fato presumido fala do sucesso desta missão Vinculador do Destino. Não sei quanto a vocês," ele olha para o outro Vinculadores do Destino, "mas acho isso levemente encorajador."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1498,7 +1498,7 @@ Ela estufa o peito nu, orgulhosa e ostentando.</DefaultText>
     </Entry>
     <Entry>
       <ID>369</ID>
-      <DefaultText>"Inocente. Contra todas as razões ou expectativas, eu o considero inocente. Seu testemunho foi suficiente para justificar suas ações, sua auto-nomeada autoridade e seu enfraquecimento da lei [url=glossary:kyros]Kyros[/url]'. Eu... mal posso acreditar." 
+      <DefaultText>"Inocente. Contra todas as razões ou expectativas, eu o considero inocente. Seu testemunho foi suficiente para justificar suas ações, sua auto-nomeada autoridade e seu enfraquecimento da lei de [url=glossary:kyros]Kyros[/url]. Eu... mal posso acreditar." 
 
 [url=glossary:tunon]Tunon[/url] levanta a mão trêmula para a máscara.</DefaultText>
       <FemaleText />
@@ -1530,7 +1530,7 @@ Ela estufa o peito nu, orgulhosa e ostentando.</DefaultText>
     </Entry>
     <Entry>
       <ID>376</ID>
-      <DefaultText>"Vinculador do Destino, sua compreensão de nossa disciplina compartilhada desafia a minha, e sua inocência é uma acusação da lei [url=glossary:kyros]Kyros[/url]'. Eu supliquei antes de você... apenas para ter minha própria culpa jogada de volta na minha cara?"</DefaultText>
+      <DefaultText>"Vinculador do Destino, sua compreensão de nossa disciplina compartilhada desafia a minha, e sua inocência é uma acusação da lei de [url=glossary:kyros]Kyros[/url]. Eu supliquei antes de você... apenas para ter minha própria culpa jogada de volta na minha cara?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1545,7 +1545,7 @@ Ela estufa o peito nu, orgulhosa e ostentando.</DefaultText>
     </Entry>
     <Entry>
       <ID>379</ID>
-      <DefaultText>"Nenhum aluno meu perderia uma oportunidade de debater o labirinto astuto que é [url=glossary:kyros]Kyros[/url]' lei. O julgamento começa como planejado. Prepare-se para se levantar e ser julgado."</DefaultText>
+      <DefaultText>"Nenhum aluno meu perderia uma oportunidade de debater o labirinto astuto que é lei de [url=glossary:kyros]Kyros[/url]. O julgamento começa como planejado. Prepare-se para se levantar e ser julgado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

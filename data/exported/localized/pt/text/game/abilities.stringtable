@@ -110,7 +110,7 @@ Primeiro usado séculos atrás pelos Rainha do Sol, Arconte de Fogo, este sigilo
       <ID>26</ID>
       <DefaultText>Use o Sigilo do Gelo para drenar calor e energia para o Vazio, condensando água em geada e afligindo alvos com frio intenso.
 
-Um longo segredo do Escola de Geada Boreal, os magos entregaram esse conhecimento a [url=glossary:kyros]Kyros[/url] após o Norte general [url=glossary:graven ashe]Cinza esculpida[/url] ser derrotado pelas forças Soberano.</DefaultText>
+Um longo segredo do Escola de Geada Boreal, os magos entregaram esse conhecimento a [url=glossary:kyros]Kyros[/url] após o Norte general [url=glossary:graven ashe]Cinza Esculpida[/url] ser derrotado pelas forças Soberano.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -120,7 +120,7 @@ Um longo segredo do Escola de Geada Boreal, os magos entregaram esse conheciment
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Canalize energia através do Sigilo do Relâmpago, sigilo pessoal do Arconte das Tempestades, Governador do distrito Alcance detonado em [url=glossary:kyros]Kyros[/url]' Império.
+      <DefaultText>Canalize energia através do Sigilo do Relâmpago, sigilo pessoal do Arconte das Tempestades, Governador do distrito Alcance detonado no Império de [url=glossary:kyros]Kyros[/url].
 
 Poucos são capazes de liberar todo o potencial de este sigilo, já que o relâmpago invocado é difícil de controlar.</DefaultText>
       <FemaleText />
@@ -134,7 +134,7 @@ Poucos são capazes de liberar todo o potencial de este sigilo, já que o relâm
       <ID>32</ID>
       <DefaultText>O Sigilo do Vigor infunde um alvo com energia, aumentando a mente ou corpo com maior poder.
 
-Vigor pode ser altamente viciante para mentes mais fracas. Magos ambiciosos na corte [url=glossary:kyros]Kyros[/url]' são conhecidos por usar doses de Vigor para cativar os cortesãos, construindo redes de poder e influência com base na necessidade desesperada de seus alvos por mais um feitiço.</DefaultText>
+Vigor pode ser altamente viciante para mentes mais fracas. Magos ambiciosos na corte de [url=glossary:kyros]Kyros[/url] são conhecidos por usar doses de Vigor para cativar os cortesãos, construindo redes de poder e influência com base na necessidade desesperada de seus alvos por mais um feitiço.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -168,7 +168,7 @@ Atrofia foi descoberta séculos atrás no Oriente por um culto de magos tentando
       <ID>38</ID>
       <DefaultText>Usando o Sigilo da Vida infunde o alvo com a energia do Parteira órfã, Arconte do Renascimento. Todas as feridas, exceto as mais graves, são curadas por essa energia arcana.
 
-Embora a parteira órfã era poderosa, seus dons não eram adequados para resistir aos exércitos de [url=glossary:kyros]Kyros[/url]. Ela foi capturada e acorrentada, e seus poderes foram aproveitados para servir [url=glossary:kyros]Kyros[/url]' exércitos. Muitos cronistas do [url=glossary:kyros]Kyros[/url]' Império acreditam que seus poderes foram a força motriz por trás da rápida expansão do Império.</DefaultText>
+Embora a parteira órfã era poderosa, seus dons não eram adequados para resistir aos exércitos de [url=glossary:kyros]Kyros[/url]. Ela foi capturada e acorrentada, e seus poderes foram aproveitados para servir exército de [url=glossary:kyros]Kyros[/url]. Muitos cronistas do Império de [url=glossary:kyros]Kyros[/url] acreditam que seus poderes foram a força motriz por trás da rápida expansão do Império.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -183,7 +183,7 @@ Embora a parteira órfã era poderosa, seus dons não eram adequados para resist
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Convoque e controle a luz de Túmulo de Terrato - a lua fria que brilha no império [url=glossary:kyros]Kyros[/url]'. Gravelight suga energia de seus alvos, causando dano e convertendo-o em saúde para o lançador.</DefaultText>
+      <DefaultText>Convoque e controle a luz de Túmulo de Terrato - a lua fria que brilha no império de [url=glossary:kyros]Kyros[/url]. Gravelight suga energia de seus alvos, causando dano e convertendo-o em saúde para o lançador.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -370,12 +370,12 @@ Muitas vezes ridicularizados por magos de combate por sua incapacidade de matar 
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>Égide de Ashe</DefaultText>
+      <DefaultText>Égide de Cinza</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>[url=glossary:graven ashe]Cinza esculpida[/url] absorve a dor e o sofrimento de suas tropas, curando-as e removendo um efeito hostil</DefaultText>
+      <DefaultText>[url=glossary:graven ashe]Cinza Esculpida[/url] absorve a dor e o sofrimento de suas tropas, curando-as e removendo um efeito hostil</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -525,7 +525,7 @@ Muitas vezes ridicularizados por magos de combate por sua incapacidade de matar 
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>[url=glossary:graven ashe]Cinza esculpida[/url] absorve a dor de {0}.</DefaultText>
+      <DefaultText>[url=glossary:graven ashe]Cinza Esculpida[/url] absorve a dor de {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -540,7 +540,7 @@ Muitas vezes ridicularizados por magos de combate por sua incapacidade de matar 
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>[url=glossary:graven ashe]Cinza esculpida[/url] absorve {0}{1}.</DefaultText>
+      <DefaultText>[url=glossary:graven ashe]Cinza Esculpida[/url] absorve {0}{1}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1142,7 +1142,7 @@ Os efeitos dessa habilidade são modificados pelo Reputações de lealdade e med
     </Entry>
     <Entry>
       <ID>314</ID>
-      <DefaultText>O Fatebinder e Lantry trabalham juntos para criar uma aura lenta em torno de um membro do grupo. Inimigos dentro do alcance da aura ficam lentos. Quando os membros do grupo se moverem dentro da aura, seus efeitos hostis serão suspensos.</DefaultText>
+      <DefaultText>O Vinculador do Destino e Lantry trabalham juntos para criar uma aura lenta em torno de um membro do grupo. Inimigos dentro do alcance da aura ficam lentos. Quando os membros do grupo se moverem dentro da aura, seus efeitos hostis serão suspensos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1734,7 +1734,7 @@ Adiciona um bônus [url=glossary:accuracy]Precisão[/url] a Espeto, Coveiro e ha
       <ID>484</ID>
       <DefaultText>Use o Sigilo da Força para canalizar energia arcana em forças mágicas que empurram e derrubam inimigos no chão.
 
-Muitas guildas de magos ao longo dos séculos descobriram o Sigilo da Força, e cada um o manteve como um segredo zelosamente guardado. À medida que cada um foi conquistado e absorvido em [url=glossary:kyros]Kyros[/url]' Império, eles ficaram desapontados ao descobrir que seu 'segredo' era a parte mais conhecida do conhecimento arcano em Terrato.</DefaultText>
+Muitas guildas de magos ao longo dos séculos descobriram o Sigilo da Força, e cada um o manteve como um segredo zelosamente guardado. À medida que cada um foi conquistado e absorvido no Império de [url=glossary:kyros]Kyros[/url], eles ficaram desapontados ao descobrir que seu 'segredo' era a parte mais conhecida do conhecimento arcano em Terrato.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1756,7 +1756,7 @@ Muitas guildas de magos ao longo dos séculos descobriram o Sigilo da Força, e 
       <ID>488</ID>
       <DefaultText>Evocar energia através do Sigilo de Pedra exige muita força de vontade, pois a rocha não é facilmente moldada ao desejo de um humano.
 
-Talvez o mais novo mágico Sigilo em Terratus, o Sigilo de Pedra foi desenvolvido por discípulos do Arconte [url=glossary:cairn] Cairn[/url]. Desde que o Arconte de Pedra destruição por [url=glossary:kyros]Kyros[/url]' [url=glossary:edict]Edital[/url] no ano 430 TR, os Agitador de Terra magos se dedicaram a preservar [url=glossary:cairn]Cairn[/url]' s legado e aprendendo a aproveitar o poder deste obstinado Sigilo.</DefaultText>
+Talvez o mais novo mágico Sigilo em Terratus, o Sigilo de Pedra foi desenvolvido por discípulos do Arconte [url=glossary:cairn] Cairn[/url]. Desde que o Arconte de Pedra destruição por [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] no ano 430 TR, os Agitador de Terra magos se dedicaram a preservar o legado de [url=glossary:cairn]Cairn[/url] e aprendendo a aproveitar o poder deste obstinado Sigilo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1906,7 +1906,7 @@ Talvez o mais novo mágico Sigilo em Terratus, o Sigilo de Pedra foi desenvolvid
     </Entry>
     <Entry>
       <ID>526</ID>
-      <DefaultText>[url=glossary:blade grave]Sepultura de Lâminas[/url]'s Entender</DefaultText>
+      <DefaultText>Entender [url=glossary:blade grave]Sepultura de Lâminas[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1921,7 +1921,7 @@ Talvez o mais novo mágico Sigilo em Terratus, o Sigilo de Pedra foi desenvolvid
     </Entry>
     <Entry>
       <ID>529</ID>
-      <DefaultText>[url=glossary:frozen]Congeladas[/url] Entender</DefaultText>
+      <DefaultText>Entender [url=glossary:frozen]Congeladas[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2061,7 +2061,7 @@ Talvez o mais novo mágico Sigilo em Terratus, o Sigilo de Pedra foi desenvolvid
     </Entry>
     <Entry>
       <ID>559</ID>
-      <DefaultText>Eb imbui a arma Fatebinder com a habilidade de canalizar raios através dela. Enquanto o efeito permanecer, os ataques Fatebinder evocarão uma poderosa explosão elétrica.</DefaultText>
+      <DefaultText>Eb imbui a arma Vinculador do Destino com a habilidade de canalizar raios através dela. Enquanto o efeito permanecer, os ataques Vinculador do Destino evocarão uma poderosa explosão elétrica.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2808,7 +2808,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>792</ID>
-      <DefaultText>Lâmina de Ashe</DefaultText>
+      <DefaultText>Lâmina de Cinza</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2828,7 +2828,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>796</ID>
-      <DefaultText>Ashe está pensando</DefaultText>
+      <DefaultText>Cinza está pensando</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3143,7 +3143,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>861</ID>
-      <DefaultText>Aumenta o dano da arma corpo a corpo de uma mão. (Kills-in-Shadow usa armas de duas mãos como uma mão.)</DefaultText>
+      <DefaultText>Aumenta o dano da arma corpo a corpo de uma mão. (Mortes nas Sombras usa armas de duas mãos como uma mão.)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3153,7 +3153,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>863</ID>
-      <DefaultText>Enquanto estiver com pouca saúde, Kills-in-Shadow ataca duas vezes com seus ataques normais de arma.</DefaultText>
+      <DefaultText>Enquanto estiver com pouca saúde, Mortes nas Sombras ataca duas vezes com seus ataques normais de arma.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3173,7 +3173,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>867</ID>
-      <DefaultText>Aumenta a distância de ataque dos ataques desarmados de Kills-in-Shadow.</DefaultText>
+      <DefaultText>Aumenta a distância de ataque dos ataques desarmados de Mortes nas Sombras.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3223,7 +3223,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>877</ID>
-      <DefaultText>saúde de Como Kills-in-Shadow é reduzida, seu dano e velocidade de ataque são aumentados.</DefaultText>
+      <DefaultText>saúde de Como Mortes nas Sombras é reduzida, seu dano e velocidade de ataque são aumentados.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3263,7 +3263,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>887</ID>
-      <DefaultText>Reduza a duração de quaisquer efeitos nocivos aplicados a Mortes-in-Shadow.</DefaultText>
+      <DefaultText>Reduza a duração de quaisquer efeitos nocivos aplicados a Mortes nas Sombras.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3273,7 +3273,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>891</ID>
-      <DefaultText>Aumente o número de inimigos que Mortes-in-Shadow pode enfrentar.</DefaultText>
+      <DefaultText>Aumente o número de inimigos que Mortes nas Sombras pode enfrentar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3303,7 +3303,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>899</ID>
-      <DefaultText>Enquanto estiver no grupo, Kills-in-Shadow fornece um bônus à experiência adquirida nas habilidades [url=glossary:subterfuge]Subterfúgio[/url], Desarmado e One-Handed.</DefaultText>
+      <DefaultText>Enquanto estiver no grupo, Mortes nas Sombras fornece um bônus à experiência adquirida nas habilidades [url=glossary:subterfuge]Subterfúgio[/url], Desarmado e One-Handed.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3313,7 +3313,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>901</ID>
-      <DefaultText>Aumenta o Alcance de Ataque e Esmagamento dano da habilidade Atropelar de Kills-in-Shadow.</DefaultText>
+      <DefaultText>Aumenta o Alcance de Ataque e Esmagamento dano da habilidade Atropelar de Mortes nas Sombras.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3323,7 +3323,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>903</ID>
-      <DefaultText>O Vinculador do Destino é lançado no ar por Mortes-in-Shadow, então cai, causando dano em uma área e ganhando um bônus de dano por um curto período de tempo.</DefaultText>
+      <DefaultText>O Vinculador do Destino é lançado no ar por Mortes nas Sombras, então cai, causando dano em uma área e ganhando um bônus de dano por um curto período de tempo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3333,7 +3333,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>905</ID>
-      <DefaultText>Kills-in-Shadow recebe energia do Vinculador do Destino e então começa a socar seus punhos na terra. Nuvens espessas de poeira obscurecem o campo de batalha, cegando os inimigos. Como Kills-in-Shadow atinge a terra, inimigos na área são danificados, jogados no ar e caem [url=glossary:prone]Propenso[/url].</DefaultText>
+      <DefaultText>Mortes nas Sombras recebe energia do Vinculador do Destino e então começa a socar seus punhos na terra. Nuvens espessas de poeira obscurecem o campo de batalha, cegando os inimigos. Como Mortes nas Sombras atinge a terra, inimigos na área são danificados, jogados no ar e caem [url=glossary:prone]Propenso[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3913,7 +3913,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>1033</ID>
-      <DefaultText>Uma música sinistra que descreve o poder de [url=glossary:kyros]Kyros[/url]' vai enquanto lava a vida e a terra, colhendo aqueles que se opõem a ela.</DefaultText>
+      <DefaultText>Uma música sinistra que descreve o poder de [url=glossary:kyros]Kyros[/url] vai enquanto lava a vida e a terra, colhendo aqueles que se opõem a ela.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4073,7 +4073,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>1068</ID>
-      <DefaultText>Uma velha canção, outrora cantada com orgulho pelas cidades livres do Quatro irmãos. Desde a [url=glossary:kyros]Kyros[/url]' destruição de Contexto-Sun, a música raramente é cantada.</DefaultText>
+      <DefaultText>Uma velha canção, outrora cantada com orgulho pelas cidades livres do Quatro irmãos. Desde destruição [url=glossary:kyros]Kyros[/url] de Contexto-Sol, a música raramente é cantada.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4093,17 +4093,17 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>1072</ID>
-      <DefaultText>Fatebinder of Victory: Estância 1</DefaultText>
+      <DefaultText>Vinculador do Destino of Victory: Estância 1</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1073</ID>
-      <DefaultText>Fatebinder of Victory: Estância 2</DefaultText>
+      <DefaultText>Vinculador do Destino of Victory: Estância 2</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1074</ID>
-      <DefaultText>Fatebinder of Victory: Estância 3</DefaultText>
+      <DefaultText>Vinculador do Destino of Victory: Estância 3</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4148,7 +4148,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>1083</ID>
-      <DefaultText>Vitória do Fatebinder</DefaultText>
+      <DefaultText>Vitória do Vinculador do Destino</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4163,7 +4163,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>1086</ID>
-      <DefaultText>Uma música que reconta os acontecimentos da [url=glossary:kyros]Kyros[/url]' conquista do Camadas. Suas 6 estrofes representam cada nação do Camadas que caiu antes do [url=glossary:kyros]Kyros[/url]' poder.</DefaultText>
+      <DefaultText>Uma música que reconta os acontecimentos da conquista de [url=glossary:kyros]Kyros[/url] do Camadas. Suas 6 estrofes representam cada nação do Camadas que caiu antes do poder de [url=glossary:kyros]Kyros[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4468,7 +4468,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>1151</ID>
-      <DefaultText>Adiciona um efeito de marcação à habilidade Impulso. Ataques contra o bônus de ganho de alvo [url=glossary:marked]Marcado[/url][url=glossary:accuracy]Precisão[/url]. A marca dura até que o inimigo morra.</DefaultText>
+      <DefaultText>Adiciona um efeito de marcação à habilidade Impulso. Ataques contra o alvo [url=glossary:marked]Marcado[/url] ganha bônus de [url=glossary:accuracy]Precisão[/url]. A marca dura até que o inimigo morra.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5184,12 +5184,12 @@ O escudo é afetado por [url=glossary:disfavored]Desfavorecido[/url] Fúria [url
     </Entry>
     <Entry>
       <ID>1326</ID>
-      <DefaultText>Corte o vínculo de Ashe</DefaultText>
+      <DefaultText>Corte o vínculo de Cinza</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1327</ID>
-      <DefaultText>Corte o vínculo entre [url=glossary:graven ashe]Cinza esculpida[/url] e qualquer [url=glossary:disfavored]Desfavorecido[/url] na área de destino, impedindo-os de receber os benefícios de Égide de Ashe.</DefaultText>
+      <DefaultText>Corte o vínculo entre [url=glossary:graven ashe]Cinza Esculpida[/url] e qualquer [url=glossary:disfavored]Desfavorecido[/url] na área de destino, impedindo-os de receber os benefícios de Égide de Cinza.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5245,7 +5245,7 @@ O bônus é afetado por [url=glossary:scarlet chorus]Coro Escarlate[/url] Fúria
       <ID>1345</ID>
       <DefaultText>Assuste os inimigos próximos quando você Acerto crítico com sua arma.
 
-A duração é afetada por [url=glossary:unbroken]ininterrupto[/url] Favor [url=glossary:reputation]Reputação[/url].</DefaultText>
+A duração é afetada por [url=glossary:unbroken]Inquebrável[/url] Favor [url=glossary:reputation]Reputação[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5267,7 +5267,7 @@ A duração é afetada por [url=glossary:unbroken]ininterrupto[/url] Favor [url=
       <ID>1349</ID>
       <DefaultText>Inimigos próximos a você têm o [url=glossary:armor]armaduras[/url] reduzido.
 
-A redução é afetada por [url=glossary:unbroken]ininterrupto[/url] Fúria [url=glossary:reputation]Reputação[/url].</DefaultText>
+A redução é afetada por [url=glossary:unbroken]Inquebrável[/url] Fúria [url=glossary:reputation]Reputação[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5842,7 +5842,7 @@ A redução é afetada por Forja Ira Vinculada [url=glossary:reputation]Reputaç
     </Entry>
     <Entry>
       <ID>1483</ID>
-      <DefaultText>Dispara um raio de energia que explode em uma área ao redor do alvo, Enfraquecendo e fatigando todos os Bane dentro do raio. A duração desses efeitos escala com o Renome do Elmo Magebane.</DefaultText>
+      <DefaultText>Dispara um raio de energia que explode em uma área ao redor do alvo, Enfraquecendo e fatigando todos os Maldições dentro do raio. A duração desses efeitos escala com o Renome do Elmo Magebane.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6022,7 +6022,7 @@ A redução é afetada por Forja Ira Vinculada [url=glossary:reputation]Reputaç
     </Entry>
     <Entry>
       <ID>1519</ID>
-      <DefaultText>Drenar a saúde de inimigos próximos. Para cada inimigo afetado, o portador de Baneward ganha um bônus de dano acumulado de Arcano em seus ataques. Esses efeitos escalam com o Renome de Baneward. (Mais eficaz contra o Maldito)</DefaultText>
+      <DefaultText>Drenar a saúde de inimigos próximos. Para cada inimigo afetado, o portador de Proteção-Maldita ganha um bônus de dano acumulado de Arcano em seus ataques. Esses efeitos escalam com o Renome de Proteção-Maldita. (Mais eficaz contra o Maldito)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6317,7 +6317,7 @@ A redução é afetada por Forja Ira Vinculada [url=glossary:reputation]Reputaç
     </Entry>
     <Entry>
       <ID>1578</ID>
-      <DefaultText>Convocar [url=glossary:bleden mark]Marca de mistura[/url]</DefaultText>
+      <DefaultText>Convocar [url=glossary:bleden mark]Marca de Mistura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6489,7 +6489,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1614</ID>
-      <DefaultText>Barik e o Vinculador do Destino batem em seus escudos e armaduras, assediando um inimigo. O alvo é obrigado a atacar Barik por um curto período de tempo, enquanto os gestos de zombaria Fatebinder deixam o inimigo confuso e desprevenido. O inimigo perde todas as habilidades para [url=glossary:parry]Defesa[/url] e [url=glossary:dodge]Desviar[/url] até recuperar seus sentidos.</DefaultText>
+      <DefaultText>Barik e o Vinculador do Destino batem em seus escudos e armaduras, assediando um inimigo. O alvo é obrigado a atacar Barik por um curto período de tempo, enquanto os gestos de zombaria Vinculador do Destino deixam o inimigo confuso e desprevenido. O inimigo perde todas as habilidades para [url=glossary:parry]Defesa[/url] e [url=glossary:dodge]Desviar[/url] até recuperar seus sentidos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6529,7 +6529,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1622</ID>
-      <DefaultText>Mortes-in-Shadow e Vinculador do Destino correm instantaneamente para um alvo e atacam. O Fatebinder ataque Atordoamentos o alvo e quaisquer inimigos próximos, enquanto Mortes-in-Shadow inflige um poderoso efeito Sangrar.</DefaultText>
+      <DefaultText>Mortes nas Sombras e Vinculador do Destino correm instantaneamente para um alvo e atacam. O Vinculador do Destino ataque Atordoamentos o alvo e quaisquer inimigos próximos, enquanto Mortes nas Sombras inflige um poderoso efeito Sangrar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6556,7 +6556,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1627</ID>
-      <DefaultText>Eb envolve o Fatebinder em uma aura de Gravelight. Enquanto estiver ativo, os ataques Fatebinder transferirão a saúde dos inimigos.</DefaultText>
+      <DefaultText>Eb envolve o Vinculador do Destino em uma aura de Gravelight. Enquanto estiver ativo, os ataques Vinculador do Destino transferirão a saúde dos inimigos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6991,7 +6991,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1717</ID>
-      <DefaultText>Banebrew</DefaultText>
+      <DefaultText>Maldiçõesbrew</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7016,7 +7016,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1722</ID>
-      <DefaultText>Baneslaying</DefaultText>
+      <DefaultText>Maldiçõesslaying</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8026,7 +8026,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1924</ID>
-      <DefaultText>Aumenta bastante o dano da arma corpo a corpo de uma mão. (Kills-in-Shadow usa armas de duas mãos como uma mão.)</DefaultText>
+      <DefaultText>Aumenta bastante o dano da arma corpo a corpo de uma mão. (Mortes nas Sombras usa armas de duas mãos como uma mão.)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8046,7 +8046,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1928</ID>
-      <DefaultText>Ataques de Furtividade causam alvos em Sangrar e concedem a Mortes-in-Shadow um efeito de cura ao longo do tempo que dura até o combate terminar.</DefaultText>
+      <DefaultText>Ataques de Furtividade causam alvos em Sangrar e concedem a Mortes nas Sombras um efeito de cura ao longo do tempo que dura até o combate terminar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8351,7 +8351,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1992</ID>
-      <DefaultText>Fatebinder of Victory: Estância 4</DefaultText>
+      <DefaultText>Vinculador do Destino of Victory: Estância 4</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8361,7 +8361,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1994</ID>
-      <DefaultText>Fatebinder of Victory: Estância 5</DefaultText>
+      <DefaultText>Vinculador do Destino of Victory: Estância 5</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

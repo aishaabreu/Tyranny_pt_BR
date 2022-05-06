@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Um homem sujo e empoeirado abre um sorriso sombrio à sua aproximação. Ele passa a mão na boca, deixando uma mancha de argila seca para trás. "Nós vamos, bem. O que é um Fatebinder de [url=glossary:tunon]Tunon[/url] quer em Stone Down Gorge? Você vem nos ajudar ou lutar conosco, chefe?"</DefaultText>
+      <DefaultText>Um homem sujo e empoeirado abre um sorriso sombrio à sua aproximação. Ele passa a mão na boca, deixando uma mancha de argila seca para trás. "Nós vamos, bem. O que é um Vinculador do Destino de [url=glossary:tunon]Tunon[/url] quer em Stone Down Gorge? Você vem nos ajudar ou lutar conosco, chefe?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -139,12 +139,12 @@ Ele cospe um maço de Chaw do Vagrant aos seus pés. Preguiçosamente, ele enfia
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>"Recuperei um fragmento de Azurelith puro de um Earthshaker em Gulfglow."</DefaultText>
+      <DefaultText>"Recuperei um fragmento de Azurelith puro de um Tremedor de Terra em Gulfglow."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"O que estamos esperando então? Vamos vai, chefe. Eu e a turma estamos prontos para rasgar o Tremedores de terra em tiras. Depois de esmagarmos [url=glossary:cairn]Cairn[/url], seremos lendas locais."</DefaultText>
+      <DefaultText>"O que estamos esperando então? Vamos vai, chefe. Eu e a turma estamos prontos para rasgar o Tremedores de Terra em tiras. Depois de esmagarmos [url=glossary:cairn]Cairn[/url], seremos lendas locais."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -193,7 +193,7 @@ Ele lambe os lábios rachados e sem sangue, os olhos examinando a distância enq
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Já vi algo - um incompetente sem habilidade para pegar em armas contra Tremedores de terra."</DefaultText>
+      <DefaultText>"Já vi algo - um incompetente sem habilidade para pegar em armas contra Tremedores de Terra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -233,14 +233,14 @@ Ele lambe os lábios rachados e sem sangue, os olhos examinando a distância enq
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>Com um aceno decisivo, Octave joga um monte de saliva salobra no chão. "Avise-nos quando tiver roubado o fragmento do Tremedores de terra. Também deveria matar o [url=glossary:disfavored]Desfavorecido[/url] em Boca Recortada, enquanto estamos nisso, chefe, senão esses idiotas provavelmente nos emboscarão durante nosso ataque."</DefaultText>
+      <DefaultText>Com um aceno decisivo, Octave joga um monte de saliva salobra no chão. "Avise-nos quando tiver roubado o fragmento do Tremedores de Terra. Também deveria matar o [url=glossary:disfavored]Desfavorecido[/url] em Boca Recortada, enquanto estamos nisso, chefe, senão esses idiotas provavelmente nos emboscarão durante nosso ataque."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
       <DefaultText>Com um aceno decisivo, Octave joga um pedaço de saliva salobra no chão.
 
-"Avise-nos quando você tiver roubado o fragmento do Tremedores de terra."</DefaultText>
+"Avise-nos quando você tiver roubado o fragmento do Tremedores de Terra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -255,7 +255,7 @@ Ele lambe os lábios rachados e sem sangue, os olhos examinando a distância enq
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Vi Tremedores de terra saindo do complexo em expedições noturnas."</DefaultText>
+      <DefaultText>"Vi Tremedores de Terra saindo do complexo em expedições noturnas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -351,7 +351,7 @@ Ele coça o canto da boca. "Então o que você vai fazer, chefe?"</DefaultText>
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"O que em [url=glossary:kyros]Kyros[/url]' nome você está tramando, chefe? Por que você mata aqueles Coristas lá na frente?" Ele aponta sua arma para você, o rosto vermelho escarlate. "Não tente negar. Minha garota, Pústula, viu tudo."</DefaultText>
+      <DefaultText>"O que em nome de [url=glossary:kyros]Kyros[/url] você está tramando, chefe? Por que você mata aqueles Coristas lá na frente?" Ele aponta sua arma para você, o rosto vermelho escarlate. "Não tente negar. Minha garota, Pústula, viu tudo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -361,7 +361,7 @@ Ele coça o canto da boca. "Então o que você vai fazer, chefe?"</DefaultText>
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Eu não estou comprando suas mentiras, Binder!" Com um ganido, Octave se atrapalha para sacar sua lâmina, tropeçando para trás em uma pedra solta. "Fúrias! Em armas, em armas! Merda-merda-droga! Estamos sob ataque!"</DefaultText>
+      <DefaultText>"Eu não estou comprando suas mentiras, Vinculador!" Com um ganido, Octave se atrapalha para sacar sua lâmina, tropeçando para trás em uma pedra solta. "Fúrias! Em armas, em armas! Merda-merda-droga! Estamos sob ataque!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -371,12 +371,12 @@ Ele coça o canto da boca. "Então o que você vai fazer, chefe?"</DefaultText>
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Maldito mijo! Isso é o [url=glossary:disfavored]Desfavorecido[/url]'s Binder!" Com um ganido, Octave se atrapalha para sacar sua lâmina, tropeçando para trás em uma pedra solta. "Fúrias! Em armas, em armas! Merda-merda-droga! Ajuda!"</DefaultText>
+      <DefaultText>"Maldito mijo! Isso é o [url=glossary:disfavored]Desfavorecido[/url] do Vinculador!" Com um ganido, Octave se atrapalha para sacar sua lâmina, tropeçando para trás em uma pedra solta. "Fúrias! Em armas, em armas! Merda-merda-droga! Ajuda!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Maldito mijo! Isso é o ladino Fatebinder!" Com um ganido, Octave se atrapalha para sacar sua lâmina, tropeçando para trás em uma pedra solta. "Fúrias! Em armas, em armas! Merda-merda-droga! Ajuda!"</DefaultText>
+      <DefaultText>"Maldito mijo! Isso é o ladino Vinculador do Destino!" Com um ganido, Octave se atrapalha para sacar sua lâmina, tropeçando para trás em uma pedra solta. "Fúrias! Em armas, em armas! Merda-merda-droga! Ajuda!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -405,7 +405,7 @@ Ele passa a língua sobre os dentes partidos com o pensamento.
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>"Terei a cabeça para a glória de Ashe."</DefaultText>
+      <DefaultText>"Terei a cabeça para a glória de Cinza."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -532,7 +532,7 @@ Ela rosna baixo, cautelosa.</DefaultText>
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>"Atraia as bestas para a ponte quebrada no cume sudeste do assentamento [url=glossary:stonestalkers]Perseguidores de Pedras[/url]'. Terei um Fúria esperando por eles do outro lado." Ele franze a testa. "E pelo amor de Arcontes, não seja pego ou não haverá fim para o derramamento de sangue."</DefaultText>
+      <DefaultText>"Atraia as bestas para a ponte quebrada no cume sudeste do assentamento dos [url=glossary:stonestalkers]Perseguidores de Pedras[/url]. Terei um Fúria esperando por eles do outro lado." Ele franze a testa. "E pelo amor de Arcontes, não seja pego ou não haverá fim para o derramamento de sangue."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -567,9 +567,9 @@ Ela rosna baixo, cautelosa.</DefaultText>
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>Ele zomba e balança a cabeça, ao mesmo tempo impressionado e irritado. Mas quando ele lambe os lábios, é óbvio que ele está ansioso para testar as histórias que ouviu, os sussurros fantásticos de uma força Fatebinder. Ele não está prestes a recuar. 
+      <DefaultText>Ele zomba e balança a cabeça, ao mesmo tempo impressionado e irritado. Mas quando ele lambe os lábios, é óbvio que ele está ansioso para testar as histórias que ouviu, os sussurros fantásticos de uma força Vinculador do Destino. Ele não está prestes a recuar. 
 
-"Você ouviu o Encadernador," ele chora com um grande movimento de suas mãos. "Mas não recuamos! Vamos estripe esse babaca!"</DefaultText>
+"Você ouviu o Vinculador," ele chora com um grande movimento de suas mãos. "Mas não recuamos! Vamos estripe esse babaca!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -649,7 +649,7 @@ Ela rosna baixo, cautelosa.</DefaultText>
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>"Os defensores de Stalwart me atacaram. Já esteve no [url=glossary:blade grave]Sepultura de Lâminas[/url]? Eu fiz isso com eles."</DefaultText>
+      <DefaultText>"Os defensores de Robusto me atacaram. Já esteve no [url=glossary:blade grave]Sepultura de Lâminas[/url]? Eu fiz isso com eles."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -763,7 +763,7 @@ Ele se vira para você com um sorriso tímido e semi-relutante e dá de ombros a
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>"É bom então que Alfa tem mortes-in-Shadow para lidar com Mulher-Besta. Sim?"</DefaultText>
+      <DefaultText>"É bom então que Alfa tem Mortes nas Sombras para lidar com Mulher-Besta. Sim?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -773,9 +773,9 @@ Ele se vira para você com um sorriso tímido e semi-relutante e dá de ombros a
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>Ela ladra, entretida. "Poderia presa ser mais estúpida? Deve continue se aproximando e cutucando o predador. Continue provocando. Continue morrendo com [url=glossary:stonestalkers]Perseguidores de Pedras[/url]' garras." Ela cava entre duas presas com uma de suas garras curvas com ponta de lança.
+      <DefaultText>Ela ladra, entretida. "Poderia presa ser mais estúpida? Deve continue se aproximando e cutucando o predador. Continue provocando. Continue morrendo nas garras dos [url=glossary:stonestalkers]Perseguidores de Pedras[/url]." Ela cava entre duas presas com uma de suas garras curvas com ponta de lança.
 
-"Mas da próxima vez, deixe Mortes-in-Shadow assistir ."</DefaultText>
+"Mas da próxima vez, deixe Mortes nas Sombras assistir ."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -795,7 +795,7 @@ Ele se vira para você com um sorriso tímido e semi-relutante e dá de ombros a
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>"Alpha e pack devem ajudar Rasgando-Hound, não caçar Homem-Besta. Por que o grupo Chorus do Rasgando-Hound deseja matar o próprio lutador? Mortes-in-Shadow quer saber."</DefaultText>
+      <DefaultText>"Alpha e pack devem ajudar Rasgando-Hound, não caçar Homem-Besta. Por que o grupo Chorus do Rasgando-Hound deseja matar o próprio lutador? Mortes nas Sombras quer saber."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -804,7 +804,7 @@ Ele se vira para você com um sorriso tímido e semi-relutante e dá de ombros a
 
 A Mulher-Fera boceja, sua longa língua se curvando para dentro entre suas presas.
 
-"Cem-Sangue é mais paciente do que Mortes-in-Shadow. Sim."</DefaultText>
+"Cem-Sangue é mais paciente do que Mortes nas Sombras. Sim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -913,7 +913,7 @@ Ele toma um gole longo e sedento, pingando líquido pelo queixo. "Cuidadoso quan
     </Entry>
     <Entry>
       <ID>184</ID>
-      <DefaultText>"Mas se você está me fazendo dar um palpite, eu diria que os Tremedores de terra criaram uma maneira de facilmente refazer a lacuna. Eu vi a maneira como eles podem moldar a terra. Não seria tão difícil para eles chacoalhar ou levantar alguma laje de pedra para atravessar."</DefaultText>
+      <DefaultText>"Mas se você está me fazendo dar um palpite, eu diria que os Tremedores de Terra criaram uma maneira de facilmente refazer a lacuna. Eu vi a maneira como eles podem moldar a terra. Não seria tão difícil para eles chacoalhar ou levantar alguma laje de pedra para atravessar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -923,17 +923,17 @@ Ele toma um gole longo e sedento, pingando líquido pelo queixo. "Cuidadoso quan
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>"O único problema é que nenhum de nós é Tremedores de terra."</DefaultText>
+      <DefaultText>"O único problema é que nenhum de nós é Tremedores de Terra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>"Ouvi dizer que um Earthshaker saiu do complexo com um fragmento de Azurelith puro. Parecia importante. Ou pelo menos poderoso."</DefaultText>
+      <DefaultText>"Ouvi dizer que um Tremedor de Terra saiu do complexo com um fragmento de Azurelith puro. Parecia importante. Ou pelo menos poderoso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>"Se não conseguirmos que eles levantem a ponte, acho que teremos que fazer isso nós mesmos. Não sou nenhum mago, mas... não sei, talvez se tivéssemos um de seus cajados de cristal? Merda sabe, nunca vi um Earthshaker sem um."</DefaultText>
+      <DefaultText>"Se não conseguirmos que eles levantem a ponte, acho que teremos que fazer isso nós mesmos. Não sou nenhum mago, mas... não sei, talvez se tivéssemos um de seus cajados de cristal? Merda sabe, nunca vi um Tremedor de Terra sem um."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -945,7 +945,7 @@ Ele toma um gole longo e sedento, pingando líquido pelo queixo. "Cuidadoso quan
       <ID>190</ID>
       <DefaultText>"Nós vamos, agora que você mencionou..." Ele limpa a garganta e abaixa a cabeça, escondendo um sorriso meio malicioso atrás do punho sujo de terra.
 
-"Suponha que eles possam ter visto um Earthshaker ou dois levantando e abaixando o chão neste ponto para preencher o abismo entre nós. É vigiado, é claro, então acho que é o portão de entrada deles."</DefaultText>
+"Suponha que eles possam ter visto um Tremedor de Terra ou dois levantando e abaixando o chão neste ponto para preencher o abismo entre nós. É vigiado, é claro, então acho que é o portão de entrada deles."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1034,7 +1034,7 @@ Ele tosse levemente enquanto coça uma sobrancelha.
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>"Tenha cuidado, tem havido alguma atividade perturbadora. Tanto Pústula quanto Medula Sangrenta viram os Tremedores de terra lançando suas varas pelo acampamento. Acho que eles estão se preparando para um grande ritual."</DefaultText>
+      <DefaultText>"Tenha cuidado, tem havido alguma atividade perturbadora. Tanto Pústula quanto Medula Sangrenta viram os Tremedores de Terra lançando suas varas pelo acampamento. Acho que eles estão se preparando para um grande ritual."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1059,7 +1059,7 @@ Ele tosse levemente enquanto coça uma sobrancelha.
     </Entry>
     <Entry>
       <ID>212</ID>
-      <DefaultText>"Devemos assumir que o que os Tremedores de terra estão planejando beneficiará o [url=glossary:disfavored]Desfavorecido[/url] - se não prejudicar o Refrão."</DefaultText>
+      <DefaultText>"Devemos assumir que o que os Tremedores de Terra estão planejando beneficiará o [url=glossary:disfavored]Desfavorecido[/url] - se não prejudicar o Refrão."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

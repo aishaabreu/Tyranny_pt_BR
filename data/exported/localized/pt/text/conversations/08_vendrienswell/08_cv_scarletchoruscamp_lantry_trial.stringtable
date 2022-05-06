@@ -53,7 +53,7 @@ O Quinto Olho agita as mãos no ar, atraindo um grupo de Refrão soldados.</Defa
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Pelo justo derramamento de sangue, encontramos nossa resposta. Lamentavelmente, parece que o [url=glossary:sage]Sábio[/url] é digno de deixar nosso acampamento vivo." O Quinto Olho oferece uma reverência curta e zombeteira para Lantry. "Pelos costumes estabelecidos por [url=glossary:the voices of nerat]o Vozes de Nerat[/url]... você está livre para ir, velho. Vanglorie-se para seus netos que você entrou em conflito com o Refrão mas viveu para contar a história."</DefaultText>
+      <DefaultText>"Pelo justo derramamento de sangue, encontramos nossa resposta. Lamentavelmente, parece que o [url=glossary:sage]Sábio[/url] é digno de deixar nosso acampamento vivo." O Quinto Olho oferece uma reverência curta e zombeteira para Lantry. "Pelos costumes estabelecidos por [url=glossary:the voices of nerat]As Vozes de Nerat[/url]... você está livre para ir, velho. Vanglorie-se para seus netos que você entrou em conflito com o Refrão mas viveu para contar a história."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -143,12 +143,12 @@ O Quinto Olho agita as mãos no ar, atraindo um grupo de Refrão soldados.</Defa
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Sim, sim!" Ele resmunga e gagueja enquanto luta para se libertar de suas garras. Depois de soltá-lo, ele se mexe para recuperar a compostura. "Vocês dois!" Espanando-se com uma mão, ele acena para dois recrutas próximos com a outra. "Liberar o [url=glossary:sage]Sábio[/url]. Ele é do Fatebinder problema agora."</DefaultText>
+      <DefaultText>"Sim, sim!" Ele resmunga e gagueja enquanto luta para se libertar de suas garras. Depois de soltá-lo, ele se mexe para recuperar a compostura. "Vocês dois!" Espanando-se com uma mão, ele acena para dois recrutas próximos com a outra. "Liberar o [url=glossary:sage]Sábio[/url]. Ele é do Vinculador do Destino problema agora."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Verdadeiro, mas pela lei [url=glossary:kyros]Kyros[/url]', ele poderia jurar fidelidade a mim e se tornar meu vassalo juramentado - minha propriedade."</DefaultText>
+      <DefaultText>"Verdadeiro, mas pela lei de [url=glossary:kyros]Kyros[/url], ele poderia jurar fidelidade a mim e se tornar meu vassalo juramentado - minha propriedade."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -180,7 +180,7 @@ O Quinto Olho aponta um dedo para você. "O refrão rendeu a este prisioneiro o 
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"[url=glossary:graven ashe]Cinza esculpida[/url] castrou você durante o recrutamento, ou você simplesmente não sabe o significado da palavra 'diversão'? Estou realmente curioso."</DefaultText>
+      <DefaultText>"[url=glossary:graven ashe]Cinza Esculpida[/url] castrou você durante o recrutamento, ou você simplesmente não sabe o significado da palavra 'diversão'? Estou realmente curioso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -242,7 +242,7 @@ Manchas de tinta cobrem suas bochechas, têmporas e ouvidos. Suas roupas parecem
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>Você desenrola o pergaminho e vê uma mensagem de tamanho modesto escrita com caligrafia profissional, embora precipitada. Os Tiersmen falam o Canto assim como o nortistas, mas eles têm meia dúzia de maneiras diferentes de escrevê-lo - esse script em particular é desconhecido para você.</DefaultText>
+      <DefaultText>Você desenrola o pergaminho e vê uma mensagem de tamanho modesto escrita com caligrafia profissional, embora precipitada. Os Homens dos Caminhos falam o Canto assim como o nortistas, mas eles têm meia dúzia de maneiras diferentes de escrevê-lo - esse script em particular é desconhecido para você.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -314,7 +314,7 @@ Os olhos do velho se iluminam enquanto ele grita com vigor tenso.</DefaultText>
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"Você está me dando ordens, Binder? Isso se parece com a Corte de [url=glossary:tunon]Tunon[/url]? Da última vez que verifiquei, apenas o Arconte dos Segredos pode me dizer o que fazer com um prisioneiro." A Lança Carmesim derruba seu cajado no chão. "Se este velho quer a liberdade, nós lhe daremos uma chance justa em um julgamento."</DefaultText>
+      <DefaultText>"Você está me dando ordens, Vinculador? Isso se parece com a Corte de [url=glossary:tunon]Tunon[/url]? Da última vez que verifiquei, apenas o Arconte dos Segredos pode me dizer o que fazer com um prisioneiro." A Lança Carmesim derruba seu cajado no chão. "Se este velho quer a liberdade, nós lhe daremos uma chance justa em um julgamento."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -348,7 +348,7 @@ Limpando o suor e a sujeira de sua testa, o [url=glossary:sage]Sábio[/url] se a
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"Como um Fatebinder, não cabe a mim dizer ao Coro como conduzir julgamentos em sua própria terra."</DefaultText>
+      <DefaultText>"Como um Vinculador do Destino, não cabe a mim dizer ao Coro como conduzir julgamentos em sua própria terra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -422,17 +422,17 @@ O velho olha para você, os olhos cheios de pavor enquanto ele puxa suas amarras
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>"Ah calma velho. Eu não sabia que você tinha informações tão valiosas em sua mente. Isso muda tudo." Ele assobia alto, gesticulando para dois soldados em direção a Lantry. "Leva esse velho murcho [url=glossary:sage]Sábio[/url] a [url=glossary:the voices of nerat]o Vozes de Nerat[/url] - ele tem muito a dizer ao Arconte."</DefaultText>
+      <DefaultText>"Ah calma velho. Eu não sabia que você tinha informações tão valiosas em sua mente. Isso muda tudo." Ele assobia alto, gesticulando para dois soldados em direção a Lantry. "Leva esse velho murcho [url=glossary:sage]Sábio[/url] a [url=glossary:the voices of nerat]As Vozes de Nerat[/url] - ele tem muito a dizer ao Arconte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"Não, por favor, não me abandone!" [url=glossary:scarlet chorus]Coro Escarlate[/url] guerreiros puxam o [url=glossary:sage]Sábio[/url] de seu poste e pegam o velho de ambos os lados, levantando ele do chão enquanto o carregam em direção à barraca de [url=glossary:the voices of nerat]990000#[/url].</DefaultText>
+      <DefaultText>"Não, por favor, não me abandone!" [url=glossary:scarlet chorus]Coro Escarlate[/url] guerreiros puxam o [url=glossary:sage]Sábio[/url] de seu poste e pegam o velho de ambos os lados, levantando ele do chão enquanto o carregam em direção à barraca de [url=glossary:the voices of nerat]As vozes de Nerat[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>Várias horas se passam e, por fim, um atendente emerge da tenda de guerra de [url=glossary:the voices of nerat]990000#[/url], pergaminho na mão. Curvando-se diante do Lança Carmesim, o ajudante entrega Quinto Olho o pergaminho, antes de recuar lentamente, sua postura permanecendo curvada até que ele esteja fora de vista.</DefaultText>
+      <DefaultText>Várias horas se passam e, por fim, um atendente emerge da tenda de guerra de [url=glossary:the voices of nerat]As vozes de Nerat[/url], pergaminho na mão. Curvando-se diante do Lança Carmesim, o ajudante entrega Quinto Olho o pergaminho, antes de recuar lentamente, sua postura permanecendo curvada até que ele esteja fora de vista.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -504,7 +504,7 @@ O velho olha para você, os olhos cheios de pavor enquanto ele puxa suas amarras
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>"Esplêndido, esplêndido!" O Quinto Olho bate palmas enquanto a multidão ruge em aprovação. "Isso é o espírito, Fatebinder! Mostre à escória a justiça feita a partir da força!" Ele esfrega as mãos com um ronronar audível sobre a alegria. "Se apenas Nerat tivesse reivindicado você antes [url=glossary:tunon]Tunon[/url] fez... ai."</DefaultText>
+      <DefaultText>"Esplêndido, esplêndido!" O Quinto Olho bate palmas enquanto a multidão ruge em aprovação. "Isso é o espírito, Vinculador do Destino! Mostre à escória a justiça feita a partir da força!" Ele esfrega as mãos com um ronronar audível sobre a alegria. "Se apenas Nerat tivesse reivindicado você antes [url=glossary:tunon]Tunon[/url] fez... ai."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -6,9 +6,9 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Mesmo no meio da guerra entre o Arcontes, viajar pelas estradas há muito conquistadas do Nível Bastardo tende a ser relativamente seguro e sem intercorrências. Um rio serpenteia lentamente ao lado da estrada, e as planícies se estendem abertamente à sua frente em direção a distantes montanhas altas e a nebulosa linha cinzenta de Oldwalls no horizonte. De seu ponto de vista no topo de uma elevação, você pode ver assentamentos distantes e pequenos grupos de árvores.
+      <DefaultText>Mesmo no meio da guerra entre o Arcontes, viajar pelas estradas há muito conquistadas do Nível Bastardo tende a ser relativamente seguro e sem intercorrências. Um rio serpenteia lentamente ao lado da estrada, e as planícies se estendem abertamente à sua frente em direção a distantes montanhas altas e a nebulosa linha cinzenta de Muralhas Antigas no horizonte. De seu ponto de vista no topo de uma elevação, você pode ver assentamentos distantes e pequenos grupos de árvores.
 
-Em um tronco na estrada à frente, você vê uma jovem Tierman, não exatamente uma mulher adulta, trabalhando em um objeto em seu colo. Quando ela o vê, ela se levanta de um salto, acenando para capturar sua atenção.</DefaultText>
+Em um tronco na estrada à frente, você vê uma jovem habitante do Camadas, não exatamente uma mulher adulta, trabalhando em um objeto em seu colo. Quando ela o vê, ela se levanta de um salto, acenando para capturar sua atenção.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -50,7 +50,7 @@ Ela pergunta se você está interessado em uma troca: um item que ela procurou p
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>É uma lâmina longa e bem forjada com uma mudança acentuada em seu comprimento na metade da lâmina. O design é claramente aquele usado pelo [url=glossary:disfavored]Desfavorecido[/url], e um carimbo perto do punho confirma que ele foi criado pelo [url=glossary:forge-bound]Forge-Bound[/url].</DefaultText>
+      <DefaultText>É uma lâmina longa e bem forjada com uma mudança acentuada em seu comprimento na metade da lâmina. O desenho é claramente aquele usado pelo [url=glossary:disfavored]Desfavorecido[/url], e um carimbo perto do punho confirma que ele foi criado pelo [url=glossary:forge-bound]Vinculado à Forja[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -85,7 +85,7 @@ Ela pergunta se você está interessado em uma troca: um item que ela procurou p
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Barik dá um passo à frente no momento em que você começa a desembrulhar. "Pelo Grande General!" ele exclama. "Esta é uma lâmina [url=glossary:disfavored]Desfavorecido[/url]. E aqui!" Ele aponta para um símbolo estampado perto do punho da espada. "Esta é a marca do [url=glossary:forge-bound]Forge-Bound[/url] que fez isso!" Ele volta sua atenção para a garota. "Onde você encontrou isso?" ele pergunta, caminhando em direção a ela enquanto ela se afasta dele.</DefaultText>
+      <DefaultText>Barik dá um passo à frente no momento em que você começa a desembrulhar. "Pelo Grande General!" ele exclama. "Esta é uma lâmina [url=glossary:disfavored]Desfavorecido[/url]. E aqui!" Ele aponta para um símbolo estampado perto do punho da espada. "Esta é a marca do [url=glossary:forge-bound]Vinculado à Forja[/url] que fez isso!" Ele volta sua atenção para a garota. "Onde você encontrou isso?" ele pergunta, caminhando em direção a ela enquanto ela se afasta dele.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -219,7 +219,7 @@ Você recupere seus anéis e continue sua jornada.</DefaultText>
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Você olha os corpos com cuidado. Há dois homens e uma mulher, cada um morto por trauma violento, mas com corpos fortemente marcados que indicam que todos foram feridos várias vezes antes. A evidência sugere fortemente que estes eram membros da legião Ashe [url=glossary:disfavored]Desfavorecido[/url] que finalmente sofreu ferimentos contra os quais Égide de Ashe não poderia proteger.</DefaultText>
+      <DefaultText>Você olha os corpos com cuidado. Há dois homens e uma mulher, cada um morto por trauma violento, mas com corpos fortemente marcados que indicam que todos foram feridos várias vezes antes. A evidência sugere fortemente que estes eram membros da legião Cinza [url=glossary:disfavored]Desfavorecido[/url] que finalmente sofreu ferimentos contra os quais Égide de Cinza não poderia proteger.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -261,7 +261,7 @@ Você recupere seus anéis e continue sua jornada.</DefaultText>
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>[url=glossary:graven ashe]Cinza esculpida[/url]</DefaultText>
+      <DefaultText>[url=glossary:graven ashe]Cinza Esculpida[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -286,12 +286,12 @@ Você recupere seus anéis e continue sua jornada.</DefaultText>
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>Você elabora um relatório direto dos assassinatos e o envia para o Arconte de Guerra antes de continuar sua jornada. A missiva que você recebe em resposta inclui apenas uma breve gratidão, embora Ashe observe que ele recomendará sua cortesia ao Arconte da Justiça.</DefaultText>
+      <DefaultText>Você elabora um relatório direto dos assassinatos e o envia para o Arconte de Guerra antes de continuar sua jornada. A missiva que você recebe em resposta inclui apenas uma breve gratidão, embora Cinza observe que ele recomendará sua cortesia ao Arconte da Justiça.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>Você elabora uma missiva codificada para o Arconte dos Segredos e a envia para o Cacofonia antes de continuar sua jornada. Você nunca recebe uma resposta, mas tem a impressão de [url=glossary:the voices of nerat]o Vozes de Nerat[/url] quando o vê novamente que ele se divertiu com suas descobertas.</DefaultText>
+      <DefaultText>Você elabora uma missiva codificada para o Arconte dos Segredos e a envia para o Cacofonia antes de continuar sua jornada. Você nunca recebe uma resposta, mas tem a impressão de [url=glossary:the voices of nerat]As Vozes de Nerat[/url] quando o vê novamente que ele se divertiu com suas descobertas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -321,7 +321,7 @@ Você recupere seus anéis e continue sua jornada.</DefaultText>
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>Você elabora uma missiva codificada para o Arconte dos Segredos e a envia para o Cacofonia antes de continuar sua jornada. Você nunca recebe uma resposta, mas tem a impressão de [url=glossary:the voices of nerat]o Vozes de Nerat[/url] quando o vê novamente que ele se divertiu com suas descobertas.</DefaultText>
+      <DefaultText>Você elabora uma missiva codificada para o Arconte dos Segredos e a envia para o Cacofonia antes de continuar sua jornada. Você nunca recebe uma resposta, mas tem a impressão de [url=glossary:the voices of nerat]As Vozes de Nerat[/url] quando o vê novamente que ele se divertiu com suas descobertas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -336,7 +336,7 @@ Você recupere seus anéis e continue sua jornada.</DefaultText>
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>Você elabora um relatório direto dos assassinatos e o envia para o Arconte de Guerra antes de continuar sua jornada. A missiva que você recebe em resposta inclui apenas uma breve gratidão, embora Ashe observe que ele recomendará sua cortesia ao Arconte da Justiça.</DefaultText>
+      <DefaultText>Você elabora um relatório direto dos assassinatos e o envia para o Arconte de Guerra antes de continuar sua jornada. A missiva que você recebe em resposta inclui apenas uma breve gratidão, embora Cinza observe que ele recomendará sua cortesia ao Arconte da Justiça.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

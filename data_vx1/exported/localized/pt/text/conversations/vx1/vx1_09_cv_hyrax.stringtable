@@ -56,12 +56,12 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Que merda, Fatebinder?!" Alguns Coristas flanqueiam o Açougueiro. "Por que você foi fazer isso?"</DefaultText>
+      <DefaultText>"Que merda, Vinculador do Destino?!" Alguns Coristas flanqueiam o Açougueiro. "Por que você foi fazer isso?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"O Juramento estão misticamente conectados. Qualquer coisa que ele soubesse, [url=glossary:graven ashe]Cinza esculpida[/url] poderia descobrir."</DefaultText>
+      <DefaultText>"O Juramento estão misticamente conectados. Qualquer coisa que ele soubesse, [url=glossary:graven ashe]Cinza Esculpida[/url] poderia descobrir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,12 +86,12 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Ele empalidece. "Er... não. Desculpe, Encadernador. Não sabia que era uma execução oficial e tudo mais."</DefaultText>
+      <DefaultText>Ele empalidece. "Er... não. Desculpe, Vinculador. Não sabia que era uma execução oficial e tudo mais."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Corte fundo, então." Ele levanta o queixo, expondo a garganta. "[url=glossary:graven ashe]Cinza esculpida[/url] protege." Você o agarra pela garganta e bate a cabeça dele com força no guardrail de pedra adjacente, marcando-o com uma mancha vermelha lisa. Seus músculos ficam tensos, mas ele continua preso. Um filete de sangue escorre por sua bochecha e seus olhos ficam vidrados. Seu aperto em sua garganta aperta enquanto você esmaga sua traqueia e sufoca a vida dele. Finalmente, sua forma fica frouxa abaixo de você.</DefaultText>
+      <DefaultText>"Corte fundo, então." Ele levanta o queixo, expondo a garganta. "[url=glossary:graven ashe]Cinza Esculpida[/url] protege." Você o agarra pela garganta e bate a cabeça dele com força no guardrail de pedra adjacente, marcando-o com uma mancha vermelha lisa. Seus músculos ficam tensos, mas ele continua preso. Um filete de sangue escorre por sua bochecha e seus olhos ficam vidrados. Seu aperto em sua garganta aperta enquanto você esmaga sua traqueia e sufoca a vida dele. Finalmente, sua forma fica frouxa abaixo de você.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -136,7 +136,7 @@
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>O Juramento trava os olhos nos seus. "Vinculador do Destino. Dizem que você é um aliado próximo do Em geral, então há algo que você precisa saber. Tínhamos um objetivo secundário aqui, a razão original pela qual Lareira de Ferro despachou o primeiro esquadrão para este remanso. A legião perdeu o rastro de um Earthshaker aqui alguns passos atrás. As chances são de que ele foi tão desonesto quanto seu Arconte antes dele."</DefaultText>
+      <DefaultText>O Juramento trava os olhos nos seus. "Vinculador do Destino. Dizem que você é um aliado próximo do Em geral, então há algo que você precisa saber. Tínhamos um objetivo secundário aqui, a razão original pela qual Lareira de Ferro despachou o primeiro esquadrão para este remanso. A legião perdeu o rastro de um Tremedor de Terra aqui alguns passos atrás. As chances são de que ele foi tão desonesto quanto seu Arconte antes dele."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -206,7 +206,7 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Estou amarrado, Encadernador, não surdo."</DefaultText>
+      <DefaultText>"Estou amarrado, Vinculador, não surdo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -276,7 +276,7 @@
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"[url=glossary:graven ashe]Cinza esculpida[/url] protege."</DefaultText>
+      <DefaultText>"[url=glossary:graven ashe]Cinza Esculpida[/url] protege."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
