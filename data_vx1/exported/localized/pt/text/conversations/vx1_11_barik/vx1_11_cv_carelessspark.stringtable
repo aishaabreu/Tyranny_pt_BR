@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Crimson pisca entre o terreno rasgado do [url=glossary:blade grave]Sepultura de Lâminas[/url] enquanto uma gangue emerge da paisagem ao seu redor. Eles são homens e mulheres endurecidos, com pele bem desgastada e olhos estreitos, sua armadura de couro fragmentada enfeitada com notas de bronze.</DefaultText>
+      <DefaultText>Crimson pisca entre o terreno rasgado do [url=glossary:sepultura de lâminas]Sepultura de Lâminas[/url] enquanto uma gangue emerge da paisagem ao seu redor. Eles são homens e mulheres endurecidos, com pele bem desgastada e olhos estreitos, sua armadura de couro fragmentada enfeitada com notas de bronze.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>[Dirija-se à turma:] "Vocês todos sabem como [url=glossary:the voices of nerat]As Vozes de Nerat[/url] e eu trabalhamos juntos. Estranho que ele tenha enviado outra pessoa para Barik quando ele mesmo poderia me perguntar. Você realmente quer morrer por Ember Desajeitado pequena manobra?"</DefaultText>
+      <DefaultText>[Dirija-se à turma:] "Vocês todos sabem como [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] e eu trabalhamos juntos. Estranho que ele tenha enviado outra pessoa para Barik quando ele mesmo poderia me perguntar. Você realmente quer morrer por Ember Desajeitado pequena manobra?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Meu amigo aqui sobreviveu a um [url=glossary:edict]Edital[/url]. Tenho certeza que você já ouviu falar dos meus feitos em [url=glossary:ascension hall]Salão da Ascensão[/url]. Se esse é o tipo de problema que você quer namorar, vá em frente."</DefaultText>
+      <DefaultText>"Meu amigo aqui sobreviveu a um [url=glossary:edital]Edital[/url]. Tenho certeza que você já ouviu falar dos meus feitos em [url=glossary:salão da ascensão]Salão da Ascensão[/url]. Se esse é o tipo de problema que você quer namorar, vá em frente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,7 +46,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Acho que seria pedir demais que [url=glossary:graven ashe]Cinza Esculpida[/url] recrute alguém com algo além de ferro entre as orelhas." Ela acena para o outro Coristas.</DefaultText>
+      <DefaultText>"Acho que seria pedir demais que [url=glossary:cinza esculpida]Cinza Esculpida[/url] recrute alguém com algo além de ferro entre as orelhas." Ela acena para o outro Coristas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -131,7 +131,7 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Nada que acontece em [url=glossary:lethian's crossing]A Travessia de Lethian[/url] fica em segredo por muito tempo. É realmente uma maravilha que atraia tantos bordéis."</DefaultText>
+      <DefaultText>"Nada que acontece em [url=glossary:travessia de lethian]Travessia de Lethian[/url] fica em segredo por muito tempo. É realmente uma maravilha que atraia tantos bordéis."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -296,12 +296,12 @@
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Apenas um tolo cruzaria o Vinculador do Destino pelo [url=glossary:the voices of nerat]As Vozes de Nerat[/url]."</DefaultText>
+      <DefaultText>"Apenas um tolo cruzaria o Vinculador do Destino pelo [url=glossary:as vozes de nerat]As Vozes de Nerat[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "A bruxa faz questão, Vinculador do Destino."</DefaultText>
+      <DefaultText>[Insuficiente [url=glossary:reputação]Reputação[/url]] "A bruxa faz questão, Vinculador do Destino."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -336,7 +336,7 @@
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Verdadeiro. Sua depravação não é igual à de [url=glossary:the voices of nerat]As Vozes de Nerat[/url]. Ainda." Seu elmo abobadado abaixa um pouco.</DefaultText>
+      <DefaultText>"Verdadeiro. Sua depravação não é igual à de [url=glossary:as vozes de nerat]As Vozes de Nerat[/url]. Ainda." Seu elmo abobadado abaixa um pouco.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -351,7 +351,7 @@
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] sabe que sou aliado de [url=glossary:graven ashe]Cinza Esculpida[/url]. Ele enviou você em uma missão tola."</DefaultText>
+      <DefaultText>"[url=glossary:as vozes de nerat]As Vozes de Nerat[/url] sabe que sou aliado de [url=glossary:cinza esculpida]Cinza Esculpida[/url]. Ele enviou você em uma missão tola."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -366,7 +366,7 @@
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Seu amigo pesado sobreviveu a um [url=glossary:edict]Edital[/url] e saiu mais forte por isso. Você acha que o Vozes não seria nem um pouco curioso?"</DefaultText>
+      <DefaultText>"Seu amigo pesado sobreviveu a um [url=glossary:edital]Edital[/url] e saiu mais forte por isso. Você acha que o Vozes não seria nem um pouco curioso?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -413,7 +413,7 @@ Ela dá um tapinha em seu cajado. O outro Coristas tenso, pronto para atacar.</D
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Uma gangue esfarrapada Refrão contra um veterano [url=glossary:disfavored]Desfavorecido[/url] e um Vinculador do Destino experiente? Já vi probabilidades piores, suponho."</DefaultText>
+      <DefaultText>"Uma gangue esfarrapada Refrão contra um veterano [url=glossary:desfavorecido]Desfavorecido[/url] e um Vinculador do Destino experiente? Já vi probabilidades piores, suponho."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -485,7 +485,7 @@ Sangue escorrendo de seu pescoço e boca, Faísca Descuidada cai de joelhos.</De
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Apenas um tolo cruzaria o Vinculador do Destino pelo [url=glossary:the voices of nerat]As Vozes de Nerat[/url]."</DefaultText>
+      <DefaultText>"Apenas um tolo cruzaria o Vinculador do Destino pelo [url=glossary:as vozes de nerat]As Vozes de Nerat[/url]."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

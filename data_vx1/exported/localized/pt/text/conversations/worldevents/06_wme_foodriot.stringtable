@@ -105,7 +105,7 @@ Enquanto a multidão perde a coesão, você dá ao magistrado um olhar indiferen
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Depois que as caravanas comerciais foram saqueadas durante a guerra, a comida escasseou," o magistrado intervém. "Algumas gangues locais, incapazes de comprar rações na cidade, tentaram comprar mercadorias aqui. O que os fazendeiros não venderam, o Coristas roubou. Tentei explicar que é pela conquista Soberano. Que as pessoas não têm ninguém para culpar, mas criminosos como o [url=glossary:unbroken]Inquebrável[/url] e o [url=glossary:vendrien guard]Guarda Vendrien[/url]."</DefaultText>
+      <DefaultText>"Depois que as caravanas comerciais foram saqueadas durante a guerra, a comida escasseou," o magistrado intervém. "Algumas gangues locais, incapazes de comprar rações na cidade, tentaram comprar mercadorias aqui. O que os fazendeiros não venderam, o Coristas roubou. Tentei explicar que é pela conquista Soberano. Que as pessoas não têm ninguém para culpar, mas criminosos como o [url=glossary:inquebrável]Inquebrável[/url] e o [url=glossary:guarda vendrien]Guarda Vendrien[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -134,12 +134,12 @@ Enquanto a multidão perde a coesão, você dá ao magistrado um olhar indiferen
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Eles não disseram por que estavam na região, apenas que foram encaminhados em [url=glossary:vendrien's well]Poço de Vendrien[/url] há pouco tempo."</DefaultText>
+      <DefaultText>"Eles não disseram por que estavam na região, apenas que foram encaminhados em [url=glossary:poço de vendrien]Poço de Vendrien[/url] há pouco tempo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Eles chegaram logo depois que você os ajudou em [url=glossary:vendrien's well]Poço de Vendrien[/url]. Não sei o que os trouxe aqui."</DefaultText>
+      <DefaultText>"Eles chegaram logo depois que você os ajudou em [url=glossary:poço de vendrien]Poço de Vendrien[/url]. Não sei o que os trouxe aqui."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -193,14 +193,14 @@ Você deixa o assentamento em um lugar mais calmo e tranquilo.</DefaultText>
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>Você redigiu uma missiva ao Tribunal do Adjudicador no [url=glossary:bastard city]Cidade bastarda[/url] solicitando defensores adicionais para o acordo para protegê-lo de Refrão depredação. 
+      <DefaultText>Você redigiu uma missiva ao Tribunal do Adjudicador no [url=glossary:cidade bastarda]Cidade Bastarda[/url] solicitando defensores adicionais para o acordo para protegê-lo de Refrão depredação. 
 
 Você continua sua jornada, confiando no Arconte da Justiça para reforçar as defesas da vila. Com certeza, uma carta de retorno o encontra na estrada, garantindo que a cidade será cuidada, mas expressando desapontamento por sua incapacidade de lidar com a situação sem solicitar a ajuda Tribunal.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Você pergunta Lantry para ditar, e o enrugado [url=glossary:sage]Sábio[/url] tira tinta, pena e pergaminho.</DefaultText>
+      <DefaultText>Você pergunta Lantry para ditar, e o enrugado [url=glossary:sábio]Sábio[/url] tira tinta, pena e pergaminho.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -249,9 +249,9 @@ Sirin encerra sua música, faz uma leve reverência e sorri. Você acena para el
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>Verse dá de ombros, mas aquiesce, e você passa uma noite caçando a gangue infratora. Verse supera facilmente seu líder em brigas brutais e exige que a gangue deixe o Nível Bastardo pelo [url=glossary:stone sea]Mar de Pedra[/url]. 
+      <DefaultText>Verse dá de ombros, mas aquiesce, e você passa uma noite caçando a gangue infratora. Verse supera facilmente seu líder em brigas brutais e exige que a gangue deixe o Nível Bastardo pelo [url=glossary:mar de pedra]Mar de Pedra[/url]. 
 
-"Orgulhosos de vocês mesmos?" ela rosna para o Coristas enquanto está sentada nas costas do líder, com a mão no cabelo dele, segurando o rosto dele na lama. "Acho assustar fazendeiros e encher seus rostos de gordura traz glória a [url=glossary:the voices of nerat]As Vozes de Nerat[/url]? Fazer vocês já são úteis pra caralho! Vá matar algum Homens-fera ou algo assim." Ela levanta a cabeça do líder da gangue e ele engole ar em suspiros profundos.
+"Orgulhosos de vocês mesmos?" ela rosna para o Coristas enquanto está sentada nas costas do líder, com a mão no cabelo dele, segurando o rosto dele na lama. "Acho assustar fazendeiros e encher seus rostos de gordura traz glória a [url=glossary:as vozes de nerat]As Vozes de Nerat[/url]? Fazer vocês já são úteis pra caralho! Vá matar algum Homens-fera ou algo assim." Ela levanta a cabeça do líder da gangue e ele engole ar em suspiros profundos.
 
 Confia que os ataques ao Nível Bastardo vão diminuir, você continua sua jornada em direção ao seu destino.</DefaultText>
       <FemaleText />
@@ -301,28 +301,28 @@ Como o Caçador de Sombras sai do homem, você olha para o magistrado, seu olhar
 
 Você envia a missiva e continua sua jornada.
 
-Mais tarde você recebe uma resposta de [url=glossary:the voices of nerat]As Vozes de Nerat[/url] elogiando longamente sua preocupação com o comum habitante do Camadas. Sua adulação é tão efusiva e extravagante que você rapidamente a identifica como sarcástica. O Arconte promete fornecer à vila alguns dos melhores espólios Refrão', uma promessa que o enche de pouca confiança.</DefaultText>
+Mais tarde você recebe uma resposta de [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] elogiando longamente sua preocupação com o comum habitante do Camadas. Sua adulação é tão efusiva e extravagante que você rapidamente a identifica como sarcástica. O Arconte promete fornecer à vila alguns dos melhores espólios Refrão', uma promessa que o enche de pouca confiança.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>Você dispara uma missiva relatando o esquadrão de Coristas a [url=glossary:the voices of nerat]As Vozes de Nerat[/url], assumindo que eles deveriam estar em algum lugar onde possam realmente lutar contra os inimigos do Arconte ao invés do Nível Bastardo conquistado camponeses. 
+      <DefaultText>Você dispara uma missiva relatando o esquadrão de Coristas a [url=glossary:as vozes de nerat]As Vozes de Nerat[/url], assumindo que eles deveriam estar em algum lugar onde possam realmente lutar contra os inimigos do Arconte ao invés do Nível Bastardo conquistado camponeses. 
 
-Você continua sua jornada e logo em seguida recebe uma resposta do líder do [url=glossary:scarlet chorus]Coro Escarlate[/url]. Vozes de Nerat elogia sua atenção aos detalhes e agradece a você - excessivamente, você pensa, possivelmente ao ponto do sarcasmo - por ajudá-lo a encontrar seus cavaleiros perdidos. Ele promete que eles serão presos e enforcados pelos urubus por sua falta de criatividade e discrição.</DefaultText>
+Você continua sua jornada e logo em seguida recebe uma resposta do líder do [url=glossary:coro escarlate]Coro Escarlate[/url]. Vozes de Nerat elogia sua atenção aos detalhes e agradece a você - excessivamente, você pensa, possivelmente ao ponto do sarcasmo - por ajudá-lo a encontrar seus cavaleiros perdidos. Ele promete que eles serão presos e enforcados pelos urubus por sua falta de criatividade e discrição.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
       <DefaultText>Em uma missiva formal, você exige que o Arconte dos Segredos retire suas tropas ativas do conquistado Nível Bastardo, território reconhecido do Arconte da Justiça, para que não sejam presos e executados por abandono de serviço e seu general multado por não reter comando de suas tropas.
 
-Depois de enviar a missiva, você continua sua jornada. Pouco tempo depois, uma resposta vem de Cacofonia. [url=glossary:the voices of nerat]As vozes de Nerat[/url] promete controlar seus cavaleiros errantes e elogia efusivamente a dedicação sem fim de [url=glossary:tunon]Tunon[/url] Vinculador do Destinos à execução cega do Lei do Soberano.</DefaultText>
+Depois de enviar a missiva, você continua sua jornada. Pouco tempo depois, uma resposta vem de Cacofonia. [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] promete controlar seus cavaleiros errantes e elogia efusivamente a dedicação sem fim de [url=glossary:tunon]Tunon[/url] Vinculador do Destinos à execução cega do Lei do Soberano.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>60</ID>
       <DefaultText>Você entra em contato com seu aliado em uma missiva, informando-o sobre a gangue que percorre o Nível Bastardo e solicitando que ele os transloque para algum lugar que possa ser mais útil.
 
-Você continua sua jornada e a resposta de [url=glossary:the voices of nerat]As Vozes de Nerat[/url] vem mais rapidamente do que você esperava. Ele diz a você que enviou a gangue infratora para o [url=glossary:blade grave]Sepultura de Lâminas[/url], certo de que as barrigas que eles encheram com os despojos de seus ataques devem servir bem nos remanescentes de vegetação esparsa de Robusto.</DefaultText>
+Você continua sua jornada e a resposta de [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] vem mais rapidamente do que você esperava. Ele diz a você que enviou a gangue infratora para o [url=glossary:sepultura de lâminas]Sepultura de Lâminas[/url], certo de que as barrigas que eles encheram com os despojos de seus ataques devem servir bem nos remanescentes de vegetação esparsa de Robusto.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -370,7 +370,7 @@ Várias vozes se reúnem em torno dele em uma sinfonia de gritos.</DefaultText>
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Depois que as caravanas comerciais foram saqueadas durante a guerra, a comida escasseou," o magistrado intervém. "Algumas gangues locais, incapazes de comprar rações na cidade, tentaram comprar mercadorias aqui. O que os fazendeiros não venderam, o Coristas roubou. Tentei explicar que é pela conquista Soberano. Que as pessoas não têm ninguém para culpar, mas criminosos como o [url=glossary:unbroken]Inquebrável[/url] e o [url=glossary:vendrien guard]Guarda Vendrien[/url]."</DefaultText>
+      <DefaultText>"Depois que as caravanas comerciais foram saqueadas durante a guerra, a comida escasseou," o magistrado intervém. "Algumas gangues locais, incapazes de comprar rações na cidade, tentaram comprar mercadorias aqui. O que os fazendeiros não venderam, o Coristas roubou. Tentei explicar que é pela conquista Soberano. Que as pessoas não têm ninguém para culpar, mas criminosos como o [url=glossary:inquebrável]Inquebrável[/url] e o [url=glossary:guarda vendrien]Guarda Vendrien[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

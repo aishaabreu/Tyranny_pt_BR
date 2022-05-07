@@ -66,12 +66,12 @@
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>Travessia de ecochamada deve ser tomada antes que as forças de [url=glossary:kyros]Kyros[/url] possam pressionar seu ataque no [url=glossary:vendrien's well]Poço de Vendrien[/url] Cidadela. Ajude o [url=glossary:disfavored]Desfavorecido[/url] a subjugar os rebeldes e assumir o controle do Cruzando.</DefaultText>
+      <DefaultText>Travessia de ecochamada deve ser tomada antes que as forças de [url=glossary:kyros]Kyros[/url] possam pressionar seu ataque no [url=glossary:poço de vendrien]Poço de Vendrien[/url] Cidadela. Ajude o [url=glossary:desfavorecido]Desfavorecido[/url] a subjugar os rebeldes e assumir o controle do Cruzando.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Fale com o Iron Marshal no campo [url=glossary:disfavored]Desfavorecido[/url] para discutir como você deve abordar a batalha por Travessia de ecochamada.</DefaultText>
+      <DefaultText>Fale com o Iron Marshal no campo [url=glossary:desfavorecido]Desfavorecido[/url] para discutir como você deve abordar a batalha por Travessia de ecochamada.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,7 +86,7 @@
     </Entry>
     <Entry>
       <ID>10017</ID>
-      <DefaultText>O [url=glossary:scarlet chorus]Coro Escarlate[/url] enviou batedores rio abaixo para atravessar o rio. Vá para um terreno mais alto nos afloramentos rochosos a sudoeste e sinalize o Fúrias por sua ajuda.</DefaultText>
+      <DefaultText>O [url=glossary:coro escarlate]Coro Escarlate[/url] enviou batedores rio abaixo para atravessar o rio. Vá para um terreno mais alto nos afloramentos rochosos a sudoeste e sinalize o Fúrias por sua ajuda.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,7 +101,7 @@
     </Entry>
     <Entry>
       <ID>10020</ID>
-      <DefaultText>Você cruzou o rio e fez o seu caminho em direção à ponte leste. Destruir o guincho abrirá o caminho para as forças [url=glossary:disfavored]Desfavorecido[/url] se juntarem à luta.</DefaultText>
+      <DefaultText>Você cruzou o rio e fez o seu caminho em direção à ponte leste. Destruir o guincho abrirá o caminho para as forças [url=glossary:desfavorecido]Desfavorecido[/url] se juntarem à luta.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -126,7 +126,7 @@
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>Você escolheu deixar os aldeões de Echocall Crossing irem, mas matou todos os [url=glossary:vendrien guard]Guarda Vendrien[/url] na área.</DefaultText>
+      <DefaultText>Você escolheu deixar os aldeões de Echocall Crossing irem, mas matou todos os [url=glossary:guarda vendrien]Guarda Vendrien[/url] na área.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -146,7 +146,7 @@
     </Entry>
     <Entry>
       <ID>30005</ID>
-      <DefaultText>Você escolheu deixar os aldeões de Echocall Crossing irem, mas matou todos os [url=glossary:vendrien guard]Guarda Vendrien[/url] rebeldes. No entanto, você conseguiu prender o líder deles, Matani Sybil.</DefaultText>
+      <DefaultText>Você escolheu deixar os aldeões de Echocall Crossing irem, mas matou todos os [url=glossary:guarda vendrien]Guarda Vendrien[/url] rebeldes. No entanto, você conseguiu prender o líder deles, Matani Sybil.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,7 +161,7 @@
     </Entry>
     <Entry>
       <ID>30008</ID>
-      <DefaultText>Você decidiu enviar uma mensagem que o [url=glossary:vendrien guard]Guarda Vendrien[/url] não vai esquecer tão cedo, e incendiou a vila com todos nela.</DefaultText>
+      <DefaultText>Você decidiu enviar uma mensagem que o [url=glossary:guarda vendrien]Guarda Vendrien[/url] não vai esquecer tão cedo, e incendiou a vila com todos nela.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

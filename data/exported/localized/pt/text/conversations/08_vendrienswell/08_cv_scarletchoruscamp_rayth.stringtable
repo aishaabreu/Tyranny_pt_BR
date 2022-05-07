@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Você?" Tanto uma acusação quanto uma pergunta, a mulher de ombros largos balança a cabeça com uma carranca. "Então, você é [url=glossary:tunon]Tunon[/url]Vinculador do Destino. Eu esperava algo mais... impressionante?" Ela se curva apesar de suas dúvidas. "Dobre de Morte, Fúria Escarlate. Meu tempo é seu enquanto me divertir."</DefaultText>
+      <DefaultText>"Você?" Tanto uma acusação quanto uma pergunta, a mulher de ombros largos balança a cabeça com uma carranca. "Então, você é Vinculador do Destino de [url=glossary:tunon]Tunon[/url]. Eu esperava algo mais... impressionante?" Ela se curva apesar de suas dúvidas. "Dobre de Morte, Fúria Escarlate. Meu tempo é seu enquanto me divertir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -23,17 +23,17 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Qual é o seu papel no [url=glossary:scarlet chorus]Coro Escarlate[/url]?"</DefaultText>
+      <DefaultText>"Qual é o seu papel no [url=glossary:coro escarlate]Coro Escarlate[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"O que você pode me dizer sobre o [url=glossary:scarlet chorus]Coro Escarlate[/url]?"</DefaultText>
+      <DefaultText>"O que você pode me dizer sobre o [url=glossary:coro escarlate]Coro Escarlate[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Nós somos [url=glossary:the voices of nerat]a glória de Vozes de Nerat[/url] manifestada! No Coro, a força aumenta e os fracos alimentam o solo!" Dobre de Morte sorri, erguendo-se enquanto exalta o exército. "Nossas maneiras aterrorizam os covardes e chocam os ingênuos, mas nossas tradições existem para oferecer promessa e prestígio àqueles que podem reivindicá-la. Abandonamos todas as regras mesquinhas por uma lei simples: o mais forte deve liderar."</DefaultText>
+      <DefaultText>"Nós somos a glória de [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] manifestada! No Coro, a força aumenta e os fracos alimentam o solo!" Dobre de Morte sorri, erguendo-se enquanto exalta o exército. "Nossas maneiras aterrorizam os covardes e chocam os ingênuos, mas nossas tradições existem para oferecer promessa e prestígio àqueles que podem reivindicá-la. Abandonamos todas as regras mesquinhas por uma lei simples: o mais forte deve liderar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -52,16 +52,16 @@ Dobre de Morte estala a língua, olhando de lado para os outros no acampamento c
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Nós vamos, bem." O soldado olha você de cima a baixo com um sorriso malicioso. "Reconheço o Vinculador do Destino de [url=glossary:tunon]Tunon[/url] quando o vejo. Não é bem o que eu esperava, mas impressionante mesmo assim. Parece que você está se destacando no acampamento." 
+      <DefaultText>"Nós vamos, bem." O soldado olha você de cima a baixo com um sorriso malicioso. "Reconheço o Vinculador do Destino de [url=glossary:tunon]Tunon[/url] quando o vejo. Não é bem o que eu esperava, mas impressionante mesmo assim. Parece que você está se destacando no acampamento."
 
 Ela se curva. "Dobre de Morte, Fúria Escarlate, ao seu dispor."</DefaultText>
-      <FemaleText>"Nós vamos, bem." O soldado olha você de cima a baixo com um sorriso malicioso. "Reconheço o Vinculador do Destino de [url=glossary:tunon]Tunon[/url] quando a vejo. Não é bem o que eu esperava, mas impressionante mesmo assim. Parece que você está se destacando no acampamento." 
+      <FemaleText>"Nós vamos, bem." O soldado olha você de cima a baixo com um sorriso malicioso. "Reconheço o Vinculador do Destino de [url=glossary:tunon]Tunon[/url] quando a vejo. Não é bem o que eu esperava, mas impressionante mesmo assim. Parece que você está se destacando no acampamento."
 
 Ela se curva. "Dobre de Morte, Fúria Escarlate, ao seu dispor."</FemaleText>
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Ela aponta um dedo longo para você. "Conhecer isso antes que você deixe isso subir à sua cabeça - eu só mato inimigos interessantes - aqueles no campo de batalha que se destacam com armas históricas ou padrões sofisticados. Você pode pensar duas vezes antes de se destacar." 
+      <DefaultText>Ela aponta um dedo longo para você. "Conhecer isso antes que você deixe isso subir à sua cabeça - eu só mato inimigos interessantes - aqueles no campo de batalha que se destacam com armas históricas ou padrões sofisticados. Você pode pensar duas vezes antes de se destacar."
 
 Ela sorri. "Você pode receber o tipo errado de atenção."</DefaultText>
       <FemaleText />
@@ -78,7 +78,7 @@ Ela sorri. "Você pode receber o tipo errado de atenção."</DefaultText>
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Ela se levanta e estuda você. "Acho que depende de..." Então ela para e balança a cabeça. "Droga isso, temos um cerco para fazer aqui, e já tenho feridas suficientes para consertar. É muito cedo." 
+      <DefaultText>Ela se levanta e estuda você. "Acho que depende de..." Então ela para e balança a cabeça. "Droga isso, temos um cerco para fazer aqui, e já tenho feridas suficientes para consertar. É muito cedo."
 
 O olhar dela se nivela com o seu. "Retiro meu desafio... por enquanto."</DefaultText>
       <FemaleText />
@@ -105,12 +105,12 @@ O olhar dela se nivela com o seu. "Retiro meu desafio... por enquanto."</Default
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Ela encolhe os ombros. "Suponha que eu não esperava muito, e você não fez nada para desafiá-lo. Pelos padrões [url=glossary:scarlet chorus]Coro Escarlate[/url], você não é mais comum do que um recruta. Trabalhe um pouco mais para se destacar. Talvez algum dia você faça jus ao seu nome."</DefaultText>
+      <DefaultText>Ela encolhe os ombros. "Suponha que eu não esperava muito, e você não fez nada para desafiá-lo. Pelos padrões [url=glossary:coro escarlate]Coro Escarlate[/url], você não é mais comum do que um recruta. Trabalhe um pouco mais para se destacar. Talvez algum dia você faça jus ao seu nome."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>soldado lambe o céu da boca dela enquanto você passa, desalojando um pedaço de comida. Ela se concentra em você com desgosto aberto. "Você é o Vinculador do Destino, não é? estranhos não tendem a andar pelo acampamento parecendo tão útil quanto um carbúnculo. Definitivamente não era o que eu esperava." 
+      <DefaultText>soldado lambe o céu da boca dela enquanto você passa, desalojando um pedaço de comida. Ela se concentra em você com desgosto aberto. "Você é o Vinculador do Destino, não é? estranhos não tendem a andar pelo acampamento parecendo tão útil quanto um carbúnculo. Definitivamente não era o que eu esperava."
 
 Ela pisca a fraca aproximação de uma saudação. "Dobre de Morte, Fúria Escarlate."</DefaultText>
       <FemaleText />
@@ -195,7 +195,7 @@ Ela cantarola baixo para si mesma e vira a espada de um lado para o outro com v�
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Inchando até trovejar, depois despencar e retroceder. Tem sido o caminho do Coro desde que estou nele." Ela dá de ombros com um ombro só, ambivalente se alguma coisa, mas mais provavelmente apenas indiferente. "Nós levamos nossos prisioneiros vivos. Dê a eles uma chance ainda de viver - de renascer em algo melhor. Colocar todo e qualquer corpo capaz na espada como o [url=glossary:disfavored]Desfavorecido[/url] não é nada além de um desperdício. Um inimigo conquistado é apenas um novo aliado - requer apenas a coerção adequada."</DefaultText>
+      <DefaultText>"Inchando até trovejar, depois despencar e retroceder. Tem sido o caminho do Coro desde que estou nele." Ela dá de ombros com um ombro só, ambivalente se alguma coisa, mas mais provavelmente apenas indiferente. "Nós levamos nossos prisioneiros vivos. Dê a eles uma chance ainda de viver - de renascer em algo melhor. Colocar todo e qualquer corpo capaz na espada como o [url=glossary:desfavorecido]Desfavorecido[/url] não é nada além de um desperdício. Um inimigo conquistado é apenas um novo aliado - requer apenas a coerção adequada."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -210,12 +210,12 @@ Ela cantarola baixo para si mesma e vira a espada de um lado para o outro com v�
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Claro, às vezes temos o problema de lealdades persistentes. Desertores raramente são bem sucedidos em sua fuga, mas eles tentam. Os [url=glossary:vendrien guard]Guarda Vendrien[/url], fortalecidos por seus numerosos laços de sangue, têm sido particularmente teimosos. Então eu tenho um plano melhor traçado."</DefaultText>
+      <DefaultText>"Claro, às vezes temos o problema de lealdades persistentes. Desertores raramente são bem sucedidos em sua fuga, mas eles tentam. Os [url=glossary:guarda vendrien]Guarda Vendrien[/url], fortalecidos por seus numerosos laços de sangue, têm sido particularmente teimosos. Então eu tenho um plano melhor traçado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Eu não estou fazendo o trabalho sujo do [url=glossary:scarlet chorus]Coro Escarlate[/url] para eles. Obtenha seu próprio filhote da Horda para fazer isso."</DefaultText>
+      <DefaultText>"Eu não estou fazendo o trabalho sujo do [url=glossary:coro escarlate]Coro Escarlate[/url] para eles. Obtenha seu próprio filhote da Horda para fazer isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -230,14 +230,14 @@ Ela cantarola baixo para si mesma e vira a espada de um lado para o outro com v�
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>A fúria uiva uma risada satisfeita e te dá um tapa nas costas. 
+      <DefaultText>A fúria uiva uma risada satisfeita e te dá um tapa nas costas.
 
 "Meus métodos são infalíveis. Você vai ver. Vou marcar o assentamento em seu mapa." Ela sorri, mordendo o lábio inferior ensanguentado. "Mal posso esperar para ver o resultado de seus esforços."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>A fúria carranca, instantaneamente azedada por sua resposta. "Porque sou eu não está surpreso? Imparcial até o fim, não é? NOSSO fim, lembre-se, se não pudermos quebrar o cerco em [url=glossary:vendrien's well]Poço de Vendrien[/url]. E para isso precisamos de corpos. Aqueles que não estão tentando desertar durante o maldito ataque." 
+      <DefaultText>A fúria carranca, instantaneamente azedada por sua resposta. "Porque sou eu não está surpreso? Imparcial até o fim, não é? NOSSO fim, lembre-se, se não pudermos quebrar o cerco em [url=glossary:poço de vendrien]Poço de Vendrien[/url]. E para isso precisamos de corpos. Aqueles que não estão tentando desertar durante o maldito ataque."
 
 Ela cospe uma bola em seus pés. "Dizer você o quê, você muda de ideia sobre morrer, você sabe onde me encontrar."</DefaultText>
       <FemaleText />
@@ -283,7 +283,7 @@ A fúria gira sem esforço uma espada de bronze em sua mão.
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>Ela vira a espada de ponta-cabeça, irritada. Se olhar pudesse cortar, você estaria sangrando. 
+      <DefaultText>Ela vira a espada de ponta-cabeça, irritada. Se olhar pudesse cortar, você estaria sangrando.
 
 "Ah, estou chegando lá. Não se preocupe."</DefaultText>
       <FemaleText />
@@ -307,9 +307,9 @@ A fúria gira sem esforço uma espada de bronze em sua mão.
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Tem certeza disso, Vinculador? Você pensa muito -" 
+      <DefaultText>"Tem certeza disso, Vinculador? Você pensa muito -"
 
-Ela se vira e corta habilmente a lâmina de sua espada no ar. 
+Ela se vira e corta habilmente a lâmina de sua espada no ar.
 
 "- e me diga se tem certeza disso."</DefaultText>
       <FemaleText />
@@ -331,7 +331,7 @@ Ela se vira e corta habilmente a lâmina de sua espada no ar.
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>Ela solta uma risada surpresa, mas satisfeita com sua ameaça. Batendo a parte plana da lâmina contra sua coxa, ela inclinou o pescoço até que ele estalou audivelmente. 
+      <DefaultText>Ela solta uma risada surpresa, mas satisfeita com sua ameaça. Batendo a parte plana da lâmina contra sua coxa, ela inclinou o pescoço até que ele estalou audivelmente.
 
 "Talvez haja algo mais para você Vinculadores do Destino, afinal."</DefaultText>
       <FemaleText />
@@ -343,7 +343,7 @@ Ela se vira e corta habilmente a lâmina de sua espada no ar.
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>Em um passo rápido, você fecha a distância entre vocês dois e acerta um soco bem no estômago dela. A força disso a faz recuar um passo, fazendo com que ela se ajoelhe. 
+      <DefaultText>Em um passo rápido, você fecha a distância entre vocês dois e acerta um soco bem no estômago dela. A força disso a faz recuar um passo, fazendo com que ela se ajoelhe.
 
 Ela solta algumas tosses antes de recuperar a compostura e se levantar.</DefaultText>
       <FemaleText />
@@ -399,7 +399,7 @@ Ela embainha e desembainha sua espada, brincando com ela por hábito. Ela dá de
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Seus braços tremem com tremores de raiva crescente antes de ceder quase imediatamente com um suspiro profundo. "Se eue prejudicou o orgulho de [url=glossary:tunon]Tunon[/url]Tribunal tão severamente quanto parece, então pegue isso também." 
+      <DefaultText>Seus braços tremem com tremores de raiva crescente antes de ceder quase imediatamente com um suspiro profundo. "Se eue prejudicou o orgulho de [url=glossary:tunon]Tunon[/url]Tribunal tão severamente quanto parece, então pegue isso também."
 
 Ela joga uma sacola pesada para você do lado dela. "Algum despojos que eu esperava guardar, mas tome isso como um sinal de que não houve dano, ok?"</DefaultText>
       <FemaleText />

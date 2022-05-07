@@ -33,7 +33,7 @@ Ele olha por cima do ombro, fazendo um breve contato visual com você, franze a 
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"A missiva dizia que [url=lore:proclaim_storms]o Conjurador da Tempestade[/url] estava chegando. Parece que fui um tolo ao pensar que você traria um [url=glossary:edict]Edital[/url] que pulverizaria e puniria os infratores."</DefaultText>
+      <DefaultText>"A missiva dizia que [url=lore:proclaim_storms]o Conjurador da Tempestade[/url] estava chegando. Parece que fui um tolo ao pensar que você traria um [url=glossary:edital]Edital[/url] que pulverizaria e puniria os infratores."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -75,12 +75,12 @@ Ele olha por cima do ombro, fazendo um breve contato visual com você, franze a 
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Vendo como você forneceu ao [url=glossary:disfavored]Desfavorecido[/url] quase um ano de sua vida garantindo que [url=glossary:lethian's crossing]A Travessia de Lethian[/url] produza ferro para nosso esforço de guerra... é o mínimo que lhe devo."</DefaultText>
+      <DefaultText>"Vendo como você forneceu ao [url=glossary:desfavorecido]Desfavorecido[/url] quase um ano de sua vida garantindo que [url=glossary:travessia de lethian]Travessia de Lethian[/url] produza ferro para nosso esforço de guerra... é o mínimo que lhe devo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url].] "Vocêe já passou uma sentença de morte, não me insulte exigindo mais testemunhos."
+      <DefaultText>[Insuficiente [url=glossary:reputação]Reputação[/url].] "Vocêe já passou uma sentença de morte, não me insulte exigindo mais testemunhos."
 
 "Você terminou aqui. Deixar." O Arconte da Guerra bate o cabo de seu martelo contra o chão.</DefaultText>
       <FemaleText />
@@ -92,12 +92,12 @@ Ele olha por cima do ombro, fazendo um breve contato visual com você, franze a 
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Há muito o que fazer, mas posso arranjar tempo para um aliado de honra. Meus guerreiros falam bem do seu julgamento - parece que você ficou do lado deles quando chegamos pela primeira vez [url=glossary:vendrien's well]Poço de Vendrien[/url]."</DefaultText>
+      <DefaultText>"Há muito o que fazer, mas posso arranjar tempo para um aliado de honra. Meus guerreiros falam bem do seu julgamento - parece que você ficou do lado deles quando chegamos pela primeira vez [url=glossary:poço de vendrien]Poço de Vendrien[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Nossa rivalidade é antiga. [url=glossary:the voices of nerat]As vozes de Nerat[/url] serviu [url=glossary:kyros]Kyros[/url] antes de mim, e acredito que ele me odeia por ter aproximadamente o mesmo status aos olhos do soberano, apesar de ser o 'mais novo ' Arconte selecionado para liderar um exército através do Camadas." O Arconte franze a testa, resmungando baixinho como olhares.</DefaultText>
+      <DefaultText>"Nossa rivalidade é antiga. [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] serviu [url=glossary:kyros]Kyros[/url] antes de mim, e acredito que ele me odeia por ter aproximadamente o mesmo status aos olhos do soberano, apesar de ser o 'mais novo ' Arconte selecionado para liderar um exército através do Camadas." O Arconte franze a testa, resmungando baixinho como olhares.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -107,7 +107,7 @@ Ele olha por cima do ombro, fazendo um breve contato visual com você, franze a 
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>"A primeira vez que você proclamou um [url=glossary:edict]Edital[/url], você deu ao inimigo um tempo suspeito para se preparar. Eu atribuo isso à misericórdia excessiva para um povo atrasado. Mas quando o [url=glossary:edict]Edital[/url] é contra seus parentes - essa ordem você segue ao pé da letra."</DefaultText>
+      <DefaultText>"A primeira vez que você proclamou um [url=glossary:edital]Edital[/url], você deu ao inimigo um tempo suspeito para se preparar. Eu atribuo isso à misericórdia excessiva para um povo atrasado. Mas quando o [url=glossary:edital]Edital[/url] é contra seus parentes - essa ordem você segue ao pé da letra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -142,12 +142,12 @@ Ele olha por cima do ombro, fazendo um breve contato visual com você, franze a 
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>"Você tem sido um forte aliado do [url=glossary:disfavored]Desfavorecido[/url] desde o [url=glossary:bastard city]Cidade bastarda[/url] - Eu o considero nosso aliado no Tribunal. Minha mente está de mau humor para brincadeiras, mas se você deseja um momento do meu tempo, você pode tê-lo."</DefaultText>
+      <DefaultText>"Você tem sido um forte aliado do [url=glossary:desfavorecido]Desfavorecido[/url] desde o [url=glossary:cidade bastarda]Cidade Bastarda[/url] - Eu o considero nosso aliado no Tribunal. Minha mente está de mau humor para brincadeiras, mas se você deseja um momento do meu tempo, você pode tê-lo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>"Seu regimento aqui em [url=glossary:vendrien's well]Poço de Vendrien[/url] é pequeno, mesmo para os padrões [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <DefaultText>"Seu regimento aqui em [url=glossary:poço de vendrien]Poço de Vendrien[/url] é pequeno, mesmo para os padrões [url=glossary:desfavorecido]Desfavorecido[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -157,7 +157,7 @@ Ele olha por cima do ombro, fazendo um breve contato visual com você, franze a 
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Sua desconfiança de [url=glossary:the voices of nerat]As Vozes de Nerat[/url] é clara como o dia. Como começou essa antipatia?"</DefaultText>
+      <DefaultText>"Sua desconfiança de [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] é clara como o dia. Como começou essa antipatia?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -184,7 +184,7 @@ O Arconte inala bruscamente, sua postura se tornando defensiva. Seus olhos azuis
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Tenho motivos para acreditar que quando a guarnição foi tomada, os [url=glossary:disfavored]Desfavorecido[/url] foram mortos NÃO pelos violadores de juramento... e embora eu saiba disso, não posso provar [url=glossary:the voices of nerat]As Vozes de Nerat[/url] está com defeito."</DefaultText>
+      <DefaultText>"Tenho motivos para acreditar que quando a guarnição foi tomada, os [url=glossary:desfavorecido]Desfavorecido[/url] foram mortos NÃO pelos violadores de juramento... e embora eu saiba disso, não posso provar [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] está com defeito."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -199,7 +199,7 @@ O Arconte inala bruscamente, sua postura se tornando defensiva. Seus olhos azuis
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>"Essa é uma acusação muito séria. Vou ter que contar [url=glossary:the voices of nerat]As Vozes de Nerat[/url]."</DefaultText>
+      <DefaultText>"Essa é uma acusação muito séria. Vou ter que contar [url=glossary:as vozes de nerat]As Vozes de Nerat[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -255,7 +255,7 @@ O Arconte da Guerra ordena que você saia da barraca com um aceno de desdém da 
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"Acho que você está certo em ser cauteloso com [url=glossary:the voices of nerat]As Vozes de Nerat[/url]."</DefaultText>
+      <DefaultText>"Acho que você está certo em ser cauteloso com [url=glossary:as vozes de nerat]As Vozes de Nerat[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -270,7 +270,7 @@ O Arconte da Guerra ordena que você saia da barraca com um aceno de desdém da 
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>"Sem [url=glossary:disfavored]Desfavorecido[/url] sobreviventes, e sem Refrão batedores de olho na situação, eu sei muito pouco do que ocorreu - apenas que eles morreram rapidamente."</DefaultText>
+      <DefaultText>"Sem [url=glossary:desfavorecido]Desfavorecido[/url] sobreviventes, e sem Refrão batedores de olho na situação, eu sei muito pouco do que ocorreu - apenas que eles morreram rapidamente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -325,17 +325,17 @@ O Arconte da Guerra ordena que você saia da barraca com um aceno de desdém da 
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"Talvez, mas eu vi [url=glossary:the voices of nerat]As Vozes de Nerat[/url] me denegrir a cada passo - especialmente na frente de [url=glossary:tunon]Tunon[/url]. Todos nós sabemos que [url=glossary:tunon]Tunon[/url] um dia selecionará Nerat ou eu para governar, e eu sei que Nerat está se esforçando muito para tirar de mim o que mereço por direito."</DefaultText>
+      <DefaultText>"Talvez, mas eu vi [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] me denegrir a cada passo - especialmente na frente de [url=glossary:tunon]Tunon[/url]. Todos nós sabemos que [url=glossary:tunon]Tunon[/url] um dia selecionará Nerat ou eu para governar, e eu sei que Nerat está se esforçando muito para tirar de mim o que mereço por direito."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"Isso é verdade. Houve um tempo antes de eu ser o Arconte de Guerra - um tempo em que peguei em armas contra o soberano. Na época, [url=glossary:the voices of nerat]As Vozes de Nerat[/url] estava entre os que invadiram as terras que eu chamava de lar. Então para era Eco de sangue, o anterior Arconte de Guerra."</DefaultText>
+      <DefaultText>"Isso é verdade. Houve um tempo antes de eu ser o Arconte de Guerra - um tempo em que peguei em armas contra o soberano. Na época, [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] estava entre os que invadiram as terras que eu chamava de lar. Então para era Eco de sangue, o anterior Arconte de Guerra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>"Meus guerreiros e eu emboscamos e matamos o antigo Arconte de Guerra, mas a campanha maior foi perdida e tivemos que nos render. Quando [url=glossary:kyros]Kyros[/url] me concedeu a honra de ser o próximo Arconte de Guerra, [url=glossary:the voices of nerat]As Vozes de Nerat[/url] me queria por suas canetas de escravo... ou algum destino igualmente terrível. "</DefaultText>
+      <DefaultText>"Meus guerreiros e eu emboscamos e matamos o antigo Arconte de Guerra, mas a campanha maior foi perdida e tivemos que nos render. Quando [url=glossary:kyros]Kyros[/url] me concedeu a honra de ser o próximo Arconte de Guerra, [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] me queria por suas canetas de escravo... ou algum destino igualmente terrível. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

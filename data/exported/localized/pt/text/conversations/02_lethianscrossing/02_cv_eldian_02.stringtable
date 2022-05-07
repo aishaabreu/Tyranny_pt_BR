@@ -13,12 +13,12 @@
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"Os [url=glossary:disfavored]Desfavorecido[/url] estão comprometidos com a honra e a dignidade em todas as relações."</DefaultText>
+      <DefaultText>"Os [url=glossary:desfavorecido]Desfavorecido[/url] estão comprometidos com a honra e a dignidade em todas as relações."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Isso mesmo? Eu vi o [url=glossary:disfavored]Desfavorecido[/url] empalar um homem por insultar seu precioso [url=glossary:graven ashe]Cinza Esculpida[/url]. Já os vi enforcar prisioneiros por comerem ratos quando a comida acabou." "Pelo menos o [url=glossary:scarlet chorus]Coro Escarlate[/url] não tem nenhuma ilusão sobre crueldade. Fazemos isso porque é divertido."</DefaultText>
+      <DefaultText>"Isso mesmo? Eu vi o [url=glossary:desfavorecido]Desfavorecido[/url] empalar um homem por insultar seu precioso [url=glossary:cinza esculpida]Cinza Esculpida[/url]. Já os vi enforcar prisioneiros por comerem ratos quando a comida acabou." "Pelo menos o [url=glossary:coro escarlate]Coro Escarlate[/url] não tem nenhuma ilusão sobre crueldade. Fazemos isso porque é divertido."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -48,7 +48,7 @@
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Desculpe meus compatriotas. Alguns deles carecem de Norte refinamento, e outros não têm desculpa." "Você estava elogiando o [url=glossary:disfavored]Desfavorecido[/url]. Continue." Ele gesticula para Eldian.</DefaultText>
+      <DefaultText>"Desculpe meus compatriotas. Alguns deles carecem de Norte refinamento, e outros não têm desculpa." "Você estava elogiando o [url=glossary:desfavorecido]Desfavorecido[/url]. Continue." Ele gesticula para Eldian.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -78,7 +78,7 @@
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>"Alguns passaram pelo Cruzando nos últimos tempos, todos indo para o sul até o [url=glossary:stone sea]Mar de Pedra[/url]. Pelo menos essa é a palavra - os magos não ficaram por muito tempo." Ele aponta para a enorme fachada de pedra do Muralhas Antigas. "E eu sou feliz por continuarem viajando. Se algum louco lançou um feitiço que quebrou a fundação do Muralhas Antigas... elogie [url=glossary:kyros]Kyros[/url] isso não aconteceu!"</DefaultText>
+      <DefaultText>"Alguns passaram pelo Cruzando nos últimos tempos, todos indo para o sul até o [url=glossary:mar de pedra]Mar de Pedra[/url]. Pelo menos essa é a palavra - os magos não ficaram por muito tempo." Ele aponta para a enorme fachada de pedra do Muralhas Antigas. "E eu sou feliz por continuarem viajando. Se algum louco lançou um feitiço que quebrou a fundação do Muralhas Antigas... elogie [url=glossary:kyros]Kyros[/url] isso não aconteceu!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -98,14 +98,14 @@
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>"Há dias em que acho que nos sairíamos melhor com o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] segurando nossas gargantas." Por um longo momento ele olha para você, formulando suas palavras.
+      <DefaultText>"Há dias em que acho que nos sairíamos melhor com o [url=glossary:irmandade de bronze]Irmandade de Bronze[/url] segurando nossas gargantas." Por um longo momento ele olha para você, formulando suas palavras.
 
 "Eu sei melhor do que falar fora de hora sobre os assuntos das Vozes e do Refrão."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>"Diga o que quiser do [url=glossary:scarlet chorus]Coro Escarlate[/url]. Nós nos chamamos de muito pior. Mas não posso garantir que você manterá sua língua."</DefaultText>
+      <DefaultText>"Diga o que quiser do [url=glossary:coro escarlate]Coro Escarlate[/url]. Nós nos chamamos de muito pior. Mas não posso garantir que você manterá sua língua."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -132,7 +132,7 @@
       <ID>80</ID>
       <DefaultText>"Eu uh... eu não quero colocar ninguém em perigo, mas..." Eldian examina em ambas as direções, sua voz mal subindo acima de um sussurro.
 
-"O [url=glossary:scarlet chorus]Coro Escarlate[/url] é uma praga sobre nós! Minha sobrinha, meu sobrinho e vinte de nossos melhores lavradores foram recrutados à força para aquela turba doentia! Em breve todos faremos parte do enxame e não haverá ninguém na aldeia para proteger!"</DefaultText>
+"O [url=glossary:coro escarlate]Coro Escarlate[/url] é uma praga sobre nós! Minha sobrinha, meu sobrinho e vinte de nossos melhores lavradores foram recrutados à força para aquela turba doentia! Em breve todos faremos parte do enxame e não haverá ninguém na aldeia para proteger!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -173,7 +173,7 @@
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>"Então ela decidiu se concentrar em fazer um assentamento local existente no centro de comércio para os Camadas e pelas garras de uma fera, ela fez exatamente isso. Achei que ela estava louca escolhendo uma cidade aninhada no Muralhas Antigas, mas aparentemente ela sabia o que estava fazendo! Não demorou muito para que fosse renomeado [url=glossary:lethian's crossing]A Travessia de Lethian[/url]. Com as pontes sobre as Muralhas Antigas, este era o único lugar para ir se você quisesse tirar semanas de folga da sua viagem." "Eventualmente, ela contratou o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] para agir como nossos guardas locais. Nós éramos grandes o suficiente e tínhamos comércio suficiente para garantir a proteção."</DefaultText>
+      <DefaultText>"Então ela decidiu se concentrar em fazer um assentamento local existente no centro de comércio para os Camadas e pelas garras de uma fera, ela fez exatamente isso. Achei que ela estava louca escolhendo uma cidade aninhada no Muralhas Antigas, mas aparentemente ela sabia o que estava fazendo! Não demorou muito para que fosse renomeado [url=glossary:travessia de lethian]Travessia de Lethian[/url]. Com as pontes sobre as Muralhas Antigas, este era o único lugar para ir se você quisesse tirar semanas de folga da sua viagem." "Eventualmente, ela contratou o [url=glossary:irmandade de bronze]Irmandade de Bronze[/url] para agir como nossos guardas locais. Nós éramos grandes o suficiente e tínhamos comércio suficiente para garantir a proteção."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -188,14 +188,14 @@
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"O cerco de Ardent e o [url=glossary:bastard city]Cidade bastarda[/url] acabou nos ajudando - todas aquelas pessoas indo para pontos a leste atravessaram nosso pequeno assentamento e muitos deles decidiram reivindicar conosco."
+      <DefaultText>"O cerco de Ardent e o [url=glossary:cidade bastarda]Cidade Bastarda[/url] acabou nos ajudando - todas aquelas pessoas indo para pontos a leste atravessaram nosso pequeno assentamento e muitos deles decidiram reivindicar conosco."
 
 " Até então Lethiano descobriu que havia ferro em nossos rios... Ela pensou que isso nos tornaria ricos, mas também nos tornou um alvo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"As Velhas Muralhas não facilitam a passagem pela área, e nossas pontes cortam dias a semanas de uma viagem. [url=glossary:lethian's crossing]A Travessia de Lethian[/url] é a melhor aposta para levar sua remessa para onde ela precisa ir. Misture um filão de minério de ferro nele e de repente tínhamos um alvo pintado em nós."</DefaultText>
+      <DefaultText>"As Velhas Muralhas não facilitam a passagem pela área, e nossas pontes cortam dias a semanas de uma viagem. [url=glossary:travessia de lethian]Travessia de Lethian[/url] é a melhor aposta para levar sua remessa para onde ela precisa ir. Misture um filão de minério de ferro nele e de repente tínhamos um alvo pintado em nós."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -210,7 +210,7 @@
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Por que o fraternidade quer [url=glossary:lethian's crossing]A Travessia de Lethian[/url]?"</DefaultText>
+      <DefaultText>"Por que o fraternidade quer [url=glossary:travessia de lethian]Travessia de Lethian[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -254,37 +254,37 @@
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>"O que você pode me dizer sobre o Pináculo em [url=glossary:lethian's crossing]A Travessia de Lethian[/url]?"</DefaultText>
+      <DefaultText>"O que você pode me dizer sobre o Pináculo em [url=glossary:travessia de lethian]Travessia de Lethian[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>"Diga-me seus pensamentos sobre o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url]."</DefaultText>
+      <DefaultText>"Diga-me seus pensamentos sobre o [url=glossary:irmandade de bronze]Irmandade de Bronze[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"Se eu for honesto, Vinculador do Destino, estou surpreso que mais pessoas não tenham ido embora - não apenas os comerciantes. A tensão atual na cidade entre as forças fraternidade e [url=glossary:kyros]Kyros[/url] está tornando [url=glossary:lethian's crossing]A Travessia de Lethian[/url] um lugar muito perigoso para se viver." "Mas a vida lá fora é ainda pior, então para onde eles iriam? Pelo menos os comerciantes podem levar seu sustento com eles."</DefaultText>
+      <DefaultText>"Se eu for honesto, Vinculador do Destino, estou surpreso que mais pessoas não tenham ido embora - não apenas os comerciantes. A tensão atual na cidade entre as forças fraternidade e [url=glossary:kyros]Kyros[/url] está tornando [url=glossary:travessia de lethian]Travessia de Lethian[/url] um lugar muito perigoso para se viver." "Mas a vida lá fora é ainda pior, então para onde eles iriam? Pelo menos os comerciantes podem levar seu sustento com eles."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Embora possa não ter sido a melhor situação com o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] mantendo o controle de [url=glossary:lethian's crossing]A Travessia de Lethian[/url], pelo menos eles mantiveram exército de [url=glossary:kyros]Kyros[/url] fora da cidade. Assim que encontraram ferro em nosso rio, de repente todos se preocuparam com quem tinha o controle do Cruzando." "Com o [url=glossary:forge-bound]Vinculado à Forja[/url] aqui, eu sei que Cinza e Nerat adoraria ter acesso às armas que eles criam." "Pelo menos não estamos mais sob o jugo do fraternidade."</DefaultText>
+      <DefaultText>"Embora possa não ter sido a melhor situação com o [url=glossary:irmandade de bronze]Irmandade de Bronze[/url] mantendo o controle de [url=glossary:travessia de lethian]Travessia de Lethian[/url], pelo menos eles mantiveram exército de [url=glossary:kyros]Kyros[/url] fora da cidade. Assim que encontraram ferro em nosso rio, de repente todos se preocuparam com quem tinha o controle do Cruzando." "Com o [url=glossary:forge-bound]Vinculado à Forja[/url] aqui, eu sei que Cinza e Nerat adoraria ter acesso às armas que eles criam." "Pelo menos não estamos mais sob o jugo do fraternidade."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"O [url=glossary:disfavored]Desfavorecido[/url] mantém tudo sob controle rígido com uma disciplina incrível. Espera-se que todos sigam as regras ao pé da letra e as punições impostas são duras. Não é realmente o melhor ambiente para os colonos, mas os [url=glossary:forge-bound]Vinculado à Forja[/url] prosperam e os [url=glossary:disfavored]Desfavorecido[/url] só se preocupam com eles."</DefaultText>
+      <DefaultText>"O [url=glossary:desfavorecido]Desfavorecido[/url] mantém tudo sob controle rígido com uma disciplina incrível. Espera-se que todos sigam as regras ao pé da letra e as punições impostas são duras. Não é realmente o melhor ambiente para os colonos, mas os [url=glossary:forge-bound]Vinculado à Forja[/url] prosperam e os [url=glossary:desfavorecido]Desfavorecido[/url] só se preocupam com eles."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"Com o [url=glossary:scarlet chorus]Coro Escarlate[/url] no comando, há tanto caos no Cruzando. A punição por crimes é, na melhor das hipóteses, aleatória. Você nunca sabe o que vai detonar alguém. Às vezes você leva um tapa no pulso, outras vezes perde a mão. É difícil dizer qual será o resultado."</DefaultText>
+      <DefaultText>"Com o [url=glossary:coro escarlate]Coro Escarlate[/url] no comando, há tanto caos no Cruzando. A punição por crimes é, na melhor das hipóteses, aleatória. Você nunca sabe o que vai detonar alguém. Às vezes você leva um tapa no pulso, outras vezes perde a mão. É difícil dizer qual será o resultado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"Mas, enquanto eles podem ter ido embora, nosso alívio é temporário. As forças estão circulando a cidade procurando uma maneira de entrar e é apenas uma questão de tempo até que todos percebam que [url=glossary:lethian's crossing]A Travessia de Lethian[/url] agora está desprotegido. Sempre tivemos algum tipo de guarnição aqui para nos proteger e agora cabe a mim proteger os colonos."</DefaultText>
+      <DefaultText>"Mas, enquanto eles podem ter ido embora, nosso alívio é temporário. As forças estão circulando a cidade procurando uma maneira de entrar e é apenas uma questão de tempo até que todos percebam que [url=glossary:travessia de lethian]Travessia de Lethian[/url] agora está desprotegido. Sempre tivemos algum tipo de guarnição aqui para nos proteger e agora cabe a mim proteger os colonos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -304,12 +304,12 @@
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"Eu obtive uma pedra angular que pode ser usada para abrir ou selar a porta. Um dos soldados de [url=glossary:kyros]Kyros[/url] o encontrou enquanto procuravam uma maneira de selar as portas para evitar que o Maldito escapasse." "A porta selada é apenas uma medida temporária, no entanto. Ele retém o Maldito por enquanto, mas não vai durar muito mais tempo. É por isso que [url=glossary:tunon]Tunon[/url] instruiu Zdenya a criar um artefato para proteger [url=glossary:lethian's crossing]A Travessia de Lethian[/url] do Maldito."</DefaultText>
+      <DefaultText>"Eu obtive uma pedra angular que pode ser usada para abrir ou selar a porta. Um dos soldados de [url=glossary:kyros]Kyros[/url] o encontrou enquanto procuravam uma maneira de selar as portas para evitar que o Maldito escapasse." "A porta selada é apenas uma medida temporária, no entanto. Ele retém o Maldito por enquanto, mas não vai durar muito mais tempo. É por isso que [url=glossary:tunon]Tunon[/url] instruiu Zdenya a criar um artefato para proteger [url=glossary:travessia de lethian]Travessia de Lethian[/url] do Maldito."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"Receio que seja um risco que não estou disposto a correr, Vinculador do Destino. Uma vez que as portas são abertas, há uma boa chance de Maldito inundar [url=glossary:lethian's crossing]A Travessia de Lethian[/url]. Quando Zdenya chega com o artefato, vou abrir as Muralhas Antigas para você."</DefaultText>
+      <DefaultText>"Receio que seja um risco que não estou disposto a correr, Vinculador do Destino. Uma vez que as portas são abertas, há uma boa chance de Maldito inundar [url=glossary:travessia de lethian]Travessia de Lethian[/url]. Quando Zdenya chega com o artefato, vou abrir as Muralhas Antigas para você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -319,12 +319,12 @@
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>"O [url=glossary:disfavored]Desfavorecido[/url] [url=lore:lc_ancient_threats]fizeram o que podiam contra o Maldito[/url] que escapou anos atrás, mas mesmo o [url=glossary:disfavored]Desfavorecido[/url] pode ter seus limites. "</DefaultText>
+      <DefaultText>"O [url=glossary:desfavorecido]Desfavorecido[/url] [url=lore:lc_ancient_threats]fizeram o que podiam contra o Maldito[/url] que escapou anos atrás, mas mesmo o [url=glossary:desfavorecido]Desfavorecido[/url] pode ter seus limites. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>"Os [url=glossary:scarlet chorus]Coro Escarlate[/url] [url=lore:lc_ancient_threats]fizeram o que podiam contra os Maldito[/url] que escaparam anos atrás, mas mesmo os números absolutos dos Refrão nem sempre são suficientes."</DefaultText>
+      <DefaultText>"Os [url=glossary:coro escarlate]Coro Escarlate[/url] [url=lore:lc_ancient_threats]fizeram o que podiam contra os Maldito[/url] que escaparam anos atrás, mas mesmo os números absolutos dos Refrão nem sempre são suficientes."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -334,24 +334,24 @@
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>"Diga-me o que você pensa sobre o [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <DefaultText>"Diga-me o que você pensa sobre o [url=glossary:desfavorecido]Desfavorecido[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>"Como tem sido suas interações com o [url=glossary:scarlet chorus]Coro Escarlate[/url]?"</DefaultText>
+      <DefaultText>"Como tem sido suas interações com o [url=glossary:coro escarlate]Coro Escarlate[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Não tenho certeza do que dizer, honestamente. Ouvi rumores de que os [url=glossary:disfavored]Desfavorecido[/url] são uma equipe dura e disciplinada, mas os [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] conseguiram forçá-los a sair do Cruzando sem muitos problemas. Tenho certeza de que deve ter havido circunstâncias atenuantes, mas até que eu veja algo que me faça mudar de ideia, é assim que me sinto."</DefaultText>
+      <DefaultText>"Não tenho certeza do que dizer, honestamente. Ouvi rumores de que os [url=glossary:desfavorecido]Desfavorecido[/url] são uma equipe dura e disciplinada, mas os [url=glossary:irmandade de bronze]Irmandade de Bronze[/url] conseguiram forçá-los a sair do Cruzando sem muitos problemas. Tenho certeza de que deve ter havido circunstâncias atenuantes, mas até que eu veja algo que me faça mudar de ideia, é assim que me sinto."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>129</ID>
       <DefaultText>"Eu não consegui passar muito tempo com eles, mas posso dizer que eles não ficaram felizes em deixar as Cruzando em Coro mãos!"
 
-"Rumores sobre o quão rigorosos os [url=glossary:disfavored]Desfavorecido[/url] são quando dada uma ordem deve ser verdadeira porque eles saíram mesmo que fosse óbvio que eles não queriam."</DefaultText>
+"Rumores sobre o quão rigorosos os [url=glossary:desfavorecido]Desfavorecido[/url] são quando dada uma ordem deve ser verdadeira porque eles saíram mesmo que fosse óbvio que eles não queriam."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -361,17 +361,17 @@
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"Não posso dizer que tenho uma opinião forte de uma forma ou de outra, realmente. Eles não pareciam se importar muito em deixar o assentamento para trás. Uma vez tomada a decisão de deixar o [url=glossary:disfavored]Desfavorecido[/url] ter o controle, eles foram embora e não os vi muito desde então.</DefaultText>
+      <DefaultText>"Não posso dizer que tenho uma opinião forte de uma forma ou de outra, realmente. Eles não pareciam se importar muito em deixar o assentamento para trás. Uma vez tomada a decisão de deixar o [url=glossary:desfavorecido]Desfavorecido[/url] ter o controle, eles foram embora e não os vi muito desde então.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"Houve um comerciante que tentou vender pedras de ferro como 'mágicas' porque vinham de áreas próximas ao Muralhas Antigas. Uma das pessoas para quem ele vendeu era um mensageiro [url=glossary:disfavored]Desfavorecido[/url]. O mensageiro então mostrou a pedra para um [url=glossary:forge-bound]Vinculado à Forja[/url] Mestre que imediatamente reconheceu seu potencial para fazer armas superiores."</DefaultText>
+      <DefaultText>"Houve um comerciante que tentou vender pedras de ferro como 'mágicas' porque vinham de áreas próximas ao Muralhas Antigas. Uma das pessoas para quem ele vendeu era um mensageiro [url=glossary:desfavorecido]Desfavorecido[/url]. O mensageiro então mostrou a pedra para um [url=glossary:forge-bound]Vinculado à Forja[/url] Mestre que imediatamente reconheceu seu potencial para fazer armas superiores."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>"Ele chamou a atenção de [url=glossary:kyros]Kyros[/url] e logo depois soldados e [url=glossary:forge-bound]Vinculado à Forja[/url] chegaram a [url=glossary:lethian's crossing]A Travessia de Lethian[/url]. Eles vieram com tanta força que nossas opções eram cumprir o que queriam ou morrer."</DefaultText>
+      <DefaultText>"Ele chamou a atenção de [url=glossary:kyros]Kyros[/url] e logo depois soldados e [url=glossary:forge-bound]Vinculado à Forja[/url] chegaram a [url=glossary:travessia de lethian]Travessia de Lethian[/url]. Eles vieram com tanta força que nossas opções eram cumprir o que queriam ou morrer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -403,12 +403,12 @@
       <ID>148</ID>
       <DefaultText>"O cruzamento é dividido em distritos com o nome das cachoeiras. O lado oeste do rio é o Sunrise District e o lado leste do rio é o Distrito do Nascer da Lua."
 
-"Os diferentes níveis de [url=glossary:lethian's crossing]A Travessia de Lethian[/url] realmente não têm nomes, mas a maioria das pessoas se refere a eles como as camadas. Minha casa é considerada parte do andar térreo, a forja fica no primeiro andar, ambos no distrito Nascer da lua."</DefaultText>
+"Os diferentes níveis de [url=glossary:travessia de lethian]Travessia de Lethian[/url] realmente não têm nomes, mas a maioria das pessoas se refere a eles como as camadas. Minha casa é considerada parte do andar térreo, a forja fica no primeiro andar, ambos no distrito Nascer da lua."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>"Se você tiver dúvidas sobre nosso acordo, sou eu quem deve perguntar. Eu tenho a dúbia distinção de ser o residente mais velho de [url=glossary:lethian's crossing]A Travessia de Lethian[/url] - então estou aqui há muito tempo." Eldian sorri. "Olhos, quadris, cabelo e audição podem estar falhando, mas minha mente ainda se lembra de tudo o que aconteceu aqui."</DefaultText>
+      <DefaultText>"Se você tiver dúvidas sobre nosso acordo, sou eu quem deve perguntar. Eu tenho a dúbia distinção de ser o residente mais velho de [url=glossary:travessia de lethian]Travessia de Lethian[/url] - então estou aqui há muito tempo." Eldian sorri. "Olhos, quadris, cabelo e audição podem estar falhando, mas minha mente ainda se lembra de tudo o que aconteceu aqui."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -423,17 +423,17 @@
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>"Com o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] mantendo o controle de [url=glossary:lethian's crossing]A Travessia de Lethian[/url], os exércitos de [url=glossary:kyros]Kyros[/url] estão ansiosos para tomar a cidade deles. Pelo menos é o que parece estar acontecendo. Pelo que sei, Nerat e Ash pode simplesmente querer o [url=glossary:forge-bound]Vinculado à Forja[/url]. Assim que encontraram ferro em nosso rio, de repente todos se preocuparam com quem tinha o controle do Cruzando."</DefaultText>
+      <DefaultText>"Com o [url=glossary:irmandade de bronze]Irmandade de Bronze[/url] mantendo o controle de [url=glossary:travessia de lethian]Travessia de Lethian[/url], os exércitos de [url=glossary:kyros]Kyros[/url] estão ansiosos para tomar a cidade deles. Pelo menos é o que parece estar acontecendo. Pelo que sei, Nerat e Ash pode simplesmente querer o [url=glossary:forge-bound]Vinculado à Forja[/url]. Assim que encontraram ferro em nosso rio, de repente todos se preocuparam com quem tinha o controle do Cruzando."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>"O [url=glossary:disfavored]Desfavorecido[/url] manteve tudo sob controle rígido com uma disciplina incrível. Esperava-se que todos seguissem as regras ao pé da letra e as punições impostas eram duras. Não é realmente o melhor ambiente para os colonos, mas o [url=glossary:forge-bound]Vinculado à Forja[/url] prosperou e o [url=glossary:disfavored]Desfavorecido[/url] só se importava com eles." "E eu acho estranho que você tenha dado [url=glossary:lethian's crossing]Lethian'scrossing[/url] para o [url=glossary:disfavored]Desfavorecido[/url] e depois veio para derrotá-los." "Ou você tem uma estratégia I não consigo entender, ou você está tão perdido quanto o resto de nós. Vou assumir o primeiro porque o último é um pouco assustador."</DefaultText>
+      <DefaultText>"O [url=glossary:desfavorecido]Desfavorecido[/url] manteve tudo sob controle rígido com uma disciplina incrível. Esperava-se que todos seguissem as regras ao pé da letra e as punições impostas eram duras. Não é realmente o melhor ambiente para os colonos, mas o [url=glossary:forge-bound]Vinculado à Forja[/url] prosperou e o [url=glossary:desfavorecido]Desfavorecido[/url] só se importava com eles." "E eu acho estranho que você tenha dado [url=glossary:travessia de lethian]Travessia de Lethian[/url] para o [url=glossary:desfavorecido]Desfavorecido[/url] e depois veio para derrotá-los." "Ou você tem uma estratégia I não consigo entender, ou você está tão perdido quanto o resto de nós. Vou assumir o primeiro porque o último é um pouco assustador."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>"Com o [url=glossary:scarlet chorus]Coro Escarlate[/url] no comando, havia tanto caos no Cruzando. A punição por crimes era, na melhor das hipóteses, aleatória. Você nunca sabia o que iria detonar alguém. Às vezes você levava um tapa no pulso, outras vezes perdia a mão. Era difícil dizer qual seria o resultado." "Por exemplo, acho estranho que você tenha dado [url=glossary:lethian's crossing]cruzamento de Lethian[/url] para o Refrão e depois veio para derrotá-los." "Ou você tem uma estratégia que não consigo entender, ou você está tão perdido quanto o resto de nós. Vou assumir o primeiro porque o último é um pouco assustador."</DefaultText>
+      <DefaultText>"Com o [url=glossary:coro escarlate]Coro Escarlate[/url] no comando, havia tanto caos no Cruzando. A punição por crimes era, na melhor das hipóteses, aleatória. Você nunca sabia o que iria detonar alguém. Às vezes você levava um tapa no pulso, outras vezes perdia a mão. Era difícil dizer qual seria o resultado." "Por exemplo, acho estranho que você tenha dado [url=glossary:travessia de lethian]Travessia de Lethian[/url] para o Refrão e depois veio para derrotá-los." "Ou você tem uma estratégia que não consigo entender, ou você está tão perdido quanto o resto de nós. Vou assumir o primeiro porque o último é um pouco assustador."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -489,12 +489,12 @@
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>"Eu tenho uma pedra angular que pode ser usada para abrir ou selar a porta. Um dos soldados de [url=glossary:kyros]Kyros[/url] o encontrou enquanto procuravam uma maneira de selar as portas para impedir que o Maldito escapasse." "A porta selada é apenas uma medida temporária, no entanto. Ele retém o Maldito por enquanto, mas não vai durar muito mais tempo. Temo o que acontecerá com [url=glossary:lethian's crossing]A Travessia de Lethian[/url] se o Maldito escapar."</DefaultText>
+      <DefaultText>"Eu tenho uma pedra angular que pode ser usada para abrir ou selar a porta. Um dos soldados de [url=glossary:kyros]Kyros[/url] o encontrou enquanto procuravam uma maneira de selar as portas para impedir que o Maldito escapasse." "A porta selada é apenas uma medida temporária, no entanto. Ele retém o Maldito por enquanto, mas não vai durar muito mais tempo. Temo o que acontecerá com [url=glossary:travessia de lethian]Travessia de Lethian[/url] se o Maldito escapar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>"Receio que seja um risco que não estou disposto a correr, Vinculador do Destino. Uma vez que as portas são abertas, há uma boa chance de Maldito inundar em [url=glossary:lethian's crossing]A Travessia de Lethian[/url]. Por mais que eu goste de ajudá-lo, não posso colocar a cidade em perigo assim."</DefaultText>
+      <DefaultText>"Receio que seja um risco que não estou disposto a correr, Vinculador do Destino. Uma vez que as portas são abertas, há uma boa chance de Maldito inundar em [url=glossary:travessia de lethian]Travessia de Lethian[/url]. Por mais que eu goste de ajudá-lo, não posso colocar a cidade em perigo assim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

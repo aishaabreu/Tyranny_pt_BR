@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Volte para cá, mantenha a postura defensiva!" Sem fôlego, o [url=glossary:disfavored]Desfavorecido[/url] agarra seu peito manchado de sangue enquanto respira fundo, reunindo seus pensamentos. Seu foco está nos homens dispersos e feridos ao seu redor; ele ainda não percebeu você.</DefaultText>
+      <DefaultText>"Volte para cá, mantenha a postura defensiva!" Sem fôlego, o [url=glossary:desfavorecido]Desfavorecido[/url] agarra seu peito manchado de sangue enquanto respira fundo, reunindo seus pensamentos. Seu foco está nos homens dispersos e feridos ao seu redor; ele ainda não percebeu você.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Seu plano foi um grande sucesso. A maioria de nossas tropas, morta. Uma ponte, destruída. E o [url=glossary:vendrien guard]Guarda Vendrien[/url] nos empurra de volta para onde começamos. Senhoras e senhores, o melhor que o Norte tem para oferecer. E para o seu próximo ato?"</DefaultText>
+      <DefaultText>"Seu plano foi um grande sucesso. A maioria de nossas tropas, morta. Uma ponte, destruída. E o [url=glossary:guarda vendrien]Guarda Vendrien[/url] nos empurra de volta para onde começamos. Senhoras e senhores, o melhor que o Norte tem para oferecer. E para o seu próximo ato?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Você está com tanta pressa para ver [url=glossary:kyros]Kyros[/url] [url=glossary:edict]Edital[/url] acontecer? Desculpe Quip, mas vou amarrar você nas minhas costas e descer aquela outra ponte sozinho, mas não fazer nada não é uma opção."</DefaultText>
+      <DefaultText>"Você está com tanta pressa para ver [url=glossary:kyros]Kyros[/url] [url=glossary:edital]Edital[/url] acontecer? Desculpe Quip, mas vou amarrar você nas minhas costas e descer aquela outra ponte sozinho, mas não fazer nada não é uma opção."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,17 +81,17 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"Bem, podemos sentar e esperar que [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] nos mate, ou podemos fazer alguma coisa."</DefaultText>
+      <DefaultText>"Bem, podemos sentar e esperar que [url=glossary:edital]Edital[/url] de [url=glossary:kyros]Kyros[/url] nos mate, ou podemos fazer alguma coisa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Só assim?" O [url=glossary:disfavored]Desfavorecido[/url] amassa o rosto na palma da mão. "Não espere, não vou questionar. Sim, obrigado, obrigado."</DefaultText>
+      <DefaultText>"Só assim?" O [url=glossary:desfavorecido]Desfavorecido[/url] amassa o rosto na palma da mão. "Não espere, não vou questionar. Sim, obrigado, obrigado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Sim, é melhor você estar me agradecendo. E o Vinculador do Destino. Salvamos o [url=glossary:disfavored]Desfavorecido[/url] várias vezes, o que é mais um?"</DefaultText>
+      <DefaultText>"Sim, é melhor você estar me agradecendo. E o Vinculador do Destino. Salvamos o [url=glossary:desfavorecido]Desfavorecido[/url] várias vezes, o que é mais um?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -151,7 +151,7 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"E assim termina a conquista. [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] nos mata porque primos se casam, Antio nasce, e nosso melhor Soberano cai em uma armadilha. Você é o escolhido, Antio... [url=glossary:kyros]Kyros[/url] escolheu você para nos matar. Sabedoria infinita minha porca gangrenosa!"</DefaultText>
+      <DefaultText>"E assim termina a conquista. [url=glossary:edital]Edital[/url] de [url=glossary:kyros]Kyros[/url] nos mata porque primos se casam, Antio nasce, e nosso melhor Soberano cai em uma armadilha. Você é o escolhido, Antio... [url=glossary:kyros]Kyros[/url] escolheu você para nos matar. Sabedoria infinita minha porca gangrenosa!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -166,7 +166,7 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Bem feito. Essa distração era exatamente o que precisávamos! [url=glossary:graven ashe]Cinza Esculpida[/url] protege - meus camaradas estão recebendo seu segundo fôlego e prontos para tentar isso mais uma vez."</DefaultText>
+      <DefaultText>"Bem feito. Essa distração era exatamente o que precisávamos! [url=glossary:cinza esculpida]Cinza Esculpida[/url] protege - meus camaradas estão recebendo seu segundo fôlego e prontos para tentar isso mais uma vez."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -216,7 +216,7 @@
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Um membro do Escola das Marés está vivo e trabalhando com o [url=glossary:vendrien guard]Guarda Vendrien[/url]. Garanto que ela é a culpada."</DefaultText>
+      <DefaultText>"Um membro do Escola das Marés está vivo e trabalhando com o [url=glossary:guarda vendrien]Guarda Vendrien[/url]. Garanto que ela é a culpada."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -286,7 +286,7 @@
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Acho que terei que dizer ao [url=glossary:the voices of nerat]As Vozes de Nerat[/url] que seus agentes foram brandos e covardes diante da oposição."</DefaultText>
+      <DefaultText>"Acho que terei que dizer ao [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] que seus agentes foram brandos e covardes diante da oposição."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -296,7 +296,7 @@
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>"Primeira escolha dos espólios - incluindo qualquer [url=glossary:disfavored]Desfavorecido[/url] ferro em campo."</DefaultText>
+      <DefaultText>"Primeira escolha dos espólios - incluindo qualquer [url=glossary:desfavorecido]Desfavorecido[/url] ferro em campo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -321,7 +321,7 @@
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Primeira escolha dos espólios - incluindo qualquer [url=glossary:disfavored]Desfavorecido[/url] ferro em campo."</DefaultText>
+      <DefaultText>"Primeira escolha dos espólios - incluindo qualquer [url=glossary:desfavorecido]Desfavorecido[/url] ferro em campo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -346,7 +346,7 @@
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>[Mentira] "Acho que [url=glossary:bleden mark]Marca de Mistura[/url] queria saber onde-... Já falei demais."</DefaultText>
+      <DefaultText>[Mentira] "Acho que [url=glossary:marca de mistura]Marca de Mistura[/url] queria saber onde-... Já falei demais."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -361,12 +361,12 @@
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>O Cantador acena com a cabeça, levantando uma sobrancelha. "Entrei no início de 28, semanas antes de [url=glossary:bastard city]Cidade bastarda[/url]. Tenho orgulho do meu serviço e respeito aqueles que tiraram sangue desde o início desta gloriosa conquista."</DefaultText>
+      <DefaultText>O Cantador acena com a cabeça, levantando uma sobrancelha. "Entrei no início de 28, semanas antes de [url=glossary:cidade bastarda]Cidade Bastarda[/url]. Tenho orgulho do meu serviço e respeito aqueles que tiraram sangue desde o início desta gloriosa conquista."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"[url=glossary:bleden mark]Marca de Mistura[/url]?!" Quip amargo olhos se arregalam. "Se o Arconte das Sombras está procurando meu Fúrias... o que eu... existe algum... bem merda."</DefaultText>
+      <DefaultText>"[url=glossary:marca de mistura]Marca de Mistura[/url]?!" Quip amargo olhos se arregalam. "Se o Arconte das Sombras está procurando meu Fúrias... o que eu... existe algum... bem merda."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -421,7 +421,7 @@
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"Pelo punho de [url=glossary:kyros]Kyros[/url]!" Comando Antio vira a cabeça para o lado, cuspindo maldições meio murmuradas. "Multar. Por favor, por favor, ajude-nos Piada Amarga. Sem a sua intervenção, esta missão [url=glossary:disfavored]Desfavorecido[/url] certamente falhará." Ele se afasta do Chanter's sorriso travesso para olhar para você com irritação lancinante.</DefaultText>
+      <DefaultText>"Pelo punho de [url=glossary:kyros]Kyros[/url]!" Comando Antio vira a cabeça para o lado, cuspindo maldições meio murmuradas. "Multar. Por favor, por favor, ajude-nos Piada Amarga. Sem a sua intervenção, esta missão [url=glossary:desfavorecido]Desfavorecido[/url] certamente falhará." Ele se afasta do Chanter's sorriso travesso para olhar para você com irritação lancinante.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

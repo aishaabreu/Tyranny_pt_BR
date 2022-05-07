@@ -26,32 +26,32 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Ferro [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>Ferro [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Caminhante de Ferro [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>Caminhante de Ferro [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Escudo de Pedra [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>Escudo de Pedra [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Fúria Escarlate Sangrenta [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>Fúria Escarlate Sangrenta [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>[url=glossary:scarlet chorus]Coro Escarlate[/url] Couro [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>[url=glossary:coro escarlate]Coro Escarlate[/url] Couro [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>[url=glossary:camping supplies]Materiais de acampamento[/url]</DefaultText>
+      <DefaultText>[url=glossary:materiais de acampamento]Materiais de acampamento[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,12 +91,12 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>[url=glossary:disfavored]Desfavorecido[/url] Espada de ferro</DefaultText>
+      <DefaultText>[url=glossary:desfavorecido]Desfavorecido[/url] Espada de ferro</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>[url=glossary:disfavored]Desfavorecido[/url] Lança de Ferro</DefaultText>
+      <DefaultText>[url=glossary:desfavorecido]Desfavorecido[/url] Lança de Ferro</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,7 +111,7 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>[url=glossary:disfavored]Desfavorecido[/url] Dardo</DefaultText>
+      <DefaultText>[url=glossary:desfavorecido]Desfavorecido[/url] Dardo</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -166,27 +166,27 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>[url=glossary:unbroken]Inquebrável[/url] [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>[url=glossary:inquebrável]Inquebrável[/url] [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>[url=glossary:unbroken]Inquebrável[/url] Chuteiras</DefaultText>
+      <DefaultText>[url=glossary:inquebrável]Inquebrável[/url] Chuteiras</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>[url=glossary:unbroken]Inquebrável[/url] Manoplas</DefaultText>
+      <DefaultText>[url=glossary:inquebrável]Inquebrável[/url] Manoplas</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>[url=glossary:unbroken]Inquebrável[/url] Leme</DefaultText>
+      <DefaultText>[url=glossary:inquebrável]Inquebrável[/url] Leme</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Bronze pesado [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>Bronze pesado [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -290,7 +290,7 @@ O efeito deste consumível aumenta em força à medida que seu usuário ganha po
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>Fúria Escarlate [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>Fúria Escarlate [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -310,12 +310,12 @@ O efeito deste consumível aumenta em força à medida que seu usuário ganha po
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>Temp [url=glossary:lore]Conhecimento[/url] Rolagem</DefaultText>
+      <DefaultText>Temp [url=glossary:conhecimento]Conhecimento[/url] Rolagem</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>Temp [url=glossary:lore]Conhecimento[/url] Texto de descrição</DefaultText>
+      <DefaultText>Temp [url=glossary:conhecimento]Conhecimento[/url] Texto de descrição</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -327,8 +327,8 @@ O efeito deste consumível aumenta em força à medida que seu usuário ganha po
       <ID>69</ID>
       <DefaultText>Saudações ao associado,
 O portador desta nota me cedeu 50 argolas pessoalmente e em estrita confidencialidade, para fins de guarda. Por favor, entregue-se ao portador 40 argolas. Se o portador encontrar reclamação com esta quantia, explique que 10 argolas foram usados para comprar o papiro e a tinta desta nota, bem como para indenizar os guardas que resguardaram a oferta inicial do portador. Se o portador reclamar ainda mais, aplique violência.
-Apresente esta nota na próxima Contabilidade e você será devidamente ressarcido. Se você está atualmente sem dinheiro, aponte o portador desta nota para outro [url=glossary:scarlet chorus]Coro Escarlate[/url] capitão de provisões.
--Harchiand Bronze, [url=glossary:scarlet chorus]Coro Escarlate[/url] Contramestre</DefaultText>
+Apresente esta nota na próxima Contabilidade e você será devidamente ressarcido. Se você está atualmente sem dinheiro, aponte o portador desta nota para outro [url=glossary:coro escarlate]Coro Escarlate[/url] capitão de provisões.
+-Harchiand Bronze, [url=glossary:coro escarlate]Coro Escarlate[/url] Contramestre</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -358,8 +358,8 @@ Apresente esta nota na próxima Contabilidade e você será devidamente ressarci
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>Este pedaço de ferro forjado é usado para queimar a torção no sentido anti-horário na carne de [url=glossary:scarlet chorus]Coro Escarlate[/url] recrutas. Aqueles que não podem suportar a marca abrasadora são considerados impróprios até mesmo para a tarefa mais servil no Refrão, e tais recrutas impróprios se tornam carroceiros ou cadáveres, dependendo de sua capacidade de trabalho manual. Você pode vendê-lo para um comerciante como peças de reposição.
-Formado em grande número pelos ferreiros sobrecarregados do Montanhas da Vela, cada marca de recrutamento tem seu próprio tamanho e estilo de cachos, bem como imperfeições e deformidades que vêm do processo de fabricação apressado. A falta de uma marca uniforme cria panelinhas entre os [url=glossary:scarlet chorus]Coro Escarlate[/url] - todos os recrutas que compartilham a mesma marca compartilham memórias de serem queimados e marcados para a vida pela mesma pessoa.</DefaultText>
+      <DefaultText>Este pedaço de ferro forjado é usado para queimar a torção no sentido anti-horário na carne de [url=glossary:coro escarlate]Coro Escarlate[/url] recrutas. Aqueles que não podem suportar a marca abrasadora são considerados impróprios até mesmo para a tarefa mais servil no Refrão, e tais recrutas impróprios se tornam carroceiros ou cadáveres, dependendo de sua capacidade de trabalho manual. Você pode vendê-lo para um comerciante como peças de reposição.
+Formado em grande número pelos ferreiros sobrecarregados do Montanhas da Vela, cada marca de recrutamento tem seu próprio tamanho e estilo de cachos, bem como imperfeições e deformidades que vêm do processo de fabricação apressado. A falta de uma marca uniforme cria panelinhas entre os [url=glossary:coro escarlate]Coro Escarlate[/url] - todos os recrutas que compartilham a mesma marca compartilham memórias de serem queimados e marcados para a vida pela mesma pessoa.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -370,7 +370,7 @@ Formado em grande número pelos ferreiros sobrecarregados do Montanhas da Vela, 
     <Entry>
       <ID>77</ID>
       <DefaultText>Uma espiral vermelha está esculpida na capa de madeira deste caderno de papiro. A caligrafia dentro é aleatória e inescrutável - o trabalho de um lançador de palavras inexperiente e mal treinado.
-Algumas entradas contêm frases reconhecíveis, e o livro parece ser o diário de um [url=glossary:scarlet chorus]Coro Escarlate[/url] detalhando o comandante movimentos de tropas. Horários e locais são anotados ao lado de números e imagens de árvores, figuras de palitos e rochas - o autor não sabia as palavras para madeira, minério e pessoas ou apenas se sentia mais confortável com imagens do que com palavras.
+Algumas entradas contêm frases reconhecíveis, e o livro parece ser o diário de um [url=glossary:coro escarlate]Coro Escarlate[/url] detalhando o comandante movimentos de tropas. Horários e locais são anotados ao lado de números e imagens de árvores, figuras de palitos e rochas - o autor não sabia as palavras para madeira, minério e pessoas ou apenas se sentia mais confortável com imagens do que com palavras.
 Embora grande parte o diário é inescrutável, o canto de cada página tem o número de funcionários do dia para a brigada do autor. Enquanto alguns dias notam dezenas de perdas, a brigada parece estar recrutando muito mais rápido do que seus membros estão morrendo ou desertando.</DefaultText>
       <FemaleText />
     </Entry>
@@ -382,9 +382,9 @@ Embora grande parte o diário é inescrutável, o canto de cada página tem o n�
     <Entry>
       <ID>79</ID>
       <DefaultText>equipe do norte voltou com um carregamento de musgo e larvas. Lembro-me de quando vermes vivos me faziam engasgar - sinto falta daqueles dias. A equipe do leste dragou algumas lâminas de ferro - muitas delas enferrujadas e lascadas, mas meia dúzia de espadas de qualidade foram encontradas no resgate.
-Continuamos a encontrar os corpos de [url=glossary:unbroken]Inquebrável[/url]. Eu deveria estar entre os mortos dos [url=glossary:blade grave]Sepultura de Lâminas[/url]... Eu deveria ter lutado ao lado de meus irmãos contra os [url=glossary:disfavored]Desfavorecido[/url]. Nós, que fomos designados para outro lugar, somos poucos 'sortudos', carregamos a vergonha de ter estado ausente quando nossos companheiros mais precisavam de nós.
-A [url=glossary:scarlet chorus]Coro Escarlate[/url] presença cresce constantemente. Cada lua vê um lote de novos recrutas vindos de outros lugares. No começo eu assumi que os [url=glossary:scarlet chorus]Coro Escarlate[/url] estavam aqui para nos recrutar à força, mas agora acredito que a motivação deles é a descoberta.
-Eles começaram a fazer prisioneiros - uma mudança incomum de estratégia para o Refrão. No passado, eles sempre 'recrutavam' aqueles que pegavam vivos - executando prontamente aqueles que se recusavam a participar. Meus soldados serão usados como isca para alguma armadilha futura? Ou eles estão sendo mantidos para a diversão do [url=glossary:the voices of nerat]As Vozes de Nerat[/url]?</DefaultText>
+Continuamos a encontrar os corpos de [url=glossary:inquebrável]Inquebrável[/url]. Eu deveria estar entre os mortos dos [url=glossary:sepultura de lâminas]Sepultura de Lâminas[/url]... Eu deveria ter lutado ao lado de meus irmãos contra os [url=glossary:desfavorecido]Desfavorecido[/url]. Nós, que fomos designados para outro lugar, somos poucos 'sortudos', carregamos a vergonha de ter estado ausente quando nossos companheiros mais precisavam de nós.
+A [url=glossary:coro escarlate]Coro Escarlate[/url] presença cresce constantemente. Cada lua vê um lote de novos recrutas vindos de outros lugares. No começo eu assumi que os [url=glossary:coro escarlate]Coro Escarlate[/url] estavam aqui para nos recrutar à força, mas agora acredito que a motivação deles é a descoberta.
+Eles começaram a fazer prisioneiros - uma mudança incomum de estratégia para o Refrão. No passado, eles sempre 'recrutavam' aqueles que pegavam vivos - executando prontamente aqueles que se recusavam a participar. Meus soldados serão usados como isca para alguma armadilha futura? Ou eles estão sendo mantidos para a diversão do [url=glossary:as vozes de nerat]As Vozes de Nerat[/url]?</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -394,17 +394,17 @@ Eles começaram a fazer prisioneiros - uma mudança incomum de estratégia para 
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>Desenhado sobre este pedaço de papiro está um retrato de Código do remetente que possui uma semelhança razoável com o homem em carne e osso. Uma espiral vermelha é pintada sobre o pescoço do Cade. Desprovido de palavras, este é um aviso de morte contra Código do remetente - sua simples iconografia sensível às massas analfabetas do [url=glossary:scarlet chorus]Coro Escarlate[/url]. Avisos como esses são divulgados em todas as fileiras do [url=glossary:scarlet chorus]Coro Escarlate[/url] e recompensas são pagas mediante a entrega de uma cabeça decepada que corresponda ao retrato do aviso de óbito.</DefaultText>
+      <DefaultText>Desenhado sobre este pedaço de papiro está um retrato de Código do remetente que possui uma semelhança razoável com o homem em carne e osso. Uma espiral vermelha é pintada sobre o pescoço do Cade. Desprovido de palavras, este é um aviso de morte contra Código do remetente - sua simples iconografia sensível às massas analfabetas do [url=glossary:coro escarlate]Coro Escarlate[/url]. Avisos como esses são divulgados em todas as fileiras do [url=glossary:coro escarlate]Coro Escarlate[/url] e recompensas são pagas mediante a entrega de uma cabeça decepada que corresponda ao retrato do aviso de óbito.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>[url=glossary:unbroken]Inquebrável[/url] Fragmento de Banner</DefaultText>
+      <DefaultText>[url=glossary:inquebrável]Inquebrável[/url] Fragmento de Banner</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>Esta amostra de tecido de linho branco e ferrugem já foi parte de um padrão de batalha maior pertencente ao [url=glossary:unbroken]Inquebrável[/url]. Fundada mais de um século antes da conquista de [url=glossary:kyros]Kyros[/url], a [url=glossary:unbroken]Inquebrável[/url] era uma unidade mercenária conhecida por sua disciplina e espírito de luta. Tendo colidido com as espadas de venda dos Quatro Irmãos por um século, os [url=glossary:unbroken]Inquebrável[/url] eram adeptos da luta contra oponentes agressivos e previsíveis - a proeza militar do [url=glossary:disfavored]Desfavorecido[/url] provou sua ruína . Derrotadas durante o Conquista, as bandeiras do [url=glossary:unbroken]Inquebrável[/url] não mais acenam.</DefaultText>
+      <DefaultText>Esta amostra de tecido de linho branco e ferrugem já foi parte de um padrão de batalha maior pertencente ao [url=glossary:inquebrável]Inquebrável[/url]. Fundada mais de um século antes da conquista de [url=glossary:kyros]Kyros[/url], a [url=glossary:inquebrável]Inquebrável[/url] era uma unidade mercenária conhecida por sua disciplina e espírito de luta. Tendo colidido com as espadas de venda dos Quatro Irmãos por um século, os [url=glossary:inquebrável]Inquebrável[/url] eram adeptos da luta contra oponentes agressivos e previsíveis - a proeza militar do [url=glossary:desfavorecido]Desfavorecido[/url] provou sua ruína . Derrotadas durante o Conquista, as bandeiras do [url=glossary:inquebrável]Inquebrável[/url] não mais acenam.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -429,7 +429,7 @@ Eles começaram a fazer prisioneiros - uma mudança incomum de estratégia para 
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>[url=glossary:sundered]Separado[/url] Espada de Bronze</DefaultText>
+      <DefaultText>[url=glossary:separado]Separado[/url] Espada de Bronze</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -444,7 +444,7 @@ Eles começaram a fazer prisioneiros - uma mudança incomum de estratégia para 
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>Quebrado [url=glossary:disfavored]Desfavorecido[/url] Buckler</DefaultText>
+      <DefaultText>Quebrado [url=glossary:desfavorecido]Desfavorecido[/url] Buckler</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -459,7 +459,7 @@ Eles começaram a fazer prisioneiros - uma mudança incomum de estratégia para 
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>Uma máscara de caveira de ferro, ainda quase intacta após a separação de um capacete [url=glossary:disfavored]Desfavorecido[/url]. Esta máscara quebrada pode ser vendida a um comerciante como peças de reposição.</DefaultText>
+      <DefaultText>Uma máscara de caveira de ferro, ainda quase intacta após a separação de um capacete [url=glossary:desfavorecido]Desfavorecido[/url]. Esta máscara quebrada pode ser vendida a um comerciante como peças de reposição.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -479,7 +479,7 @@ Eles começaram a fazer prisioneiros - uma mudança incomum de estratégia para 
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>Os restos esfarrapados de uma capa Caminhantes de Ferro. Lágrimas irregulares no pano obscurecem o sigilo do [url=glossary:disfavored]Desfavorecido[/url]. Esta capa rasgada pode ser vendida a um comerciante como peças de reposição.</DefaultText>
+      <DefaultText>Os restos esfarrapados de uma capa Caminhantes de Ferro. Lágrimas irregulares no pano obscurecem o sigilo do [url=glossary:desfavorecido]Desfavorecido[/url]. Esta capa rasgada pode ser vendida a um comerciante como peças de reposição.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -509,7 +509,7 @@ Eles começaram a fazer prisioneiros - uma mudança incomum de estratégia para 
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>Os restos quebrados do sólido escudo de ferro levado para a batalha pelo [url=glossary:disfavored]Desfavorecido[/url] Escudos de Pedra. Apenas um golpe poderoso poderia ter destruído o escudo tão totalmente. Este escudo quebrado pode ser vendido a um comerciante como peças de reposição.</DefaultText>
+      <DefaultText>Os restos quebrados do sólido escudo de ferro levado para a batalha pelo [url=glossary:desfavorecido]Desfavorecido[/url] Escudos de Pedra. Apenas um golpe poderoso poderia ter destruído o escudo tão totalmente. Este escudo quebrado pode ser vendido a um comerciante como peças de reposição.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -519,7 +519,7 @@ Eles começaram a fazer prisioneiros - uma mudança incomum de estratégia para 
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>Fragmentos da armadura de ombro usada por [url=glossary:disfavored]Desfavorecido[/url] Escudos de pedra e corredores crescentes. O sigilo do [url=glossary:disfavored]Desfavorecido[/url], uma vez usado com orgulho, foi deliberadamente rasgado em pedaços. Este spaulder pode ser vendido a um comerciante como peças de reposição.</DefaultText>
+      <DefaultText>Fragmentos da armadura de ombro usada por [url=glossary:desfavorecido]Desfavorecido[/url] Escudos de pedra e corredores crescentes. O sigilo do [url=glossary:desfavorecido]Desfavorecido[/url], uma vez usado com orgulho, foi deliberadamente rasgado em pedaços. Este spaulder pode ser vendido a um comerciante como peças de reposição.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -574,7 +574,7 @@ Eles começaram a fazer prisioneiros - uma mudança incomum de estratégia para 
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>Este pedaço irregular de sucata emitido para [url=glossary:scarlet chorus]Coro Escarlate[/url] recrutas sobreviveu à sua utilidade vários proprietários atrás. Ainda, algumas centenas deles em mãos desesperadas podem fazer uma diferença surpreendente no campo de batalha. Esta espada enferrujada pode ser vendida a um comerciante como peças de reposição.</DefaultText>
+      <DefaultText>Este pedaço irregular de sucata emitido para [url=glossary:coro escarlate]Coro Escarlate[/url] recrutas sobreviveu à sua utilidade vários proprietários atrás. Ainda, algumas centenas deles em mãos desesperadas podem fazer uma diferença surpreendente no campo de batalha. Esta espada enferrujada pode ser vendida a um comerciante como peças de reposição.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -594,22 +594,22 @@ Eles começaram a fazer prisioneiros - uma mudança incomum de estratégia para 
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>[url=glossary:disfavored]Desfavorecido[/url] guerreiros raramente são enviados para a batalha sem as melhores armas e armaduras [url=glossary:graven ashe]Cinza Esculpida[/url] que os intendentes podem adquirir, bem como as ferramentas para manter esse equipamento em uma campanha difícil. Esta bolsa de rolo de couro já carregava agulhas de ferro, linha, cera e uma pequena caixa de isqueiro para o reparo e manutenção de armaduras e uniformes [url=glossary:disfavored]Desfavorecido[/url]. Este kit em particular contém apenas alguns pedaços de barbante e agulhas dobradas - os melhores suprimentos foram usados pelo proprietário ou saqueados por necrófagos. Você pode vender isso para um comerciante como peças de reposição.</DefaultText>
+      <DefaultText>[url=glossary:desfavorecido]Desfavorecido[/url] guerreiros raramente são enviados para a batalha sem as melhores armas e armaduras [url=glossary:cinza esculpida]Cinza Esculpida[/url] que os intendentes podem adquirir, bem como as ferramentas para manter esse equipamento em uma campanha difícil. Esta bolsa de rolo de couro já carregava agulhas de ferro, linha, cera e uma pequena caixa de isqueiro para o reparo e manutenção de armaduras e uniformes [url=glossary:desfavorecido]Desfavorecido[/url]. Este kit em particular contém apenas alguns pedaços de barbante e agulhas dobradas - os melhores suprimentos foram usados pelo proprietário ou saqueados por necrófagos. Você pode vender isso para um comerciante como peças de reposição.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>[url=glossary:disfavored]Desfavorecido[/url] Braçadeira</DefaultText>
+      <DefaultText>[url=glossary:desfavorecido]Desfavorecido[/url] Braçadeira</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>As tiras de linho desta braçadeira de metal simples se desintegraram. Gravados na proteção do antebraço estão pequenos ícones que retratam a heráldica de Ardente, o [url=glossary:bastard city]Cidade bastarda[/url] e outros assentamentos em todo o Camadas. Soldados no [url=glossary:disfavored]Desfavorecido[/url] muitas vezes riscavam pequenos símbolos em suas armaduras como uma espécie de diário de batalha. A última inscrição deste soldado na braçadeira foi a heráldica de Robusto. Você pode vender isso para um comerciante como peças de reposição.</DefaultText>
+      <DefaultText>As tiras de linho desta braçadeira de metal simples se desintegraram. Gravados na proteção do antebraço estão pequenos ícones que retratam a heráldica de Ardente, o [url=glossary:cidade bastarda]Cidade Bastarda[/url] e outros assentamentos em todo o Camadas. Soldados no [url=glossary:desfavorecido]Desfavorecido[/url] muitas vezes riscavam pequenos símbolos em suas armaduras como uma espécie de diário de batalha. A última inscrição deste soldado na braçadeira foi a heráldica de Robusto. Você pode vender isso para um comerciante como peças de reposição.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>[url=glossary:unbroken]Inquebrável[/url] fragmento de banner</DefaultText>
+      <DefaultText>[url=glossary:inquebrável]Inquebrável[/url] fragmento de banner</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -634,12 +634,12 @@ Eles começaram a fazer prisioneiros - uma mudança incomum de estratégia para 
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>Corredor Crescente [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>Corredor Crescente [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>Couro Catador [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>Couro Catador [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -724,7 +724,7 @@ Eles começaram a fazer prisioneiros - uma mudança incomum de estratégia para 
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>Cortada e adaptada para fornecer uma amplitude de movimento desobstruída, esta cota de malha de couro justa é o vestido de batalha padrão dos assassinos mais temíveis do [url=glossary:scarlet chorus]Coro Escarlate[/url]. Embora provavelmente feito de peles de animais, persistem rumores de que o Fúrias Escarlates cura a pele humana para produzir seu traje de batalha. Este boato é amplamente falso - o Fúrias Escarlates meramente tinge sua armadura com sangue humano; pois eles descobriram há muito tempo que os humanos fazem couro frágil.</DefaultText>
+      <DefaultText>Cortada e adaptada para fornecer uma amplitude de movimento desobstruída, esta cota de malha de couro justa é o vestido de batalha padrão dos assassinos mais temíveis do [url=glossary:coro escarlate]Coro Escarlate[/url]. Embora provavelmente feito de peles de animais, persistem rumores de que o Fúrias Escarlates cura a pele humana para produzir seu traje de batalha. Este boato é amplamente falso - o Fúrias Escarlates meramente tinge sua armadura com sangue humano; pois eles descobriram há muito tempo que os humanos fazem couro frágil.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -784,7 +784,7 @@ Eles começaram a fazer prisioneiros - uma mudança incomum de estratégia para 
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>Talvez a arma mais abundante no mundo conhecido, a [url=glossary:disfavored]Desfavorecido[/url] Lança é a principal arma dos [url=glossary:disfavored]Desfavorecido[/url] soldados. Mesmo soldados que usam outras armas, como os mestres da espada Caminhante de Ferro, treinam diariamente com a lança na prática ritualizada. Construída com um cabo pesado para receber uma carga, a lança [url=glossary:disfavored]Desfavorecido[/url] não se destina a ser arremessada - dardos mais leves são usados para esse propósito.</DefaultText>
+      <DefaultText>Talvez a arma mais abundante no mundo conhecido, a [url=glossary:desfavorecido]Desfavorecido[/url] Lança é a principal arma dos [url=glossary:desfavorecido]Desfavorecido[/url] soldados. Mesmo soldados que usam outras armas, como os mestres da espada Caminhante de Ferro, treinam diariamente com a lança na prática ritualizada. Construída com um cabo pesado para receber uma carga, a lança [url=glossary:desfavorecido]Desfavorecido[/url] não se destina a ser arremessada - dardos mais leves são usados para esse propósito.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -807,7 +807,7 @@ Consequentemente, o significado cultural desta lâmina não pode ser subestimado
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>Talvez a arma mais abundante no mundo conhecido, a [url=glossary:disfavored]Desfavorecido[/url] Lança é a principal arma da [url=glossary:disfavored]Desfavorecido[/url] legião. Mesmo soldados que usam outras armas, como os mestres da espada Caminhante de Ferro, treinam frequentemente com a lança como parte da [url=glossary:disfavored]Desfavorecido[/url] vida diária e socialização.</DefaultText>
+      <DefaultText>Talvez a arma mais abundante no mundo conhecido, a [url=glossary:desfavorecido]Desfavorecido[/url] Lança é a principal arma da [url=glossary:desfavorecido]Desfavorecido[/url] legião. Mesmo soldados que usam outras armas, como os mestres da espada Caminhante de Ferro, treinam frequentemente com a lança como parte da [url=glossary:desfavorecido]Desfavorecido[/url] vida diária e socialização.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -897,7 +897,7 @@ Consequentemente, o significado cultural desta lâmina não pode ser subestimado
     </Entry>
     <Entry>
       <ID>239</ID>
-      <DefaultText>[url=glossary:unbroken]Inquebrável[/url] Escudo</DefaultText>
+      <DefaultText>[url=glossary:inquebrável]Inquebrável[/url] Escudo</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -995,7 +995,7 @@ Ainda assim, tem um bom peso e é agradável na sua mão.</DefaultText>
     </Entry>
     <Entry>
       <ID>258</ID>
-      <DefaultText>Capuz do [url=glossary:sage]Sábio[/url]</DefaultText>
+      <DefaultText>Capuz do [url=glossary:sábio]Sábio[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1119,7 +1119,7 @@ O bronze está bem preservado, e os envoltórios de couro ao redor do punho fora
     <Entry>
       <ID>281</ID>
       <DefaultText>gancho desta arma teve o uso mais evidente, provavelmente por repetidas instâncias de puxar Gut-Seeker das entranhas de uma vítima e pegar na caixa torácica inferior.
-Apesar de sua aparência desgastada, a lâmina foi afiada e mantida com um fio mais afiado do que a maioria das armas [url=glossary:scarlet chorus]Coro Escarlate[/url] podem ter.</DefaultText>
+Apesar de sua aparência desgastada, a lâmina foi afiada e mantida com um fio mais afiado do que a maioria das armas [url=glossary:coro escarlate]Coro Escarlate[/url] podem ter.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1144,7 +1144,7 @@ Apesar de sua aparência desgastada, a lâmina foi afiada e mantida com um fio m
     </Entry>
     <Entry>
       <ID>286</ID>
-      <DefaultText>Lança Carmesim [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>Lança Carmesim [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1264,7 +1264,7 @@ Apesar de sua aparência desgastada, a lâmina foi afiada e mantida com um fio m
     </Entry>
     <Entry>
       <ID>310</ID>
-      <DefaultText>Ferro Fundido [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>Ferro Fundido [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1284,12 +1284,12 @@ Apesar de sua aparência desgastada, a lâmina foi afiada e mantida com um fio m
     </Entry>
     <Entry>
       <ID>314</ID>
-      <DefaultText>Juramento [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>Juramento [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>315</ID>
-      <DefaultText>Vinculador do Destino Cerimonial de [url=glossary:tunon]Tunon[/url] [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>Vinculador do Destino Cerimonial de [url=glossary:tunon]Tunon[/url] [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1329,7 +1329,7 @@ Apesar de sua aparência desgastada, a lâmina foi afiada e mantida com um fio m
     </Entry>
     <Entry>
       <ID>323</ID>
-      <DefaultText>Estes são os suprimentos de comida dados a você por Rhona nos campos [url=glossary:disfavored]Desfavorecido[/url] para dar aos colonos de Echocall como um sinal de boa vontade.</DefaultText>
+      <DefaultText>Estes são os suprimentos de comida dados a você por Rhona nos campos [url=glossary:desfavorecido]Desfavorecido[/url] para dar aos colonos de Echocall como um sinal de boa vontade.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1344,7 +1344,7 @@ Apesar de sua aparência desgastada, a lâmina foi afiada e mantida com um fio m
     </Entry>
     <Entry>
       <ID>326</ID>
-      <DefaultText>Esta missiva contém instruções simples destinadas aos corredores [url=glossary:vendrien guard]Guarda Vendrien[/url].
+      <DefaultText>Esta missiva contém instruções simples destinadas aos corredores [url=glossary:guarda vendrien]Guarda Vendrien[/url].
 Ele dá atribuições e locais para estabelecer e fazer contato com os líderes de outros reinos, com a esperança de recrutar ajuda e reforços para sua causa.</DefaultText>
       <FemaleText />
     </Entry>
@@ -1360,7 +1360,7 @@ Ele dá atribuições e locais para estabelecer e fazer contato com os líderes 
     </Entry>
     <Entry>
       <ID>329</ID>
-      <DefaultText>Esta nota tem uma série de imagens que parecem ser instruções para o [url=glossary:vendrien guard]Guarda Vendrien[/url] na área.
+      <DefaultText>Esta nota tem uma série de imagens que parecem ser instruções para o [url=glossary:guarda vendrien]Guarda Vendrien[/url] na área.
 Atualmente está muito úmido para entender, mas pode se tornar decifrável depois de seco.</DefaultText>
       <FemaleText />
     </Entry>
@@ -1402,12 +1402,12 @@ Você reconhece seu sigilo da casa mercante Mão-Over-Quill.</DefaultText>
     </Entry>
     <Entry>
       <ID>344</ID>
-      <DefaultText>[url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url]</DefaultText>
+      <DefaultText>[url=glossary:edital]Edital[/url] de [url=glossary:kyros]Kyros[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>345</ID>
-      <DefaultText>O pergaminho contém as palavras de [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] você foi ordenado a entregar: "If [url=glossary:ascension hall]Salão da Ascensão[/url] não foi levado por minhas forças antes do amanhecer no [url=lore:kyros_day_swords]Dia de Espadas[/url], tudo no vale quando este [url=glossary:edict]Edital[/url] for passado perecerá."</DefaultText>
+      <DefaultText>O pergaminho contém as palavras de [url=glossary:edital]Edital[/url] de [url=glossary:kyros]Kyros[/url] você foi ordenado a entregar: "If [url=glossary:salão da ascensão]Salão da Ascensão[/url] não foi levado por minhas forças antes do amanhecer no [url=lore:kyros_day_swords]Dia de Espadas[/url], tudo no vale quando este [url=glossary:edital]Edital[/url] for passado perecerá."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1427,7 +1427,7 @@ Você reconhece seu sigilo da casa mercante Mão-Over-Quill.</DefaultText>
     </Entry>
     <Entry>
       <ID>349</ID>
-      <DefaultText>[url=glossary:scouting]Escotismo[/url] Relatório</DefaultText>
+      <DefaultText>[url=glossary:escotismo]Escotismo[/url] Relatório</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1437,27 +1437,27 @@ Você reconhece seu sigilo da casa mercante Mão-Over-Quill.</DefaultText>
     </Entry>
     <Entry>
       <ID>351</ID>
-      <DefaultText>[url=glossary:iron guard]Guarda de Ferro[/url] Leme</DefaultText>
+      <DefaultText>[url=glossary:guarda de ferro]Guarda de Ferro[/url] Leme</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>352</ID>
-      <DefaultText>[url=glossary:iron guard]Guarda de Ferro[/url] Manoplas</DefaultText>
+      <DefaultText>[url=glossary:guarda de ferro]Guarda de Ferro[/url] Manoplas</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>353</ID>
-      <DefaultText>[url=glossary:iron guard]Guarda de Ferro[/url] Chuteiras</DefaultText>
+      <DefaultText>[url=glossary:guarda de ferro]Guarda de Ferro[/url] Chuteiras</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>354</ID>
-      <DefaultText>[url=glossary:iron guard]Guarda de Ferro[/url] [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>[url=glossary:guarda de ferro]Guarda de Ferro[/url] [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>355</ID>
-      <DefaultText>Esta caixa de [url=glossary:forge-bound]Vinculado à Forja[/url] armas deveria ser entregue a [url=glossary:lethian's crossing]A Travessia de Lethian[/url].</DefaultText>
+      <DefaultText>Esta caixa de [url=glossary:forge-bound]Vinculado à Forja[/url] armas deveria ser entregue a [url=glossary:travessia de lethian]Travessia de Lethian[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1494,22 +1494,22 @@ Você reconhece seu sigilo da casa mercante Mão-Over-Quill.</DefaultText>
     </Entry>
     <Entry>
       <ID>362</ID>
-      <DefaultText>[url=glossary:vendrien guard]Guarda Vendrien[/url] Capacete de Bronze Leve</DefaultText>
+      <DefaultText>[url=glossary:guarda vendrien]Guarda Vendrien[/url] Capacete de Bronze Leve</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>363</ID>
-      <DefaultText>[url=glossary:vendrien guard]Guarda Vendrien[/url] Manoplas de Bronze Leve</DefaultText>
+      <DefaultText>[url=glossary:guarda vendrien]Guarda Vendrien[/url] Manoplas de Bronze Leve</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>364</ID>
-      <DefaultText>[url=glossary:vendrien guard]Guarda Vendrien[/url] Grevas de Bronze Leve</DefaultText>
+      <DefaultText>[url=glossary:guarda vendrien]Guarda Vendrien[/url] Grevas de Bronze Leve</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>365</ID>
-      <DefaultText>[url=glossary:vendrien guard]Guarda Vendrien[/url] Bronze pesado [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>[url=glossary:guarda vendrien]Guarda Vendrien[/url] Bronze pesado [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1579,27 +1579,27 @@ Você reconhece seu sigilo da casa mercante Mão-Over-Quill.</DefaultText>
     </Entry>
     <Entry>
       <ID>379</ID>
-      <DefaultText>Este token tem o sigilo [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] gravado nele.</DefaultText>
+      <DefaultText>Este token tem o sigilo [url=glossary:irmandade de bronze]Irmandade de Bronze[/url] gravado nele.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>380</ID>
-      <DefaultText>[url=glossary:disfavored]Desfavorecido[/url] Bandeira</DefaultText>
+      <DefaultText>[url=glossary:desfavorecido]Desfavorecido[/url] Bandeira</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>381</ID>
-      <DefaultText>O padrão do [url=glossary:disfavored]Desfavorecido[/url] é uma aproximação desfigurada de um símbolo muito mais antigo.</DefaultText>
+      <DefaultText>O padrão do [url=glossary:desfavorecido]Desfavorecido[/url] é uma aproximação desfigurada de um símbolo muito mais antigo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>382</ID>
-      <DefaultText>[url=glossary:scarlet chorus]Coro Escarlate[/url] Bandeira</DefaultText>
+      <DefaultText>[url=glossary:coro escarlate]Coro Escarlate[/url] Bandeira</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>383</ID>
-      <DefaultText>Esta espiral encharcada de sangue é o padrão informal do [url=glossary:scarlet chorus]Coro Escarlate[/url].</DefaultText>
+      <DefaultText>Esta espiral encharcada de sangue é o padrão informal do [url=glossary:coro escarlate]Coro Escarlate[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1645,12 +1645,12 @@ As palavras brilham com uma luz azul e parecem se mover lentamente pelo pergamin
     </Entry>
     <Entry>
       <ID>392</ID>
-      <DefaultText>CORTE - [url=glossary:lethian's crossing]A Travessia de Lethian[/url] Artefato</DefaultText>
+      <DefaultText>CORTE - [url=glossary:travessia de lethian]Travessia de Lethian[/url] Artefato</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>393</ID>
-      <DefaultText>CUT - Este é um substituto para o [url=glossary:lethian's crossing]A Travessia de Lethian[/url] Artefato até que um seja criado.</DefaultText>
+      <DefaultText>CUT - Este é um substituto para o [url=glossary:travessia de lethian]Travessia de Lethian[/url] Artefato até que um seja criado.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1660,7 +1660,7 @@ As palavras brilham com uma luz azul e parecem se mover lentamente pelo pergamin
     </Entry>
     <Entry>
       <ID>395</ID>
-      <DefaultText>Um mapa antigo e rasgado do [url=glossary:stone sea]Mar de Pedra[/url]. Você pode ver claramente um local circulado rotulado "Rocha Uivante."
+      <DefaultText>Um mapa antigo e rasgado do [url=glossary:mar de pedra]Mar de Pedra[/url]. Você pode ver claramente um local circulado rotulado "Rocha Uivante."
 Parece provável que Oitava pretendia levar sua gangue Refrão para este local.</DefaultText>
       <FemaleText />
     </Entry>
@@ -1706,17 +1706,17 @@ Parece provável que Oitava pretendia levar sua gangue Refrão para este local.<
     </Entry>
     <Entry>
       <ID>404</ID>
-      <DefaultText>[TEMP] O mapa parece ser do [url=glossary:stone sea]Mar de Pedra[/url]. As palavras "Stown Down" são escritas com uma seta apontando para uma área.</DefaultText>
+      <DefaultText>[TEMP] O mapa parece ser do [url=glossary:mar de pedra]Mar de Pedra[/url]. As palavras "Stown Down" são escritas com uma seta apontando para uma área.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>405</ID>
-      <DefaultText>[url=glossary:forge-bound]Vinculado à Forja[/url] Aprendiz [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>[url=glossary:forge-bound]Vinculado à Forja[/url] Aprendiz [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>406</ID>
-      <DefaultText>[url=glossary:forge-bound]Vinculado à Forja[/url] Mestre [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>[url=glossary:forge-bound]Vinculado à Forja[/url] Mestre [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1817,7 +1817,7 @@ Mover este fragmento entre os dedos faz você se sentir ágil, pronto para pular
     </Entry>
     <Entry>
       <ID>425</ID>
-      <DefaultText>Este fragmento de cristal foi coletado do [url=glossary:stone sea]Mar de Pedra[/url]. É capaz de armazenar uma grande quantidade de energia mágica.</DefaultText>
+      <DefaultText>Este fragmento de cristal foi coletado do [url=glossary:mar de pedra]Mar de Pedra[/url]. É capaz de armazenar uma grande quantidade de energia mágica.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1838,7 +1838,7 @@ As runas brilham com luz arcana e se deslocam pelo pergaminho de cima para baixo
     </Entry>
     <Entry>
       <ID>429</ID>
-      <DefaultText>Esta nota escrita às pressas parece estar rabiscada com sangue e é cortada abruptamente. Você mal consegue entender as palavras: "Não confie em Jacomus! Ele me prometeu uma comissão com o [url=glossary:disfavored]Desfavorecido[/url] se eu encontrasse seu broche idiota ou o que quer que seja. Mentiras, tudo mentira! Atraiu-me para a minha morte, foi o que ele fez. Desde que cheguei, essas coisas me caçam. Eu posso ouvi-los no escuro-"</DefaultText>
+      <DefaultText>Esta nota escrita às pressas parece estar rabiscada com sangue e é cortada abruptamente. Você mal consegue entender as palavras: "Não confie em Jacomus! Ele me prometeu uma comissão com o [url=glossary:desfavorecido]Desfavorecido[/url] se eu encontrasse seu broche idiota ou o que quer que seja. Mentiras, tudo mentira! Atraiu-me para a minha morte, foi o que ele fez. Desde que cheguei, essas coisas me caçam. Eu posso ouvi-los no escuro-"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1858,46 +1858,46 @@ As runas brilham com luz arcana e se deslocam pelo pergaminho de cima para baixo
     </Entry>
     <Entry>
       <ID>433</ID>
-      <DefaultText>Uma escultura de ouro linda e totalmente intacta, deve ter pertencido ao Azure, o antigo reino do [url=glossary:stone sea]Mar de Pedra[/url].</DefaultText>
+      <DefaultText>Uma escultura de ouro linda e totalmente intacta, deve ter pertencido ao Azure, o antigo reino do [url=glossary:mar de pedra]Mar de Pedra[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>434</ID>
-      <DefaultText>Observação do Primeiro [url=glossary:sage]Sábio[/url]</DefaultText>
+      <DefaultText>Observação do Primeiro [url=glossary:sábio]Sábio[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>435</ID>
       <DefaultText>Esta nota é rabiscada em pânico:
 
-"[url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] destruirá esta biblioteca em questão de minutos. Para qualquer [url=glossary:sage]Sábio[/url] e Aprendiz que encontrar esta nota, junte-se a mim nas câmaras inferiores. Se agirmos rapidamente, podemos usar o Arquivo Silencioso para deter a destruição! O Arquivo não deve ser consumido, ou teremos trabalhado em vão."
+"[url=glossary:edital]Edital[/url] de [url=glossary:kyros]Kyros[/url] destruirá esta biblioteca em questão de minutos. Para qualquer [url=glossary:sábio]Sábio[/url] e Aprendiz que encontrar esta nota, junte-se a mim nas câmaras inferiores. Se agirmos rapidamente, podemos usar o Arquivo Silencioso para deter a destruição! O Arquivo não deve ser consumido, ou teremos trabalhado em vão."
 
--Primeiro [url=glossary:sage]Sábio[/url] Arwel</DefaultText>
+-Primeiro [url=glossary:sábio]Sábio[/url] Arwel</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>436</ID>
-      <DefaultText>[url=glossary:iron guard]Guarda de Ferro[/url] Espada Grande</DefaultText>
+      <DefaultText>[url=glossary:guarda de ferro]Guarda de Ferro[/url] Espada Grande</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>437</ID>
-      <DefaultText>[url=glossary:bronze brotherhood]Irmandade de Bronze[/url] Leme</DefaultText>
+      <DefaultText>[url=glossary:irmandade de bronze]Irmandade de Bronze[/url] Leme</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>438</ID>
-      <DefaultText>[url=glossary:bronze brotherhood]Irmandade de Bronze[/url] Braçadeiras</DefaultText>
+      <DefaultText>[url=glossary:irmandade de bronze]Irmandade de Bronze[/url] Braçadeiras</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>439</ID>
-      <DefaultText>[url=glossary:bronze brotherhood]Irmandade de Bronze[/url] Torresmos</DefaultText>
+      <DefaultText>[url=glossary:irmandade de bronze]Irmandade de Bronze[/url] Torresmos</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>440</ID>
-      <DefaultText>[url=glossary:bronze brotherhood]Irmandade de Bronze[/url] [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>[url=glossary:irmandade de bronze]Irmandade de Bronze[/url] [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1907,7 +1907,7 @@ As runas brilham com luz arcana e se deslocam pelo pergaminho de cima para baixo
     </Entry>
     <Entry>
       <ID>442</ID>
-      <DefaultText>[url=glossary:bronze brotherhood]Irmandade de Bronze[/url] Warhammer</DefaultText>
+      <DefaultText>[url=glossary:irmandade de bronze]Irmandade de Bronze[/url] Warhammer</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1918,7 +1918,7 @@ As runas brilham com luz arcana e se deslocam pelo pergaminho de cima para baixo
     <Entry>
       <ID>444</ID>
       <DefaultText>Este mapa descreve aproximadamente um caminho através do Muralhas Antigas, observando as áreas-chave.
-Os restos de um selo de cera na parte inferior do pergaminho mostra o emblema espiral do [url=glossary:scarlet chorus]Coro Escarlate[/url].</DefaultText>
+Os restos de um selo de cera na parte inferior do pergaminho mostra o emblema espiral do [url=glossary:coro escarlate]Coro Escarlate[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1928,8 +1928,8 @@ Os restos de um selo de cera na parte inferior do pergaminho mostra o emblema es
     </Entry>
     <Entry>
       <ID>446</ID>
-      <DefaultText>Esta missiva é uma resposta destinada a [url=glossary:sage]Sábio[/url] Renata. Ele a exorta a tomar uma decisão importante sobre o futuro de sua guilda.
-Evidentemente os sábios eram frequentemente usados como mediadores entre os exércitos, muitas vezes porque [url=glossary:graven ashe]Cinza Esculpida[/url] simplesmente se recusava a trabalhar com [url=glossary:the voices of nerat]As Vozes de Nerat[/url] devido ao passado conturbado entre os dois .</DefaultText>
+      <DefaultText>Esta missiva é uma resposta destinada a [url=glossary:sábio]Sábio[/url] Renata. Ele a exorta a tomar uma decisão importante sobre o futuro de sua guilda.
+Evidentemente os sábios eram frequentemente usados como mediadores entre os exércitos, muitas vezes porque [url=glossary:cinza esculpida]Cinza Esculpida[/url] simplesmente se recusava a trabalhar com [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] devido ao passado conturbado entre os dois .</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1939,23 +1939,23 @@ Evidentemente os sábios eram frequentemente usados como mediadores entre os ex�
     </Entry>
     <Entry>
       <ID>448</ID>
-      <DefaultText>conteúdo desta missiva está obscurecido pelas bordas queimadas da página, mas você pode dizer que [url=glossary:graven ashe]Cinza Esculpida[/url] era o destinatário pretendido.
-O remetente faz um pedido de ajuda, pois não acredita que sua guarnição no [url=glossary:blade grave]Sepultura de Lâminas[/url] tenha tropas suficientes para manter sua localização.</DefaultText>
+      <DefaultText>conteúdo desta missiva está obscurecido pelas bordas queimadas da página, mas você pode dizer que [url=glossary:cinza esculpida]Cinza Esculpida[/url] era o destinatário pretendido.
+O remetente faz um pedido de ajuda, pois não acredita que sua guarnição no [url=glossary:sepultura de lâminas]Sepultura de Lâminas[/url] tenha tropas suficientes para manter sua localização.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>449</ID>
-      <DefaultText>[url=glossary:bronze brotherhood]Irmandade de Bronze[/url] Machado</DefaultText>
+      <DefaultText>[url=glossary:irmandade de bronze]Irmandade de Bronze[/url] Machado</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>450</ID>
-      <DefaultText>[url=glossary:bronze brotherhood]Irmandade de Bronze[/url] Machado</DefaultText>
+      <DefaultText>[url=glossary:irmandade de bronze]Irmandade de Bronze[/url] Machado</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>451</ID>
-      <DefaultText>[url=glossary:bronze brotherhood]Irmandade de Bronze[/url] Maça</DefaultText>
+      <DefaultText>[url=glossary:irmandade de bronze]Irmandade de Bronze[/url] Maça</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1965,7 +1965,7 @@ O remetente faz um pedido de ajuda, pois não acredita que sua guarnição no [u
     </Entry>
     <Entry>
       <ID>453</ID>
-      <DefaultText>A orelha de um criminoso procurado chamado Gino, que está foragido em [url=glossary:lethian's crossing]A Travessia de Lethian[/url].</DefaultText>
+      <DefaultText>A orelha de um criminoso procurado chamado Gino, que está foragido em [url=glossary:travessia de lethian]Travessia de Lethian[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1995,7 +1995,7 @@ O remetente faz um pedido de ajuda, pois não acredita que sua guarnição no [u
     </Entry>
     <Entry>
       <ID>459</ID>
-      <DefaultText>CUT - Esses são ordens de serviço para Armas de Ferro feitas para a empresa mercante Mão-Over-Quill com instruções para entregá-las ao [url=glossary:vendrien's well]Poço de Vendrien[/url] Cidadela. Assinado por ninguém menos que Quinto-Eye.</DefaultText>
+      <DefaultText>CUT - Esses são ordens de serviço para Armas de Ferro feitas para a empresa mercante Mão-Over-Quill com instruções para entregá-las ao [url=glossary:poço de vendrien]Poço de Vendrien[/url] Cidadela. Assinado por ninguém menos que Quinto-Eye.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2040,7 +2040,7 @@ O remetente faz um pedido de ajuda, pois não acredita que sua guarnição no [u
     </Entry>
     <Entry>
       <ID>468</ID>
-      <DefaultText>[url=glossary:disfavored]Desfavorecido[/url] Lança de Ferro</DefaultText>
+      <DefaultText>[url=glossary:desfavorecido]Desfavorecido[/url] Lança de Ferro</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2060,7 +2060,7 @@ O remetente faz um pedido de ajuda, pois não acredita que sua guarnição no [u
     </Entry>
     <Entry>
       <ID>472</ID>
-      <DefaultText>[url=glossary:petrified]Petrificado[/url] Grand-Staff</DefaultText>
+      <DefaultText>[url=glossary:petrificado]Petrificado[/url] Grand-Staff</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2140,7 +2140,7 @@ O remetente faz um pedido de ajuda, pois não acredita que sua guarnição no [u
     </Entry>
     <Entry>
       <ID>488</ID>
-      <DefaultText>Este é um substituto para o [url=glossary:burning]Queimando[/url] Artefato da Biblioteca até que um seja criado.</DefaultText>
+      <DefaultText>Este é um substituto para o [url=glossary:queimando]Queimando[/url] Artefato da Biblioteca até que um seja criado.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2214,13 +2214,13 @@ Embora seu corpo nunca tenha sido recuperado, a presença da lança implica um d
     </Entry>
     <Entry>
       <ID>510</ID>
-      <DefaultText>[url=glossary:forge-bound]Vinculado à Forja[/url] montou o Deathbringer usando materiais extraídos do [url=glossary:burning library]Biblioteca em chamas[/url].
+      <DefaultText>[url=glossary:forge-bound]Vinculado à Forja[/url] montou o Deathbringer usando materiais extraídos do [url=glossary:biblioteca em chamas]Biblioteca em chamas[/url].
 
 Este machado foi inspirado por uma arma poderosa que está quebrada no [url=glossary:forge-bound]Vinculado à Forja[/url] guildhall. A lâmina de ferro não tinha nome, e até o de seu criador se perdeu no tempo. Os fatos conhecidos equivalem a histórias de um incêndio que varreu as forjas. As chamas conjuradas do ferreiro se transformaram em um frenesi incontrolável e tornaram a área intransitável por vários dias. Depois que as chamas esfriaram, o machado foi encontrado nos destroços - uma única rachadura descendo pela lâmina, tornando o esforço e os resultados extraordinários em vão. Até hoje, o machado é usado como exemplo da impermanência da arte.
 
 Desejando uma lâmina igualmente cáustica com longevidade melhorada, o [url=glossary:forge-bound]Vinculado à Forja[/url] procurou recriar o Deathbringer.
 
-Especula-se que os fragmentos de obsidiana dragados da devastação do [url=glossary:burning library]Biblioteca em chamas[/url] retêm algum eco do poder do [url=glossary:edict]Edital[/url] de Incêndio, que pode ser o segredo para os poderes deste machado. Nem mesmo a magia [url=glossary:forge-bound]Vinculado à Forja[/url] entende [url=glossary:kyros]Kyros[/url] bem o suficiente para dizer com certeza.</DefaultText>
+Especula-se que os fragmentos de obsidiana dragados da devastação do [url=glossary:biblioteca em chamas]Biblioteca em chamas[/url] retêm algum eco do poder do [url=glossary:edital]Edital[/url] de Incêndio, que pode ser o segredo para os poderes deste machado. Nem mesmo a magia [url=glossary:forge-bound]Vinculado à Forja[/url] entende [url=glossary:kyros]Kyros[/url] bem o suficiente para dizer com certeza.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2230,7 +2230,7 @@ Especula-se que os fragmentos de obsidiana dragados da devastação do [url=glos
     </Entry>
     <Entry>
       <ID>519</ID>
-      <DefaultText>Antes de se tornar um Arconte, [url=glossary:graven ashe]Cinza Esculpida[/url] empunhava Pacificador a serviço de seu rei.
+      <DefaultText>Antes de se tornar um Arconte, [url=glossary:cinza esculpida]Cinza Esculpida[/url] empunhava Pacificador a serviço de seu rei.
 
 Cada um dos Grandes Senhores da Guerra do Norte foi presenteado com uma arma de poder extraordinário, e todos eles (exceto este) estão pendurados na galeria de troféus de [url=glossary:kyros]Kyros[/url]. Apesar de sua idade, o ferro é cuidadosamente preservado e tratado com aplicações regulares de óleo. A palavra ABSOLUÇÃO é esculpida no comprimento do cabo em runas anteriores ao domínio de [url=glossary:kyros]Kyros[/url]. Pode-se inferir que Cinza adicionou esse toque pessoal após sua queda em desfavor, embora nunca conseguisse o que buscava.
 
@@ -2311,7 +2311,7 @@ A longa linhagem de proprietários anteriores eram necessariamente homens e mulh
     </Entry>
     <Entry>
       <ID>551</ID>
-      <DefaultText>[url=glossary:forge-bound]Vinculado à Forja[/url] criou este capacete para proteger o assentamento de [url=glossary:lethian's crossing]A Travessia de Lethian[/url] do Maldito.
+      <DefaultText>[url=glossary:forge-bound]Vinculado à Forja[/url] criou este capacete para proteger o assentamento de [url=glossary:travessia de lethian]Travessia de Lethian[/url] do Maldito.
 
 O ferro é polido com um brilho fino, e os sigilos inscritos no metal escuro brilham com poder. As forças de [url=glossary:kyros]Kyros[/url] há muito tempo evitam totens cerimoniais em favor de itens mais práticos. Uma estátua ou símbolo mais abstrato pode convidar à análise ou interpretação, enquanto um capacete é direto e nada mais ou menos do que é.
 
@@ -2339,7 +2339,7 @@ Desde a queda de Azure, o escudo passou por várias mãos e atualmente cheira a 
     </Entry>
     <Entry>
       <ID>555</ID>
-      <DefaultText>Este cajado brilhante tem a marca do Sábios, e foi empunhado pelo Hierarca do [url=glossary:vellum citadel]Cidadela de Velino[/url] antes que o [url=glossary:edict]Edital[/url] de Incêndio destruísse a antiga fortaleza da biblioteca.
+      <DefaultText>Este cajado brilhante tem a marca do Sábios, e foi empunhado pelo Hierarca do [url=glossary:cidadela de velino]Cidadela de Velino[/url] antes que o [url=glossary:edital]Edital[/url] de Incêndio destruísse a antiga fortaleza da biblioteca.
 
 O cajado passou de mão em mão um número desconhecido de mãos ao longo dos séculos, e a tradição ditava que cada proprietário o imbuísse com uma expressão de sua aptidão mágica. Runas circundam o comprimento do cajado, cada uma em um estilo diferente - algumas descrevendo os nomes dos mortos Arcontes e outras fragmentos de poesia inescrutável, todas destinadas a desbloquear algum potencial oculto. O aspecto atual do cajado é o de seu proprietário anterior, Hierarca Jespers, que era um ilusionista e trapaceiro consumado.
 
@@ -2382,7 +2382,7 @@ De acordo com a gravidade de [url=glossary:tunon]Tunon[/url], sua máscara é ex
     </Entry>
     <Entry>
       <ID>562</ID>
-      <DefaultText>Este cetro foi empunhado por [url=glossary:the voices of nerat]As Vozes de Nerat[/url], e por todas as contas nunca conheceu um segundo dono até agora.
+      <DefaultText>Este cetro foi empunhado por [url=glossary:as vozes de nerat]As Vozes de Nerat[/url], e por todas as contas nunca conheceu um segundo dono até agora.
 
 Quem criou uma arma tão monstruosa é uma questão de especulação, e não está fora de possibilidade que o próprio Vozes tenha sido o responsável em alguma época passada. Circulam rumores de que a boca gritando na cabeça contém os uivos agonizantes da família Arconte, que ele torturou até a morte nos primeiros anos do domínio de [url=glossary:kyros]Kyros[/url] como um ato de fidelidade.
 
@@ -2446,7 +2446,7 @@ Se é ou não tão impressionante quanto as armas antigas é para o antigo Ice-S
       <ID>572</ID>
       <DefaultText>Este cajado lembra as ferramentas arcanas usadas por Tremedores de Terra.
 
-O que o separa de seus pares é um fragmento do Arconte de Pedra fundido com o Azurelith reunido no [url=glossary:stone sea]Mar de Pedra[/url]. Como uma expressão da magia de [url=glossary:cairn]Cairn[/url] incorporando seu corpo como um componente, é seguro considerar o Pessoal de [url=glossary:cairn]Cairn[/url] como possuindo o potencial bruto de um Tremedor de Terra aprendiz em estado dormente.
+O que o separa de seus pares é um fragmento do Arconte de Pedra fundido com o Azurelith reunido no [url=glossary:mar de pedra]Mar de Pedra[/url]. Como uma expressão da magia de [url=glossary:cairn]Cairn[/url] incorporando seu corpo como um componente, é seguro considerar o Pessoal de [url=glossary:cairn]Cairn[/url] como possuindo o potencial bruto de um Tremedor de Terra aprendiz em estado dormente.
 
 No entanto [url=glossary:cairn]Cairn[/url] é lembrado por sua imprevisibilidade e revolta contra [url=glossary:kyros]Kyros[/url], os poderes desta equipe alcançaram um estado adormecido e controlado. A gema na cabeça ocasionalmente pisca com consciência violenta, mas fica imóvel com o tempo.</DefaultText>
       <FemaleText />
@@ -2478,7 +2478,7 @@ Aqueles que seguram Sangue do coração são consumidos por ondas de ansiedade, 
       <ID>576</ID>
       <DefaultText>Estas botas escuras e flexíveis são feitas da pele de um poderoso caçador Homem-Besta.
 
-Algum do que o Fera possuía em vida permanece na morte, que foi aumentada por runas pertencentes ao Arconte das Sombras. Além do nome de [url=glossary:bleden mark]Marca de Mistura[/url], sigilos menos reconhecíveis parecem brilhar com poder, embora não consigam interromper a escuridão.
+Algum do que o Fera possuía em vida permanece na morte, que foi aumentada por runas pertencentes ao Arconte das Sombras. Além do nome de [url=glossary:marca de mistura]Marca de Mistura[/url], sigilos menos reconhecíveis parecem brilhar com poder, embora não consigam interromper a escuridão.
 
 Uma runa familiar corresponde ao nome de uma Arconte das Sombras que era uma suposta Mulher-Besta - uma perseguidora e caçadora inigualável que evitou a civilização humana e viveu por séculos incontáveis. Dizia-se que ela se movia de um deserto para outro, abrindo caminho através da presa local até se tornar a incontestável Alfa, e então seguiria em frente - com a intenção de se tornar o domínio sobre toda a natureza.
 
@@ -2591,7 +2591,7 @@ Este martelo foi dragado de uma equipe de escavação, embora o Rainha que o emp
     </Entry>
     <Entry>
       <ID>592</ID>
-      <DefaultText>DEBUG Lâmina de Assegurar [url=glossary:quality]Qualidade[/url]</DefaultText>
+      <DefaultText>DEBUG Lâmina de Assegurar [url=glossary:qualidade]Qualidade[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2720,32 +2720,32 @@ Esta poção de cura foi preparada por um alquimista habilidoso, provavelmente r
     </Entry>
     <Entry>
       <ID>617</ID>
-      <DefaultText>Elixir de [url=glossary:finesse]Sutileza[/url]</DefaultText>
+      <DefaultText>Elixir de [url=glossary:sutileza]Sutileza[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>618</ID>
-      <DefaultText>Elixir de [url=glossary:might]Força[/url]</DefaultText>
+      <DefaultText>Elixir de [url=glossary:força]Força[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>619</ID>
-      <DefaultText>Elixir de [url=glossary:quickness]Rapidez[/url]</DefaultText>
+      <DefaultText>Elixir de [url=glossary:rapidez]Rapidez[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>620</ID>
-      <DefaultText>Elixir de [url=glossary:resolve]Determinação[/url]</DefaultText>
+      <DefaultText>Elixir de [url=glossary:determinação]Determinação[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>621</ID>
-      <DefaultText>Elixir de [url=glossary:vitality]Vitalidade[/url]</DefaultText>
+      <DefaultText>Elixir de [url=glossary:vitalidade]Vitalidade[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>622</ID>
-      <DefaultText>Elixir de [url=glossary:wits]Inteligência[/url]</DefaultText>
+      <DefaultText>Elixir de [url=glossary:inteligência]Inteligência[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2760,7 +2760,7 @@ Esta poção de cura foi preparada por um alquimista habilidoso, provavelmente r
     </Entry>
     <Entry>
       <ID>625</ID>
-      <DefaultText>Acordar [url=glossary:death]Morte[/url]</DefaultText>
+      <DefaultText>Acordar [url=glossary:morte]Morte[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2780,7 +2780,7 @@ Esta poção de cura foi preparada por um alquimista habilidoso, provavelmente r
     </Entry>
     <Entry>
       <ID>629</ID>
-      <DefaultText>Poção de [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>Poção de [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2795,7 +2795,7 @@ Esta poção de cura foi preparada por um alquimista habilidoso, provavelmente r
     </Entry>
     <Entry>
       <ID>632</ID>
-      <DefaultText>DEBUG Arco da Garantia [url=glossary:quality]Qualidade[/url]</DefaultText>
+      <DefaultText>DEBUG Arco da Garantia [url=glossary:qualidade]Qualidade[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3001,7 +3001,7 @@ Seus Sábios acredito que, com os sigilos corretos inscritos durante o forjament
     </Entry>
     <Entry>
       <ID>672</ID>
-      <DefaultText>Depois de vasculhar antigos pergaminhos, os registros da regra de [url=glossary:kyros]Kyros[/url] inicial, Os Sábios em sua biblioteca descobriram referências ao Soberano primeiro assassino. Este Arconte - o Arconte de Sangue - foi destruído quando [url=glossary:bleden mark]Marca de Mistura[/url] ascendeu para se tornar Arconte das Sombras.
+      <DefaultText>Depois de vasculhar antigos pergaminhos, os registros da regra de [url=glossary:kyros]Kyros[/url] inicial, Os Sábios em sua biblioteca descobriram referências ao Soberano primeiro assassino. Este Arconte - o Arconte de Sangue - foi destruído quando [url=glossary:marca de mistura]Marca de Mistura[/url] ascendeu para se tornar Arconte das Sombras.
 
 Os registros indicam que este Arconte empunhava uma adaga que poderia drenar a vida de seus inimigos . Esta arma antiga foi chamada de 'Sangue do coração'.
 
@@ -3046,12 +3046,12 @@ Seus Sábios acredito que um alfaiate habilidoso possa recriar essas vestes.</De
     </Entry>
     <Entry>
       <ID>679</ID>
-      <DefaultText>[url=glossary:edict]Edital[/url]: [url=glossary:edict]Edital[/url] de Maldição</DefaultText>
+      <DefaultText>[url=glossary:edital]Edital[/url]: [url=glossary:edital]Edital[/url] de Maldição</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>680</ID>
-      <DefaultText>Os Sábios em sua biblioteca vasculhou pergaminhos antigos, procurando por indícios de conhecimento arcano. Eles encontraram um ritual que pode dar uma visão de como [url=glossary:kyros]Kyros[/url] comanda o poderoso Editais. Esta informação irá desbloquear o texto preciso de um [url=glossary:edict]Edital[/url] anteriormente desconhecido.</DefaultText>
+      <DefaultText>Os Sábios em sua biblioteca vasculhou pergaminhos antigos, procurando por indícios de conhecimento arcano. Eles encontraram um ritual que pode dar uma visão de como [url=glossary:kyros]Kyros[/url] comanda o poderoso Editais. Esta informação irá desbloquear o texto preciso de um [url=glossary:edital]Edital[/url] anteriormente desconhecido.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3236,42 +3236,42 @@ O efeito deste consumível aumenta em força à medida que seu usuário ganha po
     </Entry>
     <Entry>
       <ID>734</ID>
-      <DefaultText>Elixires de [url=glossary:finesse]Sutileza[/url] são absorvidos para treinar a precisão e exatidão de um soldado. Como resultado, eles são extremamente raros e incrivelmente valiosos.
+      <DefaultText>Elixires de [url=glossary:sutileza]Sutileza[/url] são absorvidos para treinar a precisão e exatidão de um soldado. Como resultado, eles são extremamente raros e incrivelmente valiosos.
 
 O problema de manter as tropas acordadas durante uma campanha prolongada é tão antigo quanto a própria guerra, e os alquimistas têm feito experiências em cativos e voluntários corajosos para encontrar a melhor solução. Seus primeiros resultados foram promissores, mas com o tempo se mostraram prejudiciais à mira, à coordenação e até à sanidade de um soldado. A fórmula atual, misturada com uma erva saudável Robusto, conseguiu seu objetivo com o surpreendente resultado de aumentar a acuidade física e mental de uma pessoa.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>735</ID>
-      <DefaultText>Os soldados bebem o Elixir de [url=glossary:might]Força[/url] para aumentar o dano causado como resultado de seus ataques.
+      <DefaultText>Os soldados bebem o Elixir de [url=glossary:força]Força[/url] para aumentar o dano causado como resultado de seus ataques.
 
-Embora relutem em confiar na força de uma fonte externa, os [url=glossary:disfavored]Desfavorecido[/url] inventaram este elixir para seus Tremedor de Terra aliados para melhorar suas proezas marciais e efeitos de conjuração. Não tomado casualmente, é melhor servido antes de destruir fortificações ou perturbar a geologia local.</DefaultText>
+Embora relutem em confiar na força de uma fonte externa, os [url=glossary:desfavorecido]Desfavorecido[/url] inventaram este elixir para seus Tremedor de Terra aliados para melhorar suas proezas marciais e efeitos de conjuração. Não tomado casualmente, é melhor servido antes de destruir fortificações ou perturbar a geologia local.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>736</ID>
-      <DefaultText>O Elixir de [url=glossary:quickness]Rapidez[/url] melhora o combate natural do bebedor e a velocidade de lançamento de feitiços.
+      <DefaultText>O Elixir de [url=glossary:rapidez]Rapidez[/url] melhora o combate natural do bebedor e a velocidade de lançamento de feitiços.
 
 A fórmula deriva de [url=glossary:kyros]Kyros[/url] anos passados subjugando o continente norte. O Soberano forças entraram em confronto com uma tribo rebelde da montanha, cujas táticas elegantemente dependiam de correr morro abaixo para enfrentar o inimigo, mantendo o terreno alto a qualquer custo. As forças [url=glossary:kyros]Kyros[/url] se interessaram pela estratégia e encheram a aproximação do inimigo com trincheiras, fossos e estrepes. Quando a tribo finalmente se submeteu, eles revelaram que suas proezas vieram de uma poção feita por xamãs que acelerou o tempo de reação. Correr ladeira abaixo era apenas um velho truque para criar coragem. O exército ficou feliz em se apropriar da receita para seu próprio uso, e provou ser um recurso crítico em todas as campanhas subsequentes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>737</ID>
-      <DefaultText>Este inebriante Elixir de [url=glossary:resolve]Determinação[/url] aumenta a prontidão do bebedor para enfrentar desafios físicos ou mentais.
+      <DefaultText>Este inebriante Elixir de [url=glossary:determinação]Determinação[/url] aumenta a prontidão do bebedor para enfrentar desafios físicos ou mentais.
 
 [url=glossary:forge-bound]Vinculado à Forja[/url] artesãos dependem de profunda concentração e força de vontade para manter um vínculo com seu ofício, onde a menor interrupção pode ser fatal. Embora os mestres da arte sejam mais experientes, os aprendizes geralmente procuram recursos externos quando querem praticar em um ambiente seguro.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>738</ID>
-      <DefaultText>O Elixir de [url=glossary:vitality]Vitalidade[/url] aumenta a saúde e disposição natural de um soldado.
+      <DefaultText>O Elixir de [url=glossary:vitalidade]Vitalidade[/url] aumenta a saúde e disposição natural de um soldado.
 
 Originalmente inventada para aliviar as perturbações intestinais, a poção reforça a saúde física por toda parte. O aumento do fluxo sanguíneo e a sensação geral de bem-estar também se prestam a uma atitude melhorada do bebedor.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>739</ID>
-      <DefaultText>Soldados e estudiosos bebem o Elixir de [url=glossary:wits]Inteligência[/url] para aumentar sua acuidade mental e senso de observação.
+      <DefaultText>Soldados e estudiosos bebem o Elixir de [url=glossary:inteligência]Inteligência[/url] para aumentar sua acuidade mental e senso de observação.
 
 Os escoteiros podem garantir que não percam detalhes críticos em uma missão, e os acadêmicos podem capturar o subtexto até mesmo dos mais enigmáticos tomos de conhecimento. Alguns consumidores reclamaram de sentidos aguçados além de qualquer capacidade desejada, mas algumas dúzias de discrepâncias não devem lançar uma sombra sobre os resultados comprovados.</DefaultText>
       <FemaleText />
@@ -3292,9 +3292,9 @@ O musgo escarlate pode ser colocado em qualquer ferimento sangrando para estanca
     </Entry>
     <Entry>
       <ID>742</ID>
-      <DefaultText>Tirados antes de ficarem inconscientes, os esporos do cogumelo Acordar [url=glossary:death]Morte[/url] garantem reviver o bebedor com uma fração de sua saúde total.
+      <DefaultText>Tirados antes de ficarem inconscientes, os esporos do cogumelo Acordar [url=glossary:morte]Morte[/url] garantem reviver o bebedor com uma fração de sua saúde total.
 
-É comum o suficiente para um soldado se sentir superado por um inimigo . Quando há uma chance de cair no campo de batalha, Acordar [url=glossary:death]Morte[/url] oferece um segundo vento de energia - embora com capacidade reduzida. O bebedor é capaz de evitar a inconsciência por tempo suficiente para procurar ajuda ou pressionar um ataque desesperado, o que pode fazer toda a diferença.</DefaultText>
+É comum o suficiente para um soldado se sentir superado por um inimigo . Quando há uma chance de cair no campo de batalha, Acordar [url=glossary:morte]Morte[/url] oferece um segundo vento de energia - embora com capacidade reduzida. O bebedor é capaz de evitar a inconsciência por tempo suficiente para procurar ajuda ou pressionar um ataque desesperado, o que pode fazer toda a diferença.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3322,7 +3322,7 @@ O veneno é cultivado a partir de um parasita raro que desorienta o hospedeiro a
       <ID>746</ID>
       <DefaultText>Agentes entorpecentes reduzem a capacidade de um inimigo de causar dano ou aparar ataques.
 
-Quando todos os sentimentos deixam suas extremidades, um inimigo avaliando mal o peso de sua espada ou perdendo o equilíbrio apresenta uma vantagem decisiva em qualquer campo de batalha. Os [url=glossary:scarlet chorus]Coro Escarlate[/url] usam misturas semelhantes para oferecer alívio temporário a seus cativos, o que só serve para prolongar seu torturante interrogatório.</DefaultText>
+Quando todos os sentimentos deixam suas extremidades, um inimigo avaliando mal o peso de sua espada ou perdendo o equilíbrio apresenta uma vantagem decisiva em qualquer campo de batalha. Os [url=glossary:coro escarlate]Coro Escarlate[/url] usam misturas semelhantes para oferecer alívio temporário a seus cativos, o que só serve para prolongar seu torturante interrogatório.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3366,7 +3366,7 @@ O efeito deste consumível aumenta em força à medida que seu usuário ganha po
       <ID>752</ID>
       <DefaultText>Quando infligido a um inimigo, Veneno Escarlate causa danos duradouros.
 
-O [url=glossary:scarlet chorus]Coro Escarlate[/url] tem sido cultivado e desenvolvido ao longo de centenas de iterações. À medida que o exército se expande e conquista nações em nome de [url=glossary:kyros]Kyros[/url], as plantas tóxicas da região são colhidas para estudo futuro. Muito parecido com os métodos Refrão' de recrutar novas tropas, as plantas consideradas adequadamente letais são integradas em misturas futuras. Essa prática está em vigor há tanto tempo que poucos, se houver, conseguem lembrar a lista completa de ingredientes ou suas origens.</DefaultText>
+O [url=glossary:coro escarlate]Coro Escarlate[/url] tem sido cultivado e desenvolvido ao longo de centenas de iterações. À medida que o exército se expande e conquista nações em nome de [url=glossary:kyros]Kyros[/url], as plantas tóxicas da região são colhidas para estudo futuro. Muito parecido com os métodos Refrão' de recrutar novas tropas, as plantas consideradas adequadamente letais são integradas em misturas futuras. Essa prática está em vigor há tanto tempo que poucos, se houver, conseguem lembrar a lista completa de ingredientes ou suas origens.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3382,7 +3382,7 @@ O efeito deste consumível aumenta em força à medida que seu usuário ganha po
       <ID>754</ID>
       <DefaultText>Folha de [url=glossary:cairn]Cairn[/url] aumenta a resistência do bebedor e a capacidade de absorver danos.
 
-Esta planta frágil foi frequentemente encontrada crescendo perto do Arconte de Pedra. Agora que [url=glossary:cairn]Cairn[/url] está morto, morto por [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url], os alquimistas temem que esta preciosa planta desapareça de Terrato. Talvez até o próximo Arconte de Pedra nascer.
+Esta planta frágil foi frequentemente encontrada crescendo perto do Arconte de Pedra. Agora que [url=glossary:cairn]Cairn[/url] está morto, morto por [url=glossary:edital]Edital[/url] de [url=glossary:kyros]Kyros[/url], os alquimistas temem que esta preciosa planta desapareça de Terrato. Talvez até o próximo Arconte de Pedra nascer.
 
 O efeito deste consumível aumenta em força à medida que seu usuário ganha poder.</DefaultText>
       <FemaleText />
@@ -3391,16 +3391,16 @@ O efeito deste consumível aumenta em força à medida que seu usuário ganha po
       <ID>755</ID>
       <DefaultText>Uma pitada de Chaw do Vagrant aumenta a vitalidade e o atletismo, e aumenta a taxa de cura natural.
 
-Pensamento desprezado pelo [url=glossary:disfavored]Desfavorecido[/url], a maioria dos soldados em Império de [url=glossary:kyros]Kyros[/url] participa das propriedades alquímicas imbuídas em Chaw do Vagrant. O uso excessivo é conhecido por causar bolhas na boca.
+Pensamento desprezado pelo [url=glossary:desfavorecido]Desfavorecido[/url], a maioria dos soldados em Império de [url=glossary:kyros]Kyros[/url] participa das propriedades alquímicas imbuídas em Chaw do Vagrant. O uso excessivo é conhecido por causar bolhas na boca.
 
 O efeito deste consumível aumenta em força à medida que seu usuário ganha poder.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>756</ID>
-      <DefaultText>Cultivadas nas fazendas ondulantes de Azure, as pétalas de Sino do Azure levantam os [url=glossary:finesse]Sutileza[/url] e [/url] e [url=glossary:parry]Defesa[/url].[/url].
+      <DefaultText>Cultivadas nas fazendas ondulantes de Azure, as pétalas de Sino do Azure levantam os [url=glossary:sutileza]Sutileza[/url] e [/url] e [url=glossary:defesa]Defesa[/url].[/url].
 
-Alquimistas habilidosos sabem machucar suavemente as pétalas desta flor para liberar seus sucos vitais. Agora que [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] de Pedra quebrou Azure, não está claro se esta flor ainda vai crescer.
+Alquimistas habilidosos sabem machucar suavemente as pétalas desta flor para liberar seus sucos vitais. Agora que [url=glossary:edital]Edital[/url] de [url=glossary:kyros]Kyros[/url] de Pedra quebrou Azure, não está claro se esta flor ainda vai crescer.
 
 O efeito deste consumível aumenta em força à medida que seu usuário ganha poder.</DefaultText>
       <FemaleText />
@@ -3409,7 +3409,7 @@ O efeito deste consumível aumenta em força à medida que seu usuário ganha po
       <ID>757</ID>
       <DefaultText>O suco do marshberry selvagem acelera o movimento e o tempo de reação do bebedor.
 
-Encontrado crescendo selvagem nos pântanos de Robusto, esses frutos são uma droga potente. Os príncipes mercadores da [url=glossary:bastard city]Cidade Bastarda[/url] eram conhecidos por se deliciarem com marshberries para sustentar uma noite de folia bêbada. Uma vida inteira de uso pode resultar em dores nas articulações incapacitantes e um embotamento de raciocínio.
+Encontrado crescendo selvagem nos pântanos de Robusto, esses frutos são uma droga potente. Os príncipes mercadores da [url=glossary:cidade bastarda]Cidade Bastarda[/url] eram conhecidos por se deliciarem com marshberries para sustentar uma noite de folia bêbada. Uma vida inteira de uso pode resultar em dores nas articulações incapacitantes e um embotamento de raciocínio.
 
 O efeito deste consumível aumenta em força à medida que o usuário ganha poder.</DefaultText>
       <FemaleText />
@@ -3418,7 +3418,7 @@ O efeito deste consumível aumenta em força à medida que o usuário ganha pode
       <ID>758</ID>
       <DefaultText>O Skycap cogumelo melhora a inteligência e a acuidade mágica do bebedor, além de auxiliar na lembrança de pedaços obscuros de conhecimento.
 
-Crescido nas encostas mais íngremes das montanhas ao redor [url=glossary:vendrien's well]Poço de Vendrien[/url], os benefícios do os cogumelos skycap levaram a uma longa aliança entre as Rainhas da Casa Vendrien e os Sábios do [url=glossary:vellum citadel]Cidadela de Velino[/url]. Os Sábios estavam tão ansiosos pelos cogumelos que até trocavam pergaminhos de magia raros com os governantes de Ápice para garantir o acesso.
+Crescido nas encostas mais íngremes das montanhas ao redor [url=glossary:poço de vendrien]Poço de Vendrien[/url], os benefícios do os cogumelos skycap levaram a uma longa aliança entre as Rainhas da Casa Vendrien e os Sábios do [url=glossary:cidadela de velino]Cidadela de Velino[/url]. Os Sábios estavam tão ansiosos pelos cogumelos que até trocavam pergaminhos de magia raros com os governantes de Ápice para garantir o acesso.
 
 O efeito deste consumível aumenta em força à medida que seu usuário ganha poder.</DefaultText>
       <FemaleText />
@@ -3432,9 +3432,9 @@ Essas sementes são coletadas nas selvas a leste de [url=glossary:kyros]Kyros[/u
     </Entry>
     <Entry>
       <ID>760</ID>
-      <DefaultText>Mastigar um pedaço de sableroot aumenta o [url=glossary:resolve]Determinação[/url] do bebedor e retarda a inconsciência.
+      <DefaultText>Mastigar um pedaço de sableroot aumenta o [url=glossary:determinação]Determinação[/url] do bebedor e retarda a inconsciência.
 
-Pensado como uma erva daninha na maioria dos Império de [url=glossary:kyros]Kyros[/url], a planta resistente é virtualmente impossível erradicar sem salgar a terra em que cresce. Essa mesma teimosia é concedida a quem bebe os sucos de sableroot. As lendas falam de um prisioneiro, fornecido com raiz de zibelina por guardas amigáveis, que resistiu às piores torturas [url=glossary:the voices of nerat]As Vozes de Nerat[/url] poderia conceber por dias antes de quebrar.</DefaultText>
+Pensado como uma erva daninha na maioria dos Império de [url=glossary:kyros]Kyros[/url], a planta resistente é virtualmente impossível erradicar sem salgar a terra em que cresce. Essa mesma teimosia é concedida a quem bebe os sucos de sableroot. As lendas falam de um prisioneiro, fornecido com raiz de zibelina por guardas amigáveis, que resistiu às piores torturas [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] poderia conceber por dias antes de quebrar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3453,7 +3453,7 @@ O efeito deste consumível aumenta em força à medida que seu usuário ganha po
     </Entry>
     <Entry>
       <ID>763</ID>
-      <DefaultText>Esta braçadeira uma vez usada por [url=glossary:bleden mark]Marca de Mistura[/url] é feita de uma substância desconhecida - parte escuridão aveludada e parte quitina de inseto endurecida.
+      <DefaultText>Esta braçadeira uma vez usada por [url=glossary:marca de mistura]Marca de Mistura[/url] é feita de uma substância desconhecida - parte escuridão aveludada e parte quitina de inseto endurecida.
 Diz-se que a escuridão é mais opressiva quando um Arconte das Sombras caminha na face de Terrato. A magia decorrente de seu poder se baseia na substância das sombras com um ar de boas-vindas e convite, tratando a escuridão menos como algo mais do que uma força arcana. Como tal, uma braçadeira que permite ao usuário incorporar seu eu mais sombrio tem conotações de perigo e risco. Apenas olhar muito de perto faz com que sua visão nade e envia uma onda de náusea rolando pelo seu intestino.</DefaultText>
       <FemaleText />
     </Entry>
@@ -3479,7 +3479,7 @@ Diz-se que a escuridão é mais opressiva quando um Arconte das Sombras caminha 
     </Entry>
     <Entry>
       <ID>768</ID>
-      <DefaultText>Bronze claro [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>Bronze claro [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3612,19 +3612,19 @@ Por último, olhe para o leste e prepare-se si mesmo contra aqueles que iriam te
     </Entry>
     <Entry>
       <ID>793</ID>
-      <DefaultText>Missiva de [url=glossary:the voices of nerat]As Vozes de Nerat[/url]</DefaultText>
+      <DefaultText>Missiva de [url=glossary:as vozes de nerat]As Vozes de Nerat[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>794</ID>
-      <DefaultText>Esta missiva contém ordens de [url=glossary:the voices of nerat]As Vozes de Nerat[/url] instruindo um de seus chefes de gangue a ter Zdenya, Mestre do Forja, enviado para Cacofonia.
+      <DefaultText>Esta missiva contém ordens de [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] instruindo um de seus chefes de gangue a ter Zdenya, Mestre do Forja, enviado para Cacofonia.
 
 Se ela não cooperar, o chefe está livre para usar mais "métodos persuasivos." Por que ele a quer não está claro, mas o Vozes recomenda cautela e sigilo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>795</ID>
-      <DefaultText>[url=glossary:disfavored]Desfavorecido[/url] Escudo</DefaultText>
+      <DefaultText>[url=glossary:desfavorecido]Desfavorecido[/url] Escudo</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3654,7 +3654,7 @@ Se ela não cooperar, o chefe está livre para usar mais "métodos persuasivos."
     </Entry>
     <Entry>
       <ID>801</ID>
-      <DefaultText>Tecido Pesado [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>Tecido Pesado [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3686,7 +3686,7 @@ Se ela não cooperar, o chefe está livre para usar mais "métodos persuasivos."
       <ID>807</ID>
       <DefaultText>Enquanto a missiva está amassada e danificada pela queda, você ainda pode ver o conteúdo.
 
-Estas são instruções endereçadas a um [url=glossary:disfavored]Desfavorecido[/url] para levar seus soldados e proteger a guarnição em [url=glossary:vendrien's well]Poço de Vendrien[/url] Citadel depois que ela foi tomada. Parece ser datado da conquista inicial de Ápice.</DefaultText>
+Estas são instruções endereçadas a um [url=glossary:desfavorecido]Desfavorecido[/url] para levar seus soldados e proteger a guarnição em [url=glossary:poço de vendrien]Poço de Vendrien[/url] Citadel depois que ela foi tomada. Parece ser datado da conquista inicial de Ápice.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4075,7 +4075,7 @@ O efeito deste consumível aumenta em força à medida que seu usuário ganha po
     </Entry>
     <Entry>
       <ID>884</ID>
-      <DefaultText>Enigma do [url=glossary:sage]Sábio[/url]</DefaultText>
+      <DefaultText>Enigma do [url=glossary:sábio]Sábio[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4190,7 +4190,7 @@ O efeito deste consumível aumenta em força à medida que seu usuário ganha po
     </Entry>
     <Entry>
       <ID>907</ID>
-      <DefaultText>[url=glossary:unbroken]Inquebrável[/url] Legado</DefaultText>
+      <DefaultText>[url=glossary:inquebrável]Inquebrável[/url] Legado</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4470,7 +4470,7 @@ O efeito deste consumível aumenta em força à medida que seu usuário ganha po
     </Entry>
     <Entry>
       <ID>963</ID>
-      <DefaultText>[url=glossary:frozen]Congeladas[/url] Manilha</DefaultText>
+      <DefaultText>[url=glossary:congeladas]Congeladas[/url] Manilha</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4510,7 +4510,7 @@ O efeito deste consumível aumenta em força à medida que seu usuário ganha po
     </Entry>
     <Entry>
       <ID>971</ID>
-      <DefaultText>[url=glossary:petrified]Petrificado[/url] Totem de Espinha</DefaultText>
+      <DefaultText>[url=glossary:petrificado]Petrificado[/url] Totem de Espinha</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4869,7 +4869,7 @@ Escondido entre as listas de nomes e títulos, você encontra a história de Rai
       <ID>1043</ID>
       <DefaultText>Essas notas são rabiscadas às pressas e mostram um controle tênue da alfabetização.
 
-Eles descrevem os implacáveis esforços de recrutamento de uma gangue [url=glossary:scarlet chorus]Coro Escarlate[/url] enquanto perseguiam o [url=glossary:unbroken]Inquebrável[/url] através do [url=glossary:blade grave]Sepultura de Lâminas[/url]. As notas incluem muitas referências a Destemido, uma espada relíquia do [url=glossary:unbroken]Inquebrável[/url], e muitas tentativas malfadadas de encontrar a lâmina. Existem alguns desenhos toscos que lembram um mapa do [url=glossary:blade grave]Sepultura de Lâminas[/url], com uma espada desenhada na parte leste do Muralhas Antigas.</DefaultText>
+Eles descrevem os implacáveis esforços de recrutamento de uma gangue [url=glossary:coro escarlate]Coro Escarlate[/url] enquanto perseguiam o [url=glossary:inquebrável]Inquebrável[/url] através do [url=glossary:sepultura de lâminas]Sepultura de Lâminas[/url]. As notas incluem muitas referências a Destemido, uma espada relíquia do [url=glossary:inquebrável]Inquebrável[/url], e muitas tentativas malfadadas de encontrar a lâmina. Existem alguns desenhos toscos que lembram um mapa do [url=glossary:sepultura de lâminas]Sepultura de Lâminas[/url], com uma espada desenhada na parte leste do Muralhas Antigas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4905,7 +4905,7 @@ As legalidades de sua "pesquisa" foram questionadas. Alguns argumentaram que o d
     </Entry>
     <Entry>
       <ID>1049</ID>
-      <DefaultText>[Temp] Encontrado em [url=glossary:vendrien's well]Poço de Vendrien[/url] - o livro fala de uma poderosa adaga empunhada por um conhecido assassino. O assassino desapareceu e quando o fez, o punhal também. O processo de forjamento do punhal foi perdido no tempo, mas uma recriação do punhal é mostrada no livro. Se o jogador perguntar ao FB sobre isso, ele pode dizer que sabe da adaga, mas não agora para fazê-la. Se eles pesquisarem no Biblioteca, receberão os planos.</DefaultText>
+      <DefaultText>[Temp] Encontrado em [url=glossary:poço de vendrien]Poço de Vendrien[/url] - o livro fala de uma poderosa adaga empunhada por um conhecido assassino. O assassino desapareceu e quando o fez, o punhal também. O processo de forjamento do punhal foi perdido no tempo, mas uma recriação do punhal é mostrada no livro. Se o jogador perguntar ao FB sobre isso, ele pode dizer que sabe da adaga, mas não agora para fazê-la. Se eles pesquisarem no Biblioteca, receberão os planos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4925,22 +4925,22 @@ As legalidades de sua "pesquisa" foram questionadas. Alguns argumentaram que o d
     </Entry>
     <Entry>
       <ID>1053</ID>
-      <DefaultText>[Temp] Encontrado em [url=glossary:vendrien's well]Poço de Vendrien[/url] - O pergaminho menciona um poderoso escudo usado por soldados antigos para repelir o Maldito. Inclui os planos, materiais e processo de forjamento para criá-lo.</DefaultText>
+      <DefaultText>[Temp] Encontrado em [url=glossary:poço de vendrien]Poço de Vendrien[/url] - O pergaminho menciona um poderoso escudo usado por soldados antigos para repelir o Maldito. Inclui os planos, materiais e processo de forjamento para criá-lo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1054</ID>
-      <DefaultText>[Temp] Encontrado em [url=glossary:vendrien's well]Poço de Vendrien[/url] - O pergaminho menciona um poderoso escudo usado por soldados antigos para repelir o Maldito. Inclui os planos, materiais e processo de forjamento para criá-lo.</DefaultText>
+      <DefaultText>[Temp] Encontrado em [url=glossary:poço de vendrien]Poço de Vendrien[/url] - O pergaminho menciona um poderoso escudo usado por soldados antigos para repelir o Maldito. Inclui os planos, materiais e processo de forjamento para criá-lo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1055</ID>
-      <DefaultText>[Temp] Encontrado em [url=glossary:vendrien's well]Poço de Vendrien[/url] - Você estuda o roteiro no pergaminho, mas não consegue entendê-lo. As runas não parecem formar nenhuma palavra com a qual você esteja familiarizado.</DefaultText>
+      <DefaultText>[Temp] Encontrado em [url=glossary:poço de vendrien]Poço de Vendrien[/url] - Você estuda o roteiro no pergaminho, mas não consegue entendê-lo. As runas não parecem formar nenhuma palavra com a qual você esteja familiarizado.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1056</ID>
-      <DefaultText>[Temp] Encontrado em [url=glossary:stone sea]Mar de Pedra[/url] - O pergaminho menciona uma poção poderosa chamada Fúria Sem Mente.</DefaultText>
+      <DefaultText>[Temp] Encontrado em [url=glossary:mar de pedra]Mar de Pedra[/url] - O pergaminho menciona uma poção poderosa chamada Fúria Sem Mente.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5056,17 +5056,17 @@ As legalidades de sua "pesquisa" foram questionadas. Alguns argumentaram que o d
     <Entry>
       <ID>1079</ID>
       <DefaultText>Isso parece ser um fragmento do padrão de batalha carregado por Amélia, a filha do Arconte de Guerra.
-Foi encontrado em Posto de Sentinela, confirmando que ela estava dentro do castelo quando o [url=glossary:edict]Edital[/url] de Tempestades desceu em Robusto.</DefaultText>
+Foi encontrado em Posto de Sentinela, confirmando que ela estava dentro do castelo quando o [url=glossary:edital]Edital[/url] de Tempestades desceu em Robusto.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1080</ID>
-      <DefaultText>[url=glossary:lethian's crossing]A Travessia de Lethian[/url] Pedra Angular Muralhas Antigas</DefaultText>
+      <DefaultText>[url=glossary:travessia de lethian]Travessia de Lethian[/url] Pedra Angular Muralhas Antigas</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1081</ID>
-      <DefaultText>Pedras-chave como esta oferecem entrada nas ruínas arcanas do Muralhas Antigas. Este veio de Eldian e é usado para inserir as Muralhas Antigas em [url=glossary:lethian's crossing]A Travessia de Lethian[/url].</DefaultText>
+      <DefaultText>Pedras-chave como esta oferecem entrada nas ruínas arcanas do Muralhas Antigas. Este veio de Eldian e é usado para inserir as Muralhas Antigas em [url=glossary:travessia de lethian]Travessia de Lethian[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5083,7 +5083,7 @@ Padrões de pontas entre os ombros e cotovelos, dobrados em um alinhamento gross
     </Entry>
     <Entry>
       <ID>1084</ID>
-      <DefaultText>elmo de Barik é uma interpretação trágica do equipamento [url=glossary:disfavored]Desfavorecido[/url] misturado com elementos do bronze Robusto.
+      <DefaultText>elmo de Barik é uma interpretação trágica do equipamento [url=glossary:desfavorecido]Desfavorecido[/url] misturado com elementos do bronze Robusto.
 
 Ele esconde seu rosto, permitindo apenas uma sugestão de detalhes visíveis por trás da obscuridade. Um acúmulo de ferrugem se juntou logo abaixo das fendas dos olhos.
 
@@ -5189,7 +5189,7 @@ Embora não tenha nenhuma semelhança com runas mágicas conhecidas em uso hoje,
     </Entry>
     <Entry>
       <ID>1104</ID>
-      <DefaultText>[url=glossary:sage]Sábio[/url] Fragmento de rolagem</DefaultText>
+      <DefaultText>[url=glossary:sábio]Sábio[/url] Fragmento de rolagem</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5224,15 +5224,15 @@ Embora não tenha nenhuma semelhança com runas mágicas conhecidas em uso hoje,
     </Entry>
     <Entry>
       <ID>1111</ID>
-      <DefaultText>Nota de [url=glossary:iron guard]Guarda de Ferro[/url] Vintara</DefaultText>
+      <DefaultText>Nota de [url=glossary:guarda de ferro]Guarda de Ferro[/url] Vintara</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1112</ID>
-      <DefaultText>"De acordo com nosso acordo verbal, você tem permissão para entrar no Muralhas Antigas em [url=glossary:lethian's crossing]A Travessia de Lethian[/url] com as instruções explícitas para encontrar um caminho para o acampamento [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] no outro final. Quaisquer itens adquiridos dentro do Muralhas Antigas serão seus para manter em troca de sua ajuda neste assunto."
+      <DefaultText>"De acordo com nosso acordo verbal, você tem permissão para entrar no Muralhas Antigas em [url=glossary:travessia de lethian]Travessia de Lethian[/url] com as instruções explícitas para encontrar um caminho para o acampamento [url=glossary:irmandade de bronze]Irmandade de Bronze[/url] no outro final. Quaisquer itens adquiridos dentro do Muralhas Antigas serão seus para manter em troca de sua ajuda neste assunto."
 
-[url=glossary:iron guard]Guarda de Ferro[/url] Vintara
-Commander of [url=glossary:lethian's crossing]A Travessia de Lethian[/url]</DefaultText>
+[url=glossary:guarda de ferro]Guarda de Ferro[/url] Vintara
+Commander of [url=glossary:travessia de lethian]Travessia de Lethian[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5267,17 +5267,17 @@ Commander of [url=glossary:lethian's crossing]A Travessia de Lethian[/url]</Defa
     </Entry>
     <Entry>
       <ID>1119</ID>
-      <DefaultText>Este mapa indica a suposta localização do Elmo do Primeiro Regente. Seu dono, um Regente de alto escalão conhecido como Epistratos, foi morto durante a onda destrutiva inicial provocada pelo [url=glossary:edict]Edital[/url] de Tempestades. As notas de Elia neste mapa lamentam seu destino, que poderia ter sido evitado se o Vinculador do Destino tivesse dado algum aviso prévio do [url=glossary:edict]Edital[/url] por vir. Suas últimas palavras indicam que o elmo provavelmente está no próprio Desfiladeiros de Ferrugem, pois ela recuperou o banner Epistratos' perto de uma formação de lâmina em forma de espiral.</DefaultText>
+      <DefaultText>Este mapa indica a suposta localização do Elmo do Primeiro Regente. Seu dono, um Regente de alto escalão conhecido como Epistratos, foi morto durante a onda destrutiva inicial provocada pelo [url=glossary:edital]Edital[/url] de Tempestades. As notas de Elia neste mapa lamentam seu destino, que poderia ter sido evitado se o Vinculador do Destino tivesse dado algum aviso prévio do [url=glossary:edital]Edital[/url] por vir. Suas últimas palavras indicam que o elmo provavelmente está no próprio Desfiladeiros de Ferrugem, pois ela recuperou o banner Epistratos' perto de uma formação de lâmina em forma de espiral.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1120</ID>
-      <DefaultText>[url=glossary:disfavored]Desfavorecido[/url] Mapa de patrulha</DefaultText>
+      <DefaultText>[url=glossary:desfavorecido]Desfavorecido[/url] Mapa de patrulha</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1121</ID>
-      <DefaultText>Este mapa, encontrado em de Elia cadáver, gráficos [url=glossary:unbroken]Inquebrável[/url] rotas de patrulha. Existem notas e alterações que alteram o cronograma com base em informações precisas de [url=glossary:disfavored]Desfavorecido[/url] patrulhas. Comentários adicionais sugerem que esta informação foi obtida de um ponto de contato no [url=glossary:scarlet chorus]Coro Escarlate[/url].</DefaultText>
+      <DefaultText>Este mapa, encontrado em de Elia cadáver, gráficos [url=glossary:inquebrável]Inquebrável[/url] rotas de patrulha. Existem notas e alterações que alteram o cronograma com base em informações precisas de [url=glossary:desfavorecido]Desfavorecido[/url] patrulhas. Comentários adicionais sugerem que esta informação foi obtida de um ponto de contato no [url=glossary:coro escarlate]Coro Escarlate[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5297,12 +5297,12 @@ Commander of [url=glossary:lethian's crossing]A Travessia de Lethian[/url]</Defa
     </Entry>
     <Entry>
       <ID>1125</ID>
-      <DefaultText>Esse [url=glossary:disfavored]Desfavorecido[/url] relatório da missão remonta a 430 TR. Uma entrada se destaca do todo meticulosamente organizado. Descreve uma patrulha noturna onde o soldado avistou uma reunião Lança Carmesim com um capitão Robusto. Quem escreveu o diário deve ter a intenção de denunciá-lo ao seu oficial superior, mas caiu na batalha antes que tivesse a chance.</DefaultText>
+      <DefaultText>Esse [url=glossary:desfavorecido]Desfavorecido[/url] relatório da missão remonta a 430 TR. Uma entrada se destaca do todo meticulosamente organizado. Descreve uma patrulha noturna onde o soldado avistou uma reunião Lança Carmesim com um capitão Robusto. Quem escreveu o diário deve ter a intenção de denunciá-lo ao seu oficial superior, mas caiu na batalha antes que tivesse a chance.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1126</ID>
-      <DefaultText>Chamuscado [url=glossary:scarlet chorus]Coro Escarlate[/url] Relatório</DefaultText>
+      <DefaultText>Chamuscado [url=glossary:coro escarlate]Coro Escarlate[/url] Relatório</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5312,17 +5312,17 @@ Commander of [url=glossary:lethian's crossing]A Travessia de Lethian[/url]</Defa
     </Entry>
     <Entry>
       <ID>1128</ID>
-      <DefaultText>Missiva de [url=glossary:graven ashe]Cinza Esculpida[/url]</DefaultText>
+      <DefaultText>Missiva de [url=glossary:cinza esculpida]Cinza Esculpida[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1129</ID>
-      <DefaultText>[TEMP] Este item contém informações que implicam [url=glossary:graven ashe]Cinza Esculpida[/url] em algo para [url=glossary:tunon]Tunon[/url] Julgamento</DefaultText>
+      <DefaultText>[TEMP] Este item contém informações que implicam [url=glossary:cinza esculpida]Cinza Esculpida[/url] em algo para [url=glossary:tunon]Tunon[/url] Julgamento</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1130</ID>
-      <DefaultText>Diário Lançamento do [url=glossary:sage]Sábio[/url]</DefaultText>
+      <DefaultText>Diário Lançamento do [url=glossary:sábio]Sábio[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5372,7 +5372,7 @@ Commander of [url=glossary:lethian's crossing]A Travessia de Lethian[/url]</Defa
     </Entry>
     <Entry>
       <ID>1140</ID>
-      <DefaultText>Quebrado [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>Quebrado [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5415,7 +5415,7 @@ O espião foi capaz de observar Raetommon em várias ocasiões, e observa que o 
 
 A última carta parece ter sido escrita às pressas, a tinta manchada em vários pontos:
 
-“Tive que sair. Levantado [url=glossary:sage]Sábio[/url] notas e pergaminhos mágicos para atrasar os planos inimigos. R é provavelmente uma ameaça maior do que se pensava. Ingressou em patrulhas selvagens, mas a ausência de Muralhas Antigas será notada. Documentos escondidos, costurados na túnica. A rota cruzará com Vale de Ferro. Procure o irmão com argola de cobre no nariz e cicatriz na mandíbula esquerda.”</DefaultText>
+“Tive que sair. Levantado [url=glossary:sábio]Sábio[/url] notas e pergaminhos mágicos para atrasar os planos inimigos. R é provavelmente uma ameaça maior do que se pensava. Ingressou em patrulhas selvagens, mas a ausência de Muralhas Antigas será notada. Documentos escondidos, costurados na túnica. A rota cruzará com Vale de Ferro. Procure o irmão com argola de cobre no nariz e cicatriz na mandíbula esquerda.”</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5425,7 +5425,7 @@ A última carta parece ter sido escrita às pressas, a tinta manchada em vários
     </Entry>
     <Entry>
       <ID>1149</ID>
-      <DefaultText>Um soldado [url=glossary:disfavored]Desfavorecido[/url] desenhou um mapa grosseiro representando Marcha do Desertor e outras áreas selvagens próximas. Várias linhas e pontos de conexão provavelmente indicam patrulhas e posições fortificadas. O grande número deles sugere que as forças de [url=glossary:kyros]Kyros[/url] estão fazendo tentativas agressivas de controlar a região ao redor do [url=glossary:lethian's crossing]A Travessia de Lethian[/url].</DefaultText>
+      <DefaultText>Um soldado [url=glossary:desfavorecido]Desfavorecido[/url] desenhou um mapa grosseiro representando Marcha do Desertor e outras áreas selvagens próximas. Várias linhas e pontos de conexão provavelmente indicam patrulhas e posições fortificadas. O grande número deles sugere que as forças de [url=glossary:kyros]Kyros[/url] estão fazendo tentativas agressivas de controlar a região ao redor do [url=glossary:travessia de lethian]Travessia de Lethian[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5505,7 +5505,7 @@ A última carta parece ter sido escrita às pressas, a tinta manchada em vários
     </Entry>
     <Entry>
       <ID>1165</ID>
-      <DefaultText>Limite de [url=glossary:precision]Precisão[/url]</DefaultText>
+      <DefaultText>Limite de [url=glossary:precisão]Precisão[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5560,7 +5560,7 @@ A última carta parece ter sido escrita às pressas, a tinta manchada em vários
     </Entry>
     <Entry>
       <ID>1176</ID>
-      <DefaultText>Pergaminho: Sigilo de [url=glossary:bleeding]Sangramento[/url] (Acento)</DefaultText>
+      <DefaultText>Pergaminho: Sigilo de [url=glossary:sangramento]Sangramento[/url] (Acento)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5595,7 +5595,7 @@ A última carta parece ter sido escrita às pressas, a tinta manchada em vários
     </Entry>
     <Entry>
       <ID>1183</ID>
-      <DefaultText>Pergaminho: Sigilo de [url=glossary:focused]Focado[/url] Chuva (Acento)</DefaultText>
+      <DefaultText>Pergaminho: Sigilo de [url=glossary:focado]Focado[/url] Chuva (Acento)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5720,7 +5720,7 @@ A última carta parece ter sido escrita às pressas, a tinta manchada em vários
     </Entry>
     <Entry>
       <ID>1208</ID>
-      <DefaultText>Quebrado [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>Quebrado [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5735,7 +5735,7 @@ A última carta parece ter sido escrita às pressas, a tinta manchada em vários
     </Entry>
     <Entry>
       <ID>1211</ID>
-      <DefaultText>Receita: Acordar [url=glossary:death]Morte[/url]</DefaultText>
+      <DefaultText>Receita: Acordar [url=glossary:morte]Morte[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5800,27 +5800,27 @@ A última carta parece ter sido escrita às pressas, a tinta manchada em vários
     </Entry>
     <Entry>
       <ID>1224</ID>
-      <DefaultText>[url=glossary:bronze brotherhood]Irmandade de Bronze[/url] [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>[url=glossary:irmandade de bronze]Irmandade de Bronze[/url] [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1225</ID>
-      <DefaultText>Lança Carmesim [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>Lança Carmesim [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1226</ID>
-      <DefaultText>[url=glossary:vendrien guard]Guarda Vendrien[/url] Bronze claro [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>[url=glossary:guarda vendrien]Guarda Vendrien[/url] Bronze claro [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1227</ID>
-      <DefaultText>Vestes do [url=glossary:sage]Sábio[/url]</DefaultText>
+      <DefaultText>Vestes do [url=glossary:sábio]Sábio[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1228</ID>
-      <DefaultText>Vestes do [url=glossary:sage]Sábio[/url]</DefaultText>
+      <DefaultText>Vestes do [url=glossary:sábio]Sábio[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5845,32 +5845,32 @@ A última carta parece ter sido escrita às pressas, a tinta manchada em vários
     </Entry>
     <Entry>
       <ID>1233</ID>
-      <DefaultText>Couro Pesado [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>Couro Pesado [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1234</ID>
-      <DefaultText>Vinculador do Destino Cerimonial de [url=glossary:tunon]Tunon[/url] [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>Vinculador do Destino Cerimonial de [url=glossary:tunon]Tunon[/url] [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1235</ID>
-      <DefaultText>Vinculador do Destino Cerimonial de [url=glossary:tunon]Tunon[/url] [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>Vinculador do Destino Cerimonial de [url=glossary:tunon]Tunon[/url] [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1236</ID>
-      <DefaultText>[url=glossary:vendrien guard]Guarda Vendrien[/url] Grevas de Bronze Pesado</DefaultText>
+      <DefaultText>[url=glossary:guarda vendrien]Guarda Vendrien[/url] Grevas de Bronze Pesado</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1237</ID>
-      <DefaultText>Chuteiras do [url=glossary:sage]Sábio[/url]</DefaultText>
+      <DefaultText>Chuteiras do [url=glossary:sábio]Sábio[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1238</ID>
-      <DefaultText>Chuteiras do [url=glossary:sage]Sábio[/url]</DefaultText>
+      <DefaultText>Chuteiras do [url=glossary:sábio]Sábio[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5910,7 +5910,7 @@ A última carta parece ter sido escrita às pressas, a tinta manchada em vários
     </Entry>
     <Entry>
       <ID>1246</ID>
-      <DefaultText>[url=glossary:vendrien guard]Guarda Vendrien[/url] Manoplas de Bronze Pesado</DefaultText>
+      <DefaultText>[url=glossary:guarda vendrien]Guarda Vendrien[/url] Manoplas de Bronze Pesado</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5925,12 +5925,12 @@ A última carta parece ter sido escrita às pressas, a tinta manchada em vários
     </Entry>
     <Entry>
       <ID>1249</ID>
-      <DefaultText>Luvas do [url=glossary:sage]Sábio[/url]</DefaultText>
+      <DefaultText>Luvas do [url=glossary:sábio]Sábio[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1250</ID>
-      <DefaultText>Luvas do [url=glossary:sage]Sábio[/url]</DefaultText>
+      <DefaultText>Luvas do [url=glossary:sábio]Sábio[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5955,7 +5955,7 @@ A última carta parece ter sido escrita às pressas, a tinta manchada em vários
     </Entry>
     <Entry>
       <ID>1255</ID>
-      <DefaultText>[url=glossary:vendrien guard]Guarda Vendrien[/url] Capacete de bronze pesado</DefaultText>
+      <DefaultText>[url=glossary:guarda vendrien]Guarda Vendrien[/url] Capacete de bronze pesado</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5970,7 +5970,7 @@ A última carta parece ter sido escrita às pressas, a tinta manchada em vários
     </Entry>
     <Entry>
       <ID>1258</ID>
-      <DefaultText>Capuz do [url=glossary:sage]Sábio[/url]</DefaultText>
+      <DefaultText>Capuz do [url=glossary:sábio]Sábio[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6065,7 +6065,7 @@ A última carta parece ter sido escrita às pressas, a tinta manchada em vários
     </Entry>
     <Entry>
       <ID>1277</ID>
-      <DefaultText>Nota de [url=glossary:the voices of nerat]As vozes de Nerat[/url]</DefaultText>
+      <DefaultText>Nota de [url=glossary:as vozes de nerat]As Vozes de Nerat[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6074,7 +6074,7 @@ A última carta parece ter sido escrita às pressas, a tinta manchada em vários
 
 SEND ARMOR MAKING LADY TO ME.
 
-[Abaixo do texto, você vê um desenho grosseiro do que você acha que é [url=glossary:the voices of nerat] As Vozes de Nerat[/url] na frente de um [url=glossary:forge-bound]Vinculado à Forja[/url] smith. Os braços de [url=glossary:forge-bound]Vinculado à Forja[/url] estão amarrados enquanto dois Refrão soldados estão atrás dela com as armas em punho.]</DefaultText>
+[Abaixo do texto, você vê um desenho grosseiro do que você acha que é [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] na frente de um [url=glossary:forge-bound]Vinculado à Forja[/url] smith. Os braços de [url=glossary:forge-bound]Vinculado à Forja[/url] estão amarrados enquanto dois Refrão soldados estão atrás dela com as armas em punho.]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6094,12 +6094,12 @@ SEND ARMOR MAKING LADY TO ME.
     </Entry>
     <Entry>
       <ID>1282</ID>
-      <DefaultText>[url=glossary:vendrien guard]Guarda Vendrien[/url] Adaga de Bronze</DefaultText>
+      <DefaultText>[url=glossary:guarda vendrien]Guarda Vendrien[/url] Adaga de Bronze</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1283</ID>
-      <DefaultText>[url=glossary:vendrien guard]Guarda Vendrien[/url] Bronze Dha</DefaultText>
+      <DefaultText>[url=glossary:guarda vendrien]Guarda Vendrien[/url] Bronze Dha</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6278,7 +6278,7 @@ SEND ARMOR MAKING LADY TO ME.
     </Entry>
     <Entry>
       <ID>1318</ID>
-      <DefaultText>Pergaminho: Sigil of Súbita [url=glossary:death]Morte[/url] (Acento)</DefaultText>
+      <DefaultText>Pergaminho: Sigil of Súbita [url=glossary:morte]Morte[/url] (Acento)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6343,7 +6343,7 @@ SEND ARMOR MAKING LADY TO ME.
     </Entry>
     <Entry>
       <ID>1331</ID>
-      <DefaultText>Pergaminho: Sigilo de [url=glossary:focused]Focado[/url] Intenção (Expressão)</DefaultText>
+      <DefaultText>Pergaminho: Sigilo de [url=glossary:focado]Focado[/url] Intenção (Expressão)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6420,18 +6420,18 @@ SEND ARMOR MAKING LADY TO ME.
       <ID>1346</ID>
       <DefaultText>Esta declaração formal foi escrita com uma caligrafia exata e precisa:
 
-É a vontade de [url=glossary:tunon]Tunon[/url] Tribunal - mandatada por [url=glossary:kyros]Kyros[/url] e executada pelo Árbitro - que [url=glossary:the voices of nerat]As Vozes de Nerat[/url] é culpado de traição contra o soberano. Evidências e testemunhos demonstraram que a Arconte dos Segredos' selvageria desenfreada e a falta de vontade de cooperar com um esforço de guerra organizado semearam o caos e prejudicaram irrevogavelmente os esforços para ser Paz de [url=glossary:kyros]Kyros[/url] ao Camadas.
+É a vontade de [url=glossary:tunon]Tunon[/url] Tribunal - mandatada por [url=glossary:kyros]Kyros[/url] e executada pelo Árbitro - que [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] é culpado de traição contra o soberano. Evidências e testemunhos demonstraram que a Arconte dos Segredos' selvageria desenfreada e a falta de vontade de cooperar com um esforço de guerra organizado semearam o caos e prejudicaram irrevogavelmente os esforços para ser Paz de [url=glossary:kyros]Kyros[/url] ao Camadas.
 
-Por lei de [url=glossary:kyros]Kyros[/url], [url=glossary:the voices of nerat]As Vozes de Nerat[/url] rejeitou os princípios de Paz de [url=glossary:kyros]Kyros[/url], e deve ser executado pelo carrasco escolhido pela corte.</DefaultText>
+Por lei de [url=glossary:kyros]Kyros[/url], [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] rejeitou os princípios de Paz de [url=glossary:kyros]Kyros[/url], e deve ser executado pelo carrasco escolhido pela corte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1347</ID>
       <DefaultText>Esta declaração formal foi escrita com uma caligrafia exata e precisa:
 
-É a vontade de [url=glossary:tunon]Tunon[/url] de Tribunal - mandatada por [url=glossary:kyros]Kyros[/url] e executada pelo Árbitro - que [url=glossary:graven ashe]Cinza Esculpida[/url] é culpado de traição contra o soberano. Evidências e testemunhos trouxeram à tona a conduta irracional Arconte e a semeadura desenfreada da discórdia. Além disso, sua interrupção na campanha pode ter prejudicado irrevogavelmente os esforços para transmitir Paz de [url=glossary:kyros]Kyros[/url] às Camadas.
+É a vontade de [url=glossary:tunon]Tunon[/url] de Tribunal - mandatada por [url=glossary:kyros]Kyros[/url] e executada pelo Árbitro - que [url=glossary:cinza esculpida]Cinza Esculpida[/url] é culpado de traição contra o soberano. Evidências e testemunhos trouxeram à tona a conduta irracional Arconte e a semeadura desenfreada da discórdia. Além disso, sua interrupção na campanha pode ter prejudicado irrevogavelmente os esforços para transmitir Paz de [url=glossary:kyros]Kyros[/url] às Camadas.
 
-Por [url=glossary:kyros]Kyros[/url], [url=glossary:graven ashe]Cinza Esculpida[/url] desprezou os princípios de Paz de [url=glossary:kyros]Kyros[/url], e deve ser executado pelo carrasco escolhido pelo tribunal.</DefaultText>
+Por [url=glossary:kyros]Kyros[/url], [url=glossary:cinza esculpida]Cinza Esculpida[/url] desprezou os princípios de Paz de [url=glossary:kyros]Kyros[/url], e deve ser executado pelo carrasco escolhido pelo tribunal.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6441,7 +6441,7 @@ Por [url=glossary:kyros]Kyros[/url], [url=glossary:graven ashe]Cinza Esculpida[/
     </Entry>
     <Entry>
       <ID>1349</ID>
-      <DefaultText>Esta receita descreve o processo de cultivo de um cogumelo poderoso, conhecido como Acordar [url=glossary:death]Morte[/url], que pode prevenir a morte. Este cogumelo pode ser cultivado com acesso a Atualização da Enfermaria Spire e materiais adequados.</DefaultText>
+      <DefaultText>Esta receita descreve o processo de cultivo de um cogumelo poderoso, conhecido como Acordar [url=glossary:morte]Morte[/url], que pode prevenir a morte. Este cogumelo pode ser cultivado com acesso a Atualização da Enfermaria Spire e materiais adequados.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6625,7 +6625,7 @@ Por [url=glossary:kyros]Kyros[/url], [url=glossary:graven ashe]Cinza Esculpida[/
 
 Remédio,
 
-The [url=glossary:unbroken]Inquebrável[/url] têm sido mais problemáticos para Cinza e sua legião consanguínea. Convide o maior número possível de pessoas para se juntar à nossa música. Preste atenção especial ao líder deles, Mattias, e traga-o para Cacophony inteiro. Nós sabemos como você adora cortar tendões e bancar o marionetista, mas nos agrade desta vez com sua contenção.
+The [url=glossary:inquebrável]Inquebrável[/url] têm sido mais problemáticos para Cinza e sua legião consanguínea. Convide o maior número possível de pessoas para se juntar à nossa música. Preste atenção especial ao líder deles, Mattias, e traga-o para Cacophony inteiro. Nós sabemos como você adora cortar tendões e bancar o marionetista, mas nos agrade desta vez com sua contenção.
 
 ~Seu Líder Adorado</DefaultText>
       <FemaleText />
@@ -6637,7 +6637,7 @@ The [url=glossary:unbroken]Inquebrável[/url] têm sido mais problemáticos para
     </Entry>
     <Entry>
       <ID>1387</ID>
-      <DefaultText>Vinculador do Destino de [url=glossary:tunon]Tunon[/url] [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>Vinculador do Destino de [url=glossary:tunon]Tunon[/url] [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6682,32 +6682,32 @@ The [url=glossary:unbroken]Inquebrável[/url] têm sido mais problemáticos para
     </Entry>
     <Entry>
       <ID>1396</ID>
-      <DefaultText>Quebrado [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>Quebrado [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1397</ID>
-      <DefaultText>Quebrado [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>Quebrado [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1398</ID>
-      <DefaultText>Quebrado [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>Quebrado [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1399</ID>
-      <DefaultText>Quebrado [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>Quebrado [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1400</ID>
-      <DefaultText>Quebrado [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>Quebrado [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1401</ID>
-      <DefaultText>Quebrado [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>Quebrado [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6772,7 +6772,7 @@ The [url=glossary:unbroken]Inquebrável[/url] têm sido mais problemáticos para
     </Entry>
     <Entry>
       <ID>1414</ID>
-      <DefaultText>Este pergaminho contém um Sotaque mágico que adiciona uma aflição [url=glossary:bleeding]Sangramento[/url] a um feitiço.</DefaultText>
+      <DefaultText>Este pergaminho contém um Sotaque mágico que adiciona uma aflição [url=glossary:sangramento]Sangramento[/url] a um feitiço.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6792,7 +6792,7 @@ The [url=glossary:unbroken]Inquebrável[/url] têm sido mais problemáticos para
     </Entry>
     <Entry>
       <ID>1418</ID>
-      <DefaultText>Este pergaminho contém um Sotaque mágico que adiciona uma aflição [url=glossary:dazed]Atordoado[/url] a um feitiço.</DefaultText>
+      <DefaultText>Este pergaminho contém um Sotaque mágico que adiciona uma aflição [url=glossary:atordoado]Atordoado[/url] a um feitiço.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6887,7 +6887,7 @@ The [url=glossary:unbroken]Inquebrável[/url] têm sido mais problemáticos para
     </Entry>
     <Entry>
       <ID>1437</ID>
-      <DefaultText>Este pergaminho contém um Sotaque mágico que adiciona uma aflição [url=glossary:marked]Marcado[/url] a um feitiço.</DefaultText>
+      <DefaultText>Este pergaminho contém um Sotaque mágico que adiciona uma aflição [url=glossary:marcado]Marcado[/url] a um feitiço.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6942,7 +6942,7 @@ The [url=glossary:unbroken]Inquebrável[/url] têm sido mais problemáticos para
     </Entry>
     <Entry>
       <ID>1448</ID>
-      <DefaultText>Este pergaminho contém um Sotaque mágico que adiciona uma aflição [url=glossary:rooted]Enraizado[/url] a um feitiço Força ou Atrofia.</DefaultText>
+      <DefaultText>Este pergaminho contém um Sotaque mágico que adiciona uma aflição [url=glossary:enraizado]Enraizado[/url] a um feitiço Força ou Atrofia.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6952,7 +6952,7 @@ The [url=glossary:unbroken]Inquebrável[/url] têm sido mais problemáticos para
     </Entry>
     <Entry>
       <ID>1450</ID>
-      <DefaultText>Este pergaminho contém um mágico Sotaque que faz com que um feitiço reduza [url=glossary:recovery]Recuperação[/url] por um curto período de tempo após ser lançado.</DefaultText>
+      <DefaultText>Este pergaminho contém um mágico Sotaque que faz com que um feitiço reduza [url=glossary:recuperação]Recuperação[/url] por um curto período de tempo após ser lançado.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7067,7 +7067,7 @@ The [url=glossary:unbroken]Inquebrável[/url] têm sido mais problemáticos para
     </Entry>
     <Entry>
       <ID>1473</ID>
-      <DefaultText>Este pergaminho contém um mágico Sotaque que adiciona a aflição [url=glossary:stunned]Atordoado[/url] a um feitiço Raio.</DefaultText>
+      <DefaultText>Este pergaminho contém um mágico Sotaque que adiciona a aflição [url=glossary:atordoado]Atordoado[/url] a um feitiço Raio.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7115,7 +7115,7 @@ O que mais Sepultura possa ser, suas cordas vibram e pulsam com energia desesper
       <ID>1481</ID>
       <DefaultText>vestido de Sirin é feito com o melhor tecido do Império do Norte.
 
-Entre as camadas de seda você mal consegue perceber delicadas runas arcanas e notação musical costuradas em fios de ouro e moldadas em uma aproximação de correntes. Embora pareça feito para uma apresentação cortês, a resistência da peça ao longo da guerra rivaliza com o ferro [url=glossary:disfavored]Desfavorecido[/url], não deixando ninguém em dúvida sobre sua qualidade protetora.</DefaultText>
+Entre as camadas de seda você mal consegue perceber delicadas runas arcanas e notação musical costuradas em fios de ouro e moldadas em uma aproximação de correntes. Embora pareça feito para uma apresentação cortês, a resistência da peça ao longo da guerra rivaliza com o ferro [url=glossary:desfavorecido]Desfavorecido[/url], não deixando ninguém em dúvida sobre sua qualidade protetora.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7140,7 +7140,7 @@ Novos pontos e aparência de alfaiataria personalizada projetados para maximizar
     </Entry>
     <Entry>
       <ID>1485</ID>
-      <DefaultText>Embora já tenham sido um par de botas de couro de qualidade, vários reparos e amostras de couro coloridas aleatoriamente tornaram essas botas uma bagunça assimétrica. Coberto em camadas de cinzas e fuligem, parece uma aposta segura que essas foram as botas que levaram Lantry para longe do amanhecer cataclísmico do [url=glossary:burning library]Biblioteca em chamas[/url]. Dada a quantidade de couro original que foi perdida com essas botas, alguém seguindo atrás de Lantry poderia ter feito um segundo par inteiro - o que levantaria a questão se esse segundo par também poderia ou não ser considerado botas Lantry's.</DefaultText>
+      <DefaultText>Embora já tenham sido um par de botas de couro de qualidade, vários reparos e amostras de couro coloridas aleatoriamente tornaram essas botas uma bagunça assimétrica. Coberto em camadas de cinzas e fuligem, parece uma aposta segura que essas foram as botas que levaram Lantry para longe do amanhecer cataclísmico do [url=glossary:biblioteca em chamas]Biblioteca em chamas[/url]. Dada a quantidade de couro original que foi perdida com essas botas, alguém seguindo atrás de Lantry poderia ter feito um segundo par inteiro - o que levantaria a questão se esse segundo par também poderia ou não ser considerado botas Lantry's.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7251,7 +7251,7 @@ De qualquer forma, o tinteiro indescritível e muito contestado agora reside em 
     </Entry>
     <Entry>
       <ID>1503</ID>
-      <DefaultText>[url=glossary:edict]Edital[/url] Pesquisar</DefaultText>
+      <DefaultText>[url=glossary:edital]Edital[/url] Pesquisar</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7276,13 +7276,13 @@ De qualquer forma, o tinteiro indescritível e muito contestado agora reside em 
     </Entry>
     <Entry>
       <ID>1508</ID>
-      <DefaultText>Este capuz deriva suas propriedades das magias protetoras empregadas pelos Sábios no [url=glossary:vellum citadel]Cidadela de Velino[/url].
-Assim como os manuscritos atemporais que sobreviveram ao [url=glossary:edict]Edital[/url] de Incêndio, o portador do capuz não sofrerá ferimentos significativos pelo fogo.</DefaultText>
+      <DefaultText>Este capuz deriva suas propriedades das magias protetoras empregadas pelos Sábios no [url=glossary:cidadela de velino]Cidadela de Velino[/url].
+Assim como os manuscritos atemporais que sobreviveram ao [url=glossary:edital]Edital[/url] de Incêndio, o portador do capuz não sofrerá ferimentos significativos pelo fogo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1509</ID>
-      <DefaultText>Este medalhão é normalmente oferecido aos oficiais mais comprovados e condecorados da legião [url=glossary:disfavored]Desfavorecido[/url]. Representa a eterna gratidão e amor de [url=glossary:graven ashe]Cinza Esculpida[/url], Arconte de Guerra.</DefaultText>
+      <DefaultText>Este medalhão é normalmente oferecido aos oficiais mais comprovados e condecorados da legião [url=glossary:desfavorecido]Desfavorecido[/url]. Representa a eterna gratidão e amor de [url=glossary:cinza esculpida]Cinza Esculpida[/url], Arconte de Guerra.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7312,7 +7312,7 @@ Assim como os manuscritos atemporais que sobreviveram ao [url=glossary:edict]Edi
     </Entry>
     <Entry>
       <ID>1515</ID>
-      <DefaultText>Este item era popular entre os sábios aprendizes no [url=glossary:vellum citadel]Cidadela de Velino[/url] encarregados de correr entre as pilhas para localizar manuscritos para seus mestres.</DefaultText>
+      <DefaultText>Este item era popular entre os sábios aprendizes no [url=glossary:cidadela de velino]Cidadela de Velino[/url] encarregados de correr entre as pilhas para localizar manuscritos para seus mestres.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7332,12 +7332,12 @@ Assim como os manuscritos atemporais que sobreviveram ao [url=glossary:edict]Edi
     </Entry>
     <Entry>
       <ID>1519</ID>
-      <DefaultText>As roupas resistentes ao fogo foram popularizadas pela queda do [url=glossary:vellum citadel]Cidadela de Velino[/url] e o influxo de catadores em busca de manuscritos chamuscados de conhecimento proibido.</DefaultText>
+      <DefaultText>As roupas resistentes ao fogo foram popularizadas pela queda do [url=glossary:cidadela de velino]Cidadela de Velino[/url] e o influxo de catadores em busca de manuscritos chamuscados de conhecimento proibido.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1520</ID>
-      <DefaultText>Esta lente de vidro marinho distorcido foi originalmente usada para aumentar a visão deficiente de [url=glossary:sage]Sábio[/url] Hierarcas. A crença popular sustenta que documentos suficientes de conhecimento arcano passaram para o olho por meio dessa lente que o próprio vidro "aprendido" ao longo do tempo - assumindo propriedades estranhas.</DefaultText>
+      <DefaultText>Esta lente de vidro marinho distorcido foi originalmente usada para aumentar a visão deficiente de [url=glossary:sábio]Sábio[/url] Hierarcas. A crença popular sustenta que documentos suficientes de conhecimento arcano passaram para o olho por meio dessa lente que o próprio vidro "aprendido" ao longo do tempo - assumindo propriedades estranhas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7392,7 +7392,7 @@ Assim como os manuscritos atemporais que sobreviveram ao [url=glossary:edict]Edi
     </Entry>
     <Entry>
       <ID>1531</ID>
-      <DefaultText>Esta rocha brilha com o calor preso do [url=glossary:edict]Edital[/url] de Incêndio. Como ele contém o calor sem ser consumido é um mistério.</DefaultText>
+      <DefaultText>Esta rocha brilha com o calor preso do [url=glossary:edital]Edital[/url] de Incêndio. Como ele contém o calor sem ser consumido é um mistério.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7427,7 +7427,7 @@ Assim como os manuscritos atemporais que sobreviveram ao [url=glossary:edict]Edi
     </Entry>
     <Entry>
       <ID>1538</ID>
-      <DefaultText>[url=glossary:frozen]Congeladas[/url] Algemas são um impedimento feito para prisioneiros de curto prazo. O ar frio e a magia volátil em sua forja são impedimentos para guardas notavelmente cruéis.</DefaultText>
+      <DefaultText>[url=glossary:congeladas]Congeladas[/url] Algemas são um impedimento feito para prisioneiros de curto prazo. O ar frio e a magia volátil em sua forja são impedimentos para guardas notavelmente cruéis.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7457,7 +7457,7 @@ Assim como os manuscritos atemporais que sobreviveram ao [url=glossary:edict]Edi
     </Entry>
     <Entry>
       <ID>1544</ID>
-      <DefaultText>Envoltórios sobre o rosto cresceram em popularidade depois que [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] de Incêndio e [url=glossary:edict]Edital[/url] de Tempestades devastou o Camadas . Esses panos simples foram tratados com ervas protetoras que reduzem o inchaço e a inflamação.</DefaultText>
+      <DefaultText>Envoltórios sobre o rosto cresceram em popularidade depois que [url=glossary:edital]Edital[/url] de [url=glossary:kyros]Kyros[/url] de Incêndio e [url=glossary:edital]Edital[/url] de Tempestades devastou o Camadas . Esses panos simples foram tratados com ervas protetoras que reduzem o inchaço e a inflamação.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7472,7 +7472,7 @@ Assim como os manuscritos atemporais que sobreviveram ao [url=glossary:edict]Edi
     </Entry>
     <Entry>
       <ID>1547</ID>
-      <DefaultText>Isso se assemelha a nada mais do que uma rocha com um pouco de sangue incrustado em sua borda. Dificilmente impressionante, e ainda assim carrega algum significado para o [url=glossary:stonestalker]Perseguidor de Pedras[/url] Tribo.</DefaultText>
+      <DefaultText>Isso se assemelha a nada mais do que uma rocha com um pouco de sangue incrustado em sua borda. Dificilmente impressionante, e ainda assim carrega algum significado para o [url=glossary:perseguidor de pedras]Perseguidor de Pedras[/url] Tribo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7482,7 +7482,7 @@ Assim como os manuscritos atemporais que sobreviveram ao [url=glossary:edict]Edi
     </Entry>
     <Entry>
       <ID>1549</ID>
-      <DefaultText>[url=glossary:tunon]Tunon[/url] é conhecido por recompensar seus alunos por desempenharem suas funções com distinção, ainda que raramente. Este comemora a tomada de [url=glossary:vendrien's well]Poço de Vendrien[/url].</DefaultText>
+      <DefaultText>[url=glossary:tunon]Tunon[/url] é conhecido por recompensar seus alunos por desempenharem suas funções com distinção, ainda que raramente. Este comemora a tomada de [url=glossary:poço de vendrien]Poço de Vendrien[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7552,7 +7552,7 @@ Assim como os manuscritos atemporais que sobreviveram ao [url=glossary:edict]Edi
     </Entry>
     <Entry>
       <ID>1563</ID>
-      <DefaultText>Este pedaço de ferro já foi um item impressionante, mas a exposição prolongada ao [url=glossary:edict]Edital[/url] de Tempestades o desgastou até um ponto irreconhecível.</DefaultText>
+      <DefaultText>Este pedaço de ferro já foi um item impressionante, mas a exposição prolongada ao [url=glossary:edital]Edital[/url] de Tempestades o desgastou até um ponto irreconhecível.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7572,7 +7572,7 @@ Assim como os manuscritos atemporais que sobreviveram ao [url=glossary:edict]Edi
     </Entry>
     <Entry>
       <ID>1567</ID>
-      <DefaultText>Os materiais desta faixa foram cuidadosamente cultivados pelo recluso [url=glossary:sage]Sábio[/url] Kanwar, um ex-estudioso do [url=glossary:vellum citadel]Cidadela de Velino[/url] que foi expulso da Escola de Tinta e Pena por sua práticas não convencionais.</DefaultText>
+      <DefaultText>Os materiais desta faixa foram cuidadosamente cultivados pelo recluso [url=glossary:sábio]Sábio[/url] Kanwar, um ex-estudioso do [url=glossary:cidadela de velino]Cidadela de Velino[/url] que foi expulso da Escola de Tinta e Pena por sua práticas não convencionais.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7622,7 +7622,7 @@ Assim como os manuscritos atemporais que sobreviveram ao [url=glossary:edict]Edi
     </Entry>
     <Entry>
       <ID>1577</ID>
-      <DefaultText>Esta armadura é uma brilhante amálgama de peças outrora finas tiradas do [url=glossary:blade grave]Sepultura de Lâminas[/url] e restauradas à sua antiga glória.</DefaultText>
+      <DefaultText>Esta armadura é uma brilhante amálgama de peças outrora finas tiradas do [url=glossary:sepultura de lâminas]Sepultura de Lâminas[/url] e restauradas à sua antiga glória.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7632,12 +7632,12 @@ Assim como os manuscritos atemporais que sobreviveram ao [url=glossary:edict]Edi
     </Entry>
     <Entry>
       <ID>1579</ID>
-      <DefaultText>Esta armadura leve é ideal para aspirantes a magos que ainda precisam decidir sobre uma área de foco. Mantos semelhantes eram frequentemente atribuídos a recrutas ambiciosos no [url=glossary:vellum citadel]Cidadela de Velino[/url] por um trabalho exemplar.</DefaultText>
+      <DefaultText>Esta armadura leve é ideal para aspirantes a magos que ainda precisam decidir sobre uma área de foco. Mantos semelhantes eram frequentemente atribuídos a recrutas ambiciosos no [url=glossary:cidadela de velino]Cidadela de Velino[/url] por um trabalho exemplar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1580</ID>
-      <DefaultText>A armadura de [url=glossary:bleden mark]Marca de Mistura[/url] é feita de um tecido leve que escorre pelos dedos como água. O material é tão escuro e indescritível que localizar todos os bolsos é uma tarefa adequada apenas ao Arconte das Sombras.</DefaultText>
+      <DefaultText>A armadura de [url=glossary:marca de mistura]Marca de Mistura[/url] é feita de um tecido leve que escorre pelos dedos como água. O material é tão escuro e indescritível que localizar todos os bolsos é uma tarefa adequada apenas ao Arconte das Sombras.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7647,7 +7647,7 @@ Assim como os manuscritos atemporais que sobreviveram ao [url=glossary:edict]Edi
     </Entry>
     <Entry>
       <ID>1582</ID>
-      <DefaultText>A armadura de [url=glossary:the voices of nerat]As vozes de Nerat[/url] é um conjunto de trapos surrados remendados de uma centena de fontes diferentes. Como essas roupas outrora finas sobreviveram ao inferno constante da forma irregular Arconte é desconhecida, mas elas devem ter absorvido o suficiente de seu poder para evitar que fossem totalmente consumidas. Um remendo quase indecifrável no ombro identifica a peça como o uniforme de um Interrogador Real. Uma inspeção mais detalhada revela que o adesivo é feito de pele humana e o selo é uma tatuagem desbotada.</DefaultText>
+      <DefaultText>A armadura de [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] é um conjunto de trapos surrados remendados de uma centena de fontes diferentes. Como essas roupas outrora finas sobreviveram ao inferno constante da forma irregular Arconte é desconhecida, mas elas devem ter absorvido o suficiente de seu poder para evitar que fossem totalmente consumidas. Um remendo quase indecifrável no ombro identifica a peça como o uniforme de um Interrogador Real. Uma inspeção mais detalhada revela que o adesivo é feito de pele humana e o selo é uma tatuagem desbotada.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7662,7 +7662,7 @@ Assim como os manuscritos atemporais que sobreviveram ao [url=glossary:edict]Edi
     </Entry>
     <Entry>
       <ID>1585</ID>
-      <DefaultText>A armadura de [url=glossary:graven ashe]Cinza Esculpida[/url] ostenta um par de gemas azuis e ferragens de qualidade incomparável. Não há selo de um ferreiro em lugar algum, sugerindo que este traje é tão antigo quanto qualquer coisa encontrada nos salões de troféus reais comemorando a conquista do Império do Norte. Tratamentos regulares de óleo contribuíram para a preservação desta adorada relíquia defensiva.</DefaultText>
+      <DefaultText>A armadura de [url=glossary:cinza esculpida]Cinza Esculpida[/url] ostenta um par de gemas azuis e ferragens de qualidade incomparável. Não há selo de um ferreiro em lugar algum, sugerindo que este traje é tão antigo quanto qualquer coisa encontrada nos salões de troféus reais comemorando a conquista do Império do Norte. Tratamentos regulares de óleo contribuíram para a preservação desta adorada relíquia defensiva.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7717,7 +7717,7 @@ Assim como os manuscritos atemporais que sobreviveram ao [url=glossary:edict]Edi
     </Entry>
     <Entry>
       <ID>1596</ID>
-      <DefaultText>As botas de [url=glossary:the voices of nerat]As vozes de Nerat[/url] estão cobertas de poeira e respingadas de velhas manchas de sangue. Runas de fogo brilham ao longo do calcanhar e do dedo do pé, onde o desgaste mais evidente fala de uma longa história passada chutando os outros de uma posição elevada.</DefaultText>
+      <DefaultText>As botas de [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] estão cobertas de poeira e respingadas de velhas manchas de sangue. Runas de fogo brilham ao longo do calcanhar e do dedo do pé, onde o desgaste mais evidente fala de uma longa história passada chutando os outros de uma posição elevada.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7737,7 +7737,7 @@ Assim como os manuscritos atemporais que sobreviveram ao [url=glossary:edict]Edi
     </Entry>
     <Entry>
       <ID>1600</ID>
-      <DefaultText>As botas de [url=glossary:graven ashe]Cinza Esculpida[/url] mostram o desgaste de treinos excessivos e longas marchas evidentes na maioria das armaduras [url=glossary:disfavored]Desfavorecido[/url], mas estas são claramente tratadas com maior devoção. Cinza teve o cuidado de deixar o excesso de umidade ou sujeira obstruir o piso. Os nomes "Amelia" e "Brennix" são esculpidos em cada um dos dedos com ferraduras.</DefaultText>
+      <DefaultText>As botas de [url=glossary:cinza esculpida]Cinza Esculpida[/url] mostram o desgaste de treinos excessivos e longas marchas evidentes na maioria das armaduras [url=glossary:desfavorecido]Desfavorecido[/url], mas estas são claramente tratadas com maior devoção. Cinza teve o cuidado de deixar o excesso de umidade ou sujeira obstruir o piso. Os nomes "Amelia" e "Brennix" são esculpidos em cada um dos dedos com ferraduras.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7772,7 +7772,7 @@ Assim como os manuscritos atemporais que sobreviveram ao [url=glossary:edict]Edi
     </Entry>
     <Entry>
       <ID>1607</ID>
-      <DefaultText>Essas botas de couro e ferro foram usadas pelo oficial [url=glossary:disfavored]Desfavorecido[/url] que ganhou o Batalha de Junção de Armadilhas durante a campanha Robusto. Eles foram recuperados sem seus mestres dias após a primeira rajada de [url=glossary:edict]Edital[/url] de Tempestades.</DefaultText>
+      <DefaultText>Essas botas de couro e ferro foram usadas pelo oficial [url=glossary:desfavorecido]Desfavorecido[/url] que ganhou o Batalha de Junção de Armadilhas durante a campanha Robusto. Eles foram recuperados sem seus mestres dias após a primeira rajada de [url=glossary:edital]Edital[/url] de Tempestades.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7787,7 +7787,7 @@ Assim como os manuscritos atemporais que sobreviveram ao [url=glossary:edict]Edi
     </Entry>
     <Entry>
       <ID>1610</ID>
-      <DefaultText>As luvas de [url=glossary:bleden mark]Marca de Mistura[/url] são extensões naturais das sombras que ele ocupava. Às vezes é difícil contar o número de dedos, que parece mudar com a luz ao redor.</DefaultText>
+      <DefaultText>As luvas de [url=glossary:marca de mistura]Marca de Mistura[/url] são extensões naturais das sombras que ele ocupava. Às vezes é difícil contar o número de dedos, que parece mudar com a luz ao redor.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7802,12 +7802,12 @@ Assim como os manuscritos atemporais que sobreviveram ao [url=glossary:edict]Edi
     </Entry>
     <Entry>
       <ID>1613</ID>
-      <DefaultText>[url=glossary:the voices of nerat]As vozes de Nerat[/url] as luvas surradas ainda estão quentes com o Arconte calor persistente, o que cria uma sensação inquietante ao colocá-las.</DefaultText>
+      <DefaultText>[url=glossary:as vozes de nerat]As Vozes de Nerat[/url] as luvas surradas ainda estão quentes com o Arconte calor persistente, o que cria uma sensação inquietante ao colocá-las.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1614</ID>
-      <DefaultText>Essas luvas estão enegrecidas pelas tentativas de ler manuscritos fumegantes do [url=glossary:burning library]Biblioteca em chamas[/url].</DefaultText>
+      <DefaultText>Essas luvas estão enegrecidas pelas tentativas de ler manuscritos fumegantes do [url=glossary:biblioteca em chamas]Biblioteca em chamas[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7842,7 +7842,7 @@ Assim como os manuscritos atemporais que sobreviveram ao [url=glossary:edict]Edi
     </Entry>
     <Entry>
       <ID>1621</ID>
-      <DefaultText>Essas luvas já foram usadas por um famoso pantomimeiro cuja trupe se movia entre [url=glossary:lethian's crossing]A Travessia de Lethian[/url] e Ápice. Durante uma apresentação, o malabarista ofereceu uma rima alegre sobre [url=glossary:kyros]Kyros[/url], que um oficial presente [url=glossary:disfavored]Desfavorecido[/url] considerou uma infração grave e reivindicou a mão esquerda do malabarista.</DefaultText>
+      <DefaultText>Essas luvas já foram usadas por um famoso pantomimeiro cuja trupe se movia entre [url=glossary:travessia de lethian]Travessia de Lethian[/url] e Ápice. Durante uma apresentação, o malabarista ofereceu uma rima alegre sobre [url=glossary:kyros]Kyros[/url], que um oficial presente [url=glossary:desfavorecido]Desfavorecido[/url] considerou uma infração grave e reivindicou a mão esquerda do malabarista.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7852,7 +7852,7 @@ Assim como os manuscritos atemporais que sobreviveram ao [url=glossary:edict]Edi
     </Entry>
     <Entry>
       <ID>1623</ID>
-      <DefaultText>Capacetes como este são feitos para soldados que querem replicar a resistência da elite [url=glossary:disfavored]Desfavorecido[/url] apesar de quaisquer deficiências que não os recomendem para o serviço com a legião Norte.</DefaultText>
+      <DefaultText>Capacetes como este são feitos para soldados que querem replicar a resistência da elite [url=glossary:desfavorecido]Desfavorecido[/url] apesar de quaisquer deficiências que não os recomendem para o serviço com a legião Norte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7872,7 +7872,7 @@ Assim como os manuscritos atemporais que sobreviveram ao [url=glossary:edict]Edi
     </Entry>
     <Entry>
       <ID>1627</ID>
-      <DefaultText>Este elmo teria pertencido a um capitão conceituado do exército Robustos. A ferrugem e a degradação ao longo de um lado sugerem que foi retirado de uma área devastada pelo [url=glossary:edict]Edital[/url] de Tempestades.</DefaultText>
+      <DefaultText>Este elmo teria pertencido a um capitão conceituado do exército Robustos. A ferrugem e a degradação ao longo de um lado sugerem que foi retirado de uma área devastada pelo [url=glossary:edital]Edital[/url] de Tempestades.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7887,7 +7887,7 @@ Assim como os manuscritos atemporais que sobreviveram ao [url=glossary:edict]Edi
     </Entry>
     <Entry>
       <ID>1630</ID>
-      <DefaultText>Este elmo de pano pertencia a [url=glossary:the voices of nerat]As Vozes de Nerat[/url]. Remendos e sigilos antigos indicam que isso já foi parte de um uniforme oficial. O interior está muito danificado pela exposição a chamas.</DefaultText>
+      <DefaultText>Este elmo de pano pertencia a [url=glossary:as vozes de nerat]As Vozes de Nerat[/url]. Remendos e sigilos antigos indicam que isso já foi parte de um uniforme oficial. O interior está muito danificado pela exposição a chamas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7897,12 +7897,12 @@ Assim como os manuscritos atemporais que sobreviveram ao [url=glossary:edict]Edi
     </Entry>
     <Entry>
       <ID>1632</ID>
-      <DefaultText>Este é o antigo capacete de Hierarca Jespers, mestre ilusionista e líder do Sábios antes que a devastação se abatesse sobre o [url=glossary:vellum citadel]Cidadela de Velino[/url]. Penas de um pássaro raro decoram a testa e parecem torcer na ausência de qualquer brisa.</DefaultText>
+      <DefaultText>Este é o antigo capacete de Hierarca Jespers, mestre ilusionista e líder do Sábios antes que a devastação se abatesse sobre o [url=glossary:cidadela de velino]Cidadela de Velino[/url]. Penas de um pássaro raro decoram a testa e parecem torcer na ausência de qualquer brisa.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1633</ID>
-      <DefaultText>Capuzes como este eram frequentemente oferecidos a acólitos promissores do Escola da Ira Selvagem antes de serem absorvidos pelo [url=glossary:scarlet chorus]Coro Escarlate[/url].</DefaultText>
+      <DefaultText>Capuzes como este eram frequentemente oferecidos a acólitos promissores do Escola da Ira Selvagem antes de serem absorvidos pelo [url=glossary:coro escarlate]Coro Escarlate[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7952,7 +7952,7 @@ Assim como os manuscritos atemporais que sobreviveram ao [url=glossary:edict]Edi
     </Entry>
     <Entry>
       <ID>1643</ID>
-      <DefaultText>As adagas de [url=glossary:bleden mark]Marca de Mistura[/url] são curvas e pretas, como sorrisos largos cheios de dentes podres. À medida que se movem pelo ar, deixam rastros de sombra em seu rastro - embora seja difícil dizer se isso pode ser um truque da luz.</DefaultText>
+      <DefaultText>As adagas de [url=glossary:marca de mistura]Marca de Mistura[/url] são curvas e pretas, como sorrisos largos cheios de dentes podres. À medida que se movem pelo ar, deixam rastros de sombra em seu rastro - embora seja difícil dizer se isso pode ser um truque da luz.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7997,12 +7997,12 @@ Assim como os manuscritos atemporais que sobreviveram ao [url=glossary:edict]Edi
     </Entry>
     <Entry>
       <ID>1652</ID>
-      <DefaultText>Esta adaga de empurrão tem afinidade com a escuridão, levando muitos a acreditar que já foi de propriedade de [url=glossary:bleden mark]Marca de Mistura[/url], Arconte das Sombras. Mesmo essa possibilidade distante fez com que acumulasse poeira sob as vitrines dos comerciantes, pois poucos arriscariam atrair o olhar Arconte comprando seus bens.</DefaultText>
+      <DefaultText>Esta adaga de empurrão tem afinidade com a escuridão, levando muitos a acreditar que já foi de propriedade de [url=glossary:marca de mistura]Marca de Mistura[/url], Arconte das Sombras. Mesmo essa possibilidade distante fez com que acumulasse poeira sob as vitrines dos comerciantes, pois poucos arriscariam atrair o olhar Arconte comprando seus bens.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1653</ID>
-      <DefaultText>Quando uma nobre [url=glossary:bastard city]Cidade bastarda[/url] encomendou uma adaga especial, ela enfatizou que deveria entregar a morte em uma sucessão rápida e inesperada de facadas.
+      <DefaultText>Quando uma nobre [url=glossary:cidade bastarda]Cidade Bastarda[/url] encomendou uma adaga especial, ela enfatizou que deveria entregar a morte em uma sucessão rápida e inesperada de facadas.
 Recuar em seu esquema assassino no último momento rendeu a esta famosa lâmina seu nome, embora os proprietários subsequentes possam não ter demonstrado contenção semelhante.</DefaultText>
       <FemaleText />
     </Entry>
@@ -8028,7 +8028,7 @@ Recuar em seu esquema assassino no último momento rendeu a esta famosa lâmina 
     </Entry>
     <Entry>
       <ID>1658</ID>
-      <DefaultText>Dardos como este são frequentemente atribuídos aos bravos [url=glossary:disfavored]Desfavorecido[/url] soldados à frente de uma falange. Eles fornecem a confiança para avançar contra quaisquer probabilidades, e a ponta farpada pode prender a armadura e desestabilizar os inimigos que avançam.</DefaultText>
+      <DefaultText>Dardos como este são frequentemente atribuídos aos bravos [url=glossary:desfavorecido]Desfavorecido[/url] soldados à frente de uma falange. Eles fornecem a confiança para avançar contra quaisquer probabilidades, e a ponta farpada pode prender a armadura e desestabilizar os inimigos que avançam.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8118,7 +8118,7 @@ Recuar em seu esquema assassino no último momento rendeu a esta famosa lâmina 
     </Entry>
     <Entry>
       <ID>1676</ID>
-      <DefaultText>Este escudo está quase pronto para se dividir ao meio, mas algo além de teimosia o manteve fundido ao longo dos anos. Como uma velha e desgastada sentinela [url=glossary:disfavored]Desfavorecido[/url], ela não desistirá de sua missão a menos que seja formalmente dispensada do dever.</DefaultText>
+      <DefaultText>Este escudo está quase pronto para se dividir ao meio, mas algo além de teimosia o manteve fundido ao longo dos anos. Como uma velha e desgastada sentinela [url=glossary:desfavorecido]Desfavorecido[/url], ela não desistirá de sua missão a menos que seja formalmente dispensada do dever.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8134,7 +8134,7 @@ Sua borda bem cuidada e manchas de sangue persistentes falam de uma história lo
     </Entry>
     <Entry>
       <ID>1679</ID>
-      <DefaultText>lâmina curva e serrilhada de [url=glossary:the voices of nerat]As vozes de Nerat[/url] é elegante apesar de sua aparência perversa.
+      <DefaultText>lâmina curva e serrilhada de [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] é elegante apesar de sua aparência perversa.
 
 Esforço considerável foi feito na uniformidade de cada um dos entalhes semelhantes a dentes, sugerindo a devoção e a intencionalidade de um verdadeiro artista. Mesmo assim, apenas segurar a lâmina o sobrecarrega com a realidade de que este instrumento causou sofrimento em uma escala inimaginável. O nome desta espada sugeriria misericórdia e contenção, mas seria misericórdia abater uma vítima de uma só vez, e a contenção apenas prolongaria o sofrimento na ponta desta lâmina. Melhor entregar a morte rapidamente do que com um toque suave.</DefaultText>
       <FemaleText />
@@ -8252,7 +8252,7 @@ Sem qualquer talento adicional ou significado arcano, este martelo simplesmente 
       <ID>1699</ID>
       <DefaultText>Esta maça permanece unida mais pela persistência obstinada do que pela qualidade artesanal.
 
-Nomeado em homenagem mista ao [url=glossary:vendrien guard]Guarda Vendrien[/url], Oathbreaker é tão robusto e não refinado quanto qualquer coisa trazida para o campo de batalha. Apesar de sua aparência inexpressiva, Oathbreaker é uma arma eficaz, não importa a lealdade de seu portador.</DefaultText>
+Nomeado em homenagem mista ao [url=glossary:guarda vendrien]Guarda Vendrien[/url], Oathbreaker é tão robusto e não refinado quanto qualquer coisa trazida para o campo de batalha. Apesar de sua aparência inexpressiva, Oathbreaker é uma arma eficaz, não importa a lealdade de seu portador.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8267,7 +8267,7 @@ Nomeado em homenagem mista ao [url=glossary:vendrien guard]Guarda Vendrien[/url]
     </Entry>
     <Entry>
       <ID>1702</ID>
-      <DefaultText>Pastor de porcos era originalmente o nome de um [url=glossary:scarlet chorus]Coro Escarlate[/url] recruta que foi para a guerra armado com seu bastão de manipulação de porcos.
+      <DefaultText>Pastor de porcos era originalmente o nome de um [url=glossary:coro escarlate]Coro Escarlate[/url] recruta que foi para a guerra armado com seu bastão de manipulação de porcos.
 
 Depois que ele subiu na hierarquia e se tornou um notável chefe de gangue, Pastor de porcos desistiu de seu nome antigo e jogou sua arma improvisada em uma latrina. Quem a desenterrou e o que aconteceu para tornar essa lança coberta de fezes o raro exemplo de armamento que é hoje é uma incógnita.</DefaultText>
       <FemaleText />
@@ -8373,7 +8373,7 @@ Chamado de Eojah foi mantido pelo Hierarca do efêmero Escola de Casca mosqueada
     <Entry>
       <ID>1719</ID>
       <DefaultText>Esta equipe temperamental foi inspirada nos itens de treinamento usados pelo Escola da Ira Selvagem.
-Suas propriedades de combustão foram usadas como lições de dor e disciplina antes que o Escola fosse absorvido pelo [url=glossary:scarlet chorus]Coro Escarlate[/url]. Agora seus poderes são usados contra os inimigos ao redor.</DefaultText>
+Suas propriedades de combustão foram usadas como lições de dor e disciplina antes que o Escola fosse absorvido pelo [url=glossary:coro escarlate]Coro Escarlate[/url]. Agora seus poderes são usados contra os inimigos ao redor.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8490,7 +8490,7 @@ Os magos usavam esta bengala em uma época em que embalsamar cadáveres parecia 
     </Entry>
     <Entry>
       <ID>1742</ID>
-      <DefaultText>A maioria das luvas de ferro consiste em uma proteção rudimentar sobre os nós dos dedos e uma braçadeira sobre o pulso. Sendo a peça de armadura com mais articulação (e, portanto, a maior complexidade), manoplas dessa qualidade são muito valorizadas como posses e símbolos de status de oficiais de elite. Essas peças são carimbadas com a marca de assinatura Lohara, Mestre da temperagem e as palavras "429 TR, [url=glossary:lethian's crossing]A Travessia de Lethian[/url]. Para o nosso governador."</DefaultText>
+      <DefaultText>A maioria das luvas de ferro consiste em uma proteção rudimentar sobre os nós dos dedos e uma braçadeira sobre o pulso. Sendo a peça de armadura com mais articulação (e, portanto, a maior complexidade), manoplas dessa qualidade são muito valorizadas como posses e símbolos de status de oficiais de elite. Essas peças são carimbadas com a marca de assinatura Lohara, Mestre da temperagem e as palavras "429 TR, [url=glossary:travessia de lethian]Travessia de Lethian[/url]. Para o nosso governador."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8516,19 +8516,19 @@ As luvas emitidas para os agentes de [url=glossary:tunon]Tunon[/url] Tribunal s�
     </Entry>
     <Entry>
       <ID>1746</ID>
-      <DefaultText>Vinculador do Destino de [url=glossary:tunon]Tunon[/url] [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>Vinculador do Destino de [url=glossary:tunon]Tunon[/url] [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1747</ID>
-      <DefaultText>Vinculador do Destino de [url=glossary:tunon]Tunon[/url] [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>Vinculador do Destino de [url=glossary:tunon]Tunon[/url] [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1748</ID>
       <DefaultText>O capacete usado por [url=glossary:tunon]Tunon[/url] Vinculadores do Destino é feito para resistir a condições climáticas extremas.
 
-Como os agentes do Tribunal são propensos a visitar regiões atingidas por [url=glossary:edict]Editais[/url] de [url=glossary:kyros]Kyros[/url], sua vestimenta deve ser resistente e adaptável por necessidade. O couro protege a cabeça de danos enquanto isola contra o frio, mas oferece espaço suficiente para respirar em ambientes de calor extremo.</DefaultText>
+Como os agentes do Tribunal são propensos a visitar regiões atingidas por [url=glossary:edital]Editais[/url] de [url=glossary:kyros]Kyros[/url], sua vestimenta deve ser resistente e adaptável por necessidade. O couro protege a cabeça de danos enquanto isola contra o frio, mas oferece espaço suficiente para respirar em ambientes de calor extremo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8603,17 +8603,17 @@ Como os agentes do Tribunal são propensos a visitar regiões atingidas por [url
     </Entry>
     <Entry>
       <ID>1763</ID>
-      <DefaultText>[url=glossary:bronze brotherhood]Irmandade de Bronze[/url] Mapa</DefaultText>
+      <DefaultText>[url=glossary:irmandade de bronze]Irmandade de Bronze[/url] Mapa</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1764</ID>
-      <DefaultText>Este mapa contém as localizações de vários campos [url=glossary:bronze brotherhood]Irmandade de Bronze[/url], incluindo Deserter's March e um lugar perto do Muralhas Antigas chamado Rios gêmeos.</DefaultText>
+      <DefaultText>Este mapa contém as localizações de vários campos [url=glossary:irmandade de bronze]Irmandade de Bronze[/url], incluindo Deserter's March e um lugar perto do Muralhas Antigas chamado Rios gêmeos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1765</ID>
-      <DefaultText>Maltratado [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>Maltratado [url=glossary:irmandade de bronze]Irmandade de Bronze[/url] [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8633,44 +8633,44 @@ Como os agentes do Tribunal são propensos a visitar regiões atingidas por [url
     </Entry>
     <Entry>
       <ID>1769</ID>
-      <DefaultText>Primeiro [url=glossary:sage]Sábio[/url] Diretrizes de Arwel</DefaultText>
+      <DefaultText>Primeiro [url=glossary:sábio]Sábio[/url] Diretrizes de Arwel</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1770</ID>
-      <DefaultText>[url=glossary:sage]Sábio[/url] Torven,
+      <DefaultText>[url=glossary:sábio]Sábio[/url] Torven,
 
 exército de [url=glossary:kyros]Kyros[/url] foram rejeitados por enquanto, mas é apenas uma vitória temporária. Não tenho dúvidas de que podemos segurar essas paredes por muito mais tempo, mas você deve se lembrar que o soberano não visa massacrar os guardiões do Cidadela, mas destruir seus segredos. [url=glossary:kyros]Kyros[/url] não é onipotente. Seus poderes podem ser conhecidos e compreendidos com o tempo, e ela teme com razão o conhecimento que acumulamos aqui.
 
 O Arquivo Silencioso deve ser protegido. Não há biblioteca no Camadas que seja igual! Nada mais importa. Nada. Podemos não conhecer os planos da soberano, mas, com tempo e pesquisa, podemos contornar qualquer um de seus projetos. Preciso que você garanta que teremos esse tempo quando for o momento certo.
 
-Concentre seus esforços nas incursões teóricas de [url=glossary:sage]Sábio[/url] Steya na magia temporal. Embora tivéssemos razão em negar experimentos tão perigosos antes, agora é o momento em que seus riscos são justificados. Reúna os Sábios Anciões e vá para as câmaras inferiores. Você deve permanecer lá até encontrar uma solução para o problema de escala de Steya. Interromper o fluxo do tempo em uma única câmara não será suficiente se [url=glossary:kyros]Kyros[/url] nos afogar em uma tempestade ou arremessar esta biblioteca no firmamento. Você deve encontrar uma maneira de envolver todos os Cidadela em tal feitiço, caso ocorra um desastre.
+Concentre seus esforços nas incursões teóricas de [url=glossary:sábio]Sábio[/url] Steya na magia temporal. Embora tivéssemos razão em negar experimentos tão perigosos antes, agora é o momento em que seus riscos são justificados. Reúna os Sábios Anciões e vá para as câmaras inferiores. Você deve permanecer lá até encontrar uma solução para o problema de escala de Steya. Interromper o fluxo do tempo em uma única câmara não será suficiente se [url=glossary:kyros]Kyros[/url] nos afogar em uma tempestade ou arremessar esta biblioteca no firmamento. Você deve encontrar uma maneira de envolver todos os Cidadela em tal feitiço, caso ocorra um desastre.
 
 Seu sucesso não é opcional. Esta biblioteca será uma memória distante se [url=glossary:kyros]Kyros[/url] conseguir. Se nós dois sobrevivermos, ficarei feliz em parabenizá-lo por sua descoberta. Até lá, mãos à obra.
 
--Primeiro [url=glossary:sage]Sábio[/url] Arwel</DefaultText>
+-Primeiro [url=glossary:sábio]Sábio[/url] Arwel</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1771</ID>
-      <DefaultText>[url=glossary:sage]Sábio[/url] Notas de Torven</DefaultText>
+      <DefaultText>[url=glossary:sábio]Sábio[/url] Notas de Torven</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1772</ID>
-      <DefaultText>[url=glossary:sage]Sábio[/url] Litotes,
+      <DefaultText>[url=glossary:sábio]Sábio[/url] Litotes,
 
 Não podemos ajudá-lo com o zumbido em seus ouvidos ainda, então teremos que nos virar até que o conflito termine. Sim, Arwel foi muito explícito em suas diretrizes. Sei que parecem impossíveis, mas essa é a situação que enfrentamos. Todos que puderam interpretar o Arquivo Silencioso morreram no ataque de ontem à noite, então não estamos recebendo nenhuma assistência neste assunto. agradecidamente, eu tenho uma ideia, que requer a participação de todos.
 
-A questão é a escala. Os últimos experimentos de Steya afetaram apenas uma pequena câmara. Acredito que podemos amplificar os efeitos do feitiço repetindo os movimentos de seus sigilos como um grupo, semelhante à magia “ritual” usada em culturas primitivas anteriores ao Homens dos Caminhos moderno. [url=glossary:sage]Sábio[/url] Particípio Pendurado acredita que isso criará um crescimento exponencial nos efeitos do feitiço, mas a um custo esperado para a estabilidade. Estou inclinado a concordar. Também, não temos outras idéias.
+A questão é a escala. Os últimos experimentos de Steya afetaram apenas uma pequena câmara. Acredito que podemos amplificar os efeitos do feitiço repetindo os movimentos de seus sigilos como um grupo, semelhante à magia “ritual” usada em culturas primitivas anteriores ao Homens dos Caminhos moderno. [url=glossary:sábio]Sábio[/url] Particípio Pendurado acredita que isso criará um crescimento exponencial nos efeitos do feitiço, mas a um custo esperado para a estabilidade. Estou inclinado a concordar. Também, não temos outras idéias.
 
 Ninguém mais aqui tem sua experiência em focos mágicos. Você me disse inúmeras vezes como bugigangas menores podem ter um efeito de nivelamento profundo em feitiços que excedem o controle de seus conjuradores. E se usássemos algo tão poderoso quanto um artefato como foco do ritual? Sem um, as energias envolvidas rapidamente se tornarão caóticas e quase certamente mortais para todos nós. Pelo menos com um artefato, há uma chance do feitiço de Steya abranger toda a Cidadela e colocá-la em estado de estase.
 
-Na minha opinião, há apenas um artefato para usar e esse é o próprio Arquivo Silencioso. É claramente o objeto mais potente nesta sala. [url=glossary:sage]Sábio[/url] Particípio Pendurado acredita que o Pessoal de horas será suficiente, mas não vou deixar nada ao acaso. É melhor usarmos o Arquivo Silencioso como nosso foco agora e descobrir como recuperá-lo com segurança mais tarde. Acene com a cabeça se você concordar depois de ler isso.
+Na minha opinião, há apenas um artefato para usar e esse é o próprio Arquivo Silencioso. É claramente o objeto mais potente nesta sala. [url=glossary:sábio]Sábio[/url] Particípio Pendurado acredita que o Pessoal de horas será suficiente, mas não vou deixar nada ao acaso. É melhor usarmos o Arquivo Silencioso como nosso foco agora e descobrir como recuperá-lo com segurança mais tarde. Acene com a cabeça se você concordar depois de ler isso.
 
 Eu realmente espero que aquela explosão não tenha tirado sua visão também.
 
--[url=glossary:sage]Sábio[/url] Torven</DefaultText>
+-[url=glossary:sábio]Sábio[/url] Torven</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8730,7 +8730,7 @@ Eu realmente espero que aquela explosão não tenha tirado sua visão também.
     </Entry>
     <Entry>
       <ID>1820</ID>
-      <DefaultText>[url=glossary:frozen]Congeladas[/url] Sentinela</DefaultText>
+      <DefaultText>[url=glossary:congeladas]Congeladas[/url] Sentinela</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8760,7 +8760,7 @@ Eu realmente espero que aquela explosão não tenha tirado sua visão também.
     </Entry>
     <Entry>
       <ID>1826</ID>
-      <DefaultText>[url=glossary:forge-bound]Vinculado à Forja[/url] [url=glossary:armor]armaduras[/url] Fragmento</DefaultText>
+      <DefaultText>[url=glossary:forge-bound]Vinculado à Forja[/url] [url=glossary:armadura]Armadura[/url] Fragmento</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8772,7 +8772,7 @@ Eu realmente espero que aquela explosão não tenha tirado sua visão também.
       <ID>1828</ID>
       <DefaultText>Este machado possui uma lâmina de ferro escuro afiadamente afiada em um cabo de bronze. Impresso com o sigilo de Pox, Arconte da Ruína, a cabeça da arma parece desagradavelmente fria ao toque e pulsa com um brilho fraco e doentio.
 
-Embora você tenha encontrado esta arma abandonada na barriga de um cadáver no [url=glossary:blade grave]Sepultura de Lâminas[/url], você suspeita que ele tenha ido para o sul das terras de [url=glossary:kyros]Kyros[/url], onde as armas de ferro têm um uso muito mais amplo.</DefaultText>
+Embora você tenha encontrado esta arma abandonada na barriga de um cadáver no [url=glossary:sepultura de lâminas]Sepultura de Lâminas[/url], você suspeita que ele tenha ido para o sul das terras de [url=glossary:kyros]Kyros[/url], onde as armas de ferro têm um uso muito mais amplo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8787,7 +8787,7 @@ Embora você tenha encontrado esta arma abandonada na barriga de um cadáver no 
     </Entry>
     <Entry>
       <ID>1831</ID>
-      <DefaultText>Você suspeita que o [url=glossary:stonestalker]Perseguidor de Pedras[/url] de quem você pegou essa lança a reivindicou de um inimigo [url=glossary:disfavored]Desfavorecido[/url]. A cabeça viciosamente trabalhada possui uma seção transversal triangular torcida para mutilação máxima, e pequenas calhas ao longo do metal canalizam o sangue para longe das garras.</DefaultText>
+      <DefaultText>Você suspeita que o [url=glossary:perseguidor de pedras]Perseguidor de Pedras[/url] de quem você pegou essa lança a reivindicou de um inimigo [url=glossary:desfavorecido]Desfavorecido[/url]. A cabeça viciosamente trabalhada possui uma seção transversal triangular torcida para mutilação máxima, e pequenas calhas ao longo do metal canalizam o sangue para longe das garras.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8797,19 +8797,19 @@ Embora você tenha encontrado esta arma abandonada na barriga de um cadáver no 
     </Entry>
     <Entry>
       <ID>1833</ID>
-      <DefaultText>morte de [url=glossary:iron guard]Guarda de Ferro[/url] Icaela em Palorian's Rise acabou com qualquer esperança de que os defensores de Robusto fossem facilmente esmagados pelos [url=glossary:graven ashe]Cinza Esculpida[/url] [url=glossary:disfavored]Desfavorecido[/url] Legião. À medida que a campanha parou por causa do Período seguinte, todas as tentativas de recuperar o cadáver e os armamentos de de Icaela falharam embaraçosamente.
+      <DefaultText>morte de [url=glossary:guarda de ferro]Guarda de Ferro[/url] Icaela em Palorian's Rise acabou com qualquer esperança de que os defensores de Robusto fossem facilmente esmagados pelos [url=glossary:cinza esculpida]Cinza Esculpida[/url] [url=glossary:desfavorecido]Desfavorecido[/url] Legião. À medida que a campanha parou por causa do Período seguinte, todas as tentativas de recuperar o cadáver e os armamentos de de Icaela falharam embaraçosamente.
 
-A [url=glossary:disfavored]Desfavorecido[/url] contou esta enorme espada, encomendada por Cinza e nomeado para o reservatório central de mercúrio contido dentro de seu ferro dobrado, principal entre as perdas. Algum truque da gravidade permite que essa lâmina atinja significativamente mais forte do que sua massa sugeriria, e os aprimoramentos alquímicos do [url=glossary:forge-bound]Vinculado à Forja[/url] concedem à lâmina afiada de ferro uma parte da toxicidade do mercúrio.</DefaultText>
+A [url=glossary:desfavorecido]Desfavorecido[/url] contou esta enorme espada, encomendada por Cinza e nomeado para o reservatório central de mercúrio contido dentro de seu ferro dobrado, principal entre as perdas. Algum truque da gravidade permite que essa lâmina atinja significativamente mais forte do que sua massa sugeriria, e os aprimoramentos alquímicos do [url=glossary:forge-bound]Vinculado à Forja[/url] concedem à lâmina afiada de ferro uma parte da toxicidade do mercúrio.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1834</ID>
-      <DefaultText>Faixas de bronze manchado unem este escudo de linwood carbonizado. Embora você tenha recebido de um legionário [url=glossary:disfavored]Desfavorecido[/url] no Terrenos Contestados, os materiais e sigilos impressos sugerem uma origem dentro do Camadas. Apesar de estar enegrecida e deformada, possivelmente pelo [url=glossary:edict]Edital[/url] do próprio Incêndio, a madeira permanece incrivelmente durável. Talvez devido à força arcana do soberano, o escudo permanece quente ao toque, dando um toque de vigor abrasador ao seu portador.</DefaultText>
+      <DefaultText>Faixas de bronze manchado unem este escudo de linwood carbonizado. Embora você tenha recebido de um legionário [url=glossary:desfavorecido]Desfavorecido[/url] no Terrenos Contestados, os materiais e sigilos impressos sugerem uma origem dentro do Camadas. Apesar de estar enegrecida e deformada, possivelmente pelo [url=glossary:edital]Edital[/url] do próprio Incêndio, a madeira permanece incrivelmente durável. Talvez devido à força arcana do soberano, o escudo permanece quente ao toque, dando um toque de vigor abrasador ao seu portador.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1835</ID>
-      <DefaultText>Enquanto as fileiras de [url=glossary:graven ashe]Cinza Esculpida[/url] e [url=glossary:disfavored]Desfavorecido[/url] têm a reputação de buscar a morte gloriosa em combate, o Tremedor de Terra Sentorum não temia mais nada. Sentorum requisitou este escudo de torre de ferro e teceu nele potentes encantamentos que fortaleceriam seus sigilos e iluminariam o baluarte em momentos de perigo mortal.
+      <DefaultText>Enquanto as fileiras de [url=glossary:cinza esculpida]Cinza Esculpida[/url] e [url=glossary:desfavorecido]Desfavorecido[/url] têm a reputação de buscar a morte gloriosa em combate, o Tremedor de Terra Sentorum não temia mais nada. Sentorum requisitou este escudo de torre de ferro e teceu nele potentes encantamentos que fortaleceriam seus sigilos e iluminariam o baluarte em momentos de perigo mortal.
 
 Enquanto o escudo poupava Sentorum de habitante do Camadas falsos e Mulher-Besta garras, não lhe ofereceu proteção contra a insuficiência cardíaca que tirou sua vida em um banheiro externo Azure.</DefaultText>
       <FemaleText />
@@ -8855,7 +8855,7 @@ Esse selo sempre parece um pouco sujo e empresta à pele de quem o carrega um as
     </Entry>
     <Entry>
       <ID>1843</ID>
-      <DefaultText>Conhecido por seu excepcional olho para detalhes, o [url=glossary:sage]Sábio[/url] Davidian trabalhou nos scriptoriums do [url=glossary:vellum citadel]Cidadela de Velino[/url] dois séculos e meio atrás. Ao longo dos anos, longas horas entre os textos enfraqueceram sua visão, e ele usou sua notável compreensão da geometria para criar essa lente maravilhosa que ajudou a compensar sua visão cada vez menor.</DefaultText>
+      <DefaultText>Conhecido por seu excepcional olho para detalhes, o [url=glossary:sábio]Sábio[/url] Davidian trabalhou nos scriptoriums do [url=glossary:cidadela de velino]Cidadela de Velino[/url] dois séculos e meio atrás. Ao longo dos anos, longas horas entre os textos enfraqueceram sua visão, e ele usou sua notável compreensão da geometria para criar essa lente maravilhosa que ajudou a compensar sua visão cada vez menor.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8875,12 +8875,12 @@ Esse selo sempre parece um pouco sujo e empresta à pele de quem o carrega um as
     </Entry>
     <Entry>
       <ID>1847</ID>
-      <DefaultText>Forradas com penugem [url=glossary:flightless]flightless[/url] e paralelepípedos de pele e couro, estas botas macias proporcionam calor e conforto excepcionais. Um pouco pesado para uso no Camadas, este calçado provavelmente encontrou seu caminho para o sul durante o Conquista.</DefaultText>
+      <DefaultText>Forradas com penugem [url=glossary:sem vôo]Sem vôo[/url] e paralelepípedos de pele e couro, estas botas macias proporcionam calor e conforto excepcionais. Um pouco pesado para uso no Camadas, este calçado provavelmente encontrou seu caminho para o sul durante o Conquista.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1848</ID>
-      <DefaultText>O otimismo caloroso de [url=glossary:sage]Sábio[/url] Kailor lhe rendeu muitos amigos nas pilhas de [url=glossary:vellum citadel]Cidadela de Velino[/url], mas também o condenou. Uma das principais vozes contrárias à aceitação da regra de [url=glossary:kyros]Kyros[/url], Kailor acreditava que o conhecimento acumulado pelo Escola de tinta e pena era um tesouro muito grande para o soberano arriscar emitindo um [url=glossary:edict]Edital [/url] contra a grande biblioteca.
+      <DefaultText>O otimismo caloroso de [url=glossary:sábio]Sábio[/url] Kailor lhe rendeu muitos amigos nas pilhas de [url=glossary:cidadela de velino]Cidadela de Velino[/url], mas também o condenou. Uma das principais vozes contrárias à aceitação da regra de [url=glossary:kyros]Kyros[/url], Kailor acreditava que o conhecimento acumulado pelo Escola de tinta e pena era um tesouro muito grande para o soberano arriscar emitindo um [url=glossary:edital]Edital[/url] contra a grande biblioteca.
 
 Embora Kailor não tenha sido visto desde a destruição do Cidadela, seu chapéu favorito, tricotado por suas próprias mãos, chegou às suas mãos.</DefaultText>
       <FemaleText />
@@ -8956,7 +8956,7 @@ Você não misturou essa gosma espessa e pungente, mas a coletou de bagas Brotan
     </Entry>
     <Entry>
       <ID>1863</ID>
-      <DefaultText>Lâmina hábil [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>Lâmina hábil [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8971,7 +8971,7 @@ Você não misturou essa gosma espessa e pungente, mas a coletou de bagas Brotan
     </Entry>
     <Entry>
       <ID>1868</ID>
-      <DefaultText>Sentinela [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>Sentinela [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8991,7 +8991,7 @@ Você não misturou essa gosma espessa e pungente, mas a coletou de bagas Brotan
     </Entry>
     <Entry>
       <ID>1872</ID>
-      <DefaultText>Instantâneo [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>Instantâneo [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9006,7 +9006,7 @@ Você não misturou essa gosma espessa e pungente, mas a coletou de bagas Brotan
     </Entry>
     <Entry>
       <ID>1884</ID>
-      <DefaultText>Este grande broche apresenta proeminentemente um pedaço de âmbar notavelmente claro contendo um [url=glossary:chrysalis]Crisálida[/url] de asas brilhantes, um inseto comum ao Camadas. Uma inspeção cuidadosa revela sigilos de cura gravados levemente na resina solidificada.</DefaultText>
+      <DefaultText>Este grande broche apresenta proeminentemente um pedaço de âmbar notavelmente claro contendo um [url=glossary:crisálida]Crisálida[/url] de asas brilhantes, um inseto comum ao Camadas. Uma inspeção cuidadosa revela sigilos de cura gravados levemente na resina solidificada.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9026,7 +9026,7 @@ Você não misturou essa gosma espessa e pungente, mas a coletou de bagas Brotan
     </Entry>
     <Entry>
       <ID>1984</ID>
-      <DefaultText>Escaramuça [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>Escaramuça [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9036,7 +9036,7 @@ Você não misturou essa gosma espessa e pungente, mas a coletou de bagas Brotan
     </Entry>
     <Entry>
       <ID>1986</ID>
-      <DefaultText>Escuteiro de Navalha [url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>Escuteiro de Navalha [url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9091,7 +9091,7 @@ Você não misturou essa gosma espessa e pungente, mas a coletou de bagas Brotan
     </Entry>
     <Entry>
       <ID>1997</ID>
-      <DefaultText>[url=glossary:armor]armaduras[/url] como este é favorecido por ladrões que fazem uma fuga ousada. Bolsos profundos costurados com acolchoamento espesso permitem que os anéis viajem sem tilintar, e o tecido é adaptado com flexibilidade em mente. A liberdade de movimento oferece ao cutpurse espaço para atacar inesperadamente, visando as fragilidades de um oponente para uma morte eficiente.</DefaultText>
+      <DefaultText>[url=glossary:armadura]Armadura[/url] como este é favorecido por ladrões que fazem uma fuga ousada. Bolsos profundos costurados com acolchoamento espesso permitem que os anéis viajem sem tilintar, e o tecido é adaptado com flexibilidade em mente. A liberdade de movimento oferece ao cutpurse espaço para atacar inesperadamente, visando as fragilidades de um oponente para uma morte eficiente.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

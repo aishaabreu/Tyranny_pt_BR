@@ -137,22 +137,22 @@ Você vasculha as vestes dela, descobrindo um pequeno pacote de pergaminho. É p
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"[Player Name], conheça [url=glossary:sage]Sábio[/url] Antígnia," Lantry avança para apresentar vocês dois, "Tig, conheça Vinculador do Destino [Player Name] ." Ele oferece a ela uma reverência curta. "Desculpe, eu não te reconheci no começo, mas eu você mudou seu cabelo e em minha defesa, eu não estou totalmente sóbrio."</DefaultText>
+      <DefaultText>"[Player Name], conheça [url=glossary:sábio]Sábio[/url] Antígnia," Lantry avança para apresentar vocês dois, "Tig, conheça Vinculador do Destino [Player Name] ." Ele oferece a ela uma reverência curta. "Desculpe, eu não te reconheci no começo, mas eu você mudou seu cabelo e em minha defesa, eu não estou totalmente sóbrio."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Eu sou Antígnia, [url=glossary:sage]Sábio[/url] do Escola de pena e tinta," ela anuncia formalmente, endireitando-se levemente com a afirmação. Ela esvazia imediatamente. "Ou era, antes dos problemas no [url=glossary:vellum citadel]Cidadela de Velino[/url]."</DefaultText>
+      <DefaultText>"Eu sou Antígnia, [url=glossary:sábio]Sábio[/url] do Escola de pena e tinta," ela anuncia formalmente, endireitando-se levemente com a afirmação. Ela esvazia imediatamente. "Ou era, antes dos problemas no [url=glossary:cidadela de velino]Cidadela de Velino[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"E eu não te reconheci porque pensei que você seria um monte de cinzas! Isso é bom ver que você escapou do [url=glossary:edict]Edital[/url] e está inteiro." Ela acena com a cabeça em sua direção. "Será que o Vinculador do Destino prender você? Eu pegar você sendo levado para Tribunal?"</DefaultText>
+      <DefaultText>"E eu não te reconheci porque pensei que você seria um monte de cinzas! Isso é bom ver que você escapou do [url=glossary:edital]Edital[/url] e está inteiro." Ela acena com a cabeça em sua direção. "Será que o Vinculador do Destino prender você? Eu pegar você sendo levado para Tribunal?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Não exatamente, mas estou seguindo as ordens Vinculadores do Destino - é tudo o que você precisa saber." Lantry aponta para o [url=glossary:sage]Sábio[/url]. "Antígnia trabalhou do outro lado do Cidadela de mim, mas eu a conheço há muito tempo. Ela é boa gente - na maioria das vezes inofensiva."</DefaultText>
+      <DefaultText>"Não exatamente, mas estou seguindo as ordens Vinculadores do Destino - é tudo o que você precisa saber." Lantry aponta para o [url=glossary:sábio]Sábio[/url]. "Antígnia trabalhou do outro lado do Cidadela de mim, mas eu a conheço há muito tempo. Ela é boa gente - na maioria das vezes inofensiva."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -167,7 +167,7 @@ Você vasculha as vestes dela, descobrindo um pequeno pacote de pergaminho. É p
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Quero dizer, ainda sou Antígnia. Só não é mais uma [url=glossary:sage]Sábio[/url]." Ela franze a testa. "Ou talvez eu não seja mais Antígnia, sendo esse o nome que escolhi quando terminei meu aprendizado." Ela dá de ombros. "Acho que ainda estou descobrindo exatamente como tudo se encaixa agora."</DefaultText>
+      <DefaultText>"Quero dizer, ainda sou Antígnia. Só não é mais uma [url=glossary:sábio]Sábio[/url]." Ela franze a testa. "Ou talvez eu não seja mais Antígnia, sendo esse o nome que escolhi quando terminei meu aprendizado." Ela dá de ombros. "Acho que ainda estou descobrindo exatamente como tudo se encaixa agora."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -212,7 +212,7 @@ Você vasculha as vestes dela, descobrindo um pequeno pacote de pergaminho. É p
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Você está ciente de que o Soberano me fez emitir o [url=glossary:edict]Edital[/url] de Fire por um motivo, correto? Que posse de Conhecimento Proibido é uma ofensa punível?"</DefaultText>
+      <DefaultText>"Você está ciente de que o Soberano me fez emitir o [url=glossary:edital]Edital[/url] de Fire por um motivo, correto? Que posse de Conhecimento Proibido é uma ofensa punível?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -242,7 +242,7 @@ Você vasculha as vestes dela, descobrindo um pequeno pacote de pergaminho. É p
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>"Mas, uh, eu - " a [url=glossary:sage]Sábio[/url] gagueja, de repente achando seus pés intensamente interessantes. "Certamente nem TUDO no [url=glossary:vellum citadel]Cidadela de Velino[/url] foi proibido. Quero dizer, nem todo conhecimento é mau, certo?"</DefaultText>
+      <DefaultText>"Mas, uh, eu - " a [url=glossary:sábio]Sábio[/url] gagueja, de repente achando seus pés intensamente interessantes. "Certamente nem TUDO no [url=glossary:cidadela de velino]Cidadela de Velino[/url] foi proibido. Quero dizer, nem todo conhecimento é mau, certo?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -327,7 +327,7 @@ Você vasculha as vestes dela, descobrindo um pequeno pacote de pergaminho. É p
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Lantry apresenta a mulher como [url=glossary:sage]Sábio[/url] Antígnia, e ela admite que fugiu do [url=glossary:burning library]Biblioteca em chamas[/url] com alguns restos que agora deseja vender para pagar sua passagem pelo Camadas.</DefaultText>
+      <DefaultText>Lantry apresenta a mulher como [url=glossary:sábio]Sábio[/url] Antígnia, e ela admite que fugiu do [url=glossary:biblioteca em chamas]Biblioteca em chamas[/url] com alguns restos que agora deseja vender para pagar sua passagem pelo Camadas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -372,17 +372,17 @@ Você vasculha as vestes dela, descobrindo um pequeno pacote de pergaminho. É p
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Ela balança a cabeça. "Não. Eu tenho que ir para outro lugar. Em algum lugar seguro. Afaste-se de tudo isso." Ela gesticula vagamente em direção às [url=glossary:edict]Edital[/url] torres de pedra que se projetam da terra e pontuadas por depósitos pulsantes de cristal roxo.</DefaultText>
+      <DefaultText>Ela balança a cabeça. "Não. Eu tenho que ir para outro lugar. Em algum lugar seguro. Afaste-se de tudo isso." Ela gesticula vagamente em direção às [url=glossary:edital]Edital[/url] torres de pedra que se projetam da terra e pontuadas por depósitos pulsantes de cristal roxo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>Ela pisca entorpecida enquanto você se afasta, deixando-a atrás de você na poeira do [url=glossary:stone sea]Mar de Pedra[/url].</DefaultText>
+      <DefaultText>Ela pisca entorpecida enquanto você se afasta, deixando-a atrás de você na poeira do [url=glossary:mar de pedra]Mar de Pedra[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Obrigada por sua clemência, Vinculador do Destino." Ela morde o lábio inferior, então vasculha rapidamente sua bolsa e tira um maço enrolado de pergaminho seco. "Isso é por conta da casa. Em agradecimento por sua misericórdia." Depois de lhe entregar o pergaminho, ela se arrasta para o pó do [url=glossary:stone sea]Mar de Pedra[/url].</DefaultText>
+      <DefaultText>"Obrigada por sua clemência, Vinculador do Destino." Ela morde o lábio inferior, então vasculha rapidamente sua bolsa e tira um maço enrolado de pergaminho seco. "Isso é por conta da casa. Em agradecimento por sua misericórdia." Depois de lhe entregar o pergaminho, ela se arrasta para o pó do [url=glossary:mar de pedra]Mar de Pedra[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

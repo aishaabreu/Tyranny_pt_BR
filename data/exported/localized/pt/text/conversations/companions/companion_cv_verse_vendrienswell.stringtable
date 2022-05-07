@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Tente me pegar, verme!" Um jovem [url=lore:scarlet_fury]Fúria Escarlate[/url] contorna os atacantes [url=glossary:vendrien guard]Guarda Vendrien[/url], evitando suas armas com graça fluida. Ela acena para reconhecer você.</DefaultText>
+      <DefaultText>"Tente me pegar, verme!" Um jovem [url=lore:scarlet_fury]Fúria Escarlate[/url] contorna os atacantes [url=glossary:guarda vendrien]Guarda Vendrien[/url], evitando suas armas com graça fluida. Ela acena para reconhecer você.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Para o Reino de Apex, carga!" Os [url=glossary:vendrien guard]Guarda Vendrien[/url] nivelam suas armas e avançam.</DefaultText>
+      <DefaultText>"Para o Reino de Apex, carga!" Os [url=glossary:guarda vendrien]Guarda Vendrien[/url] nivelam suas armas e avançam.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,7 +46,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Você está dispensado, soldado. Se eu precisar de você, encontrarei você no acampamento [url=glossary:scarlet chorus]Coro Escarlate[/url]."</DefaultText>
+      <DefaultText>"Você está dispensado, soldado. Se eu precisar de você, encontrarei você no acampamento [url=glossary:coro escarlate]Coro Escarlate[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,12 +56,12 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Faça do seu jeito! Se você preferir enfrentar o [url=glossary:vendrien guard]Guarda Vendrien[/url] com a traseira exposta, não é da minha conta."</DefaultText>
+      <DefaultText>"Faça do seu jeito! Se você preferir enfrentar o [url=glossary:guarda vendrien]Guarda Vendrien[/url] com a traseira exposta, não é da minha conta."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] me disse para interceptá-lo em Ruínas de borda antes que você se ocupasse em resolver todos os problemas do acampamento. Acho que cheguei tarde demais." Ela sorri.</DefaultText>
+      <DefaultText>"[url=glossary:as vozes de nerat]As Vozes de Nerat[/url] me disse para interceptá-lo em Ruínas de borda antes que você se ocupasse em resolver todos os problemas do acampamento. Acho que cheguei tarde demais." Ela sorri.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,12 +71,12 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Por que os [url=glossary:vendrien guard]Guarda Vendrien[/url] estão atacando agora?"</DefaultText>
+      <DefaultText>"Por que os [url=glossary:guarda vendrien]Guarda Vendrien[/url] estão atacando agora?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Meu palpite? Os [url=glossary:vendrien guard]Guarda Vendrien[/url] estão testando nossa força na batalha - aprendendo como nos comportamos antes de organizar uma ofensiva real. Isso ou eles estão muito, muito desesperados para ir além das montanhas e mal podiam esperar até o anoitecer."</DefaultText>
+      <DefaultText>"Meu palpite? Os [url=glossary:guarda vendrien]Guarda Vendrien[/url] estão testando nossa força na batalha - aprendendo como nos comportamos antes de organizar uma ofensiva real. Isso ou eles estão muito, muito desesperados para ir além das montanhas e mal podiam esperar até o anoitecer."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,7 +111,7 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Para [url=glossary:the voices of nerat]As Vozes de Nerat[/url]!" Versículo franze a testa e se concentra na batalha que está por vir.</DefaultText>
+      <DefaultText>"Para [url=glossary:as vozes de nerat]As Vozes de Nerat[/url]!" Versículo franze a testa e se concentra na batalha que está por vir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,7 +121,7 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] me disse que você veio como mediador. Considerando a fonte... bem, não posso deixar de sentir que estou ouvindo apenas metade da história. Então vamos lançá-lo. O que há de tão especial em você?"</DefaultText>
+      <DefaultText>"[url=glossary:as vozes de nerat]As Vozes de Nerat[/url] me disse que você veio como mediador. Considerando a fonte... bem, não posso deixar de sentir que estou ouvindo apenas metade da história. Então vamos lançá-lo. O que há de tão especial em você?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -136,7 +136,7 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"O que mais [url=glossary:the voices of nerat]As Vozes de Nerat[/url] lhe disse?"</DefaultText>
+      <DefaultText>"O que mais [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] lhe disse?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -156,12 +156,12 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Estou aqui para entregar um [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <DefaultText>"Estou aqui para entregar um [url=glossary:edital]Edital[/url] de [url=glossary:kyros]Kyros[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Isso faz um sentido maluco. Considerando quanto tempo o cerco carregou os exércitos, posso entender por que [url=glossary:kyros]Kyros[/url] o enviaria com um [url=glossary:edict]Edital[/url] para acelerar as coisas. Você leu isso? Você sabe o que diz?"</DefaultText>
+      <DefaultText>"Isso faz um sentido maluco. Considerando quanto tempo o cerco carregou os exércitos, posso entender por que [url=glossary:kyros]Kyros[/url] o enviaria com um [url=glossary:edital]Edital[/url] para acelerar as coisas. Você leu isso? Você sabe o que diz?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -191,7 +191,7 @@
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"[url=glossary:the voices of nerat]As Vozes de Nerat[/url] pediu para você me espionar?"</DefaultText>
+      <DefaultText>"[url=glossary:as vozes de nerat]As Vozes de Nerat[/url] pediu para você me espionar?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -201,7 +201,7 @@
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Nós vamos, você está surpreso? Ele é o Arconte dos Segredos. Saber com antecedência é o seu negócio. Assim como obter qualquer vantagem sobre [url=glossary:graven ashe]Cinza Esculpida[/url]. Esses dois competem como dois novos recrutas por um lugar ao redor da fogueira."</DefaultText>
+      <DefaultText>"Nós vamos, você está surpreso? Ele é o Arconte dos Segredos. Saber com antecedência é o seu negócio. Assim como obter qualquer vantagem sobre [url=glossary:cinza esculpida]Cinza Esculpida[/url]. Esses dois competem como dois novos recrutas por um lugar ao redor da fogueira."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -231,17 +231,17 @@
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Uma última coisa... tome cuidado com esses tipos [url=glossary:disfavored]Desfavorecido[/url]. Eles levam seu trabalho a sério, e a maioria sofreu muitos golpes na cabeça."</DefaultText>
+      <DefaultText>"Uma última coisa... tome cuidado com esses tipos [url=glossary:desfavorecido]Desfavorecido[/url]. Eles levam seu trabalho a sério, e a maioria sofreu muitos golpes na cabeça."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Admirando o [url=glossary:disfavored]Desfavorecido[/url] sigilo? Eu sei uma coisa ou duas sobre isso."</DefaultText>
+      <DefaultText>"Admirando o [url=glossary:desfavorecido]Desfavorecido[/url] sigilo? Eu sei uma coisa ou duas sobre isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Não pude deixar de notar como você estava olhando o símbolo [url=glossary:disfavored]Desfavorecido[/url] espalhado pelo acampamento."</DefaultText>
+      <DefaultText>"Não pude deixar de notar como você estava olhando o símbolo [url=glossary:desfavorecido]Desfavorecido[/url] espalhado pelo acampamento."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -256,7 +256,7 @@
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Isso é verdade, mas costumava ser o orgulho da legião de [url=glossary:graven ashe]Cinza Esculpida[/url] antes que [url=glossary:kyros]Kyros[/url] os desfigurasse."</DefaultText>
+      <DefaultText>"Isso é verdade, mas costumava ser o orgulho da legião de [url=glossary:cinza esculpida]Cinza Esculpida[/url] antes que [url=glossary:kyros]Kyros[/url] os desfigurasse."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -276,12 +276,12 @@
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"Eu não culpo você. Comparado com o [url=glossary:scarlet chorus]Coro Escarlate[/url], o [url=glossary:disfavored]Desfavorecido[/url] é tão interessante quanto o trabalho pesado."</DefaultText>
+      <DefaultText>"Eu não culpo você. Comparado com o [url=glossary:coro escarlate]Coro Escarlate[/url], o [url=glossary:desfavorecido]Desfavorecido[/url] é tão interessante quanto o trabalho pesado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>As tropas de "Cinza impressionaram o crescente Império, mas [url=glossary:kyros]Kyros[/url] os fez sacrificar tudo o que estavam até o ponto de Cinza se render. Eles têm sido [url=glossary:disfavored]Desfavorecido[/url] desde então, e lutando para reconquistar sua honra."</DefaultText>
+      <DefaultText>As tropas de "Cinza impressionaram o crescente Império, mas [url=glossary:kyros]Kyros[/url] os fez sacrificar tudo o que estavam até o ponto de Cinza se render. Eles têm sido [url=glossary:desfavorecido]Desfavorecido[/url] desde então, e lutando para reconquistar sua honra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -323,7 +323,7 @@ Verse franze a testa para si mesma, mas não insiste no assunto.</DefaultText>
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>"Eu sou Verse, a propósito. Mas há coisas mais importantes para cuidar do que apresentações. Aqueles [url=glossary:vendrien guard]Guarda Vendrien[/url] nós matamos não veio sozinhos." Ela gesticula para a escaramuça que se desenrola na passagem abaixo, balançando a cabeça.</DefaultText>
+      <DefaultText>"Eu sou Verse, a propósito. Mas há coisas mais importantes para cuidar do que apresentações. Aqueles [url=glossary:guarda vendrien]Guarda Vendrien[/url] nós matamos não veio sozinhos." Ela gesticula para a escaramuça que se desenrola na passagem abaixo, balançando a cabeça.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -383,7 +383,7 @@ Verse franze a testa para si mesma, mas não insiste no assunto.</DefaultText>
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] chamou seus melhores lutadores para este cerco. Deve haver algo importante sobre [url=glossary:vendrien's well]Poço de Vendrien[/url], mas não me pergunte o quê. O Arconte não tem o hábito de revelar segredos."</DefaultText>
+      <DefaultText>"[url=glossary:as vozes de nerat]As Vozes de Nerat[/url] chamou seus melhores lutadores para este cerco. Deve haver algo importante sobre [url=glossary:poço de vendrien]Poço de Vendrien[/url], mas não me pergunte o quê. O Arconte não tem o hábito de revelar segredos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -393,7 +393,7 @@ Verse franze a testa para si mesma, mas não insiste no assunto.</DefaultText>
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>"Estou com o [url=glossary:scarlet chorus]Coro Escarlate[/url] desde os primeiros dias da conquista, então posso dizer que está em construção há alguns anos. Há uma energia nesses dois - como um par de tempestades se movendo para colidir."</DefaultText>
+      <DefaultText>"Estou com o [url=glossary:coro escarlate]Coro Escarlate[/url] desde os primeiros dias da conquista, então posso dizer que está em construção há alguns anos. Há uma energia nesses dois - como um par de tempestades se movendo para colidir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -438,7 +438,7 @@ Verse franze a testa para si mesma, mas não insiste no assunto.</DefaultText>
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"Você saiu de lá vivo, o que é mais do que posso dizer sobre o [url=glossary:vendrien guard]Guarda Vendrien[/url]. Isso deve significar alguma coisa, certo? Você pode se segurar claramente. Se você precisar da minha ajuda, é sua."</DefaultText>
+      <DefaultText>"Você saiu de lá vivo, o que é mais do que posso dizer sobre o [url=glossary:guarda vendrien]Guarda Vendrien[/url]. Isso deve significar alguma coisa, certo? Você pode se segurar claramente. Se você precisar da minha ajuda, é sua."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -503,7 +503,7 @@ Verse franze a testa para si mesma, mas não insiste no assunto.</DefaultText>
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"Ouvi dizer que [url=glossary:graven ashe]Cinza Esculpida[/url] e [url=glossary:the voices of nerat]As Vozes de Nerat[/url] compartilharam um pouco de sangue ruim no Império do Norte, mas não conheço nenhum dos detalhes."</DefaultText>
+      <DefaultText>"Ouvi dizer que [url=glossary:cinza esculpida]Cinza Esculpida[/url] e [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] compartilharam um pouco de sangue ruim no Império do Norte, mas não conheço nenhum dos detalhes."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -573,12 +573,12 @@ Verse franze a testa para si mesma, mas não insiste no assunto.</DefaultText>
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>"A maioria dos 'soldados' no [url=glossary:scarlet chorus]Coro Escarlate[/url] são pouco mais do que fazendeiros e crianças armados com garfos enferrujados. Facilita o controle."</DefaultText>
+      <DefaultText>"A maioria dos 'soldados' no [url=glossary:coro escarlate]Coro Escarlate[/url] são pouco mais do que fazendeiros e crianças armados com garfos enferrujados. Facilita o controle."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>"Faça do seu jeito! Se você preferir enfrentar o [url=glossary:vendrien guard]Guarda Vendrien[/url] com a traseira exposta, não é da minha conta."</DefaultText>
+      <DefaultText>"Faça do seu jeito! Se você preferir enfrentar o [url=glossary:guarda vendrien]Guarda Vendrien[/url] com a traseira exposta, não é da minha conta."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

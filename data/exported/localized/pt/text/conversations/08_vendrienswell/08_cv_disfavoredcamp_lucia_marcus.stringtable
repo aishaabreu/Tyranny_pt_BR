@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"eu sou a Lúcia, aqui é Marco," o [url=glossary:disfavored]Desfavorecido[/url] soldado aponta para o homem blindado ao lado dela, "e você deve ser... [url=lore:vw_heraldrole]o Vinculador do Destino[/url]." De debaixo de seu capacete você ouve uma zombaria audível. "Nós Ve foi designado para babys-"</DefaultText>
+      <DefaultText>"eu sou a Lúcia, aqui é Marco," o [url=glossary:desfavorecido]Desfavorecido[/url] soldado aponta para o homem blindado ao lado dela, "e você deve ser... [url=lore:vw_heraldrole]o Vinculador do Destino[/url]." De debaixo de seu capacete você ouve uma zombaria audível. "Nós Ve foi designado para babys-"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Como é servir com o [url=glossary:disfavored]Desfavorecido[/url]?"</DefaultText>
+      <DefaultText>"Como é servir com o [url=glossary:desfavorecido]Desfavorecido[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -48,7 +48,7 @@
       <ID>11</ID>
       <DefaultText>"Não tenho certeza se há muito a dizer. Treinei em Resolução do Forte, esta é minha primeira campanha e tenho orgulho de estar com a legião."
 
-"Eu... fui ferido no Portões do Julgamento, mas [url=glossary:graven ashe]Cinza Esculpida[/url] a proteção dele me curou bem. Devo minha vida a ele."</DefaultText>
+"Eu... fui ferido no Portões do Julgamento, mas [url=glossary:cinza esculpida]Cinza Esculpida[/url] a proteção dele me curou bem. Devo minha vida a ele."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -87,7 +87,7 @@ Marcus olha para o acampamento. "Lá não somos muitos, mas é melhor assim. Som
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Atribuído à sua hospitalidade," Marcus interrompe rapidamente, "enquanto você permanecer no [url=glossary:disfavored]Desfavorecido[/url] solo."
+      <DefaultText>"Atribuído à sua hospitalidade," Marcus interrompe rapidamente, "enquanto você permanecer no [url=glossary:desfavorecido]Desfavorecido[/url] solo."
 
 "Se você precisar de um lugar para descansar, podemos fazer o necessário preparativos."</DefaultText>
       <FemaleText />
@@ -104,12 +104,12 @@ Marcus olha para o acampamento. "Lá não somos muitos, mas é melhor assim. Som
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"... que você tem sido um verdadeiro trunfo para o [url=glossary:disfavored]Desfavorecido[/url] desde que chegou. Não que alguém esperasse algo diferente." Ele sorri para você com orgulho.</DefaultText>
+      <DefaultText>"... que você tem sido um verdadeiro trunfo para o [url=glossary:desfavorecido]Desfavorecido[/url] desde que chegou. Não que alguém esperasse algo diferente." Ele sorri para você com orgulho.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Com toda a seriedade, eu pegaria aquela lança novamente se trouxesse honra ao [url=glossary:disfavored]Desfavorecido[/url]. [url=glossary:kyros]Kyros[/url] sabe que podemos usá-lo. Somos os combatentes de elite do exército Norte, mas de alguma forma ainda nos falta a confiança Soberano." Ele balança a cabeça e suspira.</DefaultText>
+      <DefaultText>"Com toda a seriedade, eu pegaria aquela lança novamente se trouxesse honra ao [url=glossary:desfavorecido]Desfavorecido[/url]. [url=glossary:kyros]Kyros[/url] sabe que podemos usá-lo. Somos os combatentes de elite do exército Norte, mas de alguma forma ainda nos falta a confiança Soberano." Ele balança a cabeça e suspira.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -126,7 +126,7 @@ Ela vira um olhar cauteloso em sua direção. "O Norte é minha casa, e consider
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Lúcia! Você está flertando com [url=glossary:tunon]Tunon[/url]Vinculador do Destino?"</DefaultText>
+      <DefaultText>"Lúcia! Você está flertando com Vinculador do Destino de [url=glossary:tunon]Tunon[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -156,7 +156,7 @@ Ela vira um olhar cauteloso em sua direção. "O Norte é minha casa, e consider
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Toda batalha é um lembrete da superioridade da legião. Os violadores de juramento têm muito coração, mas nada que supere nossos valores Norte e o amor de [url=glossary:graven ashe]Cinza Esculpida[/url]." 
+      <DefaultText>"Toda batalha é um lembrete da superioridade da legião. Os violadores de juramento têm muito coração, mas nada que supere nossos valores Norte e o amor de [url=glossary:cinza esculpida]Cinza Esculpida[/url]." 
 
 "Se você quiser desfrutar desse sentimento, posso lhe poupar o hora do dia para cruzar ferro."</DefaultText>
       <FemaleText />
@@ -168,7 +168,7 @@ Ela vira um olhar cauteloso em sua direção. "O Norte é minha casa, e consider
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "Eu sei uma coisa ou duas sobre cuspir inimigos que são estúpidos o suficiente para me desafiar - e daí?"</DefaultText>
+      <DefaultText>[Insuficiente [url=glossary:reputação]Reputação[/url]] "Eu sei uma coisa ou duas sobre cuspir inimigos que são estúpidos o suficiente para me desafiar - e daí?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -185,7 +185,7 @@ Ela vira um olhar cauteloso em sua direção. "O Norte é minha casa, e consider
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "Esperar, isso é tudo um ardil? [url=glossary:tunon]Tunon[/url] enviou você para testar o treinamento e a coragem do exército? Porque eu não vai aguentar!"</DefaultText>
+      <DefaultText>[Insuficiente [url=glossary:reputação]Reputação[/url]] "Esperar, isso é tudo um ardil? [url=glossary:tunon]Tunon[/url] enviou você para testar o treinamento e a coragem do exército? Porque eu não vai aguentar!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -200,17 +200,17 @@ Ela vira um olhar cauteloso em sua direção. "O Norte é minha casa, e consider
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>"Se a legião possui tanta honra, por que eles são '[url=glossary:disfavored]Desfavorecido[/url]?' "</DefaultText>
+      <DefaultText>"Se a legião possui tanta honra, por que eles são '[url=glossary:desfavorecido]Desfavorecido[/url]?' "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"A história é de conhecimento geral, mas não a discutimos aqui, bem... não é considerada educada. Tem a ver com [url=glossary:graven ashe]Cinza Esculpida[/url] e a ascensão do império de [url=glossary:kyros]Kyros[/url]. Tenho certeza que você pode juntar algumas peças."</DefaultText>
+      <DefaultText>"A história é de conhecimento geral, mas não a discutimos aqui, bem... não é considerada educada. Tem a ver com [url=glossary:cinza esculpida]Cinza Esculpida[/url] e a ascensão do império de [url=glossary:kyros]Kyros[/url]. Tenho certeza que você pode juntar algumas peças."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "Receio que isso não seja para mim dizer. Outros ao redor do acampamento podem contar mais, mas eu não discuto livremente a do Grande General história para pessoas de fora."</DefaultText>
+      <DefaultText>[Insuficiente [url=glossary:reputação]Reputação[/url]] "Receio que isso não seja para mim dizer. Outros ao redor do acampamento podem contar mais, mas eu não discuto livremente a do Grande General história para pessoas de fora."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -250,7 +250,7 @@ Ela vira um olhar cauteloso em sua direção. "O Norte é minha casa, e consider
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>Os dois soldados trocam um olhar. "Uma pergunta mais adequada ao campo [url=glossary:scarlet chorus]Coro Escarlate[/url], se você não se importa com o cheiro. Qualquer um procurando por uma luta pode encontrar um entre esses fanfarrões."</DefaultText>
+      <DefaultText>Os dois soldados trocam um olhar. "Uma pergunta mais adequada ao campo [url=glossary:coro escarlate]Coro Escarlate[/url], se você não se importa com o cheiro. Qualquer um procurando por uma luta pode encontrar um entre esses fanfarrões."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

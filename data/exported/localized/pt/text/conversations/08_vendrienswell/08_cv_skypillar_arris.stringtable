@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Então, você é a vanguarda da conquista de [url=glossary:kyros]Kyros[/url]? Não tão alto quanto eu imaginava, mas nem todos podemos escolher nossos carrascos. Já, a notícia de nosso desafio se espalha por todas as terras. Você é sete tipos de estúpido se pensa que nossa guerra termina aqui." Antes de você está Capitão Tarkis Arri, líder de fato do minguante [url=glossary:vendrien guard]Guarda Vendrien[/url]. Baixo, queimada de sol e agitada mesmo quando parada, seu corpo é uma escultura compacta de músculos e ossos, e seu rosto tem pouca simetria graças às cicatrizes e amassados de uma dúzia de escovas com a morte.</DefaultText>
+      <DefaultText>"Então, você é a vanguarda da conquista de [url=glossary:kyros]Kyros[/url]? Não tão alto quanto eu imaginava, mas nem todos podemos escolher nossos carrascos. Já, a notícia de nosso desafio se espalha por todas as terras. Você é sete tipos de estúpido se pensa que nossa guerra termina aqui." Antes de você está Capitão Tarkis Arri, líder de fato do minguante [url=glossary:guarda vendrien]Guarda Vendrien[/url]. Baixo, queimada de sol e agitada mesmo quando parada, seu corpo é uma escultura compacta de músculos e ossos, e seu rosto tem pouca simetria graças às cicatrizes e amassados de uma dúzia de escovas com a morte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Embora suas vidas certamente acabem aqui, aqui em [url=glossary:ascension hall]Salão da Ascensão[/url]." Ela ri, apontando para o teto, seus arcos de pedra de alguma forma suportando o peso maciço do Pináculo acima. 
+      <DefaultText>"Embora suas vidas certamente acabem aqui, aqui em [url=glossary:salão da ascensão]Salão da Ascensão[/url]." Ela ri, apontando para o teto, seus arcos de pedra de alguma forma suportando o peso maciço do Pináculo acima. 
 
 "Considere-se afortunado, alguns dos melhores governantes de Ápice encontraram a morte em duelo neste salão sagrado. Verdadeiramente, não há lugar melhor para resolver uma disputa intratável."</DefaultText>
       <FemaleText />
@@ -33,17 +33,17 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"E quanto te custou levar [url=glossary:vendrien's well]Poço de Vendrien[/url]? Quantos [url=glossary:disfavored]Desfavorecido[/url] cadáveres enferrujam no vale? Quantos Coristas caíram em nossas lâminas? Como vai a batalha sem fim do [url=glossary:blade grave]Sepultura de Lâminas[/url] enquanto você lida com a gente aqui?" Arri ri, estremecendo enquanto ela agarra seu lado. "E me diga, os Arcontes estão unificados na vitória? Os exércitos se uniram em camaradagem por nossas mortes? Nosso estande aqui é o primeiro de seus problemas."</DefaultText>
+      <DefaultText>"E quanto te custou levar [url=glossary:poço de vendrien]Poço de Vendrien[/url]? Quantos [url=glossary:desfavorecido]Desfavorecido[/url] cadáveres enferrujam no vale? Quantos Coristas caíram em nossas lâminas? Como vai a batalha sem fim do [url=glossary:sepultura de lâminas]Sepultura de Lâminas[/url] enquanto você lida com a gente aqui?" Arri ri, estremecendo enquanto ela agarra seu lado. "E me diga, os Arcontes estão unificados na vitória? Os exércitos se uniram em camaradagem por nossas mortes? Nosso estande aqui é o primeiro de seus problemas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Nada que já não tenhamos ganhado. Nosso orgulho, nossa dignidade... essas coisas você nunca poderá tirar de nós." Ela sorri, seus olhos distantes por um momento. "Os [url=glossary:vendrien guard]Guarda Vendrien[/url] nunca poderiam enfrentar todas as forças de [url=glossary:kyros]Kyros[/url], mas podemos ensinar os outros a resistir, e talvez você fique sem soldados antes de nós ficar sem teimosia... mas duvido."</DefaultText>
+      <DefaultText>"Nada que já não tenhamos ganhado. Nosso orgulho, nossa dignidade... essas coisas você nunca poderá tirar de nós." Ela sorri, seus olhos distantes por um momento. "Os [url=glossary:guarda vendrien]Guarda Vendrien[/url] nunca poderiam enfrentar todas as forças de [url=glossary:kyros]Kyros[/url], mas podemos ensinar os outros a resistir, e talvez você fique sem soldados antes de nós ficar sem teimosia... mas duvido."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Vamos terminar, então." Ela se vira para seus soldados, erguendo a espada. "Guerreiros dos [url=glossary:vendrien guard]Guarda Vendrien[/url], descendentes de Ápice, filhos dos Camadas - vamos retribuir lacaios de [url=glossary:kyros]Kyros[/url] pela dor que nos mostraram ."</DefaultText>
+      <DefaultText>"Vamos terminar, então." Ela se vira para seus soldados, erguendo a espada. "Guerreiros dos [url=glossary:guarda vendrien]Guarda Vendrien[/url], descendentes de Ápice, filhos dos Camadas - vamos retribuir lacaios de [url=glossary:kyros]Kyros[/url] pela dor que nos mostraram ."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -60,7 +60,7 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Última chance, quebrador de juramento... sirva [url=glossary:the voices of nerat]As Vozes de Nerat[/url], ou morra aqui e agora." O Quinto Olho levanta sua arma sobre Tarkis Arri. Energia vermelha vibrante crepita entre os dentes da lança.</DefaultText>
+      <DefaultText>"Última chance, quebrador de juramento... sirva [url=glossary:as vozes de nerat]As Vozes de Nerat[/url], ou morra aqui e agora." O Quinto Olho levanta sua arma sobre Tarkis Arri. Energia vermelha vibrante crepita entre os dentes da lança.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -120,7 +120,7 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Sim." Um largo sorriso surge no rosto de Aresta. "Dizer [url=glossary:the voices of nerat]As Vozes de Nerat[/url] somos muito gratos por seu assessor. Não teríamos chegado tão longe sem o apoio dele."</DefaultText>
+      <DefaultText>"Sim." Um largo sorriso surge no rosto de Aresta. "Dizer [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] somos muito gratos por seu assessor. Não teríamos chegado tão longe sem o apoio dele."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -130,27 +130,27 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Abandone a conversa dura. Mesmo se você tivesse nos vencido, você sabe que não podemos voltar atrás - nem mesmo se quiséssemos... não com o [url=glossary:edict]Edital[/url] pairando sobre nós. Isso aqui," a Marechal de Ferro aponta com sua espada em um amplo arco ao redor da sala, "é nossa esperança. Pela redação do [url=glossary:edict]Edital[/url], tomar [url=glossary:ascension hall]Salão da Ascensão[/url] será nossa salvação."</DefaultText>
+      <DefaultText>"Abandone a conversa dura. Mesmo se você tivesse nos vencido, você sabe que não podemos voltar atrás - nem mesmo se quiséssemos... não com o [url=glossary:edital]Edital[/url] pairando sobre nós. Isso aqui," a Marechal de Ferro aponta com sua espada em um amplo arco ao redor da sala, "é nossa esperança. Pela redação do [url=glossary:edital]Edital[/url], tomar [url=glossary:salão da ascensão]Salão da Ascensão[/url] será nossa salvação."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Mas se nos retirarmos, a morte por [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] seria garantida! Ou você esqueceu que lacaios de [url=glossary:kyros]Kyros[/url] devem levar [url=glossary:ascension hall]Salão da Ascensão[/url] para que não pereçamos todos." "Você não pode nos intimidar, não quando a alternativa é a Soberano ira."</DefaultText>
+      <DefaultText>"Mas se nos retirarmos, a morte por [url=glossary:edital]Edital[/url] de [url=glossary:kyros]Kyros[/url] seria garantida! Ou você esqueceu que lacaios de [url=glossary:kyros]Kyros[/url] devem levar [url=glossary:salão da ascensão]Salão da Ascensão[/url] para que não pereçamos todos." "Você não pode nos intimidar, não quando a alternativa é a Soberano ira."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Eu estou com esses guerreiros. Com sua morte, reivindicarei [url=glossary:ascension hall]Salão da Ascensão[/url], e o [url=glossary:edict]Edital[/url] será resolvido."</DefaultText>
+      <DefaultText>"Eu estou com esses guerreiros. Com sua morte, reivindicarei [url=glossary:salão da ascensão]Salão da Ascensão[/url], e o [url=glossary:edital]Edital[/url] será resolvido."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>O Quinto Olho bate o pé, fechando os punhos de raiva. "Cão da lei suja! Terei grande alegria em ungir [url=glossary:ascension hall]Salão da Ascensão[/url] em seu sangue!"</DefaultText>
+      <DefaultText>O Quinto Olho bate o pé, fechando os punhos de raiva. "Cão da lei suja! Terei grande alegria em ungir [url=glossary:salão da ascensão]Salão da Ascensão[/url] em seu sangue!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Eu estou com esses guerreiros. Com sua morte, reivindicarei [url=glossary:ascension hall]Salão da Ascensão[/url], e o [url=glossary:edict]Edital[/url] será resolvido."</DefaultText>
+      <DefaultText>"Eu estou com esses guerreiros. Com sua morte, reivindicarei [url=glossary:salão da ascensão]Salão da Ascensão[/url], e o [url=glossary:edital]Edital[/url] será resolvido."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -192,7 +192,7 @@ Verse saca sua arma e aponta para Arri.</DefaultText>
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Todos vocês! Se alguém reivindicar [url=glossary:ascension hall]Salão da Ascensão[/url], sou eu. Não os [url=glossary:disfavored]Desfavorecido[/url], nem os violadores de juramento!"</DefaultText>
+      <DefaultText>"Todos vocês! Se alguém reivindicar [url=glossary:salão da ascensão]Salão da Ascensão[/url], sou eu. Não os [url=glossary:desfavorecido]Desfavorecido[/url], nem os violadores de juramento!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -212,7 +212,7 @@ Verse saca sua arma e aponta para Arri.</DefaultText>
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"Todos vocês! Se alguém reivindicar [url=glossary:ascension hall]Salão da Ascensão[/url], sou eu. Não os [url=glossary:scarlet chorus]Coro Escarlate[/url], nem os infratores!"</DefaultText>
+      <DefaultText>"Todos vocês! Se alguém reivindicar [url=glossary:salão da ascensão]Salão da Ascensão[/url], sou eu. Não os [url=glossary:coro escarlate]Coro Escarlate[/url], nem os infratores!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -232,7 +232,7 @@ Verse saca sua arma e aponta para Arri.</DefaultText>
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Você teria que matar todos os habitante do Camadas do Pináculo ao mar." Arri cospe no [url=glossary:disfavored]Desfavorecido[/url] Comandante.</DefaultText>
+      <DefaultText>"Você teria que matar todos os habitante do Camadas do Pináculo ao mar." Arri cospe no [url=glossary:desfavorecido]Desfavorecido[/url] Comandante.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -247,12 +247,12 @@ Verse saca sua arma e aponta para Arri.</DefaultText>
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>"[url=lore:fall_apex]Paz[/url]? VOCÊ é o rosto da vanguarda inimiga? [url=glossary:kyros]Kyros[/url] funciona de maneira misteriosa. Espero que você não esteja aqui para estabelecer outra trégua - estamos todos sem conversa, mas ainda temos uma pequena luta para você. [url=glossary:vendrien guard]Guarda Vendrien[/url]. Baixo, queimada de sol e agitada mesmo quando parada, seu corpo é uma escultura compacta de músculos e ossos, e seu rosto tem pouca simetria graças às cicatrizes e amassados de uma dúzia de escovas com a morte.</DefaultText>
+      <DefaultText>"[url=lore:fall_apex]Paz[/url]? VOCÊ é o rosto da vanguarda inimiga? [url=glossary:kyros]Kyros[/url] funciona de maneira misteriosa. Espero que você não esteja aqui para estabelecer outra trégua - estamos todos sem conversa, mas ainda temos uma pequena luta para você. [url=glossary:guarda vendrien]Guarda Vendrien[/url]. Baixo, queimada de sol e agitada mesmo quando parada, seu corpo é uma escultura compacta de músculos e ossos, e seu rosto tem pouca simetria graças às cicatrizes e amassados de uma dúzia de escovas com a morte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Adorável! Eu estava esperando que eles enviassem o [url=lore:fall_apex]Queenslayer...[/url] Eu não queria nada além de reivindicar sua cabeça. Mate uma rainha, mate um capitão - mate-nos e mais de nós brotará das ervas daninhas. Você nunca pode desistir de nossa vontade de ser livre - esta batalha hoje é apenas a primeira de muitas que virão, em revoltas por todo o Camadas!" Antes de você está Capitão Tarkis Arri, líder de fato do minguante [url=glossary:vendrien guard]Guarda Vendrien[/url]. Baixo, queimada de sol e agitada mesmo quando parada, seu corpo é uma escultura compacta de músculos e ossos, e seu rosto tem pouca simetria graças às cicatrizes e amassados de uma dúzia de escovas com a morte.</DefaultText>
+      <DefaultText>"Adorável! Eu estava esperando que eles enviassem o [url=lore:fall_apex]Queenslayer...[/url] Eu não queria nada além de reivindicar sua cabeça. Mate uma rainha, mate um capitão - mate-nos e mais de nós brotará das ervas daninhas. Você nunca pode desistir de nossa vontade de ser livre - esta batalha hoje é apenas a primeira de muitas que virão, em revoltas por todo o Camadas!" Antes de você está Capitão Tarkis Arri, líder de fato do minguante [url=glossary:guarda vendrien]Guarda Vendrien[/url]. Baixo, queimada de sol e agitada mesmo quando parada, seu corpo é uma escultura compacta de músculos e ossos, e seu rosto tem pouca simetria graças às cicatrizes e amassados de uma dúzia de escovas com a morte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -267,7 +267,7 @@ Verse saca sua arma e aponta para Arri.</DefaultText>
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>[Blefe] "Eu sou apenas o primeiro de seus problemas, o Chorus e o [url=glossary:disfavored]Desfavorecido[/url] estão bem atrás de mim - e a única coisa que eles têm em comum é o ódio por você. "</DefaultText>
+      <DefaultText>[Blefe] "Eu sou apenas o primeiro de seus problemas, o Chorus e o [url=glossary:desfavorecido]Desfavorecido[/url] estão bem atrás de mim - e a única coisa que eles têm em comum é o ódio por você. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -279,7 +279,7 @@ O capitão acena com a cabeça para suas próprias palavras, mas olha para seus 
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"Esse é um risco que estou disposto a correr." O [url=glossary:sage]Sábio[/url] ao seu lado emite uma tosse nervosa e olha para cima com um olhar preocupado. Após um breve momento de hesitação, o [url=glossary:sage]Sábio[/url] corre para a saída.</DefaultText>
+      <DefaultText>"Esse é um risco que estou disposto a correr." O [url=glossary:sábio]Sábio[/url] ao seu lado emite uma tosse nervosa e olha para cima com um olhar preocupado. Após um breve momento de hesitação, o [url=glossary:sábio]Sábio[/url] corre para a saída.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -291,7 +291,7 @@ Um momento de silêncio é quebrado quando um dos infratores do juramento traço
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>[Marque sua arma de forma ameaçadora.] "Se a elite [url=glossary:disfavored]Desfavorecido[/url] não puder me impedir, acho que nós dois sabemos que vocês idiotas não terão chance."</DefaultText>
+      <DefaultText>[Marque sua arma de forma ameaçadora.] "Se a elite [url=glossary:desfavorecido]Desfavorecido[/url] não puder me impedir, acho que nós dois sabemos que vocês idiotas não terão chance."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -313,7 +313,7 @@ Enquanto ele faz, dois dos Refrão guerreiros trocam um olhar - um com olhos ate
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"Mas isso é..." O Quinto Olho vira-se para o Blood Chanter ao seu lado, que retribui o olhar com um aceno pensativo. "Isso é exatamente o que eu estava pensando." O refrão comandante aponta com seu bastão para a entrada. "Cair de volta, verifique se não há nenhum [url=glossary:disfavored]Desfavorecido[/url] esperando para interromper nossa dança."</DefaultText>
+      <DefaultText>"Mas isso é..." O Quinto Olho vira-se para o Blood Chanter ao seu lado, que retribui o olhar com um aceno pensativo. "Isso é exatamente o que eu estava pensando." O refrão comandante aponta com seu bastão para a entrada. "Cair de volta, verifique se não há nenhum [url=glossary:desfavorecido]Desfavorecido[/url] esperando para interromper nossa dança."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -325,7 +325,7 @@ Suas palavras ecoam pela sala, enquanto os soldados trocam silenciosamente olhar
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>"Volte aqui!" Arri grita para o fugitivo [url=glossary:sage]Sábio[/url] mas sem sucesso. "O que eu era pensando, trazendo escribas covardes para uma luta de espadas. Eb estava certo sobre vocês!"</DefaultText>
+      <DefaultText>"Volte aqui!" Arri grita para o fugitivo [url=glossary:sábio]Sábio[/url] mas sem sucesso. "O que eu era pensando, trazendo escribas covardes para uma luta de espadas. Eb estava certo sobre vocês!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

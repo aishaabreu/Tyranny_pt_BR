@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Fora da estrada à frente você vê um lago amplo e plácido alimentado por um rio que flui do norte. Um punhado de barcos de pesca pontilham a superfície, e os cantos dos anfíbios perduram na brisa fresca. Um pequeno bando de [url=glossary:flightless]flightless[/url] pássaros vadeiam nas águas rasas, arrancando lagostins do lodo.
+      <DefaultText>Fora da estrada à frente você vê um lago amplo e plácido alimentado por um rio que flui do norte. Um punhado de barcos de pesca pontilham a superfície, e os cantos dos anfíbios perduram na brisa fresca. Um pequeno bando de [url=glossary:sem vôo]Sem vôo[/url] pássaros vadeiam nas águas rasas, arrancando lagostins do lodo.
 
 Parece um lugar perfeito para encher seus odres e descansar.</DefaultText>
       <FemaleText />
@@ -20,7 +20,7 @@ Você chega a terra firme e determina que este é um local razoável para descan
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Aninhado entre as trincheiras escavadas em [url=glossary:blade grave]Sepultura de Lâminas[/url] pelo [url=glossary:edict]Edital[/url] de Tempestades você encontra uma verdadeira raridade: uma piscina protegida de água. Aparentemente alimentada por uma nascente, a piscina dá lugar a um par de riachos finos que ficam sufocados com areia e ferrugem quase imediatamente depois de saírem de debaixo do abrigo de uma folha alta e enrolada de armadura de bronze retorcida. 
+      <DefaultText>Aninhado entre as trincheiras escavadas em [url=glossary:sepultura de lâminas]Sepultura de Lâminas[/url] pelo [url=glossary:edital]Edital[/url] de Tempestades você encontra uma verdadeira raridade: uma piscina protegida de água. Aparentemente alimentada por uma nascente, a piscina dá lugar a um par de riachos finos que ficam sufocados com areia e ferrugem quase imediatamente depois de saírem de debaixo do abrigo de uma folha alta e enrolada de armadura de bronze retorcida. 
 
 Braços esqueléticos, mantidos juntos por feixes de tendões secos, pendurados no teto da caverna não natural, e uma estátua meio quebrada, uma imagem esculpida e esburacada de uma antiga Robusto rainha, projeta-se do molhado, sugerindo que este pode ter sido uma vez o centro de um assentamento.</DefaultText>
       <FemaleText />
@@ -44,7 +44,7 @@ A água parece sair de uma pequena caverna situada em uma colina cem metros ao n
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Caçada [url=glossary:flightless]flightless[/url].</DefaultText>
+      <DefaultText>Caçada [url=glossary:sem vôo]Sem vôo[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,14 +111,14 @@ Depois você se deita em seu saco de dormir, ouvindo os sons da natureza enquant
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Com um terço da altura de um homem e totalmente terrestre, a ave [url=glossary:flightless]flightless[/url] facilita a caça e sua carne é um grampo em todo o Camadas. Durante seu treinamento no pit, você costumava perseguir [url=glossary:flightless]flightless[/url]; se você não pudesse pegar um [url=glossary:flightless]flightless[/url], você não seria capaz de pegar um oponente desprevenido.
+      <DefaultText>Com um terço da altura de um homem e totalmente terrestre, a ave [url=glossary:sem vôo]Sem vôo[/url] facilita a caça e sua carne é um grampo em todo o Camadas. Durante seu treinamento no pit, você costumava perseguir [url=glossary:sem vôo]Sem vôo[/url]; se você não pudesse pegar um [url=glossary:sem vôo]Sem vôo[/url], você não seria capaz de pegar um oponente desprevenido.
 
 Você avança de cabeça para o grupo pescando em águas rasas, as mãos estalando para fora com velocidade ofuscante para agarrar o pescoço de dois dos pássaros. Um movimento rápido de cada pulso torce o pescoço das feras ao ponto de estalar, e você retorna à praia com sua carga. Você arranca uma das criaturas e a assa em uma chama aberta, proporcionando um jantar saudável, embora sem graça. O outro você guarda para a estrada.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Você coloca seu equipamento em uma rocha larga e plana perto da piscina, parte o pão e reabastece sua água das cachoeiras. É fresco e fresco, uma mudança bem-vinda do sabor residual de couro do seu odre. Depois, você se despe e se abaixa na lama quente. Ele tira a dor de suas costas e ombros e massageia sua pele desgastada pelo sol. Quando você sai, você se sente como uma nova pessoa, quase como se a lama do [url=glossary:stone sea]Mar de Pedra[/url] tivesse formado uma nova camada de carne acima de seu tendão. 
+      <DefaultText>Você coloca seu equipamento em uma rocha larga e plana perto da piscina, parte o pão e reabastece sua água das cachoeiras. É fresco e fresco, uma mudança bem-vinda do sabor residual de couro do seu odre. Depois, você se despe e se abaixa na lama quente. Ele tira a dor de suas costas e ombros e massageia sua pele desgastada pelo sol. Quando você sai, você se sente como uma nova pessoa, quase como se a lama do [url=glossary:mar de pedra]Mar de Pedra[/url] tivesse formado uma nova camada de carne acima de seu tendão. 
 
 Você veste e carrega seu equipamento no ombro, pronto para seguir para o próximo local.</DefaultText>
       <FemaleText />
@@ -253,7 +253,7 @@ Na beira do penhasco você encontra alguns pictogramas esculpidos na pedra: um h
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Com um terço da altura de um homem e totalmente terrestre, a ave [url=glossary:flightless]flightless[/url] facilita a caça e sua carne é um grampo em todo o Camadas. Você mata um com pouca dificuldade, arranca-o e assa-o sobre uma chama aberta, proporcionando um jantar saudável, embora sem graça.</DefaultText>
+      <DefaultText>Com um terço da altura de um homem e totalmente terrestre, a ave [url=glossary:sem vôo]Sem vôo[/url] facilita a caça e sua carne é um grampo em todo o Camadas. Você mata um com pouca dificuldade, arranca-o e assa-o sobre uma chama aberta, proporcionando um jantar saudável, embora sem graça.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -313,7 +313,7 @@ Na beira do penhasco você encontra alguns pictogramas esculpidos na pedra: um h
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>Colocando seu equipamento mais pesado no chão, você leva algum tempo para investigar a área. Você localiza um afloramento amplo e seco sobre a água que faria um acampamento ideal. Do alto, você vê um enorme bando de [url=glossary:flightless]flightless[/url] vasculhando as águas rasas. Finalmente, você nota o que parece ser um recesso escuro sob uma pilha de rochas inclinadas a leste que sugere a presença de uma caverna.</DefaultText>
+      <DefaultText>Colocando seu equipamento mais pesado no chão, você leva algum tempo para investigar a área. Você localiza um afloramento amplo e seco sobre a água que faria um acampamento ideal. Do alto, você vê um enorme bando de [url=glossary:sem vôo]Sem vôo[/url] vasculhando as águas rasas. Finalmente, você nota o que parece ser um recesso escuro sob uma pilha de rochas inclinadas a leste que sugere a presença de uma caverna.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -424,7 +424,7 @@ Respirando pesadamente, você deixa este lago para trás. Nenhuma água vale a b
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>Você se move calmamente em direção aos cães, tentando demonstrar mais confiança do que sente, e fala com eles em um tom suave e uniforme. Quando o latido não desaparece nem um pouco, você tira de sua bolsa uma tira de sal [url=glossary:flightless]flightless[/url] e começa a rasgá-la em pedacinhos. Você só libertou o primeiro pedaço quando o cheiro da comida leva os animais ao frenesi. Eles enlouquecem, pulando em você com abandono, tentando derrubá-lo sob seu peso.</DefaultText>
+      <DefaultText>Você se move calmamente em direção aos cães, tentando demonstrar mais confiança do que sente, e fala com eles em um tom suave e uniforme. Quando o latido não desaparece nem um pouco, você tira de sua bolsa uma tira de sal [url=glossary:sem vôo]Sem vôo[/url] e começa a rasgá-la em pedacinhos. Você só libertou o primeiro pedaço quando o cheiro da comida leva os animais ao frenesi. Eles enlouquecem, pulando em você com abandono, tentando derrubá-lo sob seu peso.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -548,7 +548,7 @@ A câmara em si é confortável, a luz entra sem deslizar pela superfície da á
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>recinto natural que se estende acima da gruta protegeu a estátua de mármore pintada do pior da destruição de [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] de Tempestades. Envolta em um vestido pintado de carmesim claro, a pele da rainha é de um bronze profundo, e o que resta de seu cabelo bem encaracolado é pintado de preto esmaltado, dando a impressão de que foi bem oleado. Sua mão direita ergue uma lança quebrada e a esquerda uma adaga virada para baixo.</DefaultText>
+      <DefaultText>recinto natural que se estende acima da gruta protegeu a estátua de mármore pintada do pior da destruição de [url=glossary:edital]Edital[/url] de [url=glossary:kyros]Kyros[/url] de Tempestades. Envolta em um vestido pintado de carmesim claro, a pele da rainha é de um bronze profundo, e o que resta de seu cabelo bem encaracolado é pintado de preto esmaltado, dando a impressão de que foi bem oleado. Sua mão direita ergue uma lança quebrada e a esquerda uma adaga virada para baixo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>"Uma escolha sábia. O [url=glossary:disfavored]Desfavorecido[/url] verá sua honra restaurada sob meu governo."</DefaultText>
+      <DefaultText>"Uma escolha sábia. O [url=glossary:desfavorecido]Desfavorecido[/url] verá sua honra restaurada sob meu governo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -48,7 +48,7 @@
       <ID>40</ID>
       <DefaultText>"Não vejo sangue fresco em sua armadura, mas sinto que algo aconteceu. Onde antes muitos se reuniam, agora há uma ausência. Isso só pode significar uma coisa..."
 
-"[url=glossary:the voices of nerat]As vozes de Nerat[/url] não existe mais. Isso pode ser verdade?"</DefaultText>
+"[url=glossary:as vozes de nerat]As Vozes de Nerat[/url] não existe mais. Isso pode ser verdade?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -58,7 +58,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Finalmente, os [url=glossary:scarlet chorus]Coro Escarlate[/url] foram desfeitos! Podemos conduzir adequadamente esta guerra e subjugar o Camadas como o [url=glossary:kyros]Kyros[/url] pretendia. Que eu possa ver este dia enquanto [url=glossary:the voices of nerat]As Vozes de Nerat[/url] esfria... ele nunca esqueceria essa indignidade."</DefaultText>
+      <DefaultText>"Finalmente, os [url=glossary:coro escarlate]Coro Escarlate[/url] foram desfeitos! Podemos conduzir adequadamente esta guerra e subjugar o Camadas como o [url=glossary:kyros]Kyros[/url] pretendia. Que eu possa ver este dia enquanto [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] esfria... ele nunca esqueceria essa indignidade."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -105,7 +105,7 @@
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"Com o tempo, sim. Sem dúvida, eles terão que ser tão traiçoeiros quanto ele, embora eu não possa imaginar que o poder deles se pareça com o dele. Para todas as suas multidões, [url=glossary:the voices of nerat]As Vozes de Nerat[/url] era um ser singular. Nada como ele já existiu, ou provavelmente existirá novamente."</DefaultText>
+      <DefaultText>"Com o tempo, sim. Sem dúvida, eles terão que ser tão traiçoeiros quanto ele, embora eu não possa imaginar que o poder deles se pareça com o dele. Para todas as suas multidões, [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] era um ser singular. Nada como ele já existiu, ou provavelmente existirá novamente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -205,7 +205,7 @@
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "Você me acha um tolo por entreter tal ultraje? Você não tem a honra nem a distinção de levar minha [url=glossary:disfavored]Desfavorecido[/url] legião à glória."</DefaultText>
+      <DefaultText>[Insuficiente [url=glossary:reputação]Reputação[/url]] "Você me acha um tolo por entreter tal ultraje? Você não tem a honra nem a distinção de levar minha [url=glossary:desfavorecido]Desfavorecido[/url] legião à glória."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -217,7 +217,7 @@
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Perdi quase todos os que me importavam e sofri por aqueles que procurava proteger. Eu não desejaria isso para ninguém. Submeto-me à sua autoridade como Arconte e mestre do [url=glossary:disfavored]Desfavorecido[/url]. Onde você lidera, eu vou. Onde você comanda, eu sigo."</DefaultText>
+      <DefaultText>"Perdi quase todos os que me importavam e sofri por aqueles que procurava proteger. Eu não desejaria isso para ninguém. Submeto-me à sua autoridade como Arconte e mestre do [url=glossary:desfavorecido]Desfavorecido[/url]. Onde você lidera, eu vou. Onde você comanda, eu sigo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -269,7 +269,7 @@
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"O que você propõe é incrível... impossível. Eu sou o general da legião [url=glossary:disfavored]Desfavorecido[/url]. Dobrei o joelho uma vez antes, me humilhei para [url=glossary:kyros]Kyros[/url]... Não posso fazer isso de novo."</DefaultText>
+      <DefaultText>"O que você propõe é incrível... impossível. Eu sou o general da legião [url=glossary:desfavorecido]Desfavorecido[/url]. Dobrei o joelho uma vez antes, me humilhei para [url=glossary:kyros]Kyros[/url]... Não posso fazer isso de novo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -316,7 +316,7 @@
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] deve ser executado. Com sua destruição, sua multidão sem líder se dispersará por todo o Camadas de onde eles vieram, e seremos livres para subjugar este reino sem lei." 
+      <DefaultText>"[url=glossary:as vozes de nerat]As Vozes de Nerat[/url] deve ser executado. Com sua destruição, sua multidão sem líder se dispersará por todo o Camadas de onde eles vieram, e seremos livres para subjugar este reino sem lei." 
 
 "Eu não espero nada menos do que seu relatório de que o Arconte dos Segredos foi tratado. Demitido."</DefaultText>
       <FemaleText />
@@ -328,12 +328,12 @@
     </Entry>
     <Entry>
       <ID>101</ID>
-      <DefaultText>"Não me insulte com suas mentiras flagrantes. É amplamente conhecido que você proclamou um [url=glossary:edict]Edital[/url]. Não há como obscurecer o que você fez. O que quer que você seja, terá que esperar. Discutiremos o assunto quando você retornar de sua tarefa final."</DefaultText>
+      <DefaultText>"Não me insulte com suas mentiras flagrantes. É amplamente conhecido que você proclamou um [url=glossary:edital]Edital[/url]. Não há como obscurecer o que você fez. O que quer que você seja, terá que esperar. Discutiremos o assunto quando você retornar de sua tarefa final."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"Não brinque com o que você fez. Entre reivindicar poderes além do seu alcance e proclamar um [url=glossary:edict]Edital[/url], não sei mais o que pensar de você."</DefaultText>
+      <DefaultText>"Não brinque com o que você fez. Entre reivindicar poderes além do seu alcance e proclamar um [url=glossary:edital]Edital[/url], não sei mais o que pensar de você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -388,7 +388,7 @@
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "Você me acha um tolo por entreter tal ultraje? Você não tem a honra nem a distinção de levar minha [url=glossary:disfavored]Desfavorecido[/url] legião à glória."</DefaultText>
+      <DefaultText>[Insuficiente [url=glossary:reputação]Reputação[/url]] "Você me acha um tolo por entreter tal ultraje? Você não tem a honra nem a distinção de levar minha [url=glossary:desfavorecido]Desfavorecido[/url] legião à glória."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -425,7 +425,7 @@
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>"Perdi quase todos os que me importavam e sofri por aqueles que procurava proteger. Eu não desejaria isso para ninguém. Submeto-me à sua autoridade como Arconte e mestre do [url=glossary:disfavored]Desfavorecido[/url]. Onde você lidera, eu vou. Onde você comanda, eu sigo."</DefaultText>
+      <DefaultText>"Perdi quase todos os que me importavam e sofri por aqueles que procurava proteger. Eu não desejaria isso para ninguém. Submeto-me à sua autoridade como Arconte e mestre do [url=glossary:desfavorecido]Desfavorecido[/url]. Onde você lidera, eu vou. Onde você comanda, eu sigo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -509,7 +509,7 @@
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"O que você propõe é incrível... impossível. Eu sou o general da legião [url=glossary:disfavored]Desfavorecido[/url]. Dobrei o joelho uma vez antes, me humilhei para [url=glossary:kyros]Kyros[/url]... Não posso fazer isso de novo."</DefaultText>
+      <DefaultText>"O que você propõe é incrível... impossível. Eu sou o general da legião [url=glossary:desfavorecido]Desfavorecido[/url]. Dobrei o joelho uma vez antes, me humilhei para [url=glossary:kyros]Kyros[/url]... Não posso fazer isso de novo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -564,7 +564,7 @@
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>"Gostaria de ter te matado em [url=glossary:vendrien's well]Poço de Vendrien[/url]. Se eu tivesse um momento de previsão, não teria hesitado em torcer sua cabeça do pescoço."</DefaultText>
+      <DefaultText>"Gostaria de ter te matado em [url=glossary:poço de vendrien]Poço de Vendrien[/url]. Se eu tivesse um momento de previsão, não teria hesitado em torcer sua cabeça do pescoço."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -621,7 +621,7 @@ Ele amassa a ordem e a joga no chão , virando-se para você com uma careta.</De
     </Entry>
     <Entry>
       <ID>172</ID>
-      <DefaultText>"Então. Você fingiu lealdade enquanto planejava secretamente minha execução com [url=glossary:tunon]Tunon[/url]. Eu poderia ter esperado tanto, mas me falta o engano do [url=glossary:the voices of nerat]As vozes de Nerat[/url]. Ou o seu, aliás."</DefaultText>
+      <DefaultText>"Então. Você fingiu lealdade enquanto planejava secretamente minha execução com [url=glossary:tunon]Tunon[/url]. Eu poderia ter esperado tanto, mas me falta o engano do [url=glossary:as vozes de nerat]As Vozes de Nerat[/url]. Ou o seu, aliás."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -646,12 +646,12 @@ Ele amassa a ordem e a joga no chão , virando-se para você com uma careta.</De
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>[url=glossary:graven ashe]Cinza Esculpida[/url] aceita o pergaminho com a mão trêmula. Ele se debruça sobre o documento, seus lábios se movendo enquanto ele lê, sua sobrancelha levantando lentamente em descrença crescente.</DefaultText>
+      <DefaultText>[url=glossary:cinza esculpida]Cinza Esculpida[/url] aceita o pergaminho com a mão trêmula. Ele se debruça sobre o documento, seus lábios se movendo enquanto ele lê, sua sobrancelha levantando lentamente em descrença crescente.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>179</ID>
-      <DefaultText>[url=glossary:graven ashe]Cinza Esculpida[/url] aceita o pergaminho com a mão trêmula. Ele se debruça sobre o documento, seus lábios se movendo enquanto ele lê, sua sobrancelha levantando lentamente em descrença crescente.</DefaultText>
+      <DefaultText>[url=glossary:cinza esculpida]Cinza Esculpida[/url] aceita o pergaminho com a mão trêmula. Ele se debruça sobre o documento, seus lábios se movendo enquanto ele lê, sua sobrancelha levantando lentamente em descrença crescente.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -690,7 +690,7 @@ Ele faz um esforço para ficar de pé, mas você sabe que é uma fachada que enc
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "Ouso dizer que estou bem o suficiente para receber boas notícias. Entregar alguns elevaria meu ânimo consideravelmente. Aguardo sua palavra, Vinculador do Destino."</DefaultText>
+      <DefaultText>[Insuficiente [url=glossary:reputação]Reputação[/url]] "Ouso dizer que estou bem o suficiente para receber boas notícias. Entregar alguns elevaria meu ânimo consideravelmente. Aguardo sua palavra, Vinculador do Destino."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -720,7 +720,7 @@ Ele faz um esforço para ficar de pé, mas você sabe que é uma fachada que enc
     </Entry>
     <Entry>
       <ID>193</ID>
-      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "Acho que não, Vinculador do Destino. Você deve ouvir o Grande General. Siga a liderança dele. Não há esperança para o Camadas mas para o [url=glossary:kyros]Kyros[/url], como acho que você sabe." Ele olha para você com preocupação e uma pergunta silenciosa.</DefaultText>
+      <DefaultText>[Insuficiente [url=glossary:reputação]Reputação[/url]] "Acho que não, Vinculador do Destino. Você deve ouvir o Grande General. Siga a liderança dele. Não há esperança para o Camadas mas para o [url=glossary:kyros]Kyros[/url], como acho que você sabe." Ele olha para você com preocupação e uma pergunta silenciosa.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -745,7 +745,7 @@ Ele faz um esforço para ficar de pé, mas você sabe que é uma fachada que enc
     </Entry>
     <Entry>
       <ID>199</ID>
-      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "Acho que não, Vinculador do Destino. Você deve ouvir o Grande General. Siga a liderança dele. Não há esperança para o Camadas mas para o [url=glossary:kyros]Kyros[/url], como acho que você sabe." Ele olha para você com preocupação e uma pergunta silenciosa.</DefaultText>
+      <DefaultText>[Insuficiente [url=glossary:reputação]Reputação[/url]] "Acho que não, Vinculador do Destino. Você deve ouvir o Grande General. Siga a liderança dele. Não há esperança para o Camadas mas para o [url=glossary:kyros]Kyros[/url], como acho que você sabe." Ele olha para você com preocupação e uma pergunta silenciosa.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -775,12 +775,12 @@ Ele faz um esforço para ficar de pé, mas você sabe que é uma fachada que enc
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "Você não pode me pedir para derrubar meu Em geral. Eu sinto Muito. Se você tivesse me permitido aceitar essa injustiça em meus próprios termos, eu poderia ter perdoado você, mas agora..." Barik balança a cabeça em tristeza.</DefaultText>
+      <DefaultText>[Insuficiente [url=glossary:reputação]Reputação[/url]] "Você não pode me pedir para derrubar meu Em geral. Eu sinto Muito. Se você tivesse me permitido aceitar essa injustiça em meus próprios termos, eu poderia ter perdoado você, mas agora..." Barik balança a cabeça em tristeza.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>206</ID>
-      <DefaultText>"Você tem minha espada, Vinculador do Destino, mas [url=glossary:graven ashe]Cinza Esculpida[/url] é minha Arconte. Ele é minha família, meu coração... a personificação de tudo que há de bom no Norte. Não posso permitir que você o derrube."</DefaultText>
+      <DefaultText>"Você tem minha espada, Vinculador do Destino, mas [url=glossary:cinza esculpida]Cinza Esculpida[/url] é minha Arconte. Ele é minha família, meu coração... a personificação de tudo que há de bom no Norte. Não posso permitir que você o derrube."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -795,7 +795,7 @@ Ele faz um esforço para ficar de pé, mas você sabe que é uma fachada que enc
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>"Gostaria de recebê-lo de volta ao rebanho, Barik do Escudos de Pedra, mas você serviu a este Vinculador do Destino como agente do [url=glossary:scarlet chorus]Coro Escarlate[/url]. Não consigo imaginar quais atrocidades você cometeu, ou como o Arconte dos Segredos o perverteu."</DefaultText>
+      <DefaultText>"Gostaria de recebê-lo de volta ao rebanho, Barik do Escudos de Pedra, mas você serviu a este Vinculador do Destino como agente do [url=glossary:coro escarlate]Coro Escarlate[/url]. Não consigo imaginar quais atrocidades você cometeu, ou como o Arconte dos Segredos o perverteu."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -930,12 +930,12 @@ Ele faz um esforço para ficar de pé, mas você sabe que é uma fachada que enc
     </Entry>
     <Entry>
       <ID>236</ID>
-      <DefaultText>"Você tem minha espada, Vinculador do Destino, mas [url=glossary:graven ashe]Cinza Esculpida[/url] é minha Arconte. Ele é minha família, meu coração... a personificação de tudo que há de bom no Norte. Não posso permitir que você o derrube."</DefaultText>
+      <DefaultText>"Você tem minha espada, Vinculador do Destino, mas [url=glossary:cinza esculpida]Cinza Esculpida[/url] é minha Arconte. Ele é minha família, meu coração... a personificação de tudo que há de bom no Norte. Não posso permitir que você o derrube."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>237</ID>
-      <DefaultText>"Gostaria de recebê-lo de volta ao rebanho, Barik do Escudos de Pedra, mas você serviu a este Vinculador do Destino como agente do [url=glossary:scarlet chorus]Coro Escarlate[/url]. Não consigo imaginar quais atrocidades você cometeu, ou como o Arconte dos Segredos o perverteu."</DefaultText>
+      <DefaultText>"Gostaria de recebê-lo de volta ao rebanho, Barik do Escudos de Pedra, mas você serviu a este Vinculador do Destino como agente do [url=glossary:coro escarlate]Coro Escarlate[/url]. Não consigo imaginar quais atrocidades você cometeu, ou como o Arconte dos Segredos o perverteu."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -950,7 +950,7 @@ Ele faz um esforço para ficar de pé, mas você sabe que é uma fachada que enc
     </Entry>
     <Entry>
       <ID>240</ID>
-      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "Você não pode me pedir para derrubar meu Em geral. Eu sinto Muito. Se você tivesse me permitido aceitar essa injustiça em meus próprios termos, eu poderia ter perdoado você, mas agora..." Barik balança a cabeça em tristeza.</DefaultText>
+      <DefaultText>[Insuficiente [url=glossary:reputação]Reputação[/url]] "Você não pode me pedir para derrubar meu Em geral. Eu sinto Muito. Se você tivesse me permitido aceitar essa injustiça em meus próprios termos, eu poderia ter perdoado você, mas agora..." Barik balança a cabeça em tristeza.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1040,12 +1040,12 @@ Ele faz um esforço para ficar de pé, mas você sabe que é uma fachada que enc
     </Entry>
     <Entry>
       <ID>258</ID>
-      <DefaultText>"Você tem minha espada, Vinculador do Destino, mas [url=glossary:graven ashe]Cinza Esculpida[/url] é minha Arconte. Ele é minha família, meu coração... a personificação de tudo que há de bom no Norte. Não posso permitir que você o derrube."</DefaultText>
+      <DefaultText>"Você tem minha espada, Vinculador do Destino, mas [url=glossary:cinza esculpida]Cinza Esculpida[/url] é minha Arconte. Ele é minha família, meu coração... a personificação de tudo que há de bom no Norte. Não posso permitir que você o derrube."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>259</ID>
-      <DefaultText>"Gostaria de recebê-lo de volta ao rebanho, Barik do Escudos de Pedra, mas você serviu a este Vinculador do Destino como agente do [url=glossary:scarlet chorus]Coro Escarlate[/url]. Não consigo imaginar quais atrocidades você cometeu, ou como o Arconte dos Segredos o perverteu."</DefaultText>
+      <DefaultText>"Gostaria de recebê-lo de volta ao rebanho, Barik do Escudos de Pedra, mas você serviu a este Vinculador do Destino como agente do [url=glossary:coro escarlate]Coro Escarlate[/url]. Não consigo imaginar quais atrocidades você cometeu, ou como o Arconte dos Segredos o perverteu."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1060,7 +1060,7 @@ Ele faz um esforço para ficar de pé, mas você sabe que é uma fachada que enc
     </Entry>
     <Entry>
       <ID>262</ID>
-      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "Você não pode me pedir para derrubar meu Em geral. Eu sinto Muito. Se você tivesse me permitido aceitar essa injustiça em meus próprios termos, eu poderia ter perdoado você, mas agora..." Barik balança a cabeça em tristeza.</DefaultText>
+      <DefaultText>[Insuficiente [url=glossary:reputação]Reputação[/url]] "Você não pode me pedir para derrubar meu Em geral. Eu sinto Muito. Se você tivesse me permitido aceitar essa injustiça em meus próprios termos, eu poderia ter perdoado você, mas agora..." Barik balança a cabeça em tristeza.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1080,12 +1080,12 @@ Ele faz um esforço para ficar de pé, mas você sabe que é uma fachada que enc
     </Entry>
     <Entry>
       <ID>266</ID>
-      <DefaultText>"Depois que eu triturar seus ossos na terra seca, meu [url=glossary:disfavored]Desfavorecido[/url] levará de volta este reino para o alardeado Norte, e você será esquecido."</DefaultText>
+      <DefaultText>"Depois que eu triturar seus ossos na terra seca, meu [url=glossary:desfavorecido]Desfavorecido[/url] levará de volta este reino para o alardeado Norte, e você será esquecido."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>267</ID>
-      <DefaultText>"Mulher-Besta e Alfa para Mortes nas Sombras vieram caçar [url=glossary:disfavored]Desfavorecido[/url] extintos! Depois muitas mais de cinco temporadas de caça, finalmente, agora-agora, a última Caçador da sombra vai abater - vai devorar - Alfa a ferro-clads."</DefaultText>
+      <DefaultText>"Mulher-Besta e Alfa para Mortes nas Sombras vieram caçar [url=glossary:desfavorecido]Desfavorecido[/url] extintos! Depois muitas mais de cinco temporadas de caça, finalmente, agora-agora, a última Caçador da sombra vai abater - vai devorar - Alfa a ferro-clads."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1100,17 +1100,17 @@ Ele faz um esforço para ficar de pé, mas você sabe que é uma fachada que enc
     </Entry>
     <Entry>
       <ID>270</ID>
-      <DefaultText>"Humano preso na sombra de ferro junta-se a Alfa pacote sobre [url=glossary:disfavored]Desfavorecido[/url] finalmente. Agora Mulher-Fera também não matará companheiro de matilha ao abater [url=glossary:disfavored]Desfavorecido[/url] extinto - talvez."</DefaultText>
+      <DefaultText>"Humano preso na sombra de ferro junta-se a Alfa pacote sobre [url=glossary:desfavorecido]Desfavorecido[/url] finalmente. Agora Mulher-Fera também não matará companheiro de matilha ao abater [url=glossary:desfavorecido]Desfavorecido[/url] extinto - talvez."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>271</ID>
-      <DefaultText>"Humano preso na sombra de ferro junta-se a Alfa pacote sobre [url=glossary:disfavored]Desfavorecido[/url] finalmente. Agora Mulher-Fera também não matará companheiro de matilha ao abater [url=glossary:disfavored]Desfavorecido[/url] extinto - talvez."</DefaultText>
+      <DefaultText>"Humano preso na sombra de ferro junta-se a Alfa pacote sobre [url=glossary:desfavorecido]Desfavorecido[/url] finalmente. Agora Mulher-Fera também não matará companheiro de matilha ao abater [url=glossary:desfavorecido]Desfavorecido[/url] extinto - talvez."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>272</ID>
-      <DefaultText>"Humano preso na sombra de ferro junta-se a Alfa pacote sobre [url=glossary:disfavored]Desfavorecido[/url] finalmente. Agora Mulher-Fera também não matará companheiro de matilha ao abater [url=glossary:disfavored]Desfavorecido[/url] extinto - talvez."</DefaultText>
+      <DefaultText>"Humano preso na sombra de ferro junta-se a Alfa pacote sobre [url=glossary:desfavorecido]Desfavorecido[/url] finalmente. Agora Mulher-Fera também não matará companheiro de matilha ao abater [url=glossary:desfavorecido]Desfavorecido[/url] extinto - talvez."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1180,7 +1180,7 @@ Ele faz um esforço para ficar de pé, mas você sabe que é uma fachada que enc
     </Entry>
     <Entry>
       <ID>302</ID>
-      <DefaultText>Ele se vira para olhar os rostos dos soldados [url=glossary:disfavored]Desfavorecido[/url] reunidos, que encontram seu olhar com orgulho. Em ambos os lados da troca não há vergonha, apenas adoração.</DefaultText>
+      <DefaultText>Ele se vira para olhar os rostos dos soldados [url=glossary:desfavorecido]Desfavorecido[/url] reunidos, que encontram seu olhar com orgulho. Em ambos os lados da troca não há vergonha, apenas adoração.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1202,11 +1202,11 @@ Ele faz um esforço para ficar de pé, mas você sabe que é uma fachada que enc
     </Entry>
     <Entry>
       <ID>306</ID>
-      <DefaultText>"Finalmente!" Ela uiva. "Agora! O momento para a vingança de Beastwoman está aqui! Estava preocupado que Alfa nunca atacasse os ferro-clads, que sempre Alfa faria parte do cão obediente e afetado de [url=glossary:disfavored]Desfavorecido[/url]." 
+      <DefaultText>"Finalmente!" Ela uiva. "Agora! O momento para a vingança de Beastwoman está aqui! Estava preocupado que Alfa nunca atacasse os ferro-clads, que sempre Alfa faria parte do cão obediente e afetado de [url=glossary:desfavorecido]Desfavorecido[/url]." 
 
 Músculos trêmulos, presas rangendo e espumando com saliva tingida de vermelho, ela se eleva até sua altura máxima e alta e zurra descontroladamente. Ela é uma coisa selvagem e louca, dominada por seu desejo de matar. 
 
-"Mas veja como Alfa rasga a garganta do ancião [url=glossary:disfavored]Desfavorecido[/url] agora. Assista como Mulher-Besta banha [url=glossary:disfavored]Desfavorecido[/url] no próprio sangue da matilha. Sim-sim, os Caçadores de Sombras serão vingados."</DefaultText>
+"Mas veja como Alfa rasga a garganta do ancião [url=glossary:desfavorecido]Desfavorecido[/url] agora. Assista como Mulher-Besta banha [url=glossary:desfavorecido]Desfavorecido[/url] no próprio sangue da matilha. Sim-sim, os Caçadores de Sombras serão vingados."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1278,12 +1278,12 @@ Um sorriso malicioso aparece no rosto de Eb's enquanto ela prepara seu cajado.</
     </Entry>
     <Entry>
       <ID>332</ID>
-      <DefaultText>"Não ouço nenhuma palavra de Cacofonia, exceto que [url=glossary:the voices of nerat]As Vozes de Nerat[/url] age de maneira estranha e que você é um soldado a menos. Não sei o que você fez, mas não vou fingir que foi em nome de outra coisa que não o interesse próprio."</DefaultText>
+      <DefaultText>"Não ouço nenhuma palavra de Cacofonia, exceto que [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] age de maneira estranha e que você é um soldado a menos. Não sei o que você fez, mas não vou fingir que foi em nome de outra coisa que não o interesse próprio."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>333</ID>
-      <DefaultText>"O silêncio em Cacofonia me diz que [url=glossary:the voices of nerat]As Vozes de Nerat[/url] está morto e tenho todos os motivos para comemorar. Mas não imagino por um momento que você veio buscar minha gratidão por um trabalho bem feito."</DefaultText>
+      <DefaultText>"O silêncio em Cacofonia me diz que [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] está morto e tenho todos os motivos para comemorar. Mas não imagino por um momento que você veio buscar minha gratidão por um trabalho bem feito."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1368,7 +1368,7 @@ Um sorriso malicioso aparece no rosto de Eb's enquanto ela prepara seu cajado.</
     </Entry>
     <Entry>
       <ID>358</ID>
-      <DefaultText>[url=glossary:graven ashe]Cinza Esculpida[/url] aceita o pergaminho com a mão trêmula. Ele se debruça sobre o documento, seus lábios se movendo enquanto ele lê, sua sobrancelha levantando lentamente em descrença crescente.</DefaultText>
+      <DefaultText>[url=glossary:cinza esculpida]Cinza Esculpida[/url] aceita o pergaminho com a mão trêmula. Ele se debruça sobre o documento, seus lábios se movendo enquanto ele lê, sua sobrancelha levantando lentamente em descrença crescente.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1378,7 +1378,7 @@ Um sorriso malicioso aparece no rosto de Eb's enquanto ela prepara seu cajado.</
     </Entry>
     <Entry>
       <ID>363</ID>
-      <DefaultText>[url=glossary:graven ashe]Cinza Esculpida[/url] aceita o pergaminho com a mão trêmula. Ele se debruça sobre o documento, seus lábios se movendo enquanto ele lê, sua sobrancelha levantando lentamente em descrença crescente.</DefaultText>
+      <DefaultText>[url=glossary:cinza esculpida]Cinza Esculpida[/url] aceita o pergaminho com a mão trêmula. Ele se debruça sobre o documento, seus lábios se movendo enquanto ele lê, sua sobrancelha levantando lentamente em descrença crescente.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

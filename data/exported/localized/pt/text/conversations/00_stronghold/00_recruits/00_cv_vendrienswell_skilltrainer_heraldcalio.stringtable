@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"[Player Name], vejo que você voltou ao redil. Suas façanhas em [url=glossary:vendrien's well]Poço de Vendrien[/url] são objeto de alguma discussão." O Destino do Equilíbrio olha para você com um olhar perspicaz, e por um momento você sente como se ela estivesse tentando perscrutar as profundezas do sua mente.</DefaultText>
+      <DefaultText>"[Player Name], vejo que você voltou ao redil. Suas façanhas em [url=glossary:poço de vendrien]Poço de Vendrien[/url] são objeto de alguma discussão." O Destino do Equilíbrio olha para você com um olhar perspicaz, e por um momento você sente como se ela estivesse tentando perscrutar as profundezas do sua mente.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Venha comigo para visitar o Pináculo eu ve reivindicado em [url=glossary:vendrien's well]Poço de Vendrien[/url]."</DefaultText>
+      <DefaultText>"Venha comigo para visitar o Pináculo eu ve reivindicado em [url=glossary:poço de vendrien]Poço de Vendrien[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Saudações. Suas façanhas em [url=glossary:vendrien's well]Poço de Vendrien[/url] são o tema de muita discussão." "Começa-se a questionar a intenção por trás de seus métodos, [Player Name]. Espero que você não esteja vagando por um caminho do qual não possa retornar." "Apesar de minhas reservas, estou muito curioso para saber de suas viagens."</DefaultText>
+      <DefaultText>"Saudações. Suas façanhas em [url=glossary:poço de vendrien]Poço de Vendrien[/url] são o tema de muita discussão." "Começa-se a questionar a intenção por trás de seus métodos, [Player Name]. Espero que você não esteja vagando por um caminho do qual não possa retornar." "Apesar de minhas reservas, estou muito curioso para saber de suas viagens."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -120,7 +120,7 @@ Calio toca suavemente seu ombro com a mão.</DefaultText>
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Nunoval foi enviado para Robusto para quebrar o impasse entre os locais e os [url=glossary:disfavored]Desfavorecido[/url]. Ele proclamou [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] de Tempestades, destruindo o país com ventos sem fim."</DefaultText>
+      <DefaultText>"Nunoval foi enviado para Robusto para quebrar o impasse entre os locais e os [url=glossary:desfavorecido]Desfavorecido[/url]. Ele proclamou [url=glossary:edital]Edital[/url] de [url=glossary:kyros]Kyros[/url] de Tempestades, destruindo o país com ventos sem fim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -159,7 +159,7 @@ Ela acena para os nobres reunidos no hall de entrada. "Já começou."</DefaultTe
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Será tratada, rápida e eficientemente, no ponto da lâmina de [url=glossary:bleden mark]Marca de Mistura[/url]." O Vinculador do Destino desliza uma adaga fina das dobras de seu traje roxo, virando a arma quase à toa no ar. "Claro, isso supondo que eu não os despache primeiro. Levo meu dever a sério e sou muito, muito bom nisso."</DefaultText>
+      <DefaultText>"Será tratada, rápida e eficientemente, no ponto da lâmina de [url=glossary:marca de mistura]Marca de Mistura[/url]." O Vinculador do Destino desliza uma adaga fina das dobras de seu traje roxo, virando a arma quase à toa no ar. "Claro, isso supondo que eu não os despache primeiro. Levo meu dever a sério e sou muito, muito bom nisso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -181,12 +181,12 @@ Ela acena para os nobres reunidos no hall de entrada. "Já começou."</DefaultTe
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"O [url=glossary:disfavored]Desfavorecido[/url] - nossas tropas de elite nos levarão à vitória."</DefaultText>
+      <DefaultText>"O [url=glossary:desfavorecido]Desfavorecido[/url] - nossas tropas de elite nos levarão à vitória."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Os [url=glossary:scarlet chorus]Coro Escarlate[/url] - sua crueldade vencerá esta guerra."</DefaultText>
+      <DefaultText>"Os [url=glossary:coro escarlate]Coro Escarlate[/url] - sua crueldade vencerá esta guerra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -196,7 +196,7 @@ Ela acena para os nobres reunidos no hall de entrada. "Já começou."</DefaultTe
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>"Há sabedoria por trás do seu raciocínio. As guerras são vencidas com astúcia, estratégia e força. Os [url=glossary:disfavored]Desfavorecido[/url] são superados apenas em número no campo de batalha."
+      <DefaultText>"Há sabedoria por trás do seu raciocínio. As guerras são vencidas com astúcia, estratégia e força. Os [url=glossary:desfavorecido]Desfavorecido[/url] são superados apenas em número no campo de batalha."
 
 "Considerando sua oposição, Cinza e seus soldados mais do que compensam a diferença."</DefaultText>
       <FemaleText />
@@ -233,17 +233,17 @@ Ela acena para os nobres reunidos no hall de entrada. "Já começou."</DefaultTe
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Houve rumores de que [url=glossary:cairn]Cairn[/url] cresceu desleal ao comando de [url=glossary:graven ashe]Cinza Esculpida[/url] durante a campanha em Azure. Assumi o manto da investigação perto de Plainsgate, e julgando os rumores como verdadeiros, despachei [url=glossary:cairn]Cairn[/url] proclamando [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] de Pedra. A própria terra se voltou contra o traidor Arconte enquanto a região se dividia em julgamento justo."</DefaultText>
+      <DefaultText>"Houve rumores de que [url=glossary:cairn]Cairn[/url] cresceu desleal ao comando de [url=glossary:cinza esculpida]Cinza Esculpida[/url] durante a campanha em Azure. Assumi o manto da investigação perto de Plainsgate, e julgando os rumores como verdadeiros, despachei [url=glossary:cairn]Cairn[/url] proclamando [url=glossary:edital]Edital[/url] de [url=glossary:kyros]Kyros[/url] de Pedra. A própria terra se voltou contra o traidor Arconte enquanto a região se dividia em julgamento justo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Rhogalus viajou para o [url=glossary:vellum citadel]Cidadela de Velino[/url] para proteger os arquivos do nosso gentil soberano. Os Sábios se mostrou mais teimoso do que havíamos previsto, então Rhogalus foi forçado a proclamar [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] de Incêndio, consumindo a Cidadela em um golfo de chamas eternas. Um caso triste."</DefaultText>
+      <DefaultText>"Rhogalus viajou para o [url=glossary:cidadela de velino]Cidadela de Velino[/url] para proteger os arquivos do nosso gentil soberano. Os Sábios se mostrou mais teimoso do que havíamos previsto, então Rhogalus foi forçado a proclamar [url=glossary:edital]Edital[/url] de [url=glossary:kyros]Kyros[/url] de Incêndio, consumindo a Cidadela em um golfo de chamas eternas. Um caso triste."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Depois que você despachou [url=glossary:cairn]Cairn[/url] por [url=lore:EdictofStone_React]enterrando-o em pedra[/url], fui encarregado de investigar as circunstâncias que levaram à sua traição. O Arconte ignorou as ordens de [url=glossary:graven ashe]Cinza Esculpida[/url] e virou as costas para [url=glossary:kyros]Kyros[/url] para seus próprios interesses egoístas." "Rhogalus queria assumir o comando da investigação, mas eu temia que o que quer que seduzisse [url=glossary:cairn]Cairn[/url] para longe de seus sentidos em Azure pudesse corromper nosso Rhogalus também, então eu assumi a tarefa."</DefaultText>
+      <DefaultText>"Depois que você despachou [url=glossary:cairn]Cairn[/url] por [url=lore:EdictofStone_React]enterrando-o em pedra[/url], fui encarregado de investigar as circunstâncias que levaram à sua traição. O Arconte ignorou as ordens de [url=glossary:cinza esculpida]Cinza Esculpida[/url] e virou as costas para [url=glossary:kyros]Kyros[/url] para seus próprios interesses egoístas." "Rhogalus queria assumir o comando da investigação, mas eu temia que o que quer que seduzisse [url=glossary:cairn]Cairn[/url] para longe de seus sentidos em Azure pudesse corromper nosso Rhogalus também, então eu assumi a tarefa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -406,7 +406,7 @@ Ela limpa a garganta.</DefaultText>
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"A guerra entre o [url=glossary:disfavored]Desfavorecido[/url] e o [url=glossary:scarlet chorus]Coro Escarlate[/url] tem sido um pesadelo burocrático, como você pode imaginar. A quadra não pode ser vista favorecendo abertamente um lado ou outro, então [url=glossary:tunon]Tunon[/url] e seu Vinculadores do Destino jogam com imparcialidade."</DefaultText>
+      <DefaultText>"A guerra entre o [url=glossary:desfavorecido]Desfavorecido[/url] e o [url=glossary:coro escarlate]Coro Escarlate[/url] tem sido um pesadelo burocrático, como você pode imaginar. A quadra não pode ser vista favorecendo abertamente um lado ou outro, então [url=glossary:tunon]Tunon[/url] e seu Vinculadores do Destino jogam com imparcialidade."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -450,12 +450,12 @@ Ela limpa a garganta.</DefaultText>
       <ID>98</ID>
       <DefaultText>"E, no entanto, o exército se move sem tato, mata sem pensar, marcha com meias rações na melhor das hipóteses, e está sujeito à loucura e brilho em igual medida."
 
-"As guerras foram vencidas com menos vantagens, embora eu me pergunte se o [url=glossary:scarlet chorus]Coro Escarlate[/url] é igual ao desafio."</DefaultText>
+"As guerras foram vencidas com menos vantagens, embora eu me pergunte se o [url=glossary:coro escarlate]Coro Escarlate[/url] é igual ao desafio."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>"Como você tem ocupado seu tempo no [url=glossary:bastard city]Cidade bastarda[/url]?"</DefaultText>
+      <DefaultText>"Como você tem ocupado seu tempo no [url=glossary:cidade bastarda]Cidade Bastarda[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -494,22 +494,22 @@ Ela limpa a garganta.</DefaultText>
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"Não tenho certeza de como você domou [url=glossary:the voices of nerat]As Vozes de Nerat[/url], e duvido que queira saber. Apenas tome cuidado com isso. Você não gostaria de ser adicionado à mistura de... o que quer que ele seja."</DefaultText>
+      <DefaultText>"Não tenho certeza de como você domou [url=glossary:as vozes de nerat]As Vozes de Nerat[/url], e duvido que queira saber. Apenas tome cuidado com isso. Você não gostaria de ser adicionado à mistura de... o que quer que ele seja."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"Tenho minhas dúvidas de que [url=glossary:the voices of nerat]As Vozes de Nerat[/url] esteja morto. Isso parece algo que ele teria planejado há muito tempo. Tem certeza de que pegou o Arconte certo?" Calio dá de ombros.</DefaultText>
+      <DefaultText>"Tenho minhas dúvidas de que [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] esteja morto. Isso parece algo que ele teria planejado há muito tempo. Tem certeza de que pegou o Arconte certo?" Calio dá de ombros.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"Como você acha que o Tribunal se sairá sem o [url=glossary:bleden mark]Marca de Mistura[/url]?"</DefaultText>
+      <DefaultText>"Como você acha que o Tribunal se sairá sem o [url=glossary:marca de mistura]Marca de Mistura[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"[url=glossary:bleden mark]Marca de Mistura[/url] está sob meu controle. O que devo fazer com ele?"</DefaultText>
+      <DefaultText>"[url=glossary:marca de mistura]Marca de Mistura[/url] está sob meu controle. O que devo fazer com ele?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

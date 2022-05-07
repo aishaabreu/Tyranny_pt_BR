@@ -11,12 +11,12 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Lord Vinculador," o [url=glossary:disfavored]Desfavorecido[/url] o soldado acena para mais perto, "estamos esperando por você. Um dos Nerats cachorros enlouqueceram. Pelo menos ele fez a coisa certa em se apresentar aqui para um julgamento adequado. Eu gostaria de arrancar os dentes dele, e gostaria que fosse com sua bênção... para que eu pudesse usar seu julgamento sobre este assunto."</DefaultText>
+      <DefaultText>"Lord Vinculador," o [url=glossary:desfavorecido]Desfavorecido[/url] o soldado acena para mais perto, "estamos esperando por você. Um dos Nerats cachorros enlouqueceram. Pelo menos ele fez a coisa certa em se apresentar aqui para um julgamento adequado. Eu gostaria de arrancar os dentes dele, e gostaria que fosse com sua bênção... para que eu pudesse usar seu julgamento sobre este assunto."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Bom Vinculador do Destino, sou Bitter Quip do Guilda dos Cantores de Sangue, vassalo orgulhoso do [url=glossary:the voices of nerat]As Vozes de Nerat[/url]." Ele oferece uma reverência curta. "Satisfeito para conhecê-lo."</DefaultText>
+      <DefaultText>"Bom Vinculador do Destino, sou Bitter Quip do Guilda dos Cantores de Sangue, vassalo orgulhoso do [url=glossary:as vozes de nerat]As Vozes de Nerat[/url]." Ele oferece uma reverência curta. "Satisfeito para conhecê-lo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,17 +36,17 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Três semanas atrás, estávamos no extremo leste do vale. Estávamos em missão para impedir a saída de [url=glossary:vendrien guard]Guarda Vendrien[/url] corredores e a chegada de reforços. Piada Amarga e alguns Fúrias Escarlates vieram conosco para," sua voz falha por uma pausa constrangedora, "suporte."</DefaultText>
+      <DefaultText>"Três semanas atrás, estávamos no extremo leste do vale. Estávamos em missão para impedir a saída de [url=glossary:guarda vendrien]Guarda Vendrien[/url] corredores e a chegada de reforços. Piada Amarga e alguns Fúrias Escarlates vieram conosco para," sua voz falha por uma pausa constrangedora, "suporte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Sim," o guerreiro dá um passo à frente, saudando com um estrondo retumbante, "Salveros do [url=glossary:disfavored]Desfavorecido[/url], sou reclamante e testemunha em nome dos meus irmãos do escudo caídos, Devona e Ceveus, o Rápido."</DefaultText>
+      <DefaultText>"Sim," o guerreiro dá um passo à frente, saudando com um estrondo retumbante, "Salveros do [url=glossary:desfavorecido]Desfavorecido[/url], sou reclamante e testemunha em nome dos meus irmãos do escudo caídos, Devona e Ceveus, o Rápido."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Bem, nossa trilha nos coloca entre duas [url=glossary:vendrien guard]Guarda Vendrien[/url] patrulhas. Pensando que estão em desvantagem numérica, eles tiram o bronze. Nós cerramos fileiras e lutamos juntos. É uma briga bastante empolgante e os infratores de juramento dão o melhor que podem - mas entre os mortos - uma dúzia de recrutas e dois [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <DefaultText>"Bem, nossa trilha nos coloca entre duas [url=glossary:guarda vendrien]Guarda Vendrien[/url] patrulhas. Pensando que estão em desvantagem numérica, eles tiram o bronze. Nós cerramos fileiras e lutamos juntos. É uma briga bastante empolgante e os infratores de juramento dão o melhor que podem - mas entre os mortos - uma dúzia de recrutas e dois [url=glossary:desfavorecido]Desfavorecido[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Então o [url=glossary:vendrien guard]Guarda Vendrien[/url] os matou? Como, então, esse Corista é o culpado?"</DefaultText>
+      <DefaultText>"Então o [url=glossary:guarda vendrien]Guarda Vendrien[/url] os matou? Como, então, esse Corista é o culpado?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -78,7 +78,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Aí! Ele acabou de sair e admitiu isso! Os violadores de juramentos geralmente não conseguem lutar para sair do saco de estopa... mas ele lhes concede o dom da coragem de um texugo fedorento." O guerreiro descansa a cabeça na mão. "Loucura, puro e simples. As Fúrias ficaram estupefatos e desistiram, e foi aí que Devona e Ceveus, o Rápido mergulhou na briga. Devona pegou um dardo no olho - apenas estupidamente azar. Quanto a Ceveus, após a batalha ele foi atropelado dezenove vezes - [url=glossary:graven ashe]Cinza Esculpida[/url] não conseguiu salvá-lo."</DefaultText>
+      <DefaultText>"Aí! Ele acabou de sair e admitiu isso! Os violadores de juramentos geralmente não conseguem lutar para sair do saco de estopa... mas ele lhes concede o dom da coragem de um texugo fedorento." O guerreiro descansa a cabeça na mão. "Loucura, puro e simples. As Fúrias ficaram estupefatos e desistiram, e foi aí que Devona e Ceveus, o Rápido mergulhou na briga. Devona pegou um dardo no olho - apenas estupidamente azar. Quanto a Ceveus, após a batalha ele foi atropelado dezenove vezes - [url=glossary:cinza esculpida]Cinza Esculpida[/url] não conseguiu salvá-lo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -133,7 +133,7 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>[Mentira] "Não tenho certeza - talvez algo [url=glossary:the voices of nerat]As Vozes de Nerat[/url] inventado."</DefaultText>
+      <DefaultText>[Mentira] "Não tenho certeza - talvez algo [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] inventado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -233,7 +233,7 @@
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Os [url=glossary:disfavored]Desfavorecido[/url] me acusaram de vários assassinatos. Não sou culpado dessas acusações e não tenho nada a esconder." Ele sorri de orelha a orelha. "A verdade só pode me exonerar, então me submeterei alegremente ao seu julgamento."</DefaultText>
+      <DefaultText>"Os [url=glossary:desfavorecido]Desfavorecido[/url] me acusaram de vários assassinatos. Não sou culpado dessas acusações e não tenho nada a esconder." Ele sorri de orelha a orelha. "A verdade só pode me exonerar, então me submeterei alegremente ao seu julgamento."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -258,7 +258,7 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Você reclama, mas se essa lei não existisse, eu poderia argumentar que [url=glossary:graven ashe]Cinza Esculpida[/url] não está protegendo o [url=glossary:scarlet chorus]Coro Escarlate[/url] do jeito que ele protegeu [url=glossary:disfavored]Desfavorecido[/url] - e eu poderia exigir que [url=glossary:tunon]Tunon[/url] punisse tal uso indevido de magia. Mas a lei existe - então eu não."</DefaultText>
+      <DefaultText>"Você reclama, mas se essa lei não existisse, eu poderia argumentar que [url=glossary:cinza esculpida]Cinza Esculpida[/url] não está protegendo o [url=glossary:coro escarlate]Coro Escarlate[/url] do jeito que ele protegeu [url=glossary:desfavorecido]Desfavorecido[/url] - e eu poderia exigir que [url=glossary:tunon]Tunon[/url] punisse tal uso indevido de magia. Mas a lei existe - então eu não."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -347,12 +347,12 @@ Curvando sob a dor, o Cantor perde o equilíbrio e escorrega a um joelho.</Defau
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>O Cantor de Sangue sorri, presunçoso. Ele inclina a cabeça para você em agradecimento antes de fazer um gesto obsceno para o soldado [url=glossary:disfavored]Desfavorecido[/url].</DefaultText>
+      <DefaultText>O Cantor de Sangue sorri, presunçoso. Ele inclina a cabeça para você em agradecimento antes de fazer um gesto obsceno para o soldado [url=glossary:desfavorecido]Desfavorecido[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>O Cantor de Sangue primeiro tenta enlouquecê-lo para lutar ao lado dele, mas quando você resiste à patética atração de sua magia, ele, em pânico, a transforma em uma explosão de fogo no [url=glossary:disfavored]Desfavorecido[/url] soldado. O soldado emite um grito gutural que poderia rivalizar com um Homem-Besta e corta o Cantor em dois com apenas um golpe de sua espada.
+      <DefaultText>O Cantor de Sangue primeiro tenta enlouquecê-lo para lutar ao lado dele, mas quando você resiste à patética atração de sua magia, ele, em pânico, a transforma em uma explosão de fogo no [url=glossary:desfavorecido]Desfavorecido[/url] soldado. O soldado emite um grito gutural que poderia rivalizar com um Homem-Besta e corta o Cantor em dois com apenas um golpe de sua espada.
 
 Você observa as metades que eram Piada Amarga tombarem no chão e dão ao soldado um aceno cauteloso de aprovação.</DefaultText>
       <FemaleText />

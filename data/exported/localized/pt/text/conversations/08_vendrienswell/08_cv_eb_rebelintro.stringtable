@@ -8,7 +8,7 @@
       <ID>1</ID>
       <DefaultText>"Já chega, Vinculador do Destino." A voz de uma mulher ressoa do alto de um afloramento próximo. Flashes de [url=lore:vwell_eb_intro]pintura corporal de água-marinha[/url] surgem sob sua roupa folgada de viajante, e sua roupa é enfeitada com tranças e nós de linha de marinheiro.
 
-Flanqueado de ambos os lados por guerreiros vestidos com [url=glossary:vendrien guard]Guarda Vendrien[/url] regalia, a mulher se apóia em um elaborado cajado de lâmina pulsando com energia arcana. [url=lore:blue_flag]Uma faixa de tecido azul[/url] repousa sobre seu braço.</DefaultText>
+Flanqueado de ambos os lados por guerreiros vestidos com [url=glossary:guarda vendrien]Guarda Vendrien[/url] regalia, a mulher se apóia em um elaborado cajado de lâmina pulsando com energia arcana. [url=lore:blue_flag]Uma faixa de tecido azul[/url] repousa sobre seu braço.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -55,12 +55,12 @@ Flanqueado de ambos os lados por guerreiros vestidos com [url=glossary:vendrien 
       <ID>11</ID>
       <DefaultText>"Tanto para palavras. Mate essa vadia rabugenta." A mulher joga seu cajado no chão com uma mão, enquanto faz gestos mágicos furiosamente com a outra.
 
-Uma névoa pesada sai de sua mão. A névoa translúcida rapidamente se torna uma parede opaca. Os [url=glossary:vendrien guard]Guarda Vendrien[/url] guerreiros irrompem da névoa, armas em punho, mas o Lançador de maré não está em lugar algum.</DefaultText>
+Uma névoa pesada sai de sua mão. A névoa translúcida rapidamente se torna uma parede opaca. Os [url=glossary:guarda vendrien]Guarda Vendrien[/url] guerreiros irrompem da névoa, armas em punho, mas o Lançador de maré não está em lugar algum.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Sou Eb do Escola das Marés, e hoje falo em nome do [url=glossary:vendrien guard]Guarda Vendrien[/url]."</DefaultText>
+      <DefaultText>"Sou Eb do Escola das Marés, e hoje falo em nome do [url=glossary:guarda vendrien]Guarda Vendrien[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -92,7 +92,7 @@ Verse lhe lança um olhar severo, mas acena lentamente enquanto tira a mão do s
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"O [url=glossary:vendrien guard]Guarda Vendrien[/url] se rendeu há dois anos e ainda assim você nos desafia. Sua palavra não é mais confiável."</DefaultText>
+      <DefaultText>"O [url=glossary:guarda vendrien]Guarda Vendrien[/url] se rendeu há dois anos e ainda assim você nos desafia. Sua palavra não é mais confiável."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -107,7 +107,7 @@ Verse lhe lança um olhar severo, mas acena lentamente enquanto tira a mão do s
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Não há como contornar esse fato - o [url=glossary:vendrien guard]Guarda Vendrien[/url] quebrou seu juramento. Uma promessa a um animal devorador de homens é uma promessa que precisa ser cumprida? As pessoas de Ápice se renderam para se pouparem de assassinatos devassos."</DefaultText>
+      <DefaultText>"Não há como contornar esse fato - o [url=glossary:guarda vendrien]Guarda Vendrien[/url] quebrou seu juramento. Uma promessa a um animal devorador de homens é uma promessa que precisa ser cumprida? As pessoas de Ápice se renderam para se pouparem de assassinatos devassos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -176,7 +176,7 @@ A mulher se curva profundamente, abaixando a cabeça em uma prática demonstraç
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Será que [url=glossary:the voices of nerat]As Vozes de Nerat[/url] te mandou para [url=lore:vwell_eb_past]reunir minha cabeça e completar a coleção dele?[/url] Se sim, teremos que guardar nossa briga para outra hora - hoje tenho negócios , a vingança pode esperar."</DefaultText>
+      <DefaultText>"Será que [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] te mandou para [url=lore:vwell_eb_past]reunir minha cabeça e completar a coleção dele?[/url] Se sim, teremos que guardar nossa briga para outra hora - hoje tenho negócios , a vingança pode esperar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -203,7 +203,7 @@ A essa observação, os soldados que flanqueiam ela trocam olhares chocados. Eb 
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Sim, você me ouviu! Como as coisas eram anos atrás, todos vocês estariam me chamando de bruxa da água e conspirando para me vender para o mais próximo [url=glossary:sage]Sábio[/url]. Só porque estou ajudando você a parar [url=glossary:kyros]Kyros[/url] não significa que esqueci a 'hospitalidade' de eras passadas."</DefaultText>
+      <DefaultText>"Sim, você me ouviu! Como as coisas eram anos atrás, todos vocês estariam me chamando de bruxa da água e conspirando para me vender para o mais próximo [url=glossary:sábio]Sábio[/url]. Só porque estou ajudando você a parar [url=glossary:kyros]Kyros[/url] não significa que esqueci a 'hospitalidade' de eras passadas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -233,7 +233,7 @@ A essa observação, os soldados que flanqueiam ela trocam olhares chocados. Eb 
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"O [url=glossary:edict]Edital[/url]... Eu posso sentir sua magia correndo pelo ar... todos podem, mas aqueles de nós iluminados pelas correntes da magia sentem mais. A redação do [url=glossary:edict]Edital[/url] - o que era?"</DefaultText>
+      <DefaultText>"O [url=glossary:edital]Edital[/url]... Eu posso sentir sua magia correndo pelo ar... todos podem, mas aqueles de nós iluminados pelas correntes da magia sentem mais. A redação do [url=glossary:edital]Edital[/url] - o que era?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -248,7 +248,7 @@ A essa observação, os soldados que flanqueiam ela trocam olhares chocados. Eb 
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"As forças [url=glossary:kyros]Kyros[/url] devem levar [url=glossary:ascension hall]Salão da Ascensão[/url] pelo [url=lore:kyros_day_swords]Dia de Espadas[/url], ou todos no vale perecerão."</DefaultText>
+      <DefaultText>"As forças [url=glossary:kyros]Kyros[/url] devem levar [url=glossary:salão da ascensão]Salão da Ascensão[/url] pelo [url=lore:kyros_day_swords]Dia de Espadas[/url], ou todos no vale perecerão."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -263,12 +263,12 @@ A essa observação, os soldados que flanqueiam ela trocam olhares chocados. Eb 
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>"Curioso... você disse... TODOS no vale? Então o [url=glossary:edict]Edital[/url] afetará as forças de [url=glossary:kyros]Kyros[/url]? Esse é... muito inesperado." Seus olhos se arregalam com suas palavras.</DefaultText>
+      <DefaultText>"Curioso... você disse... TODOS no vale? Então o [url=glossary:edital]Edital[/url] afetará as forças de [url=glossary:kyros]Kyros[/url]? Esse é... muito inesperado." Seus olhos se arregalam com suas palavras.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>"Dois exércitos não são suficientes, [url=glossary:kyros]Kyros[/url] precisa de um [url=glossary:edict]Edital[/url] para nos enfraquecer também? Devemos ter o soberano aterrorizado! Nós vamos se esse é o nosso destino, que assim seja - não parece pior do que fogo borbulhando do solo. Obrigado por me avisar."</DefaultText>
+      <DefaultText>"Dois exércitos não são suficientes, [url=glossary:kyros]Kyros[/url] precisa de um [url=glossary:edital]Edital[/url] para nos enfraquecer também? Devemos ter o soberano aterrorizado! Nós vamos se esse é o nosso destino, que assim seja - não parece pior do que fogo borbulhando do solo. Obrigado por me avisar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -318,17 +318,17 @@ A essa observação, os soldados que flanqueiam ela trocam olhares chocados. Eb 
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>"E [url=glossary:edict]Editais[/url] de [url=glossary:kyros]Kyros[/url]. Ouvi o Sábios falar longamente que alguns dos Editais em outras partes do mundo foram quebrados - como é isso?"</DefaultText>
+      <DefaultText>"E [url=glossary:edital]Editais[/url] de [url=glossary:kyros]Kyros[/url]. Ouvi o Sábios falar longamente que alguns dos Editais em outras partes do mundo foram quebrados - como é isso?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>[Mentira] "Você está enganado, um [url=glossary:edict]Edital[/url] é para sempre - terminará se o soberano assim o desejar.</DefaultText>
+      <DefaultText>[Mentira] "Você está enganado, um [url=glossary:edital]Edital[/url] é para sempre - terminará se o soberano assim o desejar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>"O Senhor Supremo tem algum controle sobre como o [url=glossary:edict]Edital[/url] permanece - mas [url=glossary:kyros]Kyros[/url] sabe apenas os detalhes exatos."</DefaultText>
+      <DefaultText>"O Senhor Supremo tem algum controle sobre como o [url=glossary:edital]Edital[/url] permanece - mas [url=glossary:kyros]Kyros[/url] sabe apenas os detalhes exatos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -338,12 +338,12 @@ A essa observação, os soldados que flanqueiam ela trocam olhares chocados. Eb 
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Varia de acordo com a redação da proclamação. Se [url=glossary:kyros]Kyros[/url] fornecer uma cláusula permitindo que o [url=glossary:edict]Edital[/url] termine, essa cláusula poderá ser satisfeita."</DefaultText>
+      <DefaultText>"Varia de acordo com a redação da proclamação. Se [url=glossary:kyros]Kyros[/url] fornecer uma cláusula permitindo que o [url=glossary:edital]Edital[/url] termine, essa cláusula poderá ser satisfeita."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>[Mentira] "Uma força antimágica forte o suficiente pode acabar com um [url=glossary:edict]Edital[/url]. Não que essas coisas sejam comuns."</DefaultText>
+      <DefaultText>[Mentira] "Uma força antimágica forte o suficiente pode acabar com um [url=glossary:edital]Edital[/url]. Não que essas coisas sejam comuns."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -363,7 +363,7 @@ A essa observação, os soldados que flanqueiam ela trocam olhares chocados. Eb 
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Isso é o que eu temia. Não tivemos motivo ou acesso para estudar um [url=glossary:edict]Edital[/url] até que seja um pouco tarde demais. magia de [url=glossary:kyros]Kyros[/url] é... bem... parece uma ordem de magnitude além do que o resto de nós acha que entendemos."</DefaultText>
+      <DefaultText>"Isso é o que eu temia. Não tivemos motivo ou acesso para estudar um [url=glossary:edital]Edital[/url] até que seja um pouco tarde demais. magia de [url=glossary:kyros]Kyros[/url] é... bem... parece uma ordem de magnitude além do que o resto de nós acha que entendemos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -395,7 +395,7 @@ Ela e sua comitiva voltam a partir.</DefaultText>
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Os [url=glossary:younger realms]Reinos mais jovens[/url] estavam cercados de batalhas constantes. Você prefere isso a ordem de [url=glossary:kyros]Kyros[/url]?"</DefaultText>
+      <DefaultText>"Os [url=glossary:reinos mais jovens]Reinos Mais Jovens[/url] estavam cercados de batalhas constantes. Você prefere isso a ordem de [url=glossary:kyros]Kyros[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -410,7 +410,7 @@ Ela e sua comitiva voltam a partir.</DefaultText>
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>"Você faz o conflito parecer uma coisa ruim. Sim, o [url=glossary:younger realms]Reinos mais jovens[/url] viu batalhas frequentes, mas nunca foi esse massacre em massa como vimos ultimamente. Sem Homens dos Caminhos alguma vez jogou um [url=glossary:edict]Edital[/url] no solo, ou forçou os prisioneiros a matar uns aos outros, ou massacrou Homens-fera tribos."</DefaultText>
+      <DefaultText>"Você faz o conflito parecer uma coisa ruim. Sim, o [url=glossary:reinos mais jovens]Reinos Mais Jovens[/url] viu batalhas frequentes, mas nunca foi esse massacre em massa como vimos ultimamente. Sem Homens dos Caminhos alguma vez jogou um [url=glossary:edital]Edital[/url] no solo, ou forçou os prisioneiros a matar uns aos outros, ou massacrou Homens-fera tribos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -420,7 +420,7 @@ Ela e sua comitiva voltam a partir.</DefaultText>
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"Eu brincava que [url=glossary:the voices of nerat]As Vozes de Nerat[/url] deixou o portão destrancado, mas dezenas de guerreiros perderam a vida tomando a cidadela. Não havia segredo para isso - nós simplesmente atacamos com velocidade e certeza em um momento em que o Arcontes estava em outro lugar no Camadas. Os [url=glossary:scarlet chorus]Coro Escarlate[/url] tiveram uma derrota, e os poucos [url=glossary:disfavored]Desfavorecido[/url] soldados presentes fizeram uma exibição impressionante, mas foram cercados e oprimidos quando os Refrão fugiram."</DefaultText>
+      <DefaultText>"Eu brincava que [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] deixou o portão destrancado, mas dezenas de guerreiros perderam a vida tomando a cidadela. Não havia segredo para isso - nós simplesmente atacamos com velocidade e certeza em um momento em que o Arcontes estava em outro lugar no Camadas. Os [url=glossary:coro escarlate]Coro Escarlate[/url] tiveram uma derrota, e os poucos [url=glossary:desfavorecido]Desfavorecido[/url] soldados presentes fizeram uma exibição impressionante, mas foram cercados e oprimidos quando os Refrão fugiram."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -462,7 +462,7 @@ Ela e sua comitiva voltam a partir.</DefaultText>
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>"Ah, não temos. Aqueles que acreditavam que [url=glossary:kyros]Kyros[/url] poderiam ser detidos todos morreram anos atrás, na primeira onda de combates. Não é sobre a esperança de vitória, é sobre a esperança de inspirar os outros. É muito provável que caiamos aqui em [url=glossary:vendrien's well]Poço de Vendrien[/url], mas talvez surjam outros em outro lugar."</DefaultText>
+      <DefaultText>"Ah, não temos. Aqueles que acreditavam que [url=glossary:kyros]Kyros[/url] poderiam ser detidos todos morreram anos atrás, na primeira onda de combates. Não é sobre a esperança de vitória, é sobre a esperança de inspirar os outros. É muito provável que caiamos aqui em [url=glossary:poço de vendrien]Poço de Vendrien[/url], mas talvez surjam outros em outro lugar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -514,12 +514,12 @@ Ela se curva profundamente, batendo seu cajado no chão duas vezes antes de se v
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>"Esse é o nosso jeito, Vinculador. Aqui no sul, apenas bandidos e bandidos matam prisioneiros. O [url=glossary:younger realms]Reinos mais jovens[/url] pode ser culpado de brigas constantes, mas nunca nos matamos quando a batalha acabou. Não vamos mudar isso agora."</DefaultText>
+      <DefaultText>"Esse é o nosso jeito, Vinculador. Aqui no sul, apenas bandidos e bandidos matam prisioneiros. O [url=glossary:reinos mais jovens]Reinos Mais Jovens[/url] pode ser culpado de brigas constantes, mas nunca nos matamos quando a batalha acabou. Não vamos mudar isso agora."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>"Como regra geral, as forças de [url=glossary:kyros]Kyros[/url] não estão interessadas em trocar prisioneiros, mas eu sei que nossos [url=glossary:disfavored]Desfavorecido[/url] prisioneiros não são mais prisioneiros - eu apenas presumi eles foram trocados por alguns dos nossos."</DefaultText>
+      <DefaultText>"Como regra geral, as forças de [url=glossary:kyros]Kyros[/url] não estão interessadas em trocar prisioneiros, mas eu sei que nossos [url=glossary:desfavorecido]Desfavorecido[/url] prisioneiros não são mais prisioneiros - eu apenas presumi eles foram trocados por alguns dos nossos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -544,12 +544,12 @@ Ela se curva profundamente, batendo seu cajado no chão duas vezes antes de se v
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>"Isso é... o mais preocupante. Então, ou os soldados vêm para nos destruir e matar, ou o [url=glossary:edict]Edital[/url] faz o trabalho. Suponho que deveríamos estar tão honrados que soberano não está nos arriscando."</DefaultText>
+      <DefaultText>"Isso é... o mais preocupante. Então, ou os soldados vêm para nos destruir e matar, ou o [url=glossary:edital]Edital[/url] faz o trabalho. Suponho que deveríamos estar tão honrados que soberano não está nos arriscando."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>"Então, se os exércitos não nos pegarem, o [url=glossary:edict]Edital[/url] o fará. Nós vamos... obrigado, suponho que seja bom saber que nossos dias de expectativa logo terminarão de uma forma ou de outra."</DefaultText>
+      <DefaultText>"Então, se os exércitos não nos pegarem, o [url=glossary:edital]Edital[/url] o fará. Nós vamos... obrigado, suponho que seja bom saber que nossos dias de expectativa logo terminarão de uma forma ou de outra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -654,12 +654,12 @@ Ela se curva profundamente, batendo seu cajado no chão duas vezes antes de se v
     </Entry>
     <Entry>
       <ID>187</ID>
-      <DefaultText>"Eu não nos permitiria trocar com violadores de juramentos... certamente não por nada menos que [url=glossary:disfavored]Desfavorecido[/url] vidas"</DefaultText>
+      <DefaultText>"Eu não nos permitiria trocar com violadores de juramentos... certamente não por nada menos que [url=glossary:desfavorecido]Desfavorecido[/url] vidas"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>188</ID>
-      <DefaultText>"Você diz que há algo que vale menos que uma [url=glossary:disfavored]Desfavorecido[/url] vida? Ligar estou intrigado."</DefaultText>
+      <DefaultText>"Você diz que há algo que vale menos que uma [url=glossary:desfavorecido]Desfavorecido[/url] vida? Ligar estou intrigado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -719,7 +719,7 @@ Ela se curva profundamente, batendo seu cajado no chão duas vezes antes de se v
     </Entry>
     <Entry>
       <ID>201</ID>
-      <DefaultText>"Você matou algum dos [url=glossary:disfavored]Desfavorecido[/url] prisioneiros com magia?"</DefaultText>
+      <DefaultText>"Você matou algum dos [url=glossary:desfavorecido]Desfavorecido[/url] prisioneiros com magia?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -734,7 +734,7 @@ Ela se curva profundamente, batendo seu cajado no chão duas vezes antes de se v
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>"As forças [url=glossary:kyros]Kyros[/url] devem levar [url=glossary:ascension hall]Salão da Ascensão[/url] pelo [url=lore:kyros_day_swords]Dia de Espadas[/url], ou todos no vale perecerão."</DefaultText>
+      <DefaultText>"As forças [url=glossary:kyros]Kyros[/url] devem levar [url=glossary:salão da ascensão]Salão da Ascensão[/url] pelo [url=lore:kyros_day_swords]Dia de Espadas[/url], ou todos no vale perecerão."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -781,7 +781,7 @@ As articulações do metal gemem enquanto ele tenta sutilmente mover a mão em d
     </Entry>
     <Entry>
       <ID>218</ID>
-      <DefaultText>"Você pode ter consignado minha Escola a um destino pior que a morte, mas você se saiu bem com os [url=glossary:vendrien guard]Guarda Vendrien[/url] - muitos deles estão vivos hoje [url=lore:peacebinder]graças à trégua que você forjou anos atrás .[/url] Eles parecem pensar que você tem um traço de nobreza em você... espero que eles estejam certos."</DefaultText>
+      <DefaultText>"Você pode ter consignado minha Escola a um destino pior que a morte, mas você se saiu bem com os [url=glossary:guarda vendrien]Guarda Vendrien[/url] - muitos deles estão vivos hoje [url=lore:peacebinder]graças à trégua que você forjou anos atrás .[/url] Eles parecem pensar que você tem um traço de nobreza em você... espero que eles estejam certos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

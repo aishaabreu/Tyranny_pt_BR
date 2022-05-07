@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Perdoe a grosseria, Vinculador do Destino, mas estou no posto. Talvez se você fosse um grande amigo do [url=glossary:disfavored]Desfavorecido[/url], eu poderia poupar o tempo."</DefaultText>
+      <DefaultText>"Perdoe a grosseria, Vinculador do Destino, mas estou no posto. Talvez se você fosse um grande amigo do [url=glossary:desfavorecido]Desfavorecido[/url], eu poderia poupar o tempo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,7 +111,7 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Quais eram seus deveres no [url=glossary:disfavored]Desfavorecido[/url] antes de se juntar a mim, aqui?"</DefaultText>
+      <DefaultText>"Quais eram seus deveres no [url=glossary:desfavorecido]Desfavorecido[/url] antes de se juntar a mim, aqui?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -151,7 +151,7 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Acho que deveria estar." O rosto do [url=glossary:disfavored]Desfavorecido[/url] fica sério ao considerar o peso de suas palavras. Mas, eventualmente, seus lábios se curvam em um sorriso pálido. "Então novamente, nunca tive muito medo das coisas que deveria."</DefaultText>
+      <DefaultText>"Acho que deveria estar." O rosto do [url=glossary:desfavorecido]Desfavorecido[/url] fica sério ao considerar o peso de suas palavras. Mas, eventualmente, seus lábios se curvam em um sorriso pálido. "Então novamente, nunca tive muito medo das coisas que deveria."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -206,7 +206,7 @@
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"O que você acha de [url=glossary:graven ashe]Cinza Esculpida[/url]?"</DefaultText>
+      <DefaultText>"O que você acha de [url=glossary:cinza esculpida]Cinza Esculpida[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -221,7 +221,7 @@
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Esse tipo de ferida - é do tipo que os homens não voltam. Mas [url=glossary:graven ashe]Cinza Esculpida[/url], ele me trouxe de volta."</DefaultText>
+      <DefaultText>"Esse tipo de ferida - é do tipo que os homens não voltam. Mas [url=glossary:cinza esculpida]Cinza Esculpida[/url], ele me trouxe de volta."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -231,7 +231,7 @@
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>O soldado endurece, puxando sua espada e escudo para mais perto dele. "Você pode tentar. Mas [url=glossary:graven ashe]Cinza Esculpida[/url] protege o que é dele."</DefaultText>
+      <DefaultText>O soldado endurece, puxando sua espada e escudo para mais perto dele. "Você pode tentar. Mas [url=glossary:cinza esculpida]Cinza Esculpida[/url] protege o que é dele."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -251,7 +251,7 @@
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>"Você parece muito dedicado a [url=glossary:graven ashe]Cinza Esculpida[/url]."</DefaultText>
+      <DefaultText>"Você parece muito dedicado a [url=glossary:cinza esculpida]Cinza Esculpida[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -286,12 +286,12 @@
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Não me culpe. O [url=glossary:disfavored]Desfavorecido[/url] trouxe isso para si."</DefaultText>
+      <DefaultText>"Não me culpe. O [url=glossary:desfavorecido]Desfavorecido[/url] trouxe isso para si."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Há quanto tempo você conhece [url=glossary:graven ashe]Cinza Esculpida[/url]?"</DefaultText>
+      <DefaultText>"Há quanto tempo você conhece [url=glossary:cinza esculpida]Cinza Esculpida[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -321,13 +321,13 @@
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"Quando um [url=glossary:disfavored]Desfavorecido[/url] balança a espada ou a lança, ele exerce a própria vontade de [url=glossary:kyros]Kyros[/url]. É nosso trabalho criar uma forma de ordem nesta terra."</DefaultText>
-      <FemaleText>"Quando uma [url=glossary:disfavored]Desfavorecido[/url] balança a espada ou a lança, ela exerce a própria vontade de [url=glossary:kyros]Kyros[/url]. É nosso trabalho criar uma forma de ordem nesta terra."</FemaleText>
+      <DefaultText>"Quando um [url=glossary:desfavorecido]Desfavorecido[/url] balança a espada ou a lança, ele exerce a própria vontade de [url=glossary:kyros]Kyros[/url]. É nosso trabalho criar uma forma de ordem nesta terra."</DefaultText>
+      <FemaleText>"Quando uma [url=glossary:desfavorecido]Desfavorecido[/url] balança a espada ou a lança, ela exerce a própria vontade de [url=glossary:kyros]Kyros[/url]. É nosso trabalho criar uma forma de ordem nesta terra."</FemaleText>
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>"Somos a lâmina escolhida de [url=glossary:kyros]Kyros[/url] e [url=glossary:graven ashe]Cinza Esculpida[/url] é o nosso escudo. Ninguém pode enfrentar um [url=glossary:disfavored]Desfavorecido[/url] que dominou sua disciplina no campo de batalha."</DefaultText>
-      <FemaleText>"Somos a lâmina escolhida de [url=glossary:kyros]Kyros[/url] e [url=glossary:graven ashe]Cinza Esculpida[/url] é o nosso escudo. Ninguém pode enfrentar uma [url=glossary:disfavored]Desfavorecido[/url] que dominou sua disciplina no campo de batalha."</FemaleText>
+      <DefaultText>"Somos a lâmina escolhida de [url=glossary:kyros]Kyros[/url] e [url=glossary:cinza esculpida]Cinza Esculpida[/url] é o nosso escudo. Ninguém pode enfrentar um [url=glossary:desfavorecido]Desfavorecido[/url] que dominou sua disciplina no campo de batalha."</DefaultText>
+      <FemaleText>"Somos a lâmina escolhida de [url=glossary:kyros]Kyros[/url] e [url=glossary:cinza esculpida]Cinza Esculpida[/url] é o nosso escudo. Ninguém pode enfrentar uma [url=glossary:desfavorecido]Desfavorecido[/url] que dominou sua disciplina no campo de batalha."</FemaleText>
     </Entry>
     <Entry>
       <ID>113</ID>
@@ -346,7 +346,7 @@
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>"Gostaria de saber sua opinião sobre [url=glossary:graven ashe]Cinza Esculpida[/url]."</DefaultText>
+      <DefaultText>"Gostaria de saber sua opinião sobre [url=glossary:cinza esculpida]Cinza Esculpida[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

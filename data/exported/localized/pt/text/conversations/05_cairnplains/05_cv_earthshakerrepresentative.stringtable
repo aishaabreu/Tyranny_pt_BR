@@ -6,8 +6,8 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Então, um Vinculador do Destino de [url=glossary:tunon]Tunon[/url] chega a [Plainsgate], e seu primeiro curso de ação é transformar o [url=glossary:scarlet chorus]Coro Escarlate[/url] em uma mancha vermelha."</DefaultText>
-      <FemaleText>"Então, um Vinculador do Destino de [url=glossary:tunon]Tunon[/url] chega a [Plainsgate], e seu primeiro curso de ação é transformar o [url=glossary:scarlet chorus]Coro Escarlate[/url] em uma mancha vermelha."</FemaleText>
+      <DefaultText>"Então, um Vinculador do Destino de [url=glossary:tunon]Tunon[/url] chega a [Plainsgate], e seu primeiro curso de ação é transformar o [url=glossary:coro escarlate]Coro Escarlate[/url] em uma mancha vermelha."</DefaultText>
+      <FemaleText>"Então, um Vinculador do Destino de [url=glossary:tunon]Tunon[/url] chega a [Plainsgate], e seu primeiro curso de ação é transformar o [url=glossary:coro escarlate]Coro Escarlate[/url] em uma mancha vermelha."</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -45,7 +45,7 @@ Sua voz é pouco mais que um silvo entre os dentes cerrados enquanto ela pergunt
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"Digo aos [url=glossary:disfavored]Desfavorecido[/url] que perguntam que há quase uma década, muito antes da guerra começar, viajei para o norte para treinar com o Arconte de Pedra. Alguns de nós realmente o fizeram e foram transferidos de volta para nossos reinos de origem quando a guilda foi alistada sob a bandeira de Cinza."</DefaultText>
+      <DefaultText>"Digo aos [url=glossary:desfavorecido]Desfavorecido[/url] que perguntam que há quase uma década, muito antes da guerra começar, viajei para o norte para treinar com o Arconte de Pedra. Alguns de nós realmente o fizeram e foram transferidos de volta para nossos reinos de origem quando a guilda foi alistada sob a bandeira de Cinza."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -97,12 +97,12 @@ Sua voz é pouco mais que um silvo entre os dentes cerrados enquanto ela pergunt
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Felizmente para você, fui informado do retorno do Radix's. Enquanto falamos, ele deve estar avançando em nosso complexo em [url=lore:Howling_Rock]Rocha Uivante[/url], acompanhado por seu irmão, Caedis, um [url=glossary:disfavored]Desfavorecido[/url] tenente. Faz uma pergunta sobre a escolta - Base está sob de Caedis proteção ou vigia?" Ela suspira. "Espero que seja o primeiro."</DefaultText>
+      <DefaultText>"Felizmente para você, fui informado do retorno do Radix's. Enquanto falamos, ele deve estar avançando em nosso complexo em [url=lore:Howling_Rock]Rocha Uivante[/url], acompanhado por seu irmão, Caedis, um [url=glossary:desfavorecido]Desfavorecido[/url] tenente. Faz uma pergunta sobre a escolta - Base está sob de Caedis proteção ou vigia?" Ela suspira. "Espero que seja o primeiro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Então o [url=glossary:stonestalkers]Perseguidores de Pedras[/url] deixa você passar - de uma forma ou de outra. Perdoe-me por fazer minha própria rota, mas era um caminho que apenas um Tremedor de Terra poderia seguir."</DefaultText>
+      <DefaultText>"Então o [url=glossary:perseguidores de pedras]Perseguidores de Pedras[/url] deixa você passar - de uma forma ou de outra. Perdoe-me por fazer minha própria rota, mas era um caminho que apenas um Tremedor de Terra poderia seguir."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -176,12 +176,12 @@ Ela se mexe desconfortavelmente, preocupando o cabo lascado de seu cajado entre 
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Se formos contra os [url=glossary:disfavored]Desfavorecido[/url], a guilda precisaria se fortalecer imensamente. Embora me doa pensar nisso, estamos em uma posição única para realizar o [url=lore:Ritual_of_All_Stones]Ritual de todas as pedras[/url]."</DefaultText>
+      <DefaultText>"Se formos contra os [url=glossary:desfavorecido]Desfavorecido[/url], a guilda precisaria se fortalecer imensamente. Embora me doa pensar nisso, estamos em uma posição única para realizar o [url=lore:Ritual_of_All_Stones]Ritual de todas as pedras[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"[url=glossary:cairn]Cairn[/url] está morrendo há muito tempo, muitos períodos agora, enquanto fomos impotentes para salvá-lo. Ele logo sucumbirá ao [url=glossary:edict]Edital[/url] - isto é, se o [url=glossary:scarlet chorus]Coro Escarlate[/url] não nos encontrar e acabar com ele primeiro. Antes que isso aconteça, acredito ser imperativo que preservemos seu legado."</DefaultText>
+      <DefaultText>"[url=glossary:cairn]Cairn[/url] está morrendo há muito tempo, muitos períodos agora, enquanto fomos impotentes para salvá-lo. Ele logo sucumbirá ao [url=glossary:edital]Edital[/url] - isto é, se o [url=glossary:coro escarlate]Coro Escarlate[/url] não nos encontrar e acabar com ele primeiro. Antes que isso aconteça, acredito ser imperativo que preservemos seu legado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -273,7 +273,7 @@ Ela continua enquanto Tremedores de Terra se reúne, lentamente, cantando ao seu
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Eu gostaria que sua guilda se juntasse a mim. Já o [url=glossary:vendrien guard]Guarda Vendrien[/url] e o Forja encadernada juraram fidelidade a mim. E eu te trataria melhor do que o [url=glossary:disfavored]Desfavorecido[/url] tem."</DefaultText>
+      <DefaultText>"Eu gostaria que sua guilda se juntasse a mim. Já o [url=glossary:guarda vendrien]Guarda Vendrien[/url] e o Forja encadernada juraram fidelidade a mim. E eu te trataria melhor do que o [url=glossary:desfavorecido]Desfavorecido[/url] tem."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -308,12 +308,12 @@ Ela continua enquanto Tremedores de Terra se reúne, lentamente, cantando ao seu
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Verdade seja dita, eu sou um Havenite. Nunca pensei que acabaria em Azure, lutando pelo [url=glossary:disfavored]Desfavorecido[/url]. Mas aqui estou agora - um Tremedor de Terra, jurado e treinado. Meu nome é Isadora."</DefaultText>
+      <DefaultText>"Verdade seja dita, eu sou um Havenite. Nunca pensei que acabaria em Azure, lutando pelo [url=glossary:desfavorecido]Desfavorecido[/url]. Mas aqui estou agora - um Tremedor de Terra, jurado e treinado. Meu nome é Isadora."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Ela acena com a cabeça, expressão sombria, mas determinada. "Eu tinha ouvido os rumores - que um Vinculador do Destino liberou o [url=glossary:forge-bound]Vinculado à Forja[/url] em [url=glossary:lethian's crossing]A Travessia de Lethian[/url]. Posso supor que você faria o mesmo por nós?"</DefaultText>
+      <DefaultText>Ela acena com a cabeça, expressão sombria, mas determinada. "Eu tinha ouvido os rumores - que um Vinculador do Destino liberou o [url=glossary:forge-bound]Vinculado à Forja[/url] em [url=glossary:travessia de lethian]Travessia de Lethian[/url]. Posso supor que você faria o mesmo por nós?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -337,7 +337,7 @@ Ela estuda você, hesitante, mas claramente intrigada.</DefaultText>
       <ID>68</ID>
       <DefaultText>Ela olha você de cima a baixo, pesando suas palavras antes de responder.
 
-"Há mais Refrão rastejando o [url=glossary:stone sea]Mar de Pedra[/url] do que gorgulhos, e eles não vão gostar do que você fez com eles irmãos. Sem falar que as Bestas são atraídas pelo fedor do abate."</DefaultText>
+"Há mais Refrão rastejando o [url=glossary:mar de pedra]Mar de Pedra[/url] do que gorgulhos, e eles não vão gostar do que você fez com eles irmãos. Sem falar que as Bestas são atraídas pelo fedor do abate."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -403,12 +403,12 @@ Ela sorri, olhos afiados avaliando você favoravelmente.</DefaultText>
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>"Eu não me preocupo se a informação foi divulgada involuntariamente. Zdenya é dura como o ferro que ela funde." Ela abre um sorriso pálido, expressão sombria, mas determinada. "Eu tinha ouvido os rumores - que um Vinculador do Destino liberou o [url=glossary:forge-bound]Vinculado à Forja[/url] em [url=glossary:lethian's crossing]A Travessia de Lethian[/url]. Posso supor que você veio fazer o mesmo por nós?"</DefaultText>
+      <DefaultText>"Eu não me preocupo se a informação foi divulgada involuntariamente. Zdenya é dura como o ferro que ela funde." Ela abre um sorriso pálido, expressão sombria, mas determinada. "Eu tinha ouvido os rumores - que um Vinculador do Destino liberou o [url=glossary:forge-bound]Vinculado à Forja[/url] em [url=glossary:travessia de lethian]Travessia de Lethian[/url]. Posso supor que você veio fazer o mesmo por nós?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>"Eu odeio ver o que aconteceu com ele. Mas não há nada que possamos fazer para salvá-lo. Se não for o Refrão que o pegará, o [url=glossary:edict]Edital[/url] o fará, com o tempo."</DefaultText>
+      <DefaultText>"Eu odeio ver o que aconteceu com ele. Mas não há nada que possamos fazer para salvá-lo. Se não for o Refrão que o pegará, o [url=glossary:edital]Edital[/url] o fará, com o tempo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -428,12 +428,12 @@ Ela sorri, olhos afiados avaliando você favoravelmente.</DefaultText>
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>Ela funga, os olhos varrendo a distância. "Qualquer maneira, nosso líder é um [url=glossary:iron guard]Guarda de Ferro[/url], jurado em primeiro lugar a Cinza. Mas ele era o braço direito de [url=glossary:cairn]Cairn[/url] muito antes disso. Ele sabe sobre nós, os Homens dos Caminhos da guilda, mas não deixou escapar até onde eu posso dizer. Pegue o que isso significa como quiser."</DefaultText>
+      <DefaultText>Ela funga, os olhos varrendo a distância. "Qualquer maneira, nosso líder é um [url=glossary:guarda de ferro]Guarda de Ferro[/url], jurado em primeiro lugar a Cinza. Mas ele era o braço direito de [url=glossary:cairn]Cairn[/url] muito antes disso. Ele sabe sobre nós, os Homens dos Caminhos da guilda, mas não deixou escapar até onde eu posso dizer. Pegue o que isso significa como quiser."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>"Mas não foi até que o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] deu Lethian para o Refrão que eu fugi para o Azure, buscando a segurança da guilda de [url=glossary:cairn]Cairn[/url] ."</DefaultText>
+      <DefaultText>"Mas não foi até que o [url=glossary:irmandade de bronze]Irmandade de Bronze[/url] deu Lethian para o Refrão que eu fugi para o Azure, buscando a segurança da guilda de [url=glossary:cairn]Cairn[/url] ."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -478,7 +478,7 @@ Ela sorri, olhos afiados avaliando você favoravelmente.</DefaultText>
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"A fera tribo que vive em Apedrejar - você quer dizer a [url=glossary:stonestalkers]Perseguidores de Pedras[/url]?"</DefaultText>
+      <DefaultText>"A fera tribo que vive em Apedrejar - você quer dizer a [url=glossary:perseguidores de pedras]Perseguidores de Pedras[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -488,7 +488,7 @@ Ela sorri, olhos afiados avaliando você favoravelmente.</DefaultText>
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"Eles estão se chamando de [url=glossary:stonestalkers]Perseguidores de Pedras[/url] agora - um reflexo de sua liberdade recém-descoberta em sua terra natal readquirida. Embora selvagens, eles são criaturas afins de uma espécie. Eles seguiram [url=glossary:cairn]Cairn[/url] antes de sua queda. Seu líder é nomeado Centenas-Blood. Se você falar com ela, ela pode permitir que você ligue para Rocha Uivante."</DefaultText>
+      <DefaultText>"Eles estão se chamando de [url=glossary:perseguidores de pedras]Perseguidores de Pedras[/url] agora - um reflexo de sua liberdade recém-descoberta em sua terra natal readquirida. Embora selvagens, eles são criaturas afins de uma espécie. Eles seguiram [url=glossary:cairn]Cairn[/url] antes de sua queda. Seu líder é nomeado Centenas-Blood. Se você falar com ela, ela pode permitir que você ligue para Rocha Uivante."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -547,12 +547,12 @@ Ela sorri, olhos afiados avaliando você favoravelmente.</DefaultText>
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>"Aguarde-me em [url=glossary:ascension hall]Salão da Ascensão[/url]. Você pode representar sua guilda daqui em diante."</DefaultText>
+      <DefaultText>"Aguarde-me em [url=glossary:salão da ascensão]Salão da Ascensão[/url]. Você pode representar sua guilda daqui em diante."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>"De fato, precisaremos abandonar este forte se quisermos evitar a captura pelo [url=glossary:disfavored]Desfavorecido[/url]. Estou ansioso para ver Zdenya também." 
+      <DefaultText>"De fato, precisaremos abandonar este forte se quisermos evitar a captura pelo [url=glossary:desfavorecido]Desfavorecido[/url]. Estou ansioso para ver Zdenya também." 
 
 Ela se curva para você. "Vou cuidar dos preparativos para nossa próxima marcha."</DefaultText>
       <FemaleText />
@@ -584,7 +584,7 @@ Ela se curva para você. "Vou cuidar dos preparativos para nossa próxima marcha
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>"Que estranho. Talvez ele tenha sabido de seus planos e tenha se sentido impulsionado por sua lealdade como um [url=glossary:iron guard]Guarda de Ferro[/url]?"</DefaultText>
+      <DefaultText>"Que estranho. Talvez ele tenha sabido de seus planos e tenha se sentido impulsionado por sua lealdade como um [url=glossary:guarda de ferro]Guarda de Ferro[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -604,7 +604,7 @@ Ela se curva para você. "Vou cuidar dos preparativos para nossa próxima marcha
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>"Acho que não é tão fácil se livrar do [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <DefaultText>"Acho que não é tão fácil se livrar do [url=glossary:desfavorecido]Desfavorecido[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -619,7 +619,7 @@ Ela se curva para você. "Vou cuidar dos preparativos para nossa próxima marcha
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"Vamos colher sua energia e dispersá-la entre nós, infundindo assim nossas habilidades com a própria essência de [url=glossary:cairn]Cairn[/url]. Com isso, não só o Tremedores de Terra alcançará novos patamares de poder, mas também vamos acabar com o [url=glossary:edict]Edital[/url] de Stone e colocar nosso Arconte para descansar."</DefaultText>
+      <DefaultText>"Vamos colher sua energia e dispersá-la entre nós, infundindo assim nossas habilidades com a própria essência de [url=glossary:cairn]Cairn[/url]. Com isso, não só o Tremedores de Terra alcançará novos patamares de poder, mas também vamos acabar com o [url=glossary:edital]Edital[/url] de Stone e colocar nosso Arconte para descansar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -634,7 +634,7 @@ Ela se curva para você. "Vou cuidar dos preparativos para nossa próxima marcha
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>"Ainda assim, através deste ritual você estaria cumprindo a própria vontade de [url=glossary:kyros]Kyros[/url]. O Senhor Supremo lançou o [url=glossary:edict]Edital[/url] de Pedra em [url=glossary:cairn]Cairn[/url] como um ato de execução - um destino do qual ele não escapará. Eu acabaria com o sofrimento dele e salvaria a guilda. Você não vai nos ajudar?"</DefaultText>
+      <DefaultText>"Ainda assim, através deste ritual você estaria cumprindo a própria vontade de [url=glossary:kyros]Kyros[/url]. O Senhor Supremo lançou o [url=glossary:edital]Edital[/url] de Pedra em [url=glossary:cairn]Cairn[/url] como um ato de execução - um destino do qual ele não escapará. Eu acabaria com o sofrimento dele e salvaria a guilda. Você não vai nos ajudar?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -644,7 +644,7 @@ Ela se curva para você. "Vou cuidar dos preparativos para nossa próxima marcha
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Não nos abandone, Vinculador do Destino. Você veio, procurando por nós para ficar atrás de você. Para isso, primeiro você precisa ficar entre nós e o [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <DefaultText>"Não nos abandone, Vinculador do Destino. Você veio, procurando por nós para ficar atrás de você. Para isso, primeiro você precisa ficar entre nós e o [url=glossary:desfavorecido]Desfavorecido[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -694,12 +694,12 @@ Ela se curva para você. "Vou cuidar dos preparativos para nossa próxima marcha
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>"Vá para [url=glossary:ascension hall]Salão da Ascensão[/url]. Este lugar não é mais seguro para você."</DefaultText>
+      <DefaultText>"Vá para [url=glossary:salão da ascensão]Salão da Ascensão[/url]. Este lugar não é mais seguro para você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>"Vou prendê-lo a isso. Espere por mim em [url=glossary:ascension hall]Salão da Ascensão[/url]."</DefaultText>
+      <DefaultText>"Vou prendê-lo a isso. Espere por mim em [url=glossary:salão da ascensão]Salão da Ascensão[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -729,7 +729,7 @@ Ela se curva para você. "Vou cuidar dos preparativos para nossa próxima marcha
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>"[url=glossary:stonestalkers]Perseguidores de Pedras[/url]. Tribo nascida de Azure-terras. A maioria é burra como rochas. Mas poucos são ásperos e grandes como pedregulhos."</DefaultText>
+      <DefaultText>"[url=glossary:perseguidores de pedras]Perseguidores de Pedras[/url]. Tribo nascida de Azure-terras. A maioria é burra como rochas. Mas poucos são ásperos e grandes como pedregulhos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -739,7 +739,7 @@ Ela se curva para você. "Vou cuidar dos preparativos para nossa próxima marcha
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>"Havia muitas pessoas no [url=glossary:vendrien guard]Guarda Vendrien[/url] que admitiram que teriam se rendido a [url=glossary:graven ashe]Cinza Esculpida[/url] se tivessem sido aceitos como escravos de combate - mas não teve essa sorte. O [url=glossary:disfavored]Desfavorecido[/url] aceitará escravos trabalhadores, mas eles nunca armarão um Homens dos Caminhos. O que significa que apenas o Refrão confia em um habitante do Camadas com uma arma?" Ela ri, batendo seu cajado no chão. "Não é à toa que a legião é fria com seus aliados mágicos. É mais do que apenas o comportamento traidor de [url=glossary:cairn]Cairn[/url], há também uma divisão cultural."</DefaultText>
+      <DefaultText>"Havia muitas pessoas no [url=glossary:guarda vendrien]Guarda Vendrien[/url] que admitiram que teriam se rendido a [url=glossary:cinza esculpida]Cinza Esculpida[/url] se tivessem sido aceitos como escravos de combate - mas não teve essa sorte. O [url=glossary:desfavorecido]Desfavorecido[/url] aceitará escravos trabalhadores, mas eles nunca armarão um Homens dos Caminhos. O que significa que apenas o Refrão confia em um habitante do Camadas com uma arma?" Ela ri, batendo seu cajado no chão. "Não é à toa que a legião é fria com seus aliados mágicos. É mais do que apenas o comportamento traidor de [url=glossary:cairn]Cairn[/url], há também uma divisão cultural."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -779,7 +779,7 @@ Ela se curva para você. "Vou cuidar dos preparativos para nossa próxima marcha
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>"Não foi até que o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] deu Lethian para o Refrão que eu fugi para o Azure, buscando a segurança da guilda de [url=glossary:cairn]Cairn[/url]. "</DefaultText>
+      <DefaultText>"Não foi até que o [url=glossary:irmandade de bronze]Irmandade de Bronze[/url] deu Lethian para o Refrão que eu fugi para o Azure, buscando a segurança da guilda de [url=glossary:cairn]Cairn[/url]. "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -884,7 +884,7 @@ Ela se curva para você. "Vou cuidar dos preparativos para nossa próxima marcha
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>"E agora adicionamos o conhecimento de [url=glossary:cairn]Cairn[/url] ao nosso arsenal - magnífico." Eb solta um suspiro longo e ronronante. "Odeio dizer isso, mas sinto que entendo [url=glossary:the voices of nerat]As Vozes de Nerat[/url] - bem, um pouco, pelo menos. Esmagar seu inimigo em pedaços é muito divertido, mas na verdade subverter e roubar a força de seu inimigo... agora isso só me dá o orvalho da manhã."</DefaultText>
+      <DefaultText>"E agora adicionamos o conhecimento de [url=glossary:cairn]Cairn[/url] ao nosso arsenal - magnífico." Eb solta um suspiro longo e ronronante. "Odeio dizer isso, mas sinto que entendo [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] - bem, um pouco, pelo menos. Esmagar seu inimigo em pedaços é muito divertido, mas na verdade subverter e roubar a força de seu inimigo... agora isso só me dá o orvalho da manhã."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -930,7 +930,7 @@ Ela suspira, ombros pesados de arrependimento.
     </Entry>
     <Entry>
       <ID>186</ID>
-      <DefaultText>"Basilon entrou em conflito com alguns Homens-Besta na região. Como o mais novo [url=glossary:prima]Prima[/url] do [url=glossary:stonestalker]Perseguidor de Pedras[/url], pude ver o sucesso da expedição."</DefaultText>
+      <DefaultText>"Basilon entrou em conflito com alguns Homens-Besta na região. Como o mais novo [url=glossary:prima]Prima[/url] do [url=glossary:perseguidor de pedras]Perseguidor de Pedras[/url], pude ver o sucesso da expedição."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

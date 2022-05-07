@@ -45,7 +45,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"No Forte Crepúsculo, você prestou socorro aos inimigos de [url=glossary:kyros]Kyros[/url], abatendo uma unidade de [url=glossary:disfavored]Desfavorecido[/url] na região. O Arconte da Guerra perdeu muitos bons soldados naquele dia."</DefaultText>
+      <DefaultText>"No Forte Crepúsculo, você prestou socorro aos inimigos de [url=glossary:kyros]Kyros[/url], abatendo uma unidade de [url=glossary:desfavorecido]Desfavorecido[/url] na região. O Arconte da Guerra perdeu muitos bons soldados naquele dia."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -85,12 +85,12 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Você concedeu o controle de [url=glossary:lethian's crossing]A Travessia de Lethian[/url] ao [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] - uma ralé mercenária que perdeu todos os direitos à cidade durante a campanha Refúgio. Explique-se."</DefaultText>
+      <DefaultText>"Você concedeu o controle de [url=glossary:travessia de lethian]Travessia de Lethian[/url] ao [url=glossary:irmandade de bronze]Irmandade de Bronze[/url] - uma ralé mercenária que perdeu todos os direitos à cidade durante a campanha Refúgio. Explique-se."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"[url=glossary:lethian's crossing]A Travessia de Lethian[/url] está sob minha proteção, e ainda assim você roubou o Elmo Magebane. Sem a proteção arcana que encomendei do [url=glossary:forge-bound]Vinculado à Forja[/url], a cidade é colocada diante do Maldito como uma oferenda." "Por que você a roubou? "</DefaultText>
+      <DefaultText>"[url=glossary:travessia de lethian]Travessia de Lethian[/url] está sob minha proteção, e ainda assim você roubou o Elmo Magebane. Sem a proteção arcana que encomendei do [url=glossary:forge-bound]Vinculado à Forja[/url], a cidade é colocada diante do Maldito como uma oferenda." "Por que você a roubou? "</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -110,7 +110,7 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"O [url=glossary:disfavored]Desfavorecido[/url] não aguentava um forte modesto. Poupei exército de [url=glossary:kyros]Kyros[/url] de sua unidade mais fraca."</DefaultText>
+      <DefaultText>"O [url=glossary:desfavorecido]Desfavorecido[/url] não aguentava um forte modesto. Poupei exército de [url=glossary:kyros]Kyros[/url] de sua unidade mais fraca."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -135,12 +135,12 @@
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>"O Crepúsculo era meu. O [url=glossary:disfavored]Desfavorecido[/url] tinha outros fortes para ocupar."</DefaultText>
+      <DefaultText>"O Crepúsculo era meu. O [url=glossary:desfavorecido]Desfavorecido[/url] tinha outros fortes para ocupar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>"Seu raciocínio soa mais à vontade com o [url=glossary:scarlet chorus]Coro Escarlate[/url], mas seu ponto de vista está correto. Se a legião não conseguiu vencer o [url=glossary:unbroken]Inquebrável[/url] e um agente do Tribunal, talvez seu treinamento tenha sido falho."</DefaultText>
+      <DefaultText>"Seu raciocínio soa mais à vontade com o [url=glossary:coro escarlate]Coro Escarlate[/url], mas seu ponto de vista está correto. Se a legião não conseguiu vencer o [url=glossary:inquebrável]Inquebrável[/url] e um agente do Tribunal, talvez seu treinamento tenha sido falho."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -150,7 +150,7 @@
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Suas próprias reivindicações o derrotam. O Pináculo era sua base de operações, não era? Você não teve motivos para reivindicar [url=glossary:disfavored]Desfavorecido[/url] terras debaixo deles."</DefaultText>
+      <DefaultText>"Suas próprias reivindicações o derrotam. O Pináculo era sua base de operações, não era? Você não teve motivos para reivindicar [url=glossary:desfavorecido]Desfavorecido[/url] terras debaixo deles."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -298,10 +298,10 @@
       <ID>97</ID>
       <DefaultText>"Hubris em face da aniquilação. Minha Corte, e o mundo em geral, está melhor se livrar de você, coitada."
 
-"[url=glossary:bleden mark]Marca de Mistura[/url], execute-o!"</DefaultText>
+"[url=glossary:marca de mistura]Marca de Mistura[/url], execute-o!"</DefaultText>
       <FemaleText>"Hubris em face da aniquilação. Minha corte, e o mundo em geral, está melhor se livrar de você, coitada."
 
-"[url=glossary:bleden mark]Marca de Mistura[/url], execute-a!"</FemaleText>
+"[url=glossary:marca de mistura]Marca de Mistura[/url], execute-a!"</FemaleText>
     </Entry>
     <Entry>
       <ID>98</ID>
@@ -418,7 +418,7 @@ No entanto [url=glossary:tunon]Tunon[/url] mantém um exterior estóico, algo so
     </Entry>
     <Entry>
       <ID>128</ID>
-      <DefaultText>"Em [url=glossary:vendrien's well]Poço de Vendrien[/url], você se juntou aos inimigos de [url=glossary:kyros]Kyros[/url], abandonando suas ordens para resolver o cerco e o conflito entre os exércitos. Como você responde por essa cobrança?"</DefaultText>
+      <DefaultText>"Em [url=glossary:poço de vendrien]Poço de Vendrien[/url], você se juntou aos inimigos de [url=glossary:kyros]Kyros[/url], abandonando suas ordens para resolver o cerco e o conflito entre os exércitos. Como você responde por essa cobrança?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -440,7 +440,7 @@ No entanto [url=glossary:tunon]Tunon[/url] mantém um exterior estóico, algo so
       <ID>132</ID>
       <DefaultText>"Você lutou ao lado de ambos os exércitos durante a conquista, então não devo duvidar de sua perspectiva sobre o assunto. Embora eu ache preocupante."
 
-"[url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] at [url=glossary:vendrien's well]Poço de Vendrien[/url] deveria ter destruído o Arcontes, ou forçou-os a cooperar, mas sua intervenção por si só foi o fator decisivo..." 
+"[url=glossary:edital]Edital[/url] de [url=glossary:kyros]Kyros[/url] at [url=glossary:poço de vendrien]Poço de Vendrien[/url] deveria ter destruído o Arcontes, ou forçou-os a cooperar, mas sua intervenção por si só foi o fator decisivo..." 
 
 [url=glossary:tunon]Tunon[/url] aparece profundamente em pensamento.</DefaultText>
       <FemaleText />
@@ -527,7 +527,7 @@ No entanto [url=glossary:tunon]Tunon[/url] mantém um exterior estóico, algo so
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>"Você enviou o [url=glossary:forge-bound]Vinculado à Forja[/url] Master para [url=glossary:the voices of nerat]As Vozes de Nerat[/url], onde [url=glossary:kyros]Kyros[/url] só sabe que destino terrível ela sofreu. Ela estava sob minha proteção."</DefaultText>
+      <DefaultText>"Você enviou o [url=glossary:forge-bound]Vinculado à Forja[/url] Master para [url=glossary:as vozes de nerat]As Vozes de Nerat[/url], onde [url=glossary:kyros]Kyros[/url] só sabe que destino terrível ela sofreu. Ela estava sob minha proteção."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -594,7 +594,7 @@ No entanto [url=glossary:tunon]Tunon[/url] mantém um exterior estóico, algo so
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>[Insuficiente [url=glossary:reputation]Reputação[/url]] "Você me acha tão ignorante que não veria através de suas mentiras baratas? Você insulta a dignidade deste tribunal com suas palavras."</DefaultText>
+      <DefaultText>[Insuficiente [url=glossary:reputação]Reputação[/url]] "Você me acha tão ignorante que não veria através de suas mentiras baratas? Você insulta a dignidade deste tribunal com suas palavras."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -820,7 +820,7 @@ Barik acena para você.</DefaultText>
     </Entry>
     <Entry>
       <ID>216</ID>
-      <DefaultText>"Eu trabalhei com alguns dos chefes de gangues mais malvados e malucos que o [url=glossary:scarlet chorus]Coro Escarlate[/url] tem a oferecer, mas este desafiou meus padrões, Sua honra." Verse se volta para você com medo refletida em seus olhos.</DefaultText>
+      <DefaultText>"Eu trabalhei com alguns dos chefes de gangues mais malvados e malucos que o [url=glossary:coro escarlate]Coro Escarlate[/url] tem a oferecer, mas este desafiou meus padrões, Sua honra." Verse se volta para você com medo refletida em seus olhos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -880,12 +880,12 @@ Barik acena para você.</DefaultText>
     </Entry>
     <Entry>
       <ID>229</ID>
-      <DefaultText>"Você seguiu [url=glossary:graven ashe]Cinza Esculpida[/url] e sua legião [url=glossary:disfavored]Desfavorecido[/url] com um coração leal, e ainda assim você ligou o Arconte quando eu o chamei para o julgamento. Explique suas motivações."</DefaultText>
+      <DefaultText>"Você seguiu [url=glossary:cinza esculpida]Cinza Esculpida[/url] e sua legião [url=glossary:desfavorecido]Desfavorecido[/url] com um coração leal, e ainda assim você ligou o Arconte quando eu o chamei para o julgamento. Explique suas motivações."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>230</ID>
-      <DefaultText>"Você obedeceu [url=glossary:the voices of nerat]ao Vozes de Nerat[/url], ajudou sua turba [url=glossary:scarlet chorus]Coro Escarlate[/url] com distinção, e ainda assim você ligou o Arconte quando o chamei para o julgamento. Explique suas motivações."</DefaultText>
+      <DefaultText>"Você obedeceu [url=glossary:as vozes de nerat]As Vozes de Nerat[/url], ajudou sua turba [url=glossary:coro escarlate]Coro Escarlate[/url] com distinção, e ainda assim você ligou o Arconte quando o chamei para o julgamento. Explique suas motivações."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -905,17 +905,17 @@ Barik acena para você.</DefaultText>
     </Entry>
     <Entry>
       <ID>234</ID>
-      <DefaultText>"Acredito que [url=glossary:the voices of nerat]os Vozes de Nerat[/url] orquestrou tramas enganosas contra os servos de [url=glossary:kyros]Kyros[/url], e eu queria chegar ao fundo disso."</DefaultText>
+      <DefaultText>"Acredito que [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] orquestrou tramas enganosas contra os servos de [url=glossary:kyros]Kyros[/url], e eu queria chegar ao fundo disso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>235</ID>
-      <DefaultText>"Eu só esperava lutar com um a menos Arconte, e [url=glossary:the voices of nerat]As Vozes de Nerat[/url] me assustou mais."</DefaultText>
+      <DefaultText>"Eu só esperava lutar com um a menos Arconte, e [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] me assustou mais."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>236</ID>
-      <DefaultText>"O [url=glossary:scarlet chorus]Coro Escarlate[/url] foi criado para desafiar seus superiores. O que eu fiz aqui não é diferente."</DefaultText>
+      <DefaultText>"O [url=glossary:coro escarlate]Coro Escarlate[/url] foi criado para desafiar seus superiores. O que eu fiz aqui não é diferente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -962,7 +962,7 @@ Barik acena para você.</DefaultText>
     </Entry>
     <Entry>
       <ID>248</ID>
-      <DefaultText>"Você resolveu [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] de Tempestades com um dispositivo legal. Além do mais, você poupou Robustos linhagem dominante - burlando o propósito do [url=glossary:edict]Edital[/url]." "Você achou que a fúria do Soberano era um enigma para você desvendar?"</DefaultText>
+      <DefaultText>"Você resolveu [url=glossary:edital]Edital[/url] de [url=glossary:kyros]Kyros[/url] de Tempestades com um dispositivo legal. Além do mais, você poupou Robustos linhagem dominante - burlando o propósito do [url=glossary:edital]Edital[/url]." "Você achou que a fúria do Soberano era um enigma para você desvendar?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -972,12 +972,12 @@ Barik acena para você.</DefaultText>
     </Entry>
     <Entry>
       <ID>250</ID>
-      <DefaultText>"[url=glossary:kyros]Kyros[/url] não pretendia que o [url=glossary:edict]Edital[/url] durasse para sempre."</DefaultText>
+      <DefaultText>"[url=glossary:kyros]Kyros[/url] não pretendia que o [url=glossary:edital]Edital[/url] durasse para sempre."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>251</ID>
-      <DefaultText>"O [url=glossary:edict]Edital[/url] era meu para quebrar como eu quisesse."</DefaultText>
+      <DefaultText>"O [url=glossary:edital]Edital[/url] era meu para quebrar como eu quisesse."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1331,7 +1331,7 @@ Ela estufa o peito nu, orgulhosa e ostentando.</DefaultText>
     </Entry>
     <Entry>
       <ID>331</ID>
-      <DefaultText>"Alfa para Mortes nas Sombras matou e abateu impiedosamente, deixando um rastro de cadáveres de presas por todo Camadas-terras. É o melhor lutador - pode fazer até [url=glossary:unbroken]Inquebrável[/url] humanos fugirem, ganindo, com medo. Não encontrará melhor predador em outro lugar."</DefaultText>
+      <DefaultText>"Alfa para Mortes nas Sombras matou e abateu impiedosamente, deixando um rastro de cadáveres de presas por todo Camadas-terras. É o melhor lutador - pode fazer até [url=glossary:inquebrável]Inquebrável[/url] humanos fugirem, ganindo, com medo. Não encontrará melhor predador em outro lugar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1341,7 +1341,7 @@ Ela estufa o peito nu, orgulhosa e ostentando.</DefaultText>
     </Entry>
     <Entry>
       <ID>338</ID>
-      <DefaultText>"Receio que devo concordar, Árbitro. O relato de Cinza e a conduta Vozes' durante o cerco de [url=glossary:vendrien's well]Poço de Vendrien[/url] é preocupante, como você mesmo concordou."</DefaultText>
+      <DefaultText>"Receio que devo concordar, Árbitro. O relato de Cinza e a conduta Vozes' durante o cerco de [url=glossary:poço de vendrien]Poço de Vendrien[/url] é preocupante, como você mesmo concordou."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1376,7 +1376,7 @@ Ela estufa o peito nu, orgulhosa e ostentando.</DefaultText>
     </Entry>
     <Entry>
       <ID>345</ID>
-      <DefaultText>"Também vale a pena mencionar que você não foi incumbido de satisfazer o Soberano [url=glossary:edict]Edital[/url], apenas proclamando-o. Encontrar uma solução era para o Arcontes realizar com força marcial." Rhogalus acena para [url=glossary:tunon]Tunon[/url].</DefaultText>
+      <DefaultText>"Também vale a pena mencionar que você não foi incumbido de satisfazer o Soberano [url=glossary:edital]Edital[/url], apenas proclamando-o. Encontrar uma solução era para o Arcontes realizar com força marcial." Rhogalus acena para [url=glossary:tunon]Tunon[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1421,7 +1421,7 @@ Ela estufa o peito nu, orgulhosa e ostentando.</DefaultText>
     </Entry>
     <Entry>
       <ID>354</ID>
-      <DefaultText>"Se eu pudesse encaixar uma palavra?" Rhogalus aperta as mãos e suspira. "O Tribunal é uma expressão legal do testamento de [url=glossary:kyros]Kyros[/url] assim como um testamento [url=glossary:edict]Edital[/url]. Um cancelou o outro, o que não é, por si só, ilegal?" Ele abre as mãos e sorri.</DefaultText>
+      <DefaultText>"Se eu pudesse encaixar uma palavra?" Rhogalus aperta as mãos e suspira. "O Tribunal é uma expressão legal do testamento de [url=glossary:kyros]Kyros[/url] assim como um testamento [url=glossary:edital]Edital[/url]. Um cancelou o outro, o que não é, por si só, ilegal?" Ele abre as mãos e sorri.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

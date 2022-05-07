@@ -48,7 +48,7 @@ Feitiços têm nomes padrão com base no Núcleo e na Expressão selecionados. V
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>[url=glossary:reputation]Reputação[/url] em Conversas</DefaultText>
+      <DefaultText>[url=glossary:reputação]Reputação[/url] em Conversas</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -68,7 +68,7 @@ Feitiços têm nomes padrão com base no Núcleo e na Expressão selecionados. V
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>[url=glossary:lore]Conhecimento[/url] E dicas de reatividade</DefaultText>
+      <DefaultText>[url=glossary:conhecimento]Conhecimento[/url] E dicas de reatividade</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -103,12 +103,12 @@ Feitiços têm nomes padrão com base no Núcleo e na Expressão selecionados. V
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Todos os personagens do jogo, amigos e inimigos, têm cinco defesas primárias contra ataques: [url=glossary:parry]Defesa[/url], [url=glossary:dodge]Desviar[/url], Resistência, Vontade e Magia. Essas defesas são baseadas nos atributos do personagem, itens equipados e outros efeitos. A precisão de um personagem é baseada em sua habilidade com o tipo de arma que está empunhando. [url=glossary:accuracy]Precisão[/url] é comparado com as defesas apropriadas quando um ataque é feito para determinar a probabilidade de o ataque atingir.</DefaultText>
+      <DefaultText>Todos os personagens do jogo, amigos e inimigos, têm cinco defesas primárias contra ataques: [url=glossary:defesa]Defesa[/url], [url=glossary:desviar]Desviar[/url], Resistência, Vontade e Magia. Essas defesas são baseadas nos atributos do personagem, itens equipados e outros efeitos. A precisão de um personagem é baseada em sua habilidade com o tipo de arma que está empunhando. [url=glossary:accuracy]Precisão[/url] é comparado com as defesas apropriadas quando um ataque é feito para determinar a probabilidade de o ataque atingir.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Todas as habilidades e feitiços do seu personagem podem ser acessados selecionando o ícone de categoria na parte inferior do quadro selecionado. Habilidades são agrupados em Talentos, Feitiços, Habilidades de combinação, Habilidades de artefato, [url=glossary:reputation]Reputação[/url] Habilidades e Posturas. Os ícones de categoria para [url=glossary:weapon sets]Conjuntos de armas[/url] e Itens rápidos seguem.</DefaultText>
+      <DefaultText>Todas as habilidades e feitiços do seu personagem podem ser acessados selecionando o ícone de categoria na parte inferior do quadro selecionado. Habilidades são agrupados em Talentos, Feitiços, Habilidades de combinação, Habilidades de artefato, [url=glossary:reputação]Reputação[/url] Habilidades e Posturas. Os ícones de categoria para [url=glossary:conjuntos de armas]Conjuntos de armas[/url] e Itens rápidos seguem.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -118,12 +118,12 @@ Feitiços têm nomes padrão com base no Núcleo e na Expressão selecionados. V
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>[url=glossary:armor]armaduras[/url]</DefaultText>
+      <DefaultText>[url=glossary:armadura]Armadura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Todos os ataques que causam dano precisam superar o [url=glossary:armor]armaduras[/url] do alvo. A armadura de um inimigo reduz o dano recebido pelo valor listado, até um mínimo de 1 ponto. Algumas armaduras são mais fortes na defesa contra alguns tipos de dano do que outras. A maioria dos inimigos é forte contra um ou dois tipos de dano e fraco contra um número similar.
+      <DefaultText>Todos os ataques que causam dano precisam superar o [url=glossary:armadura]Armadura[/url] do alvo. A armadura de um inimigo reduz o dano recebido pelo valor listado, até um mínimo de 1 ponto. Algumas armaduras são mais fortes na defesa contra alguns tipos de dano do que outras. A maioria dos inimigos é forte contra um ou dois tipos de dano e fraco contra um número similar.
 
 Os tipos de dano são: Golpear, perfurar, Crush, Queimar, geada, Choque, Corroer e Arcano.
 
@@ -166,7 +166,7 @@ Imprensa [keymap=CHARACTER_SHEET] para abrir o Ficha de Personagem e ver sua exp
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>Cada Sigilo requer uma certa quantidade de [url=glossary:lore]Conhecimento[/url] habilidade para aprender e controlar. Os personagens devem ter uma habilidade [url=glossary:lore]Conhecimento[/url] pelo menos igual à dificuldade total do feitiço para lançar o feitiço.</DefaultText>
+      <DefaultText>Cada Sigilo requer uma certa quantidade de [url=glossary:conhecimento]Conhecimento[/url] habilidade para aprender e controlar. Os personagens devem ter uma habilidade [url=glossary:conhecimento]Conhecimento[/url] pelo menos igual à dificuldade total do feitiço para lançar o feitiço.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -206,7 +206,7 @@ Imprensa [keymap=CHARACTER_SHEET] para abrir o Ficha de Personagem e ver sua exp
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>[url=glossary:engagement]Noivado[/url]</DefaultText>
+      <DefaultText>[url=glossary:noivado]Noivado[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -221,7 +221,7 @@ Imprensa [keymap=CHARACTER_SHEET] para abrir o Ficha de Personagem e ver sua exp
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>[url=glossary:engagement]Noivado[/url] é indicado por setas desenhadas entre os círculos de seleção de inimigos. Para ver com quem um personagem está se envolvendo - ou com quem - passe o mouse sobre o círculo de seleção para exibir as setas de engajamento.</DefaultText>
+      <DefaultText>[url=glossary:noivado]Noivado[/url] é indicado por setas desenhadas entre os círculos de seleção de inimigos. Para ver com quem um personagem está se envolvendo - ou com quem - passe o mouse sobre o círculo de seleção para exibir as setas de engajamento.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,7 +241,7 @@ Imprensa [keymap=CHARACTER_SHEET] para abrir o Ficha de Personagem e ver sua exp
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Quando um membro do grupo sofre dano, ele começa a perder [url=glossary:health]Saúde[/url]. A barra de saúde ao lado de seu retrato começará a diminuir. Quando a saúde de um membro do grupo cair o suficiente, ele ganhará um Ferimento e a barra de saúde ficará vermelha. Personagens feridos têm sua vida máxima reduzida e recebem uma penalidade em todas as habilidades. [url=glossary:wounds]Ferimentos[/url] são removidos quando o grupo descansa ou quando um personagem sobe de nível.</DefaultText>
+      <DefaultText>Quando um membro do grupo sofre dano, ele começa a perder [url=glossary:saúde]Saúde[/url]. A barra de saúde ao lado de seu retrato começará a diminuir. Quando a saúde de um membro do grupo cair o suficiente, ele ganhará um Ferimento e a barra de saúde ficará vermelha. Personagens feridos têm sua vida máxima reduzida e recebem uma penalidade em todas as habilidades. [url=glossary:ferimentos]Ferimentos[/url] são removidos quando o grupo descansa ou quando um personagem sobe de nível.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -251,7 +251,7 @@ Imprensa [keymap=CHARACTER_SHEET] para abrir o Ficha de Personagem e ver sua exp
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>Você está atualmente atacando um inimigo com pelo menos uma defesa ([url=glossary:parry]Defesa[/url], [url=glossary:dodge]Desviar[/url], Resistência, Vontade ou Magia) que é muito maior do que a precisão do personagem que o ataca. Quando a defesa está significativamente acima da precisão, pode ser extremamente difícil conseguir um Acerto e impossível conseguir um [url=glossary:crit]Crítico[/url]. Tente aumentar a precisão do atacante ou use uma magia ou habilidade que tenha como alvo uma defesa diferente.</DefaultText>
+      <DefaultText>Você está atualmente atacando um inimigo com pelo menos uma defesa ([url=glossary:defesa]Defesa[/url], [url=glossary:desviar]Desviar[/url], Resistência, Vontade ou Magia) que é muito maior do que a precisão do personagem que o ataca. Quando a defesa está significativamente acima da precisão, pode ser extremamente difícil conseguir um Acerto e impossível conseguir um [url=glossary:crit]Crítico[/url]. Tente aumentar a precisão do atacante ou use uma magia ou habilidade que tenha como alvo uma defesa diferente.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -261,12 +261,12 @@ Imprensa [keymap=CHARACTER_SHEET] para abrir o Ficha de Personagem e ver sua exp
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>Ai! Quando um membro do grupo é reduzido para 0 [url=glossary:health]Saúde[/url], ele é Nocauteado. Isso significa que eles estão fora da luta, mas enquanto seu lado for vitorioso, eles irão regenerar seu [url=glossary:health]Saúde[/url] quando o combate terminar. Ser nocauteado aplica um Ferimento ao personagem, reduzindo sua saúde máxima para combates futuros até que ele descanse ou suba de nível.</DefaultText>
+      <DefaultText>Ai! Quando um membro do grupo é reduzido para 0 [url=glossary:saúde]Saúde[/url], ele é Nocauteado. Isso significa que eles estão fora da luta, mas enquanto seu lado for vitorioso, eles irão regenerar seu [url=glossary:saúde]Saúde[/url] quando o combate terminar. Ser nocauteado aplica um Ferimento ao personagem, reduzindo sua saúde máxima para combates futuros até que ele descanse ou suba de nível.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>Personagem [url=glossary:recovery]Recuperação[/url]</DefaultText>
+      <DefaultText>Personagem [url=glossary:recuperação]Recuperação[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -281,17 +281,17 @@ Imprensa [keymap=CHARACTER_SHEET] para abrir o Ficha de Personagem e ver sua exp
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>Todas as habilidades e feitiços em Tirania têm um temporizador de recarga que determina com que frequência eles podem ser usados em combate. Algumas habilidades têm tempos de espera curtos e podem ser usadas várias vezes por combate. Outros se recuperam mais lentamente. O atributo [url=glossary:quickness]Rapidez[/url] reduz o tempo de espera de feitiços e habilidades. Tempos de Recarga de Habilidades reduz enquanto o grupo percorre uma área e quando descansa. Viajar entre áreas no Mapa mundial não afeta o tempo de espera.</DefaultText>
+      <DefaultText>Todas as habilidades e feitiços em Tirania têm um temporizador de recarga que determina com que frequência eles podem ser usados em combate. Algumas habilidades têm tempos de espera curtos e podem ser usadas várias vezes por combate. Outros se recuperam mais lentamente. O atributo [url=glossary:rapidez]Rapidez[/url] reduz o tempo de espera de feitiços e habilidades. Tempos de Recarga de Habilidades reduz enquanto o grupo percorre uma área e quando descansa. Viajar entre áreas no Mapa mundial não afeta o tempo de espera.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>[url=glossary:scouting]Escotismo[/url]</DefaultText>
+      <DefaultText>[url=glossary:escotismo]Escotismo[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>Os Camadas são um lugar perigoso cheio de inimigos à espreita e segredos cuidadosamente escondidos. Habilitar [url=glossary:scouting]Escotismo[/url] Modo pressionando [keymap=STEALTH_TOGGLE] para se mover furtivamente e procurar objetos escondidos como armadilhas e recipientes escondidos. A habilidade de um personagem de encontrar objetos escondidos é baseada em sua habilidade [url=glossary:subterfuge]Subterfúgio[/url]. Um [url=glossary:subterfuge]Subterfúgio[/url] mais alto permite que eles encontrem objetos a uma distância maior, bem como aqueles que estão escondidos de maneira mais inteligente.</DefaultText>
+      <DefaultText>Os Camadas são um lugar perigoso cheio de inimigos à espreita e segredos cuidadosamente escondidos. Habilitar [url=glossary:escotismo]Escotismo[/url] Modo pressionando [keymap=STEALTH_TOGGLE] para se mover furtivamente e procurar objetos escondidos como armadilhas e recipientes escondidos. A habilidade de um personagem de encontrar objetos escondidos é baseada em sua habilidade [url=glossary:subterfúgio]Subterfúgio[/url]. Um [url=glossary:subterfúgio]Subterfúgio[/url] mais alto permite que eles encontrem objetos a uma distância maior, bem como aqueles que estão escondidos de maneira mais inteligente.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -301,7 +301,7 @@ Imprensa [keymap=CHARACTER_SHEET] para abrir o Ficha de Personagem e ver sua exp
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>modo [url=glossary:scouting]Escotismo[/url] é usado tanto para furtividade quanto para encontrar objetos ocultos, como armadilhas e contêineres secretos.
+      <DefaultText>modo [url=glossary:escotismo]Escotismo[/url] é usado tanto para furtividade quanto para encontrar objetos ocultos, como armadilhas e contêineres secretos.
 
 Enquanto explora, os círculos de seleção de seus personagens começarão a se encher de amarelo quando um personagem hostil estiver começando a detectá-los. Uma vez que o círculo fica amarelo, o personagem fica desconfiado e se move para investigar enquanto o círculo fica vermelho. Se o círculo ficar totalmente vermelho, seus personagens serão descobertos.
 
@@ -345,7 +345,7 @@ Vários talentos concederão bônus ao seu personagem ao atacar furtivamente.</D
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>cada nível você pode aumentar um dos atributos do seu personagem: [url=glossary:might]Força[/url], [url=glossary:finesse]Sutileza[/url], [url=glossary:quickness]Rapidez[/url], [url=glossary:wits]Inteligência[/url], [url=glossary:vitality]Vitalidade[/url], ou [url=glossary:resolve]Determinação[/url]. Cada um desses Atributos fornece benefícios ao seu personagem, além de aumentar uma ou mais habilidades.</DefaultText>
+      <DefaultText>cada nível você pode aumentar um dos atributos do seu personagem: [url=glossary:força]Força[/url], [url=glossary:sutileza]Sutileza[/url], [url=glossary:rapidez]Rapidez[/url], [url=glossary:inteligência]Inteligência[/url], [url=glossary:vitalidade]Vitalidade[/url], ou [url=glossary:determinação]Determinação[/url]. Cada um desses Atributos fornece benefícios ao seu personagem, além de aumentar uma ou mais habilidades.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -375,27 +375,27 @@ Vários talentos concederão bônus ao seu personagem ao atacar furtivamente.</D
     </Entry>
     <Entry>
       <ID>73</ID>
-      <DefaultText>Alguns objetos no mundo representam problemas ou obstáculos que possuem múltiplas soluções. A seleção desses objetos exibirá a janela Interação de campo. Muitas dessas opções exigirão que um membro do seu grupo tenha um número mínimo de classificações em [url=glossary:athletics]Atletismo[/url], [url=glossary:subterfuge]Subterfúgio[/url], ou [url=glossary:lore]Conhecimento[/url] antes você pode escolher essa opção.</DefaultText>
+      <DefaultText>Alguns objetos no mundo representam problemas ou obstáculos que possuem múltiplas soluções. A seleção desses objetos exibirá a janela Interação de campo. Muitas dessas opções exigirão que um membro do seu grupo tenha um número mínimo de classificações em [url=glossary:atletismo]Atletismo[/url], [url=glossary:subterfúgio]Subterfúgio[/url], ou [url=glossary:conhecimento]Conhecimento[/url] antes você pode escolher essa opção.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>[url=glossary:reputation]Reputação[/url]</DefaultText>
+      <DefaultText>[url=glossary:reputação]Reputação[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>Você aumentou sua reputação com uma facção no jogo! Cada facção vê seu personagem de duas maneiras: Respeito e Ira. À medida que você ganha reputação em cada eixo, você atingirá limites de reputação chamados de níveis. Alcançar um nível de reputação pode conceder habilidades únicas ao seu personagem. Abra a [url=glossary:reputation]Reputação[/url] UI pressionando [keymap=REPUTATION] para ver quais habilidades você pode ganhar com as facções que você descobriu.</DefaultText>
+      <DefaultText>Você aumentou sua reputação com uma facção no jogo! Cada facção vê seu personagem de duas maneiras: Respeito e Ira. À medida que você ganha reputação em cada eixo, você atingirá limites de reputação chamados de níveis. Alcançar um nível de reputação pode conceder habilidades únicas ao seu personagem. Abra a [url=glossary:reputação]Reputação[/url] UI pressionando [keymap=REPUTATION] para ver quais habilidades você pode ganhar com as facções que você descobriu.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>[url=glossary:reputation]Reputação[/url] Habilidade</DefaultText>
+      <DefaultText>[url=glossary:reputação]Reputação[/url] Habilidade</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Você ganhou reputação suficiente para desbloquear uma nova habilidade! Aberto a [url=glossary:reputation]Reputação[/url] UI pressionando [keymap=REPUTATION] para ver a nova habilidade disponível para seu personagem.</DefaultText>
+      <DefaultText>Você ganhou reputação suficiente para desbloquear uma nova habilidade! Aberto a [url=glossary:reputação]Reputação[/url] UI pressionando [keymap=REPUTATION] para ver a nova habilidade disponível para seu personagem.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -440,7 +440,7 @@ Vários talentos concederão bônus ao seu personagem ao atacar furtivamente.</D
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>[url=glossary:weapon sets]Conjuntos de armas[/url]</DefaultText>
+      <DefaultText>[url=glossary:conjuntos de armas]Conjuntos de armas[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -485,7 +485,7 @@ Vários talentos concederão bônus ao seu personagem ao atacar furtivamente.</D
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>Final [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] on [url=glossary:vendrien's well]Poço de Vendrien[/url] encheu você de muito poder! Esse sem dúvida será útil enquanto você viaja pelo Camadas. Você deve investigar as origens desse poder e encontrar maneiras de adquirir mais.</DefaultText>
+      <DefaultText>Final [url=glossary:edital]Edital[/url] de [url=glossary:kyros]Kyros[/url] on [url=glossary:poço de vendrien]Poço de Vendrien[/url] encheu você de muito poder! Esse sem dúvida será útil enquanto você viaja pelo Camadas. Você deve investigar as origens desse poder e encontrar maneiras de adquirir mais.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -495,7 +495,7 @@ Vários talentos concederão bônus ao seu personagem ao atacar furtivamente.</D
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>O poder que você ganhou ao terminar [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] em [url=glossary:vendrien's well]Poço de Vendrien[/url] pode ser canalizado em suas habilidades de combinação com seus companheiros. Todos os seus combos ficaram mais poderosos como resultado. Talvez você descubra maneiras adicionais de usar esse poder enquanto se aventura pelo Camadas!</DefaultText>
+      <DefaultText>O poder que você ganhou ao terminar [url=glossary:edital]Edital[/url] de [url=glossary:kyros]Kyros[/url] em [url=glossary:poço de vendrien]Poço de Vendrien[/url] pode ser canalizado em suas habilidades de combinação com seus companheiros. Todos os seus combos ficaram mais poderosos como resultado. Talvez você descubra maneiras adicionais de usar esse poder enquanto se aventura pelo Camadas!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -610,12 +610,12 @@ Vários talentos concederão bônus ao seu personagem ao atacar furtivamente.</D
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>[url=glossary:camping supplies]Materiais de acampamento[/url]</DefaultText>
+      <DefaultText>[url=glossary:materiais de acampamento]Materiais de acampamento[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>Você descobriu alguns [url=glossary:camping supplies]Materiais de acampamento[/url]. Você pode usá-los para descansar no deserto ou nas masmorras, restaurando totalmente todas as habilidades de seus personagens e [url=glossary:health]Saúde[/url], e removendo [url=glossary:wounds]Ferimentos[/url]. Se você ficar sem [url=glossary:camping supplies]Materiais de acampamento[/url], tente encontrar mais de um vendedor ou baú.</DefaultText>
+      <DefaultText>Você descobriu alguns [url=glossary:materiais de acampamento]Materiais de acampamento[/url]. Você pode usá-los para descansar no deserto ou nas masmorras, restaurando totalmente todas as habilidades de seus personagens e [url=glossary:saúde]Saúde[/url], e removendo [url=glossary:ferimentos]Ferimentos[/url]. Se você ficar sem [url=glossary:materiais de acampamento]Materiais de acampamento[/url], tente encontrar mais de um vendedor ou baú.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -625,7 +625,7 @@ Vários talentos concederão bônus ao seu personagem ao atacar furtivamente.</D
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>Descansar restaurará totalmente a saúde e as habilidades de todos os membros do seu grupo e limpará todos os [url=glossary:wounds]Ferimentos[/url]. Você pode usar suprimentos de acampamento para descansar em qualquer lugar ou encontrar locais que permitem que você descanse gratuitamente.</DefaultText>
+      <DefaultText>Descansar restaurará totalmente a saúde e as habilidades de todos os membros do seu grupo e limpará todos os [url=glossary:ferimentos]Ferimentos[/url]. Você pode usar suprimentos de acampamento para descansar em qualquer lugar ou encontrar locais que permitem que você descanse gratuitamente.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -686,7 +686,7 @@ Pressione ESC a qualquer momento para cancelar o direcionamento da habilidade.</
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>[url=glossary:consumables]Consumíveis[/url]</DefaultText>
+      <DefaultText>[url=glossary:consumíveis]Consumíveis[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -695,7 +695,7 @@ Pressione ESC a qualquer momento para cancelar o direcionamento da habilidade.</
 
 Usar uma poção de saúde é uma ação instantânea - os benefícios se aplicam imediatamente, mesmo que seu personagem esteja em recuperação. Mais tarde, todos os consumíveis ficam em cooldown por um curto período.
 
-[url=glossary:consumables]Consumíveis[/url] podem ser adicionados aos slots Item rápido no Inventário do seu personagem ([keymap=INVENTORY]) para que eles pode ser usado em combate.</DefaultText>
+[url=glossary:consumíveis]Consumíveis[/url] podem ser adicionados aos slots Item rápido no Inventário do seu personagem ([keymap=INVENTORY]) para que eles pode ser usado em combate.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -705,7 +705,7 @@ Usar uma poção de saúde é uma ação instantânea - os benefícios se aplica
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>Quando um Combo Companion estiver ativada, você verá que o ícone acima da cabeça de cada personagem está definido para a mesma habilidade. O combo começará quando cada personagem estiver fora de [url=glossary:recovery]Recuperação[/url] - quando o círculo azul ao redor do ícone da habilidade desaparecer.</DefaultText>
+      <DefaultText>Quando um Combo Companion estiver ativada, você verá que o ícone acima da cabeça de cada personagem está definido para a mesma habilidade. O combo começará quando cada personagem estiver fora de [url=glossary:recuperação]Recuperação[/url] - quando o círculo azul ao redor do ícone da habilidade desaparecer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -725,12 +725,12 @@ Usar uma poção de saúde é uma ação instantânea - os benefícios se aplica
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>Alguns locais permitem que você descanse sem usar um dos seus [url=glossary:camping supplies]Materiais de acampamento[/url]. Esses locais são raros, por isso é melhor aproveitá-los quando os encontrar.</DefaultText>
+      <DefaultText>Alguns locais permitem que você descanse sem usar um dos seus [url=glossary:materiais de acampamento]Materiais de acampamento[/url]. Esses locais são raros, por isso é melhor aproveitá-los quando os encontrar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>A maioria das facções tem habilidades que seu personagem pode adquirir à medida que você constrói reputação com elas. Para adquirir essas habilidades, você deve construir Favor ou Ira suficiente com a facção. [url=glossary:reputation]Reputação[/url] habilidades são concedidas apenas ao seu personagem, não a outros membros do grupo.</DefaultText>
+      <DefaultText>A maioria das facções tem habilidades que seu personagem pode adquirir à medida que você constrói reputação com elas. Para adquirir essas habilidades, você deve construir Favor ou Ira suficiente com a facção. [url=glossary:reputação]Reputação[/url] habilidades são concedidas apenas ao seu personagem, não a outros membros do grupo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -775,7 +775,7 @@ Usar uma poção de saúde é uma ação instantânea - os benefícios se aplica
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>Agora que você entregou a palavra de [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] aos exércitos, o tempo restante até [url=lore:kyros_day_swords]Dia de Espadas[/url] de [url=glossary:kyros]Kyros[/url] aparece ao lado de a data atual na barra de navegação. Os termos de [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] devem ser cumpridos até esta data, ou todos em [url=glossary:vendrien's well]Poço de Vendrien[/url] morrerão.</DefaultText>
+      <DefaultText>Agora que você entregou a palavra de [url=glossary:edital]Edital[/url] de [url=glossary:kyros]Kyros[/url] aos exércitos, o tempo restante até [url=lore:kyros_day_swords]Dia de Espadas[/url] de [url=glossary:kyros]Kyros[/url] aparece ao lado de a data atual na barra de navegação. Os termos de [url=glossary:edital]Edital[/url] de [url=glossary:kyros]Kyros[/url] devem ser cumpridos até esta data, ou todos em [url=glossary:poço de vendrien]Poço de Vendrien[/url] morrerão.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -787,22 +787,22 @@ Usar uma poção de saúde é uma ação instantânea - os benefícios se aplica
       <ID>159</ID>
       <DefaultText>Você descobriu um pergaminho que contém a imagem de um Sigilo de magia!
 
-Se um membro do seu grupo tiver uma habilidade [url=glossary:lore]Conhecimento[/url], você pode aprender este Sigilo e use-o para criar feitiços. Se você atender ao requisito [url=glossary:lore]Conhecimento[/url] para esta rolagem, clique com o botão direito do mouse no ícone de rolagem e clique no botão Aprender na parte inferior da interface de inspeção.</DefaultText>
+Se um membro do seu grupo tiver uma habilidade [url=glossary:conhecimento]Conhecimento[/url], você pode aprender este Sigilo e use-o para criar feitiços. Se você atender ao requisito [url=glossary:conhecimento]Conhecimento[/url] para esta rolagem, clique com o botão direito do mouse no ícone de rolagem e clique no botão Aprender na parte inferior da interface de inspeção.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>Quando um membro do grupo sofre dano, ele começa a perder [url=glossary:health]Saúde[/url]. A barra de saúde ao lado de seu retrato começará a diminuir. Quando a saúde de um membro do grupo cair o suficiente, ele ganhará um Ferimento e a barra de saúde ficará vermelha. Personagens feridos têm sua vida máxima reduzida. [url=glossary:wounds]Ferimentos[/url] são removidos quando o grupo descansa ou quando um personagem sobe de nível.</DefaultText>
+      <DefaultText>Quando um membro do grupo sofre dano, ele começa a perder [url=glossary:saúde]Saúde[/url]. A barra de saúde ao lado de seu retrato começará a diminuir. Quando a saúde de um membro do grupo cair o suficiente, ele ganhará um Ferimento e a barra de saúde ficará vermelha. Personagens feridos têm sua vida máxima reduzida. [url=glossary:ferimentos]Ferimentos[/url] são removidos quando o grupo descansa ou quando um personagem sobe de nível.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>[url=glossary:reputation]Reputação[/url] Desbloqueios</DefaultText>
+      <DefaultText>[url=glossary:reputação]Reputação[/url] Desbloqueios</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>Em novo jogo+, você pode desbloquear [url=glossary:reputation]Reputação[/url] habilidades obtidas em sua jogada anterior sem primeiro atender ao requisito [url=glossary:reputation]Reputação[/url]. Para desbloqueá-los, abra a tela [url=glossary:reputation]Reputação[/url]; as habilidades disponíveis serão destacadas em ouro, e o número que você pode desbloquear é exibido na parte inferior da interface [url=glossary:reputation]Reputação[/url]. O número de habilidades que você pode desbloquear aumenta a cada jogada subsequente.</DefaultText>
+      <DefaultText>Em novo jogo+, você pode desbloquear [url=glossary:reputação]Reputação[/url] habilidades obtidas em sua jogada anterior sem primeiro atender ao requisito [url=glossary:reputação]Reputação[/url]. Para desbloqueá-los, abra a tela [url=glossary:reputação]Reputação[/url]; as habilidades disponíveis serão destacadas em ouro, e o número que você pode desbloquear é exibido na parte inferior da interface [url=glossary:reputação]Reputação[/url]. O número de habilidades que você pode desbloquear aumenta a cada jogada subsequente.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -13,7 +13,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Ativei o Pináculo em [url=glossary:vendrien's well]Poço de Vendrien[/url]. Você deve vê-lo."</DefaultText>
+      <DefaultText>"Ativei o Pináculo em [url=glossary:poço de vendrien]Poço de Vendrien[/url]. Você deve vê-lo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -43,7 +43,7 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Eu poderia demonstrar para você um dos feitiços de sombra mais intrincados de [url=glossary:bleden mark]Marca de Mistura[/url] se você estiver se sentindo especialmente hábil. Perda perpétua de visão devido a falha de disparo mágico é apenas um risco médio."</DefaultText>
+      <DefaultText>"Eu poderia demonstrar para você um dos feitiços de sombra mais intrincados de [url=glossary:marca de mistura]Marca de Mistura[/url] se você estiver se sentindo especialmente hábil. Perda perpétua de visão devido a falha de disparo mágico é apenas um risco médio."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -55,7 +55,7 @@
       <ID>16</ID>
       <DefaultText>"Ocasionalmente há um fio de conhecimento que eu gostaria de esquecer. Suas ações recentes vêm à mente, por exemplo."
 
-"[url=glossary:vendrien's well]Poço de Vendrien[/url] fez de você uma anomalia para nós. E ainda estou curioso para aprender sobre o Camadas."</DefaultText>
+"[url=glossary:poço de vendrien]Poço de Vendrien[/url] fez de você uma anomalia para nós. E ainda estou curioso para aprender sobre o Camadas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -174,7 +174,7 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"As entidades políticas do Camadas são essencialmente divididas entre o Nível Bastardo, o [url=glossary:younger realms]Reinos mais jovens[/url] e o Cidades Livres. De quais você gostaria de saber?"</DefaultText>
+      <DefaultText>"As entidades políticas do Camadas são essencialmente divididas entre o Nível Bastardo, o [url=glossary:reinos mais jovens]Reinos Mais Jovens[/url] e o Cidades Livres. De quais você gostaria de saber?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -184,7 +184,7 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Estou curioso para saber mais sobre o [url=glossary:younger realms]Reinos mais jovens[/url]."</DefaultText>
+      <DefaultText>"Estou curioso para saber mais sobre o [url=glossary:reinos mais jovens]Reinos Mais Jovens[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -204,12 +204,12 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"O [url=glossary:younger realms]Reinos mais jovens[/url] estende-se pelo meio e extremo sul Camadas e pode ser catalogado da seguinte forma: Ápice, Azure, Refúgio e Robusto." "Azure era conhecida por suas terras excepcionalmente férteis que alimentavam todo o Camadas. Isso foi antes de [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] de Pedra arruinar a terra."</DefaultText>
+      <DefaultText>"O [url=glossary:reinos mais jovens]Reinos Mais Jovens[/url] estende-se pelo meio e extremo sul Camadas e pode ser catalogado da seguinte forma: Ápice, Azure, Refúgio e Robusto." "Azure era conhecida por suas terras excepcionalmente férteis que alimentavam todo o Camadas. Isso foi antes de [url=glossary:edital]Edital[/url] de [url=glossary:kyros]Kyros[/url] de Pedra arruinar a terra."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Há três Cidades Livres restantes - Último porto, Boca da Espiral e Baris-em-cadeias. O primeiro e mais forte dos Cidades Livres foi o Sol Poente, que [url=glossary:kyros]Kyros[/url] esmagou em 429 com o [url=glossary:edict]Edital[/url] de Tumulto. Depois disso, os Cidades Livres restantes rapidamente se renderam."</DefaultText>
+      <DefaultText>"Há três Cidades Livres restantes - Último porto, Boca da Espiral e Baris-em-cadeias. O primeiro e mais forte dos Cidades Livres foi o Sol Poente, que [url=glossary:kyros]Kyros[/url] esmagou em 429 com o [url=glossary:edital]Edital[/url] de Tumulto. Depois disso, os Cidades Livres restantes rapidamente se renderam."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -219,12 +219,12 @@
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Ouvi dizer que você conheceu Renata. Minhas condolências a você." O Vinculador do Destino de [url=glossary:lore]Conhecimento[/url] balança a cabeça como se para limpar uma memória desagradável. "Eu não reclamaria se você a tivesse matado."</DefaultText>
+      <DefaultText>"Ouvi dizer que você conheceu Renata. Minhas condolências a você." O Vinculador do Destino de [url=glossary:conhecimento]Conhecimento[/url] balança a cabeça como se para limpar uma memória desagradável. "Eu não reclamaria se você a tivesse matado."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Não vou falar do Sábios. Eles não são melhores do que charlatães e trapaceiros, totalmente egoístas em sua busca doentia de acumular todo o conhecimento dos outros. Eles são auto-cegos por seus próprios enganos e manipulações inteligentes. Eles sozinhos causaram sua própria ruína e são os únicos culpados pelo [url=glossary:burning library]Biblioteca em chamas[/url] - um dos mais graves erros nas histórias conhecidas pelo qual eles nunca podem ser perdoados."</DefaultText>
+      <DefaultText>"Não vou falar do Sábios. Eles não são melhores do que charlatães e trapaceiros, totalmente egoístas em sua busca doentia de acumular todo o conhecimento dos outros. Eles são auto-cegos por seus próprios enganos e manipulações inteligentes. Eles sozinhos causaram sua própria ruína e são os únicos culpados pelo [url=glossary:biblioteca em chamas]Biblioteca em chamas[/url] - um dos mais graves erros nas histórias conhecidas pelo qual eles nunca podem ser perdoados."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -243,12 +243,12 @@ O Vinculador do Destino cruza os braços nas mangas de seu manto e te nivela com
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Tenha paciência ao praticar uma nova forma, para que seus dedos não vacilem e falhem. Uma invocação apressada traz consigo um risco maior do que você pode imaginar." O Vinculador do Destino de [url=glossary:lore]Conhecimento[/url] inclina a cabeça em pensamentos medidos. "Ou, pelo menos, pratique a quinze passos de mim - ali."</DefaultText>
+      <DefaultText>"Tenha paciência ao praticar uma nova forma, para que seus dedos não vacilem e falhem. Uma invocação apressada traz consigo um risco maior do que você pode imaginar." O Vinculador do Destino de [url=glossary:conhecimento]Conhecimento[/url] inclina a cabeça em pensamentos medidos. "Ou, pelo menos, pratique a quinze passos de mim - ali."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Claro, agora o [url=glossary:vellum citadel]Cidadela de Velino[/url] nada mais é do que um lixo em chamas."</DefaultText>
+      <DefaultText>"Claro, agora o [url=glossary:cidadela de velino]Cidadela de Velino[/url] nada mais é do que um lixo em chamas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -349,7 +349,7 @@ O Vinculador do Destino cruza os braços nas mangas de seu manto e te nivela com
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>"Pensei em sua natureza impulsiva. Isso me irrita constantemente. Seu apoio ao [url=glossary:scarlet chorus]Coro Escarlate[/url] apenas confirma minha crença de que você está entre os membros mais severos e imprevisíveis de nosso escritório."</DefaultText>
+      <DefaultText>"Pensei em sua natureza impulsiva. Isso me irrita constantemente. Seu apoio ao [url=glossary:coro escarlate]Coro Escarlate[/url] apenas confirma minha crença de que você está entre os membros mais severos e imprevisíveis de nosso escritório."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -376,7 +376,7 @@ O Vinculador do Destino cruza os braços nas mangas de seu manto e te nivela com
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>"Robusto também merece menção, pois compreende todo o Nível mais ao sul, e se mostra o mais resistente e defensável do Reinos. Costuma-se dizer que o outro Reinos não cairá enquanto Robusto ainda estiver de pé." "O exército local trava uma guerra amarga contra o [url=glossary:disfavored]Desfavorecido[/url], embora o [url=glossary:edict]Edital[/url] of Storms cortou a melhor de suas defesas. É apenas uma questão de tempo até que Robusto caia."</DefaultText>
+      <DefaultText>"Robusto também merece menção, pois compreende todo o Nível mais ao sul, e se mostra o mais resistente e defensável do Reinos. Costuma-se dizer que o outro Reinos não cairá enquanto Robusto ainda estiver de pé." "O exército local trava uma guerra amarga contra o [url=glossary:desfavorecido]Desfavorecido[/url], embora o [url=glossary:edital]Edital[/url] of Storms cortou a melhor de suas defesas. É apenas uma questão de tempo até que Robusto caia."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -416,22 +416,22 @@ O Vinculador do Destino cruza os braços nas mangas de seu manto e te nivela com
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Melhor para o nosso bem que [url=glossary:the voices of nerat]As Vozes de Nerat[/url] deixou este mundo. Eu sempre pensei que [url=glossary:kyros]Kyros[/url] o usava para diminuir o rebanho, e que qualquer um na hierarquia era um jogo justo. Especulação, claro."</DefaultText>
+      <DefaultText>"Melhor para o nosso bem que [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] deixou este mundo. Eu sempre pensei que [url=glossary:kyros]Kyros[/url] o usava para diminuir o rebanho, e que qualquer um na hierarquia era um jogo justo. Especulação, claro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>"Eu não sei como você planeja manter [url=glossary:the voices of nerat]As Vozes de Nerat[/url] na linha, mas esse será o seu fardo para carregar. Só não o deixe perto de mim."</DefaultText>
+      <DefaultText>"Eu não sei como você planeja manter [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] na linha, mas esse será o seu fardo para carregar. Só não o deixe perto de mim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Como você acha que o Tribunal se sairá sem o [url=glossary:bleden mark]Marca de Mistura[/url]?"</DefaultText>
+      <DefaultText>"Como você acha que o Tribunal se sairá sem o [url=glossary:marca de mistura]Marca de Mistura[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>"[url=glossary:bleden mark]Marca de Mistura[/url] está sob meu controle. O que devo fazer com ele?"</DefaultText>
+      <DefaultText>"[url=glossary:marca de mistura]Marca de Mistura[/url] está sob meu controle. O que devo fazer com ele?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -76,7 +76,7 @@ Ela dá de ombros e coloca a lança na bainha nas costas. Mas ela cruza os braç
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Só que não é tão fácil como ficar de olho no céu e seguir em frente. Tenho algumas centenas de abismos e dobro uma dúzia [url=glossary:disfavored]Desfavorecido[/url] separando [Plainsgate] de [url=lore:Howling_Rock]Rocha Uivante[/url]."</DefaultText>
+      <DefaultText>"Só que não é tão fácil como ficar de olho no céu e seguir em frente. Tenho algumas centenas de abismos e dobro uma dúzia [url=glossary:desfavorecido]Desfavorecido[/url] separando [Plainsgate] de [url=lore:Howling_Rock]Rocha Uivante[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,7 +86,7 @@ Ela dá de ombros e coloca a lança na bainha nas costas. Mas ela cruza os braç
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"Os Homens-Besta dando problemas aqui no [url=glossary:stone sea]Mar de Pedra[/url]?"</DefaultText>
+      <DefaultText>"Os Homens-Besta dando problemas aqui no [url=glossary:mar de pedra]Mar de Pedra[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,7 +101,7 @@ Ela dá de ombros e coloca a lança na bainha nas costas. Mas ela cruza os braç
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>"Te digo uma coisa, Vinculador do Destino, enquanto você estiver no [url=glossary:stone sea]Mar de Pedra[/url] se você encontrar o Rasgando-Hound, coloque-o na fila. Ou mate-o por mim."</DefaultText>
+      <DefaultText>"Te digo uma coisa, Vinculador do Destino, enquanto você estiver no [url=glossary:mar de pedra]Mar de Pedra[/url] se você encontrar o Rasgando-Hound, coloque-o na fila. Ou mate-o por mim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -141,7 +141,7 @@ Ela dá de ombros e coloca a lança na bainha nas costas. Mas ela cruza os braç
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Nossos esforços para reforçar os recrutas estão indo melhor do que o esperado aqui em [Plainsgate]. Nossos esforços para desacreditar o [url=glossary:disfavored]Desfavorecido[/url] estão aumentando perto do Pedra Cinzenta. Nossos esforços para localizar [url=glossary:cairn]Cairn[/url] foram os mais problemáticos."</DefaultText>
+      <DefaultText>"Nossos esforços para reforçar os recrutas estão indo melhor do que o esperado aqui em [Plainsgate]. Nossos esforços para desacreditar o [url=glossary:desfavorecido]Desfavorecido[/url] estão aumentando perto do Pedra Cinzenta. Nossos esforços para localizar [url=glossary:cairn]Cairn[/url] foram os mais problemáticos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -261,7 +261,7 @@ Ela coloca a lança na bainha das costas e cruza os braços, cautelosa ao olhar 
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>"Enviei meu braço direito, Oitava, com uma enorme quantidade de Fúrias para recrutar ou matar o [url=glossary:stonestalkers]Perseguidores de Pedras[/url] no coração de sua toca em [url=lore:StoneDown]Apedrejar[/url]. Eles sabem onde [url=glossary:cairn]Cairn[/url] está, então estou dizendo que eles vão nos ajudar ou sair do caminho, permanentemente. Vá e junte-se a ele, mesmo que apenas para ter certeza de que ele não gire isso para mim."</DefaultText>
+      <DefaultText>"Enviei meu braço direito, Oitava, com uma enorme quantidade de Fúrias para recrutar ou matar o [url=glossary:perseguidores de pedras]Perseguidores de Pedras[/url] no coração de sua toca em [url=lore:StoneDown]Apedrejar[/url]. Eles sabem onde [url=glossary:cairn]Cairn[/url] está, então estou dizendo que eles vão nos ajudar ou sair do caminho, permanentemente. Vá e junte-se a ele, mesmo que apenas para ter certeza de que ele não gire isso para mim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -281,12 +281,12 @@ Ela coloca a lança na bainha das costas e cruza os braços, cautelosa ao olhar 
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>"Essas feras são gloriosamente cruéis. Eu os vi rasgar os braços e as pernas de um [url=glossary:disfavored]Desfavorecido[/url] - através da maldita armadura. Sabendo disso, prefiro tê-los ao meu lado, não é?"</DefaultText>
+      <DefaultText>"Essas feras são gloriosamente cruéis. Eu os vi rasgar os braços e as pernas de um [url=glossary:desfavorecido]Desfavorecido[/url] - através da maldita armadura. Sabendo disso, prefiro tê-los ao meu lado, não é?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>"Mais, o [url=glossary:stonestalkers]Perseguidores de Pedras[/url] sabe como chegar ao Pináculo em Howling Rock."</DefaultText>
+      <DefaultText>"Mais, o [url=glossary:perseguidores de pedras]Perseguidores de Pedras[/url] sabe como chegar ao Pináculo em Howling Rock."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -451,7 +451,7 @@ Ela faz uma reverência simulada, abrindo os braços enluvados diante de você.
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>"Vou te ajudar a lidar com o [url=glossary:stonestalkers]Perseguidores de Pedras[/url], mas em troca quero que você liberte Deixou-Claw."</DefaultText>
+      <DefaultText>"Vou te ajudar a lidar com o [url=glossary:perseguidores de pedras]Perseguidores de Pedras[/url], mas em troca quero que você liberte Deixou-Claw."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -485,7 +485,7 @@ Ela faz uma reverência simulada, abrindo os braços enluvados diante de você.
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>"Tudo bem, você me pegou. [url=glossary:kyros]Kyros[/url] só sabe o porquê, ele está caçando obstinadamente [url=glossary:disfavored]Desfavorecido[/url] por todo o mar. Ele é muito bom nisso também. Então preparamos uma armadilha para ele. Achei que poderíamos forçá-lo em nossas fileiras. Apenas, a situação ficou... confusa."</DefaultText>
+      <DefaultText>"Tudo bem, você me pegou. [url=glossary:kyros]Kyros[/url] só sabe o porquê, ele está caçando obstinadamente [url=glossary:desfavorecido]Desfavorecido[/url] por todo o mar. Ele é muito bom nisso também. Então preparamos uma armadilha para ele. Achei que poderíamos forçá-lo em nossas fileiras. Apenas, a situação ficou... confusa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -555,12 +555,12 @@ Ela faz uma reverência simulada, abrindo os braços enluvados diante de você.
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>"Estamos perdendo corpos todos os dias. Para a fome, para Bestas, para [url=glossary:disfavored]Desfavorecido[/url], e brigando. Não substituí-los apenas mataria o Refrão mais rápido."</DefaultText>
+      <DefaultText>"Estamos perdendo corpos todos os dias. Para a fome, para Bestas, para [url=glossary:desfavorecido]Desfavorecido[/url], e brigando. Não substituí-los apenas mataria o Refrão mais rápido."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>111</ID>
-      <DefaultText>"Certo, eu vou. Estamos perdendo corpos todos os dias. Para a fome, para Bestas, para [url=glossary:disfavored]Desfavorecido[/url], e brigando. As substituições têm que vir de algum lugar. E ao contrário das linhagens Cinza, não evitamos Homens dos Caminhos."</DefaultText>
+      <DefaultText>"Certo, eu vou. Estamos perdendo corpos todos os dias. Para a fome, para Bestas, para [url=glossary:desfavorecido]Desfavorecido[/url], e brigando. As substituições têm que vir de algum lugar. E ao contrário das linhagens Cinza, não evitamos Homens dos Caminhos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -687,12 +687,12 @@ Ela faz uma reverência simulada, abrindo os braços enluvados diante de você.
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>"Então você está aqui para parar os terremotos ou você está aqui para danificar o [url=glossary:disfavored]Desfavorecido[/url]?"</DefaultText>
+      <DefaultText>"Então você está aqui para parar os terremotos ou você está aqui para danificar o [url=glossary:desfavorecido]Desfavorecido[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>"Obviamente, ambos. Se matarmos [url=glossary:cairn]Cairn[/url] e pararmos os terremotos, podemos devolver essas planícies às terras agrícolas que costumavam ser e alimentar nosso exército cada vez maior." Ela ri. "E se pudermos ferir o [url=glossary:disfavored]Desfavorecido[/url] como objetivo secundário, melhor ainda."</DefaultText>
+      <DefaultText>"Obviamente, ambos. Se matarmos [url=glossary:cairn]Cairn[/url] e pararmos os terremotos, podemos devolver essas planícies às terras agrícolas que costumavam ser e alimentar nosso exército cada vez maior." Ela ri. "E se pudermos ferir o [url=glossary:desfavorecido]Desfavorecido[/url] como objetivo secundário, melhor ainda."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -707,27 +707,27 @@ Ela faz uma reverência simulada, abrindo os braços enluvados diante de você.
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"As vozes não dizer alguma coisa? Claro que planejamos tomar [Plainsgate] - após a quebra em [url=glossary:vendrien's well]Poço de Vendrien[/url]." Ela acena com a mão maliciosamente. "Nós nunca desafiaríamos abertamente vontade de [url=glossary:kyros]Kyros[/url]."</DefaultText>
+      <DefaultText>"As vozes não dizer alguma coisa? Claro que planejamos tomar [Plainsgate] - após a quebra em [url=glossary:poço de vendrien]Poço de Vendrien[/url]." Ela acena com a mão maliciosamente. "Nós nunca desafiaríamos abertamente vontade de [url=glossary:kyros]Kyros[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>"Não minta para nós, ou pelo trovão saberemos! O [url=glossary:scarlet chorus]Coro Escarlate[/url] planejava reivindicar este território antes da guerra civil?" Barik avança com um ar perigoso.</DefaultText>
+      <DefaultText>"Não minta para nós, ou pelo trovão saberemos! O [url=glossary:coro escarlate]Coro Escarlate[/url] planejava reivindicar este território antes da guerra civil?" Barik avança com um ar perigoso.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>142</ID>
-      <DefaultText>Ela pega sua lança, mas ainda não a puxa, confiante e firme em sua postura. "Não mais do que o [url=glossary:disfavored]Desfavorecido[/url] marcou seu território em todo o Robusto." Ela dá de ombros. "Você acha que o Vozes não notaria como o Cinza aposta em uma ocupação [url=glossary:disfavored]Desfavorecido[/url]-apenas? Alguém com olhos o veriam como suspeito. E as vozes tem mais do que sua cota de olhos."</DefaultText>
+      <DefaultText>Ela pega sua lança, mas ainda não a puxa, confiante e firme em sua postura. "Não mais do que o [url=glossary:desfavorecido]Desfavorecido[/url] marcou seu território em todo o Robusto." Ela dá de ombros. "Você acha que o Vozes não notaria como o Cinza aposta em uma ocupação [url=glossary:desfavorecido]Desfavorecido[/url]-apenas? Alguém com olhos o veriam como suspeito. E as vozes tem mais do que sua cota de olhos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>"O [url=glossary:scarlet chorus]Coro Escarlate[/url] não deveria ter planejado tomar a região para si."</DefaultText>
+      <DefaultText>"O [url=glossary:coro escarlate]Coro Escarlate[/url] não deveria ter planejado tomar a região para si."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>"Por essa lógica, os [url=glossary:disfavored]Desfavorecido[/url] são igualmente corrompidos."</DefaultText>
+      <DefaultText>"Por essa lógica, os [url=glossary:desfavorecido]Desfavorecido[/url] são igualmente corrompidos."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -783,7 +783,7 @@ Ela dá de ombros, mas está um pouco ansiosa para recuar depois do show, quando
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>"[url=glossary:stonestalkers]Perseguidores de Pedras[/url]respeito Arconte chamou [url=glossary:cairn]Cairn[/url] porque [url=glossary:cairn]Cairn[/url] lutou por Mulheres-feras. Por que a tribo não respondeu Pedra-os gemidos de morte do místico?"</DefaultText>
+      <DefaultText>"[url=glossary:perseguidores de pedras]Perseguidores de Pedras[/url]respeito Arconte chamou [url=glossary:cairn]Cairn[/url] porque [url=glossary:cairn]Cairn[/url] lutou por Mulheres-feras. Por que a tribo não respondeu Pedra-os gemidos de morte do místico?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -800,7 +800,7 @@ Ela bufa e se diverte.</DefaultText>
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>Misery projeta seu queixo, impressionada. "Parece que o Vinculador do Destino of War tem uma taxa de sobrevivência melhor do que a elite do [url=glossary:disfavored]Desfavorecido[/url]. Gostaria de saber como ele cura suas feridas - e por que ele é tão ruim em evitá-las para começar." Ela ri, um som rouco e sufocante.</DefaultText>
+      <DefaultText>Misery projeta seu queixo, impressionada. "Parece que o Vinculador do Destino of War tem uma taxa de sobrevivência melhor do que a elite do [url=glossary:desfavorecido]Desfavorecido[/url]. Gostaria de saber como ele cura suas feridas - e por que ele é tão ruim em evitá-las para começar." Ela ri, um som rouco e sufocante.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -841,7 +841,7 @@ Ela bufa e se diverte.</DefaultText>
       <ID>166</ID>
       <DefaultText>Ela examina a ruína que você causou na cidade dela - o rastro de corpos e sangue que você deixou aos pés dela, e sua postura endurece. Ela aperta sua lança até que seus braços estão completamente trêmulos.
 
-"Eu não arranhei meus dedos até o osso - eu não matei aqueles que atormentam meus sonhos apenas para ser lavado por um [url=glossary:kyros]Kyros [/url]-maldito Vinculador do Destino! Eu vou fazer você se arrepender. Você me escuta?! Vou fazer você se arrepender de ter vindo aqui."</DefaultText>
+"Eu não arranhei meus dedos até o osso - eu não matei aqueles que atormentam meus sonhos apenas para ser lavado por um [url=glossary:kyros]Kyros[/url]-maldito Vinculador do Destino! Eu vou fazer você se arrepender. Você me escuta?! Vou fazer você se arrepender de ter vindo aqui."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -966,7 +966,7 @@ Ela golpeia você, lança estalando estrondosamente no ar.</DefaultText>
     </Entry>
     <Entry>
       <ID>190</ID>
-      <DefaultText>"[url=glossary:bleden mark]Marca de Mistura[/url] manda lembranças."</DefaultText>
+      <DefaultText>"[url=glossary:marca de mistura]Marca de Mistura[/url] manda lembranças."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1003,7 +1003,7 @@ Ela se lança em sua direção sem aviso prévio, rápida como um raio, seguida 
     </Entry>
     <Entry>
       <ID>197</ID>
-      <DefaultText>[Conquista] "Sei que a paisagem está mudando desde o [url=glossary:edict]Edital[/url] - achando que não encontrou um caminho?"</DefaultText>
+      <DefaultText>[Conquista] "Sei que a paisagem está mudando desde o [url=glossary:edital]Edital[/url] - achando que não encontrou um caminho?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1163,7 +1163,7 @@ A Lança Carmesim aponta sua arma de cabo longo para você. A ponta bronzeada ba
       <ID>235</ID>
       <DefaultText>Ela gira o rosto escondido no elmo para um lado, o movimento reptiliano e frio, uma avaliação calculista.
 
-"Aposto que o Vozes adoraria entrar na sua cabeça idiota. Para encerrar o [url=glossary:edict]Edital[/url]. Por que mais?"</DefaultText>
+"Aposto que o Vozes adoraria entrar na sua cabeça idiota. Para encerrar o [url=glossary:edital]Edital[/url]. Por que mais?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1203,7 +1203,7 @@ Um som de surpresa fica preso em sua garganta com seu ataque apressado, mas ela 
     </Entry>
     <Entry>
       <ID>241</ID>
-      <DefaultText>"Vinculador do Destino, parece que temos motivos aqui para apoiar uns aos outros. E você sabe que eu sempre vou te apoiar, irmão." O [url=glossary:disfavored]Desfavorecido[/url] levanta sua espada de prontidão, segurando com as duas mãos o cabo de couro gasto. Com um grunhido, ele trabalha os ombros para afrouxá-los, pesadas placas de ferro tilintando com o movimento circular. "Além do mais, eu gosto de estripar gritadores."</DefaultText>
+      <DefaultText>"Vinculador do Destino, parece que temos motivos aqui para apoiar uns aos outros. E você sabe que eu sempre vou te apoiar, irmão." O [url=glossary:desfavorecido]Desfavorecido[/url] levanta sua espada de prontidão, segurando com as duas mãos o cabo de couro gasto. Com um grunhido, ele trabalha os ombros para afrouxá-los, pesadas placas de ferro tilintando com o movimento circular. "Além do mais, eu gosto de estripar gritadores."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1223,7 +1223,7 @@ Um som de surpresa fica preso em sua garganta com seu ataque apressado, mas ela 
     </Entry>
     <Entry>
       <ID>245</ID>
-      <DefaultText>"Vinculador do Destino. Irmão. Seria um verdadeiro prazer lutar em suas costas." O [url=glossary:disfavored]Desfavorecido[/url] levanta sua espada de prontidão, segurando com as duas mãos o cabo de couro gasto. Com um grunhido, ele trabalha os ombros para afrouxá-los, pesadas placas de ferro tilintando com o movimento circular. "Mas eu chamo a atenção do gritador com a lança."</DefaultText>
+      <DefaultText>"Vinculador do Destino. Irmão. Seria um verdadeiro prazer lutar em suas costas." O [url=glossary:desfavorecido]Desfavorecido[/url] levanta sua espada de prontidão, segurando com as duas mãos o cabo de couro gasto. Com um grunhido, ele trabalha os ombros para afrouxá-los, pesadas placas de ferro tilintando com o movimento circular. "Mas eu chamo a atenção do gritador com a lança."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

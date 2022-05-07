@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Conjura um clarão de chamas que queima os inimigos próximos. Inimigos são interrompidos e esquerda [url=glossary:burning]Queimando[/url].</DefaultText>
+      <DefaultText>Conjura um clarão de chamas que queima os inimigos próximos. Inimigos são interrompidos e esquerda [url=glossary:queimando]Queimando[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,12 +46,12 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>[url=glossary:death]Morte[/url] De cima</DefaultText>
+      <DefaultText>[url=glossary:morte]Morte[/url] De cima</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Verso de lançamento no ar, permitindo que ela solte uma série de flechas certeiras no alvo de cima. Cada uma dessas flechas acerta e tem [url=glossary:armor penetration]Penetração de Armadura[/url].</DefaultText>
+      <DefaultText>Verso de lançamento no ar, permitindo que ela solte uma série de flechas certeiras no alvo de cima. Cada uma dessas flechas acerta e tem [url=glossary:penetração de armadura]Penetração de Armadura[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -81,7 +81,7 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>[url=glossary:burning]Queimando[/url] Ferro</DefaultText>
+      <DefaultText>[url=glossary:queimando]Queimando[/url] Ferro</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -110,7 +110,7 @@ Primeiro usado séculos atrás pelos Rainha do Sol, Arconte de Fogo, este sigilo
       <ID>26</ID>
       <DefaultText>Use o Sigilo do Gelo para drenar calor e energia para o Vazio, condensando água em geada e afligindo alvos com frio intenso.
 
-Um longo segredo do Escola de Geada Boreal, os magos entregaram esse conhecimento a [url=glossary:kyros]Kyros[/url] após o Norte general [url=glossary:graven ashe]Cinza Esculpida[/url] ser derrotado pelas forças Soberano.</DefaultText>
+Um longo segredo do Escola de Geada Boreal, os magos entregaram esse conhecimento a [url=glossary:kyros]Kyros[/url] após o Norte general [url=glossary:cinza esculpida]Cinza Esculpida[/url] ser derrotado pelas forças Soberano.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -200,7 +200,7 @@ Muitas vezes ridicularizados por magos de combate por sua incapacidade de matar 
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Sigilo de [url=glossary:focused]Focado[/url] Intenção</DefaultText>
+      <DefaultText>Sigilo de [url=glossary:focado]Focado[/url] Intenção</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -330,7 +330,7 @@ Muitas vezes ridicularizados por magos de combate por sua incapacidade de matar 
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>[url=glossary:recovery]Recuperação[/url]</DefaultText>
+      <DefaultText>[url=glossary:recuperação]Recuperação[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -355,7 +355,7 @@ Muitas vezes ridicularizados por magos de combate por sua incapacidade de matar 
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>[url=glossary:burning]Queimando[/url] Tocar</DefaultText>
+      <DefaultText>[url=glossary:queimando]Queimando[/url] Tocar</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -375,7 +375,7 @@ Muitas vezes ridicularizados por magos de combate por sua incapacidade de matar 
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>[url=glossary:graven ashe]Cinza Esculpida[/url] absorve a dor e o sofrimento de suas tropas, curando-as e removendo um efeito hostil</DefaultText>
+      <DefaultText>[url=glossary:cinza esculpida]Cinza Esculpida[/url] absorve a dor e o sofrimento de suas tropas, curando-as e removendo um efeito hostil</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -455,7 +455,7 @@ Muitas vezes ridicularizados por magos de combate por sua incapacidade de matar 
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>Varredura [url=glossary:death]Morte[/url]</DefaultText>
+      <DefaultText>Varredura [url=glossary:morte]Morte[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -465,7 +465,7 @@ Muitas vezes ridicularizados por magos de combate por sua incapacidade de matar 
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>[url=glossary:hobbled]Mancando[/url] Presa</DefaultText>
+      <DefaultText>[url=glossary:mancando]Mancando[/url] Presa</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -500,7 +500,7 @@ Muitas vezes ridicularizados por magos de combate por sua incapacidade de matar 
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>Segundo [url=glossary:breath]Respiração[/url]</DefaultText>
+      <DefaultText>Segundo [url=glossary:sopro]Sopro[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -525,7 +525,7 @@ Muitas vezes ridicularizados por magos de combate por sua incapacidade de matar 
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>[url=glossary:graven ashe]Cinza Esculpida[/url] absorve a dor de {0}.</DefaultText>
+      <DefaultText>[url=glossary:cinza esculpida]Cinza Esculpida[/url] absorve a dor de {0}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -540,7 +540,7 @@ Muitas vezes ridicularizados por magos de combate por sua incapacidade de matar 
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>[url=glossary:graven ashe]Cinza Esculpida[/url] absorve {0}{1}.</DefaultText>
+      <DefaultText>[url=glossary:cinza esculpida]Cinza Esculpida[/url] absorve {0}{1}.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -602,12 +602,12 @@ Os efeitos dessa habilidade são modificados pelo Reputações de lealdade e med
     </Entry>
     <Entry>
       <ID>170</ID>
-      <DefaultText>Cria uma aura de fogo ao redor do alvo que causa dano aos inimigos e remove [url=glossary:frozen]Congeladas[/url] dos aliados.</DefaultText>
+      <DefaultText>Cria uma aura de fogo ao redor do alvo que causa dano aos inimigos e remove [url=glossary:congeladas]Congeladas[/url] dos aliados.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>Reúna energia aquecida em suas mãos e libere-a para um inimigo. O alvo pega fogo, [url=glossary:burning]Queimando[/url] ao longo do tempo.</DefaultText>
+      <DefaultText>Reúna energia aquecida em suas mãos e libere-a para um inimigo. O alvo pega fogo, [url=glossary:queimando]Queimando[/url] ao longo do tempo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -617,12 +617,12 @@ Os efeitos dessa habilidade são modificados pelo Reputações de lealdade e med
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>[url=glossary:burning]Queimando[/url] Mãos</DefaultText>
+      <DefaultText>[url=glossary:queimando]Queimando[/url] Mãos</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>174</ID>
-      <DefaultText>Root no lugar, ganhando imunidade aos efeitos Empurrar e [url=glossary:prone]Propenso[/url] e um grande impulso para Endurance ao custo da habilidade de se mover.</DefaultText>
+      <DefaultText>Root no lugar, ganhando imunidade aos efeitos Empurrar e [url=glossary:propenso]Propenso[/url] e um grande impulso para Endurance ao custo da habilidade de se mover.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -637,7 +637,7 @@ Os efeitos dessa habilidade são modificados pelo Reputações de lealdade e med
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>Lute defensivamente, ganhando um bônus para [url=glossary:armor]armaduras[/url].</DefaultText>
+      <DefaultText>Lute defensivamente, ganhando um bônus para [url=glossary:armadura]Armadura[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -652,7 +652,7 @@ Os efeitos dessa habilidade são modificados pelo Reputações de lealdade e med
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>Aumente o bônus [url=glossary:parry]Defesa[/url] concedido por escudos equipados.</DefaultText>
+      <DefaultText>Aumente o bônus [url=glossary:defesa]Defesa[/url] concedido por escudos equipados.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -697,7 +697,7 @@ Os efeitos dessa habilidade são modificados pelo Reputações de lealdade e med
     </Entry>
     <Entry>
       <ID>190</ID>
-      <DefaultText>Verse executa um floreio mortal, atingindo inimigos próximos com cada movimento gracioso e causando [url=glossary:bleeding]Sangramento[/url] com seus ataques.</DefaultText>
+      <DefaultText>Verse executa um floreio mortal, atingindo inimigos próximos com cada movimento gracioso e causando [url=glossary:sangramento]Sangramento[/url] com seus ataques.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -752,12 +752,12 @@ Os efeitos dessa habilidade são modificados pelo Reputações de lealdade e med
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>Um ataque cuidadosamente colocado que tenta abrir uma artéria principal, deixando o alvo [url=glossary:bleeding]Sangramento[/url].</DefaultText>
+      <DefaultText>Um ataque cuidadosamente colocado que tenta abrir uma artéria principal, deixando o alvo [url=glossary:sangramento]Sangramento[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>Uma postura agressiva que se concentra em golpes poderosos que penetram no [url=glossary:armor]armaduras[/url] de um inimigo.</DefaultText>
+      <DefaultText>Uma postura agressiva que se concentra em golpes poderosos que penetram no [url=glossary:armadura]Armadura[/url] de um inimigo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -767,7 +767,7 @@ Os efeitos dessa habilidade são modificados pelo Reputações de lealdade e med
     </Entry>
     <Entry>
       <ID>207</ID>
-      <DefaultText>Quando superior a [url=glossary:parry]Defesa[/url], use a habilidade [url=glossary:dodge]Desviar[/url] para evitar ataques corpo a corpo. Também ganhe um bônus de defesa contra ataques Não envolvimento.</DefaultText>
+      <DefaultText>Quando superior a [url=glossary:defesa]Defesa[/url], use a habilidade [url=glossary:desviar]Desviar[/url] para evitar ataques corpo a corpo. Também ganhe um bônus de defesa contra ataques Não envolvimento.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -817,7 +817,7 @@ Os efeitos dessa habilidade são modificados pelo Reputações de lealdade e med
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>Crie uma aura de Gravelight que concede aos aliados um bônus para [url=glossary:magic defense]Defesa Mágica[/url].</DefaultText>
+      <DefaultText>Crie uma aura de Gravelight que concede aos aliados um bônus para [url=glossary:defesa mágica]Defesa Mágica[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -867,7 +867,7 @@ Os efeitos dessa habilidade são modificados pelo Reputações de lealdade e med
     </Entry>
     <Entry>
       <ID>245</ID>
-      <DefaultText>Preencha o alvo com uma onda de grandeza, concedendo-lhes um bônus para [url=glossary:might]Força[/url] e [url=glossary:vitality]Vitalidade[/url].</DefaultText>
+      <DefaultText>Preencha o alvo com uma onda de grandeza, concedendo-lhes um bônus para [url=glossary:força]Força[/url] e [url=glossary:vitalidade]Vitalidade[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -932,7 +932,7 @@ Os efeitos dessa habilidade são modificados pelo Reputações de lealdade e med
     </Entry>
     <Entry>
       <ID>258</ID>
-      <DefaultText>Reúna energia entrópica e canalize-a para um inimigo, minando os [url=glossary:might]Força[/url] e [url=glossary:vitality]Vitalidade[/url] do alvo.</DefaultText>
+      <DefaultText>Reúna energia entrópica e canalize-a para um inimigo, minando os [url=glossary:força]Força[/url] e [url=glossary:vitalidade]Vitalidade[/url] do alvo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -982,7 +982,7 @@ Os efeitos dessa habilidade são modificados pelo Reputações de lealdade e med
     </Entry>
     <Entry>
       <ID>273</ID>
-      <DefaultText>Lantry salta para frente, desaparecendo do combate e da cura. Ao retornar, ele libera uma onda de energia que reduz [url=glossary:recovery]Recuperação[/url] de aliados próximos.</DefaultText>
+      <DefaultText>Lantry salta para frente, desaparecendo do combate e da cura. Ao retornar, ele libera uma onda de energia que reduz [url=glossary:recuperação]Recuperação[/url] de aliados próximos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -997,7 +997,7 @@ Os efeitos dessa habilidade são modificados pelo Reputações de lealdade e med
     </Entry>
     <Entry>
       <ID>276</ID>
-      <DefaultText>Lantry atinge seu alvo, interrompendo-os e abaixando seu não-físico [url=glossary:armor]armaduras[/url]. Se usado furtivamente, este ataque também Paralisar no alvo.</DefaultText>
+      <DefaultText>Lantry atinge seu alvo, interrompendo-os e abaixando seu não-físico [url=glossary:armadura]Armadura[/url]. Se usado furtivamente, este ataque também Paralisar no alvo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1012,47 +1012,47 @@ Os efeitos dessa habilidade são modificados pelo Reputações de lealdade e med
     </Entry>
     <Entry>
       <ID>281</ID>
-      <DefaultText>Lance uma chuva de espinhos em vários inimigos em uma área. Cada pena aplica uma aflição [url=glossary:bleeding]Sangramento[/url] quando atinge.</DefaultText>
+      <DefaultText>Lance uma chuva de espinhos em vários inimigos em uma área. Cada pena aplica uma aflição [url=glossary:sangramento]Sangramento[/url] quando atinge.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>284</ID>
-      <DefaultText>Melhora [url=glossary:control life]Controle de vida[/url] Habilidade.</DefaultText>
+      <DefaultText>Melhora [url=glossary:controle da vida]Controle da Vida[/url] Habilidade.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>285</ID>
-      <DefaultText>Melhora moderadamente [url=glossary:control life]Controle de vida[/url] Habilidade.</DefaultText>
+      <DefaultText>Melhora moderadamente [url=glossary:controle da vida]Controle da Vida[/url] Habilidade.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>286</ID>
-      <DefaultText>Melhora muito [url=glossary:control life]Controle de vida[/url] Habilidade.</DefaultText>
+      <DefaultText>Melhora muito [url=glossary:controle da vida]Controle da Vida[/url] Habilidade.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>289</ID>
-      <DefaultText>Quando Lantry está no grupo, todos os membros do grupo ganham experiência bônus para [url=glossary:lore]Conhecimento[/url] e Habilidades de arremesso.</DefaultText>
+      <DefaultText>Quando Lantry está no grupo, todos os membros do grupo ganham experiência bônus para [url=glossary:conhecimento]Conhecimento[/url] e Habilidades de arremesso.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>291</ID>
-      <DefaultText>Melhora [url=glossary:lore]Conhecimento[/url] Habilidade.</DefaultText>
+      <DefaultText>Melhora [url=glossary:conhecimento]Conhecimento[/url] Habilidade.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>292</ID>
-      <DefaultText>Melhora o arremesso de Lantry alcance de ataque de arma e adiciona [url=glossary:armor penetration]Penetração de Armadura[/url] aos seus ataques de arma Lançado.</DefaultText>
+      <DefaultText>Melhora o arremesso de Lantry alcance de ataque de arma e adiciona [url=glossary:penetração de armadura]Penetração de Armadura[/url] aos seus ataques de arma Lançado.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>293</ID>
-      <DefaultText>Melhora ainda mais o alcance de ataque da arma Lantry lançado e adiciona moderado [url=glossary:armor penetration]Penetração de Armadura[/url] aos seus ataques de arma Lançado.</DefaultText>
+      <DefaultText>Melhora ainda mais o alcance de ataque da arma Lantry lançado e adiciona moderado [url=glossary:penetração de armadura]Penetração de Armadura[/url] aos seus ataques de arma Lançado.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>294</ID>
-      <DefaultText>Melhora muito o alcance de ataque da arma Lantry lançado e adiciona [url=glossary:armor penetration]Penetração de Armadura[/url] aos seus ataques de arma Lançado.</DefaultText>
+      <DefaultText>Melhora muito o alcance de ataque da arma Lantry lançado e adiciona [url=glossary:penetração de armadura]Penetração de Armadura[/url] aos seus ataques de arma Lançado.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1062,17 +1062,17 @@ Os efeitos dessa habilidade são modificados pelo Reputações de lealdade e med
     </Entry>
     <Entry>
       <ID>296</ID>
-      <DefaultText>Reduz o Cooldown e [url=glossary:recovery]Recuperação[/url] Tempo ao usar Golpe de Pena, Quill Flurry e Tempestade de Penas.</DefaultText>
+      <DefaultText>Reduz o Cooldown e [url=glossary:recuperação]Recuperação[/url] Tempo ao usar Golpe de Pena, Quill Flurry e Tempestade de Penas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>297</ID>
-      <DefaultText>Concede Golpe de Lantry [url=glossary:precision]Precisão[/url] e a capacidade de decifrar idiomas antigos. Uma habilidade útil para descobrir novas magias durante a viagem.</DefaultText>
+      <DefaultText>Concede Golpe de Lantry [url=glossary:precisão]Precisão[/url] e a capacidade de decifrar idiomas antigos. Uma habilidade útil para descobrir novas magias durante a viagem.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>298</ID>
-      <DefaultText>Ganhe um bônus passivo nas habilidades [url=glossary:subterfuge]Subterfúgio[/url] e [url=glossary:dodge]Desviar[/url].</DefaultText>
+      <DefaultText>Ganhe um bônus passivo nas habilidades [url=glossary:subterfúgio]Subterfúgio[/url] e [url=glossary:desviar]Desviar[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1152,7 +1152,7 @@ Os efeitos dessa habilidade são modificados pelo Reputações de lealdade e med
     </Entry>
     <Entry>
       <ID>316</ID>
-      <DefaultText>Concede aliados próximos [url=glossary:resolve]Determinação[/url] e uma maior resistência a ser derrubado ou empurrado para trás. Esses efeitos escalam com o Renome da Insígnia Inabalável.</DefaultText>
+      <DefaultText>Concede aliados próximos [url=glossary:determinação]Determinação[/url] e uma maior resistência a ser derrubado ou empurrado para trás. Esses efeitos escalam com o Renome da Insígnia Inabalável.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1192,7 +1192,7 @@ Os efeitos dessa habilidade são modificados pelo Reputações de lealdade e med
     </Entry>
     <Entry>
       <ID>324</ID>
-      <DefaultText>Dispare uma série de flechas inflamadas, causando [url=glossary:burning]Queimando[/url] a todos os inimigos capturados na área.</DefaultText>
+      <DefaultText>Dispare uma série de flechas inflamadas, causando [url=glossary:queimando]Queimando[/url] a todos os inimigos capturados na área.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1222,7 +1222,7 @@ Os efeitos dessa habilidade são modificados pelo Reputações de lealdade e med
     </Entry>
     <Entry>
       <ID>330</ID>
-      <DefaultText>Varra nos pés do alvo, derrubando-os [url=glossary:prone]Propenso[/url], seguindo para baixo com golpes de cada arma.</DefaultText>
+      <DefaultText>Varra nos pés do alvo, derrubando-os [url=glossary:propenso]Propenso[/url], seguindo para baixo com golpes de cada arma.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1235,7 +1235,7 @@ Os efeitos dessa habilidade são modificados pelo Reputações de lealdade e med
       <DefaultText>Entre em uma postura meditativa de batalha que se concentra em evitar ataques inimigos. Nesta postura, Ferro desvinculado e zombador também são fortalecidos.
 
 Aumenta o alcance da habilidade Não vinculado.
-Adiciona uma penalidade [url=glossary:parry]Defesa[/url] aos alvos Ferro de escárnio.</DefaultText>
+Adiciona uma penalidade [url=glossary:defesa]Defesa[/url] aos alvos Ferro de escárnio.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1245,7 +1245,7 @@ Adiciona uma penalidade [url=glossary:parry]Defesa[/url] aos alvos Ferro de esc�
     </Entry>
     <Entry>
       <ID>334</ID>
-      <DefaultText>Lute agressivamente, diminuindo as defesas [url=glossary:parry]Defesa[/url] e [url=glossary:dodge]Desviar[/url]. Enquanto estiver nessa postura, uma parte de todo o dano que Versículo receber fortalecerá seus próximos ataques.</DefaultText>
+      <DefaultText>Lute agressivamente, diminuindo as defesas [url=glossary:defesa]Defesa[/url] e [url=glossary:desviar]Desviar[/url]. Enquanto estiver nessa postura, uma parte de todo o dano que Versículo receber fortalecerá seus próximos ataques.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1272,12 +1272,12 @@ Adiciona um bônus [url=glossary:accuracy]Precisão[/url] a Espeto, Coveiro e ha
     </Entry>
     <Entry>
       <ID>339</ID>
-      <DefaultText>[url=glossary:focused]Focado[/url] Batida</DefaultText>
+      <DefaultText>[url=glossary:focado]Focado[/url] Batida</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>340</ID>
-      <DefaultText>[url=glossary:bleeding]Sangramento[/url]Arco</DefaultText>
+      <DefaultText>[url=glossary:sangramento]Sangramento[/url]Arco</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1472,7 +1472,7 @@ Adiciona um bônus [url=glossary:accuracy]Precisão[/url] a Espeto, Coveiro e ha
     </Entry>
     <Entry>
       <ID>402</ID>
-      <DefaultText>Quando um inimigo atinge Versículo, ele ganha um bônus passivo para [url=glossary:dodge]Desviar[/url] e [url=glossary:parry]Defesa[/url] Habilidade, até que o combate termine. (Este efeito se acumula)</DefaultText>
+      <DefaultText>Quando um inimigo atinge Versículo, ele ganha um bônus passivo para [url=glossary:desviar]Desviar[/url] e [url=glossary:defesa]Defesa[/url] Habilidade, até que o combate termine. (Este efeito se acumula)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1507,7 +1507,7 @@ Adiciona um bônus [url=glossary:accuracy]Precisão[/url] a Espeto, Coveiro e ha
     </Entry>
     <Entry>
       <ID>409</ID>
-      <DefaultText>Ataques feitos com arcos ganham [url=glossary:armor penetration]Penetração de Armadura[/url].</DefaultText>
+      <DefaultText>Ataques feitos com arcos ganham [url=glossary:penetração de armadura]Penetração de Armadura[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1522,17 +1522,17 @@ Adiciona um bônus [url=glossary:accuracy]Precisão[/url] a Espeto, Coveiro e ha
     </Entry>
     <Entry>
       <ID>412</ID>
-      <DefaultText>Aumenta [url=glossary:accuracy]Precisão[/url] e remove a [url=glossary:recovery]Recuperação[/url] Penalidade incorrida após a troca de conjuntos de armas.</DefaultText>
+      <DefaultText>Aumenta [url=glossary:accuracy]Precisão[/url] e remove a [url=glossary:recuperação]Recuperação[/url] Penalidade incorrida após a troca de conjuntos de armas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>413</ID>
-      <DefaultText>Móvel [url=glossary:recovery]Recuperação[/url]</DefaultText>
+      <DefaultText>Móvel [url=glossary:recuperação]Recuperação[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>414</ID>
-      <DefaultText>Aumenta a velocidade de movimento de combate e remove [url=glossary:recovery]Recuperação[/url] Penalidade de tempo incorrida pelo movimento.</DefaultText>
+      <DefaultText>Aumenta a velocidade de movimento de combate e remove [url=glossary:recuperação]Recuperação[/url] Penalidade de tempo incorrida pelo movimento.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1572,17 +1572,17 @@ Adiciona um bônus [url=glossary:accuracy]Precisão[/url] a Espeto, Coveiro e ha
     </Entry>
     <Entry>
       <ID>422</ID>
-      <DefaultText>O verso ganha bônus Pastar [url=glossary:precision]Precisão[/url] e Pastar [url=glossary:deflection]Deflexão[/url].</DefaultText>
+      <DefaultText>O verso ganha bônus Pastar [url=glossary:precisão]Precisão[/url] e Pastar [url=glossary:deflexão]Deflexão[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>423</ID>
-      <DefaultText>Corrida [url=glossary:death]Morte[/url]</DefaultText>
+      <DefaultText>Corrida [url=glossary:morte]Morte[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>424</ID>
-      <DefaultText>Ao usar Corrida da Fúria, Verse agora atacará passivamente os inimigos próximos enquanto se move. (Verse perde os benefícios desta habilidade se ela usar qualquer Pesado [url=glossary:armor]armaduras[/url])</DefaultText>
+      <DefaultText>Ao usar Corrida da Fúria, Verse agora atacará passivamente os inimigos próximos enquanto se move. (Verse perde os benefícios desta habilidade se ela usar qualquer Pesado [url=glossary:armadura]Armadura[/url])</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1612,7 +1612,7 @@ Adiciona um bônus [url=glossary:accuracy]Precisão[/url] a Espeto, Coveiro e ha
     </Entry>
     <Entry>
       <ID>430</ID>
-      <DefaultText>Quando Verse está no grupo, todos os membros ganham experiência bônus para as habilidades [url=glossary:dual wield]Empunhadura Dupla[/url], [url=glossary:bows]Arcos[/url] e [url=glossary:athletics]Atletismo[/url].</DefaultText>
+      <DefaultText>Quando Verse está no grupo, todos os membros ganham experiência bônus para as habilidades [url=glossary:empunhadura dupla]Empunhadura Dupla[/url], [url=glossary:arcos]Arcos[/url] e [url=glossary:atletismo]Atletismo[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1622,7 +1622,7 @@ Adiciona um bônus [url=glossary:accuracy]Precisão[/url] a Espeto, Coveiro e ha
     </Entry>
     <Entry>
       <ID>434</ID>
-      <DefaultText>Execute uma varredura de perna contra inimigos próximos. Se for bem sucedido, os alvos são derrubados [url=glossary:prone]Propenso[/url].</DefaultText>
+      <DefaultText>Execute uma varredura de perna contra inimigos próximos. Se for bem sucedido, os alvos são derrubados [url=glossary:propenso]Propenso[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1632,12 +1632,12 @@ Adiciona um bônus [url=glossary:accuracy]Precisão[/url] a Espeto, Coveiro e ha
     </Entry>
     <Entry>
       <ID>437</ID>
-      <DefaultText>Adiciona [url=glossary:armor penetration]Penetração de Armadura[/url] para a habilidade Impulso e aumenta sua [url=glossary:accuracy]Precisão[/url].</DefaultText>
+      <DefaultText>Adiciona [url=glossary:penetração de armadura]Penetração de Armadura[/url] para a habilidade Impulso e aumenta sua [url=glossary:accuracy]Precisão[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>438</ID>
-      <DefaultText>Adiciona os ataques [url=glossary:spell breached]Feitiço quebrado[/url] [url=glossary:affliction]Aflição[/url] a Impulso. Também concede um bônus às habilidades mágicas por um curto período de tempo após usar Impulso.</DefaultText>
+      <DefaultText>Adiciona os ataques [url=glossary:feitiço quebrado]Feitiço quebrado[/url] [url=glossary:aflição]Aflição[/url] a Impulso. Também concede um bônus às habilidades mágicas por um curto período de tempo após usar Impulso.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1647,7 +1647,7 @@ Adiciona um bônus [url=glossary:accuracy]Precisão[/url] a Espeto, Coveiro e ha
     </Entry>
     <Entry>
       <ID>441</ID>
-      <DefaultText>Concentre sua vontade em um escudo de energia ao redor de você ou de um membro do grupo, concedendo [url=glossary:armor]armaduras[/url] adicional.</DefaultText>
+      <DefaultText>Concentre sua vontade em um escudo de energia ao redor de você ou de um membro do grupo, concedendo [url=glossary:armadura]Armadura[/url] adicional.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1739,7 +1739,7 @@ Muitas guildas de magos ao longo dos séculos descobriram o Sigilo da Força, e 
     </Entry>
     <Entry>
       <ID>485</ID>
-      <DefaultText>Gera uma aura ao redor do alvo que evita que os aliados sejam derrubados [url=glossary:prone]Propenso[/url].</DefaultText>
+      <DefaultText>Gera uma aura ao redor do alvo que evita que os aliados sejam derrubados [url=glossary:propenso]Propenso[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1756,7 +1756,7 @@ Muitas guildas de magos ao longo dos séculos descobriram o Sigilo da Força, e 
       <ID>488</ID>
       <DefaultText>Evocar energia através do Sigilo de Pedra exige muita força de vontade, pois a rocha não é facilmente moldada ao desejo de um humano.
 
-Talvez o mais novo mágico Sigilo em Terratus, o Sigilo de Pedra foi desenvolvido por discípulos do Arconte [url=glossary:cairn] Cairn[/url]. Desde que o Arconte de Pedra destruição por [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] no ano 430 TR, os Agitador de Terra magos se dedicaram a preservar o legado de [url=glossary:cairn]Cairn[/url] e aprendendo a aproveitar o poder deste obstinado Sigilo.</DefaultText>
+Talvez o mais novo mágico Sigilo em Terratus, o Sigilo de Pedra foi desenvolvido por discípulos do Arconte [url=glossary:cairn]Cairn[/url]. Desde que o Arconte de Pedra destruição por [url=glossary:edital]Edital[/url] de [url=glossary:kyros]Kyros[/url] no ano 430 TR, os Agitador de Terra magos se dedicaram a preservar o legado de [url=glossary:cairn]Cairn[/url] e aprendendo a aproveitar o poder deste obstinado Sigilo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1776,7 +1776,7 @@ Talvez o mais novo mágico Sigilo em Terratus, o Sigilo de Pedra foi desenvolvid
     </Entry>
     <Entry>
       <ID>493</ID>
-      <DefaultText>Marcar para [url=glossary:death]Morte[/url]</DefaultText>
+      <DefaultText>Marcar para [url=glossary:morte]Morte[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1811,7 +1811,7 @@ Talvez o mais novo mágico Sigilo em Terratus, o Sigilo de Pedra foi desenvolvid
     </Entry>
     <Entry>
       <ID>506</ID>
-      <DefaultText>Canalize energia para formar uma zona sufocante de calor abafado em uma área. Enquanto os inimigos permanecerem no campo, eles estarão continuamente [url=glossary:fatigued]Cansado[/url].</DefaultText>
+      <DefaultText>Canalize energia para formar uma zona sufocante de calor abafado em uma área. Enquanto os inimigos permanecerem no campo, eles estarão continuamente [url=glossary:cansado]Cansado[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1826,7 +1826,7 @@ Talvez o mais novo mágico Sigilo em Terratus, o Sigilo de Pedra foi desenvolvid
     </Entry>
     <Entry>
       <ID>510</ID>
-      <DefaultText>Use seu conhecimento da chama para obter um efeito de cura quando você seria ferido pelo fogo. Uma parte do dano recebido Incêndio cura você, e seu Incêndio [url=glossary:armor]armaduras[/url] é aumentado.</DefaultText>
+      <DefaultText>Use seu conhecimento da chama para obter um efeito de cura quando você seria ferido pelo fogo. Uma parte do dano recebido Incêndio cura você, e seu Incêndio [url=glossary:armadura]Armadura[/url] é aumentado.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1841,7 +1841,7 @@ Talvez o mais novo mágico Sigilo em Terratus, o Sigilo de Pedra foi desenvolvid
     </Entry>
     <Entry>
       <ID>513</ID>
-      <DefaultText>[url=glossary:burning]Queimando[/url] Esfera</DefaultText>
+      <DefaultText>[url=glossary:queimando]Queimando[/url] Esfera</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1891,7 +1891,7 @@ Talvez o mais novo mágico Sigilo em Terratus, o Sigilo de Pedra foi desenvolvid
     </Entry>
     <Entry>
       <ID>523</ID>
-      <DefaultText>Mantenha uma postura que seja ofensiva e defensiva em partes iguais, ganhando um bônus [url=glossary:armor]armaduras[/url] e causando perfurar de dano aos atacantes corpo a corpo inimigos.</DefaultText>
+      <DefaultText>Mantenha uma postura que seja ofensiva e defensiva em partes iguais, ganhando um bônus [url=glossary:armadura]Armadura[/url] e causando perfurar de dano aos atacantes corpo a corpo inimigos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1906,7 +1906,7 @@ Talvez o mais novo mágico Sigilo em Terratus, o Sigilo de Pedra foi desenvolvid
     </Entry>
     <Entry>
       <ID>526</ID>
-      <DefaultText>Entender [url=glossary:blade grave]Sepultura de Lâminas[/url]</DefaultText>
+      <DefaultText>Entender [url=glossary:sepultura de lâminas]Sepultura de Lâminas[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1921,7 +1921,7 @@ Talvez o mais novo mágico Sigilo em Terratus, o Sigilo de Pedra foi desenvolvid
     </Entry>
     <Entry>
       <ID>529</ID>
-      <DefaultText>Entender [url=glossary:frozen]Congeladas[/url]</DefaultText>
+      <DefaultText>Entender [url=glossary:congeladas]Congeladas[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1936,7 +1936,7 @@ Talvez o mais novo mágico Sigilo em Terratus, o Sigilo de Pedra foi desenvolvid
     </Entry>
     <Entry>
       <ID>532</ID>
-      <DefaultText>Envolva um alvo no frio rigoroso do inverno, deixando-o [url=glossary:frozen]Congeladas[/url] por um tempo.</DefaultText>
+      <DefaultText>Envolva um alvo no frio rigoroso do inverno, deixando-o [url=glossary:congeladas]Congeladas[/url] por um tempo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1951,12 +1951,12 @@ Talvez o mais novo mágico Sigilo em Terratus, o Sigilo de Pedra foi desenvolvid
     </Entry>
     <Entry>
       <ID>535</ID>
-      <DefaultText>da mãe [url=glossary:breath]Respiração[/url]</DefaultText>
+      <DefaultText>da mãe [url=glossary:sopro]Sopro[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>536</ID>
-      <DefaultText>Crie uma névoa espessa que reduz o inimigo [url=glossary:accuracy]Precisão[/url] e concede um bônus ao [url=glossary:subterfuge]Subterfúgio[/url] do grupo.</DefaultText>
+      <DefaultText>Crie uma névoa espessa que reduz o inimigo [url=glossary:accuracy]Precisão[/url] e concede um bônus ao [url=glossary:subterfúgio]Subterfúgio[/url] do grupo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1966,7 +1966,7 @@ Talvez o mais novo mágico Sigilo em Terratus, o Sigilo de Pedra foi desenvolvid
     </Entry>
     <Entry>
       <ID>538</ID>
-      <DefaultText>da mãe [url=glossary:breath]Respiração[/url]</DefaultText>
+      <DefaultText>da mãe [url=glossary:sopro]Sopro[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2001,7 +2001,7 @@ Talvez o mais novo mágico Sigilo em Terratus, o Sigilo de Pedra foi desenvolvid
     </Entry>
     <Entry>
       <ID>547</ID>
-      <DefaultText>Eb levanta os braços e invoca um raio de luar para cercar seu alvo. O alvo é levantado no ar e então jogado violentamente de volta ao chão, recebendo dano de esmagamento e deixando [url=glossary:prone]Propenso[/url].</DefaultText>
+      <DefaultText>Eb levanta os braços e invoca um raio de luar para cercar seu alvo. O alvo é levantado no ar e então jogado violentamente de volta ao chão, recebendo dano de esmagamento e deixando [url=glossary:propenso]Propenso[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2073,12 +2073,12 @@ Talvez o mais novo mágico Sigilo em Terratus, o Sigilo de Pedra foi desenvolvid
       <ID>561</ID>
       <DefaultText>Eb e o grupo são erguidos para o céu. Eb então irradia o luar, curando aliados e ferindo inimigos.
 
-O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada pelo luar. Usando sua magia, Eb levita os membros próximos do grupo também, então começa a pulsar ondas de luar sobre a área. Inimigos recebem Dano Arcano e o grupo é curado pelas ondas. Os membros do grupo que estão suspensos não podem ser atacados por ataques corpo a corpo, se mover, ser derrubados [url=glossary:prone]Propenso[/url], ou [url=glossary:stunned]Atordoado[/url].</DefaultText>
+O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada pelo luar. Usando sua magia, Eb levita os membros próximos do grupo também, então começa a pulsar ondas de luar sobre a área. Inimigos recebem Dano Arcano e o grupo é curado pelas ondas. Os membros do grupo que estão suspensos não podem ser atacados por ataques corpo a corpo, se mover, ser derrubados [url=glossary:propenso]Propenso[/url], ou [url=glossary:atordoado]Atordoado[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>571</ID>
-      <DefaultText>Cubra o alvo com uma espessa camada de armadura de gelo. Enquanto protegidos, Golpear, perfurar e geada [url=glossary:armor]armaduras[/url] são bastante aumentados, mas Choque e Esmague [url=glossary:armor]armaduras[/url] são reduzidos.</DefaultText>
+      <DefaultText>Cubra o alvo com uma espessa camada de armadura de gelo. Enquanto protegidos, Golpear, perfurar e geada [url=glossary:armadura]Armadura[/url] são bastante aumentados, mas Choque e Esmague [url=glossary:armadura]Armadura[/url] são reduzidos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2093,17 +2093,17 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>586</ID>
-      <DefaultText>Cubra um alvo da cabeça aos pés com grandes lajes de pedra. Enquanto nesta forma o movimento é restrito, mas [url=glossary:armor]armaduras[/url] é bastante aumentado.</DefaultText>
+      <DefaultText>Cubra um alvo da cabeça aos pés com grandes lajes de pedra. Enquanto nesta forma o movimento é restrito, mas [url=glossary:armadura]Armadura[/url] é bastante aumentado.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>589</ID>
-      <DefaultText>Conjure uma série de pontas de escória irregulares para rasgar o chão em uma área. Inimigos atingidos pelos espinhos são empalados, recebendo perfurar de dano e deixando [url=glossary:bleeding]Sangramento[/url].</DefaultText>
+      <DefaultText>Conjure uma série de pontas de escória irregulares para rasgar o chão em uma área. Inimigos atingidos pelos espinhos são empalados, recebendo perfurar de dano e deixando [url=glossary:sangramento]Sangramento[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>591</ID>
-      <DefaultText>Imbui a arma do alvo com o peso e a força de uma pedra dura. Inimigos atingidos pela arma recebem dano adicional Crush e são derrubados [url=glossary:prone]Propenso[/url] em Acertos Críticos.</DefaultText>
+      <DefaultText>Imbui a arma do alvo com o peso e a força de uma pedra dura. Inimigos atingidos pela arma recebem dano adicional Crush e são derrubados [url=glossary:propenso]Propenso[/url] em Acertos Críticos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2123,7 +2123,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>602</ID>
-      <DefaultText>Ilumina o corpo do alvo, encantando-o para repelir forças resistentes. Isso permite que eles se movam mais rápido e reduza [url=glossary:recovery]Recuperação[/url].</DefaultText>
+      <DefaultText>Ilumina o corpo do alvo, encantando-o para repelir forças resistentes. Isso permite que eles se movam mais rápido e reduza [url=glossary:recuperação]Recuperação[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2133,12 +2133,12 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>604</ID>
-      <DefaultText>Solte um pulso de força concussiva, explodindo inimigos e empurrando-os para trás. Os inimigos afetados são [url=glossary:dazed]Atordoado[/url].</DefaultText>
+      <DefaultText>Solte um pulso de força concussiva, explodindo inimigos e empurrando-os para trás. Os inimigos afetados são [url=glossary:atordoado]Atordoado[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>609</ID>
-      <DefaultText>Crie ilusões duplicadas em torno de um alvo. Concedendo um bônus significativo para [url=glossary:parry]Defesa[/url] e [url=glossary:dodge]Desviar[/url]. No entanto, cada vez que o alvo é atingido este bônus é reduzido.</DefaultText>
+      <DefaultText>Crie ilusões duplicadas em torno de um alvo. Concedendo um bônus significativo para [url=glossary:defesa]Defesa[/url] e [url=glossary:desviar]Desviar[/url]. No entanto, cada vez que o alvo é atingido este bônus é reduzido.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2153,22 +2153,22 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>615</ID>
-      <DefaultText>Conjure a ilusão de um poço preto sem fim abaixo do alvo, convencendo-os de que estão caindo para a morte. O inimigo é deixado [url=glossary:prone]Propenso[/url] até que eles possam entender a ilusão.</DefaultText>
+      <DefaultText>Conjure a ilusão de um poço preto sem fim abaixo do alvo, convencendo-os de que estão caindo para a morte. O inimigo é deixado [url=glossary:propenso]Propenso[/url] até que eles possam entender a ilusão.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>618</ID>
-      <DefaultText>Crie uma aura de energia decadente ao redor de um alvo. Inimigos na aura recebem uma penalidade de acúmulo em seus [url=glossary:armor]armaduras[/url] e [url=glossary:resolve]Determinação[/url].</DefaultText>
+      <DefaultText>Crie uma aura de energia decadente ao redor de um alvo. Inimigos na aura recebem uma penalidade de acúmulo em seus [url=glossary:armadura]Armadura[/url] e [url=glossary:determinação]Determinação[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>620</ID>
-      <DefaultText>Envie rolos de energia paralisante semelhantes a cobras para inimigos próximos. Os inimigos afetados são [url=glossary:rooted]Enraizado[/url] e têm efeitos benéficos aleatórios removidos.</DefaultText>
+      <DefaultText>Envie rolos de energia paralisante semelhantes a cobras para inimigos próximos. Os inimigos afetados são [url=glossary:enraizado]Enraizado[/url] e têm efeitos benéficos aleatórios removidos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>622</ID>
-      <DefaultText>Faça com que uma chuva suja caia do céu. Os inimigos atingidos pela chuva são [url=glossary:poisoned]envenenado[/url] e recebem uma penalidade de empilhamento para Resistência.</DefaultText>
+      <DefaultText>Faça com que uma chuva suja caia do céu. Os inimigos atingidos pela chuva são [url=glossary:envenenado]envenenado[/url] e recebem uma penalidade de empilhamento para Resistência.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2243,7 +2243,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>649</ID>
-      <DefaultText>[url=glossary:engagement]Noivado[/url] Ataque I</DefaultText>
+      <DefaultText>[url=glossary:noivado]Noivado[/url] Ataque I</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2258,7 +2258,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>652</ID>
-      <DefaultText>Barik torna-se uma força intimidadora no campo de batalha. Inimigos próximos Barik têm seus [url=glossary:resolve]Determinação[/url] reduzidos.</DefaultText>
+      <DefaultText>Barik torna-se uma força intimidadora no campo de batalha. Inimigos próximos Barik têm seus [url=glossary:determinação]Determinação[/url] reduzidos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2318,7 +2318,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>664</ID>
-      <DefaultText>Uma vez por combate, quando a saúde Barik's for crítica, ele ganha um bônus para [url=glossary:might]Força[/url] e [url=glossary:resolve]Determinação[/url] até o combate terminar.</DefaultText>
+      <DefaultText>Uma vez por combate, quando a saúde Barik's for crítica, ele ganha um bônus para [url=glossary:força]Força[/url] e [url=glossary:determinação]Determinação[/url] até o combate terminar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2328,7 +2328,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>666</ID>
-      <DefaultText>Quando Barik está no grupo, todos os membros do grupo ganham experiência bônus para as habilidades [url=glossary:athletics]Atletismo[/url], One-Handed e Two-Handed.</DefaultText>
+      <DefaultText>Quando Barik está no grupo, todos os membros do grupo ganham experiência bônus para as habilidades [url=glossary:atletismo]Atletismo[/url], One-Handed e Two-Handed.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2343,7 +2343,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>669</ID>
-      <DefaultText>Uma vez por combate, quando a saúde Barik's for crítica, ele ganhará um bônus significativo [url=glossary:armor]armaduras[/url] por um curto período de tempo.</DefaultText>
+      <DefaultText>Uma vez por combate, quando a saúde Barik's for crítica, ele ganhará um bônus significativo [url=glossary:armadura]Armadura[/url] por um curto período de tempo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2353,7 +2353,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>671</ID>
-      <DefaultText>Choque de Ferro de Barik reforça a força de seus aliados próximos, concedendo-lhes um bônus para [url=glossary:armor]armaduras[/url] por um curto período de tempo.</DefaultText>
+      <DefaultText>Choque de Ferro de Barik reforça a força de seus aliados próximos, concedendo-lhes um bônus para [url=glossary:armadura]Armadura[/url] por um curto período de tempo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2388,7 +2388,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>684</ID>
-      <DefaultText>[url=glossary:poisoned]envenenado[/url] Seta</DefaultText>
+      <DefaultText>[url=glossary:envenenado]envenenado[/url] Seta</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2398,7 +2398,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>687</ID>
-      <DefaultText>Vincule-se a um aliado, compartilhando o dano que eles recebem. Enquanto o vínculo dura, tanto Barik quanto seu companheiro de vínculo ganham [url=glossary:might]Força[/url] e [url=glossary:vitality]Vitalidade[/url].</DefaultText>
+      <DefaultText>Vincule-se a um aliado, compartilhando o dano que eles recebem. Enquanto o vínculo dura, tanto Barik quanto seu companheiro de vínculo ganham [url=glossary:força]Força[/url] e [url=glossary:vitalidade]Vitalidade[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2503,12 +2503,12 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>709</ID>
-      <DefaultText>Quando o abraço da mãe estoura, alvos próximos são Aflito com [url=glossary:drowning]Afogamento[/url].</DefaultText>
+      <DefaultText>Quando o abraço da mãe estoura, alvos próximos são Aflito com [url=glossary:afogamento]Afogamento[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>710</ID>
-      <DefaultText>Enquanto Eb não está tomando dano, ela [url=glossary:recovery]Recuperação[/url] O tempo é reduzido e ela ataca duas vezes com seus ataques normais. Ser atingido remove esse bônus por alguns segundos.</DefaultText>
+      <DefaultText>Enquanto Eb não está tomando dano, ela [url=glossary:recuperação]Recuperação[/url] O tempo é reduzido e ela ataca duas vezes com seus ataques normais. Ser atingido remove esse bônus por alguns segundos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2533,7 +2533,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>716</ID>
-      <DefaultText>Concede um bônus para a habilidade [url=glossary:control gravelight]Controle Gravelight[/url] e o dano Gravelight à noite.</DefaultText>
+      <DefaultText>Concede um bônus para a habilidade [url=glossary:controle luz de sepultura]Controle Luz de Sepultura[/url] e o dano Gravelight à noite.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2543,17 +2543,17 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>718</ID>
-      <DefaultText>Concede bônus [url=glossary:lore]Conhecimento[/url] e adicional Espaços de Feitiço.</DefaultText>
+      <DefaultText>Concede bônus [url=glossary:conhecimento]Conhecimento[/url] e adicional Espaços de Feitiço.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>719</ID>
-      <DefaultText>Enquanto no grupo, Eb e seus aliados ganham mais experiência de habilidade com [url=glossary:lore]Conhecimento[/url], Feitiços e Cajados Mágicos.</DefaultText>
+      <DefaultText>Enquanto no grupo, Eb e seus aliados ganham mais experiência de habilidade com [url=glossary:conhecimento]Conhecimento[/url], Feitiços e Cajados Mágicos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>720</ID>
-      <DefaultText>Concede um bônus para [url=glossary:magic defense]Defesa Mágica[/url].</DefaultText>
+      <DefaultText>Concede um bônus para [url=glossary:defesa mágica]Defesa Mágica[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2598,7 +2598,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>730</ID>
-      <DefaultText>Solte uma explosão de Gravelight energia. Os inimigos recebem Arcano de dano, enquanto os Maldito sofrem mais dano e são [url=glossary:dazed]Atordoado[/url].</DefaultText>
+      <DefaultText>Solte uma explosão de Gravelight energia. Os inimigos recebem Arcano de dano, enquanto os Maldito sofrem mais dano e são [url=glossary:atordoado]Atordoado[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2623,12 +2623,12 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>742</ID>
-      <DefaultText>Solte um spray de fragmentos de gelo em um cone. Cada acerto perfura o [url=glossary:armor]armaduras[/url] do alvo e causa geada de dano.</DefaultText>
+      <DefaultText>Solte um spray de fragmentos de gelo em um cone. Cada acerto perfura o [url=glossary:armadura]Armadura[/url] do alvo e causa geada de dano.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>743</ID>
-      <DefaultText>Congele o solo em uma área. Inimigos na área recebem periodicamente uma penalidade de empilhamento para [url=glossary:recovery]Recuperação[/url] e podem escorregar e cair [url=glossary:prone]Propenso[/url].</DefaultText>
+      <DefaultText>Congele o solo em uma área. Inimigos na área recebem periodicamente uma penalidade de empilhamento para [url=glossary:recuperação]Recuperação[/url] e podem escorregar e cair [url=glossary:propenso]Propenso[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2648,7 +2648,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>750</ID>
-      <DefaultText>[url=glossary:frozen]Congeladas[/url] Entender</DefaultText>
+      <DefaultText>[url=glossary:congeladas]Congeladas[/url] Entender</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2883,17 +2883,17 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>808</ID>
-      <DefaultText>Concede bônus [url=glossary:armor]armaduras[/url] enquanto Eb estiver usando Leve [url=glossary:armor]armaduras[/url] em combate.</DefaultText>
+      <DefaultText>Concede bônus [url=glossary:armadura]Armadura[/url] enquanto Eb estiver usando [url=glossary:armadura]Armadura[/url] Leve em combate.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>809</ID>
-      <DefaultText>Concede um bônus moderado para [url=glossary:armor]armaduras[/url] enquanto Eb estiver usando Leve [url=glossary:armor]armaduras[/url] em combate.</DefaultText>
+      <DefaultText>Concede um bônus moderado para [url=glossary:armadura]Armadura[/url] enquanto Eb estiver usando [url=glossary:armadura]Armadura[/url] Leve em combate.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>810</ID>
-      <DefaultText>Concede um grande bônus para [url=glossary:armor]armaduras[/url] enquanto Eb estiver usando Leve [url=glossary:armor]armaduras[/url] em combate.</DefaultText>
+      <DefaultText>Concede um grande bônus para [url=glossary:armadura]Armadura[/url] enquanto Eb estiver usando [url=glossary:armadura]Armadura[/url] Leve em combate.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2913,7 +2913,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>814</ID>
-      <DefaultText>[url=glossary:poisoned]envenenado[/url] Garra</DefaultText>
+      <DefaultText>[url=glossary:envenenado]envenenado[/url] Garra</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3008,7 +3008,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>833</ID>
-      <DefaultText>Acento que aumenta o [url=glossary:armor penetration]Penetração de Armadura[/url] de um feitiço.</DefaultText>
+      <DefaultText>Acento que aumenta o [url=glossary:penetração de armadura]Penetração de Armadura[/url] de um feitiço.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3038,7 +3038,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>839</ID>
-      <DefaultText>Mova-se rapidamente em direção a um inimigo, atropelando inimigos em seu caminho, causando Crush de dano e derrubando-os [url=glossary:prone]Propenso[/url].</DefaultText>
+      <DefaultText>Mova-se rapidamente em direção a um inimigo, atropelando inimigos em seu caminho, causando Crush de dano e derrubando-os [url=glossary:propenso]Propenso[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3048,7 +3048,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>841</ID>
-      <DefaultText>Use ambas as garras para abrir o estômago do alvo, causando O melhor de Slash/Pierce damage e deixando o alvo [url=glossary:bleeding]Sangramento[/url].</DefaultText>
+      <DefaultText>Use ambas as garras para abrir o estômago do alvo, causando O melhor de Slash/Pierce damage e deixando o alvo [url=glossary:sangramento]Sangramento[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3078,7 +3078,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>847</ID>
-      <DefaultText>Levante-se e desça os dois punhos em um alvo, causando Dano de Esmagamento e derrubando todos os inimigos na área imediata [url=glossary:prone]Propenso[/url].</DefaultText>
+      <DefaultText>Levante-se e desça os dois punhos em um alvo, causando Dano de Esmagamento e derrubando todos os inimigos na área imediata [url=glossary:propenso]Propenso[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3088,7 +3088,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>849</ID>
-      <DefaultText>Rugir em alvos em um cone, Assustando-os. Se esta habilidade for usada a partir de Furtividade, os inimigos serão [url=glossary:terrified]Aterrorizado[/url].</DefaultText>
+      <DefaultText>Rugir em alvos em um cone, Assustando-os. Se esta habilidade for usada a partir de Furtividade, os inimigos serão [url=glossary:aterrorizado]Aterrorizado[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3098,7 +3098,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>851</ID>
-      <DefaultText>Ataque todos os inimigos em um cone com uma arma, empurrando-os para uma distância razoável. Os inimigos são deixados [url=glossary:hobbled]Mancando[/url].</DefaultText>
+      <DefaultText>Ataque todos os inimigos em um cone com uma arma, empurrando-os para uma distância razoável. Os inimigos são deixados [url=glossary:mancando]Mancando[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3118,7 +3118,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>855</ID>
-      <DefaultText>Golpeie com força com uma arma, causando dano e Separação o [url=glossary:armor]armaduras[/url] do alvo por um período prolongado.</DefaultText>
+      <DefaultText>Golpeie com força com uma arma, causando dano e Separação o [url=glossary:armadura]Armadura[/url] do alvo por um período prolongado.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3138,7 +3138,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>860</ID>
-      <DefaultText>Indomável [url=glossary:might]Força[/url]eu</DefaultText>
+      <DefaultText>Indomável [url=glossary:força]Força[/url]eu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3163,7 +3163,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>865</ID>
-      <DefaultText>Adiciona [url=glossary:armor penetration]Penetração de Armadura[/url] a Ataques desarmados.</DefaultText>
+      <DefaultText>Adiciona [url=glossary:penetração de armadura]Penetração de Armadura[/url] a Ataques desarmados.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3183,7 +3183,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>869</ID>
-      <DefaultText>Concede um bônus ao natural [url=glossary:armor]armaduras[/url] fornecido por Homens-fera hide.</DefaultText>
+      <DefaultText>Concede um bônus ao natural [url=glossary:armadura]Armadura[/url] fornecido por Homens-fera hide.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3243,7 +3243,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>881</ID>
-      <DefaultText>Concede dano bônus em alvos [url=glossary:prone]Propenso[/url].</DefaultText>
+      <DefaultText>Concede dano bônus em alvos [url=glossary:propenso]Propenso[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3293,7 +3293,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>897</ID>
-      <DefaultText>Ganhe um bônus para [url=glossary:subterfuge]Subterfúgio[/url] Habilidade.</DefaultText>
+      <DefaultText>Ganhe um bônus para [url=glossary:subterfúgio]Subterfúgio[/url] Habilidade.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3303,7 +3303,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>899</ID>
-      <DefaultText>Enquanto estiver no grupo, Mortes nas Sombras fornece um bônus à experiência adquirida nas habilidades [url=glossary:subterfuge]Subterfúgio[/url], Desarmado e One-Handed.</DefaultText>
+      <DefaultText>Enquanto estiver no grupo, Mortes nas Sombras fornece um bônus à experiência adquirida nas habilidades [url=glossary:subterfúgio]Subterfúgio[/url], Desarmado e One-Handed.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3333,7 +3333,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>905</ID>
-      <DefaultText>Mortes nas Sombras recebe energia do Vinculador do Destino e então começa a socar seus punhos na terra. Nuvens espessas de poeira obscurecem o campo de batalha, cegando os inimigos. Como Mortes nas Sombras atinge a terra, inimigos na área são danificados, jogados no ar e caem [url=glossary:prone]Propenso[/url].</DefaultText>
+      <DefaultText>Mortes nas Sombras recebe energia do Vinculador do Destino e então começa a socar seus punhos na terra. Nuvens espessas de poeira obscurecem o campo de batalha, cegando os inimigos. Como Mortes nas Sombras atinge a terra, inimigos na área são danificados, jogados no ar e caem [url=glossary:propenso]Propenso[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3448,7 +3448,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>928</ID>
-      <DefaultText>Lave os inimigos com uma onda de energia desapaixonada. Os inimigos afetados são [url=glossary:dazed]Atordoado[/url], [url=glossary:fatigued]Cansado[/url] e reduziram Velocidade de movimento.</DefaultText>
+      <DefaultText>Lave os inimigos com uma onda de energia desapaixonada. Os inimigos afetados são [url=glossary:atordoado]Atordoado[/url], [url=glossary:cansado]Cansado[/url] e reduziram Velocidade de movimento.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3513,7 +3513,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>941</ID>
-      <DefaultText>[url=glossary:marked]Marcado[/url] para o Forja</DefaultText>
+      <DefaultText>[url=glossary:marcado]Marcado[/url] para o Forja</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3538,7 +3538,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>946</ID>
-      <DefaultText>Direcione uma onda entrelaçada de chamas pelo campo de batalha. Cada inimigo pego no caminho da chama recebe Incêndio de dano e fica [url=glossary:burning]Queimando[/url].</DefaultText>
+      <DefaultText>Direcione uma onda entrelaçada de chamas pelo campo de batalha. Cada inimigo pego no caminho da chama recebe Incêndio de dano e fica [url=glossary:queimando]Queimando[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3558,7 +3558,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>950</ID>
-      <DefaultText>Forme um enorme pedregulho de pedra e, em seguida, arremesse-o para a frente. A pedra quica erraticamente e achata tudo em seu caminho, causando Crush de dano e derrubando inimigos [url=glossary:prone]Propenso[/url].</DefaultText>
+      <DefaultText>Forme um enorme pedregulho de pedra e, em seguida, arremesse-o para a frente. A pedra quica erraticamente e achata tudo em seu caminho, causando Crush de dano e derrubando inimigos [url=glossary:propenso]Propenso[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3678,22 +3678,22 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>976</ID>
-      <DefaultText>Proteja o alvo com um encantamento protetor, amplificando o [url=glossary:armor]armaduras[/url] do alvo quando sua saúde for mais crítica.</DefaultText>
+      <DefaultText>Proteja o alvo com um encantamento protetor, amplificando o [url=glossary:armadura]Armadura[/url] do alvo quando sua saúde for mais crítica.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>977</ID>
-      <DefaultText>Crie uma aura ao redor do alvo que inspire valor. Aliados próximos à aura recebem um bônus para Acerte e Acerte [url=glossary:precision]Precisão[/url].</DefaultText>
+      <DefaultText>Crie uma aura ao redor do alvo que inspire valor. Aliados próximos à aura recebem um bônus para Acerte e Acerte [url=glossary:precisão]Precisão[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>978</ID>
-      <DefaultText>Conjure uma onda de energia revigorante. Os aliados afetados ganham um bônus para [url=glossary:resolve]Determinação[/url] e Dano negociados.</DefaultText>
+      <DefaultText>Conjure uma onda de energia revigorante. Os aliados afetados ganham um bônus para [url=glossary:determinação]Determinação[/url] e Dano negociados.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>979</ID>
-      <DefaultText>Reforce a arma de um aliado, concedendo [url=glossary:armor penetration]Penetração de Armadura[/url] aos ataques com armas.</DefaultText>
+      <DefaultText>Reforce a arma de um aliado, concedendo [url=glossary:penetração de armadura]Penetração de Armadura[/url] aos ataques com armas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3723,12 +3723,12 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>985</ID>
-      <DefaultText>Faça com que um aliado fique furioso. O aliado ganha os efeitos do [url=glossary:enraged]Enfurecido[/url] [url=glossary:affliction]Aflição[/url], ao final do qual retorna ao seu estado anterior.</DefaultText>
+      <DefaultText>Faça com que um aliado fique furioso. O aliado ganha os efeitos do [url=glossary:enfurecido]Enfurecido[/url] [url=glossary:aflição]Aflição[/url], ao final do qual retorna ao seu estado anterior.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>986</ID>
-      <DefaultText>Conjure uma aura de Temer ao redor do alvo. Os inimigos afetados pela aura são [url=glossary:frightened]Assustado[/url].</DefaultText>
+      <DefaultText>Conjure uma aura de Temer ao redor do alvo. Os inimigos afetados pela aura são [url=glossary:assustado]Assustado[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3778,7 +3778,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>1000</ID>
-      <DefaultText>do Sirin voz quebra a armadura de seus inimigos. Inimigos na área não podem se defender contra a voz do Sirin e têm sua [url=glossary:armor]armaduras[/url] [url=glossary:sundered]Separado[/url] por um curto período de tempo.</DefaultText>
+      <DefaultText>do Sirin voz quebra a armadura de seus inimigos. Inimigos na área não podem se defender contra a voz do Sirin e têm sua [url=glossary:armadura]Armadura[/url] [url=glossary:separado]Separado[/url] por um curto período de tempo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3793,12 +3793,12 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>1003</ID>
-      <DefaultText>Ária de [url=glossary:resolve]Determinação[/url]</DefaultText>
+      <DefaultText>Ária de [url=glossary:determinação]Determinação[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1004</ID>
-      <DefaultText>A ária de Sirin reforça a determinação do grupo, estendendo a duração de seus efeitos úteis e concedendo-lhes um aumento [url=glossary:dodge]Desviar[/url] e [url=glossary:parry]Defesa[/url].</DefaultText>
+      <DefaultText>A ária de Sirin reforça a determinação do grupo, estendendo a duração de seus efeitos úteis e concedendo-lhes um aumento [url=glossary:desviar]Desviar[/url] e [url=glossary:defesa]Defesa[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3818,7 +3818,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>1008</ID>
-      <DefaultText>Sirin bombardeia seus inimigos com uma cacofonia de notas atormentadoras. Aqueles que não resistem ao seu poder são [url=glossary:confused]Confuso[/url].</DefaultText>
+      <DefaultText>Sirin bombardeia seus inimigos com uma cacofonia de notas atormentadoras. Aqueles que não resistem ao seu poder são [url=glossary:confuso]Confuso[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3838,7 +3838,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>1012</ID>
-      <DefaultText>A ária de Sirin aumenta a eficácia do [url=glossary:armor]armaduras[/url] do grupo e faz com que inimigos que atacam aliados em combate corpo a corpo tenham seu dano de ataque reduzido por um tempo.</DefaultText>
+      <DefaultText>A ária de Sirin aumenta a eficácia do [url=glossary:armadura]Armadura[/url] do grupo e faz com que inimigos que atacam aliados em combate corpo a corpo tenham seu dano de ataque reduzido por um tempo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3848,7 +3848,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>1014</ID>
-      <DefaultText>ária de Sirin gera relâmpagos que atingem todos os inimigos próximos a ela e depois se acorrentam a inimigos distantes. Aqueles atingidos são derrubados e [url=glossary:dazed]Atordoado[/url].</DefaultText>
+      <DefaultText>ária de Sirin gera relâmpagos que atingem todos os inimigos próximos a ela e depois se acorrentam a inimigos distantes. Aqueles atingidos são derrubados e [url=glossary:atordoado]Atordoado[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3868,7 +3868,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>1018</ID>
-      <DefaultText>Com algumas notas sussurradas, a voz de Sirin desencadeia uma onda de ventos gelados que lavam os inimigos, deixando-os [url=glossary:frozen]Congeladas[/url].</DefaultText>
+      <DefaultText>Com algumas notas sussurradas, a voz de Sirin desencadeia uma onda de ventos gelados que lavam os inimigos, deixando-os [url=glossary:congeladas]Congeladas[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3908,7 +3908,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>1032</ID>
-      <DefaultText>Portador de [url=glossary:death]Morte[/url]</DefaultText>
+      <DefaultText>Portador de [url=glossary:morte]Morte[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3918,17 +3918,17 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>1034</ID>
-      <DefaultText>Portador de [url=glossary:death]Morte[/url]: Estrofe 1</DefaultText>
+      <DefaultText>Portador de [url=glossary:morte]Morte[/url]: Estrofe 1</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1035</ID>
-      <DefaultText>Portador de [url=glossary:death]Morte[/url]: Estrofe 2</DefaultText>
+      <DefaultText>Portador de [url=glossary:morte]Morte[/url]: Estrofe 2</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1036</ID>
-      <DefaultText>Portador de [url=glossary:death]Morte[/url]: Estrofe 3</DefaultText>
+      <DefaultText>Portador de [url=glossary:morte]Morte[/url]: Estrofe 3</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3973,12 +3973,12 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>1048</ID>
-      <DefaultText>Uma canção de coragem e desafio. Adotado pelo [url=glossary:vendrien guard]Guarda Vendrien[/url] para aumentar o moral em sua rebelião.</DefaultText>
+      <DefaultText>Uma canção de coragem e desafio. Adotado pelo [url=glossary:guarda vendrien]Guarda Vendrien[/url] para aumentar o moral em sua rebelião.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1049</ID>
-      <DefaultText>Um poderoso canto de batalha Sirin foi forçado a cantar para o [url=glossary:scarlet chorus]Coro Escarlate[/url] para inspirar sua vitória.</DefaultText>
+      <DefaultText>Um poderoso canto de batalha Sirin foi forçado a cantar para o [url=glossary:coro escarlate]Coro Escarlate[/url] para inspirar sua vitória.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4038,7 +4038,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>1061</ID>
-      <DefaultText>Uma música que evoca qualidades do [url=glossary:disfavored]Desfavorecido[/url]. Quando cantada por Sirin, exemplifica essas qualidades em seus aliados.</DefaultText>
+      <DefaultText>Uma música que evoca qualidades do [url=glossary:desfavorecido]Desfavorecido[/url]. Quando cantada por Sirin, exemplifica essas qualidades em seus aliados.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4078,17 +4078,17 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>1069</ID>
-      <DefaultText>[url=glossary:breath]Respiração[/url] de Inverno: Estância 1</DefaultText>
+      <DefaultText>[url=glossary:sopro]Sopro[/url] de Inverno: Estância 1</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1070</ID>
-      <DefaultText>[url=glossary:breath]Respiração[/url] de Inverno: Estância 2</DefaultText>
+      <DefaultText>[url=glossary:sopro]Sopro[/url] de Inverno: Estância 2</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1071</ID>
-      <DefaultText>[url=glossary:breath]Respiração[/url] de Inverno: Estância 3</DefaultText>
+      <DefaultText>[url=glossary:sopro]Sopro[/url] de Inverno: Estância 3</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4138,7 +4138,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>1081</ID>
-      <DefaultText>[url=glossary:breath]Respiração[/url] de Inverno</DefaultText>
+      <DefaultText>[url=glossary:sopro]Sopro[/url] de Inverno</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4173,7 +4173,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>1088</ID>
-      <DefaultText>Quando Sirin é derrotada, seu último suspiro desencadeia uma potente onda de emoção vingativa. Todos os inimigos próximos se tornam [url=glossary:weakened]Enfraquecido[/url], [url=glossary:dazed]Atordoado[/url] e [url=glossary:frightened]Assustado[/url].</DefaultText>
+      <DefaultText>Quando Sirin é derrotada, seu último suspiro desencadeia uma potente onda de emoção vingativa. Todos os inimigos próximos se tornam [url=glossary:enfraquecido]Enfraquecido[/url], [url=glossary:atordoado]Atordoado[/url] e [url=glossary:assustado]Assustado[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4203,7 +4203,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>1094</ID>
-      <DefaultText>[url=glossary:focused]Focado[/url] Canção</DefaultText>
+      <DefaultText>[url=glossary:focado]Focado[/url] Canção</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4218,12 +4218,12 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>1098</ID>
-      <DefaultText>Rápido [url=glossary:breath]Respiração[/url]eu</DefaultText>
+      <DefaultText>Rápido [url=glossary:sopro]Sopro[/url] I</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1099</ID>
-      <DefaultText>Rápido [url=glossary:breath]Respiração[/url]II</DefaultText>
+      <DefaultText>Rápido [url=glossary:sopro]Sopro[/url] II</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4253,12 +4253,12 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>1106</ID>
-      <DefaultText>Sustentado [url=glossary:breath]Respiração[/url]eu</DefaultText>
+      <DefaultText>Sustentado [url=glossary:sopro]Sopro[/url]eu</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1107</ID>
-      <DefaultText>Sustentado [url=glossary:breath]Respiração[/url]II</DefaultText>
+      <DefaultText>Sustentado [url=glossary:sopro]Sopro[/url]II</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4268,7 +4268,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>1109</ID>
-      <DefaultText>Sirin ganha automaticamente [url=glossary:breath]Respiração[/url] no início do combate.</DefaultText>
+      <DefaultText>Sirin ganha automaticamente [url=glossary:sopro]Sopro[/url] no início do combate.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4283,7 +4283,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>1112</ID>
-      <DefaultText>Embora não esteja usando Pesado [url=glossary:armor]armaduras[/url], Sirin é imune ao engajamento.</DefaultText>
+      <DefaultText>Embora não esteja usando Pesado [url=glossary:armadura]Armadura[/url], Sirin é imune ao engajamento.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4318,7 +4318,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>1121</ID>
-      <DefaultText>No final do combate, Sirin pode reter [url=glossary:breath]Respiração[/url] por vários minutos.</DefaultText>
+      <DefaultText>No final do combate, Sirin pode reter [url=glossary:sopro]Sopro[/url] por vários minutos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4328,7 +4328,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>1123</ID>
-      <DefaultText>aparência não ameaçadora de Sirin faz com que os inimigos a subestimem, concedendo-lhe um grande bônus para [url=glossary:disengagement defense]Defesa de Desengajamento[/url].</DefaultText>
+      <DefaultText>aparência não ameaçadora de Sirin faz com que os inimigos a subestimem, concedendo-lhe um grande bônus para [url=glossary:defesa de desengajamento]Defesa de Desengajamento[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4358,17 +4358,17 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>1129</ID>
-      <DefaultText>Abaixa [url=glossary:parry]Defesa[/url] e [url=glossary:dodge]Desviar[/url] de inimigos próximos.</DefaultText>
+      <DefaultText>Abaixa [url=glossary:defesa]Defesa[/url] e [url=glossary:desviar]Desviar[/url] de inimigos próximos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1130</ID>
-      <DefaultText>Levanta [url=glossary:might]Força[/url] de aliados próximos.</DefaultText>
+      <DefaultText>Levanta [url=glossary:força]Força[/url] de aliados próximos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1131</ID>
-      <DefaultText>Levanta [url=glossary:wits]Inteligência[/url] de aliados próximos.</DefaultText>
+      <DefaultText>Levanta [url=glossary:inteligência]Inteligência[/url] de aliados próximos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4393,7 +4393,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>1136</ID>
-      <DefaultText>Reduz o [url=glossary:recovery]Recuperação[/url] Tempo de aliados próximos.</DefaultText>
+      <DefaultText>Reduz o [url=glossary:recuperação]Recuperação[/url] Tempo de aliados próximos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4418,12 +4418,12 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>1141</ID>
-      <DefaultText>Levanta [url=glossary:parry]Defesa[/url] e [url=glossary:dodge]Desviar[/url] de aliados próximos.</DefaultText>
+      <DefaultText>Levanta [url=glossary:defesa]Defesa[/url] e [url=glossary:desviar]Desviar[/url] de aliados próximos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1142</ID>
-      <DefaultText>Levanta [url=glossary:resolve]Determinação[/url] de aliados próximos.</DefaultText>
+      <DefaultText>Levanta [url=glossary:determinação]Determinação[/url] de aliados próximos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4433,12 +4433,12 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>1144</ID>
-      <DefaultText>Salto [url=glossary:death]Morte[/url]</DefaultText>
+      <DefaultText>Salto [url=glossary:morte]Morte[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1145</ID>
-      <DefaultText>De furtividade, ataque um inimigo próximo, causando dano a todos os inimigos na área e derrubando-os [url=glossary:prone]Propenso[/url].</DefaultText>
+      <DefaultText>De furtividade, ataque um inimigo próximo, causando dano a todos os inimigos na área e derrubando-os [url=glossary:propenso]Propenso[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4468,7 +4468,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>1151</ID>
-      <DefaultText>Adiciona um efeito de marcação à habilidade Impulso. Ataques contra o alvo [url=glossary:marked]Marcado[/url] ganha bônus de [url=glossary:accuracy]Precisão[/url]. A marca dura até que o inimigo morra.</DefaultText>
+      <DefaultText>Adiciona um efeito de marcação à habilidade Impulso. Ataques contra o alvo [url=glossary:marcado]Marcado[/url] ganha bônus de [url=glossary:accuracy]Precisão[/url]. A marca dura até que o inimigo morra.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4498,7 +4498,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>1157</ID>
-      <DefaultText>Inspire um companheiro, concedendo bônus [url=glossary:might]Força[/url], [url=glossary:wits]Inteligência[/url] e [url=glossary:vitality]Vitalidade[/url]. Este bônus aumenta com base em seu Lealdade.</DefaultText>
+      <DefaultText>Inspire um companheiro, concedendo bônus [url=glossary:força]Força[/url], [url=glossary:inteligência]Inteligência[/url] e [url=glossary:vitalidade]Vitalidade[/url]. Este bônus aumenta com base em seu Lealdade.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4513,7 +4513,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>1161</ID>
-      <DefaultText>Exorte um companheiro a melhorar no campo de batalha, concedendo bônus [url=glossary:finesse]Sutileza[/url], [url=glossary:quickness]Rapidez[/url] e [url=glossary:resolve]Determinação[/url]. Este bônus aumenta com base em seu Temer.</DefaultText>
+      <DefaultText>Exorte um companheiro a melhorar no campo de batalha, concedendo bônus [url=glossary:sutileza]Sutileza[/url], [url=glossary:rapidez]Rapidez[/url] e [url=glossary:determinação]Determinação[/url]. Este bônus aumenta com base em seu Temer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4583,7 +4583,7 @@ O Vinculador do Destino fortalece Eb levantando-a no ar. Ela é então cercada p
     </Entry>
     <Entry>
       <ID>1179</ID>
-      <DefaultText>Entre em uma postura defensiva, ganhando um bônus para [url=glossary:armor]armaduras[/url].</DefaultText>
+      <DefaultText>Entre em uma postura defensiva, ganhando um bônus para [url=glossary:armadura]Armadura[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4625,7 +4625,7 @@ Esta habilidade substitui Golpe de Escudo.</DefaultText>
     </Entry>
     <Entry>
       <ID>1187</ID>
-      <DefaultText>Enquanto estiver usando apenas armadura pesada, ganhe um bônus adicional para [url=glossary:armor]armaduras[/url].</DefaultText>
+      <DefaultText>Enquanto estiver usando apenas armadura pesada, ganhe um bônus adicional para [url=glossary:armadura]Armadura[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4645,7 +4645,7 @@ Esta habilidade substitui Golpe de Escudo.</DefaultText>
     </Entry>
     <Entry>
       <ID>1193</ID>
-      <DefaultText>Quando você for atingido criticamente, Postura do Desafiador amplificará o dano recebido por inimigos próximos e Postura de Guarda concederá a você e seu grupo bônus [url=glossary:armor]armaduras[/url].</DefaultText>
+      <DefaultText>Quando você for atingido criticamente, Postura do Desafiador amplificará o dano recebido por inimigos próximos e Postura de Guarda concederá a você e seu grupo bônus [url=glossary:armadura]Armadura[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4655,7 +4655,7 @@ Esta habilidade substitui Golpe de Escudo.</DefaultText>
     </Entry>
     <Entry>
       <ID>1195</ID>
-      <DefaultText>Permite que um inimigo adicional seja engajado de uma só vez e concede um bônus ao dano causado a alvos que são [url=glossary:stunned]Atordoado[/url] ou [url=glossary:prone]Propenso[/url].</DefaultText>
+      <DefaultText>Permite que um inimigo adicional seja engajado de uma só vez e concede um bônus ao dano causado a alvos que são [url=glossary:atordoado]Atordoado[/url] ou [url=glossary:propenso]Propenso[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4705,7 +4705,7 @@ Esta habilidade substitui Golpe de Escudo.</DefaultText>
     </Entry>
     <Entry>
       <ID>1205</ID>
-      <DefaultText>Uma vez por combate, quando você fica abaixo de 35% de saúde, você ganha um grande bônus [url=glossary:might]Força[/url] até o combate terminar.</DefaultText>
+      <DefaultText>Uma vez por combate, quando você fica abaixo de 35% de saúde, você ganha um grande bônus [url=glossary:força]Força[/url] até o combate terminar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4775,7 +4775,7 @@ Esta habilidade substitui Golpe de Escudo.</DefaultText>
     </Entry>
     <Entry>
       <ID>1219</ID>
-      <DefaultText>Quando superior, substitua [url=glossary:parry]Defesa[/url] por [url=glossary:dodge]Desviar[/url] enquanto se defende contra ataques corpo a corpo.</DefaultText>
+      <DefaultText>Quando superior, substitua [url=glossary:defesa]Defesa[/url] por [url=glossary:desviar]Desviar[/url] enquanto se defende contra ataques corpo a corpo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4785,7 +4785,7 @@ Esta habilidade substitui Golpe de Escudo.</DefaultText>
     </Entry>
     <Entry>
       <ID>1221</ID>
-      <DefaultText>Quando superior, substitua [url=glossary:dodge]Desviar[/url] por [url=glossary:parry]Defesa[/url] enquanto se defende contra ataques à distância.</DefaultText>
+      <DefaultText>Quando superior, substitua [url=glossary:desviar]Desviar[/url] por [url=glossary:defesa]Defesa[/url] enquanto se defende contra ataques à distância.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4805,7 +4805,7 @@ Esta habilidade substitui Golpe de Escudo.</DefaultText>
     </Entry>
     <Entry>
       <ID>1225</ID>
-      <DefaultText>Ganhe bônus [url=glossary:parry]Defesa[/url] para cada inimigo que atacar você. Ganhe também um bônus para Acerte e arrase [url=glossary:deflection]Deflexão[/url].</DefaultText>
+      <DefaultText>Ganhe bônus [url=glossary:defesa]Defesa[/url] para cada inimigo que atacar você. Ganhe também um bônus para Acerte e arrase [url=glossary:deflexão]Deflexão[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4815,7 +4815,7 @@ Esta habilidade substitui Golpe de Escudo.</DefaultText>
     </Entry>
     <Entry>
       <ID>1227</ID>
-      <DefaultText>Enquanto estiver usando apenas armadura leve, ganhe um bônus para [url=glossary:dodge]Desviar[/url] e [url=glossary:parry]Defesa[/url]. Este efeito é perdido se qualquer armadura pesada for usada.</DefaultText>
+      <DefaultText>Enquanto estiver usando apenas armadura leve, ganhe um bônus para [url=glossary:desviar]Desviar[/url] e [url=glossary:defesa]Defesa[/url]. Este efeito é perdido se qualquer armadura pesada for usada.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4825,7 +4825,7 @@ Esta habilidade substitui Golpe de Escudo.</DefaultText>
     </Entry>
     <Entry>
       <ID>1229</ID>
-      <DefaultText>Aumenta acerto e arranhão [url=glossary:deflection]Deflexão[/url].</DefaultText>
+      <DefaultText>Aumenta acerto e arranhão [url=glossary:deflexão]Deflexão[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4845,7 +4845,7 @@ Esta habilidade substitui Golpe de Escudo.</DefaultText>
     </Entry>
     <Entry>
       <ID>1235</ID>
-      <DefaultText>Atrase seu objetivo para se concentrar em acertar o coração do alvo. Ganhe [url=glossary:accuracy]Precisão[/url] adicional para este ataque e deixe o alvo [url=glossary:bleeding]Sangramento[/url].</DefaultText>
+      <DefaultText>Atrase seu objetivo para se concentrar em acertar o coração do alvo. Ganhe [url=glossary:accuracy]Precisão[/url] adicional para este ataque e deixe o alvo [url=glossary:sangramento]Sangramento[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4855,7 +4855,7 @@ Esta habilidade substitui Golpe de Escudo.</DefaultText>
     </Entry>
     <Entry>
       <ID>1237</ID>
-      <DefaultText>Carregue e lance um projétil com força suficiente para penetrar na armadura. Inimigos em uma linha recebem dano e ficam [url=glossary:bleeding]Sangramento[/url]. (Substitui Tiro no coração)</DefaultText>
+      <DefaultText>Carregue e lance um projétil com força suficiente para penetrar na armadura. Inimigos em uma linha recebem dano e ficam [url=glossary:sangramento]Sangramento[/url]. (Substitui Tiro no coração)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4870,12 +4870,12 @@ Esta habilidade substitui Golpe de Escudo.</DefaultText>
     </Entry>
     <Entry>
       <ID>1240</ID>
-      <DefaultText>[url=glossary:poisoned]envenenado[/url] Dardo</DefaultText>
+      <DefaultText>[url=glossary:envenenado]envenenado[/url] Dardo</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1241</ID>
-      <DefaultText>Jogue um dardo envenenado em um inimigo. Se acertar, o alvo recebe um Veneno Corrosivo [url=glossary:affliction]Aflição[/url] de longa duração.</DefaultText>
+      <DefaultText>Jogue um dardo envenenado em um inimigo. Se acertar, o alvo recebe um Veneno Corrosivo [url=glossary:aflição]Aflição[/url] de longa duração.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4905,7 +4905,7 @@ Esta habilidade substitui Golpe de Escudo.</DefaultText>
     </Entry>
     <Entry>
       <ID>1247</ID>
-      <DefaultText>Adiciona [url=glossary:armor penetration]Penetração de Armadura[/url] para ataques com Armas de arremesso.</DefaultText>
+      <DefaultText>Adiciona [url=glossary:penetração de armadura]Penetração de Armadura[/url] para ataques com Armas de arremesso.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4955,7 +4955,7 @@ Esta habilidade substitui Golpe de Escudo.</DefaultText>
     </Entry>
     <Entry>
       <ID>1257</ID>
-      <DefaultText>Carregue seu [url=glossary:magic staff]Cajado Mágico[/url] e libere uma poderosa explosão de energia que explode em uma pequena área ao redor do alvo.</DefaultText>
+      <DefaultText>Carregue seu [url=glossary:cajado mágico]Cajado Mágico[/url] e libere uma poderosa explosão de energia que explode em uma pequena área ao redor do alvo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4975,7 +4975,7 @@ Esta habilidade substitui Golpe de Escudo.</DefaultText>
     </Entry>
     <Entry>
       <ID>1261</ID>
-      <DefaultText>Crie um escudo de energia ao redor do aliado alvo que interrompe os feitiços recebidos. Aumentando a Magia Crítica e Acerto [url=glossary:deflection]Deflexão[/url] enquanto este escudo estiver ativo.</DefaultText>
+      <DefaultText>Crie um escudo de energia ao redor do aliado alvo que interrompe os feitiços recebidos. Aumentando a Magia Crítica e Acerto [url=glossary:deflexão]Deflexão[/url] enquanto este escudo estiver ativo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5015,7 +5015,7 @@ Esta habilidade substitui Golpe de Escudo.</DefaultText>
     </Entry>
     <Entry>
       <ID>1269</ID>
-      <DefaultText>Concede um bônus para [url=glossary:lore]Conhecimento[/url] Habilidade.</DefaultText>
+      <DefaultText>Concede um bônus para [url=glossary:conhecimento]Conhecimento[/url] Habilidade.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5110,7 +5110,7 @@ Esta habilidade substitui Golpe de Escudo.</DefaultText>
     </Entry>
     <Entry>
       <ID>1304</ID>
-      <DefaultText>[url=glossary:dual wield]Empunhadura Dupla[/url] Mestre Yi</DefaultText>
+      <DefaultText>[url=glossary:empunhadura dupla]Empunhadura Dupla[/url] Mestre Yi</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5140,7 +5140,7 @@ Esta habilidade substitui Golpe de Escudo.</DefaultText>
     </Entry>
     <Entry>
       <ID>1310</ID>
-      <DefaultText>[url=glossary:magic staff]Cajado Mágico[/url] Mestre Yi</DefaultText>
+      <DefaultText>[url=glossary:cajado mágico]Cajado Mágico[/url] Mestre Yi</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5155,9 +5155,9 @@ Esta habilidade substitui Golpe de Escudo.</DefaultText>
     </Entry>
     <Entry>
       <ID>1317</ID>
-      <DefaultText>Todos os membros do grupo perto de você recebem um bônus para [url=glossary:resolve]Determinação[/url].
+      <DefaultText>Todos os membros do grupo perto de você recebem um bônus para [url=glossary:determinação]Determinação[/url].
 
-O bônus é afetado por [url=glossary:disfavored]Desfavorecido[/url] Favor [url=glossary:reputation]Reputação[/url].</DefaultText>
+O bônus é afetado por [url=glossary:desfavorecido]Desfavorecido[/url] Favor [url=glossary:reputação]Reputação[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5179,7 +5179,7 @@ O bônus é afetado por [url=glossary:disfavored]Desfavorecido[/url] Favor [url=
       <ID>1325</ID>
       <DefaultText>Uma vez por combate, ganhe um Escudo de Absorção de Dano por um curto período de tempo se você ficar com pouca vida.
 
-O escudo é afetado por [url=glossary:disfavored]Desfavorecido[/url] Fúria [url=glossary:reputation]Reputação[/url].</DefaultText>
+O escudo é afetado por [url=glossary:desfavorecido]Desfavorecido[/url] Fúria [url=glossary:reputação]Reputação[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5189,7 +5189,7 @@ O escudo é afetado por [url=glossary:disfavored]Desfavorecido[/url] Fúria [url
     </Entry>
     <Entry>
       <ID>1327</ID>
-      <DefaultText>Corte o vínculo entre [url=glossary:graven ashe]Cinza Esculpida[/url] e qualquer [url=glossary:disfavored]Desfavorecido[/url] na área de destino, impedindo-os de receber os benefícios de Égide de Cinza.</DefaultText>
+      <DefaultText>Corte o vínculo entre [url=glossary:cinza esculpida]Cinza Esculpida[/url] e qualquer [url=glossary:desfavorecido]Desfavorecido[/url] na área de destino, impedindo-os de receber os benefícios de Égide de Cinza.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5199,9 +5199,9 @@ O escudo é afetado por [url=glossary:disfavored]Desfavorecido[/url] Fúria [url
     </Entry>
     <Entry>
       <ID>1329</ID>
-      <DefaultText>Ganhe um bônus para acertar [url=glossary:precision]Precisão[/url] em alvos com pouca vida.
+      <DefaultText>Ganhe um bônus para acertar [url=glossary:precisão]Precisão[/url] em alvos com pouca vida.
 
-O bônus é afetado por [url=glossary:scarlet chorus]Coro Escarlate[/url] Favor [url=glossary:reputation]Reputação[/url].</DefaultText>
+O bônus é afetado por [url=glossary:coro escarlate]Coro Escarlate[/url] Favor [url=glossary:reputação]Reputação[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5211,9 +5211,9 @@ O bônus é afetado por [url=glossary:scarlet chorus]Coro Escarlate[/url] Favor 
     </Entry>
     <Entry>
       <ID>1331</ID>
-      <DefaultText>Ganhe um grande bônus para [url=glossary:burning]Queimando[/url] e [url=glossary:bleeding]Sangramento[/url] Resistência.
+      <DefaultText>Ganhe um grande bônus para [url=glossary:queimando]Queimando[/url] e [url=glossary:sangramento]Sangramento[/url] Resistência.
 
-O bônus é afetado por [url=glossary:scarlet chorus]Coro Escarlate[/url] Fúria [url=glossary:reputation] Reputação[/url].</DefaultText>
+O bônus é afetado por [url=glossary:coro escarlate]Coro Escarlate[/url] Fúria [url=glossary:reputação]Reputação[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5233,7 +5233,7 @@ O bônus é afetado por [url=glossary:scarlet chorus]Coro Escarlate[/url] Fúria
     </Entry>
     <Entry>
       <ID>1343</ID>
-      <DefaultText>Exsanguinar um alvo, fazendo-o sangrar, recebendo grandes danos que ignoram [url=glossary:armor]armaduras[/url] e um efeito duradouro Sangrar.</DefaultText>
+      <DefaultText>Exsanguinar um alvo, fazendo-o sangrar, recebendo grandes danos que ignoram [url=glossary:armadura]Armadura[/url] e um efeito duradouro Sangrar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5245,7 +5245,7 @@ O bônus é afetado por [url=glossary:scarlet chorus]Coro Escarlate[/url] Fúria
       <ID>1345</ID>
       <DefaultText>Assuste os inimigos próximos quando você Acerto crítico com sua arma.
 
-A duração é afetada por [url=glossary:unbroken]Inquebrável[/url] Favor [url=glossary:reputation]Reputação[/url].</DefaultText>
+A duração é afetada por [url=glossary:inquebrável]Inquebrável[/url] Favor [url=glossary:reputação]Reputação[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5265,9 +5265,9 @@ A duração é afetada por [url=glossary:unbroken]Inquebrável[/url] Favor [url=
     </Entry>
     <Entry>
       <ID>1349</ID>
-      <DefaultText>Inimigos próximos a você têm o [url=glossary:armor]armaduras[/url] reduzido.
+      <DefaultText>Inimigos próximos a você têm o [url=glossary:armadura]Armadura[/url] reduzido.
 
-A redução é afetada por [url=glossary:unbroken]Inquebrável[/url] Fúria [url=glossary:reputation]Reputação[/url].</DefaultText>
+A redução é afetada por [url=glossary:inquebrável]Inquebrável[/url] Fúria [url=glossary:reputação]Reputação[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5277,7 +5277,7 @@ A redução é afetada por [url=glossary:unbroken]Inquebrável[/url] Fúria [url
     </Entry>
     <Entry>
       <ID>1351</ID>
-      <DefaultText>Acerte seu alvo com poderosa energia negativa, atordoando-os e deixando-os [url=glossary:weakened]Enfraquecido[/url] por um longo período.</DefaultText>
+      <DefaultText>Acerte seu alvo com poderosa energia negativa, atordoando-os e deixando-os [url=glossary:enfraquecido]Enfraquecido[/url] por um longo período.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5289,7 +5289,7 @@ A redução é afetada por [url=glossary:unbroken]Inquebrável[/url] Fúria [url
       <ID>1353</ID>
       <DefaultText>Ganhe um bônus no dano corpo a corpo.
 
-O bônus é afetado por [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] Favor [url=glossary:reputation]Reputação[/url].</DefaultText>
+O bônus é afetado por [url=glossary:irmandade de bronze]Irmandade de Bronze[/url] Favor [url=glossary:reputação]Reputação[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5311,7 +5311,7 @@ O bônus é afetado por [url=glossary:bronze brotherhood]Irmandade de Bronze[/ur
       <ID>1357</ID>
       <DefaultText>Em combate, evite a inconsciência por um curto período de tempo quando você seria derrotado. Isso só pode ocorrer uma vez por encontro.
 
-A duração é afetada por [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] Fúria [url=glossary:reputation]Reputação[/url].</DefaultText>
+A duração é afetada por [url=glossary:irmandade de bronze]Irmandade de Bronze[/url] Fúria [url=glossary:reputação]Reputação[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5331,9 +5331,9 @@ A duração é afetada por [url=glossary:bronze brotherhood]Irmandade de Bronze[
     </Entry>
     <Entry>
       <ID>1361</ID>
-      <DefaultText>Ganhe um bônus no Acerto [url=glossary:precision]Precisão[/url].
+      <DefaultText>Ganhe um bônus no Acerto [url=glossary:precisão]Precisão[/url].
 
-O bônus é afetado por [url=glossary:vendrien guard]Guarda Vendrien[/url] Favor [url=glossary:reputation]Reputação[/url].</DefaultText>
+O bônus é afetado por [url=glossary:guarda vendrien]Guarda Vendrien[/url] Favor [url=glossary:reputação]Reputação[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5343,7 +5343,7 @@ O bônus é afetado por [url=glossary:vendrien guard]Guarda Vendrien[/url] Favor
     </Entry>
     <Entry>
       <ID>1363</ID>
-      <DefaultText>Evoca um dardo encantado de energia luminosa e arremessa-o em seu alvo. O dardo danifica o equipamento do alvo, reduzindo [url=glossary:armor]armaduras[/url], e aplica [url=glossary:burning]Queimando[/url] a todos os inimigos em uma linha.</DefaultText>
+      <DefaultText>Evoca um dardo encantado de energia luminosa e arremessa-o em seu alvo. O dardo danifica o equipamento do alvo, reduzindo [url=glossary:armadura]Armadura[/url], e aplica [url=glossary:queimando]Queimando[/url] a todos os inimigos em uma linha.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5355,7 +5355,7 @@ O bônus é afetado por [url=glossary:vendrien guard]Guarda Vendrien[/url] Favor
       <ID>1365</ID>
       <DefaultText>Inimigos próximos recebem uma penalidade de [url=glossary:accuracy]Precisão[/url].
 
-A penalidade é afetada por [url=glossary:vendrien guard]Guarda Vendrien[/url] Fúria [url=glossary:reputation]Reputação[/url].</DefaultText>
+A penalidade é afetada por [url=glossary:guarda vendrien]Guarda Vendrien[/url] Fúria [url=glossary:reputação]Reputação[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5365,7 +5365,7 @@ A penalidade é afetada por [url=glossary:vendrien guard]Guarda Vendrien[/url] F
     </Entry>
     <Entry>
       <ID>1367</ID>
-      <DefaultText>Sifão [url=glossary:might]Força[/url], [url=glossary:finesse]Sutileza[/url] e [url=glossary:resolve]Determinação[/url] dos inimigos em um cone e canalize-o de volta para você por um breve período.</DefaultText>
+      <DefaultText>Sifão [url=glossary:força]Força[/url], [url=glossary:sutileza]Sutileza[/url] e [url=glossary:determinação]Determinação[/url] dos inimigos em um cone e canalize-o de volta para você por um breve período.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5375,9 +5375,9 @@ A penalidade é afetada por [url=glossary:vendrien guard]Guarda Vendrien[/url] F
     </Entry>
     <Entry>
       <ID>1369</ID>
-      <DefaultText>Uma vez por combate, quando você é derrotado, aliados próximos recebem um bônus para [url=glossary:might]Força[/url], [url=glossary:finesse]Sutileza[/url] e [url=glossary:quickness]Rapidez[/url].
+      <DefaultText>Uma vez por combate, quando você é derrotado, aliados próximos recebem um bônus para [url=glossary:força]Força[/url], [url=glossary:sutileza]Sutileza[/url] e [url=glossary:rapidez]Rapidez[/url].
 
-Bonus é afetado por [url=glossary:stonestalker]Perseguidor de Pedras[/url] Favor [url=glossary:reputation]Reputação[/url].</DefaultText>
+Bonus é afetado por [url=glossary:perseguidor de pedras]Perseguidor de Pedras[/url] Favor [url=glossary:reputação]Reputação[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5387,7 +5387,7 @@ Bonus é afetado por [url=glossary:stonestalker]Perseguidor de Pedras[/url] Favo
     </Entry>
     <Entry>
       <ID>1371</ID>
-      <DefaultText>Conceda a todos os aliados próximos um bônus para [url=glossary:might]Força[/url] e Resistência.</DefaultText>
+      <DefaultText>Conceda a todos os aliados próximos um bônus para [url=glossary:força]Força[/url] e Resistência.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5399,7 +5399,7 @@ Bonus é afetado por [url=glossary:stonestalker]Perseguidor de Pedras[/url] Favo
       <ID>1373</ID>
       <DefaultText>Quando você acertar criticamente um alvo com um ataque corpo a corpo, aplique um efeito de dano corrosivo ao longo do tempo.
 
-A duração é afetada por [url=glossary:stonestalker]Perseguidor de Pedras[/url] Fúria [url=glossary:reputation]Reputação[/url].</DefaultText>
+A duração é afetada por [url=glossary:perseguidor de pedras]Perseguidor de Pedras[/url] Fúria [url=glossary:reputação]Reputação[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5421,7 +5421,7 @@ A duração é afetada por [url=glossary:stonestalker]Perseguidor de Pedras[/url
       <ID>1377</ID>
       <DefaultText>Ganhe um bônus na defesa contra feitiços.
 
-O bônus é afetado por [url=glossary:sage]Sábio[/url] Favor [url=glossary:reputation]Reputação[/url].</DefaultText>
+O bônus é afetado por [url=glossary:sábio]Sábio[/url] Favor [url=glossary:reputação]Reputação[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5441,9 +5441,9 @@ O bônus é afetado por [url=glossary:sage]Sábio[/url] Favor [url=glossary:repu
     </Entry>
     <Entry>
       <ID>1381</ID>
-      <DefaultText>Ganhe um bônus na habilidade [url=glossary:lore]Conhecimento[/url].
+      <DefaultText>Ganhe um bônus na habilidade [url=glossary:conhecimento]Conhecimento[/url].
 
-O bônus é afetado por [url=glossary:sage]Sábio[/url] Fúria [url=glossary:reputation]Reputação[/url].</DefaultText>
+O bônus é afetado por [url=glossary:sábio]Sábio[/url] Fúria [url=glossary:reputação]Reputação[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5463,9 +5463,9 @@ O bônus é afetado por [url=glossary:sage]Sábio[/url] Fúria [url=glossary:rep
     </Entry>
     <Entry>
       <ID>1385</ID>
-      <DefaultText>Ganhe um bônus para [url=glossary:armor]armaduras[/url] contra geada, Choque e Incêndio de dano.
+      <DefaultText>Ganhe um bônus para [url=glossary:armadura]Armadura[/url] contra geada, Choque e Incêndio de dano.
 
-O bônus é afetado por Forjar favor vinculado [url=glossary:reputation]Reputação[/url].</DefaultText>
+O bônus é afetado por Forjar favor vinculado [url=glossary:reputação]Reputação[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5475,7 +5475,7 @@ O bônus é afetado por Forjar favor vinculado [url=glossary:reputation]Reputaç
     </Entry>
     <Entry>
       <ID>1387</ID>
-      <DefaultText>Crie um escudo de curta duração em torno de um aliado que conceda a ele um grande bônus para geada, Choque e Incêndio [url=glossary:armor]armaduras[/url].</DefaultText>
+      <DefaultText>Crie um escudo de curta duração em torno de um aliado que conceda a ele um grande bônus para geada, Choque e Incêndio [url=glossary:armadura]Armadura[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5487,7 +5487,7 @@ O bônus é afetado por Forjar favor vinculado [url=glossary:reputation]Reputaç
       <ID>1389</ID>
       <DefaultText>Reduza passivamente a duração de todos os efeitos hostis que possam afetá-lo.
 
-A redução é afetada por Forja Ira Vinculada [url=glossary:reputation]Reputação[/url].</DefaultText>
+A redução é afetada por Forja Ira Vinculada [url=glossary:reputação]Reputação[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5522,7 +5522,7 @@ A redução é afetada por Forja Ira Vinculada [url=glossary:reputation]Reputaç
     </Entry>
     <Entry>
       <ID>1396</ID>
-      <DefaultText>Acento que adiciona os feitiços [url=glossary:stunned]Atordoado[/url] [url=glossary:affliction]Aflição[/url] a Raio.</DefaultText>
+      <DefaultText>Acento que adiciona os feitiços [url=glossary:atordoado]Atordoado[/url] [url=glossary:aflição]Aflição[/url] a Raio.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5552,7 +5552,7 @@ A redução é afetada por Forja Ira Vinculada [url=glossary:reputation]Reputaç
     </Entry>
     <Entry>
       <ID>1402</ID>
-      <DefaultText>Acento que adiciona os feitiços [url=glossary:rooted]Enraizado[/url] [url=glossary:affliction]Aflição[/url] a Força e Atrofia.</DefaultText>
+      <DefaultText>Acento que adiciona os feitiços [url=glossary:enraizado]Enraizado[/url] [url=glossary:aflição]Aflição[/url] a Força e Atrofia.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5637,7 +5637,7 @@ A redução é afetada por Forja Ira Vinculada [url=glossary:reputation]Reputaç
     </Entry>
     <Entry>
       <ID>1419</ID>
-      <DefaultText>Sigilo de [url=glossary:focused]Focado[/url] Chuva</DefaultText>
+      <DefaultText>Sigilo de [url=glossary:focado]Focado[/url] Chuva</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5647,12 +5647,12 @@ A redução é afetada por Forja Ira Vinculada [url=glossary:reputation]Reputaç
     </Entry>
     <Entry>
       <ID>1421</ID>
-      <DefaultText>Sigilo de [url=glossary:bleeding]Sangramento[/url]</DefaultText>
+      <DefaultText>Sigilo de [url=glossary:sangramento]Sangramento[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1422</ID>
-      <DefaultText>Acento que adiciona o [url=glossary:bleeding]Sangramento[/url] [url=glossary:affliction]Aflição[/url] aos feitiços.</DefaultText>
+      <DefaultText>Acento que adiciona o [url=glossary:sangramento]Sangramento[/url] [url=glossary:aflição]Aflição[/url] aos feitiços.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5662,7 +5662,7 @@ A redução é afetada por Forja Ira Vinculada [url=glossary:reputation]Reputaç
     </Entry>
     <Entry>
       <ID>1424</ID>
-      <DefaultText>Acento que adiciona o [url=glossary:dazed]Atordoado[/url] [url=glossary:affliction]Aflição[/url] aos feitiços.</DefaultText>
+      <DefaultText>Acento que adiciona o [url=glossary:atordoado]Atordoado[/url] [url=glossary:aflição]Aflição[/url] aos feitiços.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5692,7 +5692,7 @@ A redução é afetada por Forja Ira Vinculada [url=glossary:reputation]Reputaç
     </Entry>
     <Entry>
       <ID>1432</ID>
-      <DefaultText>Acento que faz com que feitiços reduzam [url=glossary:recovery]Recuperação[/url] por um curto período de tempo após serem lançados.</DefaultText>
+      <DefaultText>Acento que faz com que feitiços reduzam [url=glossary:recuperação]Recuperação[/url] por um curto período de tempo após serem lançados.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5702,7 +5702,7 @@ A redução é afetada por Forja Ira Vinculada [url=glossary:reputation]Reputaç
     </Entry>
     <Entry>
       <ID>1434</ID>
-      <DefaultText>Acento que adiciona o [url=glossary:marked]Marcado[/url] [url=glossary:affliction]Aflição[/url] aos feitiços.</DefaultText>
+      <DefaultText>Acento que adiciona o [url=glossary:marcado]Marcado[/url] [url=glossary:aflição]Aflição[/url] aos feitiços.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5852,7 +5852,7 @@ A redução é afetada por Forja Ira Vinculada [url=glossary:reputation]Reputaç
     </Entry>
     <Entry>
       <ID>1485</ID>
-      <DefaultText>Quando ativado, o Escudo Azure concede ao usuário um bônus para [url=glossary:quickness]Rapidez[/url], Velocidade de movimento e [url=glossary:accuracy]Precisão[/url]. A duração desses efeitos escala com o Renome do Azure Shield.</DefaultText>
+      <DefaultText>Quando ativado, o Escudo Azure concede ao usuário um bônus para [url=glossary:rapidez]Rapidez[/url], Velocidade de movimento e [url=glossary:accuracy]Precisão[/url]. A duração desses efeitos escala com o Renome do Azure Shield.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5862,7 +5862,7 @@ A redução é afetada por Forja Ira Vinculada [url=glossary:reputation]Reputaç
     </Entry>
     <Entry>
       <ID>1487</ID>
-      <DefaultText>Concede bônus [url=glossary:deflection]Deflexão[/url]</DefaultText>
+      <DefaultText>Concede bônus [url=glossary:deflexão]Deflexão[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5907,7 +5907,7 @@ A redução é afetada por Forja Ira Vinculada [url=glossary:reputation]Reputaç
     </Entry>
     <Entry>
       <ID>1496</ID>
-      <DefaultText>Levante o grito final no ar e desencadeie uma explosão caótica de energia. Todos os inimigos próximos são empurrados para trás, [url=glossary:dazed]Atordoado[/url] e [url=glossary:confused]Confuso[/url]. Duração das aflições escala com o Renome do grito final.</DefaultText>
+      <DefaultText>Levante o grito final no ar e desencadeie uma explosão caótica de energia. Todos os inimigos próximos são empurrados para trás, [url=glossary:atordoado]Atordoado[/url] e [url=glossary:confuso]Confuso[/url]. Duração das aflições escala com o Renome do grito final.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5937,7 +5937,7 @@ A redução é afetada por Forja Ira Vinculada [url=glossary:reputation]Reputaç
     </Entry>
     <Entry>
       <ID>1502</ID>
-      <DefaultText>Dispare uma flecha brilhante. Todos os inimigos em seu caminho sofrem dano e são [url=glossary:blinded]Cego[/url]. Qualquer Maldito atingido desencadeia uma pequena explosão que causa Arcano de dano a todos os Malditos na área. Esses efeitos escalam com o Renome do Gravebow.</DefaultText>
+      <DefaultText>Dispare uma flecha brilhante. Todos os inimigos em seu caminho sofrem dano e são [url=glossary:cego]Cego[/url]. Qualquer Maldito atingido desencadeia uma pequena explosão que causa Arcano de dano a todos os Malditos na área. Esses efeitos escalam com o Renome do Gravebow.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5992,7 +5992,7 @@ A redução é afetada por Forja Ira Vinculada [url=glossary:reputation]Reputaç
     </Entry>
     <Entry>
       <ID>1513</ID>
-      <DefaultText>Inimigos em uma área alvo recebem Crush de dano e são [url=glossary:petrified]Petrificado[/url], enquanto aliados na área recebem um buff para [url=glossary:might]Força[/url], [url=glossary:vitality]Vitalidade[/url] , e [url=glossary:resolve]Determinação[/url], bem como o dano [url=glossary:armor]armaduras[/url] versus Crush. Esses efeitos escalam com o Pessoal de [url=glossary:cairn]Cairn[/url] de Renome.</DefaultText>
+      <DefaultText>Inimigos em uma área alvo recebem Crush de dano e são [url=glossary:petrificado]Petrificado[/url], enquanto aliados na área recebem um buff para [url=glossary:força]Força[/url], [url=glossary:vitalidade]Vitalidade[/url] , e [url=glossary:determinação]Determinação[/url], bem como o dano [url=glossary:armadura]Armadura[/url] versus Crush. Esses efeitos escalam com o Pessoal de [url=glossary:cairn]Cairn[/url] de Renome.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6002,7 +6002,7 @@ A redução é afetada por Forja Ira Vinculada [url=glossary:reputation]Reputaç
     </Entry>
     <Entry>
       <ID>1515</ID>
-      <DefaultText>Dispare um raio saltitante de energia. Cada inimigo atingido recebe Perfuração de dano e transfere saúde para o portador. Os inimigos afetados também terão seus [url=glossary:might]Força[/url], [url=glossary:quickness]Rapidez[/url] e [url=glossary:vitality]Vitalidade[/url] reduzidos pelo restante do combate. Quantidade de saúde transferida balança com Renome do Sangue do Coração.</DefaultText>
+      <DefaultText>Dispare um raio saltitante de energia. Cada inimigo atingido recebe Perfuração de dano e transfere saúde para o portador. Os inimigos afetados também terão seus [url=glossary:força]Força[/url], [url=glossary:rapidez]Rapidez[/url] e [url=glossary:vitalidade]Vitalidade[/url] reduzidos pelo restante do combate. Quantidade de saúde transferida balança com Renome do Sangue do Coração.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6032,7 +6032,7 @@ A redução é afetada por Forja Ira Vinculada [url=glossary:reputation]Reputaç
     </Entry>
     <Entry>
       <ID>1521</ID>
-      <DefaultText>Troque de posição instantaneamente com um companheiro. Você e seu aliado recebem um bônus para [url=glossary:vitality]Vitalidade[/url] e [url=glossary:finesse]Sutileza[/url] até o final do combate. Esses efeitos escalam com o Renome da Placa do Comandante.</DefaultText>
+      <DefaultText>Troque de posição instantaneamente com um companheiro. Você e seu aliado recebem um bônus para [url=glossary:vitalidade]Vitalidade[/url] e [url=glossary:sutileza]Sutileza[/url] até o final do combate. Esses efeitos escalam com o Renome da Placa do Comandante.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6042,7 +6042,7 @@ A redução é afetada por Forja Ira Vinculada [url=glossary:reputation]Reputaç
     </Entry>
     <Entry>
       <ID>1523</ID>
-      <DefaultText>Desenhe a forma de uma máscara horripilante de energia. Todos os inimigos dentro de um cone se tornam [url=glossary:terrified]Aterrorizado[/url]. Duração das escalas de aflição [url=glossary:terrified]Aterrorizado[/url] com o Renome das Vestes do Hierarca.</DefaultText>
+      <DefaultText>Desenhe a forma de uma máscara horripilante de energia. Todos os inimigos dentro de um cone se tornam [url=glossary:aterrorizado]Aterrorizado[/url]. Duração das escalas de aflição [url=glossary:aterrorizado]Aterrorizado[/url] com o Renome das Vestes do Hierarca.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6077,7 +6077,7 @@ A redução é afetada por Forja Ira Vinculada [url=glossary:reputation]Reputaç
     </Entry>
     <Entry>
       <ID>1530</ID>
-      <DefaultText>Quando ativado, o portador de Bandeira do Ardente recebe um escudo de absorção de dano e qualquer inimigo que o ataque é [url=glossary:paralyzed]Paralisado[/url]. Esses efeitos escalam com o Bandeira do renome de Ardent.</DefaultText>
+      <DefaultText>Quando ativado, o portador de Bandeira do Ardente recebe um escudo de absorção de dano e qualquer inimigo que o ataque é [url=glossary:paralisado]Paralisado[/url]. Esses efeitos escalam com o Bandeira do renome de Ardent.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6202,32 +6202,32 @@ A redução é afetada por Forja Ira Vinculada [url=glossary:reputation]Reputaç
     </Entry>
     <Entry>
       <ID>1555</ID>
-      <DefaultText>Elixir de [url=glossary:finesse]Sutileza[/url]</DefaultText>
+      <DefaultText>Elixir de [url=glossary:sutileza]Sutileza[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1556</ID>
-      <DefaultText>Elixir de [url=glossary:might]Força[/url]</DefaultText>
+      <DefaultText>Elixir de [url=glossary:força]Força[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1557</ID>
-      <DefaultText>Elixir de [url=glossary:quickness]Rapidez[/url]</DefaultText>
+      <DefaultText>Elixir de [url=glossary:rapidez]Rapidez[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1558</ID>
-      <DefaultText>Elixir de [url=glossary:resolve]Determinação[/url]</DefaultText>
+      <DefaultText>Elixir de [url=glossary:determinação]Determinação[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1559</ID>
-      <DefaultText>Elixir de [url=glossary:vitality]Vitalidade[/url]</DefaultText>
+      <DefaultText>Elixir de [url=glossary:vitalidade]Vitalidade[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1560</ID>
-      <DefaultText>Elixir de [url=glossary:wits]Inteligência[/url]</DefaultText>
+      <DefaultText>Elixir de [url=glossary:inteligência]Inteligência[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6242,7 +6242,7 @@ A redução é afetada por Forja Ira Vinculada [url=glossary:reputation]Reputaç
     </Entry>
     <Entry>
       <ID>1563</ID>
-      <DefaultText>Acordar [url=glossary:death]Morte[/url]</DefaultText>
+      <DefaultText>Acordar [url=glossary:morte]Morte[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6302,7 +6302,7 @@ A redução é afetada por Forja Ira Vinculada [url=glossary:reputation]Reputaç
     </Entry>
     <Entry>
       <ID>1575</ID>
-      <DefaultText>Concede um bônus para Arcano [url=glossary:armor]armaduras[/url] e Magia defesa.</DefaultText>
+      <DefaultText>Concede um bônus para Arcano [url=glossary:armadura]Armadura[/url] e Magia defesa.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6312,12 +6312,12 @@ A redução é afetada por Forja Ira Vinculada [url=glossary:reputation]Reputaç
     </Entry>
     <Entry>
       <ID>1577</ID>
-      <DefaultText>Ganhe imunidade aos [url=glossary:burning]Queimando[/url] e [url=glossary:bleeding]Sangramento[/url] Aflições.</DefaultText>
+      <DefaultText>Ganhe imunidade aos [url=glossary:queimando]Queimando[/url] e [url=glossary:sangramento]Sangramento[/url] Aflições.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1578</ID>
-      <DefaultText>Convocar [url=glossary:bleden mark]Marca de Mistura[/url]</DefaultText>
+      <DefaultText>Convocar [url=glossary:marca de mistura]Marca de Mistura[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6357,7 +6357,7 @@ A redução é afetada por Forja Ira Vinculada [url=glossary:reputation]Reputaç
     </Entry>
     <Entry>
       <ID>1586</ID>
-      <DefaultText>Verse tentará lutar de forma conservadora a uma distância segura. Ela priorizará alvos com seus ataques de arco quando possível. Divisor de tela, [url=glossary:hobbled]Mancando[/url] Presa, Divisor de crânio e [url=glossary:burning]Queimando[/url] O ferro é usado em alvos sempre que eficaz. Se Verse estiver em perigo, ela tentará usar sua habilidade Não vinculado e escapar para a cobertura de um aliado.</DefaultText>
+      <DefaultText>Verse tentará lutar de forma conservadora a uma distância segura. Ela priorizará alvos com seus ataques de arco quando possível. Divisor de tela, [url=glossary:mancando]Mancando[/url] Presa, Divisor de crânio e [url=glossary:queimando]Queimando[/url] O ferro é usado em alvos sempre que eficaz. Se Verse estiver em perigo, ela tentará usar sua habilidade Não vinculado e escapar para a cobertura de um aliado.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6397,7 +6397,7 @@ A redução é afetada por Forja Ira Vinculada [url=glossary:reputation]Reputaç
     </Entry>
     <Entry>
       <ID>1594</ID>
-      <DefaultText>Eb usará suas habilidades para controlar as marés da batalha. No início do combate, Eb irá obscurecer o campo de batalha a favor do grupo com da mãe [url=glossary:breath]Respiração[/url]. Ela então tentará encontrar alvos de alta ameaça e se concentrar em usar Punho Terratus, Chamada Terratus e Abraço das Mães neles. Se os inimigos chegarem muito perto, ela usará seu Explosão Repelente para afastá-los. Se Eb estiver em perigo real, ela se retirará para a cobertura de um aliado com Portão Terrato, se possível.</DefaultText>
+      <DefaultText>Eb usará suas habilidades para controlar as marés da batalha. No início do combate, Eb irá obscurecer o campo de batalha a favor do grupo com da mãe [url=glossary:sopro]Sopro[/url]. Ela então tentará encontrar alvos de alta ameaça e se concentrar em usar Punho Terratus, Chamada Terratus e Abraço das Mães neles. Se os inimigos chegarem muito perto, ela usará seu Explosão Repelente para afastá-los. Se Eb estiver em perigo real, ela se retirará para a cobertura de um aliado com Portão Terrato, se possível.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6412,7 +6412,7 @@ A redução é afetada por Forja Ira Vinculada [url=glossary:reputation]Reputaç
     </Entry>
     <Entry>
       <ID>1597</ID>
-      <DefaultText>Lantry se concentrará em apoiar aliados. Ele usará a Renovação no início do combate para reforçar as defesas dos aliados. Ele então usará Apagar o registro para aumentar ainda mais a força do grupo. Se o Lantry saúde está baixa ele tentará usar Presente de momentos. Se um aliado cair na batalha Lantry tentará revivê-lo com Segundo [url=glossary:breath]Respiração[/url].</DefaultText>
+      <DefaultText>Lantry se concentrará em apoiar aliados. Ele usará a Renovação no início do combate para reforçar as defesas dos aliados. Ele então usará Apagar o registro para aumentar ainda mais a força do grupo. Se o Lantry saúde está baixa ele tentará usar Presente de momentos. Se um aliado cair na batalha Lantry tentará revivê-lo com Segundo [url=glossary:sopro]Sopro[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6447,7 +6447,7 @@ A redução é afetada por Forja Ira Vinculada [url=glossary:reputation]Reputaç
     </Entry>
     <Entry>
       <ID>1604</ID>
-      <DefaultText>Sirin se concentrará em apoiar o partido com seu Árias. Ela usará Ária da Dissonância e Ária de [url=glossary:resolve]Determinação[/url] para fortalecer os aliados. Ela usará Ária do Inverno para congelar os inimigos. Finalmente, ela usará Ária das Memórias para manter uma invocação Memória Incorporada sempre que possível.</DefaultText>
+      <DefaultText>Sirin se concentrará em apoiar o partido com seu Árias. Ela usará Ária da Dissonância e Ária de [url=glossary:determinação]Determinação[/url] para fortalecer os aliados. Ela usará Ária do Inverno para congelar os inimigos. Finalmente, ela usará Ária das Memórias para manter uma invocação Memória Incorporada sempre que possível.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6477,9 +6477,9 @@ A redução é afetada por Forja Ira Vinculada [url=glossary:reputation]Reputaç
     </Entry>
     <Entry>
       <ID>1612</ID>
-      <DefaultText>Coordene com Versículo para derrubar seu alvo [url=glossary:prone]Propenso[/url], então siga com um forte ataque [url=glossary:bleeding]Sangramento[/url].
+      <DefaultText>Coordene com Versículo para derrubar seu alvo [url=glossary:propenso]Propenso[/url], então siga com um forte ataque [url=glossary:sangramento]Sangramento[/url].
 
-Versículo se move para executar uma varredura de perna, derrubando o inimigo [url=glossary:prone]Propenso[/url]. Você então segue o ataque desferindo um poderoso golpe para baixo, penetrando na armadura e causando um poderoso efeito de sangramento.</DefaultText>
+Versículo se move para executar uma varredura de perna, derrubando o inimigo [url=glossary:propenso]Propenso[/url]. Você então segue o ataque desferindo um poderoso golpe para baixo, penetrando na armadura e causando um poderoso efeito de sangramento.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6489,17 +6489,17 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1614</ID>
-      <DefaultText>Barik e o Vinculador do Destino batem em seus escudos e armaduras, assediando um inimigo. O alvo é obrigado a atacar Barik por um curto período de tempo, enquanto os gestos de zombaria Vinculador do Destino deixam o inimigo confuso e desprevenido. O inimigo perde todas as habilidades para [url=glossary:parry]Defesa[/url] e [url=glossary:dodge]Desviar[/url] até recuperar seus sentidos.</DefaultText>
+      <DefaultText>Barik e o Vinculador do Destino batem em seus escudos e armaduras, assediando um inimigo. O alvo é obrigado a atacar Barik por um curto período de tempo, enquanto os gestos de zombaria Vinculador do Destino deixam o inimigo confuso e desprevenido. O inimigo perde todas as habilidades para [url=glossary:defesa]Defesa[/url] e [url=glossary:desviar]Desviar[/url] até recuperar seus sentidos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1615</ID>
-      <DefaultText>Cavaleiro [url=glossary:parry]Defesa[/url]</DefaultText>
+      <DefaultText>Cavaleiro [url=glossary:defesa]Defesa[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1616</ID>
-      <DefaultText>Ganho aumentado [url=glossary:parry]Defesa[/url] até o final do combate quando danificado</DefaultText>
+      <DefaultText>Ganho aumentado [url=glossary:defesa]Defesa[/url] até o final do combate quando danificado</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6534,9 +6534,9 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1623</ID>
-      <DefaultText>Coordene com Versículo para derrubar seu alvo [url=glossary:prone]Propenso[/url], então siga com um forte ataque [url=glossary:bleeding]Sangramento[/url].
+      <DefaultText>Coordene com Versículo para derrubar seu alvo [url=glossary:propenso]Propenso[/url], então siga com um forte ataque [url=glossary:sangramento]Sangramento[/url].
 
-Versículo se move para executar uma varredura de perna, derrubando o inimigo [url=glossary:prone]Propenso[/url]. Você então segue o ataque desferindo um poderoso golpe para baixo, penetrando na armadura e causando um poderoso efeito de sangramento. Seu poder faz com que seu golpe afete todos os inimigos próximos, derrubando-os [url=glossary:prone]Propenso[/url] e reduzindo o dano causado.</DefaultText>
+Versículo se move para executar uma varredura de perna, derrubando o inimigo [url=glossary:propenso]Propenso[/url]. Você então segue o ataque desferindo um poderoso golpe para baixo, penetrando na armadura e causando um poderoso efeito de sangramento. Seu poder faz com que seu golpe afete todos os inimigos próximos, derrubando-os [url=glossary:propenso]Propenso[/url] e reduzindo o dano causado.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6586,7 +6586,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1633</ID>
-      <DefaultText>Uma vez por combate, quando sua saúde se torna crítica, aliados próximos têm seus danos e [url=glossary:quickness]Rapidez[/url] aumentados por um curto período de tempo.</DefaultText>
+      <DefaultText>Uma vez por combate, quando sua saúde se torna crítica, aliados próximos têm seus danos e [url=glossary:rapidez]Rapidez[/url] aumentados por um curto período de tempo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6621,7 +6621,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1640</ID>
-      <DefaultText>Impulso de Causas a [url=glossary:interrupt]Interromper[/url] o alvo, atrasando seu próximo ataque.</DefaultText>
+      <DefaultText>Impulso de Causas a [url=glossary:interromper]Interromper[/url] o alvo, atrasando seu próximo ataque.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6651,7 +6651,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1646</ID>
-      <DefaultText>Ao atacar furtivamente, os inimigos que são atingidos têm seus [url=glossary:armor]armaduras[/url] reduzidos até o fim do combate.</DefaultText>
+      <DefaultText>Ao atacar furtivamente, os inimigos que são atingidos têm seus [url=glossary:armadura]Armadura[/url] reduzidos até o fim do combate.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6701,7 +6701,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1656</ID>
-      <DefaultText>Faz com que seu alvo se torne [url=glossary:terrified]Aterrorizado[/url] quando você ataca furtivamente.</DefaultText>
+      <DefaultText>Faz com que seu alvo se torne [url=glossary:aterrorizado]Aterrorizado[/url] quando você ataca furtivamente.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6741,7 +6741,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1664</ID>
-      <DefaultText>Enquanto estiver usando apenas armadura pesada, ganhe um bônus adicional para [url=glossary:armor]armaduras[/url]. (Mais eficaz que Guarda Pesado I)</DefaultText>
+      <DefaultText>Enquanto estiver usando apenas armadura pesada, ganhe um bônus adicional para [url=glossary:armadura]Armadura[/url]. (Mais eficaz que Guarda Pesado I)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6786,7 +6786,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1673</ID>
-      <DefaultText>[url=glossary:dual wield]Empunhadura Dupla[/url] Maestria II</DefaultText>
+      <DefaultText>[url=glossary:empunhadura dupla]Empunhadura Dupla[/url] Maestria II</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6796,7 +6796,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1675</ID>
-      <DefaultText>[url=glossary:dual wield]Empunhadura Dupla[/url] Maestria III</DefaultText>
+      <DefaultText>[url=glossary:empunhadura dupla]Empunhadura Dupla[/url] Maestria III</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6901,7 +6901,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1696</ID>
-      <DefaultText>[url=glossary:magic staff]Cajado Mágico[/url] Maestria II</DefaultText>
+      <DefaultText>[url=glossary:cajado mágico]Cajado Mágico[/url] Maestria II</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6911,7 +6911,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1698</ID>
-      <DefaultText>[url=glossary:magic staff]Cajado Mágico[/url] Maestria III</DefaultText>
+      <DefaultText>[url=glossary:cajado mágico]Cajado Mágico[/url] Maestria III</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6996,17 +6996,17 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1718</ID>
-      <DefaultText>Sirin cria passivamente um campo de som ao seu redor que enfraquece todos os ataques recebidos, fornecendo um bônus moderado para [url=glossary:armor]armaduras[/url].</DefaultText>
+      <DefaultText>Sirin cria passivamente um campo de som ao seu redor que enfraquece todos os ataques recebidos, fornecendo um bônus moderado para [url=glossary:armadura]Armadura[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1719</ID>
-      <DefaultText>Sirin cria um potente campo de som ao seu redor que enfraquece todos os ataques recebidos, fornecendo um grande bônus para [url=glossary:armor]armaduras[/url].</DefaultText>
+      <DefaultText>Sirin cria um potente campo de som ao seu redor que enfraquece todos os ataques recebidos, fornecendo um grande bônus para [url=glossary:armadura]Armadura[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1720</ID>
-      <DefaultText>Aumente significativamente o bônus para [url=glossary:dodge]Desviar[/url] enquanto estiver usando Leve [url=glossary:armor]armaduras[/url].</DefaultText>
+      <DefaultText>Aumente significativamente o bônus para [url=glossary:desviar]Desviar[/url] enquanto estiver usando [url=glossary:armadura]Armadura[/url] Leve.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7051,7 +7051,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1729</ID>
-      <DefaultText>[url=glossary:frozen]Congeladas[/url] Explodido</DefaultText>
+      <DefaultText>[url=glossary:congeladas]Congeladas[/url] Explodido</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7176,12 +7176,12 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1754</ID>
-      <DefaultText>[url=glossary:sundered]Separado[/url]</DefaultText>
+      <DefaultText>[url=glossary:separado]Separado[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1755</ID>
-      <DefaultText>[url=glossary:sundered]Separado[/url]</DefaultText>
+      <DefaultText>[url=glossary:separado]Separado[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7286,7 +7286,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1776</ID>
-      <DefaultText>[url=glossary:frozen]Congeladas[/url] Entender</DefaultText>
+      <DefaultText>[url=glossary:congeladas]Congeladas[/url] Entender</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7621,7 +7621,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1843</ID>
-      <DefaultText>[url=glossary:silenced]Silenciado[/url]</DefaultText>
+      <DefaultText>[url=glossary:silenciado]Silenciado[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7656,7 +7656,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1850</ID>
-      <DefaultText>Ataques feitos com arcos agora penetram ainda mais [url=glossary:armor]armaduras[/url].</DefaultText>
+      <DefaultText>Ataques feitos com arcos agora penetram ainda mais [url=glossary:armadura]Armadura[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7676,12 +7676,12 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1854</ID>
-      <DefaultText>[url=glossary:engagement]Noivado[/url]Ataque II</DefaultText>
+      <DefaultText>[url=glossary:noivado]Noivado[/url]Ataque II</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1855</ID>
-      <DefaultText>[url=glossary:engagement]Noivado[/url]Ataque III</DefaultText>
+      <DefaultText>[url=glossary:noivado]Noivado[/url]Ataque III</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7696,12 +7696,12 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1858</ID>
-      <DefaultText>Aumente a chance de Barik's [url=glossary:engagement]Noivado[/url] Ataques ocorrerem.</DefaultText>
+      <DefaultText>Aumente a chance de Barik's [url=glossary:noivado]Noivado[/url] Ataques ocorrerem.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1859</ID>
-      <DefaultText>Aumente ainda mais a chance de ataques Barik's [url=glossary:engagement]Noivado[/url] ocorrerem.</DefaultText>
+      <DefaultText>Aumente ainda mais a chance de ataques Barik's [url=glossary:noivado]Noivado[/url] ocorrerem.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7711,7 +7711,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1861</ID>
-      <DefaultText>Lance uma flecha encharcada de óleo e chamas cobertas. Incendeia os inimigos por muito mais tempo do que [url=glossary:burning]Queimando[/url] Ferro. (Substitui [url=glossary:burning]Queimando[/url] Ferro)</DefaultText>
+      <DefaultText>Lance uma flecha encharcada de óleo e chamas cobertas. Incendeia os inimigos por muito mais tempo do que [url=glossary:queimando]Queimando[/url] Ferro. (Substitui [url=glossary:queimando]Queimando[/url] Ferro)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7741,7 +7741,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1867</ID>
-      <DefaultText>Usando apenas Leve [url=glossary:armor]armaduras[/url], ganhe um bônus para [url=glossary:dodge]Desviar[/url].</DefaultText>
+      <DefaultText>Usando apenas [url=glossary:armadura]Armadura[/url] Leve, ganhe um bônus para [url=glossary:desviar]Desviar[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7851,7 +7851,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1889</ID>
-      <DefaultText>Posição: [url=glossary:frozen]Congeladas[/url]</DefaultText>
+      <DefaultText>Posição: [url=glossary:congeladas]Congeladas[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7896,7 +7896,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1898</ID>
-      <DefaultText>Melhora [url=glossary:control vigor]Controlar Vigor[/url] Habilidade.</DefaultText>
+      <DefaultText>Melhora [url=glossary:controlar vigor]Controlar Vigor[/url] Habilidade.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7906,12 +7906,12 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1900</ID>
-      <DefaultText>Melhora moderadamente [url=glossary:control vigor]Controlar Vigor[/url] Habilidade.</DefaultText>
+      <DefaultText>Melhora moderadamente [url=glossary:controlar vigor]Controlar Vigor[/url] Habilidade.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1901</ID>
-      <DefaultText>Melhora muito [url=glossary:control vigor]Controlar Vigor[/url] Habilidade.</DefaultText>
+      <DefaultText>Melhora muito [url=glossary:controlar vigor]Controlar Vigor[/url] Habilidade.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7926,7 +7926,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1904</ID>
-      <DefaultText>Aumente significativamente o [url=glossary:health]Saúde[/url] restaurado por Segundo [url=glossary:breath]Respiração[/url] e proteja os personagens revividos de danos por um curto período de tempo após serem revividos.</DefaultText>
+      <DefaultText>Aumente significativamente o [url=glossary:saúde]Saúde[/url] restaurado por Segundo [url=glossary:sopro]Sopro[/url] e proteja os personagens revividos de danos por um curto período de tempo após serem revividos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7956,7 +7956,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1910</ID>
-      <DefaultText>Concede um bônus moderado à habilidade [url=glossary:control gravelight]Controle Gravelight[/url] e Gravelight dano à noite.</DefaultText>
+      <DefaultText>Concede um bônus moderado à habilidade [url=glossary:controle luz de sepultura]Controle Luz de Sepultura[/url] e Gravelight dano à noite.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7966,7 +7966,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1912</ID>
-      <DefaultText>Concede um bônus significativo para a habilidade [url=glossary:control gravelight]Controle Gravelight[/url] e o dano Gravelight à noite.</DefaultText>
+      <DefaultText>Concede um bônus significativo para a habilidade [url=glossary:controle luz de sepultura]Controle Luz de Sepultura[/url] e o dano Gravelight à noite.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8016,12 +8016,12 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1922</ID>
-      <DefaultText>Concede um bônus significativo [url=glossary:magic defense]Defesa Mágica[/url].</DefaultText>
+      <DefaultText>Concede um bônus significativo [url=glossary:defesa mágica]Defesa Mágica[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1923</ID>
-      <DefaultText>Indomável [url=glossary:might]Força[/url]II</DefaultText>
+      <DefaultText>Indomável [url=glossary:força]Força[/url]II</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8031,12 +8031,12 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1925</ID>
-      <DefaultText>Sombra de [url=glossary:death]Morte[/url]</DefaultText>
+      <DefaultText>Sombra de [url=glossary:morte]Morte[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1926</ID>
-      <DefaultText>Aumenta significativamente o dano Acerto crítico causado por Salto [url=glossary:death]Morte[/url] e concede um bônus ao dano posterior que dura até o fim do combate.</DefaultText>
+      <DefaultText>Aumenta significativamente o dano Acerto crítico causado por Salto [url=glossary:morte]Morte[/url] e concede um bônus ao dano posterior que dura até o fim do combate.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8056,7 +8056,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1930</ID>
-      <DefaultText>Enquanto estiver furtivo, ganhe 100% de Acerto [url=glossary:precision]Precisão[/url].</DefaultText>
+      <DefaultText>Enquanto estiver furtivo, ganhe 100% de Acerto [url=glossary:precisão]Precisão[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8066,7 +8066,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1932</ID>
-      <DefaultText>Enquanto Sirin não estiver usando Pesado [url=glossary:armor]armaduras[/url], Disfarce de Inocência agora concederá a ela 50% Crítico [url=glossary:deflection]Deflexão[/url].</DefaultText>
+      <DefaultText>Enquanto Sirin não estiver usando Pesado [url=glossary:armadura]Armadura[/url], Disfarce de Inocência agora concederá a ela 50% Crítico [url=glossary:deflexão]Deflexão[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8076,7 +8076,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1934</ID>
-      <DefaultText>A presença de Sirin inspira a festa, aumentando a experiência adquirida por Magia e [url=glossary:subterfuge]Subterfúgio[/url] Habilidades. A inspiração também concede Sirin adicional Espaços de Feitiço.</DefaultText>
+      <DefaultText>A presença de Sirin inspira a festa, aumentando a experiência adquirida por Magia e [url=glossary:subterfúgio]Subterfúgio[/url] Habilidades. A inspiração também concede Sirin adicional Espaços de Feitiço.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8111,7 +8111,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1941</ID>
-      <DefaultText>Melhora ainda mais o [url=glossary:armor penetration]Penetração de Armadura[/url] de Ataques desarmados.</DefaultText>
+      <DefaultText>Melhora ainda mais o [url=glossary:penetração de armadura]Penetração de Armadura[/url] de Ataques desarmados.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8121,27 +8121,27 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1943</ID>
-      <DefaultText>Concede um bônus moderado para Arcano [url=glossary:armor]armaduras[/url] e Magia defesa.</DefaultText>
+      <DefaultText>Concede um bônus moderado para Arcano [url=glossary:armadura]Armadura[/url] e Magia defesa.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1944</ID>
-      <DefaultText>Concede um bônus significativo para a defesa Arcano [url=glossary:armor]armaduras[/url] e Magia.</DefaultText>
+      <DefaultText>Concede um bônus significativo para a defesa Arcano [url=glossary:armadura]Armadura[/url] e Magia.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1945</ID>
-      <DefaultText>Melhora moderadamente a habilidade [url=glossary:lore]Conhecimento[/url].</DefaultText>
+      <DefaultText>Melhora moderadamente a habilidade [url=glossary:conhecimento]Conhecimento[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1946</ID>
-      <DefaultText>Melhora muito [url=glossary:lore]Conhecimento[/url] Habilidade.</DefaultText>
+      <DefaultText>Melhora muito [url=glossary:conhecimento]Conhecimento[/url] Habilidade.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1947</ID>
-      <DefaultText>O Vinculador do Destino zomba de um alvo, removendo sua capacidade de [url=glossary:parry]Defesa[/url] ou [url=glossary:dodge]Desviar[/url]. Enquanto Barik irradia energia, provocando todos os inimigos próximos e reforçando o [url=glossary:armor]armaduras[/url] do grupo.</DefaultText>
+      <DefaultText>O Vinculador do Destino zomba de um alvo, removendo sua capacidade de [url=glossary:defesa]Defesa[/url] ou [url=glossary:desviar]Desviar[/url]. Enquanto Barik irradia energia, provocando todos os inimigos próximos e reforçando o [url=glossary:armadura]Armadura[/url] do grupo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8171,7 +8171,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1953</ID>
-      <DefaultText>[url=glossary:marked]Marcado[/url]</DefaultText>
+      <DefaultText>[url=glossary:marcado]Marcado[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8251,17 +8251,17 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1972</ID>
-      <DefaultText>[url=glossary:focused]Focado[/url] Batida</DefaultText>
+      <DefaultText>[url=glossary:focado]Focado[/url] Batida</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1973</ID>
-      <DefaultText>Capacita a renovação de Lantry habilidade, concedendo um aumento ainda maior no dano da arma e [url=glossary:armor]armaduras[/url].</DefaultText>
+      <DefaultText>Capacita a renovação de Lantry habilidade, concedendo um aumento ainda maior no dano da arma e [url=glossary:armadura]Armadura[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1974</ID>
-      <DefaultText>Permite que dois inimigos adicionais sejam engajados ao mesmo tempo e concede um grande bônus ao dano causado a alvos que são [url=glossary:stunned]Atordoado[/url] ou [url=glossary:prone]Propenso[/url].</DefaultText>
+      <DefaultText>Permite que dois inimigos adicionais sejam engajados ao mesmo tempo e concede um grande bônus ao dano causado a alvos que são [url=glossary:atordoado]Atordoado[/url] ou [url=glossary:propenso]Propenso[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8286,7 +8286,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1979</ID>
-      <DefaultText>Aumenta a quantidade de [url=glossary:breath]Respiração[/url] ganhos de Sirin no início do combate.</DefaultText>
+      <DefaultText>Aumenta a quantidade de [url=glossary:sopro]Sopro[/url] ganhos de Sirin no início do combate.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8301,7 +8301,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1982</ID>
-      <DefaultText>Aumenta a quantidade de [url=glossary:breath]Respiração[/url] retida no final do combate.</DefaultText>
+      <DefaultText>Aumenta a quantidade de [url=glossary:sopro]Sopro[/url] retida no final do combate.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8316,7 +8316,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1985</ID>
-      <DefaultText>[url=glossary:spell breached]Feitiço quebrado[/url]</DefaultText>
+      <DefaultText>[url=glossary:feitiço quebrado]Feitiço quebrado[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8326,12 +8326,12 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1987</ID>
-      <DefaultText>[url=glossary:breath]Respiração[/url] de Inverno: Estância 4</DefaultText>
+      <DefaultText>[url=glossary:sopro]Sopro[/url] de Inverno: Estância 4</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1988</ID>
-      <DefaultText>[url=glossary:breath]Respiração[/url] de Inverno: Estância 5</DefaultText>
+      <DefaultText>[url=glossary:sopro]Sopro[/url] de Inverno: Estância 5</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8341,7 +8341,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1990</ID>
-      <DefaultText>Levanta [url=glossary:armor]armaduras[/url] de aliados próximos.</DefaultText>
+      <DefaultText>Levanta [url=glossary:armadura]Armadura[/url] de aliados próximos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8356,7 +8356,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1993</ID>
-      <DefaultText>Aumenta acerto [url=glossary:precision]Precisão[/url] de aliados próximos.</DefaultText>
+      <DefaultText>Aumenta acerto [url=glossary:precisão]Precisão[/url] de aliados próximos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8371,7 +8371,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1996</ID>
-      <DefaultText>Levanta [url=glossary:vitality]Vitalidade[/url] de aliados próximos.</DefaultText>
+      <DefaultText>Levanta [url=glossary:vitalidade]Vitalidade[/url] de aliados próximos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8381,7 +8381,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>1998</ID>
-      <DefaultText>Causas [url=glossary:bleeding]Sangramento[/url] para inimigos próximos.</DefaultText>
+      <DefaultText>Causas [url=glossary:sangramento]Sangramento[/url] para inimigos próximos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8391,7 +8391,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>2000</ID>
-      <DefaultText>Levanta [url=glossary:might]Força[/url] de aliados próximos.</DefaultText>
+      <DefaultText>Levanta [url=glossary:força]Força[/url] de aliados próximos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8401,7 +8401,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>2002</ID>
-      <DefaultText>Levanta [url=glossary:resolve]Determinação[/url] de aliados próximos.</DefaultText>
+      <DefaultText>Levanta [url=glossary:determinação]Determinação[/url] de aliados próximos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8421,12 +8421,12 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>2006</ID>
-      <DefaultText>Levanta [url=glossary:resolve]Determinação[/url] de aliados próximos.</DefaultText>
+      <DefaultText>Levanta [url=glossary:determinação]Determinação[/url] de aliados próximos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2007</ID>
-      <DefaultText>Abaixa [url=glossary:resolve]Determinação[/url] de inimigos próximos.</DefaultText>
+      <DefaultText>Abaixa [url=glossary:determinação]Determinação[/url] de inimigos próximos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8556,12 +8556,12 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>2059</ID>
-      <DefaultText>Reduz [url=glossary:recovery]Recuperação[/url] e concede Golpe [url=glossary:precision]Precisão[/url] quando ferido.</DefaultText>
+      <DefaultText>Reduz [url=glossary:recuperação]Recuperação[/url] e concede Golpe [url=glossary:precisão]Precisão[/url] quando ferido.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2060</ID>
-      <DefaultText>Para o [url=glossary:death]Morte[/url]</DefaultText>
+      <DefaultText>Para o [url=glossary:morte]Morte[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8576,12 +8576,12 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>2068</ID>
-      <DefaultText>Enquanto estiver usando apenas armadura pesada, ganhe um bônus adicional para [url=glossary:armor]armaduras[/url] e um bônus para recuperação. (Mais eficaz que Guarda Pesado I)</DefaultText>
+      <DefaultText>Enquanto estiver usando apenas armadura pesada, ganhe um bônus adicional para [url=glossary:armadura]Armadura[/url] e um bônus para recuperação. (Mais eficaz que Guarda Pesado I)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2069</ID>
-      <DefaultText>Enquanto estiver usando apenas armadura pesada, ganhe um bônus adicional para [url=glossary:armor]armaduras[/url] e um bônus para recuperação.</DefaultText>
+      <DefaultText>Enquanto estiver usando apenas armadura pesada, ganhe um bônus adicional para [url=glossary:armadura]Armadura[/url] e um bônus para recuperação.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8741,7 +8741,7 @@ Versículo se move para executar uma varredura de perna, derrubando o inimigo [u
     </Entry>
     <Entry>
       <ID>2108</ID>
-      <DefaultText>Quando Lantry está no grupo, todos os membros do grupo ganham experiência bônus para a habilidade [url=glossary:lore]Conhecimento[/url] e um bônus Espaço de Feitiço.</DefaultText>
+      <DefaultText>Quando Lantry está no grupo, todos os membros do grupo ganham experiência bônus para a habilidade [url=glossary:conhecimento]Conhecimento[/url] e um bônus Espaço de Feitiço.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

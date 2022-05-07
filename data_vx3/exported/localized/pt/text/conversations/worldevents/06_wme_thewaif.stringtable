@@ -50,7 +50,7 @@ Ela pergunta se você está interessado em uma troca: um item que ela procurou p
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>É uma lâmina longa e bem forjada com uma mudança acentuada em seu comprimento na metade da lâmina. O desenho é claramente aquele usado pelo [url=glossary:disfavored]Desfavorecido[/url], e um carimbo perto do punho confirma que ele foi criado pelo [url=glossary:forge-bound]Vinculado à Forja[/url].</DefaultText>
+      <DefaultText>É uma lâmina longa e bem forjada com uma mudança acentuada em seu comprimento na metade da lâmina. O desenho é claramente aquele usado pelo [url=glossary:desfavorecido]Desfavorecido[/url], e um carimbo perto do punho confirma que ele foi criado pelo [url=glossary:forge-bound]Vinculado à Forja[/url].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -70,7 +70,7 @@ Ela pergunta se você está interessado em uma troca: um item que ela procurou p
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Apontando para a marca do fabricante, você diz à garota que a arma é propriedade legítima do [url=glossary:disfavored]Desfavorecido[/url] e, mais especificamente, do soberano que comanda sua lealdade. A criança abandonada faz uma careta, mas ela não diz nada, os lábios tão apertados que a cor se esvai deles.</DefaultText>
+      <DefaultText>Apontando para a marca do fabricante, você diz à garota que a arma é propriedade legítima do [url=glossary:desfavorecido]Desfavorecido[/url] e, mais especificamente, do soberano que comanda sua lealdade. A criança abandonada faz uma careta, mas ela não diz nada, os lábios tão apertados que a cor se esvai deles.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -85,7 +85,7 @@ Ela pergunta se você está interessado em uma troca: um item que ela procurou p
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Barik dá um passo à frente no momento em que você começa a desembrulhar. "Pelo Grande General!" ele exclama. "Esta é uma lâmina [url=glossary:disfavored]Desfavorecido[/url]. E aqui!" Ele aponta para um símbolo estampado perto do punho da espada. "Esta é a marca do [url=glossary:forge-bound]Vinculado à Forja[/url] que fez isso!" Ele volta sua atenção para a garota. "Onde você encontrou isso?" ele pergunta, caminhando em direção a ela enquanto ela se afasta dele.</DefaultText>
+      <DefaultText>Barik dá um passo à frente no momento em que você começa a desembrulhar. "Pelo Grande General!" ele exclama. "Esta é uma lâmina [url=glossary:desfavorecido]Desfavorecido[/url]. E aqui!" Ele aponta para um símbolo estampado perto do punho da espada. "Esta é a marca do [url=glossary:forge-bound]Vinculado à Forja[/url] que fez isso!" Ele volta sua atenção para a garota. "Onde você encontrou isso?" ele pergunta, caminhando em direção a ela enquanto ela se afasta dele.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -219,12 +219,12 @@ Você recupere seus anéis e continue sua jornada.</DefaultText>
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>Você olha os corpos com cuidado. Há dois homens e uma mulher, cada um morto por trauma violento, mas com corpos fortemente marcados que indicam que todos foram feridos várias vezes antes. A evidência sugere fortemente que estes eram membros da legião Cinza [url=glossary:disfavored]Desfavorecido[/url] que finalmente sofreu ferimentos contra os quais Égide de Cinza não poderia proteger.</DefaultText>
+      <DefaultText>Você olha os corpos com cuidado. Há dois homens e uma mulher, cada um morto por trauma violento, mas com corpos fortemente marcados que indicam que todos foram feridos várias vezes antes. A evidência sugere fortemente que estes eram membros da legião Cinza [url=glossary:desfavorecido]Desfavorecido[/url] que finalmente sofreu ferimentos contra os quais Égide de Cinza não poderia proteger.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>Você liga a garota, exigindo que ela lhe diga o que sabe sobre o que aconteceu aqui. Ela dá um passo para trás, surpresa com o escrutínio, e protesta que tudo aqui está como ela encontrou, embora alguns dias mais velho. Ela não sabe com certeza o que aconteceu, embora ela mencione [url=glossary:scarlet chorus]Coro Escarlate[/url] invasores são uma visão comum por aqui.</DefaultText>
+      <DefaultText>Você liga a garota, exigindo que ela lhe diga o que sabe sobre o que aconteceu aqui. Ela dá um passo para trás, surpresa com o escrutínio, e protesta que tudo aqui está como ela encontrou, embora alguns dias mais velho. Ela não sabe com certeza o que aconteceu, embora ela mencione [url=glossary:coro escarlate]Coro Escarlate[/url] invasores são uma visão comum por aqui.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -261,12 +261,12 @@ Você recupere seus anéis e continue sua jornada.</DefaultText>
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>[url=glossary:graven ashe]Cinza Esculpida[/url]</DefaultText>
+      <DefaultText>[url=glossary:cinza esculpida]Cinza Esculpida[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>[url=glossary:the voices of nerat]As vozes de Nerat[/url]</DefaultText>
+      <DefaultText>[url=glossary:as vozes de nerat]As Vozes de Nerat[/url]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -291,12 +291,12 @@ Você recupere seus anéis e continue sua jornada.</DefaultText>
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>Você elabora uma missiva codificada para o Arconte dos Segredos e a envia para o Cacofonia antes de continuar sua jornada. Você nunca recebe uma resposta, mas tem a impressão de [url=glossary:the voices of nerat]As Vozes de Nerat[/url] quando o vê novamente que ele se divertiu com suas descobertas.</DefaultText>
+      <DefaultText>Você elabora uma missiva codificada para o Arconte dos Segredos e a envia para o Cacofonia antes de continuar sua jornada. Você nunca recebe uma resposta, mas tem a impressão de [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] quando o vê novamente que ele se divertiu com suas descobertas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>Você elabora um relatório direto dos assassinatos e o envia para o Arconte dos Segredos antes de continuar sua jornada. O pássaro que volta para você está salpicado de sangue, a missiva rabiscada em uma mão selvagem. Ele pergunta se você tem uma acusação a fazer, ou se você simplesmente gosta de desperdiçar o tempo de seus superiores. A nota termina em uma lista ridiculamente longa de torturas pelas quais ele teria submetido os soldados [url=glossary:disfavored]Desfavorecido[/url] se realmente tivesse a oportunidade. A última linha sugere que ele terá que encontrar outra pessoa, talvez um Vinculador do Destino, para se submeter a tal.</DefaultText>
+      <DefaultText>Você elabora um relatório direto dos assassinatos e o envia para o Arconte dos Segredos antes de continuar sua jornada. O pássaro que volta para você está salpicado de sangue, a missiva rabiscada em uma mão selvagem. Ele pergunta se você tem uma acusação a fazer, ou se você simplesmente gosta de desperdiçar o tempo de seus superiores. A nota termina em uma lista ridiculamente longa de torturas pelas quais ele teria submetido os soldados [url=glossary:desfavorecido]Desfavorecido[/url] se realmente tivesse a oportunidade. A última linha sugere que ele terá que encontrar outra pessoa, talvez um Vinculador do Destino, para se submeter a tal.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -321,12 +321,12 @@ Você recupere seus anéis e continue sua jornada.</DefaultText>
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>Você elabora uma missiva codificada para o Arconte dos Segredos e a envia para o Cacofonia antes de continuar sua jornada. Você nunca recebe uma resposta, mas tem a impressão de [url=glossary:the voices of nerat]As Vozes de Nerat[/url] quando o vê novamente que ele se divertiu com suas descobertas.</DefaultText>
+      <DefaultText>Você elabora uma missiva codificada para o Arconte dos Segredos e a envia para o Cacofonia antes de continuar sua jornada. Você nunca recebe uma resposta, mas tem a impressão de [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] quando o vê novamente que ele se divertiu com suas descobertas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Você elabora um relatório direto dos assassinatos e o envia para o Arconte dos Segredos antes de continuar sua jornada. O pássaro que volta para você está salpicado de sangue, a missiva rabiscada em uma mão selvagem. Ele pergunta se você tem uma acusação a fazer, ou se você simplesmente gosta de desperdiçar o tempo de seus superiores. A nota termina em uma lista ridiculamente longa de torturas pelas quais ele teria submetido os soldados [url=glossary:disfavored]Desfavorecido[/url] se realmente tivesse a oportunidade. A última linha sugere que ele terá que encontrar outra pessoa, talvez um Vinculador do Destino, para se submeter a tal.</DefaultText>
+      <DefaultText>Você elabora um relatório direto dos assassinatos e o envia para o Arconte dos Segredos antes de continuar sua jornada. O pássaro que volta para você está salpicado de sangue, a missiva rabiscada em uma mão selvagem. Ele pergunta se você tem uma acusação a fazer, ou se você simplesmente gosta de desperdiçar o tempo de seus superiores. A nota termina em uma lista ridiculamente longa de torturas pelas quais ele teria submetido os soldados [url=glossary:desfavorecido]Desfavorecido[/url] se realmente tivesse a oportunidade. A última linha sugere que ele terá que encontrar outra pessoa, talvez um Vinculador do Destino, para se submeter a tal.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

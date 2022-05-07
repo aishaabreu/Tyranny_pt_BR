@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Obrigado por sua ajuda, Vinculador do Destino." Matani respira fundo e se inclina. "Meus ferimentos são um pouco mais graves do que eu pensava. Acho que vou ficar aqui por enquanto." Ela para e respira fundo. "Enviei alguns soldados para o primeiro nível para lidar com o [url=glossary:disfavored]Desfavorecido[/url], mas fui assaltado no caminho para ajudar Eldian. Há também alguns colonos presos pelo fogo lá em cima."</DefaultText>
+      <DefaultText>"Obrigado por sua ajuda, Vinculador do Destino." Matani respira fundo e se inclina. "Meus ferimentos são um pouco mais graves do que eu pensava. Acho que vou ficar aqui por enquanto." Ela para e respira fundo. "Enviei alguns soldados para o primeiro nível para lidar com o [url=glossary:desfavorecido]Desfavorecido[/url], mas fui assaltado no caminho para ajudar Eldian. Há também alguns colonos presos pelo fogo lá em cima."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Os colonos não vão durar muito se forem deixados sozinhos, mas os soldados não vão durar para sempre tentando manter o [url=glossary:disfavored]Desfavorecido[/url] à distância." Ela suspira, sua rosto estremecendo de dor. "Acho que não há tempo suficiente para lidar com os dois problemas. É uma coisa terrível pedir a você, mas você precisará decidir quem precisa mais de sua ajuda."</DefaultText>
+      <DefaultText>"Os colonos não vão durar muito se forem deixados sozinhos, mas os soldados não vão durar para sempre tentando manter o [url=glossary:desfavorecido]Desfavorecido[/url] à distância." Ela suspira, sua rosto estremecendo de dor. "Acho que não há tempo suficiente para lidar com os dois problemas. É uma coisa terrível pedir a você, mas você precisará decidir quem precisa mais de sua ajuda."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -68,7 +68,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Obrigado por sua ajuda hoje, [Player Name]. Por sua causa, conseguimos proteger [url=glossary:lethian's crossing]A Travessia de Lethian[/url] do [url=glossary:disfavored]Desfavorecido[/url]. Mas a batalha de hoje me deixa preocupado pelo resto do Camadas. Se Cinza foi descarado o suficiente para atacar [url=glossary:lethian's crossing]A Travessia de Lethian[/url] então [url=glossary:the voices of nerat]As Vozes de Nerat[/url] certamente não pensará duas vezes antes de tentar a mesma coisa em outro lugar..."</DefaultText>
+      <DefaultText>"Obrigado por sua ajuda hoje, [Player Name]. Por sua causa, conseguimos proteger [url=glossary:travessia de lethian]Travessia de Lethian[/url] do [url=glossary:desfavorecido]Desfavorecido[/url]. Mas a batalha de hoje me deixa preocupado pelo resto do Camadas. Se Cinza foi descarado o suficiente para atacar [url=glossary:travessia de lethian]Travessia de Lethian[/url] então [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] certamente não pensará duas vezes antes de tentar a mesma coisa em outro lugar..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -78,7 +78,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"E [url=glossary:lethian's crossing]A Travessia de Lethian[/url]?"</DefaultText>
+      <DefaultText>"E [url=glossary:travessia de lethian]Travessia de Lethian[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -88,7 +88,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Farei tudo o que puder para restaurar este assentamento como Eldian faria. Temos uma responsabilidade com as pessoas aqui e precisamos reparar os danos causados a [url=glossary:lethian's crossing]A Travessia de Lethian[/url] e seus cidadãos."
+      <DefaultText>"Farei tudo o que puder para restaurar este assentamento como Eldian faria. Temos uma responsabilidade com as pessoas aqui e precisamos reparar os danos causados a [url=glossary:travessia de lethian]Travessia de Lethian[/url] e seus cidadãos."
 
 "Você faz o que precisa fazer. Termine isso."</DefaultText>
       <FemaleText />
@@ -125,7 +125,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Estou jurado a [url=glossary:the voices of nerat]As Vozes de Nerat[/url], mas se ele não pode se defender, então ele não é meu chefe. Eu digo vá em frente."</DefaultText>
+      <DefaultText>"Estou jurado a [url=glossary:as vozes de nerat]As Vozes de Nerat[/url], mas se ele não pode se defender, então ele não é meu chefe. Eu digo vá em frente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -160,7 +160,7 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Os [url=glossary:disfavored]Desfavorecido[/url] elevaram a ponte levadiça para o nível superior e estão guardando-a. Se você quiser chegar lá, precisará atirar no guincho que segura a ponte."</DefaultText>
+      <DefaultText>"Os [url=glossary:desfavorecido]Desfavorecido[/url] elevaram a ponte levadiça para o nível superior e estão guardando-a. Se você quiser chegar lá, precisará atirar no guincho que segura a ponte."</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

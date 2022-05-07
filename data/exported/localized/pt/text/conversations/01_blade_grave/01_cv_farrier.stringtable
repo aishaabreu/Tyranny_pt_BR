@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Atenção!" Um bando de [url=glossary:unbroken]Inquebrável[/url] guerreiros se posicionam enquanto seu líder fica alerta à sua presença.</DefaultText>
+      <DefaultText>"Atenção!" Um bando de [url=glossary:inquebrável]Inquebrável[/url] guerreiros se posicionam enquanto seu líder fica alerta à sua presença.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>O capitão O robusto assobia uma nota estridente quando você se aproxima, e seus camaradas ficam atentos. Ele se vira para olhá-lo com desgosto aberto. "Tuck seu rabo e corra de volta por onde você veio. O [url=glossary:unbroken]Inquebrável[/url] não vai tolerar a escória Norte entrando em nosso caminho."</DefaultText>
+      <DefaultText>O capitão O robusto assobia uma nota estridente quando você se aproxima, e seus camaradas ficam atentos. Ele se vira para olhá-lo com desgosto aberto. "Tuck seu rabo e corra de volta por onde você veio. O [url=glossary:inquebrável]Inquebrável[/url] não vai tolerar a escória Norte entrando em nosso caminho."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Belay as armas, o Vinculador do Destino se aproxima!" Você ouve seu título repetido em tons abafados por uma reunião de [url=glossary:unbroken]Inquebrável[/url] soldados. Seu líder avança com uma reverência. "Recebi notícias de um aliado na corte de [url=glossary:tunon]Tunon[/url], embora duvidei dos meus ouvidos no início. Eu sou Gregos, e isso," ele aponta para seus homens "é o que resta da quarta coorte de cidadãos do [url=glossary:unbroken]Inquebrável[/url]. Estamos honrados em conhecê-lo."</DefaultText>
+      <DefaultText>"Belay as armas, o Vinculador do Destino se aproxima!" Você ouve seu título repetido em tons abafados por uma reunião de [url=glossary:inquebrável]Inquebrável[/url] soldados. Seu líder avança com uma reverência. "Recebi notícias de um aliado na corte de [url=glossary:tunon]Tunon[/url], embora duvidei dos meus ouvidos no início. Eu sou Gregos, e isso," ele aponta para seus homens "é o que resta da quarta coorte de cidadãos do [url=glossary:inquebrável]Inquebrável[/url]. Estamos honrados em conhecê-lo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[Ataque] "[url=glossary:unbroken]Inquebrável[/url]? O nome apenas implora para que eu quebre você..."</DefaultText>
+      <DefaultText>[Ataque] "[url=glossary:inquebrável]Inquebrável[/url]? O nome apenas implora para que eu quebre você..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>"O Primeiro Regente foi perdido na tempestade de [url=glossary:kyros]Kyros[/url] - não encontramos nada de seus restos mortais ou regalia. Escritos antigos em Desfiladeiros de Ferrugem mostravam que ele pretendia vir a estes Muralhas Antigas, mas não há vestígios dele lá fora." "O estimado [url=glossary:sage]Sábio[/url]," ele aponta para um senhor alto e mais velho parado na beira do acampamento, " diz que encontrou evidências, mas confirmando que o Primeiro Regente entrou nessa brecha próxima."</DefaultText>
+      <DefaultText>"O Primeiro Regente foi perdido na tempestade de [url=glossary:kyros]Kyros[/url] - não encontramos nada de seus restos mortais ou regalia. Escritos antigos em Desfiladeiros de Ferrugem mostravam que ele pretendia vir a estes Muralhas Antigas, mas não há vestígios dele lá fora." "O estimado [url=glossary:sábio]Sábio[/url]," ele aponta para um senhor alto e mais velho parado na beira do acampamento, " diz que encontrou evidências, mas confirmando que o Primeiro Regente entrou nessa brecha próxima."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -93,19 +93,19 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>"Eu perguntaria se você é amigo ou inimigo do [url=glossary:unbroken]Inquebrável[/url], mas não temos amigos por aqui. Indique o seu negócio ou vá embora. Não tenho tempo para sofrer os caprichos de tolos errantes. Eu quero terminar esta expedição e sair antes que todos acabemos como forragem para o Maldito."</DefaultText>
+      <DefaultText>"Eu perguntaria se você é amigo ou inimigo do [url=glossary:inquebrável]Inquebrável[/url], mas não temos amigos por aqui. Indique o seu negócio ou vá embora. Não tenho tempo para sofrer os caprichos de tolos errantes. Eu quero terminar esta expedição e sair antes que todos acabemos como forragem para o Maldito."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Todos nós já ouvimos histórias de demônios que às vezes espreitam perto do Muralhas Antigas. O honorável [url=glossary:sage]Sábio[/url] me garante que os homens letrados os conhecem como 'Flagelos'."
+      <DefaultText>"Todos nós já ouvimos histórias de demônios que às vezes espreitam perto do Muralhas Antigas. O honorável [url=glossary:sábio]Sábio[/url] me garante que os homens letrados os conhecem como 'Flagelos'."
 
 "Como quer que você os chame, eles são abominações - não carne e sangue, mas capazes de arranhar os vivos todos o mesmo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Entre você e eu," A voz de Gregos fica mais calma quando ele se aproxima de você, "Acho que esses Flagelos são servos de [url=glossary:kyros]Kyros[/url] - guardando as Muralhas Antigas , nos espionando, reportando-se ao mestre deles." Ele dá de ombros. "Estou apenas especulando. Talvez pergunte ao [url=glossary:sage]Sábio[/url], Hieronymus, o que ele sabe."</DefaultText>
+      <DefaultText>"Entre você e eu," A voz de Gregos fica mais calma quando ele se aproxima de você, "Acho que esses Flagelos são servos de [url=glossary:kyros]Kyros[/url] - guardando as Muralhas Antigas , nos espionando, reportando-se ao mestre deles." Ele dá de ombros. "Estou apenas especulando. Talvez pergunte ao [url=glossary:sábio]Sábio[/url], Hieronymus, o que ele sabe."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -124,7 +124,7 @@
       <ID>36</ID>
       <DefaultText>Suas costas endurecem. "Nós somose não estou falando de nenhum pedaço velho de sucata de bronze. A insígnia firme tem..." ele procura a palavra certa até chegar com um tom nostálgico, "significado. Significado real para as pessoas de Robusto."
 
-"O [url=glossary:unbroken]Inquebrável[/url] nunca perdeu para um invasor estrangeiro," ele bate nas costas de suas manoplas três vezes, " e através do anos, o Insígnia Firme foi usado por todos os Primeiro Regente para liderar nosso exército."</DefaultText>
+"O [url=glossary:inquebrável]Inquebrável[/url] nunca perdeu para um invasor estrangeiro," ele bate nas costas de suas manoplas três vezes, " e através do anos, o Insígnia Firme foi usado por todos os Primeiro Regente para liderar nosso exército."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -149,7 +149,7 @@
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Fale com [url=glossary:sage]Sábio[/url] Hieronymus antes de entrar no Muralhas Antigas - sem dúvida ele saberá melhor o que esperar." Ele te olha de cima a baixo, seu semblante ficando ansioso . "E... mostre pelo menos um pouco de cautela. Eu não poderia lidar com a vergonha se nossa covardia levar à sua morte."</DefaultText>
+      <DefaultText>"Fale com [url=glossary:sábio]Sábio[/url] Hieronymus antes de entrar no Muralhas Antigas - sem dúvida ele saberá melhor o que esperar." Ele te olha de cima a baixo, seu semblante ficando ansioso . "E... mostre pelo menos um pouco de cautela. Eu não poderia lidar com a vergonha se nossa covardia levar à sua morte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -159,12 +159,12 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Ela ainda está viva! Isso é já era hora de as correntes mudarem a nosso favor." Ele olha para os homens e mulheres atrás dele. "Ouvir isso! Elia ainda está chutando. Vamos torcer para que eles estejam dando o [url=glossary:disfavored]Desfavorecido[/url] sem problemas."</DefaultText>
+      <DefaultText>"Ela ainda está viva! Isso é já era hora de as correntes mudarem a nosso favor." Ele olha para os homens e mulheres atrás dele. "Ouvir isso! Elia ainda está chutando. Vamos torcer para que eles estejam dando o [url=glossary:desfavorecido]Desfavorecido[/url] sem problemas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Ele aponta para o horizonte de pedra atrás dele. "Minha equipe e eu estivemos presos arriscando nossos pescoços em uma caçada de antiguidades. Já perdi dois soldados para aqueles Muralhas Antigas terrores e tenho mais desaparecidos em ação... Esperávamos morrer lutando contra os [url=glossary:disfavored]Desfavorecido[/url] - não somando nossos ossos ao Muralhas Antigas."</DefaultText>
+      <DefaultText>Ele aponta para o horizonte de pedra atrás dele. "Minha equipe e eu estivemos presos arriscando nossos pescoços em uma caçada de antiguidades. Já perdi dois soldados para aqueles Muralhas Antigas terrores e tenho mais desaparecidos em ação... Esperávamos morrer lutando contra os [url=glossary:desfavorecido]Desfavorecido[/url] - não somando nossos ossos ao Muralhas Antigas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -224,12 +224,12 @@
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>"Humanos chamados [url=glossary:unbroken]Inquebrável[/url] fedem a suor de medo e ferro ensanguentado, mas permanecem fortes. Não são fáceis de matar, mesmo para Maldito."</DefaultText>
+      <DefaultText>"Humanos chamados [url=glossary:inquebrável]Inquebrável[/url] fedem a suor de medo e ferro ensanguentado, mas permanecem fortes. Não são fáceis de matar, mesmo para Maldito."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>"Ah ele?" Lantry olha para o [url=glossary:sage]Sábio[/url], balançando a cabeça com um olhar de familiaridade. "Então estes Muralhas Antigas devem estar rastreando com Maldito. Se eu tivesse uma dica quente sobre o paradeiro dos restos mortais Primeiro Regente, não compartilharia esses detalhes se pudesse encontrar sozinho. Deixe-me adivinhar, ele mencionou essa maravilhosa promessa de tesouro e disse que precisaria de 'apenas alguns voluntários' para guarda-costas..."</DefaultText>
+      <DefaultText>"Ah ele?" Lantry olha para o [url=glossary:sábio]Sábio[/url], balançando a cabeça com um olhar de familiaridade. "Então estes Muralhas Antigas devem estar rastreando com Maldito. Se eu tivesse uma dica quente sobre o paradeiro dos restos mortais Primeiro Regente, não compartilharia esses detalhes se pudesse encontrar sozinho. Deixe-me adivinhar, ele mencionou essa maravilhosa promessa de tesouro e disse que precisaria de 'apenas alguns voluntários' para guarda-costas..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -274,7 +274,7 @@
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>"O [url=glossary:disfavored]Desfavorecido[/url] teria nos matado, ou pior... Sugiro que você se reporte a Mattias. Eu mesmo já vi o suficiente do Muralhas Antigas."</DefaultText>
+      <DefaultText>"O [url=glossary:desfavorecido]Desfavorecido[/url] teria nos matado, ou pior... Sugiro que você se reporte a Mattias. Eu mesmo já vi o suficiente do Muralhas Antigas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -304,7 +304,7 @@
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>"Seu líder, Mattias, já se juntou ao Refrão. Poderíamos ser aliados contra o [url=glossary:disfavored]Desfavorecido[/url]."</DefaultText>
+      <DefaultText>"Seu líder, Mattias, já se juntou ao Refrão. Poderíamos ser aliados contra o [url=glossary:desfavorecido]Desfavorecido[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -324,7 +324,7 @@
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>"Como se eu acreditasse nas palavras melosas do agente maluco de [url=glossary:the voices of nerat]As Vozes de Nerat[/url]. Pelo que sei, você é um de seus Olhos - ou um órgão desencarnado ainda menos agradável feito para o deleite dele."</DefaultText>
+      <DefaultText>"Como se eu acreditasse nas palavras melosas do agente maluco de [url=glossary:as vozes de nerat]As Vozes de Nerat[/url]. Pelo que sei, você é um de seus Olhos - ou um órgão desencarnado ainda menos agradável feito para o deleite dele."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -364,12 +364,12 @@
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>"Se eu já ajudei o [url=glossary:unbroken]Inquebrável[/url], o que te faz pensar que não vou te ajudar?"</DefaultText>
+      <DefaultText>"Se eu já ajudei o [url=glossary:inquebrável]Inquebrável[/url], o que te faz pensar que não vou te ajudar?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>[Mentira] "E se eu te disse que quero acabar com o [url=glossary:edict]Edital[/url] de Tempestades?"</DefaultText>
+      <DefaultText>[Mentira] "E se eu te disse que quero acabar com o [url=glossary:edital]Edital[/url] de Tempestades?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -389,7 +389,7 @@
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>"Só porque você é um oportunista não significa também que você é um salvador. Eu sei o que você está tentando realizar aqui. Sem dúvida [url=glossary:the voices of nerat]As Vozes de Nerat[/url] sussurra suas manipulações para você diariamente."</DefaultText>
+      <DefaultText>"Só porque você é um oportunista não significa também que você é um salvador. Eu sei o que você está tentando realizar aqui. Sem dúvida [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] sussurra suas manipulações para você diariamente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -399,7 +399,7 @@
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>"Eu não acreditaria em você por um momento. O [url=glossary:edict]Edital[/url] é uma enorme desvantagem tática para o [url=glossary:disfavored]Desfavorecido[/url], e o [url=glossary:the voices of nerat]As Vozes de Nerat[/url] não é tão tolo que ele daria Cinza um momento de descanso."</DefaultText>
+      <DefaultText>"Eu não acreditaria em você por um momento. O [url=glossary:edital]Edital[/url] é uma enorme desvantagem tática para o [url=glossary:desfavorecido]Desfavorecido[/url], e o [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] não é tão tolo que ele daria Cinza um momento de descanso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -449,7 +449,7 @@
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>"Nenhuma ordem específica..." Ele marca cada ponto em seus dedos. "Libertar o país de [url=glossary:kyros]Kyros[/url], dissipar o [url=glossary:edict]Edital[/url] de Tempestades, matar o último Regente, forçar o último das forças de Cinza E Nerat o mais longe possível das nossas fronteiras, e depois passar o resto à espada. E enquanto estamos jogando este joguinho, vou adicionar matar [url=glossary:kyros]Kyros[/url] à lista. Como é esse som?"</DefaultText>
+      <DefaultText>"Nenhuma ordem específica..." Ele marca cada ponto em seus dedos. "Libertar o país de [url=glossary:kyros]Kyros[/url], dissipar o [url=glossary:edital]Edital[/url] de Tempestades, matar o último Regente, forçar o último das forças de Cinza E Nerat o mais longe possível das nossas fronteiras, e depois passar o resto à espada. E enquanto estamos jogando este joguinho, vou adicionar matar [url=glossary:kyros]Kyros[/url] à lista. Como é esse som?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -484,7 +484,7 @@
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>"Estou tentando acabar com o [url=glossary:edict]Edital[/url] de Tempestades. Temos objetivos semelhantes."</DefaultText>
+      <DefaultText>"Estou tentando acabar com o [url=glossary:edital]Edital[/url] de Tempestades. Temos objetivos semelhantes."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

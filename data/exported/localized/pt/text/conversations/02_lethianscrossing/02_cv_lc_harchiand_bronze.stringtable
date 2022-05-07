@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Saudações e saudações!" O alegre comerciante o cumprimenta com um sorriso e uma palmada no ombro. "E bem-vindo ao [url=glossary:lethian's crossing]A Travessia de Lethian[/url]! Lar do melhor mercador de todos os níveis!" Ele faz uma pausa e pisca. "Que seria eu."</DefaultText>
+      <DefaultText>"Saudações e saudações!" O alegre comerciante o cumprimenta com um sorriso e uma palmada no ombro. "E bem-vindo ao [url=glossary:travessia de lethian]Travessia de Lethian[/url]! Lar do melhor mercador de todos os níveis!" Ele faz uma pausa e pisca. "Que seria eu."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Você poderia me dizer alguma coisa sobre esse selo? Encontrei em [url=glossary:vendrien's well]Poço de Vendrien[/url]."</DefaultText>
+      <DefaultText>"Você poderia me dizer alguma coisa sobre esse selo? Encontrei em [url=glossary:poço de vendrien]Poço de Vendrien[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -63,12 +63,12 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"As armas foram feitas para o [url=glossary:disfavored]Desfavorecido[/url]. E o [url=glossary:vendrien guard]Guarda Vendrien[/url] de repente tinha armas de ferro."</DefaultText>
+      <DefaultText>"As armas foram feitas para o [url=glossary:desfavorecido]Desfavorecido[/url]. E o [url=glossary:guarda vendrien]Guarda Vendrien[/url] de repente tinha armas de ferro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"O [url=glossary:vendrien guard]Guarda Vendrien[/url]?" Harchiand tamborila os dedos na boca e considera. "Nós vamos, isso muda as coisas. suponho..."</DefaultText>
+      <DefaultText>"O [url=glossary:guarda vendrien]Guarda Vendrien[/url]?" Harchiand tamborila os dedos na boca e considera. "Nós vamos, isso muda as coisas. suponho..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -88,7 +88,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Muda as coisas? O que Mão-Over-Quill tem a ver com o [url=glossary:vendrien guard]Guarda Vendrien[/url]?"</DefaultText>
+      <DefaultText>"Muda as coisas? O que Mão-Over-Quill tem a ver com o [url=glossary:guarda vendrien]Guarda Vendrien[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -125,7 +125,7 @@
       <ID>27</ID>
       <DefaultText>"Se você disser uma palavra sobre isso para alguém, eu vou denunciá-lo pelo mentiroso que você é, mas..." Ele olha em volta para ter certeza de que não há colonos perto o suficiente para ouvir o que está sendo dito. 
 
-"Recebi instruções do Quinto Olho para usar Mão-Over-Quill para entregar armas de ferro para [url=glossary:vendrien's well]Poço de Vendrien[/url] Cidadela. Não questiono minhas ordens, apenas sigo. Não sei mais nada - e essa é a verdade!"</DefaultText>
+"Recebi instruções do Quinto Olho para usar Mão-Over-Quill para entregar armas de ferro para [url=glossary:poço de vendrien]Poço de Vendrien[/url] Cidadela. Não questiono minhas ordens, apenas sigo. Não sei mais nada - e essa é a verdade!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -199,12 +199,12 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] tem dúvidas sobre suas transações recentes."</DefaultText>
+      <DefaultText>"[url=glossary:as vozes de nerat]As Vozes de Nerat[/url] tem dúvidas sobre suas transações recentes."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Eles já foram uma organização comercial poderosa que... bem..." Ele coloca a boca em concha e olha ao redor, "Vamos apenas diga que você não queria ficar entre eles e um contrato ." "Com as novas leis de [url=glossary:tunon]Tunon[/url] no [url=glossary:bastard city]Cidade bastarda[/url], o Pena se escondeu nas sombras de [url=glossary:kyros]Kyros[/url] autoridade, tentando manter um perfil mais baixo. Se você estiver envolvido em algum dos negócios deles, fique longe."</DefaultText>
+      <DefaultText>"Eles já foram uma organização comercial poderosa que... bem..." Ele coloca a boca em concha e olha ao redor, "Vamos apenas diga que você não queria ficar entre eles e um contrato ." "Com as novas leis de [url=glossary:tunon]Tunon[/url] no [url=glossary:cidade bastarda]Cidade Bastarda[/url], o Pena se escondeu nas sombras de [url=glossary:kyros]Kyros[/url] autoridade, tentando manter um perfil mais baixo. Se você estiver envolvido em algum dos negócios deles, fique longe."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -263,22 +263,22 @@ Harchiand sacode a bolsa uma vez e acena com a cabeça, contente que a quantia c
     </Entry>
     <Entry>
       <ID>63</ID>
-      <DefaultText>"Você vende para o [url=glossary:disfavored]Desfavorecido[/url]?"</DefaultText>
+      <DefaultText>"Você vende para o [url=glossary:desfavorecido]Desfavorecido[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>"Você cobre seus rastros quando faz negócios com o [url=glossary:scarlet chorus]Coro Escarlate[/url]?"</DefaultText>
+      <DefaultText>"Você cobre seus rastros quando faz negócios com o [url=glossary:coro escarlate]Coro Escarlate[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>"Você já enganou o [url=glossary:scarlet chorus]Coro Escarlate[/url] em um acordo?"</DefaultText>
+      <DefaultText>"Você já enganou o [url=glossary:coro escarlate]Coro Escarlate[/url] em um acordo?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>Ele pisca e responde em um tom baixo. "Dificilmente posso recusar um cliente, posso? Seria suspeito se eu recusasse um servo de [url=glossary:kyros]Kyros[/url] por causa da cor de suas roupas." "Eu guardo meus melhores produtos e preços para o [url=glossary:scarlet chorus]Coro Escarlate[/url], mas você não pode me culpar por exercer meu ofício..."</DefaultText>
+      <DefaultText>Ele pisca e responde em um tom baixo. "Dificilmente posso recusar um cliente, posso? Seria suspeito se eu recusasse um servo de [url=glossary:kyros]Kyros[/url] por causa da cor de suas roupas." "Eu guardo meus melhores produtos e preços para o [url=glossary:coro escarlate]Coro Escarlate[/url], mas você não pode me culpar por exercer meu ofício..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -293,17 +293,17 @@ Harchiand sacode a bolsa uma vez e acena com a cabeça, contente que a quantia c
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>Ele abaixa a voz para um sussurro. "Mas um leal. Eu pensei que [url=glossary:the voices of nerat]As Vozes de Nerat[/url] gostaria de alguém que saiba jogar dos dois lados. Deixe-o saber que sua confiança não está perdida."</DefaultText>
+      <DefaultText>Ele abaixa a voz para um sussurro. "Mas um leal. Eu pensei que [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] gostaria de alguém que saiba jogar dos dois lados. Deixe-o saber que sua confiança não está perdida."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>"O quê? Não! Você está pensando no [url=glossary:forge-bound]Vinculado à Forja[/url]." Ele olha para a esquerda e para a direita. "Quero dizer... se um [url=glossary:disfavored]Desfavorecido[/url] soldado compra uma espada ou capacete de segunda mão... então tecnicamente sim." Ele rapidamente acrescenta uma palavra final. "Mas apenas o [url=glossary:scarlet chorus]Coro Escarlate[/url] vê meus melhores produtos! Eu garanto!"</DefaultText>
+      <DefaultText>"O quê? Não! Você está pensando no [url=glossary:forge-bound]Vinculado à Forja[/url]." Ele olha para a esquerda e para a direita. "Quero dizer... se um [url=glossary:desfavorecido]Desfavorecido[/url] soldado compra uma espada ou capacete de segunda mão... então tecnicamente sim." Ele rapidamente acrescenta uma palavra final. "Mas apenas o [url=glossary:coro escarlate]Coro Escarlate[/url] vê meus melhores produtos! Eu garanto!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>Ele sobe até sua altura total. "Sou um profissional e trato cada transação com a máxima confiança. [url=glossary:the voices of nerat]As vozes de Nerat[/url] não deve ter dúvidas sobre isso."</DefaultText>
+      <DefaultText>Ele sobe até sua altura total. "Sou um profissional e trato cada transação com a máxima confiança. [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] não deve ter dúvidas sobre isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -327,12 +327,12 @@ Ele percebe o que disse e cobre a boca. "Será que as vozes quer que eu os mante
       <ID>76</ID>
       <DefaultText>Ele deixa seu ponto de lado. "Como todos os comerciantes, falo em chavões e embelezamento. As pessoas acham divertido, e vende tecidos que minha avó não colocaria sobre seu cachorro doente."
 
-"Eu nunca falo sobre meus negócios com [url=glossary:the voices of nerat]As Vozes de Nerat[/url]."</DefaultText>
+"Eu nunca falo sobre meus negócios com [url=glossary:as vozes de nerat]As Vozes de Nerat[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>77</ID>
-      <DefaultText>Ele ri. "Eu sei melhor que isso. [url=glossary:the voices of nerat]As vozes de Nerat[/url] é um empresário astuto - não me surpreenderia se ele ficasse de olho em todos os negócios de armas que fiz com suas tropas de elite." Ele se pergunta por um momento. "Venha pensar nisso, também não me surpreenderia se ele não se importasse."
+      <DefaultText>Ele ri. "Eu sei melhor que isso. [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] é um empresário astuto - não me surpreenderia se ele ficasse de olho em todos os negócios de armas que fiz com suas tropas de elite." Ele se pergunta por um momento. "Venha pensar nisso, também não me surpreenderia se ele não se importasse."
 
 "Do jeito que eu vejo, por que eu arriscaria irritar um Fúria Escarlate ou Cantor de Sangue quando posso me contentar com isso minha taxa acordada?"</DefaultText>
       <FemaleText />
@@ -371,29 +371,29 @@ Ele percebe o que disse e cobre a boca. "Será que as vozes quer que eu os mante
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>Desapontado, Harchiand Bronze cruza os braços e te encara com amarga resignação. "Ouço, você pode ficar aqui o dia todo questionando minha lealdade ao [url=glossary:scarlet chorus]Coro Escarlate[/url], mas nós dois sabemos a ironia em exigir respostas de alguém que serve o Arconte dos Segredos. Eu sou um mentiroso Vinculador do Destino, e [url=glossary:the voices of nerat]As Vozes de Nerat[/url] me paga generosamente por tal serviço." "Qual é exatamente a motivação por trás deste julgamento ao qual fui subjugado?"</DefaultText>
+      <DefaultText>Desapontado, Harchiand Bronze cruza os braços e te encara com amarga resignação. "Ouço, você pode ficar aqui o dia todo questionando minha lealdade ao [url=glossary:coro escarlate]Coro Escarlate[/url], mas nós dois sabemos a ironia em exigir respostas de alguém que serve o Arconte dos Segredos. Eu sou um mentiroso Vinculador do Destino, e [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] me paga generosamente por tal serviço." "Qual é exatamente a motivação por trás deste julgamento ao qual fui subjugado?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] me disse para falar com você quando chegasse."</DefaultText>
+      <DefaultText>"[url=glossary:as vozes de nerat]As Vozes de Nerat[/url] me disse para falar com você quando chegasse."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>"Claro! Recebi uma missiva mencionando que você chegaria. Receio não ter muito a dizer no momento além do mestre [url=glossary:forge-bound]Vinculado à Forja[/url] que chegou em [url=glossary:lethian's crossing]A Travessia de Lethian[/url]. Você provavelmente deveria ir à forja e descobrir o que está acontecendo. O [url=glossary:forge-bound]Vinculado à Forja[/url] e eu não estamos nos melhores termos..."</DefaultText>
+      <DefaultText>"Claro! Recebi uma missiva mencionando que você chegaria. Receio não ter muito a dizer no momento além do mestre [url=glossary:forge-bound]Vinculado à Forja[/url] que chegou em [url=glossary:travessia de lethian]Travessia de Lethian[/url]. Você provavelmente deveria ir à forja e descobrir o que está acontecendo. O [url=glossary:forge-bound]Vinculado à Forja[/url] e eu não estamos nos melhores termos..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>"Claro! Recebi uma missiva mencionando que você chegaria. Receio não ter muito a dizer no momento além do mestre [url=glossary:forge-bound]Vinculado à Forja[/url] está a caminho de [url=glossary:lethian's crossing]A Travessia de Lethian[/url]. "
+      <DefaultText>"Claro! Recebi uma missiva mencionando que você chegaria. Receio não ter muito a dizer no momento além do mestre [url=glossary:forge-bound]Vinculado à Forja[/url] está a caminho de [url=glossary:travessia de lethian]Travessia de Lethian[/url]. "
 
 "Você provavelmente deveria falar com Esmagador de Camadas antes de fazer qualquer outra coisa na cidade. Ele pode ser um pouco sensível se for deixado de fora do circuito."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>105</ID>
-      <DefaultText>"Quais são seus pensamentos sobre o [url=glossary:bronze brotherhood]Irmandade de Bronze[/url]?"</DefaultText>
+      <DefaultText>"Quais são seus pensamentos sobre o [url=glossary:irmandade de bronze]Irmandade de Bronze[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -403,7 +403,7 @@ Ele percebe o que disse e cobre a boca. "Será que as vozes quer que eu os mante
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>Ele dá de ombros. "Eu não tenho visto muito deles nos últimos anos. Suponho que alguns dos meus clientes provavelmente estejam [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] disfarçados tentando conseguir suprimentos para seus acampamentos, mas nunca posso ter certeza. Isso realmente importa? Eu sou amigável com eles, mas não é como se eu fosse dar qualquer informação sensível para eles!"</DefaultText>
+      <DefaultText>Ele dá de ombros. "Eu não tenho visto muito deles nos últimos anos. Suponho que alguns dos meus clientes provavelmente estejam [url=glossary:irmandade de bronze]Irmandade de Bronze[/url] disfarçados tentando conseguir suprimentos para seus acampamentos, mas nunca posso ter certeza. Isso realmente importa? Eu sou amigável com eles, mas não é como se eu fosse dar qualquer informação sensível para eles!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -467,7 +467,7 @@ Ele percebe o que disse e cobre a boca. "Será que as vozes quer que eu os mante
       <ID>119</ID>
       <DefaultText>Os olhos de Harchiand se arregalam quando ele vê o Pedra angular. "Esse é um dos Pedra angulars para entrar no Muralhas Antigas!" Ele vira o Pedra angular em suas mãos enquanto fala. "Há apenas uma outra entrada que eu conheço e está em Rios gêmeos. É onde o fraternidade está hospedado, então provavelmente é onde eles estão entrando no Muralhas Antigas." Ele devolve o Pedra angular para você. "Se você for lá, tome cuidado!"
 
-"As coisas estão bem quietas aqui, então não acho que Raetommon tentará atacar novamente. Reforços do [url=glossary:scarlet chorus]Coro Escarlate[/url] estarão aparecendo em breve."</DefaultText>
+"As coisas estão bem quietas aqui, então não acho que Raetommon tentará atacar novamente. Reforços do [url=glossary:coro escarlate]Coro Escarlate[/url] estarão aparecendo em breve."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -484,14 +484,14 @@ Ele percebe o que disse e cobre a boca. "Será que as vozes quer que eu os mante
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>"[url=glossary:the voices of nerat]As vozes de Nerat[/url] me disse para falar com você."</DefaultText>
+      <DefaultText>"[url=glossary:as vozes de nerat]As Vozes de Nerat[/url] me disse para falar com você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
       <DefaultText>"Contanto que você não fale comigo do jeito que você falou com a guarnição!" Ele ri nervosamente. "Você euTenho que me perdoar no momento, Vinculador do Destino, mas não tenho tempo para conversar. Minha barraca está um pouco bagunçada depois do recente aborrecimento."
 
-"Word é o [url=glossary:forge-bound]Vinculado à Forja[/url] Mestre chegou em [url=glossary:lethian's crossing]A Travessia de Lethian[/url]. Você provavelmente deveria ir à forja para descobrir o que está acontecendo. Poderei falar com você depois de me orientar aqui." Ele aponta para o nível acima de você. "A forja está no segundo nível na parte de trás do Cruzando."</DefaultText>
+"Word é o [url=glossary:forge-bound]Vinculado à Forja[/url] Mestre chegou em [url=glossary:travessia de lethian]Travessia de Lethian[/url]. Você provavelmente deveria ir à forja para descobrir o que está acontecendo. Poderei falar com você depois de me orientar aqui." Ele aponta para o nível acima de você. "A forja está no segundo nível na parte de trás do Cruzando."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -511,7 +511,7 @@ Ele percebe o que disse e cobre a boca. "Será que as vozes quer que eu os mante
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>"Quero que você organize para que Eldian seja enviado para [url=glossary:the voices of nerat]As Vozes de Nerat[/url]."</DefaultText>
+      <DefaultText>"Quero que você organize para que Eldian seja enviado para [url=glossary:as vozes de nerat]As Vozes de Nerat[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -543,7 +543,7 @@ Ele percebe o que disse e cobre a boca. "Será que as vozes quer que eu os mante
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>"Você já vendeu informações para alguém além do [url=glossary:scarlet chorus]Coro Escarlate[/url]?"</DefaultText>
+      <DefaultText>"Você já vendeu informações para alguém além do [url=glossary:coro escarlate]Coro Escarlate[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -568,7 +568,7 @@ Ele percebe o que disse e cobre a boca. "Será que as vozes quer que eu os mante
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>Harchiand desvia o olhar de você, perdido em um mar de pensamentos. Ele acena para si mesmo depois de um momento. "Eu posso ver que você pode dizer um bom mentiroso quando você vê um. O mesmo acontece com o Arconte dos Segredos, que é precisamente para o que ele me paga." Ele respira fundo. "Eu posso ter escorregado propositalmente para Raetommon que o [url=glossary:forge-bound]Vinculado à Forja[/url] Mestre estava indo para [url=glossary:lethian's crossing]A Travessia de Lethian[/url], e talvez a intenção de sua visita . Veja bem, ele era a ferramenta perfeita para colocar o [url=glossary:forge-bound]Vinculado à Forja[/url] Mestre ao nosso alcance." Ele levanta as mãos. "E antes que você se levante sobre o que eu fiz, entenda que agi por conta própria. O The Voices não tem ideia de que eu estava por trás disso."</DefaultText>
+      <DefaultText>Harchiand desvia o olhar de você, perdido em um mar de pensamentos. Ele acena para si mesmo depois de um momento. "Eu posso ver que você pode dizer um bom mentiroso quando você vê um. O mesmo acontece com o Arconte dos Segredos, que é precisamente para o que ele me paga." Ele respira fundo. "Eu posso ter escorregado propositalmente para Raetommon que o [url=glossary:forge-bound]Vinculado à Forja[/url] Mestre estava indo para [url=glossary:travessia de lethian]Travessia de Lethian[/url], e talvez a intenção de sua visita . Veja bem, ele era a ferramenta perfeita para colocar o [url=glossary:forge-bound]Vinculado à Forja[/url] Mestre ao nosso alcance." Ele levanta as mãos. "E antes que você se levante sobre o que eu fiz, entenda que agi por conta própria. O The Voices não tem ideia de que eu estava por trás disso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -628,12 +628,12 @@ Ele percebe o que disse e cobre a boca. "Será que as vozes quer que eu os mante
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>Ele olha ao redor e balança a mão dramaticamente para frente e para trás. "Tenho que perguntar do que se trata. Já é difícil fazer negócios com a guerra e a ocupação e agora temos que lidar com isso!" Ele sorri. "Mas se aguentar um [url=glossary:edict]Edital[/url] for a pior coisa que tenho que suportar, farei isso com a graça sem esforço pela qual sou conhecido!"</DefaultText>
+      <DefaultText>Ele olha ao redor e balança a mão dramaticamente para frente e para trás. "Tenho que perguntar do que se trata. Já é difícil fazer negócios com a guerra e a ocupação e agora temos que lidar com isso!" Ele sorri. "Mas se aguentar um [url=glossary:edital]Edital[/url] for a pior coisa que tenho que suportar, farei isso com a graça sem esforço pela qual sou conhecido!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>"O que traz uma potência como você para [url=glossary:lethian's crossing]A Travessia de Lethian[/url]? Depois o [url=glossary:edict]Edital[/url] em [url=glossary:vendrien's well]Poço de Vendrien[/url], eu assumi que você estaria começando seu próprio império e não confraternizando com o povo pequeno! Não que eu vá reclamar de ter a chance de ficar lado a lado com a elite!"</DefaultText>
+      <DefaultText>"O que traz uma potência como você para [url=glossary:travessia de lethian]Travessia de Lethian[/url]? Depois o [url=glossary:edital]Edital[/url] em [url=glossary:poço de vendrien]Poço de Vendrien[/url], eu assumi que você estaria começando seu próprio império e não confraternizando com o povo pequeno! Não que eu vá reclamar de ter a chance de ficar lado a lado com a elite!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -643,12 +643,12 @@ Ele percebe o que disse e cobre a boca. "Será que as vozes quer que eu os mante
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>"Sim, sim... Você sabe. No começo eu me perguntei se você era a pessoa com quem eu deveria falar, já que você não mencionou nada para mim da última vez que conversamos. Você nunca pode ser muito cuidadoso, especialmente quando [url=glossary:the voices of nerat]As Vozes de Nerat[/url] está envolvido. Isso é ruim o suficiente para não podermos conversar antes, mas agora isso? Isso é simplesmente inaceitável!"</DefaultText>
+      <DefaultText>"Sim, sim... Você sabe. No começo eu me perguntei se você era a pessoa com quem eu deveria falar, já que você não mencionou nada para mim da última vez que conversamos. Você nunca pode ser muito cuidadoso, especialmente quando [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] está envolvido. Isso é ruim o suficiente para não podermos conversar antes, mas agora isso? Isso é simplesmente inaceitável!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>"Sim, sim... Você sabe. No começo eu me perguntei se você era a pessoa com quem eu deveria falar, já que você não veio me ver antes de falar com Zdenya. Você nunca pode ser muito cuidadoso, especialmente quando [url=glossary:the voices of nerat]As Vozes de Nerat[/url] está envolvido. Isso é ruim o suficiente para não podermos conversar antes, mas agora isso? Isso é simplesmente inaceitável!"</DefaultText>
+      <DefaultText>"Sim, sim... Você sabe. No começo eu me perguntei se você era a pessoa com quem eu deveria falar, já que você não veio me ver antes de falar com Zdenya. Você nunca pode ser muito cuidadoso, especialmente quando [url=glossary:as vozes de nerat]As Vozes de Nerat[/url] está envolvido. Isso é ruim o suficiente para não podermos conversar antes, mas agora isso? Isso é simplesmente inaceitável!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -670,14 +670,14 @@ Ele percebe o que disse e cobre a boca. "Será que as vozes quer que eu os mante
       <ID>161</ID>
       <DefaultText>"E você é o Vinculador do Destino! Eu te reconheceria em qualquer lugar. E com uma lista de ações tão longa quanto a sua, eu ficaria surpreso se houvesse alguém no Camadas que não o fez!"
 
-"Você acabou com o [url=glossary:edict]Edital[/url] de Tempestades na Fortaleza Sentinela , não você. Essa é uma história que as pessoas contarão nos próximos anos!"</DefaultText>
+"Você acabou com o [url=glossary:edital]Edital[/url] de Tempestades na Fortaleza Sentinela , não você. Essa é uma história que as pessoas contarão nos próximos anos!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
       <DefaultText>"E você é o Vinculador do Destino! Eu te reconheceria em qualquer lugar. E com uma lista de ações tão longa quanto a sua, eu ficaria surpreso se houvesse alguém no Camadas que não o fez!"
 
-"Você mergulhou de cabeça no [url=glossary:edict]Edital[/url] de Tempestades e reivindicou o Sentinel Stand Keep! Contos de sua bravura - ou insanidade - vão entreter as pessoas por anos!"</DefaultText>
+"Você mergulhou de cabeça no [url=glossary:edital]Edital[/url] de Tempestades e reivindicou o Sentinel Stand Keep! Contos de sua bravura - ou insanidade - vão entreter as pessoas por anos!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -754,7 +754,7 @@ Ele faz uma pausa, coçando o queixo em pensamento. "Eldian também, pense nisso
     </Entry>
     <Entry>
       <ID>178</ID>
-      <DefaultText>"Isso não explica por que um grupo de [url=glossary:bronze brotherhood]Irmandade de Bronze[/url] estava querendo me matar."</DefaultText>
+      <DefaultText>"Isso não explica por que um grupo de [url=glossary:irmandade de bronze]Irmandade de Bronze[/url] estava querendo me matar."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

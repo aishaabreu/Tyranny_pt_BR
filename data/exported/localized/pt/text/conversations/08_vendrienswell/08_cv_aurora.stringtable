@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"O infrator mata um [url=glossary:disfavored]Desfavorecido[/url] e você mostra uma mão branda? Uma triste desculpa para a justiça..."</DefaultText>
+      <DefaultText>"O infrator mata um [url=glossary:desfavorecido]Desfavorecido[/url] e você mostra uma mão branda? Uma triste desculpa para a justiça..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,17 +16,17 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Há quanto tempo você está com o [url=glossary:disfavored]Desfavorecido[/url]?"</DefaultText>
+      <DefaultText>"Há quanto tempo você está com o [url=glossary:desfavorecido]Desfavorecido[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Qual é a situação aqui em [url=glossary:vendrien's well]Poço de Vendrien[/url]?"</DefaultText>
+      <DefaultText>"Qual é a situação aqui em [url=glossary:poço de vendrien]Poço de Vendrien[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"O que você pode me dizer sobre o [url=glossary:vendrien guard]Guarda Vendrien[/url]?"</DefaultText>
+      <DefaultText>"O que você pode me dizer sobre o [url=glossary:guarda vendrien]Guarda Vendrien[/url]?"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,7 +76,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>"Eles são o último suspiro do [url=glossary:younger realms]Reinos mais jovens[/url]. Entre eles estão guerreiros que escaparam do cerco [url=glossary:bastard city]Cidade bastarda[/url], alguns refugiados de outras vitórias e um monte de Vendrien moradores com delírios de independência."</DefaultText>
+      <DefaultText>"Eles são o último suspiro do [url=glossary:reinos mais jovens]Reinos Mais Jovens[/url]. Entre eles estão guerreiros que escaparam do cerco [url=glossary:cidade bastarda]Cidade Bastarda[/url], alguns refugiados de outras vitórias e um monte de Vendrien moradores com delírios de independência."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,12 +91,12 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Sei que estaríamos muito mais longe se o [url=glossary:scarlet chorus]Coro Escarlate[/url] usasse sua suposta 'força em números' para atravessar o rio e dominar o inimigo." Aurora olha para Versículo com ar de desaprovação. "Assim como está, devemos tomar o vale devagar e avançar o [url=glossary:disfavored]Desfavorecido[/url] baluarte, pois é aí que o trabalho real é feito."</DefaultText>
+      <DefaultText>"Sei que estaríamos muito mais longe se o [url=glossary:coro escarlate]Coro Escarlate[/url] usasse sua suposta 'força em números' para atravessar o rio e dominar o inimigo." Aurora olha para Versículo com ar de desaprovação. "Assim como está, devemos tomar o vale devagar e avançar o [url=glossary:desfavorecido]Desfavorecido[/url] baluarte, pois é aí que o trabalho real é feito."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Porque bastam números para atravessar um rio sob uma chuva de flechas? Se o [url=glossary:disfavored]Desfavorecido[/url] fosse mais rápido para agir, talvez o [url=glossary:vendrien guard]Guarda Vendrien[/url] não estivesse tão treinado para nos enfrentar!"</DefaultText>
+      <DefaultText>"Porque bastam números para atravessar um rio sob uma chuva de flechas? Se o [url=glossary:desfavorecido]Desfavorecido[/url] fosse mais rápido para agir, talvez o [url=glossary:guarda vendrien]Guarda Vendrien[/url] não estivesse tão treinado para nos enfrentar!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -151,22 +151,22 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Eu não estava lá para ver você proclamar o [url=glossary:edict]Edital[/url] de Tempestades, mas vi a devastação atingir Robusto e tomar várias coortes de [url=glossary:disfavored]Desfavorecido[/url] com ele..." Ela fecha os olhos e balança a cabeça.</DefaultText>
+      <DefaultText>"Eu não estava lá para ver você proclamar o [url=glossary:edital]Edital[/url] de Tempestades, mas vi a devastação atingir Robusto e tomar várias coortes de [url=glossary:desfavorecido]Desfavorecido[/url] com ele..." Ela fecha os olhos e balança a cabeça.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Eu ouvi sobre o [url=glossary:edict]Edital[/url] que você proclamou no [url=glossary:burning library]Biblioteca em chamas[/url], mas felizmente eu não estava lá. Um fogo foi o suficiente para mim."</DefaultText>
+      <DefaultText>"Eu ouvi sobre o [url=glossary:edital]Edital[/url] que você proclamou no [url=glossary:biblioteca em chamas]Biblioteca em chamas[/url], mas felizmente eu não estava lá. Um fogo foi o suficiente para mim."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Eu gostaria de ver o [url=glossary:edict]Edital[/url] de Pedra hit [url=glossary:cairn]Cairn[/url], mas estou mais grato por não ter marchar contra ele. Tenho certeza que você fez o que pôde para parar aquele louco."</DefaultText>
+      <DefaultText>"Eu gostaria de ver o [url=glossary:edital]Edital[/url] de Pedra hit [url=glossary:cairn]Cairn[/url], mas estou mais grato por não ter marchar contra ele. Tenho certeza que você fez o que pôde para parar aquele louco."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Acho que não fui a única tocada pelo [url=glossary:edict]Edital[/url] de Tempestades, fui?" Ela olha para Barik com evidente simpatia.</DefaultText>
+      <DefaultText>"Acho que não fui a única tocada pelo [url=glossary:edital]Edital[/url] de Tempestades, fui?" Ela olha para Barik com evidente simpatia.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

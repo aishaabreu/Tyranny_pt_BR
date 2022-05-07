@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>[url=glossary:armor]armaduras[/url] nunca pode reduzir o dano abaixo de 1.</DefaultText>
+      <DefaultText>[url=glossary:armadura]Armadura[/url] nunca pode reduzir o dano abaixo de 1.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,22 +56,22 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>A habilidade [url=glossary:athletics]Atletismo[/url] pode ser usada para intimidar personagens em conversas.</DefaultText>
+      <DefaultText>A habilidade [url=glossary:atletismo]Atletismo[/url] pode ser usada para intimidar personagens em conversas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>A habilidade [url=glossary:subterfuge]Subterfúgio[/url] pode ser usada para blefar ou enganar personagens em conversas.</DefaultText>
+      <DefaultText>A habilidade [url=glossary:subterfúgio]Subterfúgio[/url] pode ser usada para blefar ou enganar personagens em conversas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>A habilidade [url=glossary:lore]Conhecimento[/url] pode ser usada para impressionar personagens em conversas com seu conhecimento ou percepção.</DefaultText>
+      <DefaultText>A habilidade [url=glossary:conhecimento]Conhecimento[/url] pode ser usada para impressionar personagens em conversas com seu conhecimento ou percepção.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Habilitar [url=glossary:scouting]Escotismo[/url] Modo para ganhar um bônus para detectar contêineres ou armadilhas escondidas.</DefaultText>
+      <DefaultText>Habilitar [url=glossary:escotismo]Escotismo[/url] Modo para ganhar um bônus para detectar contêineres ou armadilhas escondidas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,7 +91,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Os personagens se tornam Ferido quando sua saúde é significativamente reduzida ou são Nocauteado. [url=glossary:wounds]Ferimentos[/url] são limpos quando um personagem ganha um novo nível ou o grupo descansa.</DefaultText>
+      <DefaultText>Os personagens se tornam Ferido quando sua saúde é significativamente reduzida ou são Nocauteado. [url=glossary:ferimentos]Ferimentos[/url] são limpos quando um personagem ganha um novo nível ou o grupo descansa.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -131,7 +131,7 @@
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Uma alta habilidade [url=glossary:lore]Conhecimento[/url] é necessária para criar as combinações de feitiços mais poderosas.</DefaultText>
+      <DefaultText>Uma alta habilidade [url=glossary:conhecimento]Conhecimento[/url] é necessária para criar as combinações de feitiços mais poderosas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,7 +161,7 @@
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>Os caracteres tornam-se Ferido quando são Nocauteado. No Caminho da dificuldade Maldito, os personagens também se tornam Ferido quando sua saúde é significativamente reduzida. [url=glossary:wounds]Ferimentos[/url] são limpos quando um personagem ganha um novo nível ou o grupo descansa.</DefaultText>
+      <DefaultText>Os caracteres tornam-se Ferido quando são Nocauteado. No Caminho da dificuldade Maldito, os personagens também se tornam Ferido quando sua saúde é significativamente reduzida. [url=glossary:ferimentos]Ferimentos[/url] são limpos quando um personagem ganha um novo nível ou o grupo descansa.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

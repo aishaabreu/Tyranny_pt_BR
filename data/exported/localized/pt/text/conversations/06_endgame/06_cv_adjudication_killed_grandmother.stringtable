@@ -6,8 +6,8 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Finalmente, o assassino se mostra perante o tribunal." O oficial [url=glossary:disfavored]Desfavorecido[/url] faz uma careta para você com desgosto.</DefaultText>
-      <FemaleText>"Finalmente, o assassino se mostra perante o tribunal." O oficial [url=glossary:disfavored]Desfavorecido[/url] faz uma careta para você com desgosto.</FemaleText>
+      <DefaultText>"Finalmente, o assassino se mostra perante o tribunal." O oficial [url=glossary:desfavorecido]Desfavorecido[/url] faz uma careta para você com desgosto.</DefaultText>
+      <FemaleText>"Finalmente, o assassino se mostra perante o tribunal." O oficial [url=glossary:desfavorecido]Desfavorecido[/url] faz uma careta para você com desgosto.</FemaleText>
     </Entry>
     <Entry>
       <ID>2</ID>
@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Albetronas aqui deseja puni-lo por matar seu mestre, o Marechal de Ferro. Você se lembra disso de [url=glossary:vendrien's well]Poço de Vendrien[/url], é claro."</DefaultText>
+      <DefaultText>"Albetronas aqui deseja puni-lo por matar seu mestre, o Marechal de Ferro. Você se lembra disso de [url=glossary:poço de vendrien]Poço de Vendrien[/url], é claro."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,7 +41,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"O entusiasmo pode ser um estorvo para a força militar. Os [url=glossary:disfavored]Desfavorecido[/url] são tipicamente mais medidos e regimentados, mas já vi muitas ocasiões em que a autoridade era seu próprio fardo."</DefaultText>
+      <DefaultText>"O entusiasmo pode ser um estorvo para a força militar. Os [url=glossary:desfavorecido]Desfavorecido[/url] são tipicamente mais medidos e regimentados, mas já vi muitas ocasiões em que a autoridade era seu próprio fardo."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Será que ela? Eu me pergunto que você saiba disso com tanta confiança. Os [url=glossary:disfavored]Desfavorecido[/url] são rígidos adeptos à lei de [url=glossary:kyros]Kyros[/url]. Eles não se comprometem sem sanção legal."</DefaultText>
+      <DefaultText>"Será que ela? Eu me pergunto que você saiba disso com tanta confiança. Os [url=glossary:desfavorecido]Desfavorecido[/url] são rígidos adeptos à lei de [url=glossary:kyros]Kyros[/url]. Eles não se comprometem sem sanção legal."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,12 +76,12 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>"Assim seja. Depois de ponderar o assunto, o tribunal o considera inocente das acusações. Normalmente, eu não aceitaria o tempo de guerra como uma defesa viável para suas ações. No entanto, estou disposto a olhar além do assunto. [url=glossary:vendrien's well]Poço de Vendrien[/url] caiu em guerra civil e caos na disputa para resolver [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url]. Lealdades foram questionadas por toda parte."</DefaultText>
+      <DefaultText>"Assim seja. Depois de ponderar o assunto, o tribunal o considera inocente das acusações. Normalmente, eu não aceitaria o tempo de guerra como uma defesa viável para suas ações. No entanto, estou disposto a olhar além do assunto. [url=glossary:poço de vendrien]Poço de Vendrien[/url] caiu em guerra civil e caos na disputa para resolver [url=glossary:edital]Edital[/url] de [url=glossary:kyros]Kyros[/url]. Lealdades foram questionadas por toda parte."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>"[url=glossary:graven ashe]Cinza Esculpida[/url] vai saber disso. Marque minhas palavras." Albetronas aperta os punhos, produzindo um guincho de ferro que ecoa pela quadra.</DefaultText>
+      <DefaultText>"[url=glossary:cinza esculpida]Cinza Esculpida[/url] vai saber disso. Marque minhas palavras." Albetronas aperta os punhos, produzindo um guincho de ferro que ecoa pela quadra.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

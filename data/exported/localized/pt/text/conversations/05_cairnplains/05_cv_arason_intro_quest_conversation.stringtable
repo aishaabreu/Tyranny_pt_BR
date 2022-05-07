@@ -36,23 +36,23 @@
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Nós vamos, eu sou seu homem para qualquer coisa que você precisar. Armas? Tenho alguns que funcionam. [url=glossary:armor]armaduras[/url]? Desde que você goste dele cortado. Precisa de uma ovelha? Tenho ovelhas."
+      <DefaultText>"Nós vamos, eu sou seu homem para qualquer coisa que você precisar. Armas? Tenho alguns que funcionam. [url=glossary:armadura]Armadura[/url]? Desde que você goste dele cortado. Precisa de uma ovelha? Tenho ovelhas."
 
 "Também troco relíquias, mas há muito tempo que não tenho uma boa. Embora... talvez você possa mudar isso."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Quando o Azure dividido em [url=glossary:stone sea]Mar de Pedra[/url], as planícies surgiram, instantaneamente devastadas. Muita gente foi engolida. Muitos assentamentos foram cuspidos. Agora, é uma história triste, mas o resto de nós - temos que viver. Desenhe nossos próprios destinos." 
+      <DefaultText>"Quando o Azure dividido em [url=glossary:mar de pedra]Mar de Pedra[/url], as planícies surgiram, instantaneamente devastadas. Muita gente foi engolida. Muitos assentamentos foram cuspidos. Agora, é uma história triste, mas o resto de nós - temos que viver. Desenhe nossos próprios destinos." 
 
 Arason esfrega as mãos trêmulas e nodosas, manchadas de fígado. Ele lambe os lábios secos e rachados.
 
-"Você já ouviu falar do Everwell, não ouviu? Nós vamos, há rumores de ter surgido recentemente no [url=glossary:stone sea]Mar de Pedra[/url]."</DefaultText>
+"Você já ouviu falar do Everwell, não ouviu? Nós vamos, há rumores de ter surgido recentemente no [url=glossary:mar de pedra]Mar de Pedra[/url]."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>"Não só é cravejado de joias, mas o Everwell's é uma relíquia de origens arcanas. Todo azuriano conhece as histórias do tinteiro azul que nunca secou, que desapareceu em um respingo de pedra durante o [url=glossary:edict]Edital[/url]. Deveria pensar que o Sábios pagaria um bom centavo por uma ferramenta tão boa. Encontre-o e estaremos nadando em tinta e anéis."</DefaultText>
+      <DefaultText>"Não só é cravejado de joias, mas o Everwell's é uma relíquia de origens arcanas. Todo azuriano conhece as histórias do tinteiro azul que nunca secou, que desapareceu em um respingo de pedra durante o [url=glossary:edital]Edital[/url]. Deveria pensar que o Sábios pagaria um bom centavo por uma ferramenta tão boa. Encontre-o e estaremos nadando em tinta e anéis."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -97,7 +97,7 @@ Arason esfrega as mãos trêmulas e nodosas, manchadas de fígado. Ele lambe os 
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"O Azure não é mais o lugar mais seguro para se viver. A maioria das pessoas em [Plainsgate] morreu ou fugiu durante o tumulto, embora admitamos que não sofremos o impacto disso. Qualquer maneira, os que sobraram logo voltaram os olhos para as riquezas espalhadas no chão do [url=glossary:stone sea]Mar de Pedra[/url]." 
+      <DefaultText>"O Azure não é mais o lugar mais seguro para se viver. A maioria das pessoas em [Plainsgate] morreu ou fugiu durante o tumulto, embora admitamos que não sofremos o impacto disso. Qualquer maneira, os que sobraram logo voltaram os olhos para as riquezas espalhadas no chão do [url=glossary:mar de pedra]Mar de Pedra[/url]." 
 
 O velho coça um ombro magro.
 
@@ -106,7 +106,7 @@ O velho coça um ombro magro.
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Não muitos. O andar do [url=glossary:stone sea]Mar de Pedra[/url] é perigoso, e as pessoas geralmente morrem enquanto procuram tesouros perdidos. Costumava ser terra de cultivo. Uma cama verde rolante até onde a vista alcançava. Alimentado todo o Reinos." O velho balança a cabeça tristemente. "Agora olhe para ela. Nada além de fragmentos de rocha e ruínas."</DefaultText>
+      <DefaultText>"Não muitos. O andar do [url=glossary:mar de pedra]Mar de Pedra[/url] é perigoso, e as pessoas geralmente morrem enquanto procuram tesouros perdidos. Costumava ser terra de cultivo. Uma cama verde rolante até onde a vista alcançava. Alimentado todo o Reinos." O velho balança a cabeça tristemente. "Agora olhe para ela. Nada além de fragmentos de rocha e ruínas."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -161,7 +161,7 @@ O velho coça um ombro magro.
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Não sei, Vinculador do Destino! Mas posso direcioná-lo para Apedrejar - a encruzilhada do [url=glossary:stone sea]Mar de Pedra[/url]. Ele o levará a praticamente qualquer outro lugar da região... principalmente."</DefaultText>
+      <DefaultText>"Não sei, Vinculador do Destino! Mas posso direcioná-lo para Apedrejar - a encruzilhada do [url=glossary:mar de pedra]Mar de Pedra[/url]. Ele o levará a praticamente qualquer outro lugar da região... principalmente."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -171,7 +171,7 @@ O velho coça um ombro magro.
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Do jeito que eu ouvi a história, o Everwell foi originalmente feito pelo Sábios, mas em 238, [url=glossary:sage]Sábio[/url] Analisando Cotovia ofendeu o Rainha de Azure em um visitar e nunca mais voltou vivo. Desde o Everwell estava perto o suficiente de Azure em cores para divertir o Rainha, ela guardou a relíquia para si mesma, então a usou para escrever o Sábios uma nota de agradecimento pelo presente. Nós o roubamos em 246, então de alguma forma o perdemos novamente em 350 de uma maneira tão humilhante e idiota que meus irmãos não conseguiram notar o porquê nas histórias..."</DefaultText>
+      <DefaultText>"Do jeito que eu ouvi a história, o Everwell foi originalmente feito pelo Sábios, mas em 238, [url=glossary:sábio]Sábio[/url] Analisando Cotovia ofendeu o Rainha de Azure em um visitar e nunca mais voltou vivo. Desde o Everwell estava perto o suficiente de Azure em cores para divertir o Rainha, ela guardou a relíquia para si mesma, então a usou para escrever o Sábios uma nota de agradecimento pelo presente. Nós o roubamos em 246, então de alguma forma o perdemos novamente em 350 de uma maneira tão humilhante e idiota que meus irmãos não conseguiram notar o porquê nas histórias..."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -206,7 +206,7 @@ O velho coça um ombro magro.
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>"O [url=glossary:scarlet chorus]Coro Escarlate[/url] quase extinguiu o pequeno espírito que o povo de [Plainsgate] havia deixado desde que a praga começou. Eu posso ver um vislumbre de esperança voltando para eles agora. Eu gostaria de mostrar minha gratidão oferecendo a você um preço especial em todos os meus produtos, Vinculador do Destino."</DefaultText>
+      <DefaultText>"O [url=glossary:coro escarlate]Coro Escarlate[/url] quase extinguiu o pequeno espírito que o povo de [Plainsgate] havia deixado desde que a praga começou. Eu posso ver um vislumbre de esperança voltando para eles agora. Eu gostaria de mostrar minha gratidão oferecendo a você um preço especial em todos os meus produtos, Vinculador do Destino."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

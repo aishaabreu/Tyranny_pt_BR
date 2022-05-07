@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>O guarda do portão ergue uma mão de advertência. "Não vá mais longe. Você se aproxima do chão [url=glossary:disfavored]Desfavorecido[/url]. Informe sua empresa."</DefaultText>
+      <DefaultText>O guarda do portão ergue uma mão de advertência. "Não vá mais longe. Você se aproxima do chão [url=glossary:desfavorecido]Desfavorecido[/url]. Informe sua empresa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Entendido," sua postura relaxa, sua arma baixa. "Em nome do [url=glossary:disfavored]Desfavorecido[/url], dou as boas-vindas ao nosso acampamento. Os Arcontes estão reunidos na tenda de guerra - siga direto pelo portão."</DefaultText>
+      <DefaultText>"Entendido," sua postura relaxa, sua arma baixa. "Em nome do [url=glossary:desfavorecido]Desfavorecido[/url], dou as boas-vindas ao nosso acampamento. Os Arcontes estão reunidos na tenda de guerra - siga direto pelo portão."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -31,7 +31,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>[url=lore:proclaim_storms]"O Conjurador da Tempestade chegou!"[/url] O guarda acena com a cabeça quando você se aproxima. "É uma honra recebê-lo no [url=glossary:disfavored]Desfavorecido[/url] acampamento! Devo foi uma terrível honra ser o porta-voz da magia de [url=glossary:kyros]Kyros[/url], seu sortudo!"</DefaultText>
+      <DefaultText>[url=lore:proclaim_storms]"O Conjurador da Tempestade chegou!"[/url] O guarda acena com a cabeça quando você se aproxima. "É uma honra recebê-lo no [url=glossary:desfavorecido]Desfavorecido[/url] acampamento! Devo foi uma terrível honra ser o porta-voz da magia de [url=glossary:kyros]Kyros[/url], seu sortudo!"</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,12 +71,12 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Ah, então você é [url=lore:proclaim_fire]o Incendiário?[/url] Ceveus e as empresas que retornam do [url=glossary:burning library]Biblioteca em chamas[/url] estão contando algumas histórias angustiantes sobre o [url=glossary:edict]Edital[/url] de [url=glossary:kyros]Kyros[/url] de Incêndio. Acho-me corajoso, mas estou feliz por ter estado longe de tudo. Deve ter sido uma honra aterrorizante ser o mensageiro de uma força tão justa."</DefaultText>
+      <DefaultText>"Ah, então você é [url=lore:proclaim_fire]o Incendiário?[/url] Ceveus e as empresas que retornam do [url=glossary:biblioteca em chamas]Biblioteca em chamas[/url] estão contando algumas histórias angustiantes sobre o [url=glossary:edital]Edital[/url] de [url=glossary:kyros]Kyros[/url] de Incêndio. Acho-me corajoso, mas estou feliz por ter estado longe de tudo. Deve ter sido uma honra aterrorizante ser o mensageiro de uma força tão justa."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Bem, olhe para você - [url=lore:conq_gatecrasher]nosso Porteiro do Tribunal[/url] ainda está inteiro!" O guarda bate no peitoral em saudação. "Receber a [url=glossary:disfavored]Desfavorecido[/url] acampamento, sempre feliz por ter um aliado honrado nos fazendo uma visita."</DefaultText>
+      <DefaultText>"Bem, olhe para você - [url=lore:conq_gatecrasher]nosso Porteiro do Tribunal[/url] ainda está inteiro!" O guarda bate no peitoral em saudação. "Receber a [url=glossary:desfavorecido]Desfavorecido[/url] acampamento, sempre feliz por ter um aliado honrado nos fazendo uma visita."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,7 +101,7 @@
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Você finalmente chegou!" O [url=glossary:disfavored]Desfavorecido[/url] se vira para o outro guarda. "Esse não é qualquer Vinculador do Destino, este é o Conjurador da Tempestade! [Player Name] lutou conosco até o Portões do Julgamento - serviu na linha de frente, vi com meus próprios olhos." O guarda olha para você, balançando a cabeça lentamente. "Nós somose homenageado[url=glossary:tunon]Tunon[/url]enviei você."</DefaultText>
+      <DefaultText>"Você finalmente chegou!" O [url=glossary:desfavorecido]Desfavorecido[/url] se vira para o outro guarda. "Esse não é qualquer Vinculador do Destino, este é o Conjurador da Tempestade! [Player Name] lutou conosco até o Portões do Julgamento - serviu na linha de frente, vi com meus próprios olhos." O guarda olha para você, balançando a cabeça lentamente. "Nós somose homenageado[url=glossary:tunon]Tunon[/url]enviei você."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,7 +111,7 @@
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>[Saudação] "[url=glossary:graven ashe]Cinza Esculpida[/url] protege."</DefaultText>
+      <DefaultText>[Saudação] "[url=glossary:cinza esculpida]Cinza Esculpida[/url] protege."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -131,7 +131,7 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Vidas foram perdidas quando proclamei o [url=glossary:edict]Edital[/url] de Tempestades, soldado. Não compartilho sua boa lembrança."</DefaultText>
+      <DefaultText>"Vidas foram perdidas quando proclamei o [url=glossary:edital]Edital[/url] de Tempestades, soldado. Não compartilho sua boa lembrança."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
